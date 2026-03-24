@@ -1,0 +1,19 @@
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+.env
+.env.*
+!.env.example
+
+# tutor_analyse：Firecrawl 缓存的 Markdown
+byboy/agents/tutor_inf/tutor_analyse/cache/
+
+# tutor_analyse_vision：HTML 会话缓存与下载图片
+byboy/agents/tutor_inf/tutor_analyse_vision/cache/

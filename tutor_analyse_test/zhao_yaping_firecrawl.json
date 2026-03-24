@@ -1,0 +1,259 @@
+{
+  "meta": {
+    "tutor_name_cn": "赵亚平",
+    "request_url": "http://www.me.neu.edu.cn/2018/0218/c3185a82950/page.htm",
+    "declared_source_url": "http://www.me.neu.edu.cn/2018/0218/c3185a82950/page.htm",
+    "page_host": "www.me.neu.edu.cn",
+    "markdown_cache_path": "D:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\ccf01be639709015f5ce6a053ce27048c17f56e89e19099c1eabbb28c007b044.md",
+    "markdown_source": "firecrawl"
+  },
+  "extracted": {
+    "target_person": "赵亚平",
+    "source_url": "http://www.me.neu.edu.cn/2018/0218/c3185a82950/page.htm",
+    "page_metadata": {
+      "publish_date": "2018-02-18",
+      "view_count": 6147,
+      "responsible_editor": "admin"
+    },
+    "basic_info": {
+      "tags": [
+        "姓名",
+        "所属单位"
+      ],
+      "name": "赵亚平",
+      "university": "东北大学",
+      "college": "机械工程与自动化学院"
+    },
+    "images": [
+      {
+        "tags": [
+          "个人照片/资料图片"
+        ],
+        "url": "http://www.me.neu.edu.cn/_upload/article/images/11/f9/4e218a1f49d790d8f25f2028b261/3b385d47-fcb6-4269-9bc2-d3752ce73ed9.jpg",
+        "description": "页面第一张图片，疑为个人照片"
+      },
+      {
+        "tags": [
+          "资料图片"
+        ],
+        "filename": "1518957252626542.png",
+        "url": "http://www.me.neu.edu.cn/_upload/article/images/11/f9/4e218a1f49d790d8f25f2028b261/ab92aedc-3404-472b-89d0-05b434e19d99.png"
+      },
+      {
+        "tags": [
+          "资料图片"
+        ],
+        "filename": "0002.png",
+        "url": "http://www.me.neu.edu.cn/_upload/article/images/11/f9/4e218a1f49d790d8f25f2028b261/f683d71e-10b6-4ae6-9ea7-63855ba2e10e.png"
+      },
+      {
+        "tags": [
+          "资料图片"
+        ],
+        "filename": "1518957358466722.png",
+        "url": "http://www.me.neu.edu.cn/_upload/article/images/11/f9/4e218a1f49d790d8f25f2028b261/93b3f025-0c17-48ee-adca-945f6a1add9f.png"
+      },
+      {
+        "tags": [
+          "资料图片"
+        ],
+        "filename": "1518957402117825.png",
+        "url": "http://www.me.neu.edu.cn/_upload/article/images/11/f9/4e218a1f49d790d8f25f2028b261/1b0f7271-dced-4df5-a67b-7d86b67976e6.png"
+      }
+    ],
+    "notes": "该页面的主要内容以图片形式嵌入（共5张PNG/JPG图片），文字部分仅包含姓名标题'赵亚平'和发布元数据，个人详细信息（如职称、研究方向、教育经历、联系方式等）均包含在图片中，无法从Markdown文本中提取。",
+    "site_chrome": {
+      "tags": [
+        "导航栏",
+        "网站模板"
+      ],
+      "navigation": [
+        {
+          "label": "学院首页",
+          "url": "http://www.me.neu.edu.cn/main.htm"
+        },
+        {
+          "label": "学院概况",
+          "url": "http://www.me.neu.edu.cn/3183/list.htm",
+          "children": [
+            {
+              "label": "学院简介",
+              "url": "http://www.me.neu.edu.cn/3197/list.htm"
+            },
+            {
+              "label": "机构设置",
+              "url": "http://www.me.neu.edu.cn/3184/list.htm",
+              "children": [
+                {
+                  "label": "职能部门",
+                  "url": "http://www.me.neu.edu.cn/3202/list.htm"
+                },
+                {
+                  "label": "学术组织",
+                  "url": "http://www.me.neu.edu.cn/3203/list.htm"
+                },
+                {
+                  "label": "实验中心",
+                  "url": "http://www.me.neu.edu.cn/3204/list.htm"
+                }
+              ]
+            },
+            {
+              "label": "历史沿革",
+              "url": "http://www.me.neu.edu.cn/3198/list.htm"
+            },
+            {
+              "label": "学院领导",
+              "url": "http://www.me.neu.edu.cn/3200/list.htm"
+            },
+            {
+              "label": "学院文化",
+              "url": "http://www.me.neu.edu.cn/3201/list.htm"
+            }
+          ]
+        },
+        {
+          "label": "师资队伍",
+          "url": "http://www.me.neu.edu.cn/3205/list.htm",
+          "children": [
+            {
+              "label": "院士风采",
+              "url": "http://www.me.neu.edu.cn/3205/list.htm"
+            },
+            {
+              "label": "教师名录",
+              "url": "http://www.me.neu.edu.cn/3209/list.htm"
+            }
+          ]
+        },
+        {
+          "label": "科学研究",
+          "url": "http://www.me.neu.edu.cn/3187/list.htm",
+          "children": [
+            {
+              "label": "院学术委员会",
+              "url": "http://www.me.neu.edu.cn/yxswyh/list.htm"
+            },
+            {
+              "label": "学科概况",
+              "url": "http://www.me.neu.edu.cn/3210/list.htm"
+            },
+            {
+              "label": "科研动态",
+              "url": "http://www.me.neu.edu.cn/3215/list.htm"
+            },
+            {
+              "label": "双一流建设",
+              "url": "http://www.me.neu.edu.cn/3211/list.htm"
+            },
+            {
+              "label": "成果展示",
+              "url": "http://www.me.neu.edu.cn/3216/list.htm"
+            },
+            {
+              "label": "博士后流动站",
+              "url": "http://www.me.neu.edu.cn/3212/list.htm"
+            },
+            {
+              "label": "基地建设",
+              "url": "http://www.me.neu.edu.cn/3217/list.htm"
+            },
+            {
+              "label": "博士点",
+              "url": "http://www.me.neu.edu.cn/3213/list.htm"
+            },
+            {
+              "label": "硕士点",
+              "url": "http://www.me.neu.edu.cn/3214/list.htm"
+            }
+          ]
+        },
+        {
+          "label": "党建工作",
+          "url": "http://www.me.neu.edu.cn/3188/list.htm",
+          "children": [
+            {
+              "label": "组织架构",
+              "url": "http://www.me.neu.edu.cn/3218/list.htm"
+            },
+            {
+              "label": "工作指南",
+              "url": "http://www.me.neu.edu.cn/3219/list.htm"
+            },
+            {
+              "label": "光荣榜",
+              "url": "http://www.me.neu.edu.cn/3220/list.htm"
+            }
+          ]
+        },
+        {
+          "label": "本科生教育",
+          "url": "http://www.me.neu.edu.cn/3189/list.htm",
+          "children": [
+            {
+              "label": "本科生管理",
+              "url": "http://www.me.neu.edu.cn/3221/list.htm"
+            },
+            {
+              "label": "本科生招生",
+              "url": "http://www.me.neu.edu.cn/3222/list.htm"
+            },
+            {
+              "label": "本科生培养",
+              "url": "http://www.me.neu.edu.cn/3223/list.htm"
+            }
+          ]
+        },
+        {
+          "label": "研究生教育",
+          "url": "http://www.me.neu.edu.cn/3190/list.htm",
+          "children": [
+            {
+              "label": "院学位评定分委员会",
+              "url": "http://www.me.neu.edu.cn/3327/list.htm"
+            },
+            {
+              "label": "招生工作",
+              "url": "http://www.me.neu.edu.cn/3328/list.htm"
+            },
+            {
+              "label": "教学培养",
+              "url": "http://www.me.neu.edu.cn/3329/list.htm"
+            },
+            {
+              "label": "学位工作",
+              "url": "http://www.me.neu.edu.cn/3330/list.htm"
+            },
+            {
+              "label": "导师介绍",
+              "url": "http://www.me.neu.edu.cn/3331/list.htm",
+              "children": [
+                {
+                  "label": "博士生导师",
+                  "url": "http://www.me.neu.edu.cn/10643/list.htm"
+                },
+                {
+                  "label": "硕士生导师",
+                  "url": "http://www.me.neu.edu.cn/10644/list.htm"
+                }
+              ]
+            },
+            {
+              "label": "联合培养项目",
+              "url": "http://www.me.neu.edu.cn/3332/list.htm"
+            },
+            {
+              "label": "双学位项目",
+              "url": "http://www.me.neu.edu.cn/3333/list.htm"
+            }
+          ]
+        },
+        {
+          "label": "学生工作",
+          "url": "http://www.me.neu.edu.cn/3191/list.htm"
+        }
+      ],
+      "visit_counter_url": "http://www.me.neu.edu.cn/_visitcount?siteId=53&type=3&articleId=82950"
+    }
+  }
+}
