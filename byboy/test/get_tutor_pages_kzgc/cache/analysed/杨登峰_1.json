@@ -1,0 +1,407 @@
+{
+  "meta": {
+    "tutor_name_cn": "杨登峰",
+    "request_url": "https://kzgc.neuq.edu.cn/info/1022/1204.htm",
+    "declared_source_url": "https://kzgc.neuq.edu.cn/info/1022/1204.htm",
+    "page_host": "kzgc.neuq.edu.cn",
+    "markdown_cache_path": "I:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\ed5a362d86dcf8a54af21792841a3d04a46f1e540d92096f0aa8f936d99a6f0e.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "target_name": "杨登峰",
+    "source_url": "https://kzgc.neuq.edu.cn/info/1022/1204.htm",
+    "site_chrome": {
+      "breadcrumbs": [
+        {
+          "anchor_text": "首页",
+          "url": "https://kzgc.neuq.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://kzgc.neuq.edu.cn/szdw/zrjs.htm"
+        },
+        {
+          "anchor_text": "专任教师",
+          "url": "https://kzgc.neuq.edu.cn/szdw/zrjs.htm"
+        },
+        {
+          "anchor_text": "机械与动力工程系",
+          "url": "https://kzgc.neuq.edu.cn/szdw/zrjs/jxydlgcx1.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "pagination_links": {
+        "previous": {
+          "anchor_text": "李明",
+          "url": "https://kzgc.neuq.edu.cn/info/1022/1203.htm"
+        },
+        "next": {
+          "anchor_text": "周云光",
+          "url": "https://kzgc.neuq.edu.cn/info/1022/1205.htm"
+        }
+      }
+    },
+    "metadata": {
+      "publish_time": "2018-10-19",
+      "click_count": null
+    },
+    "personal_info": {
+      "name": "杨登峰",
+      "gender": "男",
+      "birth_date": "1985.05",
+      "degree": "博士",
+      "titles": [
+        "副教授",
+        "硕士生导师"
+      ]
+    },
+    "contact_info": {
+      "email": "dfqiuchong@126.com",
+      "office_location": "东北大学秦皇岛分校南校区科技楼2034房间",
+      "phone": "18311178860",
+      "mailing_address": "066004 河北省秦皇岛市开发区泰山路143号"
+    },
+    "research_directions": [
+      "叶轮机械气动热力学/叶轮机械气动设计及流动控制",
+      "氢燃料汽车进气系统/无油离心空压机技术",
+      "余热回收发电装置",
+      "涡轮增压系统VNT技术"
+    ],
+    "education_background": [
+      {
+        "start_date": "2014.09",
+        "end_date": "2018.06",
+        "institution": "北京理工大学",
+        "major": "动力机械及工程专业",
+        "degree": "博士"
+      },
+      {
+        "start_date": "2016.07",
+        "end_date": "2017.08",
+        "institution": "密歇根大学 (University of Michigan)",
+        "program_type": "联合培养"
+      }
+    ],
+    "work_experience": [
+      {
+        "start_date": "2016.07",
+        "end_date": "2017.08",
+        "organization": "美国福特汽车公司RIC (Research and Innovation Center)",
+        "position": null
+      },
+      {
+        "start_date": "2018.08",
+        "end_date": "2022.12",
+        "organization": "东北大学秦皇岛分校",
+        "position": "讲师"
+      },
+      {
+        "start_date": "2023.01",
+        "end_date": "至今",
+        "organization": "东北大学秦皇岛分校",
+        "position": "副教授"
+      }
+    ],
+    "academic_professional_appointments": [
+      "国家自然科学基金通讯评审专家",
+      "河北省燃料电池标准化技术委员会委员",
+      "中国工程热物理学会会员",
+      "北美华人发动机工程师协会(NAACEE)会员",
+      "河北省燕赵英才（A）",
+      "无锡太湖计划创新创业领军人才",
+      "ASME、Pro. ImechE Part B、Pro. ImechE Part D等期刊审稿人"
+    ],
+    "research_projects": {
+      "ongoing": [
+        {
+          "name": "高速电动空压机技术开发",
+          "start_date": "2023.09",
+          "end_date": "2024.09",
+          "funding": "40万",
+          "role": null
+        },
+        {
+          "name": "燃料电池空压机若干关键技术研发",
+          "type": "横向课题",
+          "start_date": "2020.01",
+          "end_date": "2024.12",
+          "funding": "110万",
+          "role": "主持"
+        }
+      ],
+      "completed": [
+        {
+          "name": "国家自然科学基金面上项目",
+          "project_number": "516760142",
+          "role": "参与完成"
+        },
+        {
+          "name": "教育部中央高校基本科研业务费，启动与提升项目",
+          "project_number": "N182303033",
+          "role": "主持完成"
+        },
+        {
+          "name": "国际联合项目",
+          "details": "(福特汽车URP项目)",
+          "role": "主持完成"
+        },
+        {
+          "name": "国家自然科学基金青年基金项目",
+          "project_number": "52006027",
+          "start_date": "2021.01",
+          "end_date": "2023.12",
+          "role": "主持完成"
+        },
+        {
+          "name": "河北省自然科学基金面上项目",
+          "project_number": "E2021501028",
+          "start_date": "2021.01",
+          "end_date": "2023.12",
+          "role": "主持完成"
+        },
+        {
+          "name": "教育部中央高校基本科研业务费培育项目",
+          "project_number": "N2123027",
+          "start_date": "2021.01",
+          "end_date": "2023.12",
+          "role": "主持完成"
+        },
+        {
+          "name": "东北大学秦皇岛分校博士启动项目",
+          "project_number": "N9060310952001",
+          "start_date": "2019.01",
+          "end_date": "2023.12",
+          "role": "主持完成"
+        },
+        {
+          "name": "高性能曝气鼓风机气动部分的研发设计",
+          "type": "横向课题",
+          "start_date": "2020.01",
+          "end_date": "2023.12",
+          "role": "主持完成"
+        },
+        {
+          "name": "大流量燃料电池空压机开发",
+          "type": "横向课题",
+          "start_date": "2023.06",
+          "end_date": "2023.09",
+          "role": "主持完成"
+        }
+      ]
+    },
+    "academic_achievements": {
+      "publications": [
+        {
+          "title": "An Investigation of the Performance and Internal Flow of Variable Nozzle Turbines with Split Sliding Guide Vanes.",
+          "authors": [
+            "Dengfeng Yang*",
+            "Kai Wang",
+            "Huaiyu Wang",
+            "Qian Zhang",
+            "Xinguo Lei",
+            "Leon Hu"
+          ],
+          "journal": "Machines",
+          "year": "2022",
+          "volume": "10",
+          "issue": "11",
+          "pages": "1084",
+          "ranking": "JCR Q2"
+        },
+        {
+          "title": "Effect of Interstage Pipeline on the Performance of Two-Stage Centrifugal Compressors for Automotive Hydrogen Fuel Cells.",
+          "authors": [
+            "Huaiyu Wang",
+            "Dengfeng Yang*",
+            "Zhengcan Zhu",
+            "Qian Zhang"
+          ],
+          "journal": "Appl. Sci.",
+          "year": "2023",
+          "volume": "13",
+          "issue": "1",
+          "pages": "503",
+          "ranking": "JCR Q2"
+        },
+        {
+          "title": "A detailed investigation of a variable nozzle turbine with novel forepart rotation guide vane",
+          "authors": [
+            "Dengfeng Yang",
+            "Ce Yang*",
+            "Dazhong Lao"
+          ],
+          "journal": "Proceedings of the IMechE, Part D: Journal of Automobile Engineering",
+          "volume": "233",
+          "issue": "4",
+          "pages": "994-1007",
+          "ranking": "JCR Q3"
+        },
+        {
+          "title": "Numerical investigation of the split sliding guide vane for a variable nozzle turbine",
+          "authors": [
+            "Dengfeng Yang",
+            "Ce Yang*",
+            "Leon Hu",
+            "J. James Yi",
+            "Eric Curtis",
+            "Margaret S. Wooldridge"
+          ],
+          "journal": "Proceedings of the IMechE, Part D: Journal of Automobile Engineering",
+          "volume": "233",
+          "issue": "8",
+          "pages": "2074-2084",
+          "ranking": "JCR Q3"
+        },
+        {
+          "title": "Experimental and numerical investigation on a novel gas turbocharging system for diesel engine power recovery at high altitude.",
+          "authors": [
+            "Dengfeng Yang*",
+            "Li’ang Cao",
+            "Yang Liu",
+            "Zhilian Zhang*"
+          ],
+          "journal": "Journal of Mechanical Science and Technology",
+          "volume": "33",
+          "issue": "10",
+          "pages": "5061–5072",
+          "ranking": "JCR Q3"
+        },
+        {
+          "title": "Investigations on the effect of guide vane thickness and solidity on shock and unsteady flow characteristic of VNT.",
+          "authors": [
+            "Dengfeng Yang*",
+            "Li’ang Cao",
+            "Ce Yag",
+            "Dazhong Lao*",
+            "Harold Sun"
+          ],
+          "journal": "Journal of Mechanical Science and Technology",
+          "volume": "34",
+          "issue": "6",
+          "pages": "5061–5072",
+          "ranking": "JCR Q3"
+        },
+        {
+          "title": "Design and numerical analysis of a forepart rotation vane for a variable nozzle turbine",
+          "authors": [
+            "Dengfeng Yang",
+            "Dazhong Lao*",
+            "Ce Yang",
+            "Leon Hu",
+            "Harold Sun"
+          ],
+          "journal": "International Journal of Turbo and Jet Engines",
+          "volume": "36",
+          "issue": "3",
+          "pages": "233-244",
+          "ranking": "JCR Q4"
+        },
+        {
+          "title": "Investigations on the Generation and Weakening of Shock Wave in a Radial Turbine with Variable Guide Vanes.",
+          "authors": [
+            "Dengfeng Yang*",
+            "Dazhong Lao",
+            "Ce Yang",
+            "Leon Hu",
+            "Harold Sun"
+          ],
+          "journal": "ASME Paper",
+          "paper_id": "GT2016-57047"
+        },
+        {
+          "title": "可调向心涡轮后加载型导叶设计和数值研究",
+          "authors": [
+            "杨登峰",
+            "杨策*",
+            "胡良军",
+            "孙惠民"
+          ],
+          "journal": "工程热物理学报",
+          "year": "2017",
+          "issue": "10",
+          "pages": "2130-2138",
+          "indexing": "EI"
+        },
+        {
+          "title": "混流涡轮可调导叶叶端泄漏损失的评估及减小方法研究",
+          "authors": [
+            "杨登峰",
+            "老大中*",
+            "杨策",
+            "胡良军",
+            "孙惠民",
+            "侯晓翔",
+            "王兴华",
+            "王营军"
+          ],
+          "journal": "工程热物理学报",
+          "indexing": "EI"
+        },
+        {
+          "title": "分体滑动导叶可调涡轮激波与载荷波动机制",
+          "authors": [
+            "杨登峰",
+            "潘俞舟",
+            "老大中*",
+            "Leon Hu"
+          ],
+          "journal": "中国机械工程",
+          "indexing": "EI"
+        }
+      ],
+      "patents": [
+        {
+          "inventors": [
+            "Leon Hu",
+            "Dengfeng Yang",
+            "Ben Zhao",
+            "James Yi"
+          ],
+          "title": "System and methods for a variable geometry turbine nozzle actuation.",
+          "patent_number": "US20190153889A1"
+        },
+        {
+          "inventors": [
+            "杨登峰",
+            "王凯",
+            "王怀雨",
+            "卢炤凯"
+          ],
+          "title": "一种可变几何涡轮喷嘴系统",
+          "patent_number": "2022 2 0860109.2"
+        },
+        {
+          "inventors": [
+            "杨登峰",
+            "王凯",
+            "王怀雨",
+            "朱正灿",
+            "张坦",
+            "王磊",
+            "高琦越"
+          ],
+          "title": "一种可调涡轮机的分体滑动双翼导叶",
+          "patent_number": "202221531873."
+        }
+      ]
+    },
+    "courses_taught": {
+      "undergraduate": [
+        "汽车构造"
+      ],
+      "graduate": [
+        "电动汽车概论（全英文）"
+      ]
+    },
+    "student_supervision": {
+      "graduate_students_count": 5,
+      "lab_description": "课题组建有“东北大学叶轮机械联合实验室”（面向研究生，对优秀本科生开放）"
+    }
+  }
+}

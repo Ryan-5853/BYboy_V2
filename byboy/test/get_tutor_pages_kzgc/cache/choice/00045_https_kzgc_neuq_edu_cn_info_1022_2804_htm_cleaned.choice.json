@@ -1,0 +1,58 @@
+{
+  "clickable_links": [
+    {
+      "url": "https://kzgc.neuq.edu.cn/index.htm",
+      "anchor_text": "首页",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/szdw/zrjs.htm",
+      "anchor_text": "师资队伍",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "命中名录关键词",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/szdw/zrjs.htm",
+      "anchor_text": "专任教师",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "命中名录关键词",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/szdw/zrjs/jxydlgcx1.htm",
+      "anchor_text": "机械与动力工程系",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL含师资队伍及部门名，锚文本是系名，可能包含教师列表。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1022/3694.htm",
+      "anchor_text": "上一篇：赵国华",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "锚文本显示“上一篇：人名”，高度可能指向该教师的个人主页。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1022/1203.htm",
+      "anchor_text": "下一篇：李明",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "锚文本显示“下一篇：人名”，高度可能指向该教师的个人主页。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    }
+  ]
+}

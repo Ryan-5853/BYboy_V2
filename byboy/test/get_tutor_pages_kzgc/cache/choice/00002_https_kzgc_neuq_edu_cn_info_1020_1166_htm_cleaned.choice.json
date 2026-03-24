@@ -1,0 +1,67 @@
+{
+  "clickable_links": [
+    {
+      "url": "https://kzgc.neuq.edu.cn/index.htm",
+      "anchor_text": "首页",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/szdw/zrjs.htm",
+      "anchor_text": "师资队伍",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "命中名录关键词",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/szdw/zrjs.htm",
+      "anchor_text": "专任教师",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "命中名录关键词",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/szdw/zrjs/zdhydqgcx1.htm",
+      "anchor_text": "自动化与电气工程系",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL路径包含师资队伍和专任教师，锚文本指向系部。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/__local/A/AC/9F/AB65E560A59A11FA316FFB8B851_982E3A59_9E8E.jpg",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "链接指向图片文件，非网页内容。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1020/1164.htm",
+      "anchor_text": "上一篇：郭戈",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "锚文本“上一篇：郭戈”指向上一个个人页面。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1020/1167.htm",
+      "anchor_text": "下一篇：高静",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "锚文本“下一篇：高静”指向下一个个人页面。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    }
+  ]
+}

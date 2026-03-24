@@ -18,9 +18,29 @@ def _packy_api_key_from_env() -> str:
     ).strip()
 
 
+def _vision_api_key_from_env() -> str:
+    return (
+        os.environ.get("PACKY_VISION_API_KEY")
+        or os.environ.get("PACKY_VISION_OPENAI_API_KEY")
+        or os.environ.get("PACKY_VISION_ANTHROPIC_API_KEY")
+        or _packy_api_key_from_env()
+    ).strip()
+
+
 def _openai_compat_base_v1_from_env() -> str:
     raw = (
         os.environ.get("PACKY_BASE_URL")
+        or os.environ.get("PACKYAPI_BASE_URL")
+        or "https://www.packyapi.com"
+    ).strip().rstrip("/")
+    return raw if raw.endswith("/v1") else f"{raw}/v1"
+
+
+def _vision_openai_compat_base_v1_from_env() -> str:
+    raw = (
+        os.environ.get("PACKY_VISION_BASE_URL")
+        or os.environ.get("PACKY_VISION_OPENAI_BASE_URL")
+        or os.environ.get("PACKY_BASE_URL")
         or os.environ.get("PACKYAPI_BASE_URL")
         or "https://www.packyapi.com"
     ).strip().rstrip("/")
@@ -39,6 +59,24 @@ def _anthropic_messages_root_from_env() -> str:
         return explicit[:-3].rstrip("/") if explicit.endswith("/v1") else explicit
     shared = (
         os.environ.get("PACKY_BASE_URL")
+        or os.environ.get("PACKYAPI_BASE_URL")
+        or "https://www.packyapi.com"
+    ).strip().rstrip("/")
+    if shared.endswith("/v1"):
+        shared = shared[:-3].rstrip("/")
+    return shared or "https://www.packyapi.com"
+
+
+def _vision_anthropic_messages_root_from_env() -> str:
+    explicit = (
+        os.environ.get("PACKY_VISION_ANTHROPIC_BASE_URL") or ""
+    ).strip().rstrip("/")
+    if explicit:
+        return explicit[:-3].rstrip("/") if explicit.endswith("/v1") else explicit
+    shared = (
+        os.environ.get("PACKY_VISION_BASE_URL")
+        or os.environ.get("PACKY_VISION_OPENAI_BASE_URL")
+        or os.environ.get("PACKY_BASE_URL")
         or os.environ.get("PACKYAPI_BASE_URL")
         or "https://www.packyapi.com"
     ).strip().rstrip("/")
@@ -66,6 +104,19 @@ class PackyConfig:
         api_key = _packy_api_key_from_env()
         base_url = _openai_compat_base_v1_from_env()
         raw_anthropic = _anthropic_messages_root_from_env()
+        return cls(
+            api_key=api_key,
+            base_url=base_url,
+            anthropic_base_url=raw_anthropic,
+        )
+
+    @classmethod
+    def from_vision_env(cls) -> PackyConfig:
+        """读取视觉链路专用配置，未设置时回退到通用 Packy 配置。"""
+        ensure_dotenv_loaded()
+        api_key = _vision_api_key_from_env()
+        base_url = _vision_openai_compat_base_v1_from_env()
+        raw_anthropic = _vision_anthropic_messages_root_from_env()
         return cls(
             api_key=api_key,
             base_url=base_url,

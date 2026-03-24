@@ -1,0 +1,89 @@
+{
+  "meta": {
+    "tutor_name_cn": "高原",
+    "request_url": "https://kzgc.neuq.edu.cn/info/1020/1166.htm",
+    "declared_source_url": "https://kzgc.neuq.edu.cn/info/1020/1166.htm",
+    "page_host": "kzgc.neuq.edu.cn",
+    "markdown_cache_path": "I:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\42e8810c78f012f3183b98f2d6138ab61d636b8430b60fb4f22a9d49b7a1c905.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "mentor_name": "高原",
+    "personal_info": {
+      "name": "高原",
+      "gender": "男",
+      "title": "讲师",
+      "image_url": "https://kzgc.neuq.edu.cn/__local/A/AC/9F/AB65E560A59A11FA316FFB8B851_982E3A59_9E8E.jpg",
+      "description": "高原，男，讲师。"
+    },
+    "research_directions": [
+      "无线传感器网络",
+      "智能控制"
+    ],
+    "education_background": [
+      {
+        "start_year": "1990",
+        "end_year": "1994",
+        "institution": "东北大学",
+        "department": "自动控制系",
+        "degree": "本科"
+      },
+      {
+        "start_year": "1999",
+        "end_year": "2002",
+        "institution": "东北大学",
+        "department": "信息科学与工程学院",
+        "degree": "硕士"
+      }
+    ],
+    "courses_taught": {
+      "本科生": [
+        "模拟电子技术基础",
+        "电气自动控制",
+        "运动控制系统"
+      ]
+    },
+    "site_chrome": {
+      "source_url_declaration": "https://kzgc.neuq.edu.cn/info/1020/1166.htm",
+      "page_metadata": {
+        "release_time": "2018-03-21",
+        "click_count": 14012
+      },
+      "breadcrumbs": [
+        {
+          "anchor_text": "首页",
+          "url": "https://kzgc.neuq.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://kzgc.neuq.edu.cn/szdw/zrjs.htm"
+        },
+        {
+          "anchor_text": "专任教师",
+          "url": "https://kzgc.neuq.edu.cn/szdw/zrjs.htm"
+        },
+        {
+          "anchor_text": "自动化与电气工程系",
+          "url": "https://kzgc.neuq.edu.cn/szdw/zrjs/zdhydqgcx1.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "navigation_links": {
+        "previous_page": {
+          "anchor_text": "郭戈",
+          "url": "https://kzgc.neuq.edu.cn/info/1020/1164.htm"
+        },
+        "next_page": {
+          "anchor_text": "高静",
+          "url": "https://kzgc.neuq.edu.cn/info/1020/1167.htm"
+        }
+      }
+    }
+  }
+}

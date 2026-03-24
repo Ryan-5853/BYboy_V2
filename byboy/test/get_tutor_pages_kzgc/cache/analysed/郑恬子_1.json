@@ -1,0 +1,187 @@
+{
+  "meta": {
+    "tutor_name_cn": "郑恬子",
+    "request_url": "https://kzgc.neuq.edu.cn/info/1020/5495.htm",
+    "declared_source_url": "https://kzgc.neuq.edu.cn/info/1020/5495.htm",
+    "page_host": "kzgc.neuq.edu.cn",
+    "markdown_cache_path": "I:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\bcd0e3db73b559de5ee596a04c5e6c8d7028f678f48ab80a01541a5ed06942c9.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": "内容包含丰富的导师个人信息、教育经历、工作经历、研究"
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "source_url": "https://kzgc.neuq.edu.cn/info/1020/5495.htm",
+    "site_chrome": {
+      "breadcrumbs": [
+        {
+          "anchor_text": "首页",
+          "url": "https://kzgc.neuq.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://kzgc.neuq.edu.cn/szdw/zrjs.htm"
+        },
+        {
+          "anchor_text": "专任教师",
+          "url": "https://kzgc.neuq.edu.cn/szdw/zrjs.htm"
+        },
+        {
+          "anchor_text": "自动化与电气工程系",
+          "url": "https://kzgc.neuq.edu.cn/szdw/zrjs/zdhydqgcx1.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "page_metadata": {
+        "publish_time": "2025-11-18",
+        "click_count": 934
+      },
+      "navigation_links": {
+        "previous_page": {
+          "anchor_text": "于力一",
+          "url": "https://kzgc.neuq.edu.cn/info/1020/5525.htm"
+        },
+        "next_page": {
+          "anchor_text": "杨旺",
+          "url": "https://kzgc.neuq.edu.cn/info/1020/5494.htm"
+        }
+      }
+    },
+    "personal_info": {
+      "name": "郑恬子",
+      "gender": "女",
+      "birth_date": "1996年6月",
+      "degree": "工学博士",
+      "title": "讲师",
+      "profile_picture": {
+        "url": "https://kzgc.neuq.edu.cn/__local/3/9F/92/ECB32C9C6252D41B1792262BEDD_E00C3639_BA8E8.jpg",
+        "alt_text": "郑恬子"
+      }
+    },
+    "education_experience": [
+      {
+        "start_date": "2020.09",
+        "end_date": "2025.06",
+        "institution": "东北大学",
+        "major": "控制科学与工程",
+        "degree": "博士",
+        "supervisor": "刘建昌教授",
+        "notes": null
+      },
+      {
+        "start_date": "2022.06",
+        "end_date": "2023.09",
+        "institution": "德国比勒费尔德大学",
+        "major": null,
+        "degree": "国家公派联合培养",
+        "supervisor": "Yaochu Jin教授",
+        "notes": null
+      },
+      {
+        "start_date": "2018.09",
+        "end_date": "2020.07",
+        "institution": "东北大学",
+        "major": "控制理论与控制工程",
+        "degree": "硕士",
+        "supervisor": "刘建昌教授",
+        "notes": null
+      },
+      {
+        "start_date": "2014.09",
+        "end_date": "2018.06",
+        "institution": "东北电力大学",
+        "major": "自动化专业",
+        "degree": "工学学士",
+        "supervisor": null,
+        "notes": null
+      }
+    ],
+    "work_experience": [
+      {
+        "start_date": "2025.11",
+        "end_date": "至今",
+        "institution": "东北大学秦皇岛分校控制工程学院",
+        "position": "讲师"
+      }
+    ],
+    "research_directions": [
+      "智能优化算法",
+      "人工智能理论及应用"
+    ],
+    "academic_service": [
+      "IEEE Transactions on Evolutionary Computation审稿人",
+      "IEEE/CAA Journal of Automatica Sinica审稿人",
+      "Engineering Applications of Artificial Intelligence等国际学术期刊审稿人"
+    ],
+    "academic_achievements": {
+      "publications": [
+        {
+          "id": 1,
+          "type": "Journal Article",
+          "title": "Large-scale multimodal multiobjective optimization based on multiview diversity enhanced mechanism",
+          "authors": "Tianzi. Zheng, Jianchang. Liu*, Yaochu. Jin*, Xiangyu. Wang, and Yuanchao. Liu",
+          "journal_conference": "IEEE Transactions on Evolutionary Computation",
+          "volume_issue_pages": "Early Access",
+          "year": null
+        },
+        {
+          "id": 2,
+          "type": "Journal Article",
+          "title": "A multitask-assisted evolutionary algorithm for constrained multimodal multiobjective optimization",
+          "authors": "Tianzi. Zheng, Jianchang. Liu*, Yaochu. Jin*, and Yuanchao. Liu",
+          "journal_conference": "IEEE Transactions on Evolutionary Computation",
+          "volume_issue_pages": "2025, 28(5): 1729-1744",
+          "year": 2025
+        },
+        {
+          "id": 3,
+          "type": "Journal Article",
+          "title": "A diversity-enhanced framework for multimodal optimization: utilizing niching and differential evolution operator",
+          "authors": "Tianzi. Zheng, Jianchang. Liu*",
+          "journal_conference": "Cluster Computing",
+          "volume_issue_pages": "2025, 28(10): 661",
+          "year": 2025
+        },
+        {
+          "id": 4,
+          "type": "Journal Article",
+          "title": "Hybridizing multi-objective, clustering and particle swarm optimization for multimodal optimization",
+          "authors": "Tianzi. Zheng, Jianchang*. Liu, Yuanchao. Liu, and Shubin. Tan",
+          "journal_conference": "Neural Computing & Applications",
+          "volume_issue_pages": "2022, 34(3): 2247-2274",
+          "year": 2022
+        },
+        {
+          "id": 5,
+          "type": "Conference Paper",
+          "title": "An Indicator Based Multiobjective Evolutionary Algorithm Utilizing Inverse Modeling",
+          "authors": "Tianzi. Zheng, Jianchang. Liu*, Shubin. Tan, and Honghai. Wang",
+          "journal_conference": "2024 43rd Chinese Control Conference (CCC). IEEE",
+          "volume_issue_pages": "2024: 2088-2093",
+          "year": 2024
+        }
+      ],
+      "projects": [
+        {
+          "id": 1,
+          "title": "环境变化未知的动态多目标智能优化方法",
+          "type": "国家自然科学基金面上项目",
+          "start_date": "2023.01",
+          "end_date": "2026.12",
+          "role": "参与"
+        },
+        {
+          "id": 2,
+          "title": "带有间歇通讯的多智能体系统事件触发控制",
+          "type": "国家自然科学基金面上项目",
+          "start_date": "2018.01",
+          "end_date": "2021.12",
+          "role": "参与"
+        }
+      ]
+    }
+  }
+}

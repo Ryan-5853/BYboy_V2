@@ -1,0 +1,298 @@
+{
+  "meta": {
+    "tutor_name_cn": "荣丽娜",
+    "request_url": "https://kzgc.neuq.edu.cn/info/1020/5024.htm",
+    "declared_source_url": "https://kzgc.neuq.edu.cn/info/1020/5024.htm",
+    "page_host": "kzgc.neuq.edu.cn",
+    "markdown_cache_path": "I:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\7fc8b4db67d0fac0f96323af9c6854941d9061848a589842169bfda637368932.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "target_name": "荣丽娜",
+    "personal_info": {
+      "name": "荣丽娜",
+      "gender": "女",
+      "birth_month_year": "1984年11月",
+      "degree": "工学博士",
+      "current_title": "教授"
+    },
+    "contact_info": {
+      "phone": "13951866514",
+      "email": "ronglina@neuq.edu.cn"
+    },
+    "research_directions": [
+      "无人集群系统分布式协同控制",
+      "低空无人飞行器安全飞行控制与航迹规划",
+      "低空多源协同监视技术"
+    ],
+    "education_background": [
+      {
+        "start_date": "2004.09",
+        "end_date": "2008.06",
+        "university": "南京理工大学",
+        "major": "电气工程及其自动化",
+        "degree": "本科"
+      },
+      {
+        "start_date": "2008.09",
+        "end_date": "2013.07",
+        "university": "南京理工大学",
+        "major": "控制科学与工程",
+        "degree": "博士"
+      }
+    ],
+    "work_experience": [
+      {
+        "start_date": "2013.07",
+        "end_date": "2016.10",
+        "institution": "南京邮电大学自动化学院",
+        "position": "讲师"
+      },
+      {
+        "start_date": "2016.10",
+        "end_date": "2022.07",
+        "institution": "南京邮电大学自动化学院、人工智能学院",
+        "position": "副教授"
+      },
+      {
+        "start_date": "2022.07",
+        "end_date": "2025.04",
+        "institution": "南京邮电大学自动化学院、人工智能学院",
+        "position": "教授"
+      },
+      {
+        "start_date": "2025.04",
+        "end_date": "至今",
+        "institution": "东北大学秦皇岛分校控制工程学院",
+        "position": "教授"
+      }
+    ],
+    "academic_affiliations": [
+      {
+        "role": "科技副总",
+        "organization": "常州河海空天信息研究院有限公司"
+      }
+    ],
+    "research_projects": {
+      "ongoing": [
+        {
+          "title": "基于连边增广系统方法的鲁棒协同控制与性能优化",
+          "funding_source": "国家自然科学基金面上项目",
+          "grant_number": "62273184",
+          "start_date": "2023/01",
+          "end_date": "2026/12",
+          "amount_rmb": 540000,
+          "role": "主持"
+        },
+        {
+          "title": "拒止环境下基于XX数据链的XX分布式导航定位技术",
+          "funding_source": "装备预研教育部联合基金(课题)",
+          "start_date": "2025/03",
+          "end_date": "2025/12",
+          "amount_rmb": 150000,
+          "role": "课题负责人"
+        }
+      ],
+      "completed": [
+        {
+          "title": "位置依赖型多智能体系统分布式协同优化",
+          "funding_source": "国家自然科学基金青年科学基金项目",
+          "grant_number": "61403211",
+          "start_date": "2015/01",
+          "end_date": "2017/12",
+          "amount_rmb": 230000,
+          "role": "主持"
+        },
+        {
+          "title": "国网江苏电科院基于特征声-光信号识别的锂离子电池储能电站早期安全预警试验研究",
+          "funding_source": "国网江苏省电力有限公司电力科学研究院",
+          "start_date": "2021/09",
+          "end_date": "2022/09",
+          "amount_rmb": 1370000,
+          "role": "主持"
+        },
+        {
+          "title": "基于多自主体系统的分布式动态优化算法研究",
+          "funding_source": "江苏省自然科学基金面上项目",
+          "grant_number": "BK20171441",
+          "start_date": "2017/06",
+          "end_date": "2020/06",
+          "amount_rmb": 100000,
+          "role": "主持"
+        },
+        {
+          "title": "国网江苏电科院标准化战略规划咨询服务",
+          "funding_source": "国网江苏省电力有限公司电力科学研究院",
+          "start_date": "2021/09",
+          "end_date": "2021/12",
+          "amount_rmb": 698000,
+          "role": "主持"
+        },
+        {
+          "title": "配电网状态感知及终端配置优化技术研究",
+          "funding_source": "国电南瑞南京控制系统有限公司",
+          "start_date": "2020/09",
+          "end_date": "2021/06",
+          "amount_rmb": 198000,
+          "role": "主持"
+        }
+      ]
+    },
+    "awards_and_honors": [
+      {
+        "year": 2024,
+        "award_name": "中国航空运输协会民航科学技术奖",
+        "level": "二等奖"
+      }
+    ],
+    "academic_achievements_summary": "长期从事网络集群系统分布式协同控制与优化研究，围绕智能化无人作战等领域的实际需求，在鲁棒协同控制设计、鲁棒性能优化等方面取得创新成果，作为第一作者（含独立作者）发表期刊论文27篇，其中控制领域顶级期刊IEEE Trans. Automatic Control和Automatica论文5篇(含IEEE Trans. Automatic Control长文1篇)，其它IEEE汇刊论文6篇。作为第一发明人获授权国家发明专利9项。主持国家自然科学基金面上项目、青年项目、装发预研教育部联合基金项目课题以及多项企业技术开发项目。获2023年度中国航空运输协会民航科学技术奖二等奖1项。",
+    "representative_publications": [
+      {
+        "authors": "Lina Rong*, Guo-Ping Jiang and Shengyuan Xu",
+        "title": "Nodal consensus in multi-agent systems with edge communications",
+        "journal": "IEEE Transactions on Automatic Control",
+        "year": 2024,
+        "volume": 69,
+        "issue": 11,
+        "pages": "7493- 7507"
+      },
+      {
+        "authors": "Lina Rong*, Guo-Ping Jiang and Shengyuan Xu",
+        "title": "Distributed nonrecursive averaging filters for quantized consensus: An edge sensitivity design approach",
+        "journal": "IEEE Transactions on Automatic Control",
+        "year": 2023,
+        "volume": 68,
+        "issue": 1,
+        "pages": "502-509"
+      },
+      {
+        "authors": "Lina Rong*, Peng Su, Guo-Ping Jiang and Shengyuan Xu",
+        "title": "An edge-based augmented system approach for second-order nodal consensus",
+        "journal": "Automatica",
+        "year": 2023,
+        "volume": 147,
+        "pages": "110675"
+      },
+      {
+        "authors": "Lina Rong",
+        "title": "Consensusability margin optimization for second-order multiagent systems with communication uncertainties",
+        "journal": "IEEE Transactions on Automatic Control",
+        "year": 2022,
+        "volume": 67,
+        "issue": 11,
+        "pages": "6255-6262"
+      },
+      {
+        "authors": "Lina Rong* and Shengyuan Xu",
+        "title": "Secure consensus with partial public protocols",
+        "journal": "Automatica",
+        "year": 2022,
+        "volume": 145,
+        "pages": "110527"
+      }
+    ],
+    "patents": [
+      {
+        "inventors": "荣丽娜, 苏鹏, 蒋金洋, 阚雨涵, 高辉, 陈璐",
+        "title": "一种保证无人机编队一致性动作的方法",
+        "country": "中国",
+        "patent_number": "ZL202210004747.9",
+        "date_authorized": "2023年07月28日"
+      },
+      {
+        "inventors": "荣丽娜, 刘云飞, 阚雨涵, 苏鹏, 高辉, 陈璐",
+        "title": "一种基于极点分析法的无人机编队一致性控制方法",
+        "country": "中国",
+        "patent_number": "ZL202111633268.5",
+        "date_authorized": "2023年07月28日"
+      },
+      {
+        "inventors": "荣丽娜, 左文文, 刘霞, 樊毕芳",
+        "title": "事件驱动电力系统经济调度方法",
+        "country": "中国",
+        "patent_number": "ZL201910961674.0",
+        "date_authorized": "2022-09-20"
+      },
+      {
+        "inventors": "荣丽娜, 左文文, 刘霞, 樊毕芳",
+        "title": "一种量化通信下事件触发电力系统经济调度方法",
+        "country": "中国",
+        "patent_number": "ZL202010024748.0",
+        "date_authorized": "2022-09-06"
+      },
+      {
+        "inventors": "荣丽娜, 樊毕芳",
+        "title": "基于通信噪声的分布式事件驱动电力经济调度方法",
+        "country": "中国",
+        "patent_number": "ZL202110527075.5",
+        "date_authorized": "2022-08-23"
+      },
+      {
+        "inventors": "荣丽娜, 华宇腾, 王顺铎",
+        "title": "一种电力系统经济运行调度方法",
+        "country": "中国",
+        "patent_number": "ZL201910067456.2",
+        "date_authorized": "2022-07-26"
+      },
+      {
+        "inventors": "荣丽娜, 刘霞",
+        "title": "考虑网损的事件触发电力系统经济运行调度方法",
+        "country": "中国",
+        "patent_number": "ZL202110623785.8",
+        "date_authorized": "2022-09-20"
+      },
+      {
+        "inventors": "荣丽娜, 刘霞, 苏鹏, 刘云飞",
+        "title": "一种分布式电力系统经济运行调度方法",
+        "country": "中国",
+        "patent_number": "ZL201911163156.0",
+        "date_authorized": "2021-07-02"
+      },
+      {
+        "inventors": "荣丽娜, 王金飞",
+        "title": "基于量化通信的主从机械臂同步跟踪控制方法",
+        "country": "中国",
+        "patent_number": "ZL201810466841.X",
+        "date_authorized": "2021-10-29"
+      }
+    ],
+    "site_chrome": {
+      "source_url": "https://kzgc.neuq.edu.cn/info/1020/5024.htm",
+      "breadcrumbs": [
+        {
+          "anchor_text": "首页",
+          "url": "https://kzgc.neuq.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://kzgc.neuq.edu.cn/szdw/zrjs.htm"
+        },
+        {
+          "anchor_text": "专任教师",
+          "url": "https://kzgc.neuq.edu.cn/szdw/zrjs.htm"
+        },
+        {
+          "anchor_text": "自动化与电气工程系",
+          "url": "https://kzgc.neuq.edu.cn/szdw/zrjs/zdhydqgcx1.htm"
+        },
+        "正文"
+      ],
+      "publish_time": "2025-05-20",
+      "click_count": 2130,
+      "image_url": "https://kzgc.neuq.edu.cn/__local/6/48/EA/045B1C2687B76FF0D906642DDF9_07B6A582_2E50.jpg",
+      "navigation_links": [
+        {
+          "anchor_text": "上一篇：杨旺",
+          "url": "https://kzgc.neuq.edu.cn/info/1020/5494.htm"
+        },
+        {
+          "anchor_text": "下一篇：王秀博",
+          "url": "https://kzgc.neuq.edu.cn/info/1020/4604.htm"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "meta": {
+    "tutor_name_cn": "魏永涛",
+    "request_url": "https://kzgc.neuq.edu.cn/info/1020/1154.htm",
+    "declared_source_url": "https://kzgc.neuq.edu.cn/info/1020/1154.htm",
+    "page_host": "kzgc.neuq.edu.cn",
+    "markdown_cache_path": "I:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\c923e0affd1c6550cf7723406c680240b12044a68791b6d7e34017ca1afdd989.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": "内容包含魏永涛导师的详细个人信息、联系方式、研究方向、教育背景、工作履历、科研情况、奖励与荣誉及讲授课程等，信息丰富且结构化。"
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "name": "魏永涛",
+    "personal_info": {
+      "name": "魏永涛",
+      "gender": "男",
+      "birth_date": "1980年2月",
+      "degrees": [
+        "工学博士"
+      ],
+      "titles": [
+        "副教授",
+        "硕士生导师"
+      ],
+      "positions": [
+        "控制工程学院副院长"
+      ],
+      "image_url": "https://kzgc.neuq.edu.cn/__local/6/C3/85/7ACB40A00ABBF0D6616C0420967_17C77F6B_7EB1.jpg"
+    },
+    "contact": {
+      "phone": "13730350590",
+      "email": "weiyt@neuq.edu.cn"
+    },
+    "research_directions": [
+      "新一代网络",
+      "智慧城市",
+      "智能交通",
+      "机器人控制技术与人工智能"
+    ],
+    "education_background": [
+      {
+        "start_date": "1999.9",
+        "end_date": "2006.3",
+        "institution": "东北大学",
+        "degree": "本科、硕士"
+      },
+      {
+        "start_date": "2007.9",
+        "end_date": "2012.1",
+        "institution": "东北大学",
+        "degree": "博士"
+      }
+    ],
+    "work_experience": [
+      {
+        "start_date": "2006.4",
+        "end_date": "至今",
+        "institution": "东北大学秦皇岛分校"
+      }
+    ],
+    "research_achievements": {
+      "publications": "在《自动化学报》等国内外期刊与学术会议上发表多篇论文并被三大索引机构检索",
+      "patents": "拥有多项授权专利",
+      "projects": [
+        {
+          "description": "主持完成中央高校基本科研业务费项目",
+          "count": 1
+        },
+        {
+          "description": "河北省高等学校科学技术研究指导项目",
+          "count": 2
+        },
+        {
+          "description": "秦皇岛市科技支撑计划项目",
+          "count": 1
+        },
+        {
+          "description": "河北省高等教育科学研究“十三五”规划课题",
+          "count": 1
+        },
+        {
+          "description": "河北省高等学校创新创业教育教学改革研究与实践项目",
+          "count": 1
+        },
+        {
+          "description": "河北省高等教育教学改革研究与实践项目",
+          "count": 1
+        }
+      ]
+    },
+    "awards_and_honors": [
+      "2013年东北大学秦皇岛分校教学成果一等奖",
+      "2017年东北大学秦皇岛分校教学成果一等奖",
+      "2018年东北大学教学成果一等奖、二等奖",
+      "2018年东北大学秦皇岛分校优秀教师",
+      "2018年全国高等学校创新创业教育工作突出者",
+      "2019年东北大学秦皇岛分校教学成果一等奖",
+      "2019年河北省高等教育教学成果一等奖、二等奖",
+      "2021年东北大学秦皇岛分校优秀共产党员",
+      "2022年河北省教学名师"
+    ],
+    "courses_taught": {
+      "undergraduate_courses": [
+        "《模拟电子技术基础》",
+        "《电子电路设计与综合训练》",
+        "《创新工程实践》"
+      ],
+      "graduate_courses": [
+        "《网络与云控制系统设计》"
+      ],
+      "student_guidance": "指导学生在全国大学生电子设计竞赛、全国大学生机器人竞赛等重量级学科竞赛中获得全国一等奖10项，及其他国家级、省级奖项几十项。"
+    },
+    "site_metadata": {
+      "source_url": "https://kzgc.neuq.edu.cn/info/1020/1154.htm",
+      "navigation_path": [
+        {
+          "anchor_text": "首页",
+          "url": "https://kzgc.neuq.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://kzgc.neuq.edu.cn/szdw/zrjs.htm"
+        },
+        {
+          "anchor_text": "专任教师",
+          "url": "https://kzgc.neuq.edu.cn/szdw/zrjs.htm"
+        },
+        {
+          "anchor_text": "自动化与电气工程系",
+          "url": "https://kzgc.neuq.edu.cn/szdw/zrjs/zdhydqgcx1.htm"
+        },
+        "正文"
+      ],
+      "publish_time": "2018-03-21",
+      "click_count": null,
+      "prev_page": {
+        "anchor_text": "朱亚锟",
+        "url": "https://kzgc.neuq.edu.cn/info/1020/1153.htm"
+      },
+      "next_page": {
+        "anchor_text": "王立夫",
+        "url": "https://kzgc.neuq.edu.cn/info/1020/1155.htm"
+      }
+    }
+  }
+}

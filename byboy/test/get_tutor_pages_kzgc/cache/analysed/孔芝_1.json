@@ -1,0 +1,388 @@
+{
+  "meta": {
+    "tutor_name_cn": "孔芝",
+    "request_url": "https://kzgc.neuq.edu.cn/info/1020/1145.htm",
+    "declared_source_url": "https://kzgc.neuq.edu.cn/info/1020/1145.htm",
+    "page_host": "kzgc.neuq.edu.cn",
+    "markdown_cache_path": "I:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\5cf55c293c9ea3c1c01d30e58adb32bb1e3c7ae1c2fcc24d73e902b1c1705ade.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "site_metadata": {
+      "source_url": "https://kzgc.neuq.edu.cn/info/1020/1145.htm",
+      "breadcrumbs": [
+        {
+          "text": "首页",
+          "url": "https://kzgc.neuq.edu.cn/index.htm"
+        },
+        {
+          "text": "师资队伍",
+          "url": "https://kzgc.neuq.edu.cn/szdw/zrjs.htm"
+        },
+        {
+          "text": "专任教师",
+          "url": "https://kzgc.neuq.edu.cn/szdw/zrjs.htm"
+        },
+        {
+          "text": "自动化与电气工程系",
+          "url": "https://kzgc.neuq.edu.cn/szdw/zrjs/zdhydqgcx1.htm"
+        },
+        {
+          "text": "正文",
+          "url": null
+        }
+      ],
+      "page_title": "孔芝",
+      "publish_time": "2019-09-09",
+      "click_count": 5343,
+      "related_pages": [
+        {
+          "type": "previous",
+          "text": "高振宇",
+          "url": "https://kzgc.neuq.edu.cn/info/1020/1144.htm"
+        },
+        {
+          "type": "next",
+          "text": "李成铁",
+          "url": "https://kzgc.neuq.edu.cn/info/1020/1146.htm"
+        }
+      ]
+    },
+    "target_person": {
+      "name": "孔芝",
+      "gender": "女",
+      "birth_date": "1979年6月",
+      "degree": "工学博士",
+      "titles": [
+        "副教授",
+        "博士生导师",
+        "硕士生导师"
+      ],
+      "profile_image_url": "https://kzgc.neuq.edu.cn/__local/3/24/A0/AFE7E9A0738EB3DDDE02692053D_06C50851_8060.jpg"
+    },
+    "sections": [
+      {
+        "title": "联系方式",
+        "tags": [
+          "contact_info"
+        ],
+        "content": {
+          "email": "kongz@neuq.edu.cn"
+        }
+      },
+      {
+        "title": "研究方向",
+        "tags": [
+          "research_interests"
+        ],
+        "content": [
+          "知识发现",
+          "决策分析",
+          "复杂网络",
+          "智能优化方法",
+          "智能交通"
+        ]
+      },
+      {
+        "title": "教育背景",
+        "tags": [
+          "education_experience"
+        ],
+        "content": [
+          {
+            "start_date": "1999.09",
+            "end_date": "2003.09",
+            "institution": "沈阳工业大学理学院",
+            "major": "信息与计算科学专业",
+            "degree": "理学学士"
+          },
+          {
+            "start_date": "2003.09",
+            "end_date": "2006.03",
+            "institution": "沈阳工业大学信息科学与工程学院",
+            "major": "控制理论与控制工程专业",
+            "degree": "工学硕士"
+          },
+          {
+            "start_date": "2006.03",
+            "end_date": "2009.03",
+            "institution": "东北大学信息科学与工程学院",
+            "major": "控制理论与控制工程专业",
+            "degree": "工学博士"
+          }
+        ]
+      },
+      {
+        "title": "工作履历",
+        "tags": [
+          "work_experience"
+        ],
+        "content": [
+          {
+            "start_date": "2009.03",
+            "end_date": "今",
+            "institution": "东北大学秦皇岛分校控制工程学院"
+          }
+        ]
+      },
+      {
+        "title": "科研情况",
+        "tags": [
+          "research_projects"
+        ],
+        "content": [
+          {
+            "project_number": 1,
+            "project_type": "河北省自然科学基金面上项目",
+            "project_name": "基于软集合的数据预测与约简问题及其应用研究",
+            "approval_number": "F2022501005",
+            "amount": "10万",
+            "start_date": "2022.01",
+            "end_date": "2024.12",
+            "role": "项目负责人"
+          },
+          {
+            "project_number": 2,
+            "project_type": "河北省自然科学基金面上项目",
+            "project_name": "序列软集合理论研究及在海量数据决策问题上的应用",
+            "approval_number": "F2017501041",
+            "amount": "6万",
+            "start_date": "2017.01",
+            "end_date": "2019.12",
+            "role": "项目负责人"
+          },
+          {
+            "project_number": 3,
+            "project_type": "中央高校基本科研业务费种子基金项目",
+            "project_name": "基于模糊软集合的冗余信息约简和变化信息对决策影响的研究",
+            "approval_number": "N172304030",
+            "amount": "10万",
+            "start_date": "2018.01.01",
+            "end_date": "2019.12.31",
+            "role": "项目负责人"
+          },
+          {
+            "project_number": 4,
+            "project_type": "2015国家自然科学基金青年基金",
+            "project_name": "基于软集合方法的决策问题中冗余信息约简研究",
+            "approval_number": "61402088",
+            "amount": "23万",
+            "start_date": "2015.01",
+            "end_date": "2017.12",
+            "role": "项目负责人"
+          },
+          {
+            "project_number": 5,
+            "project_type": "中央高校基本科研业务费种子基金",
+            "project_name": "决策问题中冗余信息约简的软集合方法研究",
+            "approval_number": "N130423013",
+            "amount": "10万",
+            "start_date": "2014.01.01",
+            "end_date": "2015.12.31",
+            "role": "项目负责人"
+          },
+          {
+            "project_number": 6,
+            "project_type": "中央高校基本科研业务费青年基金",
+            "project_name": "基于软集合的决策问题研究",
+            "approval_number": "N100323011",
+            "amount": "3万",
+            "start_date": "2011.01.01",
+            "end_date": "2012.12.31",
+            "role": "项目负责人"
+          },
+          {
+            "project_number": 7,
+            "project_type": "河北省高等学校科学研究项目青年基金",
+            "project_name": "基于模糊软集合的数据约简问题研究",
+            "approval_number": "QN20132011",
+            "amount": "3万",
+            "start_date": "2013.01",
+            "end_date": "2015.12",
+            "role": "项目负责人"
+          },
+          {
+            "project_number": 8,
+            "project_type": "秦皇岛市科学技术研究与发展项目",
+            "project_name": "基于软集合的不确定系统决策问题研究",
+            "approval_number": "201101A406",
+            "start_date": "2011.05",
+            "end_date": "2014.04",
+            "role": "项目负责人"
+          }
+        ]
+      },
+      {
+        "title": "奖励与荣誉",
+        "tags": [
+          "awards_honors"
+        ],
+        "content": [
+          "2014年河北省“三三三人才工程”第三层次人才",
+          "2018年河北省科学技术奖自然科学二等奖（4/5）",
+          "2022年指导硕士获辽宁省优秀硕士学位论文"
+        ]
+      },
+      {
+        "title": "学术成果",
+        "tags": [
+          "publications"
+        ],
+        "content": {
+          "summary": "在《Applied Mathematical Modelling》、《Information Sciences》、《Computers & Mathematics with Applications》、《Journal of computational and applied mathematics》、《Expert systems with applications》、《自动化学报》、《控制与决策》等SCI、EI检索收录的学术期刊和会议上发表学术论文20余篇，出版专著1部。",
+          "representative_academic_papers": [
+            {
+              "author_role": "第一作者",
+              "title": "A general link prediction method based on path node information and source node information",
+              "journal": "Information Sciences",
+              "year": "2025",
+              "sci_ranking": "一区SCI"
+            },
+            {
+              "author_role": "第一作者",
+              "title": "An attribute value filling method in attributed networks with uncertain information",
+              "journal": "Expert Systems with Applications",
+              "year": "2024",
+              "details": "252: 124203",
+              "sci_ranking": "一区SCI"
+            },
+            {
+              "author_role": "第一作者",
+              "title": "A simplified approach for data filling in incomplete soft sets",
+              "journal": "Expert Systems with Applications",
+              "year": "2023",
+              "details": "213: 119284",
+              "sci_ranking": "一区SCI",
+              "citations": 4
+            },
+            {
+              "author_role": "第一作者",
+              "title": "Controllability of Heterogeneous Networked Systems With Nonidentical Inner-Coupling Matrices",
+              "journal": "IEEE Transactions on Control of Network Systems",
+              "year": "2022",
+              "details": "9(2): 867-878",
+              "sci_ranking": "二区SCI",
+              "citations": 6
+            },
+            {
+              "author_role": "第一作者",
+              "title": "节点分类及失效对网络能控性的影响",
+              "journal": "自动化学报",
+              "year": "2022",
+              "details": "48(4):1048-1059"
+            },
+            {
+              "author_role": "第一作者",
+              "title": "A new data filling approach based on probability analysis in incomplete soft sets",
+              "journal": "Expert Systems With Applications",
+              "year": "2021",
+              "details": "184: 115358",
+              "sci_ranking": "一区SCI",
+              "citations": 10
+            },
+            {
+              "author_role": "第一作者",
+              "title": "Parameter Reduction in Fuzzy Soft Set Based on Whale Optimization Algorithm",
+              "journal": "IEEE Access",
+              "year": "2020",
+              "details": "8:217268 - 217281",
+              "sci_ranking": "二区SCI",
+              "citations": 3
+            },
+            {
+              "author_role": "第一作者",
+              "title": "New Normal Parameter Reduction Method in Fuzzy Soft Set Theory",
+              "journal": "IEEE Access",
+              "year": "2019",
+              "details": "7: 2986-2998",
+              "sci_ranking": "二区SCI",
+              "citations": 19
+            },
+            {
+              "author_role": "第一作者",
+              "title": "Normal parameter reduction in soft set based on particle swarm optimization algorithm",
+              "journal": "Applied Mathematical Modelling",
+              "year": "2015",
+              "details": "39 (16): 4808-4820",
+              "sci_ranking": "一区SCI",
+              "citations": 56
+            },
+            {
+              "author_role": "第一作者",
+              "title": "An efficient decision making approach in incomplete soft set",
+              "journal": "Applied Mathematical Modelling",
+              "year": "2014",
+              "details": "38(7-8):2141-2150",
+              "sci_ranking": "一区SCI",
+              "citations": 54
+            },
+            {
+              "author_role": "第一作者",
+              "title": "Application of fuzzy soft set in decision making problems based on grey theory",
+              "journal": "Journal of Computational and Applied Mathematics",
+              "year": "2011",
+              "details": "236(6): 1521-1530",
+              "sci_ranking": "二区SCI",
+              "citations": 51
+            },
+            {
+              "author_role": "第一作者",
+              "title": "On an adaptive harmony search algorithm",
+              "journal": "International Journal of Innovative Computing Information and Control",
+              "year": "2009",
+              "details": "5(9): 2551-2560",
+              "sci_ranking": "二区SCI",
+              "citations": 11
+            },
+            {
+              "author_role": "第一作者",
+              "title": "Comment on “A fuzzy soft set theoretic approach to decision making problems”",
+              "journal": "Journal of Computational and Applied Mathematics",
+              "year": "2009",
+              "details": "223(2): 540-542",
+              "sci_ranking": "二区SCI",
+              "citations": 190
+            },
+            {
+              "author_role": "第一作者",
+              "title": "The normal parameter reduction of soft sets and its algorithm",
+              "journal": "Computers & Mathematics with Applications",
+              "year": "2008",
+              "details": "56(12): 3029-3037",
+              "sci_ranking": "二区SCI",
+              "citations": 250
+            }
+          ],
+          "monographs": [
+            {
+              "author_role": "第一作者",
+              "title": "《软集合约简与决策》",
+              "publisher": "科学出版社",
+              "year": "2019"
+            }
+          ]
+        }
+      },
+      {
+        "title": "讲授课程情况",
+        "tags": [
+          "courses_taught"
+        ],
+        "content": [
+          "现代控制理论",
+          "智能优化方法"
+        ]
+      },
+      {
+        "title": "指导研究生情况",
+        "tags": [
+          "graduate_supervision"
+        ],
+        "content": "自2013年起指导硕士研究生。"
+      }
+    ]
+  }
+}

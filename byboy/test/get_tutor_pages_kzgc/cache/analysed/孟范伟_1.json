@@ -1,0 +1,843 @@
+{
+  "meta": {
+    "tutor_name_cn": "孟范伟",
+    "request_url": "https://kzgc.neuq.edu.cn/info/1020/1161.htm",
+    "declared_source_url": "https://kzgc.neuq.edu.cn/info/1020/1161.htm",
+    "page_host": "kzgc.neuq.edu.cn",
+    "markdown_cache_path": "I:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\17ac82cd1422bb0b840ac637b1fb5aaaf7d5131014c8d99ced63ccd175eac7bf.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "personal_info": {
+      "name": "孟范伟",
+      "gender": "男",
+      "birth_date": "1981年9月",
+      "degree": "工学博士学位",
+      "titles": [
+        "副研究员",
+        "硕士生导师"
+      ],
+      "image_url": "https://kzgc.neuq.edu.cn/__local/F/10/F6/DD1DDEAA004F29834B8849F2CED_8FB42822_EA6C.jpg"
+    },
+    "contact_info": {
+      "phone": "13315684680",
+      "email": "mengfanwei@neuq.edu.cn"
+    },
+    "research_interests": [
+      "H∞控制理论",
+      "卫星姿态控制",
+      "负虚控制理论",
+      "模型预测控制",
+      "分布式观测器设计",
+      "无人机、卫星和空间机器人的自主和集群控制"
+    ],
+    "education_background": [
+      {
+        "start_date": "2007.09",
+        "end_date": "2013.07",
+        "degree_type": "博士研究生",
+        "institution": "哈尔滨工业大学"
+      },
+      {
+        "start_date": "2005.09",
+        "end_date": "2007.07",
+        "degree_type": "硕士研究生",
+        "institution": "哈尔滨工业大学"
+      },
+      {
+        "start_date": "2001.09",
+        "end_date": "2005.07",
+        "degree_type": "本科生",
+        "institution": "哈尔滨工程大学"
+      }
+    ],
+    "work_experience": [
+      {
+        "start_date": "2014.09",
+        "end_date": "至今",
+        "position": null,
+        "institution": "东北大学秦皇岛分校"
+      },
+      {
+        "start_date": "2011.02",
+        "end_date": "2014.8",
+        "position": "工程师",
+        "institution": "海军91199部队指挥自动化站"
+      },
+      {
+        "start_date": "2005.06",
+        "end_date": "2011.01",
+        "position": "参谋",
+        "institution": "海军92910部队指挥所"
+      }
+    ],
+    "research_projects": {
+      "ongoing_projects": [
+        {
+          "title": "复杂多约束环境下面向空间防卫的集群卫星博弈协同决策与控制",
+          "role": "项目负责人",
+          "start_date": "2024.01",
+          "end_date": "2025.12",
+          "funding": "30万",
+          "type": null
+        },
+        {
+          "title": "应用于网联自动驾驶汽车的分布式观测器设计方法研究",
+          "role": null,
+          "start_date": "2024.12",
+          "end_date": "2026.12",
+          "funding": "100万",
+          "type": "横向项目"
+        },
+        {
+          "title": "双超航天器姿态指向协同控制系统设计",
+          "role": null,
+          "start_date": "2024.09",
+          "end_date": "2025.12",
+          "funding": "15万",
+          "type": "横向项目"
+        }
+      ],
+      "completed_projects": [
+        {
+          "title": "国家自然科学基金面上项目",
+          "role": "主要参与人",
+          "start_date": "2019.10",
+          "end_date": "2023.12",
+          "funding": null,
+          "type": null
+        },
+        {
+          "title": "河北省自然科学基金面上项目",
+          "role": "项目负责人",
+          "start_date": "2019.01",
+          "end_date": "2021.12",
+          "funding": null,
+          "type": null
+        },
+        {
+          "title": "中央高校基本科研业务费种子培育基金",
+          "role": "项目负责人",
+          "start_date": "2019.01",
+          "end_date": "2020.12",
+          "funding": null,
+          "type": null
+        },
+        {
+          "title": "辽宁省自然科学基金面上项目",
+          "role": "项目负责人",
+          "start_date": "2017.09",
+          "end_date": "2019.08",
+          "funding": null,
+          "type": null
+        },
+        {
+          "title": "河北省高等学校科学技术研究重点项目",
+          "role": "项目负责人",
+          "start_date": "2016.01",
+          "end_date": "2018.12",
+          "funding": null,
+          "type": null
+        },
+        {
+          "title": "吉林省电力科学研究院横向项目",
+          "role": "项目负责人",
+          "start_date": "2016.01",
+          "end_date": "2017.12",
+          "funding": null,
+          "type": "横向项目"
+        },
+        {
+          "title": "辽宁省博士启动基金",
+          "role": "项目参与人",
+          "start_date": "2016.09",
+          "end_date": "2018.09",
+          "funding": null,
+          "type": null
+        },
+        {
+          "title": "东北大学秦皇岛分校博士启动基金",
+          "role": "项目负责人",
+          "start_date": "2015.01",
+          "end_date": "2016.12",
+          "funding": null,
+          "type": null
+        }
+      ]
+    },
+    "awards_and_honors": [
+      "2024年河北省优秀硕士论文指导教师，校优秀硕士论文指导教师",
+      "指导14名本科生获校优秀毕业论文，获6次校优秀毕业设计指导教师",
+      "2024年东北大学秦皇岛分校教学标兵",
+      "2022年度东北大学秦皇岛分校教学成果二等奖",
+      "2020-2022年东北大学秦皇岛分校优秀教师",
+      "2022年河北省第二届高校教师教学创新大三等奖",
+      "2021年东北大学秦皇岛分校教师教学创新大赛一等奖",
+      "2021年东北大学秦皇岛分校课程思政名师",
+      "2019年东北大学秦皇岛分校优秀共产党员",
+      "2016年青年教师课堂教学竞赛一等奖",
+      "主持和参与多项省级和校级教学成果奖"
+    ],
+    "academic_achievements": {
+      "representative_academic_papers": [
+        {
+          "authors": [
+            "Shengya Men",
+            "Fanwei Meng",
+            "Fan Zhang",
+            "Qi Li",
+            "Yu Zhang",
+            "Ali Zemouche"
+          ],
+          "mentor_authorship": {
+            "is_first_author": false,
+            "is_corresponding_author": true
+          },
+          "title": "Observer design method for nonlinear generalized systems with nonlinear algebraic constraints with applications",
+          "journal": "Automatica",
+          "year": "2024",
+          "type": "SCI",
+          "notes": "高被引论文，热点论文"
+        },
+        {
+          "authors": [
+            "Shengya Meng",
+            "Fanwei Meng",
+            "Wang Yang",
+            "Qi Li"
+          ],
+          "mentor_authorship": {
+            "is_first_author": false,
+            "is_corresponding_author": true
+          },
+          "title": "Robust adaptive fault-tolerant asymptotic tracking control for magnetic",
+          "journal": "International Journal of Control, Automation, and Systems",
+          "year": "2024",
+          "type": "SCI",
+          "notes": null
+        },
+        {
+          "authors": [
+            "Li Q",
+            "Duan L",
+            "Cao G",
+            "Meng F."
+          ],
+          "mentor_authorship": {
+            "is_first_author": false,
+            "is_corresponding_author": false
+          },
+          "title": "Low peaking-phenomenon cascade high-gain observer design with LPV/LMI method",
+          "journal": "PLoS ONE",
+          "year": "2024",
+          "type": "SCI",
+          "notes": null
+        },
+        {
+          "authors": [
+            "Yu Zhang",
+            "Fanwei Meng",
+            "Yuanzheng Tai"
+          ],
+          "mentor_authorship": {
+            "is_first_author": false,
+            "is_corresponding_author": false
+          },
+          "title": "Neural network-based predefined-time attitude control for rigid spacecraft with uncertainties and disturbances",
+          "journal": "Journal of Industrial and Management Optimization",
+          "year": "2024",
+          "type": "SCI",
+          "notes": null
+        },
+        {
+          "authors": [
+            "Fanwei Meng",
+            "Yuanzheng Tai",
+            "Yu Zhang"
+          ],
+          "mentor_authorship": {
+            "is_first_author": true,
+            "is_corresponding_author": false
+          },
+          "title": "Distributed Secondary Control Strategy of Islanded Microgrid Under Dynamic Event-Triggered Mechanism",
+          "journal": "Journal of Industrial and Management Optimization",
+          "year": "2024",
+          "type": "SCI",
+          "notes": null
+        },
+        {
+          "authors": [
+            "Fanwei Meng",
+            "Jian Kuang",
+            "Yu Zhang"
+          ],
+          "mentor_authorship": {
+            "is_first_author": true,
+            "is_corresponding_author": false
+          },
+          "title": "Full state-constrained finite time control of non-strict feedback interconnected systems with dead zones based on backstepping",
+          "journal": "Journal of Industrial Management and Optimization",
+          "year": "2024",
+          "type": "SCI",
+          "notes": null
+        },
+        {
+          "authors": [
+            "邰源政",
+            "孟范伟",
+            "张煜"
+          ],
+          "mentor_authorship": {
+            "is_first_author": false,
+            "is_corresponding_author": false
+          },
+          "title": "虚假数据注入攻击下直流微电网分布式弹性协同控制",
+          "journal": "东北大学学报",
+          "year": "2025",
+          "type": "EI",
+          "notes": null
+        },
+        {
+          "authors": [
+            "孟范伟",
+            "邰源政",
+            "张煜",
+            "庞爱平"
+          ],
+          "mentor_authorship": {
+            "is_first_author": true,
+            "is_corresponding_author": false
+          },
+          "title": "基于动态事件触发机制的孤岛直流微电网分布式二次控制策略",
+          "journal": "东北大学学报",
+          "year": "2025",
+          "type": "EI",
+          "notes": null
+        },
+        {
+          "authors": [
+            "Shengya Meng",
+            "Fanwei Meng",
+            "Heng Chi",
+            "Haonan Chen",
+            "Aiping Pang"
+          ],
+          "mentor_authorship": {
+            "is_first_author": false,
+            "is_corresponding_author": true
+          },
+          "title": "A robust observer based on the nonlinear descriptor systems application to estimate the state of charge of lithium‐ion batteries",
+          "journal": "Journal of the Franklin Institute",
+          "year": "2023",
+          "type": "SCI",
+          "notes": "高被引、热点论文"
+        },
+        {
+          "authors": [
+            "Jian Zhang",
+            "Fanwei Meng",
+            "Yunjing Liu"
+          ],
+          "mentor_authorship": {
+            "is_first_author": false,
+            "is_corresponding_author": true
+          },
+          "title": "Design of the electric vehicle powertrain systems based on μ-analysis",
+          "journal": "Transactions of the Institute of Measurement and Control",
+          "year": "2023",
+          "type": "SCI",
+          "notes": null
+        },
+        {
+          "authors": [
+            "Jiayi Li",
+            "Yuanzheng Tai",
+            "Fanwei Meng"
+          ],
+          "mentor_authorship": {
+            "is_first_author": false,
+            "is_corresponding_author": true
+          },
+          "title": "Rehabilitation exoskeleton torque control based on PSO-RBFNN optimization",
+          "journal": "PLoS ONE",
+          "year": "2023",
+          "type": "SCI",
+          "notes": null
+        },
+        {
+          "authors": [
+            "孟范伟",
+            "旷建",
+            "陈昊男",
+            "付中乐"
+          ],
+          "mentor_authorship": {
+            "is_first_author": true,
+            "is_corresponding_author": false
+          },
+          "title": "基于奇异摄动的柔性关节机械臂鲁棒控制",
+          "journal": "电机与控制学报",
+          "year": "2023",
+          "type": "EI",
+          "notes": null
+        },
+        {
+          "authors": [
+            "Wang Yang",
+            "Yongxiang Dong",
+            "Fanwei Meng"
+          ],
+          "mentor_authorship": {
+            "is_first_author": false,
+            "is_corresponding_author": false
+          },
+          "title": "Dynamic edge event-triggered consensus for one-sided Lipschitz multiagent systems with disturbances",
+          "journal": "International Journal of Robust and Nonlinear Control",
+          "year": "2023",
+          "type": "SCI",
+          "notes": null
+        },
+        {
+          "authors": [
+            "孟范伟",
+            "刘凯",
+            "孟圣亚",
+            "庞爱平"
+          ],
+          "mentor_authorship": {
+            "is_first_author": true,
+            "is_corresponding_author": false
+          },
+          "title": "基于系数图法的多入多出系统控制器设计方法",
+          "journal": "控制与决策",
+          "year": "2023",
+          "type": "EI",
+          "notes": null
+        },
+        {
+          "authors": [
+            "江一鸣",
+            "吴坷",
+            "李佳洛",
+            "孟范伟"
+          ],
+          "mentor_authorship": {
+            "is_first_author": false,
+            "is_corresponding_author": false
+          },
+          "title": "基于神经网络的移动机器人轨迹预测控制",
+          "journal": "兵器装备工程学报",
+          "year": "2022",
+          "type": null,
+          "notes": null
+        },
+        {
+          "authors": [
+            "何朕",
+            "成知宁",
+            "王宁远",
+            "孟范伟"
+          ],
+          "mentor_authorship": {
+            "is_first_author": false,
+            "is_corresponding_author": false
+          },
+          "title": "基于扰动观测器补偿的双惯量系统和三惯量系统的谐振抑制",
+          "journal": "电机与控制学报",
+          "year": "2022",
+          "type": "EI",
+          "notes": null
+        },
+        {
+          "authors": [
+            "Shengya Meng",
+            "Shihong Li",
+            "Heng Chi",
+            "Fanwei Meng",
+            "Aiping Pang"
+          ],
+          "mentor_authorship": {
+            "is_first_author": false,
+            "is_corresponding_author": false
+          },
+          "title": "H∞ Observer Based on Descriptor Systems Applied to Estimate the State of Charge",
+          "journal": "Entropy",
+          "year": "2022",
+          "type": "SCI",
+          "notes": null
+        },
+        {
+          "authors": [
+            "Kai Liu",
+            "Fanwei Meng",
+            "Shengya Meng",
+            "Chonghui Wang"
+          ],
+          "mentor_authorship": {
+            "is_first_author": false,
+            "is_corresponding_author": false
+          },
+          "title": "Robust Controller Design for Multi-Input Multi-Output Systems Using Coefficient Diagram Method",
+          "journal": "Entropy",
+          "year": "2021",
+          "type": "SCI",
+          "notes": null
+        },
+        {
+          "authors": [
+            "Sijia Chen",
+            "Jian Zhang",
+            "Fanwei Meng",
+            "Dini Wang"
+          ],
+          "mentor_authorship": {
+            "is_first_author": false,
+            "is_corresponding_author": false
+          },
+          "title": "A Markov Chain Position Prediction Model Based on Multidimensional Correction",
+          "journal": "Complexity",
+          "year": "2021",
+          "type": "SCI",
+          "notes": "高被引论文"
+        },
+        {
+          "authors": [
+            "孟范伟",
+            "宋朋涛",
+            "刘凯",
+            "杨朋辉"
+          ],
+          "mentor_authorship": {
+            "is_first_author": true,
+            "is_corresponding_author": false
+          },
+          "title": "三明治结构挠性传动系统的PID-P复合控制",
+          "journal": "控制理论与应用",
+          "year": "2020",
+          "type": "EI",
+          "notes": null
+        },
+        {
+          "authors": [
+            "孟范伟",
+            "张忍永康",
+            "翟广庆",
+            "余牧舟"
+          ],
+          "mentor_authorship": {
+            "is_first_author": true,
+            "is_corresponding_author": false
+          },
+          "title": "挠性系统设计中不稳定控制器的避免",
+          "journal": "电机与控制学报",
+          "year": "2020",
+          "type": "EI",
+          "notes": null
+        },
+        {
+          "authors": [
+            "Dini Wang",
+            "Fanwei Meng",
+            "Shengya Meng"
+          ],
+          "mentor_authorship": {
+            "is_first_author": false,
+            "is_corresponding_author": false
+          },
+          "title": "Linearization method of nonlinear magnetic levitation system",
+          "journal": "Mathematical Problems in Engineering",
+          "year": "2020",
+          "type": "SCI",
+          "notes": null
+        },
+        {
+          "authors": [
+            "Dini Wang",
+            "Fanwei Meng",
+            "Shengya Meng",
+            "Aiping Pang"
+          ],
+          "mentor_authorship": {
+            "is_first_author": false,
+            "is_corresponding_author": false
+          },
+          "title": "Design of stable controller for flexible solar panel by H∞ loop-shaping method",
+          "journal": "Complexity",
+          "year": "2020",
+          "type": "SCI",
+          "notes": null
+        },
+        {
+          "authors": [
+            "Wang Yang",
+            "Fanwei Meng",
+            "Man Sun",
+            "Kai Liu"
+          ],
+          "mentor_authorship": {
+            "is_first_author": false,
+            "is_corresponding_author": false
+          },
+          "title": "Passivity-based control design for magnetic levitation system",
+          "journal": "Applied Sciences",
+          "year": "2020",
+          "type": "SCI",
+          "notes": null
+        },
+        {
+          "authors": [
+            "Wang Yang",
+            "Fanwei Meng",
+            "Shengya Meng",
+            "Sun Man",
+            "Aiping Pang"
+          ],
+          "mentor_authorship": {
+            "is_first_author": false,
+            "is_corresponding_author": false
+          },
+          "title": "Tracking control of magnetic levitation system using model-free RBF neural network design",
+          "journal": "IEEE Access",
+          "year": "2020",
+          "type": "SCI",
+          "notes": null
+        },
+        {
+          "authors": [
+            "Fanwei Meng",
+            "Dini Wang",
+            "Penghui Yang",
+            "Guanzhou Xie",
+            "Feng Guo"
+          ],
+          "mentor_authorship": {
+            "is_first_author": true,
+            "is_corresponding_author": false
+          },
+          "title": "Application of sum-of-squares method in estimation of region of attraction for nonlinear polynomial systems",
+          "journal": "IEEE Access",
+          "year": "2020",
+          "type": "SCI",
+          "notes": null
+        },
+        {
+          "authors": [
+            "Fanwei Meng",
+            "Dini Wang",
+            "Penghui Yang",
+            "Guanzhou Xie"
+          ],
+          "mentor_authorship": {
+            "is_first_author": true,
+            "is_corresponding_author": false
+          },
+          "title": "Application of Sum of Squares Method in Nonlinear H∞ Control for Satellite Attitude Maneuvers",
+          "journal": "Complexity",
+          "year": "2019",
+          "type": "SCI",
+          "notes": "高被引论文"
+        },
+        {
+          "authors": [
+            "Fanwei Meng",
+            "Aiping Pang",
+            "Xuefei Dong",
+            "Chang Han",
+            "Xiaopeng Sha"
+          ],
+          "mentor_authorship": {
+            "is_first_author": true,
+            "is_corresponding_author": false
+          },
+          "title": "H∞ Optimal Performance Design of an Unstable Plant under Bode Integral Constraint",
+          "journal": "Complexity",
+          "year": "2018",
+          "type": "SCI",
+          "notes": "高被引论文"
+        },
+        {
+          "authors": [
+            "Yanwen Liu",
+            "Fanwei Meng",
+            "Bowen Guan",
+            "Shuhao Zhang"
+          ],
+          "mentor_authorship": {
+            "is_first_author": false,
+            "is_corresponding_author": false
+          },
+          "title": "Robust Stability Analysis Based on LMI for Haptic Interface Systems with Uncertain Delay",
+          "journal": "Complexity",
+          "year": "2018",
+          "type": "SCI",
+          "notes": null
+        },
+        {
+          "authors": [
+            "孟范伟",
+            "吕晓永",
+            "刘胤圻",
+            "沙晓鹏"
+          ],
+          "mentor_authorship": {
+            "is_first_author": true,
+            "is_corresponding_author": false
+          },
+          "title": "挠性系统基于相位控制的H∞鲁棒设计",
+          "journal": "控制与决策",
+          "year": "2018",
+          "type": "EI",
+          "notes": null
+        },
+        {
+          "authors": [
+            "Fanwei Meng",
+            "Xiaohui Chen",
+            "Yunjing Liu",
+            "Feng Guo"
+          ],
+          "mentor_authorship": {
+            "is_first_author": true,
+            "is_corresponding_author": false
+          },
+          "title": "Switching control design based on state feedback for unstable plants",
+          "journal": "International Journal of Machine Learning and Cybernetics",
+          "year": "2017",
+          "type": "SCI",
+          "notes": null
+        },
+        {
+          "authors": [
+            "孟范伟",
+            "徐博",
+            "吕晓永",
+            "刘胤圻"
+          ],
+          "mentor_authorship": {
+            "is_first_author": true,
+            "is_corresponding_author": false
+          },
+          "title": "神经网络预测控制在SCR烟气脱硝系统中应用",
+          "journal": "东北大学学报",
+          "year": "2017",
+          "type": "EI",
+          "notes": null
+        }
+      ],
+      "monographs": [
+        {
+          "title": "控制系统设计方法与实例",
+          "publisher": "机械工业出版社"
+        }
+      ]
+    },
+    "patents": [
+      {
+        "inventors": [
+          "孟范伟",
+          "刘凯"
+        ],
+        "title": "一种基于稳定系数多变量强耦合时滞系统PID控制方法",
+        "type": "发明专利",
+        "patent_id": "202110509877.3"
+      }
+    ],
+    "courses_taught": [
+      {
+        "name": "自动控制原理",
+        "notes": "校级一流课程，省级一流课程负责人"
+      },
+      {
+        "name": "微机原理与接口技术",
+        "notes": null
+      },
+      {
+        "name": "自动控制系统工程设计方法",
+        "notes": null
+      },
+      {
+        "name": "最优控制",
+        "notes": null
+      },
+      {
+        "name": "自动化概论",
+        "notes": null
+      },
+      {
+        "name": "现代科学运算—MATLAB语言与应用",
+        "notes": "2023河北省教育厅省级专业学位精品教学案例项目负责人"
+      }
+    ],
+    "student_supervision": {
+      "graduated_students": {
+        "count": 14,
+        "outcomes": [
+          "1名东北大学读博",
+          "1名华南理工读博",
+          "2名四川大学读博",
+          "2名公派出国读博",
+          "8人就业"
+        ]
+      },
+      "current_students": {
+        "count": 12
+      },
+      "cooperating_industry_mentor": {
+        "name": "李彬",
+        "institution": "四川大学",
+        "title": "教授，博导",
+        "distinctions": [
+          "入选国家万人计划青年拔尖人才项目",
+          "IEEE高级会员",
+          "担任IEEE Transactions on Neural Networks and Learning Systems和Applied Mathematical Modeling等中科院一区高水平期刊的编委",
+          "主要从事先进控制理论的研究及其在无人飞行器/集群智能决策与控制中的应用，以及通信感知控制一体化设计",
+          "共发表包括Automatica和IEEE Transactions on Automatic Control等国际顶刊的SCI论文70余篇",
+          "授权国家发明专利50余项",
+          "出版英文专著1部",
+          "主持国家自然科学基金重点项目和军科委基础加强子课题等国家重要项目",
+          "获得第九届中国自动化学会青年科学家奖"
+        ]
+      }
+    },
+    "site_chrome": {
+      "source_url": "https://kzgc.neuq.edu.cn/info/1020/1161.htm",
+      "publication_date": "2018-03-21",
+      "click_count": 15988,
+      "navigation_path": [
+        {
+          "anchor_text": "首页",
+          "url": "https://kzgc.neuq.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://kzgc.neuq.edu.cn/szdw/zrjs.htm"
+        },
+        {
+          "anchor_text": "专任教师",
+          "url": "https://kzgc.neuq.edu.cn/szdw/zrjs.htm"
+        },
+        {
+          "anchor_text": "自动化与电气工程系",
+          "url": "https://kzgc.neuq.edu.cn/szdw/zrjs/zdhydqgcx1.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "pagination": {
+        "previous": {
+          "anchor_text": "邵虹君",
+          "url": "https://kzgc.neuq.edu.cn/info/1020/1159.htm"
+        },
+        "next": {
+          "anchor_text": "刘云静",
+          "url": "https://kzgc.neuq.edu.cn/info/1020/1162.htm"
+        }
+      }
+    }
+  }
+}

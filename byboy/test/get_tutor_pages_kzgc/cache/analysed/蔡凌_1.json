@@ -1,0 +1,106 @@
+{
+  "meta": {
+    "tutor_name_cn": "蔡凌",
+    "request_url": "https://kzgc.neuq.edu.cn/info/1020/1169.htm",
+    "declared_source_url": "https://kzgc.neuq.edu.cn/info/1020/1169.htm",
+    "page_host": "kzgc.neuq.edu.cn",
+    "markdown_cache_path": "I:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\d4808ffbd621db134dc0ed4d572dcb578ea6c8b6be202a6f48b84a47af2d351e.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": "内容包含导师的简介、联系方式、研究方向、教育背景、工作履历、学术成果和讲授课程，信息量充足。"
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "name_query": "蔡凌",
+    "name_on_page": "蔡凌",
+    "personal_info": {
+      "name": "蔡凌",
+      "gender": "女",
+      "birth_date": "1980年2月",
+      "degree": "工学博士",
+      "title": "讲师",
+      "photo_url": "https://kzgc.neuq.edu.cn/__local/8/0E/6B/D87F28752937B3CDF8AEE1AAB48_4C4B1FA5_879C.jpg"
+    },
+    "contact_info": {
+      "email": "cailing9852@126.com"
+    },
+    "research_directions": [
+      "下一代互联网体系结构",
+      "路由协议",
+      "资源调度",
+      "缓存优化"
+    ],
+    "education_experience": [
+      {
+        "start_date": "2007.03",
+        "end_date": "2011.07",
+        "institution": "东北大学",
+        "major": "导航制导与控制专业",
+        "degree": "博士"
+      },
+      {
+        "start_date": "2002.09",
+        "end_date": "2004.07",
+        "institution": "哈尔滨工业大学",
+        "major": "电机与电器专业",
+        "degree": "硕士"
+      },
+      {
+        "start_date": "1998.09",
+        "end_date": "2002.07",
+        "institution": "哈尔滨工业大学",
+        "major": "电气工程及自动化专业",
+        "degree": "学士"
+      }
+    ],
+    "work_experience": [
+      {
+        "start_date": "2004.07",
+        "end_date": "至今",
+        "institution": "东北大学秦皇岛分校",
+        "position": "讲师"
+      }
+    ],
+    "academic_achievements": {
+      "papers": [
+        "Ling Cai .Adaptive caching strategy based on big data learning in ICN, Journal of Internet Technology; 蔡凌.基于路径代价和节点代价的信息中心网络缓存策略，小型微型计算机系统",
+        "Ling Cai .Multidimensional data learning-based caching strategy in information-centric networks, IEEE International Conference on Communications"
+      ]
+    },
+    "courses_taught": {
+      "undergraduate": [
+        "单片机原理与应用",
+        "工业网络技术",
+        "汽车总线技术"
+      ]
+    },
+    "site_chrome": {
+      "source_url": "https://kzgc.neuq.edu.cn/info/1020/1169.htm",
+      "breadcrumbs": [
+        {
+          "anchor_text": "首页",
+          "url": "https://kzgc.neuq.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://kzgc.neuq.edu.cn/szdw/zrjs.htm"
+        },
+        {
+          "anchor_text": "专任教师",
+          "url": "https://kzgc.neuq.edu.cn/szdw/zrjs.htm"
+        },
+        {
+          "anchor_text": "自动化与电气工程系",
+          "url": "https://kzgc.neuq.edu.cn/szdw/zrjs/zdhydqgcx1.htm"
+        },
+        "正文"
+      ],
+      "publish_time": "2018-03-21",
+      "page_views": 11940,
+      "previous_page": {
+        "anchor_text": "段洪君",
+        "url": "https://kzgc.neuq.edu.cn/info/1020/1168.htm"
+      }
+    }
+  }
+}

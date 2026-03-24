@@ -1,0 +1,284 @@
+{
+  "meta": {
+    "tutor_name_cn": "于力一",
+    "request_url": "https://kzgc.neuq.edu.cn/info/1020/5525.htm",
+    "declared_source_url": "https://kzgc.neuq.edu.cn/info/1020/5525.htm",
+    "page_host": "kzgc.neuq.edu.cn",
+    "markdown_cache_path": "I:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\be8f46661174068968172b36c9562d1f5253a4117f623f0695d0ca350730359b.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "site_metadata": {
+      "source_url": "https://kzgc.neuq.edu.cn/info/1020/5525.htm",
+      "page_title": "于力一",
+      "breadcrumb_navigation": [
+        {
+          "anchor_text": "首页",
+          "url": "https://kzgc.neuq.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://kzgc.neuq.edu.cn/szdw/zrjs.htm"
+        },
+        {
+          "anchor_text": "专任教师",
+          "url": "https://kzgc.neuq.edu.cn/szdw/zrjs.htm"
+        },
+        {
+          "anchor_text": "自动化与电气工程系",
+          "url": "https://kzgc.neuq.edu.cn/szdw/zrjs/zdhydqgcx1.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "published_date": "2025-12-04",
+      "click_count": 13124
+    },
+    "于力一": {
+      "personal_information": {
+        "name_zh": "于力一",
+        "gender": "男",
+        "degree": "工学博士",
+        "title": "讲师",
+        "image_url": "https://kzgc.neuq.edu.cn/__local/5/E4/26/551BB72C0B815DA790CA36497A3_E2A37F5C_23B76.png",
+        "image_description": null
+      },
+      "contact_information": {
+        "email": "yuliyi@neuq.edu.cn",
+        "phone": "13933667920",
+        "address": "河北省秦皇岛市海港区东北大学南校区科技楼5003"
+      },
+      "education_experience": [
+        {
+          "start_date": "2018.09",
+          "end_date": "2025.10",
+          "institution": "东北大学",
+          "major": "控制理论与控制工程",
+          "degree": "博士",
+          "notes": "本科直博"
+        },
+        {
+          "start_date": "2014.09",
+          "end_date": "2018.06",
+          "institution": "燕山大学",
+          "major": "自动化专业",
+          "degree": "学士",
+          "notes": null
+        }
+      ],
+      "work_experience": [
+        {
+          "start_date": "2025.11",
+          "end_date": "至今",
+          "position": "讲师",
+          "institution": "东北大学秦皇岛分校控制工程学院"
+        }
+      ],
+      "research_directions": "主要从事人工智能相关算法及其在复杂工业过程中的应用研究， 涉及机器学习、深度学习、深度强化学习等方法，应用于智能建模、智能感知、智能决策、故障诊断等领域。",
+      "academic_services": [
+        {
+          "role": "审稿人",
+          "organization": "IEEE Transactions on Automation Science and Engineering"
+        },
+        {
+          "role": "审稿人",
+          "organization": "IEEE Transactions on Industrial Informatics"
+        },
+        {
+          "role": "审稿人",
+          "organization": "IEEE Transactions on Industrial Electronics"
+        },
+        {
+          "role": "审稿人",
+          "organization": "Control Engineering Practice"
+        }
+      ],
+      "academic_publications": [
+        {
+          "title": "Deep Learning Framework for Collaborative Variable Time Delay Estimation and Uncertainty Quantification in Industrial Quality Prediction",
+          "authors": [
+            "Liyi Yu",
+            "Wen Yu",
+            "Yao Jia",
+            "Tianyou Chai*"
+          ],
+          "publication_type": "Journal Article",
+          "journal_conference_name": "IEEE Transactions on Industrial Informatics",
+          "year": "2025",
+          "volume": "21(2)",
+          "pages": "1960-1969",
+          "notes": null
+        },
+        {
+          "title": "Real-Time Caustic Ratio Prediction in Alumina Digestion Process for Closed-Loop Operation: A Cloud-Edge Deep Learning Approach",
+          "authors": [
+            "Liyi Yu",
+            "Wen Yu",
+            "Yao Jia",
+            "Tianyou Chai*"
+          ],
+          "publication_type": "Journal Article",
+          "journal_conference_name": "IEEE Transactions on Automation Science and Engineering",
+          "year": "2025",
+          "volume": "22",
+          "pages": "10787-10800",
+          "notes": null
+        },
+        {
+          "title": "Intelligent Operational Control Method Integrating Human Expertise and Real-Time Data for Alumina Digestion Process",
+          "authors": [
+            "Liyi Yu",
+            "Wen Yu",
+            "Yao Jia",
+            "Tianyou Chai*"
+          ],
+          "publication_type": "Journal Article",
+          "journal_conference_name": "Control Engineering Practice",
+          "year": "2025",
+          "volume": "156",
+          "pages": "106196",
+          "notes": null
+        },
+        {
+          "title": "Real-Time Caustic Ratio Control in Alumina Digestion Using Deep Reinforcement Learning",
+          "authors": [
+            "Liyi Yu*",
+            "Wen Yu",
+            "Siyu Cheng",
+            "Yao Jia",
+            "Tianyou Chai"
+          ],
+          "publication_type": "Conference Paper",
+          "journal_conference_name": "2024 6th International Conference on Industrial Artificial Intelligence (IAI 2024)",
+          "year": "2024",
+          "volume": null,
+          "pages": null,
+          "notes": "EI"
+        },
+        {
+          "title": "基于规则推理的氧化铝蒸发过程智能设定控制",
+          "authors": [
+            "于力一",
+            "贾瑶",
+            "柴天佑"
+          ],
+          "publication_type": "Conference Paper",
+          "journal_conference_name": "第31届中国过程控制会议 (Proceedings of the 31st Chinese Process Control Conference)",
+          "year": "2020",
+          "volume": null,
+          "pages": "40",
+          "notes": "徐州，中国"
+        }
+      ],
+      "patents": [
+        {
+          "title": "一种氧化铝碱液调配过程的控制系统",
+          "inventors": [
+            "柴天佑",
+            "贾瑶",
+            "于力一",
+            "等"
+          ],
+          "patent_type": "国家发明专利",
+          "application_number": "202110680747.6",
+          "grant_date": "2023-08-25",
+          "notes": null
+        },
+        {
+          "title": "复杂工业过程的运行优化控制系统",
+          "inventors": [
+            "柴天佑",
+            "贾瑶",
+            "于力一",
+            "等"
+          ],
+          "patent_type": "国家发明专利",
+          "application_number": "202110680748.0",
+          "grant_date": "2022-10-28",
+          "notes": "实现成果转化"
+        },
+        {
+          "title": "一种氧化铝溶出过程的自动控制方法",
+          "inventors": [
+            "柴天佑",
+            "贾瑶",
+            "于力一",
+            "等"
+          ],
+          "patent_type": "国家发明专利",
+          "application_number": "202110679077.6",
+          "grant_date": "2022-10-25",
+          "notes": null
+        },
+        {
+          "title": "一种氧化铝运行指标的智能检测装置",
+          "inventors": [
+            "柴天佑",
+            "贾瑶",
+            "赵亮",
+            "于力一",
+            "等"
+          ],
+          "patent_type": "国家发明专利",
+          "application_number": "202110680852.X",
+          "grant_date": "2022-10-25",
+          "notes": null
+        }
+      ],
+      "research_projects": [
+        {
+          "project_name": "氧化铝溶出和蒸发区域智能优化控制技术",
+          "funding_source": "东北大学-中铝集团企业合作项目",
+          "start_date": "2018.09",
+          "end_date": "2021.06",
+          "role": "参与",
+          "notes": null
+        },
+        {
+          "project_name": "知识和数据驱动的氧化铝生产过程协调优化控制及应用验证",
+          "funding_source": "国家自然科学基金重点项目",
+          "start_date": "2019.01",
+          "end_date": "2023.12",
+          "role": "参与",
+          "notes": null
+        },
+        {
+          "project_name": "优化决策与控制的工业人工智能平台",
+          "funding_source": "辽宁省科技重大专项",
+          "start_date": "2020.01",
+          "end_date": "2023.12",
+          "role": "参与",
+          "notes": null
+        },
+        {
+          "project_name": null,
+          "funding_source": "辽宁辽河实验室自主科研项目",
+          "start_date": "2023.01",
+          "end_date": "2025.12",
+          "role": "参与",
+          "notes": null
+        }
+      ],
+      "awards_and_honors": [
+        {
+          "award_name": "张钟俊院士优秀论文奖",
+          "awarding_body": "第31届中国过程控制会议",
+          "year": "2020",
+          "notes": null
+        }
+      ]
+    },
+    "other_persons_mentioned_on_page": [
+      {
+        "name_zh": "郑恬子",
+        "context": "导航链接 '下一篇'",
+        "related_url": "https://kzgc.neuq.edu.cn/info/1020/5495.htm"
+      }
+    ]
+  }
+}

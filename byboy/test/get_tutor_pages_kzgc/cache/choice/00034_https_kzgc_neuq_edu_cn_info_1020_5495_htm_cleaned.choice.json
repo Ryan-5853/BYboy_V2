@@ -1,0 +1,67 @@
+{
+  "clickable_links": [
+    {
+      "url": "https://kzgc.neuq.edu.cn/index.htm",
+      "anchor_text": "首页",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/szdw/zrjs.htm",
+      "anchor_text": "师资队伍",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "命中名录关键词",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/szdw/zrjs.htm",
+      "anchor_text": "专任教师",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "命中名录关键词",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/szdw/zrjs/zdhydqgcx1.htm",
+      "anchor_text": "自动化与电气工程系",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL路径和锚文本指示为院系师资队伍页面。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/__local/3/9F/92/ECB32C9C6252D41B1792262BEDD_E00C3639_BA8E8.jpg",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "直接链接到一个图片文件，与导师信息无关。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1020/5525.htm",
+      "anchor_text": "上一篇：于力一",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "锚文本指向人名“于力一”，很可能是一个教师个人页。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1020/5494.htm",
+      "anchor_text": "下一篇：杨旺",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "锚文本指向人名“杨旺”，很可能是一个教师个人页。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    }
+  ]
+}

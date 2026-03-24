@@ -4,7 +4,7 @@
 示例（仓库根目录，已配置 .env）::
 
     python -m byboy.agents.tutor_inf.tutor_analyse \\
-        "https://example.edu/faculty/zhang" 张三 ./out zhang.json --route default
+        "https://example.edu/faculty/zhang" 张三 ./out zhang.json --route BYBOY_SLOT_DEFAULT
 """
 
 from __future__ import annotations
@@ -26,8 +26,8 @@ def main(argv: list[str] | None = None) -> int:
     p.add_argument("output_filename", help="JSON 文件名，如 result.json")
     p.add_argument(
         "--route",
-        default="default",
-        help="LLM 路由键（槽位名或 openai:… / claude:…），默认 default",
+        default="BYBOY_SLOT_DEFAULT",
+        help="LLM 路由键（推荐传 BYBOY_SLOT_* 代号；也支持 openai:… / claude:…）",
     )
     p.add_argument(
         "--max-tokens",

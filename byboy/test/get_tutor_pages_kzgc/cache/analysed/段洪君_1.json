@@ -1,0 +1,207 @@
+{
+  "meta": {
+    "tutor_name_cn": "段洪君",
+    "request_url": "https://kzgc.neuq.edu.cn/info/1020/1168.htm",
+    "declared_source_url": "https://kzgc.neuq.edu.cn/info/1020/1168.htm",
+    "page_host": "kzgc.neuq.edu.cn",
+    "markdown_cache_path": "I:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\0197d76b8b26a63bc39a0cbfbfd9529ff2c16e6d5426af76c865f93192beac2e.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": "内容包含丰富的导师个人信息、教育、工作、科研、奖励、学术成果及教学情况，信息量充足。"
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "source_url": "https://kzgc.neuq.edu.cn/info/1020/1168.htm",
+    "site_chrome": {
+      "breadcrumbs": [
+        {
+          "anchor_text": "首页",
+          "url": "https://kzgc.neuq.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://kzgc.neuq.edu.cn/szdw/zrjs.htm"
+        },
+        {
+          "anchor_text": "专任教师",
+          "url": "https://kzgc.neuq.edu.cn/szdw/zrjs.htm"
+        },
+        {
+          "anchor_text": "自动化与电气工程系",
+          "url": "https://kzgc.neuq.edu.cn/szdw/zrjs/zdhydqgcx1.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "navigation_links": {
+        "previous_page": {
+          "anchor_text": "高静",
+          "url": "https://kzgc.neuq.edu.cn/info/1020/1167.htm"
+        },
+        "next_page": {
+          "anchor_text": "蔡凌",
+          "url": "https://kzgc.neuq.edu.cn/info/1020/1169.htm"
+        }
+      }
+    },
+    "teacher_profile": {
+      "name": "段洪君",
+      "gender": "男",
+      "birth_date": "1971年6月生",
+      "degree": "工学博士",
+      "titles_and_positions": [
+        "副教授",
+        "硕士生导师"
+      ],
+      "page_metadata": {
+        "published_date": "2018-03-21",
+        "click_count": 12984
+      },
+      "profile_picture": {
+        "url": "https://kzgc.neuq.edu.cn/__local/8/F3/AB/9FAABA47BC9651C3CCA9888DF12_F77E5459_9B8E.jpg",
+        "alt_text": "段洪君"
+      },
+      "contact_information": {
+        "phone": "15028571055",
+        "email": "dhjday@126.com"
+      },
+      "research_directions": [
+        "复杂系统建模优化与控制",
+        "电机系统及其智能控制"
+      ],
+      "education_experience": [
+        {
+          "period": "1989.09-1993.07",
+          "institution": "吉林化工学院",
+          "major": "生产过程自动化"
+        },
+        {
+          "period": "2000.09-2002.06",
+          "institution": "吉林大学",
+          "major": "控制理论与控制工程"
+        },
+        {
+          "period": "2005.02-2007.12",
+          "institution": "哈尔滨工业大学",
+          "major": "控制科学与工程"
+        }
+      ],
+      "work_experience": [
+        {
+          "period": "1993.07-2005.01",
+          "institution": "吉林化工学院"
+        },
+        {
+          "period": "2008.03-现在",
+          "institution": "东北大学秦皇岛分校"
+        }
+      ],
+      "research_projects": {
+        "ongoing_projects": [
+          {
+            "name": "复杂混合溶液联合析出的建模与控制研究",
+            "funding_source": "河北省自然科学基金（面上）项目"
+          },
+          {
+            "name": "多组分溶液结晶析出建模与控制研究",
+            "funding_source": "东北大学秦皇岛分校科技支撑基金项目"
+          }
+        ],
+        "completed_projects": [
+          {
+            "name": "扑翼微型飞行器飞行姿态建模与控制研究",
+            "funding_source": "河北省高等学校科学技术研究指导项目"
+          },
+          {
+            "name": "基于FTIR-ATR的中药注射液质量监测技术研究",
+            "funding_source": "石药集团医药联合研究基金项目"
+          }
+        ]
+      },
+      "awards_and_honors": [
+        {
+          "year": "2022年",
+          "description": "东北大学教学成果二等奖"
+        },
+        {
+          "year": "2021年",
+          "description": "河北省教学名师"
+        },
+        {
+          "year": "2021年",
+          "description": "东北大学秦皇岛分校教学成果二等奖"
+        },
+        {
+          "year": "2020年",
+          "description": "河北省优秀教学团队带头人"
+        },
+        {
+          "year": "2020年",
+          "description": "东北大学秦皇岛分校创新创业教育优秀指导教师"
+        },
+        {
+          "year": "2019年",
+          "description": "河北省教学成果二等奖"
+        },
+        {
+          "year": "2019年",
+          "description": "东北大学秦皇岛分校教学成果一等奖"
+        },
+        {
+          "year": "2019年",
+          "description": "“挑战杯”河北省大学生课外学术科技作品竞赛特等奖指导教师"
+        },
+        {
+          "year": "2014年",
+          "description": "秦皇岛市“三育人”先进个人"
+        },
+        {
+          "year": "2014年",
+          "description": "东北大学秦皇岛分校本利毕业设计（论文）优秀指导教师"
+        },
+        {
+          "year": "2013年",
+          "description": "东北大学秦皇岛分校大学生科技竞赛优秀指导教师"
+        },
+        {
+          "year": "2012年",
+          "description": "东北大学秦皇岛分校优秀教师"
+        }
+      ],
+      "academic_achievements_summary": {
+        "projects_involvement": "主持河北省自然科学基金项目、河北省高等学校自然科学项目、东北大学秦皇岛分校科技支撑基金项目和横向项目等多项；参加航天支撑技术基金项目、武器装备预研基金项目、石药集团医药联合研究基金项目和秦皇岛市科技计划项目等多项。",
+        "publications": "以第一作者在国内外重要学术期刊及国际学术会议发表学术论文30余篇，多篇被SCI或EI收录。",
+        "books": "出版学术专著1部、国家级规划教材1部。"
+      },
+      "representative_academic_papers": [
+        "1.Donghang LI, Hongjun SHAO, Hongjun DUAN. Duty-Cycle-Optimized Voltage Predictive Control for Four-Leg Inverters With Over-Modulation Capability.IEEE Transactions on Circuits and Systems--I: Regular Papers, 2024.",
+        "2.Yakun ZHU, Haoran LI, Hongjun DUAN. Consensus of multi-agent system based on novel avoidance function and unequal avoidance strategy. IET Control Theory and Applications, 2020.",
+        "3.Yakun ZHU, Haoran LI, Hongjun DUAN. Optimal Energy Consumption for Consensus of Multi-Agent Systems with Communication Faults. IEEE Access, 2019.",
+        "4.Hongjun DUAN, Zhenhe MA, Shurong ZHU, Yong SHAO. Modeling and optimization of polysaccharide precipitation of traditional Chinese medicine injection. International Journal of Machine Learning and Cybernetics, 2016.",
+        "5.段洪君, 李志刚, 李清伟. 扑翼式飞行机器人飞行姿态控制模型研究. 东北大学学报, 2011.",
+        "6.段洪君, 王凤文, 史小平.飞行机器人递归小脑神经网络模型分解控制. 电机与控制学报, 2011."
+      ],
+      "monographs": [
+        "1.段洪君，史小平. 微型飞行器建模与控制. 科学出版社，2012."
+      ],
+      "courses_taught": {
+        "undergraduate_courses": [
+          "自动控制原理",
+          "最优控制与智能控制基础",
+          "机械控制工程",
+          "控制工程基础"
+        ],
+        "postgraduate_courses": [
+          "智能控制理论及应用",
+          "科学精神与文化素养教育"
+        ]
+      },
+      "graduate_supervision": {
+        "total_supervised_masters": 20,
+        "current_masters": 6
+      }
+    }
+  }
+}

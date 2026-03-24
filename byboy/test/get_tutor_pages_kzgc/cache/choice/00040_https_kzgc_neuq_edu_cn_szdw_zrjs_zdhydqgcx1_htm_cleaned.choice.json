@@ -1,0 +1,319 @@
+{
+  "clickable_links": [
+    {
+      "url": "https://kzgc.neuq.edu.cn/index.htm",
+      "anchor_text": "首页",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/szdw/zrjs.htm",
+      "anchor_text": "师资队伍",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "命中名录关键词",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/szdw/zrjs.htm",
+      "anchor_text": "专任教师",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "命中名录关键词",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/szdw/zrjs/zdhydqgcx1.htm",
+      "anchor_text": "自动化与电气工程系",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL含“师资队伍”、“专任教师”，锚文本是系部名称，是师资目录页。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1020/4014.htm",
+      "anchor_text": "刘士新",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "锚文本为导师姓名，URL是个人信息页的常见格式。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1020/1168.htm",
+      "anchor_text": "段洪君",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "锚文本为导师姓名，URL是个人信息页的常见格式。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1020/1169.htm",
+      "anchor_text": "蔡凌",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "锚文本为导师姓名，URL是个人信息页的常见格式。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1020/1201.htm",
+      "anchor_text": "范立娜",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "锚文本为导师姓名，URL是个人信息页的常见格式。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1020/1167.htm",
+      "anchor_text": "高静",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "锚文本为导师姓名，URL是个人信息页的常见格式。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1020/1166.htm",
+      "anchor_text": "高原",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "锚文本为导师姓名，URL是个人信息页的常见格式。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1020/1144.htm",
+      "anchor_text": "高振宇",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "锚文本为导师姓名，URL是个人信息页的常见格式。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1020/1164.htm",
+      "anchor_text": "郭戈",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "锚文本为导师姓名，URL是个人信息页的常见格式。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1020/1152.htm",
+      "anchor_text": "郭峰",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "锚文本为导师姓名，URL是个人信息页的常见格式。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1020/1145.htm",
+      "anchor_text": "孔芝",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "锚文本为导师姓名，URL是个人信息页的常见格式。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1020/2644.htm",
+      "anchor_text": "韩萌",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "锚文本为导师姓名，URL是个人信息页的常见格式。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1020/1146.htm",
+      "anchor_text": "李成铁",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "锚文本为导师姓名，URL是个人信息页的常见格式。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1020/1163.htm",
+      "anchor_text": "刘丽",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "锚文本为导师姓名，URL是个人信息页的常见格式。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1020/1162.htm",
+      "anchor_text": "刘云静",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "锚文本为导师姓名，URL是个人信息页的常见格式。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1020/1161.htm",
+      "anchor_text": "孟范伟",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "锚文本为导师姓名，URL是个人信息页的常见格式。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1020/5024.htm",
+      "anchor_text": "荣丽娜",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "锚文本为导师姓名，URL是个人信息页的常见格式。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1020/1159.htm",
+      "anchor_text": "邵虹君",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "锚文本为导师姓名，URL是个人信息页的常见格式。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1020/1158.htm",
+      "anchor_text": "舒冬梅",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "锚文本为导师姓名，URL是个人信息页的常见格式。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1020/3014.htm",
+      "anchor_text": "孙亮亮",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "锚文本为导师姓名，URL是个人信息页的常见格式。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1020/1156.htm",
+      "anchor_text": "王宏伟",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "锚文本为导师姓名，URL是个人信息页的常见格式。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1020/1155.htm",
+      "anchor_text": "王立夫",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "锚文本为导师姓名，URL是个人信息页的常见格式。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1020/2196.htm",
+      "anchor_text": "王正松",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "锚文本为导师姓名，URL是个人信息页的常见格式。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1020/4604.htm",
+      "anchor_text": "王秀博",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "锚文本为导师姓名，URL是个人信息页的常见格式。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1020/1154.htm",
+      "anchor_text": "魏永涛",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "锚文本为导师姓名，URL是个人信息页的常见格式。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1020/1147.htm",
+      "anchor_text": "于淼",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "锚文本为导师姓名，URL是个人信息页的常见格式。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1020/3834.htm",
+      "anchor_text": "张璐",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "锚文本为导师姓名，URL是个人信息页的常见格式。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1020/1153.htm",
+      "anchor_text": "朱亚锟",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "锚文本为导师姓名，URL是个人信息页的常见格式。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1020/4285.htm",
+      "anchor_text": "张树磊",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "锚文本为导师姓名，URL是个人信息页的常见格式。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1020/5494.htm",
+      "anchor_text": "杨旺",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "锚文本为导师姓名，URL是个人信息页的常见格式。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1020/5495.htm",
+      "anchor_text": "郑恬子",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "锚文本为导师姓名，URL是个人信息页的常见格式。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1020/5525.htm",
+      "anchor_text": "于力一",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "锚文本为导师姓名，URL是个人信息页的常见格式。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    }
+  ]
+}

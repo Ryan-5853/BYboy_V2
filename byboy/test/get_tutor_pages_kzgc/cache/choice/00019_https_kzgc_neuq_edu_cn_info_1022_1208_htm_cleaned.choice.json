@@ -1,0 +1,67 @@
+{
+  "clickable_links": [
+    {
+      "url": "https://kzgc.neuq.edu.cn/index.htm",
+      "anchor_text": "首页",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/szdw/zrjs.htm",
+      "anchor_text": "师资队伍",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "命中名录关键词",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/szdw/zrjs.htm",
+      "anchor_text": "专任教师",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "命中名录关键词",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/szdw/zrjs/jxydlgcx1.htm",
+      "anchor_text": "机械与动力工程系",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL含师资队伍及系名，锚文本是系名，应为师资列表。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/__local/A/C9/4D/5E56C9AC31B03DD0ECEEAB7E99B_98F1DEC3_881D.jpg",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL是图片文件，非网页内容。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1022/1207.htm",
+      "anchor_text": "上一篇：张荣闯",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "锚文本“上一篇：张荣闯”指示跳转至个人介绍页。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1022/1212.htm",
+      "anchor_text": "下一篇：王海艳",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "锚文本“下一篇：王海艳”指示跳转至个人介绍页。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    }
+  ]
+}

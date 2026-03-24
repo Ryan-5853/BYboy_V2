@@ -24,15 +24,30 @@ class ModelSlotRegistry:
             for name, spec in slots.items():
                 self.set_slot(name, spec)
 
-    def set_slot(self, name: str, spec: RouteSpec | str) -> None:
+    @staticmethod
+    def _normalize_slot_name(name: str) -> str:
+        """
+        统一槽位标识，兼容：
+        - fast / reasoning
+        - slot_fast / slot_reasoning
+        - BYBOY_SLOT_FAST / BYBOY_SLOT_REASONING
+        """
         key = name.strip().lower()
+        if key.startswith("byboy_slot_"):
+            key = key[len("byboy_slot_") :]
+        elif key.startswith("slot_"):
+            key = key[len("slot_") :]
+        return key
+
+    def set_slot(self, name: str, spec: RouteSpec | str) -> None:
+        key = self._normalize_slot_name(name)
         if isinstance(spec, str):
             self._slots[key] = parse_route_spec_token(spec.strip())
         else:
             self._slots[key] = spec
 
     def get_slot(self, name: str) -> RouteSpec | None:
-        return self._slots.get(name.strip().lower())
+        return self._slots.get(self._normalize_slot_name(name))
 
     def resolve_adhoc(self, token: str) -> RouteSpec | None:
         """

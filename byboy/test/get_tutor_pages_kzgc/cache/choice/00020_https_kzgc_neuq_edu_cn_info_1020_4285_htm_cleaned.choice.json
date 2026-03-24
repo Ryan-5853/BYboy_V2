@@ -1,0 +1,67 @@
+{
+  "clickable_links": [
+    {
+      "url": "https://kzgc.neuq.edu.cn/index.htm",
+      "anchor_text": "首页",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/szdw/zrjs.htm",
+      "anchor_text": "师资队伍",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "命中名录关键词",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/szdw/zrjs.htm",
+      "anchor_text": "专任教师",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "命中名录关键词",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/szdw/zrjs/zdhydqgcx1.htm",
+      "anchor_text": "自动化与电气工程系",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL含“师资队伍/专任教师”，锚文本是系名称，是师资列表页。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "mailto:zhangshulei@neuq.edu.cn",
+      "anchor_text": "zhangshulei@neuq.edu.cn",
+      "scope": "unknown",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "mailto 链接",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1020/4604.htm",
+      "anchor_text": "上一篇：王秀博",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "锚文本“上一篇：王秀博”明确指向导师个人页。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1020/4014.htm",
+      "anchor_text": "下一篇：刘士新",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "锚文本“下一篇：刘士新”明确指向导师个人页。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    }
+  ]
+}

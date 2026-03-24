@@ -1,0 +1,289 @@
+{
+  "meta": {
+    "tutor_name_cn": "李明",
+    "request_url": "https://kzgc.neuq.edu.cn/info/1022/1203.htm",
+    "declared_source_url": "https://kzgc.neuq.edu.cn/info/1022/1203.htm",
+    "page_host": "kzgc.neuq.edu.cn",
+    "markdown_cache_path": "I:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\ceb0309e3e938f3b4e965ed677ef06b5e021b6c48bb6f3fd421ea15af01b5047.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "name": "李明",
+    "source_url": "https://kzgc.neuq.edu.cn/info/1022/1203.htm",
+    "personal_info": {
+      "gender": "男",
+      "birth_date": "1988年10月",
+      "hometown": "河北衡水人",
+      "degrees": [
+        {
+          "type": "博士",
+          "field": "工学"
+        }
+      ],
+      "titles": [
+        "硕士生导师"
+      ],
+      "current_position": {
+        "title": "副主任",
+        "department": "机械与动力工程系"
+      },
+      "research_focus": "主要致力于智能装备与智能制造技术的前沿研究，面向航空航天、海洋工程、新能源、集成电路、医疗等领域国家重大需求开展多学科交叉研究。"
+    },
+    "image": {
+      "url": "https://kzgc.neuq.edu.cn/__local/B/5B/C8/E9A14F5D5F1E31756E82A72B139_AC82BD67_7313.jpg"
+    },
+    "affiliated_labs": [
+      "航空动力装备振动及控制教育部重点实验室",
+      "辽宁省大型装备智能设计与制造技术重点实验室",
+      "秦皇岛市工程陶瓷精密加工与刀具技术重点实验室"
+    ],
+    "contact_info": {
+      "email": "liming@neuq.edu.cn",
+      "office_address": "南校区科技楼2034室",
+      "phone_number": "18842591952",
+      "wechat_same_as_phone": true,
+      "mailing_address": "河北省秦皇岛市海港区泰山路143号"
+    },
+    "research_directions": [
+      "多能场复合绿色智能高效加工理论、技术及装备",
+      "机器人与多传感融合的新型智能制造工艺技术及装备",
+      "增材制造与激光加工技术",
+      "装备轻量化设计与制造技术"
+    ],
+    "admissions_information": {
+      "master_students_per_year": "2-4人",
+      "research_areas_for_students": [
+        "机械",
+        "材料",
+        "人工智能",
+        "数控装备",
+        "机器人",
+        "传感器",
+        "医疗"
+      ],
+      "welcome_majors": [
+        "机械工程",
+        "车辆工程",
+        "材料加工",
+        "控制工程"
+      ]
+    },
+    "education_background": [
+      {
+        "start_date": "2015.09",
+        "end_date": "2020.07",
+        "institution": "东北大学",
+        "degree": "博士",
+        "major": "机械制造及其自动化专业"
+      },
+      {
+        "start_date": "2013.09",
+        "end_date": "2015.06",
+        "institution": "东北大学",
+        "degree": "硕士",
+        "major": "机械工程专业",
+        "note": "免试保送"
+      },
+      {
+        "start_date": "2009.09",
+        "end_date": "2013.06",
+        "institution": "东北大学秦皇岛分校",
+        "degree": "学士",
+        "major": "机械工程与自动化专业"
+      }
+    ],
+    "work_experience": [
+      {
+        "start_date": "2020.07",
+        "end_date": "至今",
+        "institution": "东北大学秦皇岛分校",
+        "position": "讲师"
+      }
+    ],
+    "academic_affiliations": [
+      {
+        "role": "高级会员",
+        "organization": "中国机械工程学会"
+      },
+      {
+        "role": "通讯评审专家",
+        "organization": "国家自然科学基金"
+      },
+      {
+        "role": "期刊审稿人",
+        "journals": [
+          "Journal of Cleaner Production",
+          "Journal of Materials Processing Technology",
+          "Journal of Mechanical Science and Technology"
+        ]
+      }
+    ],
+    "research_projects": {
+      "hosted_projects": [
+        "国家自然科学基金青年项目",
+        "河北省自然科学基金面上项目",
+        "河北省自然科学基金青年项目",
+        "河北省高等学校科学技术研究项目",
+        "河北省高等教育教学改革研究与实践项目",
+        "中央高校基本科研业务费项目",
+        "中央高校基本科研业务费项目",
+        "东北大学秦皇岛分校科研启动项目",
+        "横向课题两项"
+      ],
+      "participated_projects": [
+        "国家工信部“绿色制造系统集成”重大专项",
+        "国家重点研发计划“变革性技术”重点专项",
+        "国家自然科学基金联合基金重点项目",
+        "国家自然科学基金面上项目"
+      ]
+    },
+    "academic_achievements": {
+      "papers": [
+        {
+          "authors": "Ming Li, Qingguang Li, Xianchao Pan, Zuoquan Zhang, Mengjie Li, Shengzhi Xu, Zixuan Wang, Yunguang Zhou, Lianjie Ma, Tianbiao Yu, Ji Zhao",
+          "title": "Progress and prospects in cutting of particle reinforced metal matrix composites",
+          "journal": "Composite Structures",
+          "year": 2025,
+          "volume": "372",
+          "pages": "119598"
+        },
+        {
+          "authors": "Ming Li, Tianbiao Yu*, Lin Yang, Hongyu Li, Rongchuang Zhang, Wanshan Wang",
+          "title": "Parameter optimization during minimum quantity lubrication milling of TC4 alloy with graphene-dispersed vegetable-oil-based cutting fluid",
+          "journal": "Journal of Cleaner Production",
+          "year": 2019,
+          "volume": "209",
+          "pages": "1508-1522"
+        },
+        {
+          "authors": "Ming Li, Tianbiao Yu*, Rongchuang Zhang*, Lin Yang*, Zhelun Ma, Baichun Li, XueZhi Wang, Wanshan Wang, Ji Zhao",
+          "title": "Experimental evaluation of an eco-friendly grinding process combining minimum quantity lubrication and graphene-enhanced plant-oil-based cutting fluid",
+          "journal": "Journal of Cleaner Production",
+          "year": 2020,
+          "volume": "244",
+          "pages": "118747"
+        },
+        {
+          "authors": "Ming Li, Tianbiao Yu*, Rongchuang Zhang, Lin Yang, Hongyu Li, Wanshan Wang",
+          "title": "MQL milling of TC4 alloy by dispersing graphene into vegetable oil-based cutting fluid",
+          "journal": "The International Journal of Advanced Manufacturing Technology",
+          "year": 2018,
+          "volume": "99",
+          "issue": "5",
+          "pages": "1735-1753"
+        },
+        {
+          "authors": "李明, 于天彪, 张荣闯, 王宛山",
+          "title": "基于石墨烯强化MQL的GH4169合金铣削表面质量研究",
+          "journal": "东北大学学报（自然科学版）",
+          "year": 2020,
+          "volume": "41",
+          "issue": "03",
+          "pages": "387-392"
+        }
+      ],
+      "patents": [
+        {
+          "inventors": "杨林, 李明, 于天彪, 王宛山",
+          "title": "多角度可预热回火式激光熔覆头",
+          "country": "中国",
+          "patent_number": "CN106862756A",
+          "publication_date": "2017-06-20",
+          "status": "已授权"
+        },
+        {
+          "inventors": "王佳琪, 李明, 周云光, 马廉洁, 张荣闯, 谭雁清",
+          "title": "一种模拟镍钛合金动态再结晶的方法",
+          "patent_number": "ZL202310533203.6",
+          "status": "已公开"
+        },
+        {
+          "inventors": "李明, 王佳琪, 周云光, 马廉洁, 张荣闯, 谭雁清",
+          "title": "一种sCO2微量润滑系统喷嘴温度场的测量装置及方法",
+          "patent_number": "ZL202310704362.8",
+          "status": "已公开"
+        },
+        {
+          "inventors": "李明, 李庆广, 王佳琪, 周云光, 李德震, 张荣闯, 马廉洁",
+          "title": "一种用于冻结切削瞬态的电磁旋转快速落刀装置及方法",
+          "patent_number": "ZL202311660763.4",
+          "status": "已公开"
+        }
+      ],
+      "software_copyrights": [
+        {
+          "authors": "王佳琪, 李明, 周云光, 黄鹏",
+          "title": "镍钛合金切削加工参数自动计算软件V1.0"
+        },
+        {
+          "authors": "李庆广, 李明, 周云光, 黄鹏, 王佳琪",
+          "title": "3SPS+S型并联机构受力分析及最大收缩量自动计算软件V1.0"
+        },
+        {
+          "authors": "潘宪超, 李明, 李庆广, 王佳琪, 黄鹏",
+          "title": "多孔材料微铣削加工工艺参数自动计算软件V1.0"
+        }
+      ]
+    },
+    "awards_and_honors": [
+      "中国机械工程学会绿色制造科学技术进步奖",
+      "河北省高校教师教学创新大赛三等奖",
+      "东北大学秦皇岛分校教师教学创新大赛一等奖",
+      "东北大学秦皇岛分校本科生毕业设计优秀指导教师"
+    ],
+    "courses_taught": {
+      "undergraduate": [
+        "《先进制造技术》",
+        "《工程材料及成型基础》"
+      ],
+      "graduate": [
+        "《论文写作指导》"
+      ]
+    },
+    "student_supervision": {
+      "masters_current_students": "4名",
+      "masters_graduated_students": "1名"
+    },
+    "site_chrome": {
+      "page_info": {
+        "published_time": "2020-09-17",
+        "click_count_label": "点击量："
+      },
+      "breadcrumbs": [
+        {
+          "anchor_text": "首页",
+          "url": "https://kzgc.neuq.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://kzgc.neuq.edu.cn/szdw/zrjs.htm"
+        },
+        {
+          "anchor_text": "专任教师",
+          "url": "https://kzgc.neuq.edu.cn/szdw/zrjs.htm"
+        },
+        {
+          "anchor_text": "机械与动力工程系",
+          "url": "https://kzgc.neuq.edu.cn/szdw/zrjs/jxydlgcx1.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "navigation_links": {
+        "previous_page": {
+          "anchor_text": "郝博",
+          "url": "https://kzgc.neuq.edu.cn/info/1022/2804.htm"
+        },
+        "next_page": {
+          "anchor_text": "杨登峰",
+          "url": "https://kzgc.neuq.edu.cn/info/1022/1204.htm"
+        }
+      }
+    }
+  }
+}

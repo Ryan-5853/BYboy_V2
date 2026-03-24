@@ -12,8 +12,5 @@ build/
 .env.*
 !.env.example
 
-# tutor_analyse：Firecrawl 缓存的 Markdown
-byboy/agents/tutor_inf/tutor_analyse/cache/
-
-# tutor_analyse_vision：HTML 会话缓存与下载图片
-byboy/agents/tutor_inf/tutor_analyse_vision/cache/
+# 允许同步调试记录与业务缓存（用于多设备协同调试）
+# 注意：这里不再忽略 tutor_inf 相关 cache 目录

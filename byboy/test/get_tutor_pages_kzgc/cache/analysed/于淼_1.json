@@ -1,0 +1,194 @@
+{
+  "meta": {
+    "tutor_name_cn": "于淼",
+    "request_url": "https://kzgc.neuq.edu.cn/info/1020/1147.htm",
+    "declared_source_url": "https://kzgc.neuq.edu.cn/info/1020/1147.htm",
+    "page_host": "kzgc.neuq.edu.cn",
+    "markdown_cache_path": "I:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\0bbbcf83be8dfcec0d2903b72553f63f1eb2fb1c0c9e3305306278d63978e801.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "personal_info": {
+      "name": "于淼",
+      "gender": "女",
+      "birth_date": "1986年4月",
+      "degrees": [
+        "工学博士"
+      ],
+      "titles": [
+        "副教授",
+        "硕士生导师"
+      ],
+      "image_url": "https://kzgc.neuq.edu.cn/__local/F/6F/40/1734B748A47733B045D6E318300_E44110FB_A699.jpg"
+    },
+    "contact_info": {
+      "email": "yumiao@neuq.edu.cn"
+    },
+    "research_directions": [
+      "复杂工业过程智能建模与控制、工业大数据分析、机器学习、计算智能及其应用研究",
+      "车辆动力学建模与控制、交通流建模及预测研究、多路口信号灯联合控制及智能交通系统关键技术"
+    ],
+    "education_background": [
+      {
+        "start_date": "2013.09",
+        "end_date": "2019.01",
+        "degree": "博士",
+        "major": "控制科学与工程",
+        "institution": "东北大学"
+      }
+    ],
+    "work_experience": [
+      {
+        "start_date": "2019.03",
+        "end_date": "至今",
+        "institution": "东北大学秦皇岛分校"
+      }
+    ],
+    "research_projects": {
+      "ongoing": [
+        {
+          "name": "河北省教育厅科学技术研究重点项目",
+          "role": "项目负责人",
+          "start_date": "2022.01",
+          "end_date": "2024.12"
+        },
+        {
+          "name": "东北大学秦皇岛分校引进人才启动基金",
+          "role": "项目负责人",
+          "start_date": "2020.01",
+          "end_date": "2025.12"
+        },
+        {
+          "name": "国家自然科学基金",
+          "role": "项目参与人",
+          "start_date": "2025.01",
+          "end_date": "2028.12"
+        }
+      ],
+      "completed": [
+        {
+          "name": "国家自然科学基金",
+          "role": "项目负责人",
+          "start_date": "2021.01",
+          "end_date": "2023.12"
+        },
+        {
+          "name": "河北省自然科学基金",
+          "role": "项目负责人",
+          "start_date": "2021.01",
+          "end_date": "2023.12"
+        },
+        {
+          "name": "中央高校基本科研业务费",
+          "role": "项目负责人",
+          "start_date": "2020.01",
+          "end_date": "2021.12"
+        }
+      ]
+    },
+    "awards_and_honors": [
+      {
+        "year": "2023",
+        "name": "东北大学秦皇岛分校优秀毕业设计指导教师",
+        "institution": "东北大学秦皇岛分校"
+      }
+    ],
+    "academic_achievements": {
+      "general_statement": "研究成果在控制领域SCI期刊发表论文20余篇",
+      "representative_papers": [
+        {
+          "authors": "Miao Yu*, et al.",
+          "title": "Closed-loop continuous-time Laguerre-based subspace identification via orthogonal projection approach",
+          "journal": "Transactions of the Institute of Measurement and Control",
+          "year": "2024",
+          "identifier": "https://doi.org/10.1177/01423312241276330"
+        },
+        {
+          "authors": "Miao Yu*, et al.",
+          "title": "Closed-loop time-varying continuous-time recursive subspace-based prediction via principle angles rotation",
+          "journal": "ISA Transactions",
+          "year": "2022",
+          "volume_issue_pages": "122: 135-145"
+        },
+        {
+          "authors": "Miao Yu*, et al.",
+          "title": "Recursive subspace identification of continuous-time systems using generalized Poisson moment functionals",
+          "journal": "Circuits, Systems, and Signal Processing",
+          "year": "2022",
+          "volume_issue_pages": "41: 1848-1868"
+        },
+        {
+          "authors": "Miao Yu*, et al.",
+          "title": "Closed-loop delta-operator-based subspace identification for continuous-time systems utilising the parity space",
+          "journal": "International Journal of Systems Science",
+          "year": "2021",
+          "volume_issue_pages": "52(15): 3323-3334"
+        },
+        {
+          "authors": "Miao Yu*, et al.",
+          "title": "Continuous-time Laguerre-based subspace identification utilising nuclear norm minimisation",
+          "journal": "International Journal of Systems Science",
+          "year": "2021",
+          "volume_issue_pages": "52(1): 157-172"
+        }
+      ]
+    },
+    "courses_taught": {
+      "graduate_courses": [
+        "《系统辨识》"
+      ],
+      "undergraduate_courses": [
+        "《智能交通》",
+        "《学科前沿知识讲座》"
+      ]
+    },
+    "student_supervision": {
+      "masters_students_count": 7,
+      "description": "指导硕士研究生7名"
+    },
+    "page_metadata": {
+      "source_url": "https://kzgc.neuq.edu.cn/info/1020/1147.htm",
+      "publish_time": "2019-05-23",
+      "click_count": 9602
+    },
+    "site_chrome": {
+      "breadcrumbs": [
+        {
+          "text": "首页",
+          "url": "https://kzgc.neuq.edu.cn/index.htm"
+        },
+        {
+          "text": "师资队伍",
+          "url": "https://kzgc.neuq.edu.cn/szdw/zrjs.htm"
+        },
+        {
+          "text": "专任教师",
+          "url": "https://kzgc.neuq.edu.cn/szdw/zrjs.htm"
+        },
+        {
+          "text": "自动化与电气工程系",
+          "url": "https://kzgc.neuq.edu.cn/szdw/zrjs/zdhydqgcx1.htm"
+        },
+        {
+          "text": "正文",
+          "url": null
+        }
+      ],
+      "related_articles_navigation": [
+        {
+          "type": "previous",
+          "text": "李成铁",
+          "url": "https://kzgc.neuq.edu.cn/info/1020/1146.htm"
+        },
+        {
+          "type": "next",
+          "text": "郭峰",
+          "url": "https://kzgc.neuq.edu.cn/info/1020/1152.htm"
+        }
+      ]
+    }
+  }
+}

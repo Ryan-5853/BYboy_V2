@@ -22,6 +22,7 @@ from urllib.parse import urlsplit
 
 from byboy.agent.invoke import AgentInvocation, ModelRef
 from byboy.env_loader import ensure_dotenv_loaded
+from byboy.agents.tutor_inf.logging_utils import AgentLogger
 from byboy.llm.dispatcher import LLMDispatcher
 
 
@@ -129,7 +130,11 @@ def _output_path(payload: WebCleanPayload) -> Path:
     name = payload.output_filename.strip()
     if not name:
         raise ValueError("output_filename 不能为空")
+    if Path(name).suffix.lower() != ".md":
+        raise ValueError("output_filename 必须以 .md 结尾")
     base = Path(payload.output_dir)
+    if not str(base).strip():
+        raise ValueError("output_dir 不能为空")
     return (base / name).resolve()
 
 
@@ -144,13 +149,18 @@ class WebCleanAgent:
         inv: AgentInvocation[WebCleanPayload],
         dispatcher: LLMDispatcher,
     ) -> Path:
+        log = AgentLogger("WebCleanAgent")
+        log.start("开始清洗网页", detail=inv.llm_part.url.strip())
         dispatcher.resolve(inv.model.token)
         p = inv.llm_part
+        _validate_http_url(p.url)
+        log.step("调用 Firecrawl 抓取 markdown")
         raw = scrape_url_to_markdown(p.url)
         md = _markdown_with_source_declaration(p.url, raw)
         out = _output_path(p)
         out.parent.mkdir(parents=True, exist_ok=True)
         out.write_text(md, encoding="utf-8", newline="\n")
+        log.done("写入清洗结果", detail=str(out))
         return out
 
     async def arun(

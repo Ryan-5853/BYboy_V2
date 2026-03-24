@@ -1,0 +1,42 @@
+> 抓取来源：https://kzgc.neuq.edu.cn/szdw/zrjs/zdhydqgcx1.htm
+
+您的位置：
+[首页](https://kzgc.neuq.edu.cn/index.htm)
+>
+[师资队伍](https://kzgc.neuq.edu.cn/szdw/zrjs.htm)
+>
+[专任教师](https://kzgc.neuq.edu.cn/szdw/zrjs.htm)
+>
+[自动化与电气工程系](https://kzgc.neuq.edu.cn/szdw/zrjs/zdhydqgcx1.htm)
+
+- [刘士新](https://kzgc.neuq.edu.cn/info/1020/4014.htm "刘士新")
+- [段洪君](https://kzgc.neuq.edu.cn/info/1020/1168.htm "段洪君")
+- [蔡凌](https://kzgc.neuq.edu.cn/info/1020/1169.htm "蔡凌")
+- [范立娜](https://kzgc.neuq.edu.cn/info/1020/1201.htm "范立娜")
+- [高静](https://kzgc.neuq.edu.cn/info/1020/1167.htm "高静")
+- [高原](https://kzgc.neuq.edu.cn/info/1020/1166.htm "高原")
+- [高振宇](https://kzgc.neuq.edu.cn/info/1020/1144.htm "高振宇")
+- [郭戈](https://kzgc.neuq.edu.cn/info/1020/1164.htm "郭戈")
+- [郭峰](https://kzgc.neuq.edu.cn/info/1020/1152.htm "郭峰")
+- [孔芝](https://kzgc.neuq.edu.cn/info/1020/1145.htm "孔芝")
+- [韩萌](https://kzgc.neuq.edu.cn/info/1020/2644.htm "韩萌")
+- [李成铁](https://kzgc.neuq.edu.cn/info/1020/1146.htm "李成铁")
+- [刘丽](https://kzgc.neuq.edu.cn/info/1020/1163.htm "刘丽")
+- [刘云静](https://kzgc.neuq.edu.cn/info/1020/1162.htm "刘云静")
+- [孟范伟](https://kzgc.neuq.edu.cn/info/1020/1161.htm "孟范伟")
+- [荣丽娜](https://kzgc.neuq.edu.cn/info/1020/5024.htm "荣丽娜")
+- [邵虹君](https://kzgc.neuq.edu.cn/info/1020/1159.htm "邵虹君")
+- [舒冬梅](https://kzgc.neuq.edu.cn/info/1020/1158.htm "舒冬梅")
+- [孙亮亮](https://kzgc.neuq.edu.cn/info/1020/3014.htm "孙亮亮")
+- [王宏伟](https://kzgc.neuq.edu.cn/info/1020/1156.htm "王宏伟")
+- [王立夫](https://kzgc.neuq.edu.cn/info/1020/1155.htm "王立夫")
+- [王正松](https://kzgc.neuq.edu.cn/info/1020/2196.htm "王正松")
+- [王秀博](https://kzgc.neuq.edu.cn/info/1020/4604.htm "王秀博")
+- [魏永涛](https://kzgc.neuq.edu.cn/info/1020/1154.htm "魏永涛")
+- [于淼](https://kzgc.neuq.edu.cn/info/1020/1147.htm "于淼")
+- [张璐](https://kzgc.neuq.edu.cn/info/1020/3834.htm "张璐")
+- [朱亚锟](https://kzgc.neuq.edu.cn/info/1020/1153.htm "朱亚锟")
+- [张树磊](https://kzgc.neuq.edu.cn/info/1020/4285.htm "张树磊")
+- [杨旺](https://kzgc.neuq.edu.cn/info/1020/5494.htm "杨旺")
+- [郑恬子](https://kzgc.neuq.edu.cn/info/1020/5495.htm "郑恬子")
+- [于力一](https://kzgc.neuq.edu.cn/info/1020/5525.htm "于力一")

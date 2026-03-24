@@ -1,0 +1,161 @@
+{
+  "meta": {
+    "tutor_name_cn": "张荣闯",
+    "request_url": "https://kzgc.neuq.edu.cn/info/1022/1207.htm",
+    "declared_source_url": "https://kzgc.neuq.edu.cn/info/1022/1207.htm",
+    "page_host": "kzgc.neuq.edu.cn",
+    "markdown_cache_path": "I:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\a0e72c37c079dce801d6adff8dcbe7a1b7f7252051111fcf347c93cf051e9270.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": "包含导师基本信息、教育工作经历、研究方向、成果和授课信息，可提取多条有效事实"
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "target_name": "张荣闯",
+    "source_url": "https://kzgc.neuq.edu.cn/info/1022/1207.htm",
+    "page_metadata": {
+      "tags": [
+        "页面元信息"
+      ],
+      "publish_date": "2018-03-21",
+      "page_views": "6247"
+    },
+    "site_navigation": {
+      "tags": [
+        "网站导航",
+        "site_chrome"
+      ],
+      "breadcrumb": [
+        {
+          "text": "首页",
+          "url": "https://kzgc.neuq.edu.cn/index.htm"
+        },
+        {
+          "text": "师资队伍",
+          "url": "https://kzgc.neuq.edu.cn/szdw/zrjs.htm"
+        },
+        {
+          "text": "专任教师",
+          "url": "https://kzgc.neuq.edu.cn/szdw/zrjs.htm"
+        },
+        {
+          "text": "机械与动力工程系",
+          "url": "https://kzgc.neuq.edu.cn/szdw/zrjs/jxydlgcx1.htm"
+        }
+      ]
+    },
+    "basic_info": {
+      "tags": [
+        "基本信息",
+        "个人简介"
+      ],
+      "name": "张荣闯",
+      "gender": "男",
+      "birth_date": "1984年1月",
+      "title": "讲师",
+      "email": "zhangrongchuang@126.com"
+    },
+    "profile_image": {
+      "tags": [
+        "头像",
+        "图片"
+      ],
+      "url": "https://kzgc.neuq.edu.cn/__local/B/4C/BA/715A32FA9DF82D27EC5E553AA4B_42FB9EE6_7731.jpg"
+    },
+    "education": {
+      "tags": [
+        "教育经历",
+        "学历背景"
+      ],
+      "records": [
+        {
+          "period": "2010.09-2016.05",
+          "institution": "东北大学",
+          "major": "机械制造及其自动化专业",
+          "degree": "博士学位"
+        }
+      ]
+    },
+    "work_experience": {
+      "tags": [
+        "工作经历",
+        "任职经历"
+      ],
+      "records": [
+        {
+          "period": "2016.06-今",
+          "institution": "东北大学秦皇岛分校"
+        }
+      ]
+    },
+    "research_areas": {
+      "tags": [
+        "研究方向",
+        "主要研究方向"
+      ],
+      "areas": [
+        "基于模型定义的智能工艺检测",
+        "物理信息融合智能机床"
+      ]
+    },
+    "research_achievements": {
+      "tags": [
+        "科研成果",
+        "主要研究成果",
+        "项目",
+        "论文"
+      ],
+      "summary": "近年来参与国家863计划项目1项、国家自然科学基金项目1项、辽宁省科技计划项目2项，公开发表论文9篇，其中EI检索两篇",
+      "projects": [
+        {
+          "type": "国家863计划项目",
+          "count": 1,
+          "role": "参与"
+        },
+        {
+          "type": "国家自然科学基金项目",
+          "count": 1,
+          "role": "参与"
+        },
+        {
+          "type": "辽宁省科技计划项目",
+          "count": 2,
+          "role": "参与"
+        }
+      ],
+      "publications": {
+        "total_papers": 9,
+        "ei_indexed": 2
+      }
+    },
+    "teaching": {
+      "tags": [
+        "教学",
+        "授课",
+        "课程",
+        "著作"
+      ],
+      "undergraduate_courses": [
+        "计算机辅助设计与制造",
+        "互换性原理及测量技术"
+      ],
+      "graduate_courses": [
+        "UG二次开发"
+      ]
+    },
+    "related_links": {
+      "tags": [
+        "相关链接",
+        "导航链接"
+      ],
+      "previous_page": {
+        "text": "赵玉倩",
+        "url": "https://kzgc.neuq.edu.cn/info/1022/1206.htm"
+      },
+      "next_page": {
+        "text": "张力",
+        "url": "https://kzgc.neuq.edu.cn/info/1022/1208.htm"
+      }
+    }
+  }
+}

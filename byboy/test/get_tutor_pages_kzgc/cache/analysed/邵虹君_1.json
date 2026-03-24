@@ -1,0 +1,148 @@
+{
+  "meta": {
+    "tutor_name_cn": "邵虹君",
+    "request_url": "https://kzgc.neuq.edu.cn/info/1020/1159.htm",
+    "declared_source_url": "https://kzgc.neuq.edu.cn/info/1020/1159.htm",
+    "page_host": "kzgc.neuq.edu.cn",
+    "markdown_cache_path": "I:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\3851749ca104ad55fc5feab9f06898db836eaa4626df076595e107e9bcfe58fd.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": "包含导师的个人简介、联系方式、研究方向、教育背景、工作履历、学术成果及讲授课程等大量有效信息。"
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "personal_info": {
+      "name": "邵虹君",
+      "gender": "女",
+      "birth_date": "1983年3月",
+      "degrees": [
+        {
+          "type": "工学博士学位"
+        }
+      ],
+      "titles": [
+        "讲师",
+        "硕士生导师"
+      ],
+      "description_paragraph": "邵虹君，女，生于1983年3月，工学博士学位，讲师，硕士生导师。"
+    },
+    "contact_info": {
+      "email": "haibing0723@163.com",
+      "address": "河北省秦皇岛市海港区143号东北大学秦皇岛分校"
+    },
+    "research_directions": [
+      "大功率变换系统及其控制",
+      "电机控制",
+      "风力发电"
+    ],
+    "education": [
+      {
+        "start_date": "2007.09",
+        "end_date": "2013.01",
+        "institution": "天津大学电气工程学院",
+        "degree_type": "硕士/博士"
+      },
+      {
+        "start_date": "2001.09",
+        "end_date": "2005.07",
+        "institution": "天津工业大学",
+        "degree_type": "学士"
+      }
+    ],
+    "work_experience": [
+      {
+        "start_date": "2013",
+        "end_date": "至今",
+        "institution": "东北大学秦皇岛分校"
+      }
+    ],
+    "academic_achievements": {
+      "papers": [
+        {
+          "title": "优化开关频率的三电平四桥臂逆变器矢量控制",
+          "authors": "邵虹君; 郭峰",
+          "journal_or_conference": "河南师范大学学报（自然科学版）",
+          "publication_date": "2016.11.10",
+          "volume_issue": "44(6)",
+          "pages": "57-61"
+        },
+        {
+          "title": "Hybrid Space Vector PWM Strategy for Three-Level NPC Inverters with Optimal Extension Mode",
+          "authors": "Changliang Xia，Guozheng Zhang，Hongjun Shao，Yun Zhang",
+          "journal_or_conference": "IECON 2014 - 40th Annual Conference ofthe IEEE Industrial Electronics Society",
+          "publication_date": "2014.10.29-2014.11.01"
+        },
+        {
+          "title": "Adjustable Proportional Hybrid SVPWM Strategy for Neutral-Point-Clamped Three-Level Inverters",
+          "authors": "Changliang Xia，Hongjun Shao，Yun Zhang; Xiangning He",
+          "journal_or_conference": "IEEE Transactions on Industrial Electronics",
+          "publication_date": "2013.10",
+          "volume_issue": "60(10)",
+          "pages": "4234-4242"
+        }
+      ],
+      "patents": [
+        {
+          "title": "一种三电平变换器中点电压平衡控制方法",
+          "authors": "夏长亮; 邵虹君; 张云; 史婷娜; 陈炜",
+          "publication_date": "2013.09.11",
+          "country": "中国",
+          "patent_number": "CN102361409B"
+        }
+      ],
+      "books": [
+        {
+          "title": "《电机原理与拖动基础》第3版"
+        }
+      ]
+    },
+    "courses_taught": [
+      {
+        "level": "本科生",
+        "list": [
+          "电机原理及拖动",
+          "工业企业供电",
+          "供配电系统"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "url": "https://kzgc.neuq.edu.cn/__local/1/13/94/01AE81B489F924B5430EBEF6A12_1E989E86_6D3A.jpg"
+      }
+    ],
+    "site_metadata": {
+      "source_url": "https://kzgc.neuq.edu.cn/info/1020/1159.htm",
+      "publish_time": "2018-03-21",
+      "click_count": null,
+      "breadcrumbs": [
+        {
+          "anchor_text": "首页",
+          "url": "https://kzgc.neuq.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://kzgc.neuq.edu.cn/szdw/zrjs.htm"
+        },
+        {
+          "anchor_text": "专任教师",
+          "url": "https://kzgc.neuq.edu.cn/szdw/zrjs.htm"
+        },
+        {
+          "anchor_text": "自动化与电气工程系",
+          "url": "https://kzgc.neuq.edu.cn/szdw/zrjs/zdhydqgcx1.htm"
+        }
+      ],
+      "page_navigation": {
+        "previous": {
+          "anchor_text": "舒冬梅",
+          "url": "https://kzgc.neuq.edu.cn/info/1020/1158.htm"
+        },
+        "next": {
+          "anchor_text": "孟范伟",
+          "url": "https://kzgc.neuq.edu.cn/info/1020/1161.htm"
+        }
+      }
+    }
+  }
+}

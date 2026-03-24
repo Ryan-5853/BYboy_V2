@@ -1,0 +1,16 @@
+{
+  "round": 1,
+  "seq": 1,
+  "list1_possible_pages": [],
+  "list2_tutor_profiles": [],
+  "list3_processed_pages": [
+    "https://aia.hust.edu.cn/szdw/xysz/axmpyszmlb.htm"
+  ],
+  "records": [
+    {
+      "url": "https://aia.hust.edu.cn/szdw/xysz/axmpyszmlb.htm",
+      "round": 1,
+      "cleaned_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_1\\cache\\cleaned\\00001_https_aia_hust_edu_cn_szdw_xysz_axmpyszmlb_htm_cleaned.md"
+    }
+  ]
+}

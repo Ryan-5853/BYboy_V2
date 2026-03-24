@@ -11,8 +11,14 @@ from dataclasses import dataclass
 from pathlib import Path
 from typing import Any
 
-from byboy.agent.invoke import AgentInvocation, ModelRef, agent_complete
+from byboy.agent.invoke import AgentInvocation, ModelRef, slot_complete
 from byboy.agents.tutor_inf.link_choose import LinkChooseError, parse_llm_json_object
+from byboy.agents.tutor_inf.logging_utils import (
+    AgentLogger,
+    log_llm_wait_done,
+    log_llm_wait_start,
+    run_with_periodic_wait_log,
+)
 from byboy.llm.dispatcher import LLMDispatcher
 from byboy.llm.route_spec import ChatMessage
 
@@ -83,9 +89,11 @@ class PicRecogAgent:
         *,
         max_tokens: int = 16384,
     ) -> PicRecogResult:
+        log = AgentLogger("PicRecogAgent")
         dispatcher.resolve(inv.model.token)
         p = inv.llm_part
         path = Path(p.image_path).resolve()
+        log.start("开始单图识别", detail=path.name)
         if not path.is_file():
             raise FileNotFoundError(f"图片不存在: {path}")
         raw_bytes = path.read_bytes()
@@ -105,8 +113,26 @@ class PicRecogAgent:
                 ],
             },
         ]
-        inv_chat = AgentInvocation(model=inv.model, llm_part=messages)
-        out = agent_complete(dispatcher, inv_chat, max_tokens=max_tokens)
+        t0 = log_llm_wait_start(
+            log,
+            model=inv.model.token,
+            payload=messages,
+            max_tokens=max_tokens,
+            stage="pic_recog_extract",
+        )
+        out = run_with_periodic_wait_log(
+            log=log,
+            stage="pic_recog_extract",
+            wait_message="等待模型响应中",
+            every_sec=5.0,
+            fn=lambda: slot_complete(
+                dispatcher,
+                inv.model.token,
+                messages,
+                max_tokens=max_tokens,
+            ),
+        )
+        log_llm_wait_done(log, stage="pic_recog_extract", started_at=t0)
         try:
             obj = parse_llm_json_object(out)
         except LinkChooseError as e:
@@ -126,6 +152,7 @@ class PicRecogAgent:
             encoding="utf-8",
             newline="\n",
         )
+        log.done("写入单图识别结果", detail=str(json_path))
         return PicRecogResult(json_path=json_path)
 
     async def arun(

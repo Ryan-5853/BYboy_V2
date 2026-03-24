@@ -12,8 +12,14 @@ from pathlib import Path
 from typing import Any
 from urllib.parse import urlsplit
 
-from byboy.agent.invoke import AgentInvocation, ModelRef, agent_complete
+from byboy.agent.invoke import AgentInvocation, ModelRef, slot_complete
 from byboy.agents.tutor_inf.link_choose import LinkChooseError, parse_llm_json_object
+from byboy.agents.tutor_inf.logging_utils import (
+    AgentLogger,
+    log_llm_wait_done,
+    log_llm_wait_start,
+    run_with_periodic_wait_log,
+)
 from byboy.agents.tutor_inf.tutor_analyse.agent import (
     TutorAnalysePayload,
     TutorAnalyseResult,
@@ -73,8 +79,10 @@ class TutorAnalyseVisionAgent:
         max_tokens: int = 16384,
         merge_max_tokens: int | None = None,
     ) -> TutorAnalyseResult:
+        log = AgentLogger("TutorAnalyseVisionAgent")
         dispatcher.resolve(inv.model.token)
         p = inv.llm_part
+        log.start("开始视觉导师页分析", detail=f"name={p.tutor_name_cn.strip()} url={p.url.strip()}")
         merge_cap = merge_max_tokens if merge_max_tokens is not None else max_tokens
 
         cache_dir = _CACHE_DIR
@@ -98,6 +106,7 @@ class TutorAnalyseVisionAgent:
         md_path.write_text("\n".join(stub_lines) + "\n", encoding="utf-8", newline="\n")
 
         try:
+            log.step("调用 PicFind 提取候选图片")
             pf = PicFindAgent().run(
                 AgentInvocation(
                     model=inv.model,
@@ -118,6 +127,7 @@ class TutorAnalyseVisionAgent:
         pr_agent = PicRecogAgent()
         fragments: list[dict[str, Any]] = []
         sidecar_paths: list[str] = []
+        log.step("开始逐图识别", detail=f"images={len(pf.image_paths)}")
         for img_path in sorted(pf.image_paths, key=lambda x: x.name):
             try:
                 r = pr_agent.run(
@@ -142,8 +152,10 @@ class TutorAnalyseVisionAgent:
             if not isinstance(ex, dict):
                 ex = {}
             fragments.append({"source_image": one.get("source_image"), "extracted": ex})
+            log.info("完成单图识别", detail=img_path.name)
 
         if fragments:
+            log.step("合并多图结构化结果", detail=f"fragments={len(fragments)}")
             merge_messages: list[ChatMessage] = [
                 {"role": "system", "content": MERGE_SYSTEM_PROMPT},
                 {
@@ -151,8 +163,26 @@ class TutorAnalyseVisionAgent:
                     "content": json.dumps({"fragments": fragments}, ensure_ascii=False),
                 },
             ]
-            inv_merge = AgentInvocation(model=inv.model, llm_part=merge_messages)
-            raw = agent_complete(dispatcher, inv_merge, max_tokens=merge_cap)
+            t0 = log_llm_wait_start(
+                log,
+                model=inv.model.token,
+                payload=merge_messages,
+                max_tokens=merge_cap,
+                stage="vision_merge",
+            )
+            raw = run_with_periodic_wait_log(
+                log=log,
+                stage="vision_merge",
+                wait_message="等待模型响应中",
+                every_sec=5.0,
+                fn=lambda: slot_complete(
+                    dispatcher,
+                    inv.model.token,
+                    merge_messages,
+                    max_tokens=merge_cap,
+                ),
+            )
+            log_llm_wait_done(log, stage="vision_merge", started_at=t0)
             try:
                 merged = parse_llm_json_object(raw)
             except LinkChooseError as e:
@@ -184,6 +214,7 @@ class TutorAnalyseVisionAgent:
             encoding="utf-8",
             newline="\n",
         )
+        log.done("视觉分析完成", detail=str(out))
         return TutorAnalyseResult(json_path=out, markdown_cache_path=md_path)
 
     async def arun(

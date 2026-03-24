@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "tutor_name_cn": "舒冬梅",
+    "request_url": "https://kzgc.neuq.edu.cn/info/1020/1158.htm",
+    "declared_source_url": "https://kzgc.neuq.edu.cn/info/1020/1158.htm",
+    "page_host": "kzgc.neuq.edu.cn",
+    "markdown_cache_path": "I:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\0aa44b3d4487888d2d64c65f08cb635db6139e9a6db8905d9689927ec2591f31.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "site_chrome": {
+      "source_url": "https://kzgc.neuq.edu.cn/info/1020/1158.htm",
+      "breadcrumb": [
+        {
+          "anchor_text": "首页",
+          "url": "https://kzgc.neuq.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://kzgc.neuq.edu.cn/szdw/zrjs.htm"
+        },
+        {
+          "anchor_text": "专任教师",
+          "url": "https://kzgc.neuq.edu.cn/szdw/zrjs.htm"
+        },
+        {
+          "anchor_text": "自动化与电气工程系",
+          "url": "https://kzgc.neuq.edu.cn/szdw/zrjs/zdhydqgcx1.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "pagination": [
+        {
+          "type": "previous",
+          "anchor_text": "上一篇：王宏伟",
+          "url": "https://kzgc.neuq.edu.cn/info/1020/1156.htm"
+        },
+        {
+          "type": "next",
+          "anchor_text": "下一篇：邵虹君",
+          "url": "https://kzgc.neuq.edu.cn/info/1020/1159.htm"
+        }
+      ]
+    },
+    "page_meta": {
+      "publish_date": "2018-03-21",
+      "click_count": 7905
+    },
+    "personal_info": {
+      "name": "舒冬梅",
+      "gender": "女",
+      "birth_date": "1971年10月",
+      "degree": "工学硕士学位",
+      "title": "讲师",
+      "photo_url": "https://kzgc.neuq.edu.cn/__local/1/C8/E2/297657990120C766C609A082891_E10E5611_819D.jpg"
+    },
+    "contact_info": {
+      "email": "sdm531@126.com"
+    },
+    "research_directions": [
+      "现代数字信号与信息处理",
+      "通信与电子系统"
+    ],
+    "education": [
+      {
+        "end_year": 1992,
+        "institution": "哈尔滨工业大学航天学院无线电工程系",
+        "degree": "工学学士"
+      },
+      {
+        "end_year": 1995,
+        "institution": "哈尔滨工业大学航天学院无线电工程系",
+        "degree": "工学硕士"
+      }
+    ],
+    "work_experience": [
+      {
+        "start_year": 1995,
+        "end_year": "至今",
+        "organization": "东北大学秦皇岛分校",
+        "position": "讲师"
+      }
+    ],
+    "academic_achievements": [
+      "参与编写“十一五”国家级规划教材《数字信号处理》（第2版）",
+      "发表十几篇科技论文"
+    ],
+    "courses_taught": [
+      "电路原理",
+      "微机原理与接口技术",
+      "单片机原理与接口技术",
+      "计算机控制技术",
+      "信号与系统",
+      "数字信号处理",
+      "电子设计自动化"
+    ]
+  }
+}

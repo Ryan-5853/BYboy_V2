@@ -1,0 +1,137 @@
+{
+  "meta": {
+    "tutor_name_cn": "高静",
+    "request_url": "https://kzgc.neuq.edu.cn/info/1020/1167.htm",
+    "declared_source_url": "https://kzgc.neuq.edu.cn/info/1020/1167.htm",
+    "page_host": "kzgc.neuq.edu.cn",
+    "markdown_cache_path": "I:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\2bd6a5df4272eb5b00d31e63740c1206235fa8bb17dca8cb76dfbd2e5569a184.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "source_url": "https://kzgc.neuq.edu.cn/info/1020/1167.htm",
+    "page_metadata": {
+      "publish_date": "2018-03-21",
+      "click_count": 11798
+    },
+    "site_navigation": {
+      "breadcrumbs": [
+        {
+          "anchor_text": "首页",
+          "url": "https://kzgc.neuq.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://kzgc.neuq.edu.cn/szdw/zrjs.htm"
+        },
+        {
+          "anchor_text": "专任教师",
+          "url": "https://kzgc.neuq.edu.cn/szdw/zrjs.htm"
+        },
+        {
+          "anchor_text": "自动化与电气工程系",
+          "url": "https://kzgc.neuq.edu.cn/szdw/zrjs/zdhydqgcx1.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "related_pages": [
+        {
+          "anchor_text": "上一篇：高原",
+          "url": "https://kzgc.neuq.edu.cn/info/1020/1166.htm"
+        },
+        {
+          "anchor_text": "下一篇：段洪君",
+          "url": "https://kzgc.neuq.edu.cn/info/1020/1168.htm"
+        }
+      ]
+    },
+    "professor_info": {
+      "name": "高静",
+      "profile_image_url": "https://kzgc.neuq.edu.cn/__local/0/9B/01/D150B9D949502642FEEF7A7317B_E5BB498B_7485.jpg",
+      "biographical_details": {
+        "gender": "女",
+        "birth_date": "1980年6月",
+        "highest_degree": "工学博士",
+        "titles": [
+          "副教授",
+          "硕士生导师"
+        ]
+      },
+      "contact": {
+        "email": "summergj@126.com"
+      },
+      "research_directions": [
+        "5G无线通信技术",
+        "能源互联网信息处理技术",
+        "深度学习"
+      ],
+      "education_experience": [
+        {
+          "start_date": "2006.03",
+          "end_date": "2009.01",
+          "institution": "东北大学",
+          "major": "导航制导与控制",
+          "degree": "博士"
+        },
+        {
+          "start_date": "2002.09",
+          "end_date": "2005.04",
+          "institution": "大连海事大学",
+          "major": "控制理论与控制工程",
+          "degree": "硕士"
+        },
+        {
+          "start_date": "1997.09",
+          "end_date": "2001.07",
+          "institution": "东北大学秦皇岛分校",
+          "major": "自动化",
+          "degree": "学士"
+        }
+      ],
+      "work_experience": [
+        {
+          "start_date": "2005.07",
+          "end_date": "至今",
+          "institution": "东北大学秦皇岛分校"
+        }
+      ],
+      "research_projects": {
+        "summary": "承担国家自然科学基金、河北自然科学基金、河北省高等学校科学研究重点项目、教育部中央高校基本科研业务费等多个项目，同时作为主要研究人员参与了国家自然科学基金、 辽宁省自然科学基金以及 985 重点工程等多项研究工作。",
+        "undertaken_projects": [
+          "国家自然科学基金",
+          "河北自然科学基金",
+          "河北省高等学校科学研究重点项目",
+          "教育部中央高校基本科研业务费"
+        ],
+        "participated_projects_as_main_researcher": [
+          "国家自然科学基金",
+          "辽宁省自然科学基金",
+          "985重点工程"
+        ]
+      },
+      "academic_achievements": {
+        "papers_published": {
+          "total": "30 余篇",
+          "sci_ei_indexed": "20 余篇"
+        },
+        "awards": [
+          {
+            "name": "最佳论文奖",
+            "event": "ICISS2008 国际会议"
+          }
+        ]
+      },
+      "courses_taught": [
+        {
+          "name": "数字电子技术基础",
+          "target_audience": "本科生"
+        }
+      ]
+    }
+  }
+}

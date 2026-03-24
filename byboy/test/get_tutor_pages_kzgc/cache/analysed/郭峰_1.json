@@ -1,0 +1,143 @@
+{
+  "meta": {
+    "tutor_name_cn": "郭峰",
+    "request_url": "https://kzgc.neuq.edu.cn/info/1020/1152.htm",
+    "declared_source_url": "https://kzgc.neuq.edu.cn/info/1020/1152.htm",
+    "page_host": "kzgc.neuq.edu.cn",
+    "markdown_cache_path": "I:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\7008ce8e57cdcaa4abf31cfe8f2bee516dd59965f6a8bf491cffad5860e2c586.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "source_url": "https://kzgc.neuq.edu.cn/info/1020/1152.htm",
+    "person_name_query": "郭峰",
+    "blocks": [
+      {
+        "tags": [
+          "site_chrome",
+          "navigation"
+        ],
+        "content": {
+          "breadcrumb": [
+            {
+              "text": "首页",
+              "url": "https://kzgc.neuq.edu.cn/index.htm"
+            },
+            {
+              "text": "师资队伍",
+              "url": "https://kzgc.neuq.edu.cn/szdw/zrjs.htm"
+            },
+            {
+              "text": "专任教师",
+              "url": "https://kzgc.neuq.edu.cn/szdw/zrjs.htm"
+            },
+            {
+              "text": "自动化与电气工程系",
+              "url": "https://kzgc.neuq.edu.cn/szdw/zrjs/zdhydqgcx1.htm"
+            }
+          ]
+        }
+      },
+      {
+        "tags": [
+          "person_name",
+          "basic_information"
+        ],
+        "content": "郭峰"
+      },
+      {
+        "tags": [
+          "site_chrome",
+          "metadata"
+        ],
+        "content": {
+          "发布时间": "2018-03-21",
+          "点击量": "9846"
+        }
+      },
+      {
+        "tags": [
+          "image",
+          "profile_picture"
+        ],
+        "content": {
+          "url": "https://kzgc.neuq.edu.cn/__local/C/D1/1B/23DEB4A0BD357864227E62F6792_06665AD6_7BAC.jpg",
+          "alt_text": null
+        }
+      },
+      {
+        "tags": [
+          "basic_information"
+        ],
+        "content": {
+          "name": "郭峰",
+          "gender": "男",
+          "birth_date": "1979年2月",
+          "degree": "工学博士",
+          "title": "讲师"
+        }
+      },
+      {
+        "tags": [
+          "contact_information"
+        ],
+        "content": {
+          "电子邮箱": "nameguofeng@163.com"
+        }
+      },
+      {
+        "tags": [
+          "research_directions"
+        ],
+        "content": [
+          "预测控制理论",
+          "模糊建模"
+        ]
+      },
+      {
+        "tags": [
+          "education_background"
+        ],
+        "content": [
+          "2013年1月毕业于燕山大学电气工程学院，获得工学博士学位"
+        ]
+      },
+      {
+        "tags": [
+          "academic_achievements"
+        ],
+        "content": "参加并完成多项省部级科研项目及企业科研项目，在国内外核心期刊和国际会议上发表学术论文多篇"
+      },
+      {
+        "tags": [
+          "courses_taught"
+        ],
+        "content": {
+          "level": "本科生",
+          "courses": [
+            "电机原理与拖动",
+            "运动控制系统"
+          ]
+        }
+      },
+      {
+        "tags": [
+          "site_chrome",
+          "navigation"
+        ],
+        "content": {
+          "previous_page": {
+            "text": "于淼",
+            "url": "https://kzgc.neuq.edu.cn/info/1020/1147.htm"
+          },
+          "next_page": {
+            "text": "范立娜",
+            "url": "https://kzgc.neuq.edu.cn/info/1020/1201.htm"
+          }
+        }
+      }
+    ]
+  }
+}

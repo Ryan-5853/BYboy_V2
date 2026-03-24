@@ -3,7 +3,7 @@ from __future__ import annotations
 from dataclasses import dataclass, field
 from typing import Any, Literal
 
-Backend = Literal["claude", "openai"]
+Backend = Literal["claude", "openai", "claude_vision", "openai_vision"]
 ChatMessage = dict[str, Any]
 
 

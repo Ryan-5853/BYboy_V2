@@ -1,0 +1,139 @@
+{
+  "meta": {
+    "tutor_name_cn": "范立娜",
+    "request_url": "https://kzgc.neuq.edu.cn/info/1020/1201.htm",
+    "declared_source_url": "https://kzgc.neuq.edu.cn/info/1020/1201.htm",
+    "page_host": "kzgc.neuq.edu.cn",
+    "markdown_cache_path": "I:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\3ceb29a4251607dd2d5d0dcc322c1e6c35598b33de371dbdf949e70fec76583d.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "query_name": "范立娜",
+    "source_url": "https://kzgc.neuq.edu.cn/info/1020/1201.htm",
+    "site_chrome": {
+      "grab_source": "https://kzgc.neuq.edu.cn/info/1020/1201.htm",
+      "breadcrumbs": [
+        {
+          "anchor_text": "首页",
+          "url": "https://kzgc.neuq.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://kzgc.neuq.edu.cn/szdw/zrjs.htm"
+        },
+        {
+          "anchor_text": "专任教师",
+          "url": "https://kzgc.neuq.edu.cn/szdw/zrjs.htm"
+        },
+        {
+          "anchor_text": "自动化与电气工程系",
+          "url": "https://kzgc.neuq.edu.cn/szdw/zrjs/zdhydqgcx1.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "publish_time": "2018-03-21",
+      "page_views": 9394,
+      "pagination": [
+        {
+          "anchor_text": "上一篇：郭峰",
+          "url": "https://kzgc.neuq.edu.cn/info/1020/1152.htm"
+        },
+        {
+          "anchor_text": "下一篇：朱亚锟",
+          "url": "https://kzgc.neuq.edu.cn/info/1020/1153.htm"
+        }
+      ]
+    },
+    "personal_info": {
+      "name": "范立娜",
+      "gender": "女",
+      "birth_date": "1975年9月14日",
+      "degree": "工学硕士",
+      "title": "讲师"
+    },
+    "contact_info": {
+      "email": "flndzj@163.com",
+      "phone": "3358077185",
+      "address": "河北省秦皇岛市海港区143号东北大学秦皇岛分校"
+    },
+    "research_directions": [
+      "无线通信系统中的资源分配和优化",
+      "认知无线网络",
+      "协作通信"
+    ],
+    "education_background": [
+      {
+        "start_date": "1999.09",
+        "end_date": "2002.06",
+        "university": "燕山大学",
+        "major": "测控技术及一汽专业",
+        "degree": "硕士"
+      },
+      {
+        "start_date": "1994.09",
+        "end_date": "1998.06",
+        "university": "燕山大学",
+        "major": "自动化仪表专业",
+        "degree": "本科"
+      }
+    ],
+    "work_experience": [
+      {
+        "start_date": "2002.09",
+        "end_date": "至今",
+        "organization": "东北大学秦皇岛分校",
+        "position": "教师"
+      }
+    ],
+    "research_projects": {
+      "completed_projects": [
+        {
+          "title": "火灾报警系统网络传输软件的开发设计",
+          "role": "主持"
+        },
+        {
+          "title": "时变环境下基于模糊控制的自适应波形优化研究",
+          "role": "参与"
+        },
+        {
+          "title": "面向智能电网的邻域网信息传输优化控制技术研究",
+          "role": "参与"
+        },
+        {
+          "title": "基于异构并行计算平台的智能电网邻域网信息接入控制技术研究",
+          "role": "参与"
+        }
+      ]
+    },
+    "academic_publications": {
+      "papers": [
+        {
+          "title": "协作通信系统中继功率分配算法的研究",
+          "journal_conference": "东北大学学报"
+        },
+        {
+          "title": "Power allocation for cognitive relay systems",
+          "journal_conference": "WCICA2016"
+        },
+        {
+          "title": "Optimal power allocation for cooperative relay system",
+          "journal_conference": "ICIC EXPRESS LETTER",
+          "year": "2016"
+        }
+      ]
+    },
+    "courses_taught": {
+      "undergraduate_courses": [
+        "电力电子技术",
+        "电工学",
+        "模拟电子技术基础"
+      ]
+    }
+  }
+}

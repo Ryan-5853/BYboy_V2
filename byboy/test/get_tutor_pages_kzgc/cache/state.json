@@ -1,0 +1,587 @@
+{
+  "round": 2,
+  "seq": 59,
+  "list1_possible_pages": [],
+  "list2_tutor_profiles": [
+    "https://kzgc.neuq.edu.cn/info/1020/1144.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/1145.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/1146.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/1147.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/1152.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/1153.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/1154.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/1155.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/1156.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/1158.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/1159.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/1161.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/1162.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/1163.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/1164.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/1166.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/1167.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/1168.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/1169.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/1201.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/2196.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/2644.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/3014.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/3834.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/4014.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/4285.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/4604.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/5024.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/5494.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/5495.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/5525.htm",
+    "https://kzgc.neuq.edu.cn/info/1022/1203.htm",
+    "https://kzgc.neuq.edu.cn/info/1022/1204.htm",
+    "https://kzgc.neuq.edu.cn/info/1022/1205.htm",
+    "https://kzgc.neuq.edu.cn/info/1022/1206.htm",
+    "https://kzgc.neuq.edu.cn/info/1022/1207.htm",
+    "https://kzgc.neuq.edu.cn/info/1022/1208.htm",
+    "https://kzgc.neuq.edu.cn/info/1022/1212.htm",
+    "https://kzgc.neuq.edu.cn/info/1022/1213.htm",
+    "https://kzgc.neuq.edu.cn/info/1022/1214.htm",
+    "https://kzgc.neuq.edu.cn/info/1022/1215.htm",
+    "https://kzgc.neuq.edu.cn/info/1022/1216.htm",
+    "https://kzgc.neuq.edu.cn/info/1022/1217.htm",
+    "https://kzgc.neuq.edu.cn/info/1022/1219.htm",
+    "https://kzgc.neuq.edu.cn/info/1022/1220.htm",
+    "https://kzgc.neuq.edu.cn/info/1022/1221.htm",
+    "https://kzgc.neuq.edu.cn/info/1022/1222.htm",
+    "https://kzgc.neuq.edu.cn/info/1022/1223.htm",
+    "https://kzgc.neuq.edu.cn/info/1022/1224.htm",
+    "https://kzgc.neuq.edu.cn/info/1022/1225.htm",
+    "https://kzgc.neuq.edu.cn/info/1022/1226.htm",
+    "https://kzgc.neuq.edu.cn/info/1022/2804.htm",
+    "https://kzgc.neuq.edu.cn/info/1022/3694.htm",
+    "https://kzgc.neuq.edu.cn/info/1022/4094.htm",
+    "https://kzgc.neuq.edu.cn/info/1022/4286.htm",
+    "https://kzgc.neuq.edu.cn/info/1022/5285.htm"
+  ],
+  "list3_processed_pages": [
+    "https://kzgc.neuq.edu.cn/info/1020/1144.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/1145.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/1146.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/1147.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/1152.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/1153.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/1154.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/1155.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/1156.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/1158.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/1159.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/1161.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/1162.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/1163.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/1164.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/1166.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/1167.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/1168.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/1169.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/1201.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/2196.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/2644.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/3014.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/3834.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/4014.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/4285.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/4604.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/5024.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/5494.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/5495.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/5525.htm",
+    "https://kzgc.neuq.edu.cn/info/1022/1203.htm",
+    "https://kzgc.neuq.edu.cn/info/1022/1204.htm",
+    "https://kzgc.neuq.edu.cn/info/1022/1205.htm",
+    "https://kzgc.neuq.edu.cn/info/1022/1206.htm",
+    "https://kzgc.neuq.edu.cn/info/1022/1207.htm",
+    "https://kzgc.neuq.edu.cn/info/1022/1208.htm",
+    "https://kzgc.neuq.edu.cn/info/1022/1212.htm",
+    "https://kzgc.neuq.edu.cn/info/1022/1213.htm",
+    "https://kzgc.neuq.edu.cn/info/1022/1214.htm",
+    "https://kzgc.neuq.edu.cn/info/1022/1215.htm",
+    "https://kzgc.neuq.edu.cn/info/1022/1216.htm",
+    "https://kzgc.neuq.edu.cn/info/1022/1217.htm",
+    "https://kzgc.neuq.edu.cn/info/1022/1219.htm",
+    "https://kzgc.neuq.edu.cn/info/1022/1220.htm",
+    "https://kzgc.neuq.edu.cn/info/1022/1221.htm",
+    "https://kzgc.neuq.edu.cn/info/1022/1222.htm",
+    "https://kzgc.neuq.edu.cn/info/1022/1223.htm",
+    "https://kzgc.neuq.edu.cn/info/1022/1224.htm",
+    "https://kzgc.neuq.edu.cn/info/1022/1225.htm",
+    "https://kzgc.neuq.edu.cn/info/1022/1226.htm",
+    "https://kzgc.neuq.edu.cn/info/1022/2804.htm",
+    "https://kzgc.neuq.edu.cn/info/1022/3694.htm",
+    "https://kzgc.neuq.edu.cn/info/1022/4094.htm",
+    "https://kzgc.neuq.edu.cn/info/1022/4286.htm",
+    "https://kzgc.neuq.edu.cn/info/1022/5285.htm",
+    "https://kzgc.neuq.edu.cn/szdw/zrjs.htm",
+    "https://kzgc.neuq.edu.cn/szdw/zrjs/jxydlgcx1.htm",
+    "https://kzgc.neuq.edu.cn/szdw/zrjs/zdhydqgcx1.htm"
+  ],
+  "records": [
+    {
+      "url": "https://kzgc.neuq.edu.cn/szdw/zrjs.htm",
+      "round": 1,
+      "cleaned_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\cleaned\\00001_https_kzgc_neuq_edu_cn_szdw_zrjs_htm_cleaned.md",
+      "choice_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\choice\\00001_https_kzgc_neuq_edu_cn_szdw_zrjs_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1020/1166.htm",
+      "round": 2,
+      "cleaned_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\cleaned\\00002_https_kzgc_neuq_edu_cn_info_1020_1166_htm_cleaned.md",
+      "choice_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\choice\\00002_https_kzgc_neuq_edu_cn_info_1020_1166_htm_cleaned.choice.json",
+      "analysed_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\analysed\\高原_1.json",
+      "analysed_name": "高原"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1020/1155.htm",
+      "round": 2,
+      "cleaned_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\cleaned\\00003_https_kzgc_neuq_edu_cn_info_1020_1155_htm_cleaned.md",
+      "choice_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\choice\\00003_https_kzgc_neuq_edu_cn_info_1020_1155_htm_cleaned.choice.json",
+      "analysed_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\analysed\\王立夫_1.json",
+      "analysed_name": "王立夫"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1022/1216.htm",
+      "round": 2,
+      "cleaned_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\cleaned\\00004_https_kzgc_neuq_edu_cn_info_1022_1216_htm_cleaned.md",
+      "choice_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\choice\\00004_https_kzgc_neuq_edu_cn_info_1022_1216_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1022/1220.htm",
+      "round": 2,
+      "cleaned_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\cleaned\\00005_https_kzgc_neuq_edu_cn_info_1022_1220_htm_cleaned.md",
+      "choice_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\choice\\00005_https_kzgc_neuq_edu_cn_info_1022_1220_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1022/1222.htm",
+      "round": 2,
+      "cleaned_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\cleaned\\00006_https_kzgc_neuq_edu_cn_info_1022_1222_htm_cleaned.md",
+      "choice_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\choice\\00006_https_kzgc_neuq_edu_cn_info_1022_1222_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1022/1225.htm",
+      "round": 2,
+      "cleaned_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\cleaned\\00007_https_kzgc_neuq_edu_cn_info_1022_1225_htm_cleaned.md",
+      "choice_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\choice\\00007_https_kzgc_neuq_edu_cn_info_1022_1225_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1020/3014.htm",
+      "round": 2,
+      "cleaned_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\cleaned\\00008_https_kzgc_neuq_edu_cn_info_1020_3014_htm_cleaned.md",
+      "choice_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\choice\\00008_https_kzgc_neuq_edu_cn_info_1020_3014_htm_cleaned.choice.json",
+      "analysed_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\analysed\\孙亮亮_1.json",
+      "analysed_name": "孙亮亮"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1020/1158.htm",
+      "round": 2,
+      "cleaned_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\cleaned\\00009_https_kzgc_neuq_edu_cn_info_1020_1158_htm_cleaned.md",
+      "choice_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\choice\\00009_https_kzgc_neuq_edu_cn_info_1020_1158_htm_cleaned.choice.json",
+      "analysed_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\analysed\\舒冬梅_1.json",
+      "analysed_name": "舒冬梅"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1022/1206.htm",
+      "round": 2,
+      "cleaned_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\cleaned\\00010_https_kzgc_neuq_edu_cn_info_1022_1206_htm_cleaned.md",
+      "choice_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\choice\\00010_https_kzgc_neuq_edu_cn_info_1022_1206_htm_cleaned.choice.json",
+      "analysed_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\analysed\\赵玉倩_1.json",
+      "analysed_name": "赵玉倩"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1022/1205.htm",
+      "round": 2,
+      "cleaned_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\cleaned\\00011_https_kzgc_neuq_edu_cn_info_1022_1205_htm_cleaned.md",
+      "choice_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\choice\\00011_https_kzgc_neuq_edu_cn_info_1022_1205_htm_cleaned.choice.json",
+      "analysed_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\analysed\\周云光_1.json",
+      "analysed_name": "周云光"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1020/1145.htm",
+      "round": 2,
+      "cleaned_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\cleaned\\00012_https_kzgc_neuq_edu_cn_info_1020_1145_htm_cleaned.md",
+      "choice_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\choice\\00012_https_kzgc_neuq_edu_cn_info_1020_1145_htm_cleaned.choice.json",
+      "analysed_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\analysed\\孔芝_1.json",
+      "analysed_name": "孔芝"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1022/1204.htm",
+      "round": 2,
+      "cleaned_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\cleaned\\00013_https_kzgc_neuq_edu_cn_info_1022_1204_htm_cleaned.md",
+      "choice_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\choice\\00013_https_kzgc_neuq_edu_cn_info_1022_1204_htm_cleaned.choice.json",
+      "analysed_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\analysed\\杨登峰_1.json",
+      "analysed_name": "杨登峰"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1020/2644.htm",
+      "round": 2,
+      "cleaned_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\cleaned\\00014_https_kzgc_neuq_edu_cn_info_1020_2644_htm_cleaned.md",
+      "choice_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\choice\\00014_https_kzgc_neuq_edu_cn_info_1020_2644_htm_cleaned.choice.json",
+      "analysed_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\analysed\\韩萌_1.json",
+      "analysed_name": "韩萌"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1022/1212.htm",
+      "round": 2,
+      "cleaned_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\cleaned\\00015_https_kzgc_neuq_edu_cn_info_1022_1212_htm_cleaned.md",
+      "choice_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\choice\\00015_https_kzgc_neuq_edu_cn_info_1022_1212_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1020/1168.htm",
+      "round": 2,
+      "cleaned_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\cleaned\\00016_https_kzgc_neuq_edu_cn_info_1020_1168_htm_cleaned.md",
+      "choice_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\choice\\00016_https_kzgc_neuq_edu_cn_info_1020_1168_htm_cleaned.choice.json",
+      "analysed_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\analysed\\段洪君_1.json",
+      "analysed_name": "段洪君"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1020/1159.htm",
+      "round": 2,
+      "cleaned_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\cleaned\\00017_https_kzgc_neuq_edu_cn_info_1020_1159_htm_cleaned.md",
+      "choice_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\choice\\00017_https_kzgc_neuq_edu_cn_info_1020_1159_htm_cleaned.choice.json",
+      "analysed_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\analysed\\邵虹君_1.json",
+      "analysed_name": "邵虹君"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1020/2196.htm",
+      "round": 2,
+      "cleaned_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\cleaned\\00018_https_kzgc_neuq_edu_cn_info_1020_2196_htm_cleaned.md",
+      "choice_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\choice\\00018_https_kzgc_neuq_edu_cn_info_1020_2196_htm_cleaned.choice.json",
+      "analysed_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\analysed\\王正松_1.json",
+      "analysed_name": "王正松"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1022/1208.htm",
+      "round": 2,
+      "cleaned_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\cleaned\\00019_https_kzgc_neuq_edu_cn_info_1022_1208_htm_cleaned.md",
+      "choice_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\choice\\00019_https_kzgc_neuq_edu_cn_info_1022_1208_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1020/4285.htm",
+      "round": 2,
+      "cleaned_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\cleaned\\00020_https_kzgc_neuq_edu_cn_info_1020_4285_htm_cleaned.md",
+      "choice_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\choice\\00020_https_kzgc_neuq_edu_cn_info_1020_4285_htm_cleaned.choice.json",
+      "analysed_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\analysed\\张树磊_1.json",
+      "analysed_name": "张树磊"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1022/1219.htm",
+      "round": 2,
+      "cleaned_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\cleaned\\00021_https_kzgc_neuq_edu_cn_info_1022_1219_htm_cleaned.md",
+      "choice_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\choice\\00021_https_kzgc_neuq_edu_cn_info_1022_1219_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1022/1213.htm",
+      "round": 2,
+      "cleaned_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\cleaned\\00022_https_kzgc_neuq_edu_cn_info_1022_1213_htm_cleaned.md",
+      "choice_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\choice\\00022_https_kzgc_neuq_edu_cn_info_1022_1213_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1022/1203.htm",
+      "round": 2,
+      "cleaned_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\cleaned\\00023_https_kzgc_neuq_edu_cn_info_1022_1203_htm_cleaned.md",
+      "choice_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\choice\\00023_https_kzgc_neuq_edu_cn_info_1022_1203_htm_cleaned.choice.json",
+      "analysed_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\analysed\\李明_1.json",
+      "analysed_name": "李明"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1020/5024.htm",
+      "round": 2,
+      "cleaned_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\cleaned\\00024_https_kzgc_neuq_edu_cn_info_1020_5024_htm_cleaned.md",
+      "choice_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\choice\\00024_https_kzgc_neuq_edu_cn_info_1020_5024_htm_cleaned.choice.json",
+      "analysed_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\analysed\\荣丽娜_1.json",
+      "analysed_name": "荣丽娜"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1020/1147.htm",
+      "round": 2,
+      "cleaned_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\cleaned\\00025_https_kzgc_neuq_edu_cn_info_1020_1147_htm_cleaned.md",
+      "choice_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\choice\\00025_https_kzgc_neuq_edu_cn_info_1020_1147_htm_cleaned.choice.json",
+      "analysed_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\analysed\\于淼_1.json",
+      "analysed_name": "于淼"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1022/5285.htm",
+      "round": 2,
+      "cleaned_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\cleaned\\00026_https_kzgc_neuq_edu_cn_info_1022_5285_htm_cleaned.md",
+      "choice_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\choice\\00026_https_kzgc_neuq_edu_cn_info_1022_5285_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1020/1162.htm",
+      "round": 2,
+      "cleaned_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\cleaned\\00027_https_kzgc_neuq_edu_cn_info_1020_1162_htm_cleaned.md",
+      "choice_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\choice\\00027_https_kzgc_neuq_edu_cn_info_1020_1162_htm_cleaned.choice.json",
+      "analysed_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\analysed\\刘云静_1.json",
+      "analysed_name": "刘云静"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1022/1214.htm",
+      "round": 2,
+      "cleaned_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\cleaned\\00028_https_kzgc_neuq_edu_cn_info_1022_1214_htm_cleaned.md",
+      "choice_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\choice\\00028_https_kzgc_neuq_edu_cn_info_1022_1214_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1020/1156.htm",
+      "round": 2,
+      "cleaned_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\cleaned\\00029_https_kzgc_neuq_edu_cn_info_1020_1156_htm_cleaned.md",
+      "choice_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\choice\\00029_https_kzgc_neuq_edu_cn_info_1020_1156_htm_cleaned.choice.json",
+      "analysed_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\analysed\\王宏伟_1.json",
+      "analysed_name": "王宏伟"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1020/1154.htm",
+      "round": 2,
+      "cleaned_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\cleaned\\00030_https_kzgc_neuq_edu_cn_info_1020_1154_htm_cleaned.md",
+      "choice_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\choice\\00030_https_kzgc_neuq_edu_cn_info_1020_1154_htm_cleaned.choice.json",
+      "analysed_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\analysed\\魏永涛_1.json",
+      "analysed_name": "魏永涛"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1020/1153.htm",
+      "round": 2,
+      "cleaned_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\cleaned\\00031_https_kzgc_neuq_edu_cn_info_1020_1153_htm_cleaned.md",
+      "choice_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\choice\\00031_https_kzgc_neuq_edu_cn_info_1020_1153_htm_cleaned.choice.json",
+      "analysed_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\analysed\\朱亚锟_1.json",
+      "analysed_name": "朱亚锟"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1022/1224.htm",
+      "round": 2,
+      "cleaned_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\cleaned\\00032_https_kzgc_neuq_edu_cn_info_1022_1224_htm_cleaned.md",
+      "choice_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\choice\\00032_https_kzgc_neuq_edu_cn_info_1022_1224_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1022/3694.htm",
+      "round": 2,
+      "cleaned_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\cleaned\\00033_https_kzgc_neuq_edu_cn_info_1022_3694_htm_cleaned.md",
+      "choice_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\choice\\00033_https_kzgc_neuq_edu_cn_info_1022_3694_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1020/5495.htm",
+      "round": 2,
+      "cleaned_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\cleaned\\00034_https_kzgc_neuq_edu_cn_info_1020_5495_htm_cleaned.md",
+      "choice_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\choice\\00034_https_kzgc_neuq_edu_cn_info_1020_5495_htm_cleaned.choice.json",
+      "analysed_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\analysed\\郑恬子_1.json",
+      "analysed_name": "郑恬子"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1020/5494.htm",
+      "round": 2,
+      "cleaned_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\cleaned\\00035_https_kzgc_neuq_edu_cn_info_1020_5494_htm_cleaned.md",
+      "choice_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\choice\\00035_https_kzgc_neuq_edu_cn_info_1020_5494_htm_cleaned.choice.json",
+      "analysed_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\analysed\\杨旺_1.json",
+      "analysed_name": "杨旺"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1020/1164.htm",
+      "round": 2,
+      "cleaned_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\cleaned\\00036_https_kzgc_neuq_edu_cn_info_1020_1164_htm_cleaned.md",
+      "choice_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\choice\\00036_https_kzgc_neuq_edu_cn_info_1020_1164_htm_cleaned.choice.json",
+      "analysed_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\analysed\\郭戈_1.json",
+      "analysed_name": "郭戈"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1020/4604.htm",
+      "round": 2,
+      "cleaned_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\cleaned\\00037_https_kzgc_neuq_edu_cn_info_1020_4604_htm_cleaned.md",
+      "choice_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\choice\\00037_https_kzgc_neuq_edu_cn_info_1020_4604_htm_cleaned.choice.json",
+      "analysed_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\analysed\\王秀博_1.json",
+      "analysed_name": "王秀博"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1022/4094.htm",
+      "round": 2,
+      "cleaned_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\cleaned\\00038_https_kzgc_neuq_edu_cn_info_1022_4094_htm_cleaned.md",
+      "choice_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\choice\\00038_https_kzgc_neuq_edu_cn_info_1022_4094_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1022/1217.htm",
+      "round": 2,
+      "cleaned_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\cleaned\\00039_https_kzgc_neuq_edu_cn_info_1022_1217_htm_cleaned.md",
+      "choice_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\choice\\00039_https_kzgc_neuq_edu_cn_info_1022_1217_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/szdw/zrjs/zdhydqgcx1.htm",
+      "round": 2,
+      "cleaned_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\cleaned\\00040_https_kzgc_neuq_edu_cn_szdw_zrjs_zdhydqgcx1_htm_cleaned.md",
+      "choice_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\choice\\00040_https_kzgc_neuq_edu_cn_szdw_zrjs_zdhydqgcx1_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1020/1146.htm",
+      "round": 2,
+      "cleaned_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\cleaned\\00041_https_kzgc_neuq_edu_cn_info_1020_1146_htm_cleaned.md",
+      "choice_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\choice\\00041_https_kzgc_neuq_edu_cn_info_1020_1146_htm_cleaned.choice.json",
+      "analysed_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\analysed\\李成铁_1.json",
+      "analysed_name": "李成铁"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1020/4014.htm",
+      "round": 2,
+      "cleaned_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\cleaned\\00042_https_kzgc_neuq_edu_cn_info_1020_4014_htm_cleaned.md",
+      "choice_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\choice\\00042_https_kzgc_neuq_edu_cn_info_1020_4014_htm_cleaned.choice.json",
+      "analysed_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\analysed\\刘士新_1.json",
+      "analysed_name": "刘士新"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1020/1161.htm",
+      "round": 2,
+      "cleaned_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\cleaned\\00043_https_kzgc_neuq_edu_cn_info_1020_1161_htm_cleaned.md",
+      "choice_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\choice\\00043_https_kzgc_neuq_edu_cn_info_1020_1161_htm_cleaned.choice.json",
+      "analysed_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\analysed\\孟范伟_1.json",
+      "analysed_name": "孟范伟"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1020/1163.htm",
+      "round": 2,
+      "cleaned_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\cleaned\\00044_https_kzgc_neuq_edu_cn_info_1020_1163_htm_cleaned.md",
+      "choice_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\choice\\00044_https_kzgc_neuq_edu_cn_info_1020_1163_htm_cleaned.choice.json",
+      "analysed_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\analysed\\刘丽_1.json",
+      "analysed_name": "刘丽"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1022/2804.htm",
+      "round": 2,
+      "cleaned_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\cleaned\\00045_https_kzgc_neuq_edu_cn_info_1022_2804_htm_cleaned.md",
+      "choice_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\choice\\00045_https_kzgc_neuq_edu_cn_info_1022_2804_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1022/1223.htm",
+      "round": 2,
+      "cleaned_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\cleaned\\00046_https_kzgc_neuq_edu_cn_info_1022_1223_htm_cleaned.md",
+      "choice_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\choice\\00046_https_kzgc_neuq_edu_cn_info_1022_1223_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1022/1221.htm",
+      "round": 2,
+      "cleaned_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\cleaned\\00047_https_kzgc_neuq_edu_cn_info_1022_1221_htm_cleaned.md",
+      "choice_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\choice\\00047_https_kzgc_neuq_edu_cn_info_1022_1221_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1020/1144.htm",
+      "round": 2,
+      "cleaned_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\cleaned\\00048_https_kzgc_neuq_edu_cn_info_1020_1144_htm_cleaned.md",
+      "choice_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\choice\\00048_https_kzgc_neuq_edu_cn_info_1020_1144_htm_cleaned.choice.json",
+      "analysed_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\analysed\\高振宇_1.json",
+      "analysed_name": "高振宇"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1020/1167.htm",
+      "round": 2,
+      "cleaned_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\cleaned\\00049_https_kzgc_neuq_edu_cn_info_1020_1167_htm_cleaned.md",
+      "choice_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\choice\\00049_https_kzgc_neuq_edu_cn_info_1020_1167_htm_cleaned.choice.json",
+      "analysed_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\analysed\\高静_1.json",
+      "analysed_name": "高静"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1020/3834.htm",
+      "round": 2,
+      "cleaned_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\cleaned\\00050_https_kzgc_neuq_edu_cn_info_1020_3834_htm_cleaned.md",
+      "choice_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\choice\\00050_https_kzgc_neuq_edu_cn_info_1020_3834_htm_cleaned.choice.json",
+      "analysed_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\analysed\\张璐_1.json",
+      "analysed_name": "张璐"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1022/4286.htm",
+      "round": 2,
+      "cleaned_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\cleaned\\00051_https_kzgc_neuq_edu_cn_info_1022_4286_htm_cleaned.md",
+      "choice_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\choice\\00051_https_kzgc_neuq_edu_cn_info_1022_4286_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1020/5525.htm",
+      "round": 2,
+      "cleaned_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\cleaned\\00052_https_kzgc_neuq_edu_cn_info_1020_5525_htm_cleaned.md",
+      "choice_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\choice\\00052_https_kzgc_neuq_edu_cn_info_1020_5525_htm_cleaned.choice.json",
+      "analysed_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\analysed\\于力一_1.json",
+      "analysed_name": "于力一"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1022/1226.htm",
+      "round": 2,
+      "cleaned_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\cleaned\\00053_https_kzgc_neuq_edu_cn_info_1022_1226_htm_cleaned.md",
+      "choice_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\choice\\00053_https_kzgc_neuq_edu_cn_info_1022_1226_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1020/1169.htm",
+      "round": 2,
+      "cleaned_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\cleaned\\00054_https_kzgc_neuq_edu_cn_info_1020_1169_htm_cleaned.md",
+      "choice_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\choice\\00054_https_kzgc_neuq_edu_cn_info_1020_1169_htm_cleaned.choice.json",
+      "analysed_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\analysed\\蔡凌_1.json",
+      "analysed_name": "蔡凌"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1020/1152.htm",
+      "round": 2,
+      "cleaned_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\cleaned\\00055_https_kzgc_neuq_edu_cn_info_1020_1152_htm_cleaned.md",
+      "choice_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\choice\\00055_https_kzgc_neuq_edu_cn_info_1020_1152_htm_cleaned.choice.json",
+      "analysed_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\analysed\\郭峰_1.json",
+      "analysed_name": "郭峰"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/szdw/zrjs/jxydlgcx1.htm",
+      "round": 2,
+      "cleaned_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\cleaned\\00056_https_kzgc_neuq_edu_cn_szdw_zrjs_jxydlgcx1_htm_cleaned.md",
+      "choice_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\choice\\00056_https_kzgc_neuq_edu_cn_szdw_zrjs_jxydlgcx1_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1022/1215.htm",
+      "round": 2,
+      "cleaned_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\cleaned\\00057_https_kzgc_neuq_edu_cn_info_1022_1215_htm_cleaned.md",
+      "choice_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\choice\\00057_https_kzgc_neuq_edu_cn_info_1022_1215_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1020/1201.htm",
+      "round": 2,
+      "cleaned_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\cleaned\\00058_https_kzgc_neuq_edu_cn_info_1020_1201_htm_cleaned.md",
+      "choice_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\choice\\00058_https_kzgc_neuq_edu_cn_info_1020_1201_htm_cleaned.choice.json",
+      "analysed_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\analysed\\范立娜_1.json",
+      "analysed_name": "范立娜"
+    },
+    {
+      "url": "https://kzgc.neuq.edu.cn/info/1022/1207.htm",
+      "round": 2,
+      "cleaned_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\cleaned\\00059_https_kzgc_neuq_edu_cn_info_1022_1207_htm_cleaned.md",
+      "choice_file": "I:\\BYboy_V2\\byboy\\test\\get_tutor_pages_kzgc\\cache\\choice\\00059_https_kzgc_neuq_edu_cn_info_1022_1207_htm_cleaned.choice.json"
+    }
+  ],
+  "list4_analysed_profiles": [
+    "https://kzgc.neuq.edu.cn/info/1020/1144.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/1145.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/1146.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/1147.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/1152.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/1153.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/1154.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/1155.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/1156.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/1158.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/1159.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/1161.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/1162.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/1163.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/1164.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/1166.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/1167.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/1168.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/1169.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/1201.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/2196.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/2644.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/3014.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/3834.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/4014.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/4285.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/4604.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/5024.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/5494.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/5495.htm",
+    "https://kzgc.neuq.edu.cn/info/1020/5525.htm",
+    "https://kzgc.neuq.edu.cn/info/1022/1203.htm",
+    "https://kzgc.neuq.edu.cn/info/1022/1204.htm",
+    "https://kzgc.neuq.edu.cn/info/1022/1205.htm",
+    "https://kzgc.neuq.edu.cn/info/1022/1206.htm"
+  ]
+}

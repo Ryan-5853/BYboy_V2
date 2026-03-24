@@ -1,0 +1,972 @@
+{
+  "meta": {
+    "tutor_name_cn": "周云光",
+    "request_url": "https://kzgc.neuq.edu.cn/info/1022/1205.htm",
+    "declared_source_url": "https://kzgc.neuq.edu.cn/info/1022/1205.htm",
+    "page_host": "kzgc.neuq.edu.cn",
+    "markdown_cache_path": "I:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\0f525ca35acd82fa55e74a7a7eb257b9e8d0f557a19b5a390e5eed0e8aafc64c.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": "包含大量导师相关的有效文字信息，如教育背景、工作履历、研究方向、科研项目、学术成果等。"
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "target_professor_name": "周云光",
+    "source_url": "https://kzgc.neuq.edu.cn/info/1022/1205.htm",
+    "metadata": {
+      "publish_date": "2018-03-21",
+      "click_count": 8269,
+      "profile_image_url": "https://kzgc.neuq.edu.cn/__local/E/31/B6/39696A4E2BE4EDD26BEE1506A69_BC51C5CD_752A.jpg"
+    },
+    "personal_info": {
+      "name": "周云光",
+      "gender": "男",
+      "birth_date": "1986年08月",
+      "titles": [
+        "教授",
+        "工学博士",
+        "博士后",
+        "硕士生导师",
+        "博士生导师"
+      ]
+    },
+    "contact_info": {
+      "phone": "15233010367",
+      "email": "zhouyunguang@neuq.edu.cn"
+    },
+    "research_directions": [
+      "精密加工与复合能场制造",
+      "微尺度加工技术",
+      "智能加工技术与装备",
+      "AI辅助切削加工技术"
+    ],
+    "education_experience": [
+      {
+        "start_date": "2013.09",
+        "end_date": "2017.04",
+        "institution": "东北大学",
+        "major": "机械制造及其自动化",
+        "degree": "博士"
+      },
+      {
+        "start_date": "2010.09",
+        "end_date": "2013.06",
+        "institution": "河北科技大学",
+        "major": "机械设计及理论",
+        "degree": "硕士"
+      },
+      {
+        "start_date": "2006.09",
+        "end_date": "2010.06",
+        "institution": "河北科技大学",
+        "major": "机械设计制造及其自动化",
+        "degree": "学士"
+      }
+    ],
+    "work_experience": [
+      {
+        "start_date": "2025.01",
+        "end_date": "至今",
+        "institution": "东北大学秦皇岛分校",
+        "position": "教授",
+        "roles": [
+          "硕士生导师",
+          "博士生导师"
+        ]
+      },
+      {
+        "start_date": "2020.04",
+        "end_date": "2023.12",
+        "institution": "东北大学/中航沈飞民用飞机有限责任公司",
+        "position": "博士后"
+      },
+      {
+        "start_date": "2020.01",
+        "end_date": "2024.12",
+        "institution": "东北大学秦皇岛分校",
+        "position": "副教授",
+        "roles": [
+          "硕士生导师",
+          "博士生导师"
+        ]
+      },
+      {
+        "start_date": "2017.05",
+        "end_date": "2019.12",
+        "institution": "东北大学秦皇岛分校",
+        "position": "讲师",
+        "roles": [
+          "硕士生导师"
+        ]
+      }
+    ],
+    "academic_affiliations_and_social_roles": [
+      "中国机械工程学会高级会员",
+      "中国机械工业金属切削刀具技术协会切削先进技术研究分会理事",
+      "国家自然科学基金通讯评审专家",
+      "全国研究生教育评估监测专家库专家",
+      "河北省燕赵英才",
+      "《Journal of Manufacturing Processes》、《Optics Express》、《Ceramics International》、《红外与激光工程》等国内外期刊审稿人"
+    ],
+    "projects": [
+      {
+        "role": "主持",
+        "type": "国家自然科学基金面上项目",
+        "grant_number": "52475433"
+      },
+      {
+        "role": "主持",
+        "type": "国家自然科学基金青年项目",
+        "grant_number": "51905083"
+      },
+      {
+        "role": "主持",
+        "type": "河北省自然科学基金面上项目",
+        "grant_number": "E2022501004"
+      },
+      {
+        "role": "主持",
+        "type": "中国博士后基金面上项目",
+        "grant_number": "2021MD703912"
+      },
+      {
+        "role": "主持",
+        "type": "河北省自然科学基金青年项目",
+        "grant_number": "E2019501094"
+      },
+      {
+        "role": "主持",
+        "type": "驻冀高校与石家庄市产学研合作项目",
+        "grant_number": "241790747A"
+      },
+      {
+        "role": "主持",
+        "type": "河北省教育厅科学研究项目",
+        "grant_number": "QN2019321"
+      },
+      {
+        "role": "主持",
+        "type": "中央高校基本科研业务费国防引导项目",
+        "grant_number": "2023GFYD002"
+      },
+      {
+        "role": "主持",
+        "type": "中央高校基本科研业务费国家项目培育基金项目",
+        "grant_number": "N2123025"
+      },
+      {
+        "role": "参研",
+        "type": "国家自然科学基金面上项目",
+        "grant_number": "51975113"
+      },
+      {
+        "role": "参研",
+        "type": "国家自然科学基金项目",
+        "grant_number": "51375082"
+      }
+    ],
+    "awards_and_honors": [
+      "全国先进成图技术创新大赛优秀指导教师一等奖",
+      "全国先进成图技术创新大赛优秀指导教师三等奖",
+      "东北大学秦皇岛分校创新创业教育优秀指导教师",
+      "东北大学秦皇岛分校本科毕业设计优秀指导教师",
+      "东北大学本科教育教学审核评估先进个人",
+      "东北大学本科教学成果一等奖（参与人）",
+      "河北省本科教学成果二等奖（参与人）",
+      "团队集体获《机械工程学报》创刊70周年、CJME创刊35周年突出贡献团队"
+    ],
+    "academic_achievements": {
+      "general_statement": "近年来，在《Journal of Manufacturing Processes》、《Journal of Mechanical Science and Technology》、《Ceramics International》、《Science China Technological Sciences》、《Journal of the European Ceramic Society》、《机械工程学报》等国内外学术杂志上发表论文40余篇。",
+      "representative_papers": [
+        {
+          "authors": [
+            {
+              "name": "Zhou Yunguang",
+              "is_corresponding_author": true
+            },
+            {
+              "name": "Zou Ji",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Zhang Chunxue",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Ma Wenmin",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Ma Lianjie",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Li Ming",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Yin Guoqaing",
+              "is_corresponding_author": false
+            }
+          ],
+          "title": "Study on grinding removal mechanism and surface quality of graphene toughened ZrB2ceramic matrix composites",
+          "journal": "Journal of Manufacturing Processes",
+          "year": 2025,
+          "volume_issue_pages": "133: 33-45",
+          "citation_status": "SCI",
+          "journal_ranking": "中科院一区, TOP期刊",
+          "impact_factor": 6.8
+        },
+        {
+          "authors": [
+            {
+              "name": "Zhou Yunguang",
+              "is_corresponding_author": true
+            },
+            {
+              "name": "Liu Ji",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Wang Shuhai",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Chen Han",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Li Dezhen",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Ma Lianjie",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Li Ming",
+              "is_corresponding_author": false
+            }
+          ],
+          "title": "Study on the removal mechanism and milling quality of helical milling hole of SiCp/Al composites",
+          "journal": "Journal of Manufacturing Processes",
+          "year": 2024,
+          "volume_issue_pages": "109: 379-393",
+          "citation_status": "SCI",
+          "journal_ranking": "中科院一区, TOP期刊",
+          "impact_factor": 6.8
+        },
+        {
+          "authors": [
+            {
+              "name": "Zhou Yunguang",
+              "is_corresponding_author": true
+            },
+            {
+              "name": "Wang Shuhai",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Chen Han",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Zou Ji",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Ma Lianjie",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Yin Guoqiang",
+              "is_corresponding_author": false
+            }
+          ],
+          "title": "Study on surface quality and subsurface damage mechanism of nickel-based single crystal superalloy in precision turning",
+          "journal": "Journal of Manufacturing Processes",
+          "year": 2023,
+          "volume_issue_pages": "99: 230-242",
+          "citation_status": "SCI",
+          "journal_ranking": "中科院一区, TOP期刊",
+          "impact_factor": 6.8
+        },
+        {
+          "authors": [
+            {
+              "name": "Liu Ji",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Zhou Yunguang",
+              "is_corresponding_author": true
+            },
+            {
+              "name": "Jia Shiqi",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Lu Yize",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Ma Lianjie",
+              "is_corresponding_author": true
+            },
+            {
+              "name": "Li Ming",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Yin Guoqiang",
+              "is_corresponding_author": false
+            }
+          ],
+          "title": "Removal mechanism and hole quality of SiCp/Al composites by ultrasonic elliptical vibration-assisted helical milling",
+          "journal": "Ceramics International",
+          "year": 2024,
+          "volume_issue_pages": "50(22): 45210-45222",
+          "citation_status": "SCI",
+          "journal_ranking": "中科院二区, TOP期刊",
+          "impact_factor": 5.6
+        },
+        {
+          "authors": [
+            {
+              "name": "Zhang Chunxue",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Zhou Yunguang",
+              "is_corresponding_author": true
+            },
+            {
+              "name": "Ma Wenmin",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Lu Yize",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Ma Lianjie",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Li Ming",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Gong Yadong",
+              "is_corresponding_author": false
+            }
+          ],
+          "title": "Study on the chip formation mechanism and micro characteristics of adiabatic shear band in nickel-based single crystal superalloy",
+          "journal": "Journal of Alloys and Compounds",
+          "year": 2025,
+          "volume_issue_pages": "1038: 182846(1)-182846(9)",
+          "citation_status": "SCI",
+          "impact_factor": 6.3
+        },
+        {
+          "authors": [
+            {
+              "name": "Wang Yuhang",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Zhou Yunguang",
+              "is_corresponding_author": true
+            },
+            {
+              "name": "Li Ming",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Li Dan",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Li Dezhen",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Tan Yanqing",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Ma Lianjie",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Gong Yadong",
+              "is_corresponding_author": false
+            }
+          ],
+          "title": "Challenges and advances in hole-making of C/SiC composites: A comprehensive review",
+          "journal": "Journal of the European Ceramic Society",
+          "year": 2026,
+          "volume_issue_pages": "46(10): 118303(1)-118303(32)",
+          "citation_status": "SCI",
+          "impact_factor": 6.2
+        },
+        {
+          "authors": [
+            {
+              "name": "Zhang Chunxue",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Zhou Yunguang",
+              "is_corresponding_author": true
+            },
+            {
+              "name": "Zou Ji",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Zheng Hui",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Ma Lianjie",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Li Ming",
+              "is_corresponding_author": false
+            }
+          ],
+          "title": "Study on surface quality and subsurface damage of graphene toughened ceramic matrix composites by two-dimensional ultrasonic vibration assisted grinding",
+          "journal": "Diamond and Related Materials",
+          "year": 2025,
+          "volume_issue_pages": "159: 112935(1)-112935(13)",
+          "citation_status": "SCI",
+          "impact_factor": 5.1
+        },
+        {
+          "authors": [
+            {
+              "name": "Li Dezhen",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Zhou Yunguang",
+              "is_corresponding_author": true
+            },
+            {
+              "name": "Bi Chuanyun",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Ming Hao",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Chen Han",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Li Ming",
+              "is_corresponding_author": false
+            }
+          ],
+          "title": "Study on cutting force and surface quality in drilling 2.5D-Cf/SiC composites",
+          "journal": "Diamond and Related Materials",
+          "year": 2025,
+          "volume_issue_pages": "157: 112573(1)-112573(12)",
+          "citation_status": "SCI",
+          "impact_factor": 5.1
+        },
+        {
+          "authors": [
+            {
+              "name": "Zhou Yunguang",
+              "is_corresponding_author": true
+            },
+            {
+              "name": "Jia Shiqi",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Lu Yize",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Liu Ji",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Ma Lianjie",
+              "is_corresponding_author": true
+            },
+            {
+              "name": "Li Ming",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Li Dezhen",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Yin Guoqiang",
+              "is_corresponding_author": false
+            }
+          ],
+          "title": "Study on ultrasonic elliptical vibration-assisted grinding mechanism and surface quality of C/SiC composite material",
+          "journal": "Diamond and Related Materials",
+          "year": 2024,
+          "volume_issue_pages": "149: 111565(1)-111565(15)",
+          "citation_status": "SCI",
+          "impact_factor": 5.1
+        },
+        {
+          "authors": [
+            {
+              "name": "Zhou Yunguang",
+              "is_corresponding_author": true
+            },
+            {
+              "name": "Zhang Chunxue",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Zou Ji",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Lu Yize",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Ma Lianjie",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Li Ming",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Gong Yadong",
+              "is_corresponding_author": false
+            }
+          ],
+          "title": "Study on chip formation and damage mechanism of micro-drilling nickel-based single crystal superalloy",
+          "journal": "Chinese Journal of Mechanical Engineering",
+          "year": 2026,
+          "volume_issue_pages": "39: 100029(1)-100029(12)",
+          "citation_status": "SCI",
+          "impact_factor": 4.5
+        },
+        {
+          "authors": [
+            {
+              "name": "Zou Ji",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Zhou Yunguang",
+              "is_corresponding_author": true
+            },
+            {
+              "name": "Zhu Zihao",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Zhang Chunxue",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Ma Lianjie",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Li Ming",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Yin Guoqaing",
+              "is_corresponding_author": false
+            }
+          ],
+          "title": "Study on motion trajectory and grinding force of graphene toughened ZrB2ceramic matrix composites by two-dimensional ultrasonic assisted grinding",
+          "journal": "International Journal of Advanced Manufacturing Technology",
+          "year": 2026,
+          "volume_issue_pages": "142: 1217-1233",
+          "citation_status": "SCI",
+          "impact_factor": 3.1
+        },
+        {
+          "authors": [
+            {
+              "name": "Zhou Yunguang",
+              "is_corresponding_author": true
+            },
+            {
+              "name": "Zou Ji",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Zhang Chunxue",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Li Dezhen",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Ma Lianjie",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Li Ming",
+              "is_corresponding_author": false
+            }
+          ],
+          "title": "Study on grinding removal mechanism and subsurface damage of bionic layered graphene ceramic matrix composites",
+          "journal": "International Journal of Advanced Manufacturing Technology",
+          "year": 2024,
+          "volume_issue_pages": "130: 3837-3849",
+          "citation_status": "SCI",
+          "impact_factor": 3.1
+        },
+        {
+          "authors": [
+            {
+              "name": "Zhou Yunguang",
+              "is_corresponding_author": true
+            },
+            {
+              "name": "Chen Han",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Liu Ji",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Gong Yadong",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Ma Lianjie",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Li Ming",
+              "is_corresponding_author": false
+            }
+          ],
+          "title": "Study on removal mechanism and surface quality in helical grinding 2.5D-Cf/SiC composites",
+          "journal": "International Journal of Advanced Manufacturing Technology",
+          "year": 2024,
+          "volume_issue_pages": "134(11-12): 5741-5754",
+          "citation_status": "SCI",
+          "impact_factor": 3.1
+        },
+        {
+          "authors": [
+            {
+              "name": "Liu Ji",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Zhou Yunguang",
+              "is_corresponding_author": true
+            },
+            {
+              "name": "Jia Shiqi",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Lu Yize",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Zheng Hui",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Li Ming",
+              "is_corresponding_author": false
+            }
+          ],
+          "title": "Cutting force model of ultrasonic elliptical vibration-assisted helical milling of SiCp/Al composites",
+          "journal": "Crystals",
+          "year": 2024,
+          "volume_issue_pages": "14(9): 774(1)-774(14)",
+          "citation_status": "SCI",
+          "impact_factor": 2.4
+        },
+        {
+          "authors": [
+            {
+              "name": "Zhou Yunguang",
+              "is_corresponding_author": true
+            },
+            {
+              "name": "Tian Chuanchuan",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Jia shiqi",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Ma Lianjie",
+              "is_corresponding_author": true
+            },
+            {
+              "name": "Yin Guoqiang",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Gong Yadong",
+              "is_corresponding_author": false
+            }
+          ],
+          "title": "Study on grinding force of two-dimensional ultrasonic vibration grinding 2.5D-C/SiC composite material",
+          "journal": "Crystals",
+          "year": 2023,
+          "volume_issue_pages": "13(1): 151(1)-151(20)",
+          "citation_status": "SCI",
+          "impact_factor": 2.4
+        },
+        {
+          "authors": [
+            {
+              "name": "Zhou Yunguang",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Tian Chuanchuan",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Li Hongyang",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Ma Lianjie",
+              "is_corresponding_author": true
+            },
+            {
+              "name": "Li Ming",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Yin Guoqiang",
+              "is_corresponding_author": false
+            }
+          ],
+          "title": "Study on removal mechanism and surface quality of grinding carbon fiber toughened ceramic matrix composite",
+          "journal": "Journal of the Brazilian Society of Mechanical Sciences and Engineering",
+          "year": 2022,
+          "volume_issue_pages": "44(10): 476(1)- 476(13)",
+          "citation_status": "SCI",
+          "impact_factor": 2.1
+        },
+        {
+          "authors": [
+            {
+              "name": "Zhou Yunguang",
+              "is_corresponding_author": true
+            },
+            {
+              "name": "Wen Xuelong",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Yin Guoqiang",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Ma Lianjie",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Tan Yanqing",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "Li Hongyang",
+              "is_corresponding_author": false
+            }
+          ],
+          "title": "Study on theoretical model of roughness and wear of the microgrinding tool in microgrinding nickel-based single crystal superalloy",
+          "journal": "Journal of the Brazilian Society of Mechanical Sciences and Engineering",
+          "year": 2021,
+          "volume_issue_pages": "43(6): 317(1)-317(15)",
+          "citation_status": "SCI",
+          "impact_factor": 2.1
+        },
+        {
+          "authors": [
+            {
+              "name": "周云光",
+              "is_corresponding_author": true
+            },
+            {
+              "name": "陈晗",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "邹忌",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "马文敏",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "马廉洁",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "李明",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "尹国强",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "巩亚东",
+              "is_corresponding_author": false
+            }
+          ],
+          "title": "2.5D-Cf/SiC复合材料超声椭圆振动辅助螺旋磨削运动学模型及材料去除机理研究",
+          "journal": "机械工程学报",
+          "year": 2025,
+          "volume_issue_pages": "61(07): 229-244",
+          "citation_status": "EI",
+          "journal_ranking": null,
+          "impact_factor": null
+        },
+        {
+          "authors": [
+            {
+              "name": "周云光",
+              "is_corresponding_author": true
+            },
+            {
+              "name": "逯一泽",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "邹忌",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "刘记",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "马廉洁",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "李明",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "巩亚东",
+              "is_corresponding_author": false
+            }
+          ],
+          "title": "2.5D-C/SiC复合材料螺旋铣孔去除机理及表面质量研究",
+          "journal": "机械工程学报",
+          "year": 2025,
+          "volume_issue_pages": "61(17): 343-359",
+          "citation_status": "EI",
+          "journal_ranking": null,
+          "impact_factor": null
+        },
+        {
+          "authors": [
+            {
+              "name": "周云光",
+              "is_corresponding_author": true
+            },
+            {
+              "name": "刘记",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "王书海",
+              "is_corresponding_author": false
+            },
+            {
+              "name": "贾士奇",
+              "is_corresponding_author": false
+            }
+          ],
+          "title": "SiCp/Al复合材料螺旋铣削力和制孔质量影响因素研究",
+          "journal": "中国机械工程",
+          "year": 2024,
+          "volume_issue_pages": "35(12): 2231-2238",
+          "citation_status": "EI",
+          "journal_ranking": null,
+          "impact_factor": null
+        }
+      ]
+    },
+    "courses_taught": [
+      {
+        "level": "硕士生",
+        "name": "精密与特种加工技术"
+      },
+      {
+        "level": "本科生",
+        "name": "数控技术"
+      }
+    ],
+    "graduate_supervision": {
+      "phd_students": {
+        "total": 1,
+        "currently_enrolled": null,
+        "graduated": null
+      },
+      "master_students": {
+        "total": 20,
+        "currently_enrolled": 13,
+        "graduated": 7
+      },
+      "notes": "独立指导博士研究生1人，硕士研究生20人，在读13人，已毕业7人。"
+    },
+    "site_chrome": {
+      "breadcrumb": [
+        {
+          "anchor_text": "首页",
+          "url": "https://kzgc.neuq.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://kzgc.neuq.edu.cn/szdw/zrjs.htm"
+        },
+        {
+          "anchor_text": "专任教师",
+          "url": "https://kzgc.neuq.edu.cn/szdw/zrjs.htm"
+        },
+        {
+          "anchor_text": "机械与动力工程系",
+          "url": "https://kzgc.neuq.edu.cn/szdw/zrjs/jxydlgcx1.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "navigation_links": [
+        {
+          "anchor_text": "上一篇：杨登峰",
+          "url": "https://kzgc.neuq.edu.cn/info/1022/1204.htm"
+        },
+        {
+          "anchor_text": "下一篇：赵玉倩",
+          "url": "https://kzgc.neuq.edu.cn/info/1022/1206.htm"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,3507 @@
+{
+  "meta": {
+    "markdown_path": "I:\\BYboy_V2\\byboy\\test\\me_neu_3209_list.md",
+    "declared_source_url": "http://www.me.neu.edu.cn/3209/list.htm",
+    "page_host": "www.me.neu.edu.cn"
+  },
+  "clickable_links": [
+    {
+      "url": "http://www.me.neu.edu.cn/main.htm",
+      "anchor_text": "学院首页",
+      "guessed_target_content": "站点普通信息页面",
+      "guess_reason": "未命中强特征关键词，按普通内容页处理。",
+      "scope": "internal",
+      "confidence": "low"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3183/list.htm",
+      "anchor_text": "学院概况",
+      "guessed_target_content": "站点普通信息页面",
+      "guess_reason": "未命中强特征关键词，按普通内容页处理。",
+      "scope": "internal",
+      "confidence": "low"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3197/list.htm",
+      "anchor_text": "学院简介",
+      "guessed_target_content": "站点普通信息页面",
+      "guess_reason": "未命中强特征关键词，按普通内容页处理。",
+      "scope": "internal",
+      "confidence": "low"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3184/list.htm",
+      "anchor_text": "机构设置",
+      "guessed_target_content": "站点普通信息页面",
+      "guess_reason": "未命中强特征关键词，按普通内容页处理。",
+      "scope": "internal",
+      "confidence": "low"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3202/list.htm",
+      "anchor_text": "职能部门",
+      "guessed_target_content": "站点普通信息页面",
+      "guess_reason": "未命中强特征关键词，按普通内容页处理。",
+      "scope": "internal",
+      "confidence": "low"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3203/list.htm",
+      "anchor_text": "学术组织",
+      "guessed_target_content": "站点普通信息页面",
+      "guess_reason": "未命中强特征关键词，按普通内容页处理。",
+      "scope": "internal",
+      "confidence": "low"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3204/list.htm",
+      "anchor_text": "实验中心",
+      "guessed_target_content": "站点普通信息页面",
+      "guess_reason": "未命中强特征关键词，按普通内容页处理。",
+      "scope": "internal",
+      "confidence": "low"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3198/list.htm",
+      "anchor_text": "历史沿革",
+      "guessed_target_content": "站点普通信息页面",
+      "guess_reason": "未命中强特征关键词，按普通内容页处理。",
+      "scope": "internal",
+      "confidence": "low"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3200/list.htm",
+      "anchor_text": "学院领导",
+      "guessed_target_content": "站点普通信息页面",
+      "guess_reason": "未命中强特征关键词，按普通内容页处理。",
+      "scope": "internal",
+      "confidence": "low"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3201/list.htm",
+      "anchor_text": "学院文化",
+      "guessed_target_content": "站点普通信息页面",
+      "guess_reason": "未命中强特征关键词，按普通内容页处理。",
+      "scope": "internal",
+      "confidence": "low"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3205/list.htm",
+      "anchor_text": "师资队伍",
+      "guessed_target_content": "站点普通信息页面",
+      "guess_reason": "未命中强特征关键词，按普通内容页处理。",
+      "scope": "internal",
+      "confidence": "low"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3205/list.htm",
+      "anchor_text": "院士风采",
+      "guessed_target_content": "站点普通信息页面",
+      "guess_reason": "未命中强特征关键词，按普通内容页处理。",
+      "scope": "internal",
+      "confidence": "low"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3209/list.htm",
+      "anchor_text": "教师名录",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3187/list.htm",
+      "anchor_text": "科学研究",
+      "guessed_target_content": "科研/实验室相关页面",
+      "guess_reason": "锚文本或 URL 关键词指向科研内容。",
+      "scope": "internal",
+      "confidence": "medium"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/yxswyh/list.htm",
+      "anchor_text": "院学术委员会",
+      "guessed_target_content": "站点普通信息页面",
+      "guess_reason": "未命中强特征关键词，按普通内容页处理。",
+      "scope": "internal",
+      "confidence": "low"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3210/list.htm",
+      "anchor_text": "学科概况",
+      "guessed_target_content": "站点普通信息页面",
+      "guess_reason": "未命中强特征关键词，按普通内容页处理。",
+      "scope": "internal",
+      "confidence": "low"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3215/list.htm",
+      "anchor_text": "科研动态",
+      "guessed_target_content": "科研/实验室相关页面",
+      "guess_reason": "锚文本或 URL 关键词指向科研内容。",
+      "scope": "internal",
+      "confidence": "medium"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3211/list.htm",
+      "anchor_text": "双一流建设",
+      "guessed_target_content": "站点普通信息页面",
+      "guess_reason": "未命中强特征关键词，按普通内容页处理。",
+      "scope": "internal",
+      "confidence": "low"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3216/list.htm",
+      "anchor_text": "成果展示",
+      "guessed_target_content": "科研/实验室相关页面",
+      "guess_reason": "锚文本或 URL 关键词指向科研内容。",
+      "scope": "internal",
+      "confidence": "medium"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3212/list.htm",
+      "anchor_text": "博士后流动站",
+      "guessed_target_content": "站点普通信息页面",
+      "guess_reason": "未命中强特征关键词，按普通内容页处理。",
+      "scope": "internal",
+      "confidence": "low"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3217/list.htm",
+      "anchor_text": "基地建设",
+      "guessed_target_content": "站点普通信息页面",
+      "guess_reason": "未命中强特征关键词，按普通内容页处理。",
+      "scope": "internal",
+      "confidence": "low"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3213/list.htm",
+      "anchor_text": "博士点",
+      "guessed_target_content": "站点普通信息页面",
+      "guess_reason": "未命中强特征关键词，按普通内容页处理。",
+      "scope": "internal",
+      "confidence": "low"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3214/list.htm",
+      "anchor_text": "硕士点",
+      "guessed_target_content": "站点普通信息页面",
+      "guess_reason": "未命中强特征关键词，按普通内容页处理。",
+      "scope": "internal",
+      "confidence": "low"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3188/list.htm",
+      "anchor_text": "党建工作",
+      "guessed_target_content": "站点普通信息页面",
+      "guess_reason": "未命中强特征关键词，按普通内容页处理。",
+      "scope": "internal",
+      "confidence": "low"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3218/list.htm",
+      "anchor_text": "组织架构",
+      "guessed_target_content": "站点普通信息页面",
+      "guess_reason": "未命中强特征关键词，按普通内容页处理。",
+      "scope": "internal",
+      "confidence": "low"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3219/list.htm",
+      "anchor_text": "工作指南",
+      "guessed_target_content": "站点普通信息页面",
+      "guess_reason": "未命中强特征关键词，按普通内容页处理。",
+      "scope": "internal",
+      "confidence": "low"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3220/list.htm",
+      "anchor_text": "光荣榜",
+      "guessed_target_content": "站点普通信息页面",
+      "guess_reason": "未命中强特征关键词，按普通内容页处理。",
+      "scope": "internal",
+      "confidence": "low"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3189/list.htm",
+      "anchor_text": "本科生教育",
+      "guessed_target_content": "招生/教学相关页面",
+      "guess_reason": "锚文本或 URL 关键词指向招生或教学栏目。",
+      "scope": "internal",
+      "confidence": "medium"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3221/list.htm",
+      "anchor_text": "本科生管理",
+      "guessed_target_content": "招生/教学相关页面",
+      "guess_reason": "锚文本或 URL 关键词指向招生或教学栏目。",
+      "scope": "internal",
+      "confidence": "medium"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3222/list.htm",
+      "anchor_text": "本科生招生",
+      "guessed_target_content": "招生/教学相关页面",
+      "guess_reason": "锚文本或 URL 关键词指向招生或教学栏目。",
+      "scope": "internal",
+      "confidence": "medium"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3223/list.htm",
+      "anchor_text": "本科生培养",
+      "guessed_target_content": "招生/教学相关页面",
+      "guess_reason": "锚文本或 URL 关键词指向招生或教学栏目。",
+      "scope": "internal",
+      "confidence": "medium"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3190/list.htm",
+      "anchor_text": "研究生教育",
+      "guessed_target_content": "科研/实验室相关页面",
+      "guess_reason": "锚文本或 URL 关键词指向科研内容。",
+      "scope": "internal",
+      "confidence": "medium"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3327/list.htm",
+      "anchor_text": "院学位评定分委员会",
+      "guessed_target_content": "招生/教学相关页面",
+      "guess_reason": "锚文本或 URL 关键词指向招生或教学栏目。",
+      "scope": "internal",
+      "confidence": "medium"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3328/list.htm",
+      "anchor_text": "招生工作",
+      "guessed_target_content": "招生/教学相关页面",
+      "guess_reason": "锚文本或 URL 关键词指向招生或教学栏目。",
+      "scope": "internal",
+      "confidence": "medium"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3329/list.htm",
+      "anchor_text": "教学培养",
+      "guessed_target_content": "招生/教学相关页面",
+      "guess_reason": "锚文本或 URL 关键词指向招生或教学栏目。",
+      "scope": "internal",
+      "confidence": "medium"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3330/list.htm",
+      "anchor_text": "学位工作",
+      "guessed_target_content": "招生/教学相关页面",
+      "guess_reason": "锚文本或 URL 关键词指向招生或教学栏目。",
+      "scope": "internal",
+      "confidence": "medium"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3331/list.htm",
+      "anchor_text": "导师介绍",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/10643/list.htm",
+      "anchor_text": "博士生导师",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/10644/list.htm",
+      "anchor_text": "硕士生导师",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3332/list.htm",
+      "anchor_text": "联合培养项目",
+      "guessed_target_content": "科研/实验室相关页面",
+      "guess_reason": "锚文本或 URL 关键词指向科研内容。",
+      "scope": "internal",
+      "confidence": "medium"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3333/list.htm",
+      "anchor_text": "双学位项目",
+      "guessed_target_content": "科研/实验室相关页面",
+      "guess_reason": "锚文本或 URL 关键词指向科研内容。",
+      "scope": "internal",
+      "confidence": "medium"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3191/list.htm",
+      "anchor_text": "学生工作",
+      "guessed_target_content": "站点普通信息页面",
+      "guess_reason": "未命中强特征关键词，按普通内容页处理。",
+      "scope": "internal",
+      "confidence": "low"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/main.htm",
+      "anchor_text": "首页",
+      "guessed_target_content": "站点普通信息页面",
+      "guess_reason": "未命中强特征关键词，按普通内容页处理。",
+      "scope": "internal",
+      "confidence": "low"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2023/1224/c10554a241267/page.htm",
+      "anchor_text": "陈泽宇",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c3254a53859/page.htm",
+      "anchor_text": "郭立新",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2024/0805/c10554a267050/page.htm",
+      "anchor_text": "梁忠超",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1104/c10554a53854/page.htm",
+      "anchor_text": "王永富",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2024/1101/c10554a271147/page.htm",
+      "anchor_text": "赵晶",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/liwenfeng/",
+      "anchor_text": "李文锋",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "external",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2024/0710/c10554a265426/page.htm",
+      "anchor_text": "潘济安",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2017/0322/c10554a54688/page.htm",
+      "anchor_text": "唐传茵",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2017/0512/c10554a54687/page.htm",
+      "anchor_text": "杨周",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54686/page.htm",
+      "anchor_text": "周淑文",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/ylwang_0518",
+      "anchor_text": "王云龙",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "external",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54761/page.htm",
+      "anchor_text": "周楠",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2022/0221/c10554a209922/page.htm",
+      "anchor_text": "李一鸣",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/zhoushihua",
+      "anchor_text": "周世华",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "external",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2024/1101/c10554a271146/page.htm",
+      "anchor_text": "李琦",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2024/1031/c10554a271010/page.htm",
+      "anchor_text": "刘宇",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2024/1101/c10554a271148/page.htm",
+      "anchor_text": "于洋",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2024/0802/c10554a267000/page.htm",
+      "anchor_text": "李小号",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2024/0901/c10554a267516/page.htm",
+      "anchor_text": "范威",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54695/page.htm",
+      "anchor_text": "刘阳",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54694/page.htm",
+      "anchor_text": "马明旭",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2021/0326/c10554a190645/page.htm",
+      "anchor_text": "王娜",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2021/0106/c10554a186175/page.htm",
+      "anchor_text": "尹国强",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/zhanghz0/",
+      "anchor_text": "张红状",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "external",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2017/1130/c10554a54692/page.htm",
+      "anchor_text": "张闻雷",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2022/0223/c10554a209961/page.htm",
+      "anchor_text": "张雪薇",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2024/0826/c10554a267337/page.htm",
+      "anchor_text": "赵薇",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54776/page.htm",
+      "anchor_text": "陈亚哲",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54774/page.htm",
+      "anchor_text": "孙少妮",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54769/page.htm",
+      "anchor_text": "赵群超",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2023/0323/c10554a227513/page.htm",
+      "anchor_text": "教授",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2020/1009/c10554a180146/page.htm",
+      "anchor_text": "韩清凯",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2018/0919/c10554a54098/page.htm",
+      "anchor_text": "黄贤振",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2017/0925/c10554a54093/page.htm",
+      "anchor_text": "李常有",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2020/0902/c10554a178001/page.htm",
+      "anchor_text": "杨天智",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2025/1113/c10554a295536/page.htm",
+      "anchor_text": "张旭方",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2018/0218/c10554a54059/page.htm",
+      "anchor_text": "赵亚平",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2023/0323/c10554a227513/page.htm",
+      "anchor_text": "副教授",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2024/0103/c10554a241758/page.htm",
+      "anchor_text": "吕杭原",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/lvhao",
+      "anchor_text": "吕昊",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "external",
+      "confidence": "high"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/yaoguo",
+      "anchor_text": "姚国",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "external",
+      "confidence": "high"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/neuzqy0",
+      "anchor_text": "朱清玉",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "external",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2026/0316/c10554a451115/page.htm",
+      "anchor_text": "韩承霖",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2023/0323/c10554a227513/page.htm",
+      "anchor_text": "讲师",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1104/c10554a54701/page.htm",
+      "anchor_text": "邓明",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2017/0502/c10554a54700/page.htm",
+      "anchor_text": "吕春梅",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54699/page.htm",
+      "anchor_text": "牛东方",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2019/0123/c10554a54779/page.htm",
+      "anchor_text": "孙晓枫",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54778/page.htm",
+      "anchor_text": "王峰",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2024/0304/c10554a243317/page.htm",
+      "anchor_text": "王佳伊",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54777/page.htm",
+      "anchor_text": "杨松",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1120/c10554a54775/page.htm",
+      "anchor_text": "赵莹",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1222/c10554a54773/page.htm",
+      "anchor_text": "钟莹",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54771/page.htm",
+      "anchor_text": "周淼",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/me/chenjie/",
+      "anchor_text": "陈杰",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "external",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2017/0502/c10554a53984/page.htm",
+      "anchor_text": "郝丽娜",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2023/0221/c10554a225754/page.htm",
+      "anchor_text": "刘宇",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2020/1228/c10554a185777/page.htm",
+      "anchor_text": "陆志国",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2017/0502/c10554a53983/page.htm",
+      "anchor_text": "罗忠",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/mashujun",
+      "anchor_text": "马树军",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "external",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2017/0505/c10554a53981/page.htm",
+      "anchor_text": "王宏",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2024/0808/c10554a267102/page.htm",
+      "anchor_text": "张磊",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2017/1220/c10554a54713/page.htm",
+      "anchor_text": "程红太",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54712/page.htm",
+      "anchor_text": "李允公",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2024/0304/c10554a243312/page.htm",
+      "anchor_text": "刘冲",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/zhangying_",
+      "anchor_text": "张颖",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "external",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2017/0505/c10554a54789/page.htm",
+      "anchor_text": "戴丽",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/~ArmQry",
+      "anchor_text": "李雷",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "external",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54787/page.htm",
+      "anchor_text": "王菲",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54786/page.htm",
+      "anchor_text": "颜世玉",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54785/page.htm",
+      "anchor_text": "于清文",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54784/page.htm",
+      "anchor_text": "赵海滨",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/chfli",
+      "anchor_text": "李朝峰",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "external",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54159/page.htm",
+      "anchor_text": "李鹤",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2023/0212/c10554a225615/page.htm",
+      "anchor_text": "李晖",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1120/c10554a54158/page.htm",
+      "anchor_text": "李小彭",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2021/0311/c10554a189052/page.htm",
+      "anchor_text": "刘杨",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2017/0505/c10554a54157/page.htm",
+      "anchor_text": "马辉",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2017/0502/c10554a54156/page.htm",
+      "anchor_text": "任朝晖",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2017/0904/c10554a54155/page.htm",
+      "anchor_text": "孙伟",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2019/0919/c10554a142916/page.htm",
+      "anchor_text": "姚红良",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2023/0108/c10554a225292/page.htm",
+      "anchor_text": "张学良",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54153/page.htm",
+      "anchor_text": "赵春雨",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/guoxm0",
+      "anchor_text": "郭旭民",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "external",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2020/1111/c10554a182670/page.htm",
+      "anchor_text": "姜世杰",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2018/0323/c10554a54718/page.htm",
+      "anchor_text": "汪博",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2024/1113/c10554a271712/page.htm",
+      "anchor_text": "孙聪",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2025/0627/c10554a288592/page.htm",
+      "anchor_text": "赵超",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2023/0612/c10554a231707/page.htm",
+      "anchor_text": "徐昆鹏",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1120/c10554a54307/page.htm",
+      "anchor_text": "程军",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2019/0909/c10554a141906/page.htm",
+      "anchor_text": "温雪龙",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54299/page.htm",
+      "anchor_text": "于天彪",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2019/0327/c10554a90121/page.htm",
+      "anchor_text": "赵继",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2017/0823/c10554a54280/page.htm",
+      "anchor_text": "朱立达",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54277/page.htm",
+      "anchor_text": "邹平",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54728/page.htm",
+      "anchor_text": "李虎",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54727/page.htm",
+      "anchor_text": "盛忠起",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/sunyao",
+      "anchor_text": "孙瑶",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "external",
+      "confidence": "high"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/xiangdd",
+      "anchor_text": "项顶顶",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "external",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54725/page.htm",
+      "anchor_text": "谢华龙",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/xinbo",
+      "anchor_text": "辛博",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "external",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2023/0612/c10554a231700/page.htm",
+      "anchor_text": "杨建宇",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/yujiapeng",
+      "anchor_text": "于嘉鹏",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "external",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54722/page.htm",
+      "anchor_text": "张耀满",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/mazl0",
+      "anchor_text": "马哲伦",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "external",
+      "confidence": "high"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/wangzixuan",
+      "anchor_text": "王紫瑄",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "external",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54799/page.htm",
+      "anchor_text": "温泉",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54796/page.htm",
+      "anchor_text": "许之伟",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54364/page.htm",
+      "anchor_text": "陈良玉",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2023/1227/c10554a241456/page.htm",
+      "anchor_text": "闫玉涛",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/chenyu1",
+      "anchor_text": "陈雨",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "external",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2024/0304/c10554a243313/page.htm",
+      "anchor_text": "郭瑜",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54738/page.htm",
+      "anchor_text": "李翠玲",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2023/0612/c10554a231699/page.htm",
+      "anchor_text": "吕朝阳",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2017/0103/c10554a54737/page.htm",
+      "anchor_text": "马交成",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54736/page.htm",
+      "anchor_text": "孟祥志",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54735/page.htm",
+      "anchor_text": "宋万里",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/suncong11",
+      "anchor_text": "孙聪",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "external",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2024/1104/c10554a271164/page.htm",
+      "anchor_text": "王健",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/wangxy1/",
+      "anchor_text": "王晓宇",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "external",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2017/0502/c10554a54732/page.htm",
+      "anchor_text": "杨强",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2019/0104/c10554a54731/page.htm",
+      "anchor_text": "张禹",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54803/page.htm",
+      "anchor_text": "李宝民",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2024/1101/c10554a271152/page.htm",
+      "anchor_text": "赵宇来",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2017/0505/c10554a54679/page.htm",
+      "anchor_text": "孔祥伟",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54678/page.htm",
+      "anchor_text": "谢里阳",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54677/page.htm",
+      "anchor_text": "颜云辉",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2016/0216/c10554a54750/page.htm",
+      "anchor_text": "兰亮云",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54749/page.htm",
+      "anchor_text": "李佳",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2017/0502/c10554a54746/page.htm",
+      "anchor_text": "钱文学",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/songkechen",
+      "anchor_text": "宋克臣",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "external",
+      "confidence": "high"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/HCHSUN",
+      "anchor_text": "孙红春",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "external",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54744/page.htm",
+      "anchor_text": "王雷",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2018/0305/c10554a54741/page.htm",
+      "anchor_text": "张瑞金",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2016/0307/c10554a54740/page.htm",
+      "anchor_text": "张自成",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/zhaobingfeng",
+      "anchor_text": "赵丙峰",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "external",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2017/1220/c10554a54814/page.htm",
+      "anchor_text": "胡智勇",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54812/page.htm",
+      "anchor_text": "李骏",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54810/page.htm",
+      "anchor_text": "滕云楠",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54809/page.htm",
+      "anchor_text": "吴宁祥",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54808/page.htm",
+      "anchor_text": "叶大勇",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54807/page.htm",
+      "anchor_text": "张子骞",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54806/page.htm",
+      "anchor_text": "赵飞",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2026/0311/c10554a450854/page.htm",
+      "anchor_text": "邹丽",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2023/0226/c10554a225915/page.htm",
+      "anchor_text": "林君哲",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/SHHZHOU",
+      "anchor_text": "周生浩",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "external",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2024/0304/c10554a243327/page.htm",
+      "anchor_text": "杜东旭",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54824/page.htm",
+      "anchor_text": "王长周",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54823/page.htm",
+      "anchor_text": "周娜",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2021/0518/c10554a196695/page.htm",
+      "anchor_text": "姜曦灼",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1120/c10554a54684/page.htm",
+      "anchor_text": "李建昌",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2019/0909/c10554a141903/page.htm",
+      "anchor_text": "蔺增",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2017/0502/c10554a54683/page.htm",
+      "anchor_text": "刘坤",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2017/0502/c10554a54704/page.htm",
+      "anchor_text": "谢元华",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54682/page.htm",
+      "anchor_text": "王晓冬",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2022/0228/c10554a210109/page.htm",
+      "anchor_text": "王敏",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2019/1125/c10554a160931/page.htm",
+      "anchor_text": "张志军",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a53963/page.htm",
+      "anchor_text": "朱彤",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2017/0502/c10554a54760/page.htm",
+      "anchor_text": "杜广煜",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2024/1101/c10554a271149/page.htm",
+      "anchor_text": "江晶",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1120/c10554a54758/page.htm",
+      "anchor_text": "孙丽娜",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2025/1028/c10554a294368/page.htm",
+      "anchor_text": "孙明瑞",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54757/page.htm",
+      "anchor_text": "王庆",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2020/0525/c10554a171794/page.htm",
+      "anchor_text": "王有昭",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1120/c10554a54755/page.htm",
+      "anchor_text": "岳向吉",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54827/page.htm",
+      "anchor_text": "巴要帅",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54783/page.htm",
+      "anchor_text": "韩进",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54782/page.htm",
+      "anchor_text": "黄永刚",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/sunf0",
+      "anchor_text": "孙飞",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "external",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54780/page.htm",
+      "anchor_text": "由美雁",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2025/0422/c10554a282030/page.htm",
+      "anchor_text": "邢飞",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2024/1209/c10554a275651/page.htm",
+      "anchor_text": "库涛",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2025/0415/c10554a281621/page.htm",
+      "anchor_text": "吴世凯",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2025/1114/c10554a295660/page.htm",
+      "anchor_text": "张丁一",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/_visitcount?siteId=53&type=2&columnId=3209",
+      "anchor_text": "",
+      "guessed_target_content": "站点普通信息页面",
+      "guess_reason": "未命中强特征关键词，按普通内容页处理。",
+      "scope": "internal",
+      "confidence": "low"
+    }
+  ],
+  "tutor_homepage_links": [],
+  "iteration_links": [
+    {
+      "url": "http://www.me.neu.edu.cn/main.htm",
+      "anchor_text": "学院首页",
+      "guessed_target_content": "站点普通信息页面",
+      "guess_reason": "未命中强特征关键词，按普通内容页处理。",
+      "scope": "internal",
+      "confidence": "low"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3183/list.htm",
+      "anchor_text": "学院概况",
+      "guessed_target_content": "站点普通信息页面",
+      "guess_reason": "未命中强特征关键词，按普通内容页处理。",
+      "scope": "internal",
+      "confidence": "low"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3197/list.htm",
+      "anchor_text": "学院简介",
+      "guessed_target_content": "站点普通信息页面",
+      "guess_reason": "未命中强特征关键词，按普通内容页处理。",
+      "scope": "internal",
+      "confidence": "low"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3184/list.htm",
+      "anchor_text": "机构设置",
+      "guessed_target_content": "站点普通信息页面",
+      "guess_reason": "未命中强特征关键词，按普通内容页处理。",
+      "scope": "internal",
+      "confidence": "low"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3202/list.htm",
+      "anchor_text": "职能部门",
+      "guessed_target_content": "站点普通信息页面",
+      "guess_reason": "未命中强特征关键词，按普通内容页处理。",
+      "scope": "internal",
+      "confidence": "low"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3203/list.htm",
+      "anchor_text": "学术组织",
+      "guessed_target_content": "站点普通信息页面",
+      "guess_reason": "未命中强特征关键词，按普通内容页处理。",
+      "scope": "internal",
+      "confidence": "low"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3204/list.htm",
+      "anchor_text": "实验中心",
+      "guessed_target_content": "站点普通信息页面",
+      "guess_reason": "未命中强特征关键词，按普通内容页处理。",
+      "scope": "internal",
+      "confidence": "low"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3198/list.htm",
+      "anchor_text": "历史沿革",
+      "guessed_target_content": "站点普通信息页面",
+      "guess_reason": "未命中强特征关键词，按普通内容页处理。",
+      "scope": "internal",
+      "confidence": "low"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3200/list.htm",
+      "anchor_text": "学院领导",
+      "guessed_target_content": "站点普通信息页面",
+      "guess_reason": "未命中强特征关键词，按普通内容页处理。",
+      "scope": "internal",
+      "confidence": "low"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3201/list.htm",
+      "anchor_text": "学院文化",
+      "guessed_target_content": "站点普通信息页面",
+      "guess_reason": "未命中强特征关键词，按普通内容页处理。",
+      "scope": "internal",
+      "confidence": "low"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3205/list.htm",
+      "anchor_text": "师资队伍",
+      "guessed_target_content": "站点普通信息页面",
+      "guess_reason": "未命中强特征关键词，按普通内容页处理。",
+      "scope": "internal",
+      "confidence": "low"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3205/list.htm",
+      "anchor_text": "院士风采",
+      "guessed_target_content": "站点普通信息页面",
+      "guess_reason": "未命中强特征关键词，按普通内容页处理。",
+      "scope": "internal",
+      "confidence": "low"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3209/list.htm",
+      "anchor_text": "教师名录",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3187/list.htm",
+      "anchor_text": "科学研究",
+      "guessed_target_content": "科研/实验室相关页面",
+      "guess_reason": "锚文本或 URL 关键词指向科研内容。",
+      "scope": "internal",
+      "confidence": "medium"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/yxswyh/list.htm",
+      "anchor_text": "院学术委员会",
+      "guessed_target_content": "站点普通信息页面",
+      "guess_reason": "未命中强特征关键词，按普通内容页处理。",
+      "scope": "internal",
+      "confidence": "low"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3210/list.htm",
+      "anchor_text": "学科概况",
+      "guessed_target_content": "站点普通信息页面",
+      "guess_reason": "未命中强特征关键词，按普通内容页处理。",
+      "scope": "internal",
+      "confidence": "low"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3215/list.htm",
+      "anchor_text": "科研动态",
+      "guessed_target_content": "科研/实验室相关页面",
+      "guess_reason": "锚文本或 URL 关键词指向科研内容。",
+      "scope": "internal",
+      "confidence": "medium"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3211/list.htm",
+      "anchor_text": "双一流建设",
+      "guessed_target_content": "站点普通信息页面",
+      "guess_reason": "未命中强特征关键词，按普通内容页处理。",
+      "scope": "internal",
+      "confidence": "low"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3216/list.htm",
+      "anchor_text": "成果展示",
+      "guessed_target_content": "科研/实验室相关页面",
+      "guess_reason": "锚文本或 URL 关键词指向科研内容。",
+      "scope": "internal",
+      "confidence": "medium"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3212/list.htm",
+      "anchor_text": "博士后流动站",
+      "guessed_target_content": "站点普通信息页面",
+      "guess_reason": "未命中强特征关键词，按普通内容页处理。",
+      "scope": "internal",
+      "confidence": "low"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3217/list.htm",
+      "anchor_text": "基地建设",
+      "guessed_target_content": "站点普通信息页面",
+      "guess_reason": "未命中强特征关键词，按普通内容页处理。",
+      "scope": "internal",
+      "confidence": "low"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3213/list.htm",
+      "anchor_text": "博士点",
+      "guessed_target_content": "站点普通信息页面",
+      "guess_reason": "未命中强特征关键词，按普通内容页处理。",
+      "scope": "internal",
+      "confidence": "low"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3214/list.htm",
+      "anchor_text": "硕士点",
+      "guessed_target_content": "站点普通信息页面",
+      "guess_reason": "未命中强特征关键词，按普通内容页处理。",
+      "scope": "internal",
+      "confidence": "low"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3188/list.htm",
+      "anchor_text": "党建工作",
+      "guessed_target_content": "站点普通信息页面",
+      "guess_reason": "未命中强特征关键词，按普通内容页处理。",
+      "scope": "internal",
+      "confidence": "low"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3218/list.htm",
+      "anchor_text": "组织架构",
+      "guessed_target_content": "站点普通信息页面",
+      "guess_reason": "未命中强特征关键词，按普通内容页处理。",
+      "scope": "internal",
+      "confidence": "low"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3219/list.htm",
+      "anchor_text": "工作指南",
+      "guessed_target_content": "站点普通信息页面",
+      "guess_reason": "未命中强特征关键词，按普通内容页处理。",
+      "scope": "internal",
+      "confidence": "low"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3220/list.htm",
+      "anchor_text": "光荣榜",
+      "guessed_target_content": "站点普通信息页面",
+      "guess_reason": "未命中强特征关键词，按普通内容页处理。",
+      "scope": "internal",
+      "confidence": "low"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3189/list.htm",
+      "anchor_text": "本科生教育",
+      "guessed_target_content": "招生/教学相关页面",
+      "guess_reason": "锚文本或 URL 关键词指向招生或教学栏目。",
+      "scope": "internal",
+      "confidence": "medium"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3221/list.htm",
+      "anchor_text": "本科生管理",
+      "guessed_target_content": "招生/教学相关页面",
+      "guess_reason": "锚文本或 URL 关键词指向招生或教学栏目。",
+      "scope": "internal",
+      "confidence": "medium"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3222/list.htm",
+      "anchor_text": "本科生招生",
+      "guessed_target_content": "招生/教学相关页面",
+      "guess_reason": "锚文本或 URL 关键词指向招生或教学栏目。",
+      "scope": "internal",
+      "confidence": "medium"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3223/list.htm",
+      "anchor_text": "本科生培养",
+      "guessed_target_content": "招生/教学相关页面",
+      "guess_reason": "锚文本或 URL 关键词指向招生或教学栏目。",
+      "scope": "internal",
+      "confidence": "medium"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3190/list.htm",
+      "anchor_text": "研究生教育",
+      "guessed_target_content": "科研/实验室相关页面",
+      "guess_reason": "锚文本或 URL 关键词指向科研内容。",
+      "scope": "internal",
+      "confidence": "medium"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3327/list.htm",
+      "anchor_text": "院学位评定分委员会",
+      "guessed_target_content": "招生/教学相关页面",
+      "guess_reason": "锚文本或 URL 关键词指向招生或教学栏目。",
+      "scope": "internal",
+      "confidence": "medium"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3328/list.htm",
+      "anchor_text": "招生工作",
+      "guessed_target_content": "招生/教学相关页面",
+      "guess_reason": "锚文本或 URL 关键词指向招生或教学栏目。",
+      "scope": "internal",
+      "confidence": "medium"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3329/list.htm",
+      "anchor_text": "教学培养",
+      "guessed_target_content": "招生/教学相关页面",
+      "guess_reason": "锚文本或 URL 关键词指向招生或教学栏目。",
+      "scope": "internal",
+      "confidence": "medium"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3330/list.htm",
+      "anchor_text": "学位工作",
+      "guessed_target_content": "招生/教学相关页面",
+      "guess_reason": "锚文本或 URL 关键词指向招生或教学栏目。",
+      "scope": "internal",
+      "confidence": "medium"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3331/list.htm",
+      "anchor_text": "导师介绍",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/10643/list.htm",
+      "anchor_text": "博士生导师",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/10644/list.htm",
+      "anchor_text": "硕士生导师",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3332/list.htm",
+      "anchor_text": "联合培养项目",
+      "guessed_target_content": "科研/实验室相关页面",
+      "guess_reason": "锚文本或 URL 关键词指向科研内容。",
+      "scope": "internal",
+      "confidence": "medium"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3333/list.htm",
+      "anchor_text": "双学位项目",
+      "guessed_target_content": "科研/实验室相关页面",
+      "guess_reason": "锚文本或 URL 关键词指向科研内容。",
+      "scope": "internal",
+      "confidence": "medium"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/3191/list.htm",
+      "anchor_text": "学生工作",
+      "guessed_target_content": "站点普通信息页面",
+      "guess_reason": "未命中强特征关键词，按普通内容页处理。",
+      "scope": "internal",
+      "confidence": "low"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/main.htm",
+      "anchor_text": "首页",
+      "guessed_target_content": "站点普通信息页面",
+      "guess_reason": "未命中强特征关键词，按普通内容页处理。",
+      "scope": "internal",
+      "confidence": "low"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2023/1224/c10554a241267/page.htm",
+      "anchor_text": "陈泽宇",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c3254a53859/page.htm",
+      "anchor_text": "郭立新",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2024/0805/c10554a267050/page.htm",
+      "anchor_text": "梁忠超",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1104/c10554a53854/page.htm",
+      "anchor_text": "王永富",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2024/1101/c10554a271147/page.htm",
+      "anchor_text": "赵晶",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/liwenfeng/",
+      "anchor_text": "李文锋",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "external",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2024/0710/c10554a265426/page.htm",
+      "anchor_text": "潘济安",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2017/0322/c10554a54688/page.htm",
+      "anchor_text": "唐传茵",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2017/0512/c10554a54687/page.htm",
+      "anchor_text": "杨周",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54686/page.htm",
+      "anchor_text": "周淑文",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/ylwang_0518",
+      "anchor_text": "王云龙",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "external",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54761/page.htm",
+      "anchor_text": "周楠",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2022/0221/c10554a209922/page.htm",
+      "anchor_text": "李一鸣",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/zhoushihua",
+      "anchor_text": "周世华",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "external",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2024/1101/c10554a271146/page.htm",
+      "anchor_text": "李琦",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2024/1031/c10554a271010/page.htm",
+      "anchor_text": "刘宇",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2024/1101/c10554a271148/page.htm",
+      "anchor_text": "于洋",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2024/0802/c10554a267000/page.htm",
+      "anchor_text": "李小号",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2024/0901/c10554a267516/page.htm",
+      "anchor_text": "范威",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54695/page.htm",
+      "anchor_text": "刘阳",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54694/page.htm",
+      "anchor_text": "马明旭",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2021/0326/c10554a190645/page.htm",
+      "anchor_text": "王娜",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2021/0106/c10554a186175/page.htm",
+      "anchor_text": "尹国强",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/zhanghz0/",
+      "anchor_text": "张红状",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "external",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2017/1130/c10554a54692/page.htm",
+      "anchor_text": "张闻雷",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2022/0223/c10554a209961/page.htm",
+      "anchor_text": "张雪薇",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2024/0826/c10554a267337/page.htm",
+      "anchor_text": "赵薇",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54776/page.htm",
+      "anchor_text": "陈亚哲",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54774/page.htm",
+      "anchor_text": "孙少妮",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54769/page.htm",
+      "anchor_text": "赵群超",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2023/0323/c10554a227513/page.htm",
+      "anchor_text": "教授",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2020/1009/c10554a180146/page.htm",
+      "anchor_text": "韩清凯",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2018/0919/c10554a54098/page.htm",
+      "anchor_text": "黄贤振",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2017/0925/c10554a54093/page.htm",
+      "anchor_text": "李常有",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2020/0902/c10554a178001/page.htm",
+      "anchor_text": "杨天智",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2025/1113/c10554a295536/page.htm",
+      "anchor_text": "张旭方",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2018/0218/c10554a54059/page.htm",
+      "anchor_text": "赵亚平",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2023/0323/c10554a227513/page.htm",
+      "anchor_text": "副教授",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2024/0103/c10554a241758/page.htm",
+      "anchor_text": "吕杭原",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/lvhao",
+      "anchor_text": "吕昊",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "external",
+      "confidence": "high"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/yaoguo",
+      "anchor_text": "姚国",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "external",
+      "confidence": "high"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/neuzqy0",
+      "anchor_text": "朱清玉",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "external",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2026/0316/c10554a451115/page.htm",
+      "anchor_text": "韩承霖",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2023/0323/c10554a227513/page.htm",
+      "anchor_text": "讲师",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1104/c10554a54701/page.htm",
+      "anchor_text": "邓明",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2017/0502/c10554a54700/page.htm",
+      "anchor_text": "吕春梅",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54699/page.htm",
+      "anchor_text": "牛东方",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2019/0123/c10554a54779/page.htm",
+      "anchor_text": "孙晓枫",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54778/page.htm",
+      "anchor_text": "王峰",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2024/0304/c10554a243317/page.htm",
+      "anchor_text": "王佳伊",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54777/page.htm",
+      "anchor_text": "杨松",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1120/c10554a54775/page.htm",
+      "anchor_text": "赵莹",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1222/c10554a54773/page.htm",
+      "anchor_text": "钟莹",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54771/page.htm",
+      "anchor_text": "周淼",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/me/chenjie/",
+      "anchor_text": "陈杰",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "external",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2017/0502/c10554a53984/page.htm",
+      "anchor_text": "郝丽娜",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2023/0221/c10554a225754/page.htm",
+      "anchor_text": "刘宇",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2020/1228/c10554a185777/page.htm",
+      "anchor_text": "陆志国",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2017/0502/c10554a53983/page.htm",
+      "anchor_text": "罗忠",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/mashujun",
+      "anchor_text": "马树军",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "external",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2017/0505/c10554a53981/page.htm",
+      "anchor_text": "王宏",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2024/0808/c10554a267102/page.htm",
+      "anchor_text": "张磊",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2017/1220/c10554a54713/page.htm",
+      "anchor_text": "程红太",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54712/page.htm",
+      "anchor_text": "李允公",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2024/0304/c10554a243312/page.htm",
+      "anchor_text": "刘冲",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/zhangying_",
+      "anchor_text": "张颖",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "external",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2017/0505/c10554a54789/page.htm",
+      "anchor_text": "戴丽",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/~ArmQry",
+      "anchor_text": "李雷",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "external",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54787/page.htm",
+      "anchor_text": "王菲",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54786/page.htm",
+      "anchor_text": "颜世玉",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54785/page.htm",
+      "anchor_text": "于清文",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54784/page.htm",
+      "anchor_text": "赵海滨",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/chfli",
+      "anchor_text": "李朝峰",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "external",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54159/page.htm",
+      "anchor_text": "李鹤",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2023/0212/c10554a225615/page.htm",
+      "anchor_text": "李晖",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1120/c10554a54158/page.htm",
+      "anchor_text": "李小彭",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2021/0311/c10554a189052/page.htm",
+      "anchor_text": "刘杨",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2017/0505/c10554a54157/page.htm",
+      "anchor_text": "马辉",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2017/0502/c10554a54156/page.htm",
+      "anchor_text": "任朝晖",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2017/0904/c10554a54155/page.htm",
+      "anchor_text": "孙伟",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2019/0919/c10554a142916/page.htm",
+      "anchor_text": "姚红良",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2023/0108/c10554a225292/page.htm",
+      "anchor_text": "张学良",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54153/page.htm",
+      "anchor_text": "赵春雨",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/guoxm0",
+      "anchor_text": "郭旭民",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "external",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2020/1111/c10554a182670/page.htm",
+      "anchor_text": "姜世杰",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2018/0323/c10554a54718/page.htm",
+      "anchor_text": "汪博",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2024/1113/c10554a271712/page.htm",
+      "anchor_text": "孙聪",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2025/0627/c10554a288592/page.htm",
+      "anchor_text": "赵超",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2023/0612/c10554a231707/page.htm",
+      "anchor_text": "徐昆鹏",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1120/c10554a54307/page.htm",
+      "anchor_text": "程军",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2019/0909/c10554a141906/page.htm",
+      "anchor_text": "温雪龙",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54299/page.htm",
+      "anchor_text": "于天彪",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2019/0327/c10554a90121/page.htm",
+      "anchor_text": "赵继",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2017/0823/c10554a54280/page.htm",
+      "anchor_text": "朱立达",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54277/page.htm",
+      "anchor_text": "邹平",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54728/page.htm",
+      "anchor_text": "李虎",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54727/page.htm",
+      "anchor_text": "盛忠起",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/sunyao",
+      "anchor_text": "孙瑶",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "external",
+      "confidence": "high"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/xiangdd",
+      "anchor_text": "项顶顶",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "external",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54725/page.htm",
+      "anchor_text": "谢华龙",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/xinbo",
+      "anchor_text": "辛博",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "external",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2023/0612/c10554a231700/page.htm",
+      "anchor_text": "杨建宇",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/yujiapeng",
+      "anchor_text": "于嘉鹏",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "external",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54722/page.htm",
+      "anchor_text": "张耀满",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/mazl0",
+      "anchor_text": "马哲伦",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "external",
+      "confidence": "high"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/wangzixuan",
+      "anchor_text": "王紫瑄",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "external",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54799/page.htm",
+      "anchor_text": "温泉",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54796/page.htm",
+      "anchor_text": "许之伟",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54364/page.htm",
+      "anchor_text": "陈良玉",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2023/1227/c10554a241456/page.htm",
+      "anchor_text": "闫玉涛",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/chenyu1",
+      "anchor_text": "陈雨",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "external",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2024/0304/c10554a243313/page.htm",
+      "anchor_text": "郭瑜",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54738/page.htm",
+      "anchor_text": "李翠玲",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2023/0612/c10554a231699/page.htm",
+      "anchor_text": "吕朝阳",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2017/0103/c10554a54737/page.htm",
+      "anchor_text": "马交成",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54736/page.htm",
+      "anchor_text": "孟祥志",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54735/page.htm",
+      "anchor_text": "宋万里",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/suncong11",
+      "anchor_text": "孙聪",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "external",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2024/1104/c10554a271164/page.htm",
+      "anchor_text": "王健",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/wangxy1/",
+      "anchor_text": "王晓宇",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "external",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2017/0502/c10554a54732/page.htm",
+      "anchor_text": "杨强",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2019/0104/c10554a54731/page.htm",
+      "anchor_text": "张禹",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54803/page.htm",
+      "anchor_text": "李宝民",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2024/1101/c10554a271152/page.htm",
+      "anchor_text": "赵宇来",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2017/0505/c10554a54679/page.htm",
+      "anchor_text": "孔祥伟",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54678/page.htm",
+      "anchor_text": "谢里阳",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54677/page.htm",
+      "anchor_text": "颜云辉",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2016/0216/c10554a54750/page.htm",
+      "anchor_text": "兰亮云",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54749/page.htm",
+      "anchor_text": "李佳",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2017/0502/c10554a54746/page.htm",
+      "anchor_text": "钱文学",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/songkechen",
+      "anchor_text": "宋克臣",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "external",
+      "confidence": "high"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/HCHSUN",
+      "anchor_text": "孙红春",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "external",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54744/page.htm",
+      "anchor_text": "王雷",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2018/0305/c10554a54741/page.htm",
+      "anchor_text": "张瑞金",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2016/0307/c10554a54740/page.htm",
+      "anchor_text": "张自成",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/zhaobingfeng",
+      "anchor_text": "赵丙峰",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "external",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2017/1220/c10554a54814/page.htm",
+      "anchor_text": "胡智勇",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54812/page.htm",
+      "anchor_text": "李骏",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54810/page.htm",
+      "anchor_text": "滕云楠",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54809/page.htm",
+      "anchor_text": "吴宁祥",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54808/page.htm",
+      "anchor_text": "叶大勇",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54807/page.htm",
+      "anchor_text": "张子骞",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54806/page.htm",
+      "anchor_text": "赵飞",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2026/0311/c10554a450854/page.htm",
+      "anchor_text": "邹丽",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2023/0226/c10554a225915/page.htm",
+      "anchor_text": "林君哲",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/SHHZHOU",
+      "anchor_text": "周生浩",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "external",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2024/0304/c10554a243327/page.htm",
+      "anchor_text": "杜东旭",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54824/page.htm",
+      "anchor_text": "王长周",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54823/page.htm",
+      "anchor_text": "周娜",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2021/0518/c10554a196695/page.htm",
+      "anchor_text": "姜曦灼",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1120/c10554a54684/page.htm",
+      "anchor_text": "李建昌",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2019/0909/c10554a141903/page.htm",
+      "anchor_text": "蔺增",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2017/0502/c10554a54683/page.htm",
+      "anchor_text": "刘坤",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2017/0502/c10554a54704/page.htm",
+      "anchor_text": "谢元华",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54682/page.htm",
+      "anchor_text": "王晓冬",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2022/0228/c10554a210109/page.htm",
+      "anchor_text": "王敏",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2019/1125/c10554a160931/page.htm",
+      "anchor_text": "张志军",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a53963/page.htm",
+      "anchor_text": "朱彤",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2017/0502/c10554a54760/page.htm",
+      "anchor_text": "杜广煜",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2024/1101/c10554a271149/page.htm",
+      "anchor_text": "江晶",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1120/c10554a54758/page.htm",
+      "anchor_text": "孙丽娜",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2025/1028/c10554a294368/page.htm",
+      "anchor_text": "孙明瑞",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54757/page.htm",
+      "anchor_text": "王庆",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2020/0525/c10554a171794/page.htm",
+      "anchor_text": "王有昭",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1120/c10554a54755/page.htm",
+      "anchor_text": "岳向吉",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54827/page.htm",
+      "anchor_text": "巴要帅",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54783/page.htm",
+      "anchor_text": "韩进",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54782/page.htm",
+      "anchor_text": "黄永刚",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/sunf0",
+      "anchor_text": "孙飞",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "external",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2015/1105/c10554a54780/page.htm",
+      "anchor_text": "由美雁",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2025/0422/c10554a282030/page.htm",
+      "anchor_text": "邢飞",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2024/1209/c10554a275651/page.htm",
+      "anchor_text": "库涛",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2025/0415/c10554a281621/page.htm",
+      "anchor_text": "吴世凯",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/2025/1114/c10554a295660/page.htm",
+      "anchor_text": "张丁一",
+      "guessed_target_content": "教师/导师相关页面",
+      "guess_reason": "锚文本或 URL 含教师名录、导师介绍或人员页特征。",
+      "scope": "internal",
+      "confidence": "high"
+    },
+    {
+      "url": "http://www.me.neu.edu.cn/_visitcount?siteId=53&type=2&columnId=3209",
+      "anchor_text": "",
+      "guessed_target_content": "站点普通信息页面",
+      "guess_reason": "未命中强特征关键词，按普通内容页处理。",
+      "scope": "internal",
+      "confidence": "low"
+    }
+  ],
+  "debug": {
+    "notes": [
+      "使用 Markdown 链接与自动链接规则进行全量提取。",
+      "对每条链接按锚文本与 URL 关键词进行目标内容猜测。"
+    ],
+    "suspicions": []
+  }
+}

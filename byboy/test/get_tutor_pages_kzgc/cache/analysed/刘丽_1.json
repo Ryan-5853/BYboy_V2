@@ -1,0 +1,133 @@
+{
+  "meta": {
+    "tutor_name_cn": "刘丽",
+    "request_url": "https://kzgc.neuq.edu.cn/info/1020/1163.htm",
+    "declared_source_url": "https://kzgc.neuq.edu.cn/info/1020/1163.htm",
+    "page_host": "kzgc.neuq.edu.cn",
+    "markdown_cache_path": "I:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\b6c5da12f61be97582401f56928a34861542682827f5163e0715d12fa47b2016.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "personal_info": {
+      "name": "刘丽",
+      "gender": "女",
+      "birth_info": "1970年9月",
+      "degree": "工学博士学位",
+      "title": "讲师",
+      "image_url": "https://kzgc.neuq.edu.cn/__local/3/70/B3/A67222BDAB143A4D388F70E08AB_E94C676E_7569.jpg"
+    },
+    "contact_info": {
+      "email": "liuliqhd@126.com"
+    },
+    "research_directions": [
+      "多天线无线通信系统的信号检测算法"
+    ],
+    "education_background": [
+      {
+        "start_date": "2007.03",
+        "end_date": "2012.10",
+        "institution": "东北大学",
+        "major": "导航制导与控制专业",
+        "degree": "博士"
+      },
+      {
+        "start_date": "2002.09",
+        "end_date": "2004.07",
+        "institution": "哈尔滨工业大学",
+        "college": "航天学院",
+        "major": "控制理论与控制工程专业",
+        "degree": "硕士"
+      },
+      {
+        "start_date": "1987.08",
+        "end_date": "1991.07",
+        "institution": "大连轻工学院",
+        "department": "自动化系",
+        "major": "电气技术专业",
+        "degree": "本科"
+      }
+    ],
+    "academic_achievements": {
+      "publications": [
+        {
+          "type": "期刊论文",
+          "title": "An improved SIC detection algorithm for MIMO systems",
+          "journal": "东北大学学报(自然科学版)",
+          "year": "2011",
+          "volume": "32",
+          "issue": "4",
+          "pages": "493-495,500"
+        },
+        {
+          "type": "期刊论文",
+          "title": "Group-iterative QRD-M detection for MIMO system",
+          "journal": "International Journal of Digital Content Technology and its Applications",
+          "volume": "6",
+          "issue": "20",
+          "pages": "250-258",
+          "year": "2012",
+          "month": "November"
+        },
+        {
+          "type": "期刊论文",
+          "title": "Improved Depth-First QRD-M Detection Algorithm for MIMO Systems",
+          "journal": "Information Technology Journal",
+          "volume": "12",
+          "issue": "24",
+          "pages": "8015-8019",
+          "year": "2013"
+        }
+      ]
+    },
+    "courses_taught": [
+      {
+        "student_level": "本科生",
+        "courses": [
+          "电路原理",
+          "电工学（一）"
+        ]
+      }
+    ],
+    "site_metadata": {
+      "source_url": "https://kzgc.neuq.edu.cn/info/1020/1163.htm",
+      "navigation_path": [
+        {
+          "anchor_text": "首页",
+          "url": "https://kzgc.neuq.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://kzgc.neuq.edu.cn/szdw/zrjs.htm"
+        },
+        {
+          "anchor_text": "专任教师",
+          "url": "https://kzgc.neuq.edu.cn/szdw/zrjs.htm"
+        },
+        {
+          "anchor_text": "自动化与电气工程系",
+          "url": "https://kzgc.neuq.edu.cn/szdw/zrjs/zdhydqgcx1.htm"
+        },
+        "正文"
+      ],
+      "page_info": {
+        "publish_time": "2018-03-21",
+        "views": 7395
+      },
+      "related_pages_navigation": [
+        {
+          "type": "previous",
+          "anchor_text": "刘云静",
+          "url": "https://kzgc.neuq.edu.cn/info/1020/1162.htm"
+        },
+        {
+          "type": "next",
+          "anchor_text": "郭戈",
+          "url": "https://kzgc.neuq.edu.cn/info/1020/1164.htm"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "tutor_name_cn": "刘云静",
+    "request_url": "https://kzgc.neuq.edu.cn/info/1020/1162.htm",
+    "declared_source_url": "https://kzgc.neuq.edu.cn/info/1020/1162.htm",
+    "page_host": "kzgc.neuq.edu.cn",
+    "markdown_cache_path": "I:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\ff64baf8a045d6889db8d5178776e31c8ec7112fbf3030fbe8a58392e9f409ff.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "source_url": "https://kzgc.neuq.edu.cn/info/1020/1162.htm",
+    "site_chrome": {
+      "breadcrumbs": [
+        {
+          "text": "首页",
+          "url": "https://kzgc.neuq.edu.cn/index.htm"
+        },
+        {
+          "text": "师资队伍",
+          "url": "https://kzgc.neuq.edu.cn/szdw/zrjs.htm"
+        },
+        {
+          "text": "专任教师",
+          "url": "https://kzgc.neuq.edu.cn/szdw/zrjs.htm"
+        },
+        {
+          "text": "自动化与电气工程系",
+          "url": "https://kzgc.neuq.edu.cn/szdw/zrjs/zdhydqgcx1.htm"
+        },
+        {
+          "text": "正文",
+          "url": null
+        }
+      ],
+      "pagination": {
+        "previous": {
+          "anchor_text": "上一篇：孟范伟",
+          "url": "https://kzgc.neuq.edu.cn/info/1020/1161.htm"
+        },
+        "next": {
+          "anchor_text": "下一篇：刘丽",
+          "url": "https://kzgc.neuq.edu.cn/info/1020/1163.htm"
+        }
+      }
+    },
+    "page_info": {
+      "title": "刘云静",
+      "publish_time": "2018-03-21",
+      "click_count": 7426
+    },
+    "personal_info": {
+      "name": "刘云静",
+      "image_url": "https://kzgc.neuq.edu.cn/__local/A/E1/B9/FEB1F97BE9558A0086673238AC3_C821195B_B096.jpg",
+      "gender": "女",
+      "birth_date": "1966年6月",
+      "degree": "工学硕士学位",
+      "title": "副教授",
+      "role": "硕士生导师"
+    },
+    "contact_info": {
+      "email": "liuyunjing@neuq.edu.cn"
+    },
+    "research_directions": [
+      "智能控制理论及应用",
+      "电能质量分析与管理"
+    ],
+    "education": [
+      {
+        "start_date": "1999.09",
+        "end_date": "2002.03",
+        "institution": "燕山大学",
+        "degree": "硕士"
+      },
+      {
+        "start_date": "1984.09",
+        "end_date": "1988.07",
+        "institution": "哈尔滨工业大学",
+        "degree": "本科"
+      }
+    ],
+    "academic_achievements": {
+      "summary": "发表学术论文多篇，被EI收录10余篇。"
+    },
+    "courses_taught": {
+      "category": "本科生",
+      "list": [
+        "微机原理与接口技术",
+        "工业企业供电",
+        "过程控制系统",
+        "单片机原理及接口技术"
+      ]
+    }
+  }
+}

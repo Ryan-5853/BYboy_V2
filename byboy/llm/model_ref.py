@@ -25,9 +25,9 @@ def parse_route_spec_token(token: str) -> RouteSpec:
         model_s = model_raw.strip()
         if not model_s:
             raise ValueError(f"模型 id 为空：{token!r}")
-        if backend_s not in ("openai", "claude"):
+        if backend_s not in ("openai", "claude", "openai_vision", "claude_vision"):
             raise ValueError(
-                "backend 必须是 openai 或 claude，"
+                "backend 必须是 openai / claude / openai_vision / claude_vision，"
                 f"当前为 {backend_raw.strip()!r}"
             )
         return RouteSpec(model=model_s, backend=backend_s)  # type: ignore[arg-type]

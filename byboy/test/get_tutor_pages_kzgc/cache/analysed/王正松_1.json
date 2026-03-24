@@ -1,0 +1,344 @@
+{
+  "meta": {
+    "tutor_name_cn": "王正松",
+    "request_url": "https://kzgc.neuq.edu.cn/info/1020/2196.htm",
+    "declared_source_url": "https://kzgc.neuq.edu.cn/info/1020/2196.htm",
+    "page_host": "kzgc.neuq.edu.cn",
+    "markdown_cache_path": "I:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\196629e6c455882e0b914d7034ce80ce43b69e1404224636d80cafb8859b0236.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "professor_name_query": "王正松",
+    "source_url": "https://kzgc.neuq.edu.cn/info/1020/2196.htm",
+    "site_metadata": {
+      "breadcrumbs": [
+        {
+          "anchor_text": "首页",
+          "url": "https://kzgc.neuq.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://kzgc.neuq.edu.cn/szdw/zrjs.htm"
+        },
+        {
+          "anchor_text": "专任教师",
+          "url": "https://kzgc.neuq.edu.cn/szdw/zrjs.htm"
+        },
+        {
+          "anchor_text": "自动化与电气工程系",
+          "url": "https://kzgc.neuq.edu.cn/szdw/zrjs/zdhydqgcx1.htm"
+        },
+        "正文"
+      ],
+      "publication_time": "2021-07-08",
+      "click_count": 9179,
+      "image_url": "https://kzgc.neuq.edu.cn/__local/A/24/7E/8E918DEC044F522E30E658ABA3A_3B6BD8F0_8976.jpg",
+      "navigation_links": [
+        {
+          "anchor_text": "上一篇：韩萌",
+          "url": "https://kzgc.neuq.edu.cn/info/1020/2644.htm"
+        },
+        {
+          "anchor_text": "下一篇：高振宇",
+          "url": "https://kzgc.neuq.edu.cn/info/1020/1144.htm"
+        }
+      ]
+    },
+    "personal_info": {
+      "name": "王正松",
+      "gender": "男",
+      "birth_date": "1989年8月3日",
+      "degree": "工学博士学位",
+      "title": "副教授",
+      "positions": [
+        "硕士研究生导师"
+      ]
+    },
+    "contact_info": {
+      "email": "zswang_pine@126.com",
+      "office": "科技楼4022/4024",
+      "phone": "17336357508",
+      "address": "河北省秦皇岛市海港区泰山路143号东北大学秦皇岛分校"
+    },
+    "research_directions": [
+      "无人驾驶理论与系统研究",
+      "智能交通系统建模、协同控制与优化",
+      "车辆轨迹与信号协同优化与控制",
+      "基于机器视觉的工业智能缺陷检测",
+      "信息物理系统（智能制药）",
+      "基于机器学习的药物设计与优化"
+    ],
+    "education_background": [
+      {
+        "start_date": "2015.09",
+        "end_date": "2020.10",
+        "university": "东北大学",
+        "major": "控制理论与控制工程",
+        "degree": "博士"
+      },
+      {
+        "start_date": "2013.09",
+        "end_date": "2015.07",
+        "university": "东北大学",
+        "major": "控制工程",
+        "degree": "硕士"
+      },
+      {
+        "start_date": "2008.09",
+        "end_date": "2012.07",
+        "university": "山东理工大学",
+        "major": "自动化",
+        "degree": "学士"
+      }
+    ],
+    "work_experience": [
+      {
+        "start_date": "2020.11",
+        "end_date": "至今",
+        "institution": "东北大学秦皇岛分校",
+        "position": "副教授"
+      }
+    ],
+    "academic_affiliations": [
+      "IEEE Member",
+      "中国自动化学会终身会员",
+      "中国仿真学会会员",
+      "辽宁省汽车工程技术学会会员",
+      {
+        "title": "国内外知名SCI期刊审稿人",
+        "journals": [
+          "IEEE Transactions on Industrial Informatics",
+          "IEEE Transactions on Intelligent Transportation systems",
+          "IEEE Transactions on Intelligent Vehicles",
+          "IEEE Transactions on Vehicular Technology",
+          "IEEE Intelligent Transportation Systems Magazine",
+          "Information Science",
+          "控制与决策（中英文）",
+          "自动化学报（中英文）",
+          "……"
+        ]
+      }
+    ],
+    "research_projects": {
+      "ongoing": [
+        {
+          "name": "国家自然科学基金青年项目",
+          "funding": "30万",
+          "role": "项目负责人",
+          "start_date": "2023.01",
+          "end_date": "2025.12"
+        },
+        {
+          "name": "河北省自然科学基金面上项目",
+          "funding": "6万",
+          "role": "项目负责人",
+          "start_date": "2024.01",
+          "end_date": "2026.12"
+        },
+        {
+          "name": "中央高校基本科研业务费青年培育项目",
+          "funding": "7万",
+          "role": "项目负责人",
+          "start_date": "2024.01",
+          "end_date": "2025.12"
+        },
+        {
+          "name": "东北大学秦皇岛分校引进人才启动基金",
+          "funding": "8万",
+          "role": "项目负责人",
+          "start_date": "2021.01",
+          "end_date": "2025.12"
+        },
+        {
+          "name": "河北省教育教学改革项目",
+          "funding": "2万",
+          "role": "项目负责人",
+          "start_date": "2024.01",
+          "end_date": "2025.12"
+        },
+        {
+          "name": "东北大学秦皇岛分校教育教学改革项目",
+          "funding": "1万",
+          "role": "项目负责人",
+          "start_date": "2023.01",
+          "end_date": "2024.12"
+        }
+      ],
+      "completed": [
+        {
+          "name": "国家自然科学基金面上项目",
+          "funding": "63万",
+          "role": "项目参与人",
+          "start_date": "2018.01",
+          "end_date": "2021.12"
+        },
+        {
+          "name": "河北省自然科学基金青年项目",
+          "funding": "6万",
+          "role": "项目负责人",
+          "start_date": "2021.01",
+          "end_date": "2023.12"
+        },
+        {
+          "name": "中央高校基本科研业务费青年启动项目",
+          "funding": "7万",
+          "role": "项目负责人",
+          "start_date": "2022.01",
+          "end_date": "2023.12"
+        },
+        {
+          "name": "企业横向课题",
+          "funding": "9万",
+          "role": "项目负责人",
+          "start_date": "2022.01",
+          "end_date": "2022.12"
+        }
+      ]
+    },
+    "academic_achievements": {
+      "summary": "研究成果在IEEE Transactions on Industrial Informatics等国际顶级期刊以及国内外重要会议上发表SCI和EI检索学术论文20余篇。",
+      "representative_papers": [
+        {
+          "authors": "Zhengsong Wang, Shengnan Tang, Ge Guo, Yanqiu Yang, Dakuo He, Le Yang, Meng Han, and Yue Hou",
+          "title": "Adaptive quality control with uncertainty for a pharmaceutical cyber-physical system based on data and knowledge Integration",
+          "journal": "IEEE Transactions on Industrial Informatics",
+          "year": "2024",
+          "volume_issue_pages": "20(3): 3339-3350",
+          "notes": "SCI，JCR一区，中科院一区Top期刊，IF<2023>=11.7"
+        },
+        {
+          "authors": "Zhengsong Wang, Dakuo He*, Yue Hou",
+          "title": "Data-driven adaptive quality control under uncertain conditions for a cyber-pharmaceutical-development system",
+          "journal": "IEEE Transactions on Industrial Informatics",
+          "year": "2021",
+          "volume_issue_pages": "17(5): 3165-3175",
+          "notes": "SCI，JCR一区，中科院一区Top期刊，IF<2021>=11.648"
+        },
+        {
+          "authors": "Zhengsong Wang, Shengnan Tang, Yanqiu Yang, Yeqiu Chen, and Le Yang",
+          "title": "Data-knowledge-driven modeling and operational adjustment for the pharmaceutical tablet manufacturing process via wet granulation",
+          "journal": "ACS Omega",
+          "year": "2023",
+          "volume_issue_pages": "8: 24441-24453",
+          "notes": "SCI，JCR二区，IF<2023>=3.7"
+        },
+        {
+          "authors": "Zhengsong Wang, Shengnan Tang, Ge Guo, Yanqiu Yang, Meng Han, Le Yang, Dakuo He",
+          "title": "Event-triggered data- and knowledge-driven adaptive quality iterative learning control with uncertainty for a pharmaceutical cyber-physical system",
+          "journal": "The Canadian Journal of Chemical Engineering",
+          "year": "2023",
+          "volume_issue_pages": "1",
+          "doi_url": "https://doi.org/10.1002/cjce.24864",
+          "notes": "SCI, JCR三区，IF<2023>=1.6"
+        },
+        {
+          "authors": "Zhengsong Wang, Zhen Pan, Dakuo He*, Jiahui Shi, Shouxin Sun, Yue Hou",
+          "title": "Simulation modeling of a pharmaceutical tablet manufacturing process via wet granulation",
+          "journal": "Complexity",
+          "year": "2019",
+          "volume_issue_pages": "2019: 1-16",
+          "notes": "SCI，JCR二区，IF<2021>=2.121"
+        },
+        {
+          "authors": "Zhengsong Wang, Dakuo He*, Xu Zhu, Jiahuan Luo, Yu Liang, Xu Wang",
+          "title": "Data-driven model-free adaptive control of particle quality in drug development phase of spray fluidized bed granulation process",
+          "journal": "Complexity",
+          "year": "2017",
+          "volume_issue_pages": "2017: 1-17",
+          "notes": "SCI，JCR二区，IF<2021>=2.121"
+        },
+        {
+          "authors": "Dakuo He*, Zhengsong Wang, Qing Liu, Jiahui Shi, Le Yang, Qingkai Wang, and Jianjun Zhao",
+          "title": "Process feature change recognition based on model performance monitoring and adaptive model correction for the gold cyanidation leaching process",
+          "journal": "IEEE Access",
+          "year": "2019",
+          "volume_issue_pages": "7: 28955-28967",
+          "notes": "SCI，JCR二区, IF<2021>=3.467"
+        },
+        {
+          "authors": "Dakuo He*, Zhengsong Wang, Le Yang, Wanwan Dai",
+          "title": "Study on missing data imputation and modeling for the leaching process",
+          "journal": "Chemical Engineering Research and Design",
+          "year": "2017",
+          "volume_issue_pages": "124: 1-19",
+          "notes": "SCI，JCR二区，IF<2021>=4.119"
+        },
+        {
+          "authors": "Dakuo He*, Zhengsong Wang, Le Yang, Zhizhong Mao",
+          "title": "Optimization control of the color-coating production process for model uncertainty",
+          "journal": "Computational Intelligence and Neuroscience",
+          "year": "2016",
+          "volume_issue_pages": "2016: 1-12",
+          "notes": "SCI，JCR二区，IF<2021>=3.120"
+        }
+      ],
+      "patents": [
+        {
+          "inventors": "王正松，陈旭旺，郭戈",
+          "title": "一种改进蜣螂算法融合 DWA 算法的机器人路径规划框架方法",
+          "application_number": "202310912043.6"
+        },
+        {
+          "inventors": "王正松，汤晟楠，郭戈，杨乐",
+          "title": "一种药物质量控制方法、系统、电子设备及介质",
+          "application_number": "202310086146.1"
+        }
+      ]
+    },
+    "awards_and_honors": {
+      "summary": "近三年指导学生参加人工智能相关学科竞赛荣获奖励30余项，其中国家级奖励10项，并多次获评优秀指导教师称号，其中省部级奖励2项。",
+      "details": [
+        {
+          "year": "2024年",
+          "award": "东北大学秦皇岛分校 优秀毕业设计指导教师"
+        },
+        {
+          "year": "2024年",
+          "award": "“西门子杯”中国智能制造挑战赛 优秀指导教师（省部级）"
+        },
+        {
+          "year": "2024年",
+          "award": "全国大学生智能汽车竞赛 优秀指导教师"
+        },
+        {
+          "year": "2023年",
+          "award": "“西门子杯”中国智能制造挑战赛 优秀指导教师（省部级）"
+        },
+        {
+          "year": "2023年",
+          "award": "东北大学秦皇岛分校 创新创业教育优秀指导教师"
+        },
+        {
+          "year": "2022年",
+          "award": "全国大学生电子商务“创新、创意及创新”挑战赛 优秀指导教师"
+        },
+        {
+          "year": "2022年",
+          "award": "东北大学秦皇岛分校 创新创业教育优秀指导教师"
+        }
+      ]
+    },
+    "courses_taught": {
+      "undergraduate": [
+        "《人工智能基础》",
+        "《机器学习》",
+        "《机器视觉技术与应用》"
+      ]
+    },
+    "graduate_supervision": {
+      "summary": "指导硕士研究生10名（含协助指导），目前2人毕业（1人赴浙江大学读博），8人在读；1人获国家励志奖学金。",
+      "current_students_count": 8,
+      "graduated_students_count": 2,
+      "notable_alumni": [
+        "1人赴浙江大学读博"
+      ],
+      "student_achievements": [
+        "1人获国家励志奖学金"
+      ],
+      "recruitment_capacity": "每年可招收人工智能、自动化类专业硕士研究生3-5名"
+    }
+  }
+}

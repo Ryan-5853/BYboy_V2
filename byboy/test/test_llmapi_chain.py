@@ -1,34 +1,8 @@
-"""
-验证 Packy LLM 链路：环境配置 → PackyAPIClient（OpenAI 兼容）/ PackyClaudeClient → LLMDispatcher。
-
-用法（在仓库根目录执行，且已安装依赖）::
-
-    python -m byboy.test.test_llmapi_chain
-    python -m byboy.test.test_llmapi_chain --only openai
-    python -m byboy.test.test_llmapi_chain --openai-model gpt-4o-mini --claude-model claude-sonnet-4-20250514
-
-推荐在仓库根目录放置 ``.env``（可参考 ``.env.example``），由 ``byboy.env_loader`` 自动加载。
-
-Packy 网关（``byboy.packyapi.config.PackyConfig``）::
-
-    PACKY_API_KEY 或 OPENAI_API_KEY 等
-    PACKY_BASE_URL（可选）
-    PACKY_ANTHROPIC_BASE_URL（可选）
-
-模型与默认路由（``byboy.settings``）::
-
-    BYBOY_OPENAI_MODEL / BYBOY_CLAUDE_MODEL
-    BYBOY_LLM_DEFAULT_ROUTE（决定 ``default`` 槽位用哪条通道）
-    BYBOY_SLOT_<NAME>（语义槽位，如 BYBOY_SLOT_REASONING=claude:…）
-    可选 BYBOY_*_TEMPERATURE、BYBOY_*_MAX_TOKENS
-
-``LLMDispatcher.from_env()`` 的 ``default_route`` 为槽位 ``default``。兼容：BYBOY_TEST_* 模型名。
-"""
+"""按 slot 单链路验证：每次只测一个 BYBOY_SLOT_*。"""
 
 from __future__ import annotations
 
 import argparse
-import asyncio
 import sys
 from pathlib import Path
 
@@ -38,21 +12,9 @@ if str(_REPO_ROOT) not in sys.path:
     sys.path.insert(0, str(_REPO_ROOT))
 
 from byboy.llm.dispatcher import LLMDispatcher, RouteSpec
-from byboy.packyapi.claude import PackyClaudeClient
-from byboy.packyapi.client import PackyAPIClient
 from byboy.packyapi.config import PackyConfig
-from byboy.settings import claude_model_from_env, openai_model_from_env
 
 PROMPT = "只回复一个字：好。不要其它内容。"
-
-
-def _default_openai_model() -> str:
-    return openai_model_from_env()
-
-
-def _default_claude_model() -> str:
-    return claude_model_from_env()
-
 
 def _messages() -> list[dict[str, str]]:
     return [
@@ -68,6 +30,30 @@ def _print_ok(name: str, detail: str = "") -> None:
 
 def _print_fail(name: str, err: BaseException) -> None:
     print(f"[FAIL] {name}: {err}")
+
+
+def _mask_key(v: str) -> str:
+    s = (v or "").strip()
+    if len(s) <= 8:
+        return "*" * len(s)
+    return f"{s[:4]}...{s[-4:]}"
+
+
+def _used_client_info(disp: LLMDispatcher, slot: str, backend: str) -> tuple[str, str]:
+    # 测试用途：读取 dispatcher 内部已选客户端，便于确认 slot 实际命中哪个 key/base
+    norm = disp._normalize_slot_key(slot)  # type: ignore[attr-defined]
+    if backend == "openai":
+        cli = disp._route_openai_clients.get(norm) or disp._openai  # type: ignore[attr-defined]
+    elif backend == "claude":
+        cli = disp._route_claude_clients.get(norm) or disp._claude  # type: ignore[attr-defined]
+    elif backend == "openai_vision":
+        cli = disp._route_vision_openai_clients.get(norm) or disp._vision_openai  # type: ignore[attr-defined]
+    else:
+        cli = disp._route_vision_claude_clients.get(norm) or disp._vision_claude  # type: ignore[attr-defined]
+    if cli is None:
+        return ("<none>", "<none>")
+    cfg = cli.config
+    return (cfg.base_url, _mask_key(cfg.api_key))
 
 
 def test_routing_local() -> None:
@@ -91,15 +77,18 @@ def test_routing_local() -> None:
     )
     assert disp.resolve("legacy").model == "legacy-m"
     assert disp.resolve("reasoning").model == "claude-test-model"
+    assert disp.resolve("BYBOY_SLOT_REASONING").model == "claude-test-model"
     assert disp.resolve("code").backend == "openai"
+    assert disp.resolve("BYBOY_SLOT_CODE").backend == "openai"
     assert disp.resolve("openai:gpt-4o-mini").model == "gpt-4o-mini"
+    assert disp.resolve("openai_vision:gemini-2.5-flash-image").backend == "openai_vision"
     assert disp.resolve(None).model == "claude-test-model"
     disp2 = LLMDispatcher(
         routes={"x": RouteSpec(model="m", backend="claude")},
         default_route="x",
     )
     assert disp2.resolve("claude-3-5-haiku-20241022").backend == "claude"
-    _print_ok("routing_local", "槽位 / 直连模型引用解析")
+    _print_ok("routing_local", "槽位/代号解析")
 
 
 def test_config() -> PackyConfig:
@@ -115,210 +104,59 @@ def test_config() -> PackyConfig:
     return cfg
 
 
-def test_openai_chain(model: str, *, stream: bool) -> None:
-    client = PackyAPIClient()
-    text = client.chat_completion(
-        model=model,
-        messages=_messages(),
-        max_tokens=64,
-        temperature=0,
+def test_dispatcher_slot(slot: str, *, stream: bool) -> None:
+    disp = LLMDispatcher.from_env()
+    spec = disp.resolve(slot)
+    base_url, api_key_masked = _used_client_info(disp, slot, spec.backend)
+    _print_ok("resolve_slot", f"{slot} -> {spec.backend}:{spec.model}")
+    _print_ok(
+        "slot_runtime_config",
+        f"model={spec.model!r} backend={spec.backend!r} base_url={base_url!r} api_key={api_key_masked}",
     )
+    text = disp.complete(slot, _messages(), temperature=0, max_tokens=256)
     if not text.strip():
-        raise RuntimeError("OpenAI 兼容通道返回空内容")
-    _print_ok("PackyAPIClient.chat_completion", repr(text[:120]))
+        raise RuntimeError(f"LLMDispatcher.complete({slot!r}) 返回空内容")
+    _print_ok("LLMDispatcher.complete(slot)", repr(text[:120]))
     if stream:
-        parts: list[str] = []
-        for delta in client.chat_completion_stream(
-            model=model,
-            messages=_messages(),
-            max_tokens=64,
-            temperature=0,
-        ):
-            parts.append(delta)
+        parts = list(disp.complete_stream(slot, _messages(), temperature=0, max_tokens=256))
         joined = "".join(parts).strip()
         if not joined:
-            raise RuntimeError("OpenAI 兼容流式返回空内容")
-        _print_ok("PackyAPIClient.chat_completion_stream", repr(joined[:120]))
-
-
-async def test_openai_async(model: str) -> None:
-    client = PackyAPIClient()
-    text = await client.achat_completion(
-        model=model,
-        messages=_messages(),
-        max_tokens=64,
-        temperature=0,
-    )
-    if not text.strip():
-        raise RuntimeError("异步 OpenAI 兼容通道返回空内容")
-    _print_ok("PackyAPIClient.achat_completion", repr(text[:120]))
-
-
-def test_claude_chain(model: str, *, stream: bool) -> None:
-    client = PackyClaudeClient()
-    text = client.messages_create(
-        model=model,
-        messages=_messages(),
-        max_tokens=128,
-        temperature=0,
-    )
-    if not text.strip():
-        raise RuntimeError("Claude 通道返回空内容")
-    _print_ok("PackyClaudeClient.messages_create", repr(text[:120]))
-    if stream:
-        parts: list[str] = []
-        for delta in client.messages_stream(
-            model=model,
-            messages=_messages(),
-            max_tokens=128,
-            temperature=0,
-        ):
-            parts.append(delta)
-        joined = "".join(parts).strip()
-        if not joined:
-            raise RuntimeError("Claude 流式返回空内容")
-        _print_ok("PackyClaudeClient.messages_stream", repr(joined[:120]))
-
-
-async def test_claude_async(model: str) -> None:
-    client = PackyClaudeClient()
-    text = await client.amessages_create(
-        model=model,
-        messages=_messages(),
-        max_tokens=128,
-        temperature=0,
-    )
-    if not text.strip():
-        raise RuntimeError("异步 Claude 通道返回空内容")
-    _print_ok("PackyClaudeClient.amessages_create", repr(text[:120]))
-
-
-def test_dispatcher(
-    openai_model: str,
-    claude_model: str,
-    *,
-    stream: bool,
-) -> None:
-    disp = LLMDispatcher(
-        routes={
-            "openai": RouteSpec(model=openai_model, backend="openai"),
-            "claude": RouteSpec(model=claude_model, backend="claude"),
-        },
-        default_route="claude",
-        openai_client=PackyAPIClient(),
-        claude_client=PackyClaudeClient(),
-    )
-    for key in ("openai", "claude"):
-        text = disp.complete(key, _messages(), temperature=0, max_tokens=128)
-        if not text.strip():
-            raise RuntimeError(f"LLMDispatcher.complete({key!r}) 返回空内容")
-        _print_ok(f"LLMDispatcher.complete({key!r})", repr(text[:120]))
-    if stream:
-        for key in ("openai", "claude"):
-            parts = list(disp.complete_stream(key, _messages(), temperature=0, max_tokens=128))
-            joined = "".join(parts).strip()
-            if not joined:
-                raise RuntimeError(f"LLMDispatcher.complete_stream({key!r}) 返回空内容")
-            _print_ok(f"LLMDispatcher.complete_stream({key!r})", repr(joined[:120]))
-
-
-async def test_dispatcher_async(openai_model: str, claude_model: str) -> None:
-    disp = LLMDispatcher(
-        routes={
-            "openai": RouteSpec(model=openai_model, backend="openai"),
-            "claude": RouteSpec(model=claude_model, backend="claude"),
-        },
-        default_route="claude",
-        openai_client=PackyAPIClient(),
-        claude_client=PackyClaudeClient(),
-    )
-    for key in ("openai", "claude"):
-        text = await disp.acomplete(key, _messages(), temperature=0, max_tokens=128)
-        if not text.strip():
-            raise RuntimeError(f"LLMDispatcher.acomplete({key!r}) 返回空内容")
-        _print_ok(f"LLMDispatcher.acomplete({key!r})", repr(text[:120]))
+            raise RuntimeError(f"LLMDispatcher.complete_stream({slot!r}) 返回空内容")
+        _print_ok("LLMDispatcher.complete_stream(slot)", repr(joined[:120]))
 
 
 def main() -> int:
-    parser = argparse.ArgumentParser(description="Packy LLM API 链路透测")
+    parser = argparse.ArgumentParser(description="Packy LLM slot 单链路透测")
     parser.add_argument(
-        "--only",
-        choices=("all", "config", "openai", "claude", "dispatcher", "routing"),
-        default="all",
-        help="只跑指定阶段（默认 all；routing 不访问 API）",
-    )
-    parser.add_argument(
-        "--openai-model",
-        default=None,
-        help="OpenAI 兼容通道模型（默认读 BYBOY_OPENAI_MODEL / BYBOY_TEST_OPENAI_MODEL 或 gpt-4o-mini）",
-    )
-    parser.add_argument(
-        "--claude-model",
-        default=None,
-        help="Claude 通道模型（默认读 BYBOY_CLAUDE_MODEL / BYBOY_TEST_CLAUDE_MODEL 或 haiku 默认）",
+        "--slot",
+        default="BYBOY_SLOT_DEFAULT",
+        help="只测试这一个链路代号（如 BYBOY_SLOT_FAST / BYBOY_SLOT_VISION）",
     )
     parser.add_argument(
         "--no-stream",
         action="store_true",
         help="跳过流式接口",
     )
-    parser.add_argument(
-        "--no-async",
-        action="store_true",
-        help="跳过异步接口",
-    )
     args = parser.parse_args()
-    openai_model = args.openai_model or _default_openai_model()
-    claude_model = args.claude_model or _default_claude_model()
     stream = not args.no_stream
-    run_async = not args.no_async
 
     failed = 0
-
-    if args.only in ("all", "routing"):
-        try:
-            test_routing_local()
-        except Exception as e:
-            failed += 1
-            _print_fail("routing_local", e)
-        if args.only == "routing":
-            return 1 if failed else 0
+    try:
+        test_routing_local()
+    except Exception as e:
+        failed += 1
+        _print_fail("routing_local", e)
 
     try:
-        if args.only in ("all", "config"):
-            test_config()
+        test_config()
     except Exception as e:
         failed += 1
         _print_fail("PackyConfig", e)
-        if args.only == "config":
-            return 1
-
-    if args.only in ("all", "openai"):
-        try:
-            test_openai_chain(openai_model, stream=stream)
-            if run_async:
-                asyncio.run(test_openai_async(openai_model))
-        except Exception as e:
-            failed += 1
-            _print_fail("OpenAI 兼容链路", e)
-
-    if args.only in ("all", "claude"):
-        try:
-            test_claude_chain(claude_model, stream=stream)
-            if run_async:
-                asyncio.run(test_claude_async(claude_model))
-        except Exception as e:
-            failed += 1
-            _print_fail("Claude 链路", e)
-
-    if args.only in ("all", "dispatcher"):
-        try:
-            test_dispatcher(openai_model, claude_model, stream=stream)
-            if run_async:
-                asyncio.run(test_dispatcher_async(openai_model, claude_model))
-        except Exception as e:
-            failed += 1
-            _print_fail("LLMDispatcher 链路", e)
+    try:
+        test_dispatcher_slot(args.slot, stream=stream)
+    except Exception as e:
+        failed += 1
+        _print_fail("LLMDispatcher slot 链路", e)
 
     if failed:
         print(f"\n完成：{failed} 项失败")

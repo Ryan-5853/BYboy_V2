@@ -50,12 +50,31 @@ def agent_complete(
     return dispatcher.complete(inv.model.token, inv.llm_part, **kwargs)
 
 
+def slot_complete(
+    dispatcher: LLMDispatcher,
+    slot: str,
+    messages: Sequence[ChatMessage],
+    **kwargs: Any,
+) -> str:
+    """按 slot/token 直接发起补全，统一 Agent 内部调用风格。"""
+    return dispatcher.complete(slot, messages, **kwargs)
+
+
 async def agent_acomplete(
     dispatcher: LLMDispatcher,
     inv: AgentInvocation[Sequence[ChatMessage]],
     **kwargs: Any,
 ) -> str:
     return await dispatcher.acomplete(inv.model.token, inv.llm_part, **kwargs)
+
+
+async def slot_acomplete(
+    dispatcher: LLMDispatcher,
+    slot: str,
+    messages: Sequence[ChatMessage],
+    **kwargs: Any,
+) -> str:
+    return await dispatcher.acomplete(slot, messages, **kwargs)
 
 
 def agent_complete_stream(
@@ -66,10 +85,29 @@ def agent_complete_stream(
     return dispatcher.complete_stream(inv.model.token, inv.llm_part, **kwargs)
 
 
+def slot_complete_stream(
+    dispatcher: LLMDispatcher,
+    slot: str,
+    messages: Sequence[ChatMessage],
+    **kwargs: Any,
+) -> Iterator[str]:
+    return dispatcher.complete_stream(slot, messages, **kwargs)
+
+
 async def agent_acomplete_stream(
     dispatcher: LLMDispatcher,
     inv: AgentInvocation[Sequence[ChatMessage]],
     **kwargs: Any,
 ) -> AsyncIterator[str]:
     async for part in dispatcher.acomplete_stream(inv.model.token, inv.llm_part, **kwargs):
+        yield part
+
+
+async def slot_acomplete_stream(
+    dispatcher: LLMDispatcher,
+    slot: str,
+    messages: Sequence[ChatMessage],
+    **kwargs: Any,
+) -> AsyncIterator[str]:
+    async for part in dispatcher.acomplete_stream(slot, messages, **kwargs):
         yield part

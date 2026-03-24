@@ -1,0 +1,224 @@
+{
+  "meta": {
+    "tutor_name_cn": "王宏伟",
+    "request_url": "https://kzgc.neuq.edu.cn/info/1020/1156.htm",
+    "declared_source_url": "https://kzgc.neuq.edu.cn/info/1020/1156.htm",
+    "page_host": "kzgc.neuq.edu.cn",
+    "markdown_cache_path": "I:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\44bfead6addea5b5ea52cb8400a0dba803f0675b6fdbfe8b110e1174e6c83050.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "source_url": "https://kzgc.neuq.edu.cn/info/1020/1156.htm",
+    "name": "王宏伟",
+    "gender": "女",
+    "birth_date": "1983年8月19日",
+    "degrees": [
+      "工学博士"
+    ],
+    "titles": [
+      "副教授",
+      "硕士生导师"
+    ],
+    "profile_image_url": "https://kzgc.neuq.edu.cn/__local/1/13/3D/83AD32305FDAD74A0791C1F75A4_A9947DC2_DF8D.jpg",
+    "contact_info": {
+      "email": "wanghw0819@163.com",
+      "office_location": "科技楼5014",
+      "phone": "15033507486",
+      "mailing_address": "河北省秦皇岛市海港区143号东北大学秦皇岛分校"
+    },
+    "research_directions": [
+      "复杂系统故障诊断与容错控制",
+      "智能车辆控制方面研究",
+      "滑模控制"
+    ],
+    "educational_background": [
+      {
+        "start_date": "2004.09",
+        "end_date": "2009.01",
+        "institution": "东北大学",
+        "major": "控制理论与控制工程",
+        "degree": "工学博士（硕博连读）"
+      },
+      {
+        "start_date": "2000.09",
+        "end_date": "2004.09",
+        "institution": "辽宁工业大学",
+        "major": "电气工程及其自动化",
+        "degree": "工学学士"
+      }
+    ],
+    "work_experience": [
+      {
+        "start_date": "2017.01",
+        "end_date": "至今",
+        "institution": "东北大学秦皇岛分校 控制工程学院",
+        "position": "副教授"
+      },
+      {
+        "start_date": "2009.03",
+        "end_date": "2016.12",
+        "institution": "东北大学秦皇岛分校 控制工程学院",
+        "position": "讲师"
+      }
+    ],
+    "research_projects": {
+      "ongoing": [
+        {
+          "name": "复杂行驶工况下智能汽车稳定系统复合故障诊断方法研究",
+          "funding_source": "国家自然科学基金青年基金",
+          "start_date": "2020.01",
+          "end_date": "2022.12",
+          "role": "项目负责人"
+        },
+        {
+          "name": "极限工况下汽车稳定控制系统执行器和传感器并发故障的智能诊断算法研究",
+          "funding_source": "中央高校基本科研业务费国家培育基金",
+          "start_date": "2020.01",
+          "end_date": "2021.12",
+          "role": "项目负责人"
+        },
+        {
+          "name": "智能汽车电子稳定性控制系统多传感器故障诊断方法研究",
+          "funding_source": "河北省高等学校科学研究项目",
+          "start_date": "2019.01",
+          "end_date": "2021.12",
+          "role": "项目负责人"
+        }
+      ],
+      "completed": [
+        {
+          "name": "复杂环境非线性轧机活套系统传感器故障诊断与容错控制研究",
+          "funding_source": "辽宁省自然科学基金面上项目",
+          "start_date": "2017.01",
+          "end_date": "2019.12",
+          "role": "项目负责人"
+        },
+        {
+          "name": "热连轧精轧机组液压活套系统多传感器故障诊断与容错控制研究",
+          "funding_source": "东北大学秦皇岛分校科技支撑项目",
+          "start_date": "2016.01",
+          "end_date": "2018.12",
+          "role": "项目负责人"
+        },
+        {
+          "name": "耐酸管线钢在高温高压H2S/CO2环境下的腐蚀机理及寿命预测",
+          "funding_source": "河北省科技计划项目",
+          "start_date": "2016.01",
+          "end_date": "2017.12",
+          "role": "项目负责人"
+        },
+        {
+          "name": "热连轧液压活套系统的鲁棒控制研究",
+          "funding_source": "秦皇岛市科技计划项目",
+          "start_date": "2010.08",
+          "end_date": "2011.12",
+          "role": "项目负责人"
+        }
+      ]
+    },
+    "academic_publications": [
+      {
+        "authors": "Hongwei Wang, Shaowen Wu, Qianyu Wang",
+        "title": "Global sliding mode control for nonlinear vehicle antilock braking system",
+        "journal": "IEEE Access",
+        "year": 2021,
+        "pages": "40349-40359",
+        "volume_issue": "9",
+        "indexing": "SCI检索"
+      },
+      {
+        "authors": "Hongwei Wang, Yuanwei Jing, Chi Yu",
+        "title": "Guaranteed cost sliding mode control for looper-tension multivariable uncertain systems",
+        "journal": "Nonlinear Dynamics",
+        "year": 2015,
+        "pages": "39-50",
+        "volume_issue": "80",
+        "indexing": "SCI检索"
+      },
+      {
+        "authors": "Hongwei Wang, Hongyan Wang, Xiuhua Gao, Chi Yu",
+        "title": "Effect of Nb and Ti on corrosion characteristics of low alloy steel in supercritical CO2 environment",
+        "journal": "International Journal of Electrochemical Science",
+        "year": 2019,
+        "pages": "10907-10919",
+        "volume_issue": "14(12)",
+        "indexing": "SCI检索"
+      },
+      {
+        "authors": "Hongwei Wang",
+        "title": "Design of congestion control scheme for uncertain discrete network systems",
+        "journal": "International Journal of Computer, Communication & Control",
+        "year": 2013,
+        "pages": "826-831",
+        "volume_issue": "8(6)",
+        "indexing": "SCI检索"
+      },
+      {
+        "authors": "Hongwei Wang, Yuanwei Jing, Chi Yu, Suxin Wang, Jing Gao",
+        "title": "Guaranteed cost sliding mode control for discrete-time looper systems in hot strip finishing mills",
+        "journal": "Journal of Control and Decision",
+        "year": 2016,
+        "pages": "151-164",
+        "volume_issue": "3(2)",
+        "indexing": "EI检索"
+      }
+    ],
+    "courses_taught": {
+      "undergraduate": [
+        "自动控制原理",
+        "控制系统设计与仿真（双语）",
+        "控制工程基础",
+        "科技文献写作",
+        "电气系统仿真（双语）",
+        "机械原理MATLAB辅助分析"
+      ],
+      "postgraduate": [
+        "系统建模方法"
+      ]
+    },
+    "graduate_student_supervision": {
+      "master_students": "5名"
+    },
+    "site_chrome": {
+      "page_metadata": {
+        "publication_date": "2018-03-21",
+        "page_views": 9328
+      },
+      "breadcrumbs": [
+        {
+          "anchor_text": "首页",
+          "url": "https://kzgc.neuq.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://kzgc.neuq.edu.cn/szdw/zrjs.htm"
+        },
+        {
+          "anchor_text": "专任教师",
+          "url": "https://kzgc.neuq.edu.cn/szdw/zrjs.htm"
+        },
+        {
+          "anchor_text": "自动化与电气工程系",
+          "url": "https://kzgc.neuq.edu.cn/szdw/zrjs/zdhydqgcx1.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "navigation_links": [
+        {
+          "anchor_text": "上一篇：王立夫",
+          "url": "https://kzgc.neuq.edu.cn/info/1020/1155.htm"
+        },
+        {
+          "anchor_text": "下一篇：舒冬梅",
+          "url": "https://kzgc.neuq.edu.cn/info/1020/1158.htm"
+        }
+      ]
+    }
+  }
+}

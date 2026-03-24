@@ -1,0 +1,314 @@
+{
+  "meta": {
+    "tutor_name_cn": "孙亮亮",
+    "request_url": "https://kzgc.neuq.edu.cn/info/1020/3014.htm",
+    "declared_source_url": "https://kzgc.neuq.edu.cn/info/1020/3014.htm",
+    "page_host": "kzgc.neuq.edu.cn",
+    "markdown_cache_path": "I:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\a78aea345dd17bed6f7254f196264a68c1f131ae310672a11f43b3b4082cacf9.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "personal_info": {
+      "name_zh": "孙亮亮",
+      "name_en": "Liangliang Sun",
+      "gender": "男",
+      "birth_date": "1981年09月01日",
+      "political_status": "中共党员",
+      "degrees": [
+        {
+          "degree": "博士"
+        }
+      ],
+      "titles": [
+        {
+          "title": "教授"
+        },
+        {
+          "title": "博士生导师"
+        }
+      ],
+      "administrative_roles": [
+        {
+          "role": "控制工程学院副院长",
+          "organization": "东北大学秦皇岛分校"
+        }
+      ],
+      "summary_en": "Liangliang Sun, currently serving as Professor and Asscociate Dean at the School of Control Engineering, Northeastern University at Qinhuangdao, China, brings a wealth of expertise to his roles. He previously held the position of Senior Visiting Scholar at the University of Connecticut. Sun's distinguished achievements include being recognized as a key figure in the \"Xingliao Talent Plan\" and attaining the Thousand-Person Level in the \"Hundred and Ten Thousand Talents Project\" in Liaoning, China."
+    },
+    "contact_info": {
+      "email": "sunliangliang@neuq.edu.cn",
+      "phone": {
+        "zh": "13998111611",
+        "en": "+86-13998111611"
+      },
+      "address": {
+        "zh": "河北省秦皇岛市海港区东北大学南校区科技楼5003",
+        "en": "5003 Keji Building, 143 Taishan Road, Qinhuangdao Economic and Technological Development Zone, Qinhuangdao, Hebei, China"
+      }
+    },
+    "research_interests": {
+      "zh": [
+        "管理决策优化: 复杂流程工业生产过程决策优化理论算法",
+        "智能生产制造: 生产过程参量的实时获取与智能感知技术",
+        "智能交通系统: 自主式交通系统一体化信息模型构建策略"
+      ],
+      "en": [
+        "Management Decision Optimization: Decision Optimization Theory and Algorithm for Complex Process Industrial Production Processes",
+        "Intelligent Production Manufacturing: Real Time Acquisition and Intelligent Perception Technology for Production Process Parameters",
+        "Intelligent Transportation System: Strategy for Constructing an Integrated Information model for Autonomous Transportation Systems"
+      ]
+    },
+    "education": {
+      "zh": [
+        {
+          "period": "2009.08-2011.08",
+          "degree": "博士学位",
+          "institution": "美国康涅狄格大学",
+          "note": "国家留学基金委联合培养"
+        },
+        {
+          "period": "2005.09-2015.02",
+          "degree": "博士学位",
+          "institution": "东北大学",
+          "note": "硕博连读"
+        },
+        {
+          "period": "1999.09-2003.08",
+          "degree": "学士学位",
+          "institution": "北京交通大学"
+        }
+      ],
+      "en": [
+        {
+          "period": "2009.08-2011.08",
+          "degree": "Ph. D., Electrical Engineering",
+          "institution": "University of Connecticut",
+          "note": "Supported by CSC"
+        },
+        {
+          "period": "2005.09-2015.02",
+          "degree": "M.S. & Ph.D., Control Theory and Control Engineering",
+          "institution": "Northeastern University"
+        },
+        {
+          "period": "1999.09-2003.08",
+          "degree": "B.S., Information and Communication Engineering",
+          "institution": "Beijing Jiaotong University"
+        }
+      ]
+    },
+    "work_experience": [
+      {
+        "period": "2022.12-至今",
+        "position": "教授/副院长",
+        "organization": "东北大学秦皇岛分校控制工程学院"
+      },
+      {
+        "period": "2020.11-2022.11",
+        "position": "教授/副院长",
+        "organization": "沈阳建筑大学电气与控制工程学院"
+      },
+      {
+        "period": "2016.08-2017.08",
+        "position": "博士后",
+        "organization": "美国康涅狄格大学电子工程学院"
+      },
+      {
+        "period": "2015.02-2020.10",
+        "position": "副教授/副院长",
+        "organization": "沈阳建筑大学信息与控制工程学院"
+      }
+    ],
+    "awards_honors": [
+      {
+        "year": "2022年",
+        "award": "辽宁省教学成果一等奖"
+      },
+      {
+        "year": "2020年",
+        "award": "辽宁省百千万人才工程千人层次"
+      },
+      {
+        "year": "2019年",
+        "award": "辽宁省兴辽英才计划青年拔尖人才"
+      }
+    ],
+    "competition_awards": [
+      {
+        "year": "2023年",
+        "award": "全国第十八届挑战杯课外学术科技作品竞赛揭榜挂帅专项赛一等奖"
+      },
+      {
+        "year": "2007年",
+        "award": "全国第十届挑战杯课外学术科技作品竞赛一等奖"
+      },
+      {
+        "year": "2008年",
+        "award": "全国第六届挑战杯大学生创业计划竞赛银奖"
+      }
+    ],
+    "academic_affiliations": [
+      {
+        "role": "委员",
+        "organization": "国际自动控制联合会环境系统模型与控制专业委员会（IFAC-TC 8.3）"
+      },
+      {
+        "role": "青年编委",
+        "organization": "国际期刊《Complex System Modeling and Simulation》"
+      },
+      {
+        "role": "副主编",
+        "organization": "国际期刊《International Journal of Applied Mathematics in Control Engineering》"
+      },
+      {
+        "role": "affiliated with",
+        "organization": "IEEE RAS"
+      },
+      {
+        "role": "contributes his expertise to",
+        "organization": "Communication Evaluation Committee of the National Natural Science Foundation of China"
+      },
+      {
+        "role": "Evaluation Expert",
+        "organization": "China Academic Degree and Graduate Education Development Center"
+      }
+    ],
+    "research_projects": [
+      {
+        "type": "国家工业和信息化部工业互联网创新发展工程项目",
+        "title": "基于工业互联网平台的新型潜在失效模式及后果分析系统",
+        "id": "TC210804F"
+      },
+      {
+        "type": "国家自然科学基金面上项目",
+        "title": "不确定环境下炼钢-连铸批量计划与生产调度一体化优化方法的研究",
+        "id": "61873174"
+      },
+      {
+        "type": "国家自然科学基金青年项目",
+        "title": "基于高效拉氏松弛迭代算法的炼钢-连铸主辅设备调度方法的研究",
+        "id": "61503259"
+      }
+    ],
+    "representative_academic_achievements": {
+      "papers": [
+        {
+          "authors": "Liang-liang Sun; Miao Yu; Feng-hao Wang",
+          "title": "Capacity Decisions and Revenue sharing in a Telemedicine Healthcare System",
+          "journal": "Journal of Combinatorial Optimization",
+          "year": "2023",
+          "volume_issue": "46(31)"
+        },
+        {
+          "authors": "Liang-liang Sun",
+          "title": "An Efficient and Effective Approach for the Scheduling of Steelmaking-continuous Casting Process with Multi Different Refining Routes",
+          "journal": "IEEE Robotics and Automation Letters",
+          "year": "2022",
+          "volume_issue": "7(4)"
+        },
+        {
+          "authors": "Liang-liang Sun; Hang Jin; Ye Li",
+          "title": "Research on Scheduling of Iron and Steel Scrap Steelmaking and Continuous Casting Process Aiming at Power Saving and Carbon Emissions Reducing",
+          "journal": "IEEE Robotics and Automation Letters",
+          "year": "2018",
+          "volume_issue": "3(3)"
+        }
+      ],
+      "patents": [
+        {
+          "inventors": "Liang-liang Sun",
+          "title": "A Management Method Based on the Optimization of Steelmaking Continuous Casting Production Management",
+          "date": "2023-09-01",
+          "country": "Luxembourg",
+          "patent_number": "LU503321"
+        },
+        {
+          "inventors": "孙亮亮; 李聪鑫",
+          "title": "一种高效求解炼钢-连铸炉次批量计划的优化方法",
+          "date": "2022-03-11",
+          "country": "中国",
+          "patent_number": "ZL 201810882336.3"
+        },
+        {
+          "inventors": "孙亮亮; 屈秋霞; 毛永明; 张东伟; 于淼; 项英辉; 黄奕仁",
+          "title": "一种基于炼钢连铸生产优化调度装置",
+          "date": "2021-10-19",
+          "country": "中国",
+          "patent_number": "ZL 202010907603.5"
+        }
+      ]
+    },
+    "courses_taught": [
+      {
+        "level": "研究生课程",
+        "courses": [
+          "非线性规划",
+          "数学建模"
+        ]
+      },
+      {
+        "level": "本科生课程",
+        "courses": [
+          "自动化类专业导论",
+          "电路原理"
+        ]
+      },
+      {
+        "level": "留学生课程",
+        "courses": [
+          "Electrical Circuit"
+        ]
+      }
+    ],
+    "graduate_supervision": {
+      "graduated_masters": 18,
+      "graduated_international_masters": 1,
+      "current_phd_students": 4,
+      "current_master_students": 10,
+      "awards_to_students": "5 人获得国家优秀奖学金",
+      "student_further_studies": "多名学生赴美、加、澳等国攻读硕士和博士学位",
+      "recruitment_plan": "每年招收博士研究生 1-2 人, 硕士研究生 5 人"
+    },
+    "site_metadata": {
+      "source_url": "https://kzgc.neuq.edu.cn/info/1020/3014.htm",
+      "publish_time": "2023-02-15",
+      "click_count": 9327,
+      "profile_image_url": "https://kzgc.neuq.edu.cn/__local/A/35/7C/9E0F778E84DC4608ED25E5F94C4_1E9FD942_68F6.jpg",
+      "site_chrome": {
+        "navigation": [
+          {
+            "anchor_text": "首页",
+            "url": "https://kzgc.neuq.edu.cn/index.htm"
+          },
+          {
+            "anchor_text": "师资队伍",
+            "url": "https://kzgc.neuq.edu.cn/szdw/zrjs.htm"
+          },
+          {
+            "anchor_text": "专任教师",
+            "url": "https://kzgc.neuq.edu.cn/szdw/zrjs.htm"
+          },
+          {
+            "anchor_text": "自动化与电气工程系",
+            "url": "https://kzgc.neuq.edu.cn/szdw/zrjs/zdhydqgcx1.htm"
+          },
+          {
+            "anchor_text": "正文",
+            "url": null
+          }
+        ],
+        "previous_page": {
+          "anchor_text": "张璐",
+          "url": "https://kzgc.neuq.edu.cn/info/1020/3834.htm"
+        },
+        "next_page": {
+          "anchor_text": "韩萌",
+          "url": "https://kzgc.neuq.edu.cn/info/1020/2644.htm"
+        }
+      }
+    }
+  }
+}

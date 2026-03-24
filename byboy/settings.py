@@ -86,6 +86,26 @@ def claude_model_from_env() -> str:
     )
 
 
+def vision_model_from_env() -> str:
+    ensure_dotenv_loaded()
+    return (
+        os.environ.get("BYBOY_VISION_MODEL")
+        or os.environ.get("BYBOY_TEST_VISION_MODEL")
+        or openai_model_from_env()
+    ).strip()
+
+
+def vision_backend_from_env() -> str:
+    ensure_dotenv_loaded()
+    raw = (os.environ.get("BYBOY_VISION_BACKEND") or "openai").strip().lower()
+    if raw not in ("openai", "claude"):
+        raise ValueError(
+            "BYBOY_VISION_BACKEND 必须是 openai 或 claude，"
+            f"当前为 {raw!r}"
+        )
+    return raw
+
+
 def llm_default_route_from_env() -> str:
     ensure_dotenv_loaded()
     v = (os.environ.get("BYBOY_LLM_DEFAULT_ROUTE") or "claude").strip().lower()
@@ -102,9 +122,12 @@ def route_spec_with_channel_defaults(spec: RouteSpec) -> RouteSpec:
     if spec.backend == "openai":
         t_def = _parse_opt_float("BYBOY_OPENAI_TEMPERATURE")
         m_def = _parse_opt_int("BYBOY_OPENAI_MAX_TOKENS")
-    else:
+    elif spec.backend == "claude":
         t_def = _parse_opt_float("BYBOY_CLAUDE_TEMPERATURE")
         m_def = _parse_opt_int("BYBOY_CLAUDE_MAX_TOKENS")
+    else:
+        t_def = _parse_opt_float("BYBOY_VISION_TEMPERATURE")
+        m_def = _parse_opt_int("BYBOY_VISION_MAX_TOKENS")
     return RouteSpec(
         model=spec.model,
         backend=spec.backend,
@@ -133,19 +156,59 @@ def _channel_route_specs() -> dict[str, RouteSpec]:
     }
 
 
+def _vision_route_spec() -> RouteSpec:
+    ensure_dotenv_loaded()
+    backend = vision_backend_from_env()
+    mapped_backend = "openai_vision" if backend == "openai" else "claude_vision"
+    return RouteSpec(
+        model=vision_model_from_env(),
+        backend=mapped_backend,  # type: ignore[arg-type]
+        temperature=_parse_opt_float("BYBOY_VISION_TEMPERATURE"),
+        max_tokens=_parse_opt_int("BYBOY_VISION_MAX_TOKENS"),
+    )
+
+
 def slot_routes_from_env() -> dict[str, RouteSpec]:
-    """读取 ``BYBOY_SLOT_<NAME>=openai:…`` / ``claude:…`` 等，NAME 转为小写槽位名。"""
+    """
+    读取 slot 模型配置（推荐）：
+    - BYBOY_SLOT_<NAME>_MODEL=<backend:model 或裸模型id>
+
+    兼容旧写法：
+    - BYBOY_SLOT_<NAME>=<backend:model 或裸模型id>
+    """
     ensure_dotenv_loaded()
     prefix = "BYBOY_SLOT_"
     out: dict[str, RouteSpec] = {}
+    model_suffix = "_MODEL"
+    # 新写法优先：BYBOY_SLOT_<NAME>_MODEL
     for k, v in os.environ.items():
-        if not k.startswith(prefix):
+        if not k.startswith(prefix) or not k.endswith(model_suffix):
             continue
         raw = str(v).strip()
         if not raw:
             continue
-        slot = k[len(prefix) :].lower()
+        slot = k[len(prefix) : -len(model_suffix)].lower()
         if not slot:
+            continue
+        out[slot] = parse_route_spec_token(raw)
+    # 兼容旧写法：BYBOY_SLOT_<NAME>，并排除 *_MODEL / *_API_KEY / *_PACKY_*
+    for k, v in os.environ.items():
+        if not k.startswith(prefix):
+            continue
+        tail = k[len(prefix) :]
+        if (
+            tail.endswith("_MODEL")
+            or tail.endswith("_API_KEY")
+            or tail.endswith("_PACKY_API_KEY")
+            or tail.endswith("_PACKY_BASE_URL")
+            or tail.endswith("_PACKY_ANTHROPIC_BASE_URL")
+        ):
+            continue
+        raw = str(v).strip()
+        if not raw:
+            continue
+        slot = tail.lower()
+        if not slot or slot in out:
             continue
         out[slot] = parse_route_spec_token(raw)
     return out
@@ -160,6 +223,7 @@ def _merged_slots_and_routes() -> tuple[dict[str, RouteSpec], ModelSlotRegistry]
     """构造显式 ``routes`` 表与语义槽位注册表（含 default / reasoning / code / fast 默认值）。"""
     primary = llm_default_route_from_env()
     routes = _channel_route_specs()
+    routes["vision"] = _vision_route_spec()
     slots = slot_routes_from_env()
     for k, v in list(slots.items()):
         slots[k] = route_spec_with_channel_defaults(v)
@@ -173,7 +237,46 @@ def _merged_slots_and_routes() -> tuple[dict[str, RouteSpec], ModelSlotRegistry]
     ):
         if name not in slots:
             slots[name] = routes[fb]
+    if "vision" not in slots:
+        slots["vision"] = routes["vision"]
     return routes, ModelSlotRegistry(slots)
+
+
+def _slot_env_prefix(slot_name: str) -> str:
+    return f"BYBOY_SLOT_{slot_name.strip().upper()}_"
+
+
+def _base_v1(raw: str) -> str:
+    r = raw.strip().rstrip("/")
+    return r if r.endswith("/v1") else f"{r}/v1"
+
+
+def _anthropic_root(raw: str) -> str:
+    r = raw.strip().rstrip("/")
+    return r[:-3].rstrip("/") if r.endswith("/v1") else r
+
+
+def _slot_specific_config(slot_name: str, fallback: PackyConfig) -> PackyConfig | None:
+    """
+    每个 slot 独立 API Key（base 统一走全局 PACKY_BASE_URL）：
+    - BYBOY_SLOT_<NAME>_API_KEY
+
+    兼容旧名：
+    - BYBOY_SLOT_<NAME>_PACKY_API_KEY
+    """
+    prefix = _slot_env_prefix(slot_name)
+    api_key = (
+        os.environ.get(prefix + "API_KEY")
+        or os.environ.get(prefix + "PACKY_API_KEY")
+        or ""
+    ).strip()
+    if not api_key:
+        return None
+    return PackyConfig(
+        api_key=api_key,
+        base_url=fallback.base_url,
+        anthropic_base_url=fallback.anthropic_base_url,
+    )
 
 
 def llm_dispatcher_from_env(
@@ -182,13 +285,41 @@ def llm_dispatcher_from_env(
     openai_client: PackyAPIClient | None = None,
     claude_client: PackyClaudeClient | None = None,
 ) -> LLMDispatcher:
-    """使用同一 ``PackyConfig`` 构造客户端；默认路由键为槽位 ``default``。"""
+    """构造分发器；支持 slot 独立 PACKY key/base，默认路由键为槽位 ``default``。"""
     cfg = packy_config or PackyConfig.from_env()
+    vision_cfg = PackyConfig.from_vision_env()
     routes, registry = _merged_slots_and_routes()
+    slot_specs = registry.all_slots()
+
+    route_openai_clients: dict[str, PackyAPIClient] = {}
+    route_claude_clients: dict[str, PackyClaudeClient] = {}
+    route_vision_openai_clients: dict[str, PackyAPIClient] = {}
+    route_vision_claude_clients: dict[str, PackyClaudeClient] = {}
+
+    for slot_name, spec in slot_specs.items():
+        fallback = vision_cfg if spec.backend in ("openai_vision", "claude_vision") else cfg
+        slot_cfg = _slot_specific_config(slot_name, fallback)
+        if slot_cfg is None:
+            continue
+        if spec.backend == "openai":
+            route_openai_clients[slot_name] = PackyAPIClient(slot_cfg)
+        elif spec.backend == "claude":
+            route_claude_clients[slot_name] = PackyClaudeClient(slot_cfg)
+        elif spec.backend == "openai_vision":
+            route_vision_openai_clients[slot_name] = PackyAPIClient(slot_cfg)
+        else:
+            route_vision_claude_clients[slot_name] = PackyClaudeClient(slot_cfg)
+
     return LLMDispatcher(
         routes=routes,
         slot_registry=registry,
         default_route="default",
         openai_client=openai_client or PackyAPIClient(cfg),
         claude_client=claude_client or PackyClaudeClient(cfg),
+        vision_openai_client=PackyAPIClient(vision_cfg),
+        vision_claude_client=PackyClaudeClient(vision_cfg),
+        route_openai_clients=route_openai_clients,
+        route_claude_clients=route_claude_clients,
+        route_vision_openai_clients=route_vision_openai_clients,
+        route_vision_claude_clients=route_vision_claude_clients,
     )
