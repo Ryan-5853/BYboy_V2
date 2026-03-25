@@ -1,0 +1,241 @@
+{
+  "meta": {
+    "tutor_name_cn": "蔡超",
+    "request_url": "http://faculty.hust.edu.cn/caichaocv/zh_CN/index.htm",
+    "declared_source_url": "http://faculty.hust.edu.cn/caichaocv/zh_CN/index.htm",
+    "page_host": "faculty.hust.edu.cn",
+    "markdown_cache_path": "D:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\4bb1a77c9b167c0a24cbf8e64152abf262824ac8541ca9566ba22f87a86c2f6c.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "mentor_profile": {
+      "name_zh": "蔡超",
+      "name_en": "Cai Chao",
+      "id_code": "112",
+      "title": [
+        "副教授",
+        "硕士生导师"
+      ],
+      "gender": "男",
+      "status": "在职",
+      "affiliation": {
+        "unit": "多谱信息智能处理技术全国重点实验室",
+        "college": "人工智能与自动化学院",
+        "university": "华中科技大学"
+      },
+      "education_summary": {
+        "level": "研究生(博士)毕业",
+        "degree": "工学博士学位"
+      },
+      "contact_info": {
+        "postcode": "430074",
+        "office_address": "华中科技大学 逸夫科技楼1104 计算机实验室",
+        "email": "caichao@hust.edu.cn"
+      },
+      "biography": {
+        "main_text": "蔡超，华中科技大学，多谱信息智能处理技术全国重点实验室，人工智能与自动化学院，博士， 副教授。1994年毕业于山东曲阜师范大学数学系，获理学学士学位；1997年获华中理工大学理学硕士学位；2005年获华中科技大学工学博士学位，获2006年校级博士优秀论文奖；1997.4-2002.10于华中理工大学（现华中科技大学）数学系任教；2002.10-至今于多谱信息智能处理技术全国重点实验室、人工智能与自动化学院工作。目前从事的研究工作主要有机器视觉、目标识别与态势估计、强化学习与群体智能、医学图像处理等。先后主持国家863项目、航天基金项目、湖北省自然科学基金项目、航空科学基金以及国防横向项目40余项，获国家发明专利4项。发表学术论文50余篇。",
+        "details_link": {
+          "url": "http://faculty.hust.edu.cn/caichaocv/zh_CN/more/1794100/jsjjgd/index.htm",
+          "anchor_text": "查看更多>"
+        }
+      },
+      "education_experience": [
+        {
+          "period": "1990.9~1994.6",
+          "institution": "曲阜师范大学",
+          "major": "基础数学",
+          "degree": "大学本科毕业"
+        },
+        {
+          "period": "1994.9~1997.4",
+          "institution": "华中理工大学",
+          "major": "计算数学",
+          "degree": "研究生(硕士)毕业"
+        },
+        {
+          "period": "2003.9~2005.12",
+          "institution": "华中科技大学",
+          "major": "计算数学",
+          "degree": "研究生(博士)毕业"
+        }
+      ],
+      "work_experience": [
+        {
+          "period": "1997.4-2002.10",
+          "institution": "华中理工大学（现华中科技大学）",
+          "department": "数学系",
+          "position": "任教"
+        },
+        {
+          "period": "2002.10-至今",
+          "institution": "多谱信息智能处理技术全国重点实验室、人工智能与自动化学院",
+          "position": "工作"
+        }
+      ],
+      "research_directions": [
+        {
+          "name": "计算机视觉",
+          "link": {
+            "url": "http://faculty.hust.edu.cn/caichaocv/zh_CN/yjfx/1794100/content/6993.htm#yjfx",
+            "anchor_text": "计算机视觉"
+          }
+        },
+        {
+          "name": "导航与制导",
+          "link": {
+            "url": "http://faculty.hust.edu.cn/caichaocv/zh_CN/yjfx/1794100/content/6995.htm#yjfx",
+            "anchor_text": "导航与制导"
+          }
+        },
+        {
+          "name": "智能决策与群体智能",
+          "link": {
+            "url": "http://faculty.hust.edu.cn/caichaocv/zh_CN/yjfx/1794100/content/6994.htm#yjfx",
+            "anchor_text": "智能决策与群体智能"
+          }
+        },
+        {
+          "name": "智能医学",
+          "link": {
+            "url": "http://faculty.hust.edu.cn/caichaocv/zh_CN/yjfx/1794100/content/7003.htm#yjfx",
+            "anchor_text": "智能医学"
+          }
+        },
+        "机器视觉",
+        "目标识别与态势估计",
+        "强化学习与群体智能",
+        "医学图像处理",
+        "无人航行器航路规划",
+        "目标识别与跟踪"
+      ],
+      "publications": {
+        "papers": [
+          {
+            "title": "SE-UF-PVNet: A Structure Enhanced Pixel-wise Union vector Fields Voting Network for 6DoF Pose Estimation.",
+            "venue": "4th International Conference on Computing, Networks and Internet of Things, CNIOT 2023",
+            "date": "2023.05.26-2023.05.28",
+            "location": "Xiamen, China",
+            "link": {
+              "url": "http://faculty.hust.edu.cn/caichaocv/zh_CN/lwcg/1794106/content/137160.htm#lwcg",
+              "anchor_text": "SE-UF-PVNet: A Structure Enhanced Pixel-wise Union vector Fields Voting Network for 6DoF Pose Estimation.4th International Conference on Computing, Networks and Internet of Things, CNIOT 2023，2023.05.26-2023.05.28，Xiamen，China,"
+            }
+          },
+          {
+            "title": "SW-WAVENET: Learning Representation from Spectrogram and Wavegram Using Wavenet for Anomalous Sound Detection.",
+            "venue": "IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+            "date": "2023.06.04-2023.06.10",
+            "location": "Rhodes Island, Greece",
+            "link": {
+              "url": "http://faculty.hust.edu.cn/caichaocv/zh_CN/lwcg/1794106/content/137159.htm#lwcg",
+              "anchor_text": "SW-WAVENET: Learning Representation from Spectrogram and Wavegram Using Wavenet for Anomalous Sound Detection,.IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023.06.04-2023.06.10, Rhodes Island, Greece,"
+            }
+          },
+          {
+            "title": "Target Attribute Perception Based UAV Real-Time Task Planning in Dynamic Environments.",
+            "venue": "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+            "date": "2023.10.01-2023.10.05",
+            "location": "Detroit, MI, USA",
+            "link": {
+              "url": "http://faculty.hust.edu.cn/caichaocv/zh_CN/lwcg/1794106/content/137158.htm#lwcg",
+              "anchor_text": "Target Attribute Perception Based UAV Real-Time Task Planning in Dynamic Environments.IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)，2023.10.01-2023.10.05，Detroit, MI, USA,"
+            }
+          },
+          {
+            "title": "基于动态RCS的无人飞行器隐身突防航迹规划.",
+            "venue": "华中科技大学学报（自然科学版）",
+            "date": "2022",
+            "volume_issue_pages": "50(11):72-78",
+            "link": {
+              "url": "http://faculty.hust.edu.cn/caichaocv/zh_CN/lwcg/1794106/content/137161.htm#lwcg",
+              "anchor_text": "基于动态RCS的无人飞行器隐身突防航迹规划.华中科技大学学报（自然科学版）,2022,50(11):72-78.,"
+            }
+          },
+          {
+            "authors": "Chao, Cai(#)(*)",
+            "title": "Contour Integration and Segmentation with a New Lateral Connections Model",
+            "venue": "MIPPR 2011:Pattern Recognition and Computer Vision",
+            "location": "Guilin, China",
+            "date": "2011.11.4-2011.11.6",
+            "link": {
+              "url": "http://faculty.hust.edu.cn/caichaocv/zh_CN/lwcg/1794106/content/101518.htm#lwcg",
+              "anchor_text": "Chao, Cai(#)(*)，Contour Integration and Segmentation with a New Lateral Connections Model，MIPPR 2011:Pattern Recognition and Computer Vision，Guilin, China，2011.11.4-2011.11.6。."
+            }
+          },
+          {
+            "authors": "Cai, Chao(#)(*)，Wang, Meng",
+            "title": "Visual perception-based contour detection method",
+            "venue": "Journal of HuazhongUniversity of Science and Technology (Natural Science Edition)",
+            "date": "2011",
+            "volume_issue_pages": "39（7）：22-25",
+            "link": {
+              "url": "http://faculty.hust.edu.cn/caichaocv/zh_CN/lwcg/1794106/content/101517.htm#lwcg",
+              "anchor_text": "Cai, Chao(#)(*)，Wang, Meng，Visual perception-based contour detection method，Journal of HuazhongUniversity of Science and Technology (Natural Science Edition)，2011，39（7）：22-25。."
+            }
+          }
+        ],
+        "more_link": {
+          "url": "http://faculty.hust.edu.cn/caichaocv/zh_CN/lwcg/1794106/list/index.htm",
+          "anchor_text": "查看更多>"
+        }
+      },
+      "patents": [
+        {
+          "inventors": "丁明跃，蔡超，周成平",
+          "title": "三维超声影像的重建方法",
+          "date": "2010.01.20",
+          "country": "中国",
+          "patent_number": "ZL200710051250.8",
+          "link": {
+            "url": "http://faculty.hust.edu.cn/caichaocv/zh_CN/zlcg/1794108/content/86946.htm#zlcg",
+            "anchor_text": "丁明跃，蔡超，周成平，三维超声影像的重建方法，2010.01.20，中国，ZL200710051250.8.."
+          }
+        },
+        {
+          "inventors": "蔡超，周成平，王海亮",
+          "title": "3D自由头动式视线跟踪系统",
+          "date": "2014.12.03",
+          "country": "中国",
+          "patent_number": "ZL201010250637.8",
+          "link": {
+            "url": "http://faculty.hust.edu.cn/caichaocv/zh_CN/zlcg/1794108/content/86945.htm#zlcg",
+            "anchor_text": "蔡超，周成平，王海亮，3D自由头动式视线跟踪系统，2014.12.03，中国，ZL201010250637.8。."
+          }
+        }
+      ],
+      "books": [
+        {
+          "title": "医学图像处理",
+          "type": "教材",
+          "publisher": "高等教育出版社（北京）",
+          "isbn": "787040288476",
+          "date": "2010年3月",
+          "link": {
+            "url": "http://faculty.hust.edu.cn/caichaocv/zh_CN/zzcg/1794109/content/6653.htm#zzcg",
+            "anchor_text": "医学图像处理（教材）高等教育出版社（北京）；ISBN编号：787040288476 2010年3月；"
+          }
+        },
+        {
+          "title": "非制冷红外成像导引头",
+          "type": "专著",
+          "publisher": "西北工业大学出版社（西安）",
+          "word_count": "219000",
+          "date": "2009年9月",
+          "link": {
+            "url": "http://faculty.hust.edu.cn/caichaocv/zh_CN/zzcg/1794109/content/6652.htm#zzcg",
+            "anchor_text": "非制冷红外成像导引头（专著）西北工业大学出版社（西安）；字数：219000；2009年9月"
+          }
+        },
+        {
+          "title": "医学图像处理（第二版）",
+          "type": "教材",
+          "publisher": "高等教育出版社（北京）",
+          "isbn": "978-7-040-55235-5",
+          "date": "2021年"
+        }
+      ]
+    }
+  }
+}

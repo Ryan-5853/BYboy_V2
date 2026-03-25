@@ -1,0 +1,133 @@
+{
+  "meta": {
+    "tutor_name_cn": "朱力军",
+    "request_url": "http://faculty.hust.edu.cn/ZHULIJUN/zh_CN/index.htm",
+    "declared_source_url": "http://faculty.hust.edu.cn/ZHULIJUN/zh_CN/index.htm",
+    "page_host": "faculty.hust.edu.cn",
+    "markdown_cache_path": "D:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\97eb9f24ca91b95ba56cb626a564ca4fd1295c7aece542857710ae949323c802.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "name": "朱力军",
+    "page_source_url": "http://faculty.hust.edu.cn/ZHULIJUN/zh_CN/index.htm",
+    "personal_information": {
+      "profile_image": {
+        "url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/19/rBAGRmDD7aqAd-w8AAF659uI3A8850.png?randomid=1769834907659",
+        "alt_text": "朱力军"
+      },
+      "titles_and_positions": [
+        "教授",
+        "博士生导师",
+        "硕士生导师"
+      ],
+      "employment_status": "在职",
+      "current_affiliation": {
+        "unit": "人工智能与自动化学院",
+        "university": "华中科技大学"
+      },
+      "highest_degree_info": {
+        "degree_level": "研究生(博士)毕业",
+        "degree": "工学博士学位",
+        "graduated_from": "澳大利亚纽卡斯尔大学",
+        "major_discipline": "控制理论与控制工程"
+      }
+    },
+    "contact_information": {
+      "postcode": "430074",
+      "email": "ljzhu@hust.edu.cn"
+    },
+    "biography_section": {
+      "introduction_paragraph": "朱力军，华中科技大学人工智能与自动化学院教授、博导、国家海外青年特聘专家、湖北省海外特聘专家。2013年毕业于澳大利亚纽卡斯尔大学取得博士学位。2013年-2019年先后在澳大利亚纽卡斯尔大学和香港大学从事博士后研究。主要研究领域包括网络化控制及其应用与仿生机器人。在自动化领域顶级期刊Automatica、IEEE TAC与会议上共发表论文七十余篇，获机器人领域顶会ICRA最佳论文提名。担任Frontiers in Neurorobotics等SCI期刊编委成员和IEEE国际会议程序委员会委员。",
+      "research_focus_from_bio": [
+        "仿生机器人智能控制与集群协同，包括人形机器人、四足机器人等仿生机器人智能控制、强化学习在机器人领域的应用，以及机器人集群协同控制等。"
+      ],
+      "admission_requirements": "常年招收对以上研究方向感兴趣的博士后、博士和硕士研究生。详细情况请发邮件至ljzhu@hust.edu.cn."
+    },
+    "education_experience": [
+      {
+        "start_date": "2009.3",
+        "end_date": "2013.5",
+        "institution": "澳大利亚纽卡斯尔大学",
+        "major": "控制科学与工程",
+        "degree": "哲学博士学位",
+        "degree_type": "博士研究生毕业"
+      },
+      {
+        "start_date": "2006.9",
+        "end_date": "2008.6",
+        "institution": "华中科技大学",
+        "major": "机械电子工程",
+        "degree": "硕士学位",
+        "degree_type": "研究生毕业"
+      },
+      {
+        "start_date": "2002.9",
+        "end_date": "2006.6",
+        "institution": "西安交通大学",
+        "major": "机械制造及其自动化",
+        "degree": "学士学位",
+        "degree_type": "本科毕业"
+      }
+    ],
+    "work_experience": [
+      {
+        "start_date": "2019.10",
+        "end_date": "2021.7",
+        "institution": "华中科技大学",
+        "position": "教授"
+      },
+      {
+        "start_date": "2018.12",
+        "end_date": "2019.8",
+        "institution": "澳大利亚纽卡斯尔大学",
+        "position": "访问学者"
+      },
+      {
+        "start_date": "2015.6",
+        "end_date": "2018.10",
+        "institution": "香港大学",
+        "position": "博士后"
+      },
+      {
+        "start_date": "2013.6",
+        "end_date": "2015.5",
+        "institution": "澳大利亚纽卡斯尔大学",
+        "position": "博士后"
+      }
+    ],
+    "sections_explicitly_empty": {
+      "research_focus_section": "暂无内容",
+      "social_affiliations_section": "暂无内容"
+    },
+    "site_chrome": {
+      "fetch_source_statement": "抓取来源：http://faculty.hust.edu.cn/ZHULIJUN/zh_CN/index.htm",
+      "peculiar_header_image": {
+        "url": "http://faculty.hust.edu.cn/ZHULIJUN/zh_CN/index.htm",
+        "alt_text": null
+      },
+      "decorative_table": [
+        [
+          {
+            "content": "![](http://faculty.hust.edu.cn/_ts/qtmbzw1/images/ico-heart-i.png)"
+          },
+          {
+            "content": ""
+          }
+        ]
+      ],
+      "related_navigation_links": [
+        {
+          "anchor_text": "同专业博导",
+          "url": "http://faculty.hust.edu.cn/ZHULIJUN/zh_CN/tzybd/2288701/list/index.htm"
+        },
+        {
+          "anchor_text": "同专业硕导",
+          "url": "http://faculty.hust.edu.cn/ZHULIJUN/zh_CN/tzysd/2288701/list/index.htm"
+        }
+      ]
+    }
+  }
+}

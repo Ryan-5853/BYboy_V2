@@ -1,0 +1,263 @@
+{
+  "meta": {
+    "tutor_name_cn": "刘雪明",
+    "request_url": "http://faculty.hust.edu.cn/liuxueming/zh_CN/more/742745/jsjjgd/",
+    "declared_source_url": "http://faculty.hust.edu.cn/liuxueming/zh_CN/more/742745/jsjjgd/",
+    "page_host": "faculty.hust.edu.cn",
+    "markdown_cache_path": "D:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\5d2712cc708930545874e243d85edf34720c6f59bb476b720baad5feb43f83d5.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "mentor_name_query": "刘雪明",
+    "mentor_profile": {
+      "name": "刘雪明",
+      "id": "3152",
+      "gender": "女",
+      "employment_status": "在职",
+      "personal_information_summary": {
+        "title_position": "教授",
+        "supervisor_roles": [
+          "博士生导师",
+          "硕士生导师"
+        ],
+        "affiliation": "人工智能与自动化学院",
+        "education_level": "研究生(博士)毕业",
+        "degree": "工学博士学位",
+        "graduated_university": "华中科技大学",
+        "discipline": "模式识别与智能系统"
+      },
+      "personal_introduction": {
+        "text": "刘雪明，国家自然科学基金委优秀青年科学基金项目获得者。2010年华中科技大学自动化专业学士，2016年华中科技大学控制科学与工程博士，2014年至2016年访问美国波士顿大学，2019年访问哈佛医学院、美国布莱根妇女医院。华中科技大学人工智能与自动化学院教授、博士生导师、硕士生导师。\n从事网络科学、计算生物信息学及人工智能在生物系统中的应用研究，代表性工作包括多层生物分子网络构建与鲁棒性分析算法开发、多层网络鲁棒性分析、网络可控性分析、及这些方法在生物分子网络中的应用研究等。相关研究成果以第一或通讯发表在Nature Communications、PNAS、Physics Reports、Engineering、BMC Systems Biology、Physical Review E和TCBB等期刊上。获2022年湖北省自然科学一等奖，2018年中国ACM SIGBIO分会学术新星奖，2020年华中科技大学教师教学竞赛一等奖，2020年湖北省优秀学士学位论文指导教师等奖励。\n本课题组长期招聘博后、长期招收博士与硕士研究生，专业方向不限（人工智能、自动化和计算机方向优先），具有扎实的数学、英语与编程基础，欢迎联系xm_liu@hust.edu.cn",
+        "chinese_homepage_link": {
+          "url": "http://faculty.hust.edu.cn/liuxueming/zh_CN/index.htm",
+          "anchor_text": "中文主页"
+        }
+      },
+      "education_history": [
+        {
+          "year": "2010",
+          "degree": "学士",
+          "major": "自动化专业",
+          "institution": "华中科技大学"
+        },
+        {
+          "year": "2016",
+          "degree": "博士",
+          "major": "控制科学与工程",
+          "institution": "华中科技大学"
+        }
+      ],
+      "visiting_appointments": [
+        {
+          "years": "2014-2016",
+          "institution": "美国波士顿大学",
+          "role": "访问学者"
+        },
+        {
+          "year": "2019",
+          "institutions": [
+            "哈佛医学院",
+            "美国布莱根妇女医院"
+          ],
+          "role": "访问学者"
+        }
+      ],
+      "current_positions": [
+        {
+          "institution": "华中科技大学",
+          "college_or_school": "人工智能与自动化学院",
+          "positions": [
+            "教授",
+            "博士生导师",
+            "硕士生导师"
+          ]
+        }
+      ],
+      "research_directions": [
+        "网络科学",
+        "计算生物信息学",
+        "人工智能在生物系统中的应用研究"
+      ],
+      "representative_research_work": [
+        "多层生物分子网络构建与鲁棒性分析算法开发",
+        "多层网络鲁棒性分析",
+        "网络可控性分析",
+        "上述方法在生物分子网络中的应用研究"
+      ],
+      "selected_publication_venues": [
+        "Nature Communications",
+        "PNAS",
+        "Physics Reports",
+        "Engineering",
+        "BMC Systems Biology",
+        "Physical Review E",
+        "TCBB"
+      ],
+      "honors_and_awards": [
+        {
+          "name": "国家自然科学基金委优秀青年科学基金项目获得者",
+          "year": null,
+          "category": "基金项目"
+        },
+        {
+          "name": "湖北省自然科学一等奖",
+          "year": "2022",
+          "category": "科研奖项"
+        },
+        {
+          "name": "湖北省优秀学士学位论文指导教师",
+          "year": "2020",
+          "category": "教学奖项"
+        },
+        {
+          "name": "华中科技大学教师教学竞赛一等奖",
+          "year": "2020",
+          "category": "教学奖项"
+        },
+        {
+          "name": "中国ACM SIGBIO分会学术新星奖",
+          "year": "2018",
+          "category": "学术奖项"
+        }
+      ],
+      "recruitment_information": {
+        "position_types": [
+          "博后",
+          "博士研究生",
+          "硕士研究生"
+        ],
+        "disciplines_preferred": [
+          "人工智能",
+          "自动化",
+          "计算机"
+        ],
+        "requirements": [
+          "扎实的数学基础",
+          "扎实的英语基础",
+          "扎实的编程基础"
+        ],
+        "notes": "本课题组长期招聘，专业方向不限（人工智能、自动化和计算机方向优先）"
+      },
+      "contact_information": {
+        "email": "xm_liu@hust.edu.cn"
+      },
+      "related_links": [
+        {
+          "url": "http://faculty.hust.edu.cn/liuxueming/zh_CN/tzybd/742745/list/index.htm",
+          "anchor_text": "同专业博导"
+        },
+        {
+          "url": "http://faculty.hust.edu.cn/liuxueming/zh_CN/tzysd/742745/list/index.htm",
+          "anchor_text": "同专业硕导"
+        }
+      ]
+    },
+    "site_chrome": {
+      "source_url": "http://faculty.hust.edu.cn/liuxueming/zh_CN/more/742745/jsjjgd/",
+      "languages": [
+        {
+          "url": "http://faculty.hust.edu.cn/liuxueming/en/index.htm",
+          "anchor_text": "English"
+        }
+      ],
+      "university_links": [
+        {
+          "url": "http://www.hust.edu.cn/",
+          "anchor_text": "华中科技大学",
+          "title": "华中科技大学"
+        },
+        {
+          "url": "http://faculty.hust.edu.cn/",
+          "anchor_text": "华中科技大学 Faculty Homepage Logo"
+        }
+      ],
+      "navigation_menu": [
+        {
+          "url": "http://faculty.hust.edu.cn/liuxueming/zh_CN/index/742745/list/index.htm",
+          "anchor_text": "首页"
+        },
+        {
+          "url": "http://faculty.hust.edu.cn/liuxueming/zh_CN/zhym/742746/list/index.htm",
+          "anchor_text": "科学研究",
+          "sub_items": [
+            {
+              "url": "http://faculty.hust.edu.cn/liuxueming/zh_CN/yjgk/742747/list/index.htm",
+              "anchor_text": "研究领域"
+            },
+            {
+              "url": "http://faculty.hust.edu.cn/liuxueming/zh_CN/lwcg/742748/list/index.htm",
+              "anchor_text": "论文成果"
+            },
+            {
+              "url": "http://faculty.hust.edu.cn/liuxueming/zh_CN/zlcg/742750/list/index.htm",
+              "anchor_text": "专利"
+            },
+            {
+              "url": "http://faculty.hust.edu.cn/liuxueming/zh_CN/zzcg/742752/list/index.htm",
+              "anchor_text": "著作成果"
+            },
+            {
+              "url": "http://faculty.hust.edu.cn/liuxueming/zh_CN/kyxm/742754/list/index.htm",
+              "anchor_text": "科研项目"
+            }
+          ]
+        },
+        {
+          "url": "http://faculty.hust.edu.cn/liuxueming/zh_CN/zhym/742756/list/index.htm",
+          "anchor_text": "教学研究",
+          "sub_items": [
+            {
+              "url": "http://faculty.hust.edu.cn/liuxueming/zh_CN/jxzy/742758/list/index.htm",
+              "anchor_text": "教学资源"
+            },
+            {
+              "url": "http://faculty.hust.edu.cn/liuxueming/zh_CN/skxx/742759/list/index.htm",
+              "anchor_text": "授课信息"
+            },
+            {
+              "url": "http://faculty.hust.edu.cn/liuxueming/zh_CN/jxcg/742761/list/index.htm",
+              "anchor_text": "教学成果"
+            }
+          ]
+        },
+        {
+          "url": "http://faculty.hust.edu.cn/liuxueming/zh_CN/hjxx/742763/list/index.htm",
+          "anchor_text": "获奖信息"
+        },
+        {
+          "url": "http://faculty.hust.edu.cn/liuxueming/zh_CN/zsxx/742765/list/index.htm",
+          "anchor_text": "招生信息"
+        },
+        {
+          "url": "http://faculty.hust.edu.cn/liuxueming/zh_CN/xsxx/742767/list/index.htm",
+          "anchor_text": "学生信息"
+        },
+        {
+          "url": "http://faculty.hust.edu.cn/liuxueming/zh_CN/img/742770/list/index.htm",
+          "anchor_text": "我的相册"
+        },
+        {
+          "url": "http://faculty.hust.edu.cn/liuxueming/zh_CN/article/742772/list/index.htm",
+          "anchor_text": "教师博客"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://faculty.hust.edu.cn/liuxueming/zh_CN/more/742745/jsjjgd/",
+          "alt_text": "Image linking to current page, likely a broken placeholder."
+        },
+        {
+          "url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/10/rBAGRV8CDr-AeFVmAAA7EN17sME589.png",
+          "alt_text": "华中科技大学 logo"
+        },
+        {
+          "url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/16/rBAGRmBZa56AG85UAAGgwXw4eEQ008.png?randomid=1769843284695",
+          "alt_text": "Decorative image or section separator."
+        }
+      ]
+    }
+  }
+}

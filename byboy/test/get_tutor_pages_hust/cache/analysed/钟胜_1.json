@@ -1,0 +1,203 @@
+{
+  "meta": {
+    "tutor_name_cn": "钟胜",
+    "request_url": "http://faculty.hust.edu.cn/zhongsheng/zh_CN/index.htm",
+    "declared_source_url": "http://faculty.hust.edu.cn/zhongsheng/zh_CN/index.htm",
+    "page_host": "faculty.hust.edu.cn",
+    "markdown_cache_path": "D:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\8d0afc954c1c53ca852fccd026c80f5f9b98816eb041bed6e29b993a94c70549.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": "内容包含导师姓名、职位、联系方式、多项获奖荣誉、个人简介及教育经历，信息量丰富。"
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "target_professor": "钟胜",
+    "source_url": "http://faculty.hust.edu.cn/zhongsheng/zh_CN/index.htm",
+    "basic_information": {
+      "name": "钟胜",
+      "title": [
+        "教授",
+        "博士生导师",
+        "硕士生导师"
+      ],
+      "gender": "男",
+      "employment_status": "在职",
+      "affiliation": "多谱信息智能处理技术全国重点实验室",
+      "education_level": "研究生(博士)毕业",
+      "degree": "工学博士学位",
+      "graduated_from": "华中科技大学",
+      "disciplines": [
+        "导航、制导与控制",
+        "模式识别与智能系统"
+      ],
+      "profile_image": "http://faculty.hust.edu.cn/_resources/group1/M00/00/2C/rBAGRWTyxvKANbFDAAI7KzWmV4A694.png?randomid=1770659606539"
+    },
+    "contact_information": {
+      "zip_code": "430074",
+      "fax": "027-87543594",
+      "office_phone": "027-87793943",
+      "email": "zhongsheng@hust.edu.cn"
+    },
+    "personal_profile": {
+      "summary": "钟胜教授，华中科技大学多谱信息智能处理技术全国重点实验室主任、博士生导师。主要研究数字图像处理、模式识别在无人系统成像自主导航和成像自动目标探测及其实时实现领域的研究工作，聚焦复杂场景中包括可见光、红外以及三维成像、计算成像等多谱机器视觉的目标探测识别、场景感知测量、缺陷检测以及协同探测识别问题，主持和承担了包括重大装备型号分系统研制、国家重点预先研究、科技部重大仪器专项课题、自然科学基金重点...",
+      "full_profile_link": "http://faculty.hust.edu.cn/zhongsheng/zh_CN/more/1650361/jsjjgd/index.htm"
+    },
+    "honors_and_awards": [
+      {
+        "year": "2020",
+        "award_name": "国家科技进步二等奖：遥感卫星多模态实时压缩编解码技术与装备"
+      },
+      {
+        "year": "2018",
+        "award_name": "教育部科技进步一等奖：遥感卫星多模态实时压缩编解码技术与装备"
+      },
+      {
+        "year": "2006",
+        "award_name": "工信部科技进步三等奖：卫星遥感信息处理技术"
+      },
+      {
+        "year": "2006",
+        "award_name": "工信部科技进步三等奖：成像遥感图像目标自动识别技术研究"
+      },
+      {
+        "year": "2010",
+        "award_name": "工信部技术发明二等奖：精确导航成像自动目标识别核心技术与系统"
+      },
+      {
+        "year": "2006",
+        "award_name": "工信部科技进步二等奖：卫星图像保障应用与远程匹配导航实时处理技术研究"
+      },
+      {
+        "year": "2005",
+        "award_name": "工信部科技进步二等奖：图像导航的典型地海面目标自动捕获、识别、匹配与跟踪技术"
+      },
+      {
+        "year": "2007",
+        "award_name": "教育部科技进步一加等奖：实时自动目标识别与小型化实时信息处理技术"
+      }
+    ],
+    "education_experience": [
+      {
+        "period": "1999.9 ~ 2005.6",
+        "institution": "华中科技大学",
+        "degree": "工学博士学位",
+        "type": "研究生(博士)毕业"
+      },
+      {
+        "period": "1996.9 ~ 1999.5",
+        "institution": "华中理工大学",
+        "degree": "工学硕士学位",
+        "type": "研究生(硕士)毕业"
+      },
+      {
+        "period": "1990.9 ~ 1994.7",
+        "institution": "华中理工大学",
+        "degree": "工学学士学位",
+        "type": "本科(学士)"
+      }
+    ],
+    "work_experience": {
+      "content": "暂无内容"
+    },
+    "social_affiliations": {
+      "content": "暂无内容"
+    },
+    "research_focus": [
+      {
+        "direction": "人工智能机器视觉方向",
+        "link": "http://faculty.hust.edu.cn/zhongsheng/zh_CN/yjfx/1650361/content/3891.htm#yjfx"
+      }
+    ],
+    "research_team": {
+      "team_name": "图像分析与智能系统"
+    },
+    "site_navigation": {
+      "main_nav": [
+        {
+          "title": "首页",
+          "url": "http://faculty.hust.edu.cn/zhongsheng/zh_CN/index/1650361/list/index.htm"
+        },
+        {
+          "title": "科学研究",
+          "url": "http://faculty.hust.edu.cn/zhongsheng/zh_CN/zhym/1650363/list/index.htm",
+          "sub_items": [
+            {
+              "name": "研究领域",
+              "url": "http://faculty.hust.edu.cn/zhongsheng/zh_CN/yjgk/1650365/list/index.htm"
+            },
+            {
+              "name": "论文成果",
+              "url": "http://faculty.hust.edu.cn/zhongsheng/zh_CN/lwcg/1650367/list/index.htm"
+            },
+            {
+              "name": "专利",
+              "url": "http://faculty.hust.edu.cn/zhongsheng/zh_CN/zlcg/1650370/list/index.htm"
+            },
+            {
+              "name": "著作成果",
+              "url": "http://faculty.hust.edu.cn/zhongsheng/zh_CN/zzcg/1650372/list/index.htm"
+            },
+            {
+              "name": "科研项目",
+              "url": "http://faculty.hust.edu.cn/zhongsheng/zh_CN/kyxm/1650374/list/index.htm"
+            }
+          ]
+        },
+        {
+          "title": "教学研究",
+          "url": "http://faculty.hust.edu.cn/zhongsheng/zh_CN/zhym/1650376/list/index.htm",
+          "sub_items": [
+            {
+              "name": "教学资源",
+              "url": "http://faculty.hust.edu.cn/zhongsheng/zh_CN/jxzy/1650378/list/index.htm"
+            },
+            {
+              "name": "授课信息",
+              "url": "http://faculty.hust.edu.cn/zhongsheng/zh_CN/skxx/1650380/list/index.htm"
+            },
+            {
+              "name": "教学成果",
+              "url": "http://faculty.hust.edu.cn/zhongsheng/zh_CN/jxcg/1650382/list/index.htm"
+            }
+          ]
+        },
+        {
+          "title": "获奖信息",
+          "url": "http://faculty.hust.edu.cn/zhongsheng/zh_CN/hjxx/1650384/list/index.htm"
+        },
+        {
+          "title": "招生信息",
+          "url": "http://faculty.hust.edu.cn/zhongsheng/zh_CN/zsxx/1650386/list/index.htm"
+        },
+        {
+          "title": "学生信息",
+          "url": "http://faculty.hust.edu.cn/zhongsheng/zh_CN/xsxx/1650388/list/index.htm"
+        },
+        {
+          "title": "我的相册",
+          "url": "http://faculty.hust.edu.cn/zhongsheng/zh_CN/img/1650390/list/index.htm"
+        },
+        {
+          "title": "教师博客",
+          "url": "http://faculty.hust.edu.cn/zhongsheng/zh_CN/article/1650392/list/index.htm"
+        }
+      ],
+      "links": {
+        "english_version": "http://faculty.hust.edu.cn/zhongsheng/en/index.htm",
+        "hust_main": "http://www.hust.edu.cn/",
+        "same_major_phd_supervisors": "http://faculty.hust.edu.cn/zhongsheng/zh_CN/tzybd/1650361/list/index.htm",
+        "same_major_master_supervisors": "http://faculty.hust.edu.cn/zhongsheng/zh_CN/tzysd/1650361/list/index.htm"
+      }
+    },
+    "site_chrome": {
+      "crawl_source": "http://faculty.hust.edu.cn/zhongsheng/zh_CN/index.htm",
+      "welcome_message": "欢迎来到我的主页！",
+      "current_date": "2026年3月24日，星期二",
+      "logo_url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/10/rBAGRV8CDr-AeFVmAAA7EN17sME589.png"
+    },
+    "uncategorized": [
+      "更多：http://faculty.hust.edu.cn/zhongsheng/zh_CN/index.htm#",
+      "页首背景图/占位图：http://faculty.hust.edu.cn/zhongsheng/zh_CN/index.htm"
+    ]
+  }
+}

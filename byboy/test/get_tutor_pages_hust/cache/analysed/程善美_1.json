@@ -1,0 +1,198 @@
+{
+  "meta": {
+    "tutor_name_cn": "程善美",
+    "request_url": "http://faculty.hust.edu.cn/chengshanmei1/zh_CN/index.htm",
+    "declared_source_url": "http://faculty.hust.edu.cn/chengshanmei1/zh_CN/index.htm",
+    "page_host": "faculty.hust.edu.cn",
+    "markdown_cache_path": "D:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\6f6ecc5378535b896985c3a6253aab80a7334d8f26fd1f1d4c11e76b1164ef6a.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "source_url": "http://faculty.hust.edu.cn/chengshanmei1/zh_CN/index.htm",
+    "target_faculty_name": "程善美",
+    "data": {
+      "site_chrome": {
+        "language_switch": {
+          "anchor_text": "English",
+          "url": "http://faculty.hust.edu.cn/chengshanmei1/en/index.htm"
+        },
+        "university_link": {
+          "anchor_text": "华中科技大学",
+          "url": "http://www.hust.edu.cn/"
+        },
+        "university_logo": {
+          "url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/10/rBAGRV8CDr-AeFVmAAA7EN17sME589.png",
+          "link_to": "http://faculty.hust.edu.cn/"
+        },
+        "more_link_placeholder": {
+          "anchor_text": "更多",
+          "url": "http://faculty.hust.edu.cn/chengshanmei1/zh_CN/index.htm#"
+        },
+        "main_navigation": [
+          {
+            "anchor_text": "首页",
+            "url": "http://faculty.hust.edu.cn/chengshanmei1/zh_CN/index/63091/list/index.htm"
+          },
+          {
+            "anchor_text": "科学研究",
+            "url": "http://faculty.hust.edu.cn/chengshanmei1/zh_CN/zhym/63092/list/index.htm",
+            "sub_items": [
+              {
+                "anchor_text": "研究领域",
+                "url": "http://faculty.hust.edu.cn/chengshanmei1/zh_CN/yjgk/63093/list/index.htm"
+              },
+              {
+                "anchor_text": "论文成果",
+                "url": "http://faculty.hust.edu.cn/chengshanmei1/zh_CN/lwcg/63094/list/index.htm"
+              },
+              {
+                "anchor_text": "专利",
+                "url": "http://faculty.hust.edu.cn/chengshanmei1/zh_CN/zlcg/63095/list/index.htm"
+              },
+              {
+                "anchor_text": "著作成果",
+                "url": "http://faculty.hust.edu.cn/chengshanmei1/zh_CN/zzcg/63096/list/index.htm"
+              },
+              {
+                "anchor_text": "科研项目",
+                "url": "http://faculty.hust.edu.cn/chengshanmei1/zh_CN/kyxm/63097/list/index.htm"
+              }
+            ]
+          },
+          {
+            "anchor_text": "教学研究",
+            "url": "http://faculty.hust.edu.cn/chengshanmei1/zh_CN/zhym/63098/list/index.htm",
+            "sub_items": [
+              {
+                "anchor_text": "教学资源",
+                "url": "http://faculty.hust.edu.cn/chengshanmei1/zh_CN/jxzy/63099/list/index.htm"
+              },
+              {
+                "anchor_text": "授课信息",
+                "url": "http://faculty.hust.edu.cn/chengshanmei1/zh_CN/skxx/63100/list/index.htm"
+              },
+              {
+                "anchor_text": "教学成果",
+                "url": "http://faculty.hust.edu.cn/chengshanmei1/zh_CN/jxcg/63101/list/index.htm"
+              }
+            ]
+          },
+          {
+            "anchor_text": "获奖信息",
+            "url": "http://faculty.hust.edu.cn/chengshanmei1/zh_CN/hjxx/63102/list/index.htm"
+          },
+          {
+            "anchor_text": "招生信息",
+            "url": "http://faculty.hust.edu.cn/chengshanmei1/zh_CN/zsxx/63103/list/index.htm"
+          },
+          {
+            "anchor_text": "学生信息",
+            "url": "http://faculty.hust.edu.cn/chengshanmei1/zh_CN/xsxx/63104/list/index.htm"
+          },
+          {
+            "anchor_text": "我的相册",
+            "url": "http://faculty.hust.edu.cn/chengshanmei1/zh_CN/img/63105/list/index.htm"
+          },
+          {
+            "anchor_text": "教师博客",
+            "url": "http://faculty.hust.edu.cn/chengshanmei1/zh_CN/article/63106/list/index.htm"
+          }
+        ]
+      },
+      "personal_details": {
+        "name": "程善美",
+        "titles": [
+          "教授",
+          "博士生导师",
+          "硕士生导师"
+        ],
+        "gender": "男",
+        "employment_status": "在职",
+        "department": "人工智能与自动化学院",
+        "education_level": "研究生(博士)毕业",
+        "degree": "工学博士学位",
+        "graduation_university": "华中科技大学",
+        "discipline": "控制理论与控制工程",
+        "related_roles": [
+          {
+            "anchor_text": "同专业博导",
+            "url": "http://faculty.hust.edu.cn/chengshanmei1/zh_CN/tzybd/63091/list/index.htm"
+          },
+          {
+            "anchor_text": "同专业硕导",
+            "url": "http://faculty.hust.edu.cn/chengshanmei1/zh_CN/tzysd/63091/list/index.htm"
+          }
+        ]
+      },
+      "contact_information": {
+        "postal_code": "430074",
+        "email": "csm_hust@sina.com"
+      },
+      "personal_profile": {
+        "full_text": "个人基本情况程善美，博士，教授，博士生导师。1988年华中工学院船舶与海洋工程系应用电子专业毕业，获工学学士学位；1991年华中理工大学自动控制工程系工业自动化专业毕业，获工学硕士学位；2002年华中科技大学控制科学与工程系控制理论与控制工程专业毕业，获工学博士学位。2003年～2006年在华中科技大学机械工程博士后流动站工作；2006年～2007年在多伦多大学电气与计算机系做访问学者。参加工作以来一直从事电力电子及电气...",
+        "more_link": {
+          "anchor_text": "More+",
+          "url": "http://faculty.hust.edu.cn/chengshanmei1/zh_CN/more/63091/jsjjgd/index.htm"
+        }
+      },
+      "education_experience": [
+        {
+          "time_range": "2000.9 ~ 2002.12",
+          "university": "华中科技大学",
+          "degree": "工学博士学位",
+          "level": "研究生(博士)毕业"
+        },
+        {
+          "time_range": "1988.9 ~ 1991.6",
+          "university": "华中理工大学",
+          "degree": "工学硕士学位",
+          "level": "研究生(硕士)毕业"
+        },
+        {
+          "time_range": "1984.9 ~ 1988.7",
+          "university": "华中理工大学",
+          "degree": "工学学士学位",
+          "level": "本科(学士)"
+        }
+      ],
+      "work_experience": "暂无内容",
+      "social_affiliations": "暂无内容",
+      "research_focus": [
+        {
+          "topic": "新型功率变换器",
+          "url": "http://faculty.hust.edu.cn/chengshanmei1/zh_CN/yjfx/63091/content/6728.htm#yjfx"
+        },
+        {
+          "topic": "电力电子装置与系统",
+          "url": "http://faculty.hust.edu.cn/chengshanmei1/zh_CN/yjfx/63091/content/6729.htm#yjfx"
+        },
+        {
+          "topic": "交流电动机控制理论与应用",
+          "url": "http://faculty.hust.edu.cn/chengshanmei1/zh_CN/yjfx/63091/content/6730.htm#yjfx"
+        },
+        {
+          "topic": "嵌入式微控制器(DSP、ARM、FPGA)的应用",
+          "url": "http://faculty.hust.edu.cn/chengshanmei1/zh_CN/yjfx/63091/content/6731.htm#yjfx"
+        }
+      ],
+      "research_group": "暂无内容",
+      "images": [
+        {
+          "url": "http://faculty.hust.edu.cn/chengshanmei1/zh_CN/index.htm",
+          "description": "Likely a broken image or placeholder, URL points to the page itself."
+        },
+        {
+          "url": "http://faculty.hust.edu.cn/system/resource/tsites/images/defaultteacherimg.png?randomid=1767838388570",
+          "description": "Default teacher profile image"
+        }
+      ],
+      "uncategorized": {
+        "footer_date": "2026年3月24日，星期二",
+        "welcome_message": "欢迎来到我的主页！"
+      }
+    }
+  }
+}

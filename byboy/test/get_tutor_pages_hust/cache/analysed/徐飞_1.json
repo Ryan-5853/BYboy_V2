@@ -1,0 +1,194 @@
+{
+  "meta": {
+    "tutor_name_cn": "徐飞",
+    "request_url": "http://faculty.hust.edu.cn/xufei12/zh_CN/index.htm",
+    "declared_source_url": "http://faculty.hust.edu.cn/xufei12/zh_CN/index.htm",
+    "page_host": "faculty.hust.edu.cn",
+    "markdown_cache_path": "D:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\d7ed7a709eead18ad8a66a3c2557e605b7d1e02c38be9839d523e20735c9da07.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": "内容包含导师姓名、职位、单位、联系方式、教育及工作经历和科研简介，信息量充足。"
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "target_mentor": "徐飞",
+    "source_url": "http://faculty.hust.edu.cn/xufei12/zh_CN/index.htm",
+    "site_chrome": {
+      "language_options": [
+        {
+          "label": "English",
+          "url": "http://faculty.hust.edu.cn/xufei12/en/index.htm"
+        }
+      ],
+      "breadcrumb": [
+        {
+          "label": "华中科技大学",
+          "url": "http://www.hust.edu.cn/"
+        }
+      ],
+      "header_logo_url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/10/rBAGRV8CDr-AeFVmAAA7EN17sME589.png",
+      "navigation": [
+        {
+          "label": "首页",
+          "url": "http://faculty.hust.edu.cn/xufei12/zh_CN/index/2421550/list/index.htm"
+        },
+        {
+          "label": "科学研究",
+          "url": "http://faculty.hust.edu.cn/xufei12/zh_CN/zhym/2421551/list/index.htm",
+          "sub_menus": [
+            {
+              "label": "研究领域",
+              "url": "http://faculty.hust.edu.cn/xufei12/zh_CN/yjgk/2421552/list/index.htm"
+            },
+            {
+              "label": "论文成果",
+              "url": "http://faculty.hust.edu.cn/xufei12/zh_CN/lwcg/2421553/list/index.htm"
+            },
+            {
+              "label": "专利",
+              "url": "http://faculty.hust.edu.cn/xufei12/zh_CN/zlcg/2421554/list/index.htm"
+            },
+            {
+              "label": "著作成果",
+              "url": "http://faculty.hust.edu.cn/xufei12/zh_CN/zzcg/2421555/list/index.htm"
+            },
+            {
+              "label": "科研项目",
+              "url": "http://faculty.hust.edu.cn/xufei12/zh_CN/kyxm/2421556/list/index.htm"
+            }
+          ]
+        },
+        {
+          "label": "教学研究",
+          "url": "http://faculty.hust.edu.cn/xufei12/zh_CN/zhym/2421557/list/index.htm",
+          "sub_menus": [
+            {
+              "label": "教学资源",
+              "url": "http://faculty.hust.edu.cn/xufei12/zh_CN/jxzy/2421558/list/index.htm"
+            },
+            {
+              "label": "授课信息",
+              "url": "http://faculty.hust.edu.cn/xufei12/zh_CN/skxx/2421559/list/index.htm"
+            },
+            {
+              "label": "教学成果",
+              "url": "http://faculty.hust.edu.cn/xufei12/zh_CN/jxcg/2421560/list/index.htm"
+            }
+          ]
+        },
+        {
+          "label": "获奖信息",
+          "url": "http://faculty.hust.edu.cn/xufei12/zh_CN/hjxx/2421561/list/index.htm"
+        },
+        {
+          "label": "招生信息",
+          "url": "http://faculty.hust.edu.cn/xufei12/zh_CN/zsxx/2421562/list/index.htm"
+        },
+        {
+          "label": "学生信息",
+          "url": "http://faculty.hust.edu.cn/xufei12/zh_CN/xsxx/2421563/list/index.htm"
+        },
+        {
+          "label": "我的相册",
+          "url": "http://faculty.hust.edu.cn/xufei12/zh_CN/img/2421564/list/index.htm"
+        },
+        {
+          "label": "教师博客",
+          "url": "http://faculty.hust.edu.cn/xufei12/zh_CN/article/2421565/list/index.htm"
+        }
+      ]
+    },
+    "basic_info": {
+      "name": "徐飞",
+      "title": "副研究员",
+      "employment_status": "在职",
+      "department": "多谱信息智能处理技术全国重点实验室",
+      "education_level": "研究生(博士)毕业",
+      "degree": "工学博士学位",
+      "discipline": "模式识别与智能系统",
+      "profile_photo_url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/20/rBAGRmJecUiACREnAAI8ktWJdjs167.png?randomid=1769832450685"
+    },
+    "contact_info": {
+      "zip_code": "430074",
+      "office_address": "湖北省武汉市洪山区珞喻路1037号华中科技大学南一楼",
+      "email": "fxu@hust.edu.cn"
+    },
+    "personal_profile": {
+      "content": "徐飞，华中科技大学人工智能与自动化学院，副研究员。毕业于华中科技大学，获生物医学工程博士学位，导师是刘笔锋教授；博士后研究方向是生物计算及应用，合作导师是潘林强教授；2022年5月入职华中科技大学人工智能与自动化学院。 研究方向包括生物计算、DNA计算、DNA纳米技术等。在Angewandte Chemie International Edition、Nanoscale、Nanotechnology等国际期刊发表论文20篇，申请发明专利6项，获批1项；主持国家自然科学...",
+      "more_link": "http://faculty.hust.edu.cn/xufei12/zh_CN/more/2421550/jsjjgd/index.htm"
+    },
+    "education_experience": [
+      {
+        "period": "2002.9 ~ 2006.6",
+        "institution": "华中科技大学",
+        "degree": "工学学士学位",
+        "level_description": "本科(学士)"
+      },
+      {
+        "period": "2008.9 ~ 2013.12",
+        "institution": "华中科技大学",
+        "degree": "工学博士学位",
+        "level_description": "研究生(博士)毕业"
+      },
+      {
+        "period": "2006.9 ~ 2008.6",
+        "institution": "华中科技大学",
+        "degree": "理学硕士学位",
+        "level_description": "研究生(硕士)毕业"
+      },
+      {
+        "period": "2002.9 ~ 2006.6",
+        "institution": "华中科技大学",
+        "major": "生物信息技术",
+        "degree": "学士学位",
+        "level_description": "本科毕业"
+      },
+      {
+        "period": "2006.9 ~ 2008.6",
+        "institution": "华中科技大学",
+        "major": "生物化学与分子生物学",
+        "degree": "硕士学位",
+        "level_description": "研究生(硕士)毕业"
+      },
+      {
+        "period": "2008.9 ~ 2013.12",
+        "institution": "华中科技大学",
+        "major": "生物医学工程",
+        "degree": "博士学位",
+        "level_description": "研究生(博士)毕业"
+      }
+    ],
+    "work_experience": [
+      {
+        "period": "2014.11-2022.4",
+        "institution": "华中科技大学",
+        "department": "人工智能与自动化学院",
+        "administrative_role": "无",
+        "title": "副研究员"
+      },
+      {
+        "period": "2022.4-至今",
+        "institution": "华中科技大学",
+        "department": "人工智能与自动化学院",
+        "administrative_role": "无",
+        "title": "副研究员",
+        "additional_note": "副研究员"
+      }
+    ],
+    "social_affiliations": "暂无内容",
+    "research_focus": [
+      {
+        "field": "生物计算",
+        "link": "http://faculty.hust.edu.cn/xufei12/zh_CN/yjfx/2421550/content/6567.htm#yjfx"
+      }
+    ],
+    "team_members": "暂无内容",
+    "uncategorized": {
+      "welcome_text": "欢迎来到我的主页！",
+      "timestamp_info": "2026年3月24日，星期二",
+      "additional_images": [
+        "http://faculty.hust.edu.cn/xufei12/zh_CN/index.htm"
+      ]
+    }
+  }
+}

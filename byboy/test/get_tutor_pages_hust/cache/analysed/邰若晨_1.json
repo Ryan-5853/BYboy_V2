@@ -1,0 +1,355 @@
+{
+  "meta": {
+    "tutor_name_cn": "邰若晨",
+    "request_url": "http://faculty.hust.edu.cn/tairuochen/zh_CN/index.htm",
+    "declared_source_url": "http://faculty.hust.edu.cn/tairuochen/zh_CN/index.htm",
+    "page_host": "faculty.hust.edu.cn",
+    "markdown_cache_path": "D:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\f76cdf827e43f4a59c5541a8fc7e2979a4b2d909dae062fed4b574b06eab7472.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "target_name": "邰若晨",
+    "name": "邰若晨",
+    "profile_picture_url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/3A/rBAGRWfEDFeATSGGAAEtWEWLX_Y061.png?randomid=1773653170553",
+    "site_chrome": {
+      "source_url": "http://faculty.hust.edu.cn/tairuochen/zh_CN/index.htm",
+      "misc_image_urls": [
+        "http://faculty.hust.edu.cn/tairuochen/zh_CN/index.htm"
+      ],
+      "decorative_elements": [
+        {
+          "type": "image",
+          "url": "http://faculty.hust.edu.cn/_ts/qtmbzw1/images/ico-heart-i.png",
+          "context": "empty table cell"
+        }
+      ],
+      "related_navigation_links": [
+        {
+          "anchor_text": "同专业博导",
+          "url": "http://faculty.hust.edu.cn/tairuochen/zh_CN/tzybd/2613578/list/index.htm"
+        },
+        {
+          "anchor_text": "同专业硕导",
+          "url": "http://faculty.hust.edu.cn/tairuochen/zh_CN/tzysd/2613578/list/index.htm"
+        }
+      ]
+    },
+    "personal_information": {
+      "current_status": "在职",
+      "unit": "人工智能与自动化学院",
+      "highest_degree_status": "研究生(博士)毕业",
+      "graduated_institution": "新加坡南洋理工大学",
+      "discipline": "控制理论与控制工程"
+    },
+    "contact_information": {
+      "postal_code": "430074",
+      "email": "ruochen_tai@hust.edu.cn"
+    },
+    "personal_profile": {
+      "introduction_paragraph": "邰若晨，教授，博士生导师，国家级青年人才计划入选者。2016年获得南京理工大学学士学位，2019年获得上海交通大学硕士学位，2023年获得新加坡南洋理工大学博士学位，2023年至2024年期间在新加坡南洋理工大学从事博士后研究工作。从事智能机器人与群体智能系统、安全自主可信的无人系统的研究，主持国基金人才项目、国基金青年科学基金项目（C类）、湖北省重大科技项目课题，参与国家重大科研平台项目，近年来在IEEE Transactions on Automatic Control、Automatica、IEEE/ ASME Transactions on Mechatronics、IEEE Control Systems Letters、中国科学·技术科学、IEEE Conference on Decision and Control (CDC)、IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)等重要期刊和会议上发表近30篇学术论文，其中在控制领域顶刊IEEE Transactions on Automatic Control和Automatica发表第一作者论文7篇（常文3篇）；获机器人领域国际高水平会议IEEE International Conference on Robotics and Biomimetics (ROBIO)和 IEEE International Conference on Real-time Computing and Robotics (RCAR)最佳论文奖提名；获新加坡南洋理工大学2024年最佳博士论文奖；获New Generation Star Project@IROS 2025（机器人顶会）；担任机器人顶会2026 IEEE International Conference on Robotics & Automation (ICRA 2026)的Associate Editor、Robot Learning青年编委、18th International Conference on Control, Automation, Robotics and Vision (ICARCV 2024）的Track Co-Chair、2026 IEEE International Conference on Real-time Computing and Robotics (RCAR 2026)的Publicity Chair；（作为指导老师）获第七届中国研究生机器人创新设计大赛全国三等奖、第九届中国（国际）传感器创新创业大赛华中赛区三等奖。",
+      "titles": [
+        "教授",
+        "博士生导师",
+        "国家级青年人才计划入选者"
+      ],
+      "research_focus_summary": [
+        "智能机器人与群体智能系统",
+        "安全自主可信的无人系统"
+      ],
+      "projects_undertaken": [
+        "主持国基金人才项目",
+        "主持国基金青年科学基金项目（C类）",
+        "主持湖北省重大科技项目课题",
+        "参与国家重大科研平台项目"
+      ],
+      "publication_overview": {
+        "total_publications_approx": "近30篇",
+        "first_author_top_control_journals": {
+          "count": 7,
+          "journals": [
+            "IEEE Transactions on Automatic Control",
+            "Automatica"
+          ],
+          "regular_papers_count": 3
+        }
+      },
+      "awards_and_honors": [
+        "机器人领域国际高水平会议IEEE International Conference on Robotics and Biomimetics (ROBIO)最佳论文奖提名",
+        "机器人领域国际高水平会议IEEE International Conference on Real-time Computing and Robotics (RCAR)最佳论文奖提名",
+        "新加坡南洋理工大学2024年最佳博士论文奖",
+        "New Generation Star Project@IROS 2025（机器人顶会）"
+      ],
+      "student_mentorship_awards": [
+        {
+          "award": "第七届中国研究生机器人创新设计大赛全国三等奖",
+          "role": "指导老师"
+        },
+        {
+          "award": "第九届中国（国际）传感器创新创业大赛华中赛区三等奖",
+          "role": "指导老师"
+        }
+      ],
+      "academic_service_roles": [
+        {
+          "role": "Associate Editor",
+          "organization": "2026 IEEE International Conference on Robotics & Automation (ICRA 2026)"
+        },
+        {
+          "role": "青年编委",
+          "organization": "Robot Learning"
+        },
+        {
+          "role": "Track Co-Chair",
+          "organization": "18th International Conference on Control, Automation, Robotics and Vision (ICARCV 2024）"
+        },
+        {
+          "role": "Publicity Chair",
+          "organization": "2026 IEEE International Conference on Real-time Computing and Robotics (RCAR 2026)"
+        }
+      ]
+    },
+    "research_directions": [
+      {
+        "title": "智能机器人与群体智能系统",
+        "sub_topics": [
+          "多无人机—车集群协同与群体智能",
+          "大模型驱动的具身智能",
+          "多移动机械臂协作与智能控制",
+          "灵巧操作与技能学习",
+          "无人机自主感知与任务规划",
+          "软体机器人建模与智能控制"
+        ],
+        "link": {
+          "anchor_text": "智能机器人与群体智能系统",
+          "url": "http://faculty.hust.edu.cn/tairuochen/zh_CN/yjfx/2613578/content/7995.htm#yjfx"
+        }
+      },
+      {
+        "title": "安全自主可信的无人系统",
+        "sub_topics": [
+          "多机器人集群协作安全",
+          "无人系统中的 AI 安全",
+          "无人驾驶系统信息安全",
+          "安全攸关能源场景下无人系统的安全运行与人机协同",
+          "机器人化智能制造系统安全",
+          "无人机感知与驱动安全",
+          "人—机—环境交互安全"
+        ],
+        "link": {
+          "anchor_text": "安全自主可信的无人系统",
+          "url": "http://faculty.hust.edu.cn/tairuochen/zh_CN/yjfx/2613578/content/7996.htm#yjfx"
+        }
+      }
+    ],
+    "selected_publications": [
+      {
+        "id": 1,
+        "authors": "R. Tai, L. Lin, and R. Su",
+        "title": "Security Verification Against Covert Learning Attackers",
+        "journal_conference": "Automatica",
+        "volume": "177",
+        "pages": "pp. 112344",
+        "year": "2025"
+      },
+      {
+        "id": 2,
+        "authors": "R. Tai, L. Lin, Y. Zhu, and R. Su",
+        "title": "Synthesis of Distributed Covert Sensor-Actuator Attacks",
+        "journal_conference": "IEEE Transactions on Automatic Control",
+        "volume": "69",
+        "issue": "8",
+        "pages": "pp. 4942-4957",
+        "year": "2024"
+      },
+      {
+        "id": 3,
+        "authors": "R. Tai, L. Lin, and R. Su",
+        "title": "On Decidability of Existence of Fortified Supervisors Against Covert Actuator Attackers",
+        "journal_conference": "IEEE Transactions on Automatic Control",
+        "volume": "69",
+        "issue": "3",
+        "pages": "pp. 1898-1905",
+        "year": "2024"
+      },
+      {
+        "id": 4,
+        "authors": "R. Tai, L. Lin, Y. Zhu, and R. Su",
+        "title": "Synthesis of the Supremal Covert Attacker Against Unknown Supervisors by Using Observations",
+        "journal_conference": "IEEE Transactions on Automatic Control",
+        "volume": "68",
+        "issue": "6",
+        "pages": "pp. 3453-3468",
+        "year": "2023"
+      },
+      {
+        "id": 5,
+        "authors": "R. Tai, L. Lin, and R. Su",
+        "title": "Synthesis of Optimal Covert Sensor–Actuator Attackers for Discrete-Event Systems",
+        "journal_conference": "Automatica",
+        "volume": "151",
+        "pages": "pp. 110910",
+        "year": "2023"
+      },
+      {
+        "id": 6,
+        "authors": "R. Tai, L. Lin, Y. Zhu, and R. Su",
+        "title": "Privacy-Preserving Co-Synthesis Against Sensor–Actuator Eavesdropping Intruder",
+        "journal_conference": "Automatica",
+        "volume": "150",
+        "pages": "pp. 110860",
+        "year": "2023"
+      },
+      {
+        "id": 7,
+        "authors": "R. Tai, L. Lin, Y. Zhu, and R. Su",
+        "title": "A New Modeling Framework for Networked Discrete-Event Systems",
+        "journal_conference": "Automatica",
+        "volume": "138",
+        "pages": "pp. 110139",
+        "year": "2022"
+      },
+      {
+        "id": 8,
+        "authors": "R. Tai, L. Lin, and R. Su",
+        "title": "Identification of System Vulnerability under A Smart Sensor Attack via Attack Model Reduction",
+        "journal_conference": "IEEE Control Systems Letters",
+        "volume": "6",
+        "pages": "pp. 2948-2953",
+        "year": "2022"
+      },
+      {
+        "id": 9,
+        "authors": "R. Tai, L. Lin, R. Su, and S. S. Ge",
+        "title": "Privacy-Preserving Supervisory Control for Data Opacity Enforcement",
+        "journal_conference": "IEEE Transactions on Industrial Informatics",
+        "status": "accept",
+        "year": "2025"
+      },
+      {
+        "id": 10,
+        "authors": "R. Tai, L. Lin, and R. Su",
+        "title": "On Decidability of Existence of Resilient Supervisors Against Covert Sensor-Actuator Attacks",
+        "journal_conference": "2024 63rd IEEE Conference on Decision and Control (CDC)",
+        "status": "accept",
+        "year": "2024"
+      },
+      {
+        "id": 11,
+        "authors": "R. Tai, L. Lin, and R. Su",
+        "title": "Supervisor Fortification Against Covert Actuator Attacks",
+        "journal_conference": "2023 62nd IEEE Conference on Decision and Control (CDC)",
+        "pages": "pp. 7917-7922",
+        "year": "2023"
+      },
+      {
+        "id": 12,
+        "authors": "Y. Shen, C. Zhou, X. Hu, C. Cheng, X. He, R. Tai*",
+        "title": "Design of Privacy-Preserving Control Strategy for Data Opacity of Industrial Internet",
+        "journal_conference": "SCIENTIA SINICA Technologica (中国科学·技术科学)",
+        "volume": "52",
+        "issue": "1",
+        "pages": "pp. 138-151",
+        "year": "2022"
+      },
+      {
+        "id": 13,
+        "authors": "Y. Shen, R. Tai*, F. Hu, and Z. Liu",
+        "title": "Hierarchical Collision-Free Configuration Planning for a Soft Manipulator",
+        "journal_conference": "2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+        "status": "accept",
+        "year": "2025"
+      },
+      {
+        "id": 14,
+        "authors": "Y. Yao, Y. Shen, and R. Tai*",
+        "title": "Image Correction and Enhancement Algorithm for Precise Positioning of Underwater Soft Manipulator",
+        "journal_conference": "2025 IEEE International Conference on Real-time Computing and Robotics (RCAR)",
+        "status": "accept",
+        "year": "2025",
+        "notes": "最佳论文奖提名"
+      },
+      {
+        "id": 15,
+        "authors": "Y. Shen, R. Tai, J. Zhang, L. Deng, Y. Yuan, R. Su, F. Zhang, and H. Ding",
+        "title": "Planning and Motion Control for Underwater Bimanual Soft Manipulator in Underwater Grasping Task",
+        "journal_conference": "IEEE/ASME Transactions on Mechatronics",
+        "volume": "29",
+        "issue": "4",
+        "pages": "pp. 2487-2498",
+        "year": "2024"
+      },
+      {
+        "id": 16,
+        "authors": "Y. Shen, Y. Hong, W. Zhou, R. Tai, Y. Yuan and H. Ding",
+        "title": "Manipulability and Robustness Optimization of the Cable-Driven Redundant Soft Manipulator",
+        "journal_conference": "2021 IEEE International Conference on Robotics and Biomimetics (ROBIO)",
+        "pages": "pp. 864-869",
+        "year": "2021",
+        "notes": "最佳论文奖提名"
+      },
+      {
+        "id": 17,
+        "authors": "R. Tai, J. Wang, and W. Chen",
+        "title": "A Prioritized Planning Algorithm of Trajectory Coordination Based on Time Windows for Multiple AGVs with Delay Disturbance",
+        "journal_conference": "Robotic Intelligence and Automation",
+        "volume": "39",
+        "issue": "5",
+        "pages": "pp. 753-768",
+        "year": "2019"
+      }
+    ],
+    "education_experience": [
+      {
+        "period": "2019.8-2023.10",
+        "institution": "新加坡南洋理工大学",
+        "degree_type": "哲学博士学位",
+        "degree_status": "研究生(博士)毕业"
+      },
+      {
+        "period": "2016.9-2019.3",
+        "institution": "上海交通大学",
+        "degree_type": "工学硕士学位",
+        "degree_status": "研究生(硕士)毕业"
+      },
+      {
+        "period": "2012.9-2016.6",
+        "institution": "南京理工大学",
+        "degree_type": "工学学士学位",
+        "degree_status": "本科(学士)"
+      }
+    ],
+    "work_experience": [
+      {
+        "period": "2025.2至今",
+        "institution": "华中科技大学",
+        "department": "人工智能与自动化学院",
+        "position": "教师",
+        "status": "在职"
+      },
+      {
+        "period": "2023.12-2024.12",
+        "institution": "新加坡南洋理工大学",
+        "department": "电气与电子工程学院",
+        "position": "博士后研究员"
+      }
+    ],
+    "social_affiliations": "暂无内容",
+    "recruitment_information": {
+      "recruiting_roles": [
+        "硕士研究生",
+        "博士研究生",
+        "博士后"
+      ],
+      "target_student_qualities": [
+        "勤奋踏实",
+        "自驱力强",
+        "持之以恒"
+      ],
+      "contact_email": "ruochen_tai@hust.edu.cn",
+      "lab_resources": "课题组具有多种机器人平台及辅助测试设备（无人机、无人车、四足、机械臂、灵巧手、软体机器人、动捕系统、高精密力传感器等），并聘请了专职行政助理处理日常事务。"
+    }
+  }
+}

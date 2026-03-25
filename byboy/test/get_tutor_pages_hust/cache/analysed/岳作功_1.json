@@ -1,0 +1,133 @@
+{
+  "meta": {
+    "tutor_name_cn": "岳作功",
+    "request_url": "http://faculty.hust.edu.cn/yuezuogong/zh_CN/index.htm",
+    "declared_source_url": "http://faculty.hust.edu.cn/yuezuogong/zh_CN/index.htm",
+    "page_host": "faculty.hust.edu.cn",
+    "markdown_cache_path": "D:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\8faf66ca1f285d2ce03512ebc25f8832208910ff3441b650b6d8826e740faae7.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": "包含导师的职称、学院、联系方式、详细的研究方向、教育背景及工作经历，文字信息丰富。"
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "target_faculty": "岳作功",
+    "source_url": "http://faculty.hust.edu.cn/yuezuogong/zh_CN/index.htm",
+    "profile_summary": {
+      "name": "岳作功",
+      "photo_url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/23/rBAGRmNh2GuABI3cAAFm29q4u1w977.png?randomid=1770688151350",
+      "title": "讲师（高校）",
+      "employment_status": "在职",
+      "department": "人工智能与自动化学院",
+      "discipline": "控制理论与控制工程"
+    },
+    "contact_information": {
+      "postal_code": "430074",
+      "office_address": "南一楼中315",
+      "email": "z_yue@hust.edu.cn"
+    },
+    "personal_profile": {
+      "recruitment_announcement": "（ **** 2023年度招收硕士1名 ****）",
+      "biography": "岳作功，人工智能与自动化学院，讲师。主要从事网络推断、系统辨识、信号处理和机器学习等方面的研究工作，重点关注时序类数据分析的理论和算法，同时也参与交叉学科类的应用研究。",
+      "current_research_projects": [
+        {
+          "title": "网络重构/推断/辨识",
+          "description": "讨论如何利用动力学理论、系统辨识、机器学习来解决基于时序数据的网络重构/推断问题，为网络化的动力系统建模、分析和预测、分布式控制等提供了理论和基础。"
+        },
+        {
+          "title": "大尺度下的系统辨识",
+          "description": "主要是讨论 large-scale Bayesian analysis 对时序数据的分析和处理，也包括和网络推断密切相关的 sparse learning 在大尺度下的改进。"
+        },
+        {
+          "title": "时序数据的非监督学习",
+          "description": "目前主要关注 time-series clustering。"
+        },
+        {
+          "title": "交叉学科类的应用项目",
+          "description": "如柔性装配、医疗等方向。"
+        }
+      ]
+    },
+    "education_background": [
+      {
+        "period": "2007.9 - 2011.6",
+        "institution": "浙江大学",
+        "major": "机械电子工程",
+        "degree": "工学学士学位",
+        "qualification": "大学本科毕业"
+      },
+      {
+        "period": "2011.9 - 2013.10",
+        "institution": "香港科技大学",
+        "major": "机械工程",
+        "degree": "哲学硕士学位",
+        "qualification": "硕士研究生毕业"
+      },
+      {
+        "period": "2014.3 - 2018.3",
+        "institution": "卢森堡大学",
+        "major": "工学",
+        "degree": "工学博士学位",
+        "qualification": "博士研究生毕业",
+        "affiliation": "Luxembourg Centre for Systems Biomedicine (LCSB)"
+      }
+    ],
+    "work_experience": [
+      {
+        "period": "2018.3 - 2019.3",
+        "institution": "卢森堡系统生物医学中心",
+        "title": "Postdoctoral Research Associate"
+      },
+      {
+        "period": "2019.4 - 2021.3",
+        "institution": "新南威尔士大学",
+        "department": "电子工程与通信学院",
+        "title": "Postdoctoral Fellow"
+      }
+    ],
+    "research_focus": [
+      {
+        "title": "网络重构/推断/辨识",
+        "url": "http://faculty.hust.edu.cn/yuezuogong/zh_CN/yjfx/2371246/content/5827.htm#yjfx"
+      },
+      {
+        "title": "大尺度下的系统辨识",
+        "url": "http://faculty.hust.edu.cn/yuezuogong/zh_CN/yjfx/2371246/content/5828.htm#yjfx"
+      },
+      {
+        "title": "时序数据的非监督学习",
+        "url": "http://faculty.hust.edu.cn/yuezuogong/zh_CN/yjfx/2371246/content/5829.htm#yjfx"
+      },
+      {
+        "title": "交叉学科类的应用",
+        "url": "http://faculty.hust.edu.cn/yuezuogong/zh_CN/yjfx/2371246/content/5830.htm#yjfx"
+      }
+    ],
+    "social_affiliations": "暂无内容",
+    "site_chrome": {
+      "images": [
+        {
+          "url": "http://faculty.hust.edu.cn/yuezuogong/zh_CN/index.htm",
+          "description": "Background or header image placeholder"
+        },
+        {
+          "url": "http://faculty.hust.edu.cn/_ts/qtmbzw1/images/ico-heart-i.png",
+          "description": "Heart icon"
+        }
+      ],
+      "sidebar_navigation_titles": [
+        "个人信息Personal Information",
+        "其他联系方式Other Contact Information",
+        "个人简介Personal Profile",
+        "教育经历Education Background",
+        "工作经历Work Experience",
+        "研究方向Research Focus",
+        "社会兼职Social Affiliations"
+      ],
+      "table_structure": {
+        "has_empty_table_with_heart_icon": true
+      },
+      "crawl_source": "http://faculty.hust.edu.cn/yuezuogong/zh_CN/index.htm"
+    }
+  }
+}

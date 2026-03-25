@@ -1,0 +1,151 @@
+{
+  "meta": {
+    "tutor_name_cn": "赵天明",
+    "request_url": "http://faculty.hust.edu.cn/ZHAOTIANMING/zh_CN/index.htm",
+    "declared_source_url": "http://faculty.hust.edu.cn/ZHAOTIANMING/zh_CN/index.htm",
+    "page_host": "faculty.hust.edu.cn",
+    "markdown_cache_path": "D:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\3acc6368455612459018f5786815253f3d4d33e543019ce472ff9a753dc8a01b.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "query_target_name": "赵天明",
+    "source_url": "http://faculty.hust.edu.cn/ZHAOTIANMING/zh_CN/index.htm",
+    "site_chrome": {
+      "language_toggles": [
+        {
+          "anchor_text": "English",
+          "url": "http://faculty.hust.edu.cn/ZHAOTIANMING/en/index.htm"
+        }
+      ],
+      "ui_elements": [
+        {
+          "description": "Button image, possibly general purpose",
+          "url": "http://faculty.hust.edu.cn/_ts/gkzn/images/gbbtn.png"
+        },
+        {
+          "description": "Search icon image",
+          "url": "http://faculty.hust.edu.cn/_ts/gkzn/images/ss.png"
+        },
+        {
+          "description": "Banner image",
+          "url": "http://faculty.hust.edu.cn/_ts/gkzn/images/banner.png"
+        }
+      ],
+      "navigation_menu": [
+        {
+          "anchor_text": "首页",
+          "url": "http://faculty.hust.edu.cn/ZHAOTIANMING/zh_CN/index/2696808/list/index.htm"
+        },
+        {
+          "anchor_text": "科学研究",
+          "url": "http://faculty.hust.edu.cn/ZHAOTIANMING/zh_CN/zhym/2696809/list/index.htm",
+          "sub_items": [
+            {
+              "anchor_text": "研究领域",
+              "url": "http://faculty.hust.edu.cn/ZHAOTIANMING/zh_CN/yjgk/2696810/list/index.htm"
+            },
+            {
+              "anchor_text": "论文成果",
+              "url": "http://faculty.hust.edu.cn/ZHAOTIANMING/zh_CN/lwcg/2696811/list/index.htm"
+            },
+            {
+              "anchor_text": "专利",
+              "url": "http://faculty.hust.edu.cn/ZHAOTIANMING/zh_CN/zlcg/2696812/list/index.htm"
+            },
+            {
+              "anchor_text": "著作成果",
+              "url": "http://faculty.hust.edu.cn/ZHAOTIANMING/zh_CN/zzcg/2696813/list/index.htm"
+            },
+            {
+              "anchor_text": "科研项目",
+              "url": "http://faculty.hust.edu.cn/ZHAOTIANMING/zh_CN/kyxm/2696814/list/index.htm"
+            }
+          ]
+        },
+        {
+          "anchor_text": "教学研究",
+          "url": "http://faculty.hust.edu.cn/ZHAOTIANMING/zh_CN/zhym/2696815/list/index.htm",
+          "sub_items": [
+            {
+              "anchor_text": "教学资源",
+              "url": "http://faculty.hust.edu.cn/ZHAOTIANMING/zh_CN/jxzy/2696816/list/index.htm"
+            },
+            {
+              "anchor_text": "授课信息",
+              "url": "http://faculty.hust.edu.cn/ZHAOTIANMING/zh_CN/skxx/2696817/list/index.htm"
+            },
+            {
+              "anchor_text": "教学成果",
+              "url": "http://faculty.hust.edu.cn/ZHAOTIANMING/zh_CN/jxcg/2696818/list/index.htm"
+            }
+          ]
+        },
+        {
+          "anchor_text": "获奖信息",
+          "url": "http://faculty.hust.edu.cn/ZHAOTIANMING/zh_CN/hjxx/2696819/list/index.htm"
+        },
+        {
+          "anchor_text": "招生信息",
+          "url": "http://faculty.hust.edu.cn/ZHAOTIANMING/zh_CN/zsxx/2696820/list/index.htm"
+        },
+        {
+          "anchor_text": "学生信息",
+          "url": "http://faculty.hust.edu.cn/ZHAOTIANMING/zh_CN/xsxx/2696821/list/index.htm"
+        },
+        {
+          "anchor_text": "我的相册",
+          "url": "http://faculty.hust.edu.cn/ZHAOTIANMING/zh_CN/img/2696822/list/index.htm"
+        },
+        {
+          "anchor_text": "教师博客",
+          "url": "http://faculty.hust.edu.cn/ZHAOTIANMING/zh_CN/article/2696823/list/index.htm"
+        }
+      ]
+    },
+    "faculty_profile": {
+      "name": "赵天明",
+      "photo_url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/41/rBAGRWnAux-Ab7VsAAHJT3sKs4Q009.png?randomid=1774342600452",
+      "personal_info": {
+        "more_info_link": {
+          "anchor_text": "更多+",
+          "url": "http://faculty.hust.edu.cn/ZHAOTIANMING/zh_CN/jsxx/2696808/jsxx/jsxx.htm"
+        },
+        "gender": "男",
+        "employment_status": "在职",
+        "affiliated_unit": "多谱信息智能处理技术全国重点实验室",
+        "education_level": "研究生(博士)毕业",
+        "degree": "工学博士学位"
+      },
+      "contact_info": {
+        "other_contact_methods": "暂无内容"
+      },
+      "biography": "暂无内容",
+      "education_experience": [
+        {
+          "start_date": "2014.9",
+          "end_date": "2018.6",
+          "institution": "中国地质大学（武汉）",
+          "degree": "本科(学士)"
+        },
+        {
+          "start_date": "2018.9",
+          "end_date": "2023.12",
+          "institution": "华中科技大学",
+          "degree": "研究生(博士)毕业"
+        }
+      ],
+      "work_experience": "暂无内容",
+      "research_output": {
+        "papers": "暂无内容",
+        "patents": "暂无内容",
+        "monographs": "暂无内容"
+      },
+      "social_affiliations": "暂无内容",
+      "research_directions": "暂无内容",
+      "team_members": "暂无内容"
+    }
+  }
+}

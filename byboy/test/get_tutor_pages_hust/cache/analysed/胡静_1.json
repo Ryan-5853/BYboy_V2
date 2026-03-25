@@ -1,0 +1,265 @@
+{
+  "meta": {
+    "tutor_name_cn": "胡静",
+    "request_url": "https://aia.hust.edu.cn/info/1578/10047.htm",
+    "declared_source_url": "https://aia.hust.edu.cn/info/1578/10047.htm",
+    "page_host": "aia.hust.edu.cn",
+    "markdown_cache_path": "D:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\ccf3bbb28552fcd5a6e6233fb57b3089d4bd9583ed825c6165759ca334644f19.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": "包含导师的职称、联系方式、研究方向、详细的教育与工作经历、科研项目及代表性论著，信息丰富。"
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "target_tutor": {
+      "name": "胡静",
+      "relevance": "该页面为胡静副教授的个人主页"
+    },
+    "basic_info": {
+      "name": "胡静",
+      "title": "副教授",
+      "position": "硕士生导师",
+      "phone": "027-87541761",
+      "email": "by6040130@163.com",
+      "research_direction": "模图像处理与模式识别",
+      "profile_image": "https://aia.hust.edu.cn/__local/3/ED/61/05394A0E709D86230C6CDEE20B2_427BBD1F_162A7.jpg?e=.jpg",
+      "page_publish_time": "2025-06-29"
+    },
+    "personal_profile": {
+      "education_experience": [
+        {
+          "period": "2004.3-2010.6",
+          "location": "湖北武汉",
+          "institution": "华中科技大学",
+          "department": "图像识别与人工智能研究所",
+          "major": "模式识别与人工智能",
+          "degree": "博士",
+          "supervisor": "张天序"
+        },
+        {
+          "period": "1999.9-2002.6",
+          "location": "湖北武汉",
+          "institution": "华中科技大学",
+          "department": "图像识别与人工智能研究所",
+          "major": "模式识别与人工智能",
+          "degree": "硕士",
+          "supervisor": "汪国有"
+        },
+        {
+          "period": "1995.9-1999.6",
+          "location": "湖北武汉",
+          "institution": "华中理工大学",
+          "department": "电信系",
+          "major": "信息工程",
+          "degree": "学士"
+        }
+      ],
+      "work_experience": [
+        {
+          "period": "2019.1-至今",
+          "institution": "华中科技大学",
+          "college": "人工智能与自动化学院",
+          "title": "副教授",
+          "supervisory_role": "硕士生导师"
+        },
+        {
+          "period": "2013.3-2019.1",
+          "institution": "华中科技大学",
+          "college": "自动化学院",
+          "title": "副教授",
+          "supervisory_role": "硕士生导师"
+        },
+        {
+          "period": "2011.10-2013.3",
+          "institution": "华中科技大学",
+          "department": "图像识别与人工智能研究所",
+          "title": "副教授",
+          "supervisory_role": "硕士生导师"
+        },
+        {
+          "period": "2005.1-2011.10",
+          "institution": "华中科技大学",
+          "department": "图像识别与人工智能研究所",
+          "title": "讲师",
+          "supervisory_role": "硕士生导师"
+        },
+        {
+          "period": "1999.7-2005.1",
+          "institution": "华中科技大学",
+          "department": "图像识别与人工智能研究所",
+          "title": "助教",
+          "supervisory_role": "硕士生导师"
+        }
+      ]
+    },
+    "research_projects": [
+      {
+        "project_name": "“十三五”共用技术项目“复杂背景中红外弱小目标特征提取技术”",
+        "period": "2019.05-2020.12",
+        "funding": "200万元",
+        "status": "在研",
+        "role": "主持"
+      }
+    ],
+    "publications": [
+      {
+        "index": 1,
+        "authors": "Jing Hu, Zhenzhen Xu, Qinqin Wan",
+        "title": "Non-uniformity correction of infrared focal plane array in point targetsurveillance systems",
+        "journal": "Infrared Physics & Technology",
+        "details": "66 (2014) 56–69"
+      },
+      {
+        "index": 2,
+        "authors": "Jing Hu, Yu Yi, Liu fan",
+        "title": "Small and dim target detection by background estimation",
+        "journal": "Infrared Physics & Technology",
+        "details": "Volume 73, November 2015, Pages 141–148",
+        "link": "http://www.sciencedirect.com/science/journal/13504495/73/supp/C"
+      },
+      {
+        "index": 3,
+        "authors": "Hu Jing, LI BinZhe, Li Jun",
+        "title": "Initial orbit determination utilizing solution group optimization",
+        "journal": "IEEE Transactions on Aerospace and Electronic Systems",
+        "details": "April, 2020, 56(2), 897-911"
+      }
+    ],
+    "page_navigation_metadata": {
+      "breadcrumbs": [
+        {
+          "text": "首页",
+          "url": "https://aia.hust.edu.cn/index.htm"
+        },
+        {
+          "text": "师资队伍",
+          "url": "https://aia.hust.edu.cn/szdw/xysz/axmpyszmlb.htm"
+        },
+        {
+          "text": "学院师资",
+          "url": "https://aia.hust.edu.cn/szdw/xysz/axmpyszmlb.htm"
+        },
+        {
+          "text": "按姓名拼音首字母列表",
+          "url": "https://aia.hust.edu.cn/szdw/xysz/axmpyszmlb.htm"
+        },
+        {
+          "text": "H",
+          "url": "https://aia.hust.edu.cn/szdw/xysz/axmpyszmlb/H.htm"
+        },
+        {
+          "text": "正文"
+        }
+      ],
+      "prev_page": {
+        "name": "洪流",
+        "url": "https://aia.hust.edu.cn/info/1578/10049.htm"
+      },
+      "next_page": {
+        "name": "胡若澜",
+        "url": "https://aia.hust.edu.cn/info/1578/10046.htm"
+      }
+    },
+    "site_chrome": {
+      "organization": "华中科技大学人工智能与自动化学院",
+      "logo_url": "https://aia.hust.edu.cn/images/logo20251211.png",
+      "banner_url": "https://aia.hust.edu.cn/images/banner20250619.png",
+      "official_qr_code_label": "官方公众号二维码",
+      "quick_access": [
+        {
+          "text": "快速访问通道",
+          "url": "https://aia.hust.edu.cn/info/1578/10047.htm#"
+        },
+        {
+          "text": "English Version",
+          "url": "https://en-aia.hust.edu.cn/"
+        }
+      ],
+      "main_menu": [
+        {
+          "text": "首页",
+          "url": "https://aia.hust.edu.cn/index.htm"
+        },
+        {
+          "text": "院系概况",
+          "sub_items": [
+            "学院简介",
+            "组织机构",
+            "现任领导"
+          ]
+        },
+        {
+          "text": "师资队伍",
+          "sub_items": [
+            "杰出学者",
+            "学院师资",
+            "实验工程人员",
+            "博士后",
+            "荣休教师"
+          ]
+        },
+        {
+          "text": "学生培养",
+          "sub_items": [
+            "本科生教育",
+            "研究生教育",
+            "学生工作"
+          ]
+        },
+        {
+          "text": "科学研究",
+          "sub_items": [
+            "喻园.AIA学术论坛",
+            "学术会议",
+            "挂靠学会",
+            "服务指南",
+            "平台建设"
+          ]
+        },
+        {
+          "text": "党群工作",
+          "sub_items": [
+            "党旗领航",
+            "廉政教育",
+            "党史学习教育",
+            "离退休"
+          ]
+        },
+        {
+          "text": "国际交流",
+          "sub_items": [
+            "外事流程",
+            "教师交流",
+            "学生交换",
+            "经验分享"
+          ]
+        },
+        {
+          "text": "人才招聘",
+          "url": "https://aia.hust.edu.cn/rczp.htm"
+        },
+        {
+          "text": "校友专栏",
+          "sub_items": [
+            "校友动态",
+            "校友名录",
+            "校友照片",
+            "校友风采",
+            "校友服务",
+            "50周年院庆",
+            "我要捐赠"
+          ]
+        },
+        {
+          "text": "培训服务",
+          "url": "http://aitc.hust.edu.cn/"
+        },
+        {
+          "text": "院长信箱",
+          "url": "https://aia.hust.edu.cn/yzxx.htm"
+        }
+      ],
+      "copyright": "版权所有：华中科技大学人工智能与自动化学院"
+    }
+  }
+}

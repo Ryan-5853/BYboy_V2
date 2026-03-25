@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "tutor_name_cn": "盛银",
+    "request_url": "http://faculty.hust.edu.cn/ShengYin/zh_CN/index.htm",
+    "declared_source_url": "http://faculty.hust.edu.cn/ShengYin/zh_CN/index.htm",
+    "page_host": "faculty.hust.edu.cn",
+    "markdown_cache_path": "D:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\8d84c72558977e4bcd1444bd706ae8d780b6af2ee4f4ea01b953e2de68a3784c.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": "包含完整的个人简介、研究方向、教育工作经历及获奖情况等丰富文本信息。"
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "target_person": "盛银",
+    "source_url": "http://faculty.hust.edu.cn/ShengYin/zh_CN/index.htm",
+    "basic_info": {
+      "name": "盛银",
+      "titles": [
+        "副教授",
+        "博士生导师",
+        "硕士生导师"
+      ],
+      "gender": "男",
+      "employment_status": "在职",
+      "department": "人工智能与自动化学院",
+      "education_level": "研究生(博士)毕业",
+      "degree": "理学博士学位",
+      "graduated_from": "华中科技大学",
+      "major": "控制理论与控制工程"
+    },
+    "contact_info": {
+      "postal_code": "430074",
+      "office_address": "华中科技大学人工智能与自动化学院",
+      "email": "shengyin2020@hust.edu.cn"
+    },
+    "personal_profile": {
+      "text": "盛银，男，华中科技大学人工智能与自动化学院副教授、博士生导师、硕士生导师。2018年毕业于华中科技大学人工智能与自动化学院，获博士学位，导师是曾志刚教授(院长、国家杰青、长江特聘教授、IEEE Fellow)；2018年7月至2020年10月在华中科技大学从事博士后研究，合作导师是缪向水教授(长江特聘教授)；2018年12月至2019年11月赴美国德州农工大学卡塔尔分校进行访问研究，合作导师是黄廷文教授(IEEE Fellow、欧洲科学与艺术院院士、国际系统与控制科学院院士)；2020年11月入职华中科技大学人工智能与自动化学院。",
+      "research_summary": "研究方向包括自主无人系统、强化学习、智能控制等。发表SCI期刊论文40余篇，其中IEEE汇刊论文20余篇。2017年获博士研究生国家奖学金，2018年入选国家博士后创新人才支持计划，获中国博士后科学基金第64批面面上等资助，2019年获国家自然科学基金青年项目资助，获中国人工智能学会优秀博士学位论文提名奖，2022年获国家自然科学基金面上项目资助，获亚太神经网络学会青年学者奖(APNNS Young Researcher Award)，2023年入选湖北省楚天学者计划。担任IEEE Transactions on Systems, Man, and Cybernetics: Systems(一区)、Neural Networks(一区)、Cognitive Computation等期刊编委(Associate Editor)。参与科技创新2030重大项目、国家自然科学基金集成项目、国家自然科学基金重点项目等。",
+      "recruitment_message": "欢迎谦虚诚恳、思想上进、勤奋踏实的学生报考博士硕士研究生！(Email: shengyin2020@hust.edu.cn)"
+    },
+    "education_background": [
+      {
+        "period": "2015.9-2018.6",
+        "institution": "华中科技大学",
+        "major": "系统分析与集成",
+        "degree": "理学博士学位",
+        "status": "研究生(博士)毕业"
+      }
+    ],
+    "work_experience": [
+      {
+        "period": "2020.11至今",
+        "institution": "华中科技大学",
+        "title": "副教授"
+      },
+      {
+        "period": "2018.12-2019.11",
+        "institution": "美国德克萨斯A&M大学卡塔尔分校",
+        "title": "访问学者"
+      },
+      {
+        "period": "2018.7-2020.10",
+        "institution": "华中科技大学",
+        "title": "博士后"
+      }
+    ],
+    "research_achievements": {
+      "publications": "发表SCI期刊论文40余篇，其中IEEE汇刊论文20余篇",
+      "editorial_roles": [
+        {
+          "journal": "IEEE Transactions on Systems, Man, and Cybernetics: Systems",
+          "rank": "一区",
+          "role": "编委(Associate Editor)"
+        },
+        {
+          "journal": "Neural Networks",
+          "rank": "一区",
+          "role": "编委(Associate Editor)"
+        },
+        {
+          "journal": "Cognitive Computation",
+          "role": "编委(Associate Editor)"
+        }
+      ],
+      "projects": [
+        "科技创新2030重大项目",
+        "国家自然科学基金集成项目",
+        "国家自然科学基金重点项目",
+        "国家自然科学基金青年项目(2019获资助)",
+        "国家自然科学基金面上项目(2022获资助)",
+        "中国博士后科学基金第64批面上一等资助"
+      ],
+      "honors_and_awards": [
+        "2017年博士研究生国家奖学金",
+        "2018年入选国家博士后创新人才支持计划",
+        "中国人工智能学会优秀博士学位论文提名奖",
+        "2022年亚太神经网络学会青年学者奖(APNNS Young Researcher Award)",
+        "2023年入选湖北省楚天学者计划"
+      ]
+    },
+    "research_focus": {
+      "description": "自主无人系统、强化学习、智能控制等",
+      "raw_section": "暂无内容"
+    },
+    "social_affiliations": {
+      "raw_section": "暂无内容"
+    },
+    "research_group": {
+      "team_name": "曾志刚教授研究团队"
+    },
+    "related_links": [
+      {
+        "anchor_text": "曾志刚",
+        "url": "http://aia.hust.edu.cn/info/1119/3807.htm"
+      },
+      {
+        "anchor_text": "缪向水",
+        "url": "http://ic.hust.edu.cn/info/1146/1238.htm"
+      },
+      {
+        "anchor_text": "黄廷文",
+        "url": "https://people.qatar.tamu.edu/tingwen.huang/"
+      },
+      {
+        "anchor_text": "同专业博导",
+        "url": "http://faculty.hust.edu.cn/ShengYin/zh_CN/tzybd/2348898/list/index.htm"
+      },
+      {
+        "anchor_text": "同专业硕导",
+        "url": "http://faculty.hust.edu.cn/ShengYin/zh_CN/tzysd/2348898/list/index.htm"
+      }
+    ],
+    "site_chrome": {
+      "images": [
+        "http://faculty.hust.edu.cn/ShengYin/zh_CN/index.htm",
+        "http://faculty.hust.edu.cn/_resources/group1/M00/00/3F/rBAGRWjSMIuATEceAAFxOGpzu3Q926.png?randomid=1770658890185",
+        "http://faculty.hust.edu.cn/_ts/qtmbzw1/images/ico-heart-i.png"
+      ]
+    }
+  }
+}

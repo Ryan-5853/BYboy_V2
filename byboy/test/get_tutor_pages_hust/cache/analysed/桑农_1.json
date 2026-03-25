@@ -1,0 +1,183 @@
+{
+  "meta": {
+    "tutor_name_cn": "桑农",
+    "request_url": "http://faculty.hust.edu.cn/sangnong/zh_CN/index.htm",
+    "declared_source_url": "http://faculty.hust.edu.cn/sangnong/zh_CN/index.htm",
+    "page_host": "faculty.hust.edu.cn",
+    "markdown_cache_path": "D:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\372fe7c1fc54e961787c65e41a338ed109fc185261a95154f5164d0210cc3155.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "source_url": "http://faculty.hust.edu.cn/sangnong/zh_CN/index.htm",
+    "target_name": "桑农",
+    "personal_info": {
+      "name": "桑农",
+      "titles": [
+        "教授",
+        "博士生导师",
+        "硕士生导师"
+      ],
+      "gender": "男",
+      "employment_status": "在职",
+      "current_unit": "多谱信息智能处理技术全国重点实验室",
+      "education_level": "研究生(博士)毕业",
+      "degree": "工学博士学位",
+      "graduating_university": "华中科技大学",
+      "discipline": "模式识别与智能系统",
+      "related_faculty_links": [
+        {
+          "anchor_text": "同专业博导",
+          "url": "http://faculty.hust.edu.cn/sangnong/zh_CN/tzybd/1877456/list/index.htm"
+        },
+        {
+          "anchor_text": "同专业硕导",
+          "url": "http://faculty.hust.edu.cn/sangnong/zh_CN/tzysd/1877456/list/index.htm"
+        }
+      ]
+    },
+    "contact_info": {
+      "zip_code": "430074",
+      "address": "湖北武汉华中科技大学人工智能与自动化学院",
+      "office_phone": "027-87558915",
+      "email": "nsang@hust.edu.cn"
+    },
+    "biography": "暂无内容",
+    "education_experience": [
+      {
+        "period": "1996.9 ~ 2000.12",
+        "institution": "华中科技大学",
+        "degree": "工学博士学位",
+        "education_level": "研究生(博士)毕业"
+      },
+      {
+        "period": "1990.9 ~ 1993.5",
+        "institution": "华中理工大学",
+        "degree": "工学硕士学位",
+        "education_level": "研究生(硕士)毕业"
+      },
+      {
+        "period": "1986.9 ~ 1990.7",
+        "institution": "华中理工大学",
+        "degree": "工学学士学位",
+        "education_level": "本科(学士)"
+      }
+    ],
+    "work_experience": "暂无内容",
+    "social_affiliations": "暂无内容",
+    "research_directions": [
+      {
+        "anchor_text": "研究方向",
+        "url": "http://faculty.hust.edu.cn/sangnong/zh_CN/yjfx/1877456/content/8497.htm#yjfx"
+      }
+    ],
+    "research_group": "暂无内容",
+    "awards_and_honors": [
+      {
+        "year": "2016",
+        "description": "湖北省科协“科技创新源泉工程”创新创业人才"
+      }
+    ],
+    "site_chrome": {
+      "language_switch": {
+        "anchor_text": "English",
+        "url": "http://faculty.hust.edu.cn/sangnong/en/index.htm"
+      },
+      "university_link": {
+        "anchor_text": "华中科技大学",
+        "url": "http://www.hust.edu.cn/"
+      },
+      "hust_faculty_portal_logo": {
+        "url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/10/rBAGRV8CDr-AeFVmAAA7EN17sME589.png",
+        "link_to": "http://faculty.hust.edu.cn/"
+      },
+      "main_navigation": [
+        {
+          "anchor_text": "首页",
+          "url": "http://faculty.hust.edu.cn/sangnong/zh_CN/index/1877456/list/index.htm"
+        },
+        {
+          "anchor_text": "科学研究",
+          "url": "http://faculty.hust.edu.cn/sangnong/zh_CN/zhym/1877458/list/index.htm",
+          "sub_items": [
+            {
+              "anchor_text": "研究领域",
+              "url": "http://faculty.hust.edu.cn/sangnong/zh_CN/yjgk/1877460/list/index.htm"
+            },
+            {
+              "anchor_text": "论文成果",
+              "url": "http://faculty.hust.edu.cn/sangnong/zh_CN/lwcg/1877462/list/index.htm"
+            },
+            {
+              "anchor_text": "专利",
+              "url": "http://faculty.hust.edu.cn/sangnong/zh_CN/zlcg/1877464/list/index.htm"
+            },
+            {
+              "anchor_text": "著作成果",
+              "url": "http://faculty.hust.edu.cn/sangnong/zh_CN/zzcg/1877466/list/index.htm"
+            },
+            {
+              "anchor_text": "科研项目",
+              "url": "http://faculty.hust.edu.cn/sangnong/zh_CN/kyxm/1877468/list/index.htm"
+            }
+          ]
+        },
+        {
+          "anchor_text": "教学研究",
+          "url": "http://faculty.hust.edu.cn/sangnong/zh_CN/zhym/1877470/list/index.htm",
+          "sub_items": [
+            {
+              "anchor_text": "教学资源",
+              "url": "http://faculty.hust.edu.cn/sangnong/zh_CN/jxzy/1877472/list/index.htm"
+            },
+            {
+              "anchor_text": "授课信息",
+              "url": "http://faculty.hust.edu.cn/sangnong/zh_CN/skxx/1877474/list/index.htm"
+            },
+            {
+              "anchor_text": "教学成果",
+              "url": "http://faculty.hust.edu.cn/sangnong/zh_CN/jxcg/1877475/list/index.htm"
+            }
+          ]
+        },
+        {
+          "anchor_text": "获奖信息",
+          "url": "http://faculty.hust.edu.cn/sangnong/zh_CN/hjxx/1877476/list/index.htm"
+        },
+        {
+          "anchor_text": "招生信息",
+          "url": "http://faculty.hust.edu.cn/sangnong/zh_CN/zsxx/1877477/list/index.htm"
+        },
+        {
+          "anchor_text": "学生信息",
+          "url": "http://faculty.hust.edu.cn/sangnong/zh_CN/xsxx/1877478/list/index.htm"
+        },
+        {
+          "anchor_text": "我的相册",
+          "url": "http://faculty.hust.edu.cn/sangnong/zh_CN/img/1877479/list/index.htm"
+        },
+        {
+          "anchor_text": "教师博客",
+          "url": "http://faculty.hust.edu.cn/sangnong/zh_CN/article/1877480/list/index.htm"
+        }
+      ],
+      "more_link": {
+        "anchor_text": "更多",
+        "url": "http://faculty.hust.edu.cn/sangnong/zh_CN/index.htm#"
+      },
+      "footer_message": "2026年3月24日，星期二\n欢迎来到我的主页！"
+    },
+    "images": [
+      {
+        "url": "http://faculty.hust.edu.cn/sangnong/zh_CN/index.htm",
+        "alt_text": "Image source is the page URL itself, likely a broken or placeholder image."
+      },
+      {
+        "url": "http://faculty.hust.edu.cn/system/resource/tsites/images/defaultteacherimg.png?randomid=1770688664799",
+        "alt_text": "Default teacher image"
+      }
+    ]
+  }
+}

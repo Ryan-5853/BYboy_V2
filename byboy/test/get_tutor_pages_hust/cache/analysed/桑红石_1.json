@@ -1,0 +1,210 @@
+{
+  "meta": {
+    "tutor_name_cn": "桑红石",
+    "request_url": "http://faculty.hust.edu.cn/sanghongshi/zh_CN/index.htm",
+    "declared_source_url": "http://faculty.hust.edu.cn/sanghongshi/zh_CN/index.htm",
+    "page_host": "faculty.hust.edu.cn",
+    "markdown_cache_path": "D:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\834d70b7b48252aa42004188c2bbb5a6b31971d56fb6827c38d240afc7706f9b.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "source_url": "http://faculty.hust.edu.cn/sanghongshi/zh_CN/index.htm",
+    "professor_name": "桑红石",
+    "site_chrome": {
+      "header_images": [
+        {
+          "description": "likely page header/banner",
+          "url": "http://faculty.hust.edu.cn/sanghongshi/zh_CN/index.htm"
+        }
+      ],
+      "language_options": [
+        {
+          "text": "English",
+          "url": "http://faculty.hust.edu.cn/sanghongshi/en/index.htm"
+        }
+      ],
+      "university_links": [
+        {
+          "text": "华中科技大学",
+          "url": "http://www.hust.edu.cn/",
+          "title": "华中科技大学"
+        },
+        {
+          "text": "",
+          "url": "http://faculty.hust.edu.cn/",
+          "image_url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/10/rBAGRV8CDr-AeFVmAAA7EN17sME589.png",
+          "description": "HUST logo"
+        }
+      ],
+      "main_navigation": [
+        {
+          "text": "更多",
+          "url": "http://faculty.hust.edu.cn/sanghongshi/zh_CN/index.htm#"
+        },
+        {
+          "text": "首页",
+          "url": "http://faculty.hust.edu.cn/sanghongshi/zh_CN/index/1528079/list/index.htm"
+        },
+        {
+          "text": "科学研究",
+          "url": "http://faculty.hust.edu.cn/sanghongshi/zh_CN/zhym/1528081/list/index.htm",
+          "sub_items": [
+            {
+              "text": "研究领域",
+              "url": "http://faculty.hust.edu.cn/sanghongshi/zh_CN/yjgk/1528083/list/index.htm"
+            },
+            {
+              "text": "论文成果",
+              "url": "http://faculty.hust.edu.cn/sanghongshi/zh_CN/lwcg/1528085/list/index.htm"
+            },
+            {
+              "text": "专利",
+              "url": "http://faculty.hust.edu.cn/sanghongshi/zh_CN/zlcg/1528087/list/index.htm"
+            },
+            {
+              "text": "著作成果",
+              "url": "http://faculty.hust.edu.cn/sanghongshi/zh_CN/zzcg/1528090/list/index.htm"
+            },
+            {
+              "text": "科研项目",
+              "url": "http://faculty.hust.edu.cn/sanghongshi/zh_CN/kyxm/1528092/list/index.htm"
+            }
+          ]
+        },
+        {
+          "text": "教学研究",
+          "url": "http://faculty.hust.edu.cn/sanghongshi/zh_CN/zhym/1528094/list/index.htm",
+          "sub_items": [
+            {
+              "text": "教学资源",
+              "url": "http://faculty.hust.edu.cn/sanghongshi/zh_CN/jxzy/1528096/list/index.htm"
+            },
+            {
+              "text": "授课信息",
+              "url": "http://faculty.hust.edu.cn/sanghongshi/zh_CN/skxx/1528098/list/index.htm"
+            },
+            {
+              "text": "教学成果",
+              "url": "http://faculty.hust.edu.cn/sanghongshi/zh_CN/jxcg/1528099/list/index.htm"
+            }
+          ]
+        },
+        {
+          "text": "获奖信息",
+          "url": "http://faculty.hust.edu.cn/sanghongshi/zh_CN/hjxx/1528100/list/index.htm"
+        },
+        {
+          "text": "招生信息",
+          "url": "http://faculty.hust.edu.cn/sanghongshi/zh_CN/zsxx/1528101/list/index.htm"
+        },
+        {
+          "text": "学生信息",
+          "url": "http://faculty.hust.edu.cn/sanghongshi/zh_CN/xsxx/1528102/list/index.htm"
+        },
+        {
+          "text": "我的相册",
+          "url": "http://faculty.hust.edu.cn/sanghongshi/zh_CN/img/1528103/list/index.htm"
+        },
+        {
+          "text": "教师博客",
+          "url": "http://faculty.hust.edu.cn/sanghongshi/zh_CN/article/1528104/list/index.htm"
+        }
+      ]
+    },
+    "profile_image": {
+      "url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/23/rBAGRWN1djKAfyXKAAJpwBql_CE640.png?randomid=1770654314275",
+      "description": "Professor's profile picture"
+    },
+    "related_links": [
+      {
+        "text": "同专业博导",
+        "url": "http://faculty.hust.edu.cn/sanghongshi/zh_CN/tzybd/1528079/list/index.htm"
+      },
+      {
+        "text": "同专业硕导",
+        "url": "http://faculty.hust.edu.cn/sanghongshi/zh_CN/tzysd/1528079/list/index.htm"
+      }
+    ],
+    "personal_information": {
+      "title": "教授",
+      "supervision_roles": [
+        "博士生导师",
+        "硕士生导师"
+      ],
+      "employment_status": "在职",
+      "affiliation": "多谱信息智能处理技术全国重点实验室",
+      "education_level": "研究生(博士)毕业",
+      "degree": "工学博士学位",
+      "graduated_university": "华中科技大学",
+      "disciplines": [
+        "计算机系统结构",
+        "模式识别与智能系统",
+        "导航、制导与控制",
+        "微电子学与固体电子学"
+      ],
+      "honors_awards": [
+        "2007 教育部科技进步一等奖",
+        "2018 教育部科技进步一等奖",
+        "2024 十九届挑战杯“揭榜挂帅”一等奖",
+        "2018 校课堂教学优质奖",
+        "2019 湖北省优秀教学团队",
+        "2021 校优秀班主任"
+      ]
+    },
+    "contact_information": {
+      "postal_code": "430074",
+      "office_phone": "027-87543081",
+      "email": "sanghs@hust.edu.cn"
+    },
+    "personal_profile": {
+      "description": "关注图像和激光点云算法、算法实时落地技术、数字集成电路设计技术。关心学生成长，因材施教，为学生提供良好的学习环境。欢迎具有强烈学习意愿和学习能力的学生前来深造。",
+      "more_link": {
+        "text": "More+",
+        "url": "http://faculty.hust.edu.cn/sanghongshi/zh_CN/more/1528079/jsjjgd/index.htm"
+      }
+    },
+    "education_experience": {
+      "status": "暂无内容"
+    },
+    "work_experience": [
+      {
+        "period": "2005.2-至今",
+        "organization": "华中科技大学",
+        "department": "图像识别与人工智能研究所",
+        "role": "在职教师，副教授，教授",
+        "description": "图像识别与人工智能算法和实时实现方法"
+      }
+    ],
+    "social_affiliations": {
+      "status": "暂无内容"
+    },
+    "research_focus": [
+      {
+        "text": "专用数字集成电路设计",
+        "url": "http://faculty.hust.edu.cn/sanghongshi/zh_CN/yjfx/1528079/content/8378.htm#yjfx"
+      },
+      {
+        "text": "单光子激光雷达实时成像技术",
+        "url": "http://faculty.hust.edu.cn/sanghongshi/zh_CN/yjfx/1528079/content/8380.htm#yjfx"
+      },
+      {
+        "text": "图像与激光雷达多源融合智能目标检测识别方法",
+        "url": "http://faculty.hust.edu.cn/sanghongshi/zh_CN/yjfx/1528079/content/8377.htm#yjfx"
+      },
+      {
+        "text": "嵌入式系统智能信息实时处理技术",
+        "url": "http://faculty.hust.edu.cn/sanghongshi/zh_CN/yjfx/1528079/content/8379.htm#yjfx"
+      }
+    ],
+    "research_group": {
+      "status": "暂无内容"
+    },
+    "uncategorized_info": {
+      "page_timestamp": "2026年3月24日，星期二",
+      "welcome_message": "欢迎来到我的主页！"
+    }
+  }
+}

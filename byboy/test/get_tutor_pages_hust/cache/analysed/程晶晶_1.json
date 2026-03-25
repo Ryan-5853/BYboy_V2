@@ -1,0 +1,152 @@
+{
+  "meta": {
+    "tutor_name_cn": "程晶晶",
+    "request_url": "http://faculty.hust.edu.cn/~bI3UNv/zh_CN/index.htm",
+    "declared_source_url": "http://faculty.hust.edu.cn/~bI3UNv/zh_CN/index.htm",
+    "page_host": "faculty.hust.edu.cn",
+    "markdown_cache_path": "D:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\f0b949d132fc88ef639431c3b1d336af7394989fd4b49ee9a463c231ce6417fc.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": "包含详细的个人身份、教育经历、工作经历及研究方向，文字信息丰富且结构清晰。"
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "target_scholar": "程晶晶",
+    "source_url": "http://faculty.hust.edu.cn/~bI3UNv/zh_CN/index.htm",
+    "navigation": [
+      {
+        "text": "English Version",
+        "url": "http://faculty.hust.edu.cn/chengjingjing1/en/index.htm"
+      },
+      {
+        "text": "华中科技大学官网",
+        "url": "http://www.hust.edu.cn/"
+      },
+      {
+        "text": "首页",
+        "url": "http://faculty.hust.edu.cn/chengjingjing1/zh_CN/index/1735993/list/index.htm"
+      },
+      {
+        "text": "科学研究",
+        "url": "http://faculty.hust.edu.cn/chengjingjing1/zh_CN/zhym/1735994/list/index.htm"
+      },
+      {
+        "text": "研究领域",
+        "url": "http://faculty.hust.edu.cn/chengjingjing1/zh_CN/yjgk/1735995/list/index.htm"
+      },
+      {
+        "text": "教学研究",
+        "url": "http://faculty.hust.edu.cn/chengjingjing1/zh_CN/zhym/1736000/list/index.htm"
+      },
+      {
+        "text": "授课信息",
+        "url": "http://faculty.hust.edu.cn/chengjingjing1/zh_CN/skxx/1736002/list/index.htm"
+      }
+    ],
+    "basic_information": {
+      "name": "程晶晶",
+      "identification_code": "105",
+      "titles": [
+        "副研究员",
+        "硕士生导师"
+      ],
+      "employment_status": "在职",
+      "department": "人工智能与自动化学院",
+      "education_level": "研究生(博士)毕业",
+      "degree": "工学博士学位",
+      "alma_mater": "华中科技大学",
+      "major": "检测技术与自动化装置",
+      "tags": [
+        {
+          "text": "同专业硕导",
+          "url": "http://faculty.hust.edu.cn/chengjingjing1/zh_CN/tzysd/1735993/list/index.htm"
+        }
+      ],
+      "profile_images": [
+        "http://faculty.hust.edu.cn/_resources/group1/M00/00/1A/rBAGRWDawQ6AavTGAAJcyqWGNmQ087.png?randomid=1769833198420"
+      ]
+    },
+    "contact_information": {
+      "other_contact": "暂无内容"
+    },
+    "personal_profile": {
+      "text": "程晶晶，博士，副研究员。在华中理工大学自动控制工程系获学士学位，在华中科技大学控制科学与工程系获硕士学位，在华中科技大学控制科学与工程系获博士学位，在日本神户大学系统信息学科开展了博士后研究工作（JSPS Fellow），现为华中科技大学人工智能与自动化学院副研究员。主要从事计算光学成像和高温微系统技术方面的研究。主持湖北省自然科学基金和教育部博士点青年教师基金各一项,主持和参与十余项中海油田服务股份有限...",
+      "full_profile_link": "http://faculty.hust.edu.cn/chengjingjing1/zh_CN/more/1735993/jsjjgd/index.htm"
+    },
+    "education_experience": [
+      {
+        "period": "2002.9 ~ 2011.12",
+        "institution": "华中科技大学",
+        "major": "检测技术与自动化装置",
+        "degree": "工学博士学位",
+        "status": "研究生(博士)毕业"
+      },
+      {
+        "period": "1999.9 ~ 2002.6",
+        "institution": "华中科技大学",
+        "major": null,
+        "degree": "工学硕士学位",
+        "status": "研究生(硕士)毕业"
+      },
+      {
+        "period": "1995.9 ~ 1999.6",
+        "institution": "华中理工大学",
+        "major": null,
+        "degree": "工学学士学位",
+        "status": "本科(学士)"
+      }
+    ],
+    "work_experience": [
+      {
+        "period": "2020.12-至今",
+        "institution": "华中科技大学",
+        "department": "人工智能与自动化学院",
+        "position": "副研究员"
+      },
+      {
+        "period": "2016.11-2018.4",
+        "institution": "日本神户大学",
+        "department": "系统信息学科",
+        "position": "博士后（JSPS Fellow）"
+      },
+      {
+        "period": "2005.1-2020.11",
+        "institution": "华中科技大学",
+        "department": "控制科学与工程系",
+        "position": "讲师"
+      },
+      {
+        "period": "1999.7-2004.12",
+        "institution": "华中理工大学",
+        "department": "控制科学与工程系",
+        "position": "助教"
+      }
+    ],
+    "social_affiliations": "暂无内容",
+    "research_focus": [
+      {
+        "name": "计算光学成像",
+        "link": "http://faculty.hust.edu.cn/chengjingjing1/zh_CN/yjfx/1735993/content/7654.htm#yjfx"
+      },
+      {
+        "name": "高温微系统技术",
+        "link": "http://faculty.hust.edu.cn/chengjingjing1/zh_CN/yjfx/1735993/content/7653.htm#yjfx"
+      }
+    ],
+    "research_group": {
+      "team_members": "暂无内容"
+    },
+    "site_metadata": {
+      "system_date": "2026年3月24日，星期二",
+      "welcome_message": "欢迎来到我的主页！",
+      "logos": [
+        {
+          "alt": "华中科技大学",
+          "url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/10/rBAGRV8CDr-AeFVmAAA7EN17sME589.png"
+        }
+      ],
+      "more_link": "http://faculty.hust.edu.cn/~bI3UNv/zh_CN/index.htm#",
+      "source_url_raw": "http://faculty.hust.edu.cn/~bI3UNv/zh_CN/index.htm"
+    }
+  }
+}

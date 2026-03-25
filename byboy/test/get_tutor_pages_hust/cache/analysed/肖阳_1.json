@@ -1,0 +1,256 @@
+{
+  "meta": {
+    "tutor_name_cn": "肖阳",
+    "request_url": "http://faculty.hust.edu.cn/xiaoyang/zh_CN/index/1037129/list/index.htm",
+    "declared_source_url": "http://faculty.hust.edu.cn/xiaoyang/zh_CN/index/1037129/list/index.htm",
+    "page_host": "faculty.hust.edu.cn",
+    "markdown_cache_path": "D:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\a93617011ad1d135bccce9078291cd19240dfcb129d5c6a124c515d3d98fde90.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "target_scholar": "肖阳",
+    "source_url": "http://faculty.hust.edu.cn/xiaoyang/zh_CN/index/1037129/list/index.htm",
+    "basic_info": {
+      "name": "肖阳",
+      "titles": [
+        "教授",
+        "博士生导师",
+        "硕士生导师"
+      ],
+      "gender": "男",
+      "employment_status": "在职",
+      "affiliation": "多谱信息智能处理技术全国重点实验室",
+      "department": "人工智能与自动化学院",
+      "education_level": "研究生(博士)毕业",
+      "degree": "工学博士学位",
+      "alma_mater": "华中科技大学",
+      "discipline": "模式识别与智能系统"
+    },
+    "contact_info": {
+      "zip_code": "430074",
+      "office_address": "湖北省武汉市华中科技大学人工智能与自动化学院逸夫科技楼914室",
+      "office_phone": "027-87558918",
+      "email": "Yang_Xiao@hust.edu.cn"
+    },
+    "personal_profile": {
+      "summary": "本人现为华中科技大学人工智能与自动化学院教授（博导），从事与计算机视觉、机器学习与模式识别相关的教学与科研工作。",
+      "admission_info": "专业方向不限（人工智能、电信和计算机方向优先），需对计算机视觉与机器学习的相关研究有热情，具有扎实的数学、英语与编程基础。",
+      "recruitment_news": "近期计划招收从事多模态大语言模型研究的本科实习生1-2名，欢迎报名联系（Yang_Xiao@hust.edu.cn）。",
+      "learning_history_preview": "2007-2011年，华中科技大学，图像识别与人工智能研究..."
+    },
+    "honors_awards": [
+      {
+        "year": "2021",
+        "content": "广东省技术发明一等奖获得者"
+      },
+      {
+        "year": "2023",
+        "content": "第十八届“挑战杯”揭榜挂帅专项赛“特等奖”与“最具人气作品奖”（第一指导教师）"
+      },
+      {
+        "year": null,
+        "content": "第三届中国研究生人工智能创新大赛一等奖（优秀指导教师）"
+      },
+      {
+        "year": "2015",
+        "content": "湖北省优秀学士学位论文指导老师"
+      },
+      {
+        "year": "2019",
+        "content": "华中科技大学“青年五四奖章”"
+      },
+      {
+        "year": "2019",
+        "content": "华中科技大学校优秀班主任"
+      },
+      {
+        "year": "2017",
+        "content": "华中科技大学教师教学竞赛一等奖"
+      }
+    ],
+    "education_experience": [
+      {
+        "period": "2007.3 ~ 2011.12",
+        "institution": "华中科技大学",
+        "major": "模式识别与智能系统",
+        "degree": "工学博士学位",
+        "status": "研究生(博士)毕业"
+      },
+      {
+        "period": "2004.9 ~ 2007.3",
+        "institution": "华中科技大学",
+        "major": "模式识别与智能系统",
+        "degree": "工学硕士学位",
+        "status": "研究生(硕士)毕业"
+      },
+      {
+        "period": "2000.9 ~ 2004.6",
+        "institution": "华中科技大学",
+        "major": "信息与通信工程",
+        "degree": "文学学士学位",
+        "note": "双学士学位"
+      },
+      {
+        "period": "2000.9 ~ 2004.6",
+        "institution": "华中科技大学",
+        "major": "英语语言文学",
+        "degree": "工学学士学位",
+        "status": "本科(学士)"
+      }
+    ],
+    "work_experience": [
+      {
+        "period": "2024.1-2024.6",
+        "institution": "华中科技大学",
+        "department": "人工智能与自动化学院",
+        "position": "教授"
+      },
+      {
+        "period": "2014.7-2023.12",
+        "institution": "华中科技大学",
+        "department": "人工智能与自动化学院",
+        "position": "副教授",
+        "description": "从事计算机视觉、图像处理与机器学习相关的研究工作"
+      },
+      {
+        "period": "2012.3-2014.6",
+        "institution": "南洋理工大学",
+        "department": "计算机学院、媒体创新研究所",
+        "position": "博士后研究员",
+        "description": "从事计算机视觉、图像处理与机器学习相关的研究工作"
+      }
+    ],
+    "social_affiliations": [
+      "担任中国计算机学会（CCF）推荐SCI期刊IET Image Processing副主编职务",
+      "担任TPAMI、IJCV、TIP、TNNLS、CVPR、ICCV、ECCV等国际重要学术期刊及会议审稿人。"
+    ],
+    "research_directions": [
+      {
+        "topic": "基于多模感知信息的人体行为分析与理解",
+        "url": "http://faculty.hust.edu.cn/xiaoyang/zh_CN/yjfx/1037129/content/6210.htm#yjfx"
+      },
+      {
+        "topic": "三维人体与手部姿态估计与关节点提取",
+        "url": "http://faculty.hust.edu.cn/xiaoyang/zh_CN/yjfx/1037129/content/6211.htm#yjfx"
+      },
+      {
+        "topic": "非受限场景条件下的人体实时眨眼检测",
+        "url": "http://faculty.hust.edu.cn/xiaoyang/zh_CN/yjfx/1037129/content/6212.htm#yjfx"
+      },
+      {
+        "topic": "面向智能医护的人体跌倒与坠床实时检测",
+        "url": "http://faculty.hust.edu.cn/xiaoyang/zh_CN/yjfx/1037129/content/6213.htm#yjfx"
+      },
+      {
+        "topic": "面向无人艇与无人机应用的目标检测识别与跟踪",
+        "url": "http://faculty.hust.edu.cn/xiaoyang/zh_CN/yjfx/1037129/content/6214.htm#yjfx"
+      }
+    ],
+    "research_group": {
+      "members": "暂无内容"
+    },
+    "site_chrome": {
+      "language_switch": {
+        "text": "English",
+        "url": "http://faculty.hust.edu.cn/xiaoyang/en/index.htm"
+      },
+      "institution_links": [
+        {
+          "name": "华中科技大学",
+          "url": "http://www.hust.edu.cn/"
+        },
+        {
+          "name": "教师主页系统",
+          "url": "http://faculty.hust.edu.cn/"
+        }
+      ],
+      "navigation_menu": [
+        {
+          "title": "首页",
+          "url": "http://faculty.hust.edu.cn/xiaoyang/zh_CN/index/1037129/list/index.htm"
+        },
+        {
+          "title": "科学研究",
+          "url": "http://faculty.hust.edu.cn/xiaoyang/zh_CN/zhym/1037131/list/index.htm",
+          "sub_items": [
+            {
+              "name": "研究领域",
+              "url": "http://faculty.hust.edu.cn/xiaoyang/zh_CN/yjgk/1037133/list/index.htm"
+            },
+            {
+              "name": "论文成果",
+              "url": "http://faculty.hust.edu.cn/xiaoyang/zh_CN/lwcg/1037135/list/index.htm"
+            },
+            {
+              "name": "专利",
+              "url": "http://faculty.hust.edu.cn/xiaoyang/zh_CN/zlcg/1037137/list/index.htm"
+            },
+            {
+              "name": "著作成果",
+              "url": "http://faculty.hust.edu.cn/xiaoyang/zh_CN/zzcg/1037139/list/index.htm"
+            },
+            {
+              "name": "科研项目",
+              "url": "http://faculty.hust.edu.cn/xiaoyang/zh_CN/kyxm/1037141/list/index.htm"
+            }
+          ]
+        },
+        {
+          "title": "教学研究",
+          "url": "http://faculty.hust.edu.cn/xiaoyang/zh_CN/zhym/1037143/list/index.htm",
+          "sub_items": [
+            {
+              "name": "教学资源",
+              "url": "http://faculty.hust.edu.cn/xiaoyang/zh_CN/jxzy/1037145/list/index.htm"
+            },
+            {
+              "name": "授课信息",
+              "url": "http://faculty.hust.edu.cn/xiaoyang/zh_CN/skxx/1037147/list/index.htm"
+            },
+            {
+              "name": "教学成果",
+              "url": "http://faculty.hust.edu.cn/xiaoyang/zh_CN/jxcg/1037149/list/index.htm"
+            }
+          ]
+        },
+        {
+          "title": "获奖信息",
+          "url": "http://faculty.hust.edu.cn/xiaoyang/zh_CN/hjxx/1037151/list/index.htm"
+        },
+        {
+          "title": "招生信息",
+          "url": "http://faculty.hust.edu.cn/xiaoyang/zh_CN/zsxx/1037153/list/index.htm"
+        },
+        {
+          "title": "学生信息",
+          "url": "http://faculty.hust.edu.cn/xiaoyang/zh_CN/xsxx/1037155/list/index.htm"
+        },
+        {
+          "title": "我的相册",
+          "url": "http://faculty.hust.edu.cn/xiaoyang/zh_CN/img/1037157/list/index.htm"
+        },
+        {
+          "title": "教师博客",
+          "url": "http://faculty.hust.edu.cn/xiaoyang/zh_CN/article/1037160/list/index.htm"
+        }
+      ],
+      "peer_links": [
+        {
+          "name": "同专业博导",
+          "url": "http://faculty.hust.edu.cn/xiaoyang/zh_CN/tzybd/1037129/list/index.htm"
+        },
+        {
+          "name": "同专业硕导",
+          "url": "http://faculty.hust.edu.cn/xiaoyang/zh_CN/tzysd/1037129/list/index.htm"
+        }
+      ],
+      "page_footer_info": {
+        "current_date": "2026年3月24日，星期二",
+        "welcome_message": "欢迎来到我的主页！"
+      }
+    }
+  }
+}

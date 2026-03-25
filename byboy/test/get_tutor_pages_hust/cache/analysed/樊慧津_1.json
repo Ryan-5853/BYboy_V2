@@ -1,0 +1,174 @@
+{
+  "meta": {
+    "tutor_name_cn": "樊慧津",
+    "request_url": "http://faculty.hust.edu.cn/fanhuijin/zh_CN/index.htm",
+    "declared_source_url": "http://faculty.hust.edu.cn/fanhuijin/zh_CN/index.htm",
+    "page_host": "faculty.hust.edu.cn",
+    "markdown_cache_path": "D:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\4e43280e112aec05174428f119be1e6d1d0c3d48691f1cfee9b7917849955cc0.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "name": "樊慧津",
+    "profile_picture_url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/07/rBAGRV8CDeqARPxKAALVPdkj2zo387.JPG?randomid=1770654377129",
+    "personal_information": {
+      "titles": [
+        "教授",
+        "博士生导师",
+        "硕士生导师",
+        "校教学名师"
+      ],
+      "gender": "女",
+      "employment_status": "在职",
+      "affiliated_units": [
+        "多谱信息智能处理技术全国重点实验室",
+        "人工智能与自动化学院"
+      ],
+      "education_level": "研究生(博士)毕业",
+      "degree": "工学博士学位",
+      "graduated_university": "(新加坡)Nanyang Technological University",
+      "disciplines": [
+        "控制理论与控制工程",
+        "导航、制导与控制"
+      ]
+    },
+    "contact_information": {
+      "postal_code": "430074",
+      "office_address": "华中科技大学人工智能与自动化学院",
+      "email": "ehjfan@hust.edu.cn"
+    },
+    "biography": {
+      "summary": "人工智能与自动化学院、多谱信息智能处理技术全国重点实验室教授，博士生导师，校教学名师。",
+      "research_interests_overview": "多智能体协同控制与编队、飞行控制系统等。",
+      "projects": "主持多个国家自然科学基金项目。",
+      "publications": "在国内外权威期刊和会议上发表学术论文100余篇，部分成果发表在Automatic、TAC和IEEE Transactions等期刊上。",
+      "professional_roles": "担任IEEE工业电子学会行业女科学家论坛主席及CCC和CCDC的程序委员会委员。",
+      "awards": [
+        "2018年中国指挥与控制学会科学技术一等奖",
+        "2023年度IEEE工业电子学会最佳会议论文奖"
+      ],
+      "teaching_responsibilities": [
+        "国家级一流本科课程《自动控制原理》责任教授",
+        "国家在线精品课程《自动控制原理（二）》负责人"
+      ],
+      "social_affiliations_overview": [
+        "中国自动化学会信息物理系统控制与决策专委会委员",
+        "中国自动化学会数据驱动控制、学习与优化专委会委员",
+        "湖北省自动化学会理事",
+        "湖北省回国科技人员创业促进会第一届会员",
+        "湖北省知识分子联谊会第四届会员",
+        "华中科技大学留学人员联谊会理事",
+        "校侨联委员"
+      ]
+    },
+    "education_experience": [
+      {
+        "start_date": "1998.11",
+        "end_date": "2002.9",
+        "institution": "新加坡南洋理工大学",
+        "degree": "工学博士学位",
+        "level": "研究生(博士)毕业"
+      },
+      {
+        "start_date": "1995.9",
+        "end_date": "1998.3",
+        "institution": "中国科学院武汉物理与数学研究所",
+        "degree": "理学硕士学位",
+        "level": "研究生(硕士)毕业"
+      },
+      {
+        "start_date": "1991.9",
+        "end_date": "1995.6",
+        "institution": "华中师范大学",
+        "degree": "理学学士学位",
+        "level": "本科(学士)"
+      }
+    ],
+    "work_experience": [
+      {
+        "start_date": "2005.8",
+        "end_date": "至今",
+        "institution": "华中科技大学",
+        "position": "自动化与人工智能学院"
+      },
+      {
+        "start_date": "2004.4",
+        "end_date": "2005.8",
+        "institution": "Akita Prefectual University, Japan",
+        "position": "Visiting Research Fellow"
+      },
+      {
+        "start_date": "2003.7",
+        "end_date": "2004.2",
+        "institution": "National University of Singapore",
+        "department": "EE",
+        "position": "Research Fellow"
+      },
+      {
+        "start_date": "2002.1",
+        "end_date": "2002.12",
+        "institution": "Nanyang Technological University",
+        "school": "School of IEEE",
+        "position": "Research Associate"
+      }
+    ],
+    "research_directions": [
+      {
+        "name": "多智能体协同与编队",
+        "url": "http://faculty.hust.edu.cn/fanhuijin/zh_CN/yjfx/1529305/content/8272.htm#yjfx"
+      },
+      {
+        "name": "飞行控制系统制导与控制",
+        "url": "http://faculty.hust.edu.cn/fanhuijin/zh_CN/yjfx/1529305/content/2235.htm#yjfx"
+      },
+      {
+        "name": "不确定系统的分析与控制",
+        "url": "http://faculty.hust.edu.cn/fanhuijin/zh_CN/yjfx/1529305/content/2233.htm#yjfx"
+      }
+    ],
+    "social_affiliations_detailed": [
+      {
+        "start_date": "2021.7",
+        "end_date": "至今",
+        "affiliation": "湖北省自动化学会理事"
+      },
+      {
+        "affiliation": "IEEE会员"
+      },
+      {
+        "affiliation": "中国自动化学会数据驱动控制、学习与优化专业委员会委员"
+      },
+      {
+        "affiliation": "中国自动化学会信息物理系统控制与决策专业委员会委员"
+      },
+      {
+        "affiliation": "中国自动化学会随机系统控制专委会"
+      }
+    ],
+    "site_chrome": {
+      "source_url": "http://faculty.hust.edu.cn/fanhuijin/zh_CN/index.htm",
+      "extra_images": [
+        {
+          "description": "Image pointing to the page URL itself, possibly a placeholder or broken image.",
+          "url": "http://faculty.hust.edu.cn/fanhuijin/zh_CN/index.htm"
+        },
+        {
+          "description": "Decorative icon, possibly for 'heart' or 'favorite'.",
+          "url": "http://faculty.hust.edu.cn/_ts/qtmbzw1/images/ico-heart-i.png"
+        }
+      ],
+      "related_faculty_links": [
+        {
+          "anchor_text": "同专业博导",
+          "url": "http://faculty.hust.edu.cn/fanhuijin/zh_CN/tzybd/1529305/list/index.htm"
+        },
+        {
+          "anchor_text": "同专业硕导",
+          "url": "http://faculty.hust.edu.cn/fanhuijin/zh_CN/tzysd/1529305/list/index.htm"
+        }
+      ]
+    }
+  }
+}

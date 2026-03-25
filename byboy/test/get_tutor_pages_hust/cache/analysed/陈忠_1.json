@@ -1,0 +1,207 @@
+{
+  "meta": {
+    "tutor_name_cn": "陈忠",
+    "request_url": "http://faculty.hust.edu.cn/chenzhong2/zh_CN/index.htm",
+    "declared_source_url": "http://faculty.hust.edu.cn/chenzhong2/zh_CN/index.htm",
+    "page_host": "faculty.hust.edu.cn",
+    "markdown_cache_path": "D:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\af4d012657ebf3e563ecf2192be471cc32c2e2580f9ca9b5a9c94926c638439e.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "source_url": "http://faculty.hust.edu.cn/chenzhong2/zh_CN/index.htm",
+    "site_chrome": {
+      "language_switch": {
+        "anchor_text": "English",
+        "url": "http://faculty.hust.edu.cn/chenzhong2/en/index.htm"
+      },
+      "general_images": [
+        "http://faculty.hust.edu.cn/_ts/gkzn/images/gbbtn.png",
+        "http://faculty.hust.edu.cn/_ts/gkzn/images/ss.png",
+        "http://faculty.hust.edu.cn/_ts/gkzn/images/banner.png"
+      ],
+      "navigation_menu": [
+        {
+          "anchor_text": "首页",
+          "url": "http://faculty.hust.edu.cn/chenzhong2/zh_CN/index/1406297/list/index.htm"
+        },
+        {
+          "anchor_text": "科学研究",
+          "url": "http://faculty.hust.edu.cn/chenzhong2/zh_CN/zhym/1406299/list/index.htm",
+          "sub_items": [
+            {
+              "anchor_text": "研究领域",
+              "url": "http://faculty.hust.edu.cn/chenzhong2/zh_CN/yjgk/1406301/list/index.htm"
+            },
+            {
+              "anchor_text": "论文成果",
+              "url": "http://faculty.hust.edu.cn/chenzhong2/zh_CN/lwcg/1406303/list/index.htm"
+            },
+            {
+              "anchor_text": "专利",
+              "url": "http://faculty.hust.edu.cn/chenzhong2/zh_CN/zlcg/1406305/list/index.htm"
+            },
+            {
+              "anchor_text": "著作成果",
+              "url": "http://faculty.hust.edu.cn/chenzhong2/zh_CN/zzcg/1406307/list/index.htm"
+            },
+            {
+              "anchor_text": "科研项目",
+              "url": "http://faculty.hust.edu.cn/chenzhong2/zh_CN/kyxm/1406309/list/index.htm"
+            }
+          ]
+        },
+        {
+          "anchor_text": "教学研究",
+          "url": "http://faculty.hust.edu.cn/chenzhong2/zh_CN/zhym/1406311/list/index.htm",
+          "sub_items": [
+            {
+              "anchor_text": "教学资源",
+              "url": "http://faculty.hust.edu.cn/chenzhong2/zh_CN/jxzy/1406313/list/index.htm"
+            },
+            {
+              "anchor_text": "授课信息",
+              "url": "http://faculty.hust.edu.cn/chenzhong2/zh_CN/skxx/1406315/list/index.htm"
+            },
+            {
+              "anchor_text": "教学成果",
+              "url": "http://faculty.hust.edu.cn/chenzhong2/zh_CN/jxcg/1406317/list/index.htm"
+            }
+          ]
+        },
+        {
+          "anchor_text": "获奖信息",
+          "url": "http://faculty.hust.edu.cn/chenzhong2/zh_CN/hjxx/1406319/list/index.htm"
+        },
+        {
+          "anchor_text": "招生信息",
+          "url": "http://faculty.hust.edu.cn/chenzhong2/zh_CN/zsxx/1406321/list/index.htm"
+        },
+        {
+          "anchor_text": "学生信息",
+          "url": "http://faculty.hust.edu.cn/chenzhong2/zh_CN/xsxx/1406323/list/index.htm"
+        },
+        {
+          "anchor_text": "我的相册",
+          "url": "http://faculty.hust.edu.cn/chenzhong2/zh_CN/img/1406325/list/index.htm"
+        },
+        {
+          "anchor_text": "教师博客",
+          "url": "http://faculty.hust.edu.cn/chenzhong2/zh_CN/article/1406327/list/index.htm"
+        }
+      ]
+    },
+    "professor_info": {
+      "name": "陈忠",
+      "title": "副教授",
+      "profile_picture_url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/22/rBAGRWN0WAKACWMVAAHBcW5yX-s876.png?randomid=1769812311379",
+      "personal_details": {
+        "gender": "男",
+        "employment_status": "在职",
+        "unit": "多谱信息智能处理技术全国重点实验室",
+        "education_level": "研究生(博士)毕业",
+        "degree": "理学博士学位",
+        "more_info_link": {
+          "anchor_text": "更多+",
+          "url": "http://faculty.hust.edu.cn/chenzhong2/zh_CN/jsxx/1406297/jsxx/jsxx.htm"
+        }
+      },
+      "contact_info": {
+        "postal_code": "430074",
+        "office_address": "逸夫科技楼1112",
+        "mobile_phone": "13971328968",
+        "email": "henpacked@hust.edu.cn"
+      },
+      "biography": "暂无内容",
+      "education_experience": {
+        "entries": [
+          {
+            "period": "2003.9~2006.7",
+            "institution": "中国科学院遥感应用研究所",
+            "degree": "研究生(博士)毕业"
+          },
+          {
+            "period": "2000.9~2003.6",
+            "institution": "华中科技大学",
+            "degree": "研究生(硕士)毕业"
+          },
+          {
+            "period": "1992.9~1996.7",
+            "institution": "长沙电力学院",
+            "degree": "本科(学士)"
+          }
+        ],
+        "more_link": {
+          "anchor_text": "查看更多",
+          "url": "http://faculty.hust.edu.cn/chenzhong2/zh_CN/more/1406297/jyjlgd/index.htm"
+        }
+      },
+      "work_experience": "暂无内容",
+      "research_output": {
+        "publications": {
+          "items": [
+            {
+              "id": "[1]",
+              "full_text": "CHEN Zhong, CHEN Hanruo, LENG Junsong, et al. VMMCD: VMamba-based multi-scale feature guiding fusion network for remote sensing change detection[J]. Remote Sensing, 2025, 17(11): 1840..",
+              "url": "http://faculty.hust.edu.cn/chenzhong2/zh_CN/lwcg/1406303/content/138619.htm#lwcg"
+            },
+            {
+              "id": "[3]",
+              "full_text": "ZHENG Y F, CHEN Z, ZHENG T, et al. PSNet: a universal algorithm for multispectral remote sensing image segmentation[J]. Remote Sensing, 2025, 17(4): 563..",
+              "url": "http://faculty.hust.edu.cn/chenzhong2/zh_CN/lwcg/1406303/content/138621.htm#lwcg"
+            },
+            {
+              "id": "[2]",
+              "full_text": "CHEN Zhong, ZHANG Xianlei, XU Xueru, et al. Registration-aware cross-modal interaction network for optical and SAR images[J]. Information Fusion, 2025: 103278..",
+              "url": "http://faculty.hust.edu.cn/chenzhong2/zh_CN/lwcg/1406303/content/138620.htm#lwcg"
+            },
+            {
+              "id": "[4]",
+              "full_text": "LENG J S, ZHAO Z Y, TIAN C, et al. Multi-modal few-shot semantic segmentation based on triple attention mechanism and hierarchical decoding transformer[J]. IEEE Transactions on Circuits and Systems for Video Technology, 2025..",
+              "url": "http://faculty.hust.edu.cn/chenzhong2/zh_CN/lwcg/1406303/content/138622.htm#lwcg"
+            },
+            {
+              "id": "[17]",
+              "full_text": "CHEN Zhong, ZHAO Jun, DENG He. Global multi-attention UResNeXt for semantic segmentation of high-resolution remote sensing images[J]. Remote Sensing, 2023, 15(7): 1836..",
+              "url": "http://faculty.hust.edu.cn/chenzhong2/zh_CN/lwcg/1406303/content/138635.htm#lwcg"
+            },
+            {
+              "id": "[16]",
+              "full_text": "XU X R, CHEN Z, WANG G Y, et al. M2VDet: midpoints-to-vertices detection of oriented objects in remote-sensing images[J]. IEEE Transactions on Geoscience and Remote Sensing, 2023, 61: 1-16..",
+              "url": "http://faculty.hust.edu.cn/chenzhong2/zh_CN/lwcg/1406303/content/138634.htm#lwcg"
+            }
+          ],
+          "more_link": {
+            "anchor_text": "查看更多>",
+            "url": "http://faculty.hust.edu.cn/chenzhong2/zh_CN/lwcg/1406303/list/index.htm"
+          }
+        },
+        "patents": "暂无内容",
+        "books": "暂无内容"
+      },
+      "social_appointments": "暂无内容",
+      "research_directions": "暂无内容",
+      "team_info": {
+        "more_link": {
+          "anchor_text": "查看更多",
+          "url": "http://faculty.hust.edu.cn/chenzhong2/zh_CN/more/1406297/tdgd/index.htm"
+        },
+        "related_links": [
+          {
+            "anchor_text": "同专业博导",
+            "url": "http://faculty.hust.edu.cn/chenzhong2/zh_CN/tzybd/1406297/list/index.htm"
+          },
+          {
+            "anchor_text": "同专业硕导",
+            "url": "http://faculty.hust.edu.cn/chenzhong2/zh_CN/tzysd/1406297/list/index.htm"
+          }
+        ]
+      }
+    },
+    "uncategorized_images": [
+      "http://faculty.hust.edu.cn/chenzhong2/zh_CN/index.htm"
+    ]
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "clickable_links": [
+    {
+      "url": "http://faculty.hust.edu.cn/zhengying2/zh_CN/index.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/zhengying2/en/index.htm",
+      "anchor_text": "English",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://www.hust.edu.cn/",
+      "anchor_text": "华中科技大学",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "medium",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/10/rBAGRV8CDr-AeFVmAAA7EN17sME589.png",
+      "anchor_text": "![",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/zhengying2/zh_CN/index.htm\\#",
+      "anchor_text": "更多",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/zhengying2/zh_CN/index/1787929/list/index.htm",
+      "anchor_text": "首页",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/zhengying2/zh_CN/zhym/1787930/list/index.htm",
+      "anchor_text": "科学研究",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/zhengying2/zh_CN/yjgk/1787931/list/index.htm",
+      "anchor_text": "· 研究领域",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/zhengying2/zh_CN/lwcg/1787932/list/index.htm",
+      "anchor_text": "· 论文成果",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/zhengying2/zh_CN/zlcg/1787933/list/index.htm",
+      "anchor_text": "· 专利",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/zhengying2/zh_CN/zzcg/1787934/list/index.htm",
+      "anchor_text": "· 著作成果",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/zhengying2/zh_CN/kyxm/1787935/list/index.htm",
+      "anchor_text": "· 科研项目",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/zhengying2/zh_CN/zhym/1787936/list/index.htm",
+      "anchor_text": "教学研究",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/zhengying2/zh_CN/jxzy/1787937/list/index.htm",
+      "anchor_text": "· 教学资源",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/zhengying2/zh_CN/skxx/1787938/list/index.htm",
+      "anchor_text": "· 授课信息",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/zhengying2/zh_CN/jxcg/1787939/list/index.htm",
+      "anchor_text": "· 教学成果",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/zhengying2/zh_CN/hjxx/1787940/list/index.htm",
+      "anchor_text": "获奖信息",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/zhengying2/zh_CN/zsxx/1787941/list/index.htm",
+      "anchor_text": "招生信息",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/zhengying2/zh_CN/xsxx/1787942/list/index.htm",
+      "anchor_text": "学生信息",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/zhengying2/zh_CN/img/1787943/list/index.htm",
+      "anchor_text": "我的相册",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/zhengying2/zh_CN/article/1787944/list/index.htm",
+      "anchor_text": "教师博客",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "命中个人主页关键词；命中名录关键词",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/05/rBAGRl8CDcOAGT18AAC4jinVoR0875.jpg?randomid=1770670492452",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/zhengying2/zh_CN/tzybd/1787929/list/index.htm",
+      "anchor_text": "同专业博导",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/zhengying2/zh_CN/tzysd/1787929/list/index.htm",
+      "anchor_text": "同专业硕导",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/zhengying2/zh_CN/more/1787929/jsjjgd/index.htm",
+      "anchor_text": "More+",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/zhengying2/zh_CN/yjfx/1787929/content/2095.htm#yjfx",
+      "anchor_text": "故障诊断",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/zhengying2/zh_CN/yjfx/1787929/content/2097.htm#yjfx",
+      "anchor_text": "工业制造过程监控",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/zhengying2/zh_CN/yjfx/1787929/content/2098.htm#yjfx",
+      "anchor_text": "工业数据分析",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/zhengying2/zh_CN/yjfx/1787929/content/2096.htm#yjfx",
+      "anchor_text": "过程控制",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    }
+  ]
+}

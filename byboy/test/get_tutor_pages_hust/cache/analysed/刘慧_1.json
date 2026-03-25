@@ -1,0 +1,275 @@
+{
+  "meta": {
+    "tutor_name_cn": "刘慧",
+    "request_url": "http://faculty.hust.edu.cn/liuhui10/zh_CN/index.htm",
+    "declared_source_url": "http://faculty.hust.edu.cn/liuhui10/zh_CN/index.htm",
+    "page_host": "faculty.hust.edu.cn",
+    "markdown_cache_path": "D:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\5d7d3a73ee9da37636039c7c7ba272034a60cbeb068fbc98b05f5792de9fa47d.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "personal_info": {
+      "name": "刘慧",
+      "profile_picture_url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/21/rBAGRWMHNySAJD6uAAE_qLmcI94765.png?randomid=1773124436455",
+      "titles": [
+        "教授",
+        "博士生导师",
+        "硕士生导师"
+      ],
+      "current_status": "在职",
+      "department": "人工智能与自动化学院",
+      "highest_degree": "研究生(博士)毕业",
+      "discipline": "系统工程"
+    },
+    "contact_info": {
+      "postcode": "430074",
+      "email": "hliu@hust.edu.cn"
+    },
+    "work_experience": [
+      {
+        "start_date": "2014/03",
+        "end_date": "Now",
+        "organization": "Huazhong University of Science & Technology",
+        "position": "Associate Professor"
+      },
+      {
+        "start_date": "2014/05",
+        "end_date": "2014/08",
+        "organization": "Polytechnic University of Hong Kong",
+        "position": "Post Doctor"
+      },
+      {
+        "start_date": "2014/01",
+        "end_date": "2014/02",
+        "organization": "Chinese Academy of Sciences",
+        "position": "Visiting Scholar"
+      }
+    ],
+    "education": [
+      {
+        "start_year": "2001",
+        "end_year": "2005",
+        "university": "Wuhan University",
+        "degree": "Bachelor Degree"
+      },
+      {
+        "start_year": "2005",
+        "end_year": "2010",
+        "university": "Wuhan University",
+        "degree": "PhD Degree"
+      },
+      {
+        "start_year": "2009",
+        "end_year": "2013",
+        "university": "University of Groningen",
+        "degree": "PhD Degree"
+      }
+    ],
+    "honors_awards": [
+      {
+        "year": "2018、2020、2023",
+        "award": "校优秀教师班主任"
+      },
+      {
+        "year": "2014",
+        "award": "湖北省楚天学者计划",
+        "note": "青年"
+      },
+      {
+        "year": "2014",
+        "award": "中国网络科学论坛十周年“青年希望奖”"
+      },
+      {
+        "year": "2011",
+        "award": "湖北省优秀博士论文奖"
+      }
+    ],
+    "research_and_admission": {
+      "research_fields": [
+        "人工智能",
+        "复杂网络重要信息挖掘",
+        "（图）机器学习",
+        "工业互联网大数据挖掘",
+        "多智能体系统",
+        "无人集群系统智能控制"
+      ],
+      "admission_details": {
+        "doctoral_students_per_year": "1名",
+        "master_students_per_year": "若干名",
+        "preferred_majors": [
+          "人工智能",
+          "自动化",
+          "计算机",
+          "计算或应用数学"
+        ],
+        "student_qualities_expected": "勤奋踏实、吃苦耐劳、具有团结合作精神",
+        "group_expectations": "数理基础好及有较强编程能力的同学加入，以梦为马、共展华章。",
+        "graduated_student_placements_summary": "已毕业学生多进入多家IT及AI高端科技公司，包括：华为、阿里、腾讯、小米、网易、Bigo、上海证券交易所、中国移动、百度等龙头企业或者国企。",
+        "undergraduate_opportunities_summary": "长期欢迎有研究兴趣的本科生、毕设学生参与课题或者竞赛，组织挑战杯、大创及其它科创比赛等赛事。本人指导过多名本科生进入实验室课题、指导过多个大学生创新创业项目，并获得省级优秀奖励等。",
+        "math_modeling_competition_guidance_summary": "欢迎有兴趣参加各级数模竞赛的同学联系，多次担任过美赛指导老师，并获多项奖项。"
+      }
+    },
+    "research_projects": [
+      {
+        "title": "多层时变有向网络的超扩散研究",
+        "grant_source": "国家自然科学基金面上项目",
+        "grant_id": "62176099",
+        "start_end_date": "2022/01-2025/12",
+        "role": "主持"
+      },
+      {
+        "title": "基于图谱方法的多层网络层间作用机理",
+        "grant_source": "国家自然科学基金面上项目",
+        "grant_id": "61773175",
+        "start_end_date": "2018/01-2021/12",
+        "role": "主持"
+      },
+      {
+        "title": "融入突触可塑性的脑功能机制及新一代脑启发神经网络计算",
+        "grant_source": "华中科技大学交叉研究重点支持项目",
+        "start_end_date": "2024/01-2026/12",
+        "role": "参与"
+      },
+      {
+        "title": "基于神经可塑性的脉冲网络高效学习机制与类脑智能系统",
+        "grant_source": "科技部, 科技创新2030-重大项目",
+        "grant_id": "2021ZD0201300",
+        "start_end_date": "2021/12-2026/11",
+        "role": "参与"
+      },
+      {
+        "title": "基于忆阻的类人情感生成与演化及其在情感机器人中的应用",
+        "grant_source": "国家自然科学基金委员会, 重点项目",
+        "grant_id": "61936004",
+        "start_end_date": "2020/01-2024/12",
+        "role": "参与"
+      },
+      {
+        "title": "开放环境下异质微电网的群智协同主动安全调控理论与方法",
+        "grant_source": "科技部科技创新2030—新一代人工智能前沿交叉研究项目",
+        "start_end_date": "2023/03-2027/02",
+        "role": "参与"
+      },
+      {
+        "title": "无人“机-艇”水空协同关键技术及其在海面巡逻中的应用示范",
+        "grant_source": "国家自然科学基金委员会, 联合基金项目",
+        "grant_id": "U1913602",
+        "start_end_date": "2020/01-2023/12",
+        "role": "参与"
+      },
+      {
+        "title": "基于粗糙信息的多自主体编队控制",
+        "grant_source": "国家自然科学基金青年项目",
+        "grant_id": "61403154",
+        "start_end_date": "2015/01-2017/12",
+        "role": "主持"
+      },
+      {
+        "title": "基于图方法的多智能体编队控制",
+        "grant_source": "湖北省自然科学基金面上项目",
+        "grant_id": "2017CFB426",
+        "start_end_date": "2017/08-2019/07",
+        "role": "主持"
+      },
+      {
+        "title": "有限时间收敛的多智能体编队控制",
+        "grant_source": "华中科技大学自主创新基金项目",
+        "start_end_date": "2014/01-2015/12",
+        "role": "主持"
+      },
+      {
+        "title": "出力预测及新能源电力系统多周期优化调度",
+        "grant_source": "企业开发：可再生能源并网全国重点实验室",
+        "start_end_date": "2024/05-2025/09",
+        "role": "主持"
+      },
+      {
+        "title": "基于类脑智能的全自主控制理论与应用",
+        "grant_source": "湖北省创新群体项目, 湖北省科技厅",
+        "grant_id": "2017CFA005",
+        "start_end_date": null,
+        "role": "参与"
+      }
+    ],
+    "academic_service_social_affiliations": {
+      "memberships": [
+        "中国人工智能协会会员",
+        "中国网络科学专委会委员",
+        "中国复杂系统与复杂网络专委会委员",
+        "中国智能控制与系统专委会委员",
+        "中国工业与应用数学学会会员",
+        "IEEE Member"
+      ],
+      "roles": [
+        "担任国内外多个学术会议程序委员会委员",
+        "担任多种国际著名学术期刊/会议评审人"
+      ]
+    },
+    "research_achievements_summary": {
+      "projects_summary": "主持和参与了国家级、省部级科学研究课题10多项，包括多项国家自然科学基金面上项目、青年项目、国家自然科学基金重点项目，参与企业横向多项。",
+      "publications_summary": "发表学术论文50多篇，其中第一作者撰写的IEEE汇刊常文及Automatica常文十余篇。其中2篇论文入选ESI Web of Knowledge高引用率文章、1篇论文被评为期刊季度热点论文。",
+      "books_chapters": [
+        "出版学术专著1 部（合著，获得国家科学技术学术专著基金资助）",
+        "出版外文书1章节（英国伦敦IET 出版社）"
+      ],
+      "publication_details_note": "详细见论文列表。",
+      "collaboration_and_student_opportunities": "与本领域及相关交叉学科的若干国际知名学者和科研单位有密切的合作和联系，优先推荐优秀硕博学生海内外深造、就业及交流学习。"
+    },
+    "laboratory_info": {
+      "name": "类脑智能与智能控制实验室",
+      "url": "http://biic.aia.hust.edu.cn/index.htm"
+    },
+    "research_focus_links": [
+      {
+        "anchor_text": "复杂网络重要信息挖掘",
+        "url": "http://faculty.hust.edu.cn/liuhui10/zh_CN/yjfx/1041113/content/3410.htm#yjfx"
+      },
+      {
+        "anchor_text": "人工智能",
+        "url": "http://faculty.hust.edu.cn/liuhui10/zh_CN/yjfx/1041113/content/3411.htm#yjfx"
+      },
+      {
+        "anchor_text": "机器学习",
+        "url": "http://faculty.hust.edu.cn/liuhui10/zh_CN/yjfx/1041113/content/6834.htm#yjfx"
+      },
+      {
+        "anchor_text": "多智能体系统",
+        "url": "http://faculty.hust.edu.cn/liuhui10/zh_CN/yjfx/1041113/content/6835.htm#yjfx"
+      }
+    ],
+    "site_chrome": {
+      "source_url": "http://faculty.hust.edu.cn/liuhui10/zh_CN/index.htm",
+      "page_image_src_error": "http://faculty.hust.edu.cn/liuhui10/zh_CN/index.htm",
+      "template_elements": [
+        {
+          "type": "image",
+          "alt_text": "heart icon",
+          "url": "http://faculty.hust.edu.cn/_ts/qtmbzw1/images/ico-heart-i.png"
+        }
+      ],
+      "navigation_links": [
+        {
+          "anchor_text": "同专业博导",
+          "url": "http://faculty.hust.edu.cn/liuhui10/zh_CN/tzybd/1041113/list/index.htm"
+        },
+        {
+          "anchor_text": "同专业硕导",
+          "url": "http://faculty.hust.edu.cn/liuhui10/zh_CN/tzysd/1041113/list/index.htm"
+        }
+      ],
+      "placeholder_sections": [
+        {
+          "heading": "教育经历Education Background",
+          "content": "暂无内容"
+        },
+        {
+          "heading": "工作经历Work Experience",
+          "content": "暂无内容"
+        }
+      ]
+    }
+  }
+}

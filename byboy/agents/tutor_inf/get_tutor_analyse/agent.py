@@ -14,12 +14,60 @@ from dataclasses import dataclass
 from pathlib import Path
 from typing import Any
 
-from byboy.agent.invoke import AgentInvocation, ModelRef
+from byboy.agent.invoke import AgentInvocation, ModelRef, slot_complete
+from byboy.agents.tutor_inf.get_tutor_pages.agent import _resolve_cleaned_markdown
+from byboy.agents.tutor_inf.link_choose import LinkChooseError, parse_llm_json_object
 from byboy.agents.tutor_inf.logging_utils import AgentLogger
 from byboy.agents.tutor_inf.tutor_analyse import TutorAnalyseAgent, TutorAnalyseError, TutorAnalysePayload
 from byboy.llm.dispatcher import LLMDispatcher
+from byboy.llm.route_spec import ChatMessage
 
 _ROOT_DIR = Path.cwd().resolve()
+
+# 常见栏目/导航，形式上像「2～8 个汉字」但不是人名（启发式与 LLM 结果均需过滤）
+_NOT_A_PERSON_NAME: frozenset[str] = frozenset(
+    {
+        "更多",
+        "首页",
+        "科学研究",
+        "教学研究",
+        "社会兼职",
+        "研究方向",
+        "研究领域",
+        "教育经历",
+        "工作经历",
+        "个人简介",
+        "个人简历",
+        "团队成员",
+        "主讲课程",
+        "授课信息",
+        "教学成果",
+        "获奖信息",
+        "招生信息",
+        "学生信息",
+        "我的相册",
+        "教师博客",
+        "联系我们",
+        "联系方式",
+        "论文成果",
+        "专利",
+        "著作成果",
+        "科研项目",
+        "教学资源",
+        "研究成果",
+        "荣誉奖励",
+        "讲授课程",
+        "英文主页",
+        "教师主页",
+        "导师简介",
+        "基本信息",
+        "学院概况",
+        "师资队伍",
+        "人才招聘",
+        "新闻动态",
+        "通知公告",
+    }
+)
 
 
 class GetTutorAnalyseError(RuntimeError):
@@ -82,28 +130,119 @@ def _to_root_relative(path: str | Path) -> str:
         return os.path.relpath(str(p), str(_ROOT_DIR)).replace("\\", "/")
 
 
-def _resolve_maybe_relative(path_text: str | Path, *, base_dir: Path) -> Path:
-    p = Path(path_text)
-    if p.is_absolute():
-        return p.resolve()
-    c1 = (base_dir / p).resolve()
-    if c1.exists():
-        return c1
-    return p.resolve()
+def _strip_heading_hashes(s: str) -> str:
+    t = s.strip()
+    return t.lstrip("#").strip()
+
+
+def _extract_bold_cn_name(markdown_text: str, *, scan_chars: int = 6000) -> str | None:
+    """常见教师页：简介区「**唐其鹏**」加粗姓名。"""
+    chunk = markdown_text[:scan_chars] if len(markdown_text) > scan_chars else markdown_text
+    for m in re.finditer(r"\*\*([\u4e00-\u9fff]{2,4})\*\*", chunk):
+        s = m.group(1)
+        if s not in _NOT_A_PERSON_NAME:
+            return s
+    return None
 
 
 def _extract_h1_name(markdown_text: str) -> str | None:
+    """从 Markdown 标题中猜姓名；跳过链接标题、栏目黑名单，并在多个标题中继续尝试。"""
     for line in markdown_text.splitlines():
         s = line.strip()
-        if not s:
+        if not s.startswith("#"):
             continue
-        if s.startswith("#"):
-            t = s.lstrip("#").strip()
-            # 常见中文姓名长度 2-8；允许中间空格。
-            if re.fullmatch(r"[\u4e00-\u9fff]{2,8}", t.replace(" ", "")):
-                return t.replace(" ", "")
-            return None
+        t = _strip_heading_hashes(s)
+        if not t or "](" in t:
+            continue
+        compact = t.replace(" ", "")
+        if compact in _NOT_A_PERSON_NAME:
+            continue
+        if re.fullmatch(r"[\u4e00-\u9fff]{2,8}", compact):
+            return compact
     return None
+
+
+_SYSTEM_NAME_FALLBACK = """你是文本提取助手。用户给出一页高校**教师个人主页**的 Markdown（常由 HTML 转换）及 URL。
+请提取页面**主体介绍的一位**教师的中文姓名（多为 2～4 个汉字）。
+
+规则：
+- 只输出一个 JSON 对象：{"tutor_name_cn":"张三"}；无法唯一确定时 {"tutor_name_cn":null}。
+- 姓名不要含职称、职务、空格与标点；若标题为「李四 教授」则只取「李四」。
+- **禁止**把章节小标题当作姓名，例如：社会兼职、研究方向、教育经历、工作经历、团队成员、招生信息、获奖信息、专利、论文成果、首页、更多 等。
+- 姓名常见于：加粗行（如 **王某某**）、简介首段、页眉姓名区，而不是「## 社会兼职」这类栏目。
+- 若为名录/导航页、多人并列且无明确主人物，输出 null。
+
+禁止输出 JSON 以外的任何内容。"""
+
+# 单次兜底请求的 Markdown 节选上限（字符）
+_NAME_FALLBACK_MD_CAP = 24_000
+
+
+def _normalize_cn_name_candidate(raw: object) -> str | None:
+    if raw is None:
+        return None
+    if not isinstance(raw, str):
+        return None
+    t = raw.strip()
+    if not t or t.lower() in {"null", "none", "无", "未知"}:
+        return None
+    compact = re.sub(r"\s+", "", t)
+    if re.fullmatch(r"[\u4e00-\u9fff]{2,8}", compact):
+        if compact in _NOT_A_PERSON_NAME:
+            return None
+        return compact
+    # 「姓名：张三」「教师: 李四」等：优先取分隔符右侧片段
+    for sep in ("：", ":"):
+        if sep in t:
+            right = t.split(sep, 1)[-1].strip()
+            rc = re.sub(r"\s+", "", right)
+            if re.fullmatch(r"[\u4e00-\u9fff]{2,8}", rc) and rc not in _NOT_A_PERSON_NAME:
+                return rc
+    m = re.search(r"[\u4e00-\u9fff]{2,8}", t)
+    cand = m.group(0) if m else None
+    if cand is not None and cand in _NOT_A_PERSON_NAME:
+        return None
+    return cand
+
+
+def _llm_resolve_tutor_name_cn(
+    *,
+    url: str,
+    markdown_text: str,
+    dispatcher: LLMDispatcher,
+    slot_token: str,
+    max_tokens: int,
+    log: AgentLogger,
+) -> str | None:
+    excerpt = markdown_text if len(markdown_text) <= _NAME_FALLBACK_MD_CAP else markdown_text[:_NAME_FALLBACK_MD_CAP]
+    messages: list[ChatMessage] = [
+        {"role": "system", "content": _SYSTEM_NAME_FALLBACK},
+        {
+            "role": "user",
+            "content": f"URL:\n{url}\n\n----- Markdown（节选） -----\n{excerpt}",
+        },
+    ]
+    try:
+        raw = slot_complete(
+            dispatcher,
+            slot_token,
+            messages,
+            max_tokens=max_tokens,
+        )
+    except Exception as e:
+        log.warn(
+            "LLM 姓名兜底调用失败",
+            detail=f"{url[:100]} err={e!s}",
+        )
+        return None
+    try:
+        obj = parse_llm_json_object(raw)
+    except LinkChooseError:
+        log.warn("LLM 姓名兜底输出非合法 JSON", detail=url[:120])
+        return None
+    if not isinstance(obj, dict):
+        return None
+    return _normalize_cn_name_candidate(obj.get("tutor_name_cn"))
 
 
 class GetTutorAnalyseAgent:
@@ -113,6 +252,8 @@ class GetTutorAnalyseAgent:
         dispatcher: LLMDispatcher,
         *,
         max_tokens: int = 16384,
+        name_resolve_max_tokens: int = 512,
+        name_resolve_llm_first: bool = True,
     ) -> GetTutorAnalyseResult:
         log = AgentLogger("GetTutorAnalyseAgent")
         dispatcher.resolve(inv.model.token)
@@ -141,6 +282,8 @@ class GetTutorAnalyseAgent:
             raise GetTutorAnalyseError("state.list2_tutor_profiles 缺失或类型错误")
         if not isinstance(records, list):
             raise GetTutorAnalyseError("state.records 缺失或类型错误")
+        if name_resolve_max_tokens <= 0:
+            raise ValueError("name_resolve_max_tokens 必须为正整数")
         list4_analysed = state.get("list4_analysed_profiles")
         if not isinstance(list4_analysed, list):
             list4_analysed = []
@@ -156,8 +299,10 @@ class GetTutorAnalyseAgent:
             cleaned_file = str(rec.get("cleaned_file") or "").strip()
             if not url or not cleaned_file:
                 continue
-            fp = _resolve_maybe_relative(cleaned_file, base_dir=workspace_dir)
-            if fp.is_file():
+            fp = _resolve_cleaned_markdown(
+                cleaned_file, out_dir=workspace_dir, cleaned_dir=cleaned_dir
+            )
+            if fp is not None:
                 record_map[url] = fp
                 record_ref_map[url] = rec
 
@@ -184,8 +329,45 @@ class GetTutorAnalyseAgent:
                 continue
 
             md_text = md_path.read_text(encoding="utf-8", errors="replace")
-            name_from_h1 = _extract_h1_name(md_text)
-            final_name = (name_from_h1 or "").strip()
+            final_name = ""
+            if name_resolve_llm_first:
+                log.step(
+                    "LLM 推断导师姓名",
+                    detail=f"{i}/{total} {url[:100]}",
+                )
+                final_name = (
+                    _llm_resolve_tutor_name_cn(
+                        url=url,
+                        markdown_text=md_text,
+                        dispatcher=dispatcher,
+                        slot_token=inv.model.token,
+                        max_tokens=name_resolve_max_tokens,
+                        log=log,
+                    )
+                    or ""
+                ).strip()
+            if not final_name:
+                name_from_h1 = _extract_h1_name(md_text)
+                final_name = (name_from_h1 or "").strip()
+            if not final_name:
+                name_bold = _extract_bold_cn_name(md_text)
+                final_name = (name_bold or "").strip()
+            if not final_name and not name_resolve_llm_first:
+                log.step(
+                    "标题未识别姓名，LLM 兜底推断",
+                    detail=f"{i}/{total} {url[:100]}",
+                )
+                final_name = (
+                    _llm_resolve_tutor_name_cn(
+                        url=url,
+                        markdown_text=md_text,
+                        dispatcher=dispatcher,
+                        slot_token=inv.model.token,
+                        max_tokens=name_resolve_max_tokens,
+                        log=log,
+                    )
+                    or ""
+                ).strip()
             if not final_name:
                 skipped_items.append({"url": url, "reason": "cannot_resolve_unique_name"})
                 log.warn("跳过页面", detail=f"{url} cannot_resolve_unique_name")
@@ -268,8 +450,17 @@ class GetTutorAnalyseAgent:
         dispatcher: LLMDispatcher,
         *,
         max_tokens: int = 16384,
+        name_resolve_max_tokens: int = 512,
+        name_resolve_llm_first: bool = True,
     ) -> GetTutorAnalyseResult:
-        return await asyncio.to_thread(self.run, inv, dispatcher, max_tokens=max_tokens)
+        return await asyncio.to_thread(
+            self.run,
+            inv,
+            dispatcher,
+            max_tokens=max_tokens,
+            name_resolve_max_tokens=name_resolve_max_tokens,
+            name_resolve_llm_first=name_resolve_llm_first,
+        )
 
 
 __all__ = [

@@ -1,0 +1,427 @@
+{
+  "clickable_links": [
+    {
+      "url": "http://faculty.hust.edu.cn/ttian/zh_CN/index.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/tiantian12/en/index.htm",
+      "anchor_text": "English",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/_ts/gkzn/images/gbbtn.png",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/_ts/gkzn/images/ss.png",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/ttian/zh_CN/index/2364259/list/index.htm",
+      "anchor_text": "首页",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/ttian/zh_CN/zhym/2364260/list/index.htm",
+      "anchor_text": "科学研究",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/ttian/zh_CN/yjgk/2364261/list/index.htm",
+      "anchor_text": "研究领域",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/ttian/zh_CN/lwcg/2364262/list/index.htm",
+      "anchor_text": "论文成果",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/ttian/zh_CN/zlcg/2364263/list/index.htm",
+      "anchor_text": "专利",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/ttian/zh_CN/zzcg/2364264/list/index.htm",
+      "anchor_text": "著作成果",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/ttian/zh_CN/kyxm/2364265/list/index.htm",
+      "anchor_text": "科研项目",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/ttian/zh_CN/zhym/2364266/list/index.htm",
+      "anchor_text": "教学研究",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/ttian/zh_CN/skxx/2364268/list/index.htm",
+      "anchor_text": "授课信息",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/ttian/zh_CN/hjxx/2364270/list/index.htm",
+      "anchor_text": "获奖信息",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/_ts/gkzn/images/banner.png",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/16/rBAGRmBUHHGAJlEQAAKJyx3D5HY512.png?randomid=1772161094813",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/ttian/zh_CN/jsxx/2364259/jsxx/jsxx.htm",
+      "anchor_text": "更多+",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/ttian/zh_CN/more/2364259/jsjjgd/index.htm",
+      "anchor_text": "查看更多>",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/ttian/zh_CN/more/2364259/jyjlgd/index.htm",
+      "anchor_text": "查看更多",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/ttian/zh_CN/more/2364259/gzjlgd/index.htm",
+      "anchor_text": "查看更多",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/ttian/zh_CN/lwcg/2364262/content/168233.htm#lwcg",
+      "anchor_text": "Contextually-Guided State Space Fusion for Misaligned Multi-Spectral Object Detection.ACM Multimedia (ACMMM) 2025,2025,",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/ttian/zh_CN/lwcg/2364262/content/168232.htm#lwcg",
+      "anchor_text": "ESCVehicle: A Drone-based Visible-Infrared Vehicle Benchmark with Extensive Scene Coverage.IEEE Transactions on Geoscience and Remote Sensing,2026,",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/ttian/zh_CN/lwcg/2364262/content/168231.htm#lwcg",
+      "anchor_text": "Regional Defeats Global: An Efficient Regional Feature Fusion via Convolutional Architecture for Multispectral Object Detection.Information Fusion,2026,",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/ttian/zh_CN/lwcg/2364262/content/136939.htm#lwcg",
+      "anchor_text": "Omni-Scene Infrared Vehicle Detection: An Efficient Selective Aggregation Approach and a Unified Benchmark.ISPRS Journal of Photogrammetry and Remote Sensing,2025, 223, 244-260",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/ttian/zh_CN/lwcg/2364262/content/136938.htm#lwcg",
+      "anchor_text": "Robust Point Cloud Registration via Patch Matching.IEEE Transactions on Geoscience and Remote Sensing,2025(63)",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/ttian/zh_CN/lwcg/2364262/content/136937.htm#lwcg",
+      "anchor_text": "Label Semantic Dynamic Guidance Network for Remote Sensing Image Scene Classification.IEEE Transactions on Geoscience and Remote Sensing,2025(63)",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/ttian/zh_CN/lwcg/2364262/list/index.htm",
+      "anchor_text": "查看更多>",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/ttian/zh_CN/zlcg/2364263/content/100799.htm#zlcg",
+      "anchor_text": "一种基于多模态自注意力机制生成对抗网络的红外图像生成及装置.发明,ZL 2025 1 0100455.9,",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/ttian/zh_CN/zlcg/2364263/content/86605.htm#zlcg",
+      "anchor_text": "多输出土地覆盖分类模型的训练方法、分类方法及装置.",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/ttian/zh_CN/zlcg/2364263/list/index.htm",
+      "anchor_text": "查看更多>",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/ttian/zh_CN/zzcg/2364264/content/7607.htm#zzcg",
+      "anchor_text": "地质环境高光谱遥感数据处理技术",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/ttian/zh_CN/zzcg/2364264/content/6414.htm#zzcg",
+      "anchor_text": "复杂地质环境遥感影像智能解译理论与方法",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/ttian/zh_CN/zzcg/2364264/content/6413.htm#zzcg",
+      "anchor_text": "图像匹配导航定位技术",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/ttian/zh_CN/zzcg/2364264/list/index.htm",
+      "anchor_text": "查看更多>",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/ttian/zh_CN/yjfx/2364259/content/6695.htm#yjfx",
+      "anchor_text": "计算机视觉",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/ttian/zh_CN/yjfx/2364259/content/5735.htm#yjfx",
+      "anchor_text": "遥感图像处理",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/ttian/zh_CN/yjfx/2364259/content/5737.htm#yjfx",
+      "anchor_text": "导航与制导",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/ttian/zh_CN/yjfx/2364259/content/6696.htm#yjfx",
+      "anchor_text": "人工智能与深度学习",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/ttian/zh_CN/more/2364259/tdgd/index.htm",
+      "anchor_text": "查看更多",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/05/rBAGRl8CDcOAFyf0AACRnp7MLUA912.jpg?randomid=1772161097000",
+      "anchor_text": "![",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/07/rBAGRl8CDfOACBt7AAAt_cX-PxY742.jpg?randomid=1772161097009",
+      "anchor_text": "![",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/1E/rBAGRWIvUoeAD7GdAAHRaeXaEco673.png?randomid=1772161097023",
+      "anchor_text": "![",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/3B/rBAGRWfXhhuAfttpAAGnyGFe3zo414.png?randomid=1772161097038",
+      "anchor_text": "![",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/2B/rBAGRmhiO0yAW-CDAAGuKaIraOE180.png?randomid=1772161097055",
+      "anchor_text": "![",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/21/rBAGRmKpUn2AAEiPAALIjjuKvMQ757.jpg?randomid=1772161096986",
+      "anchor_text": "![",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/ttian/zh_CN/tzybd/2364259/list/index.htm",
+      "anchor_text": "同专业博导",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/ttian/zh_CN/tzysd/2364259/list/index.htm",
+      "anchor_text": "同专业硕导",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    }
+  ]
+}

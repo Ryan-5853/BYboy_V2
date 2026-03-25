@@ -1,0 +1,167 @@
+{
+  "meta": {
+    "tutor_name_cn": "姜艺",
+    "request_url": "http://faculty.hust.edu.cn/JIANGYI/zh_CN/index.htm",
+    "declared_source_url": "http://faculty.hust.edu.cn/JIANGYI/zh_CN/index.htm",
+    "page_host": "faculty.hust.edu.cn",
+    "markdown_cache_path": "D:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\519f3a7bfce07129f2e9d6ed750534e2c3fb41e377ff258e4df6cda5489d8c0b.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "target_person": "姜艺",
+    "source_url": "http://faculty.hust.edu.cn/JIANGYI/zh_CN/index.htm",
+    "basic_information": {
+      "name_cn": "姜艺",
+      "profile_image": "http://faculty.hust.edu.cn/_resources/group1/M00/00/29/rBAGRmfamoGAf5JKAAInbCGGUKc467.png?randomid=1769810301277",
+      "titles": [
+        "研究员",
+        "博士生导师",
+        "硕士生导师",
+        "华中卓越特聘教授",
+        "教授 (2025.3至今)"
+      ],
+      "employment_status": "在职",
+      "department": "人工智能与自动化学院",
+      "education_level": "研究生(博士)毕业",
+      "degree": "工学博士学位",
+      "graduation_school": "东北大学",
+      "discipline": "控制理论与控制工程",
+      "contact_information": {
+        "zip_code": "430074",
+        "email": "auto_yijiang@hust.edu.cn",
+        "office_address": null
+      },
+      "honorary_titles": [
+        "国家级青年人才计划入选者",
+        "香港研資局傑出研究學者協會会员",
+        "全球前2%顶尖科学家榜单(2025年度)"
+      ]
+    },
+    "personal_profile": "姜艺，华中卓越特聘教授，博士生导师，国家级青年人才计划入选者，香港研資局傑出研究學者協會会员，入选全球前2%顶尖科学家榜单(2025年度)。2014年、2016年和2020年分别获得东北大学学士、硕士、博士学位，师从中国工程院院士、IEEE Life Fellow、IFAC Fellow，柴天佑教授。2017年1-7月受邀赴美国德克萨斯大学阿灵顿分校担任访问学者，师从美国国家发明家科学院院士、IEEE Life Fellow、IFAC Fellow，Frank L. Lewis教授。2018年3月至2019年3月受邀赴加拿大阿尔伯塔大学担任研究助理，师从加拿大皇家科学院与国家工程院院士、IEEE/IFAC Fellow，Tongwen Chen教授。2021年3月至2025年2月在香港城市大学从事博士后研究 work，合作导师分别为IEEE Fellow、长江学者讲座教授Gang Feng教授，与欧洲科学院院士、IEEE Life Fellow、长江学者讲座教授Guanrong Chen教授。",
+    "education_experience": [
+      {
+        "period": "2016.9-2020.4",
+        "school": "东北大学",
+        "degree": "工学博士学位",
+        "status": "研究生(博士)毕业"
+      },
+      {
+        "period": "2014.9-2016.7",
+        "school": "东北大学",
+        "degree": "工学硕士学位",
+        "status": "研究生(硕士)毕业"
+      },
+      {
+        "period": "2010.8-2014.6",
+        "school": "东北大学",
+        "degree": "工学学士学位",
+        "status": "本科(学士)"
+      }
+    ],
+    "work_experience": [
+      {
+        "period": "2025.3至今",
+        "institution": "华中科技大学",
+        "department": "人工智能与自动化学院",
+        "position": "教授"
+      },
+      {
+        "period": "2022.9-2025.2",
+        "institution": "香港城市大学",
+        "department": "复杂网络与复杂性研究中心",
+        "position": "博士后"
+      },
+      {
+        "period": "2021.3-2022.9",
+        "institution": "香港城市大学",
+        "department": "机器人与自动化研究中心",
+        "position": "博士后"
+      },
+      {
+        "period": "2018.3-2019.3",
+        "institution": "加拿大阿尔伯塔大学",
+        "department": "电子与计算机工程学院",
+        "position": "助理研究员"
+      },
+      {
+        "period": "2017.1-2017.7",
+        "institution": "美国德克萨斯大学阿灵顿分校",
+        "department": "UTA研究院",
+        "position": "访问学者"
+      }
+    ],
+    "research_information": {
+      "research_directions": [
+        "基于学习的控制",
+        "输出调节",
+        "事件触发控制",
+        "集群协同控制",
+        "非线性与随机系统分析与综合"
+      ],
+      "publications_and_profiles": {
+        "github_publications": "https://yijiang1992.github.io/publications.html",
+        "google_scholar": "https://scholar.google.com/citations?user=HhoLzRAAAAAJ&hl=zh-CN",
+        "researchgate": "https://www.researchgate.net/profile/Yi-Jiang/research"
+      },
+      "recruitment_info": "常年招收对以上研究方向感兴趣的自动化、人工智能、机器人、数学和计算机等专业的硕士、博士研究生、博士后。如有兴趣请附材料发送邮件至auto_yijiang@hust.edu.cn"
+    },
+    "projects_and_awards": {
+      "projects": [
+        "国家自然科学基金优秀青年科学基金项目(海外) [主持]",
+        "青年科学基金项目(C类)[原青年科学基金项目] [主持]",
+        "国家自然科学基金重大项目 [参与]",
+        "重点项目 [参与]",
+        "面上项目 [参与]"
+      ],
+      "awards": [
+        "香港研究资助局博士后奖学金计划 2023/2024",
+        "2021年中国自动化学会优秀博士论文奖",
+        "粤港澳大湾区人工智能与自动化学会2024年优秀论文一等奖",
+        "第34届中国控制与决策会议张嗣瀛优秀青年论文奖提名奖"
+      ]
+    },
+    "social_affiliations": {
+      "editorial_roles": [
+        {
+          "journal": "Advanced Control for Applications: Engineering and Industrial Systems",
+          "role": "Associate Editor"
+        }
+      ],
+      "other_affiliations": [
+        "香港研資局傑出研究學者協會会员"
+      ]
+    },
+    "research_group": {
+      "team_name": "类脑智能与智能控制实验室",
+      "team_website": "http://biic.aia.hust.edu.cn/index.htm"
+    },
+    "site_chrome": {
+      "navigation_links": [
+        {
+          "anchor_text": "同专业博导",
+          "url": "http://faculty.hust.edu.cn/JIANGYI/zh_CN/tzybd/2618155/list/index.htm"
+        },
+        {
+          "anchor_text": "同专业硕导",
+          "url": "http://faculty.hust.edu.cn/JIANGYI/zh_CN/tzysd/2618155/list/index.htm"
+        }
+      ],
+      "page_elements": [
+        "个人信息Personal Information",
+        "其他联系方式Other Contact Information",
+        "个人简介Personal Profile",
+        "教育经历Education Background",
+        "工作经历Work Experience",
+        "研究方向Research Focus",
+        "社会兼职Social Affiliations",
+        "团队成员Research Group"
+      ]
+    },
+    "uncategorized": {
+      "heart_icon": "http://faculty.hust.edu.cn/_ts/qtmbzw1/images/ico-heart-i.png"
+    }
+  }
+}

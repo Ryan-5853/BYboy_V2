@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "tutor_name_cn": "李曦",
+    "request_url": "http://faculty.hust.edu.cn/lixi2/zh_CN/index.htm",
+    "declared_source_url": "http://faculty.hust.edu.cn/lixi2/zh_CN/index.htm",
+    "page_host": "faculty.hust.edu.cn",
+    "markdown_cache_path": "D:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\7a52ab57acfa887fc5395237a1a9d41515aa66b0a09b3f6e0d3afd0bc1f84fa1.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "mentor_name": "李曦",
+    "source_url": "http://faculty.hust.edu.cn/lixi2/zh_CN/index.htm",
+    "personal_info": {
+      "name": "李曦",
+      "titles": [
+        "教授",
+        "博士生导师",
+        "硕士生导师"
+      ],
+      "gender": "男",
+      "employment_status": "在职",
+      "affiliation": "人工智能与自动化学院",
+      "education_level": "研究生(博士)毕业",
+      "degree": "工学博士学位",
+      "more_info_link": {
+        "url": "http://faculty.hust.edu.cn/lixi2/zh_CN/jsxx/1526233/jsxx/jsxx.htm",
+        "anchor_text": "更多+"
+      },
+      "profile_image_url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/38/rBAGRWcWCIuADZTrAAGgtnRHzRQ466.png?randomid=1770717473432"
+    },
+    "contact_info": {
+      "zip_code": "430074",
+      "email": "lixi@hust.edu.cn"
+    },
+    "biography": {
+      "text": "李曦，华中科技大学人工智能与自动化学院二级教授、博导、国家“万人计划”科技创新领军人才、国家重点研发计划项目首席科学家、教育部新世纪优秀人才、校卓越首席教授。2005年毕业于上海交通大学自动化系并获博士学位，2010年被评为华中科技大学博士生导师，2012年晋升为教授。曾在美国密歇根大学（安娜堡）作为访问学者从事学术研究工作。专注氢能与燃料电池等智慧能源控制领域的教学科研与成果转化研究20余年。主持国家重点研发计划、国基金青年/面上/重点类项目、国家科技支撑计划课题、湖北省杰出青年基金等国家级、省/市/区重点与企业项目四十余项；以第一或通讯作者发表SCI期刊（含IEEE汇刊）学术论文100余篇、授权中/美国家发明专利50...",
+      "full_text_link": {
+        "url": "http://faculty.hust.edu.cn/lixi2/zh_CN/more/1526233/jsjjgd/index.htm",
+        "anchor_text": "查看更多>"
+      }
+    },
+    "education_experience": "暂无内容",
+    "work_experience": "暂无内容",
+    "research_achievements": {
+      "papers": "暂无内容",
+      "patents": "暂无内容",
+      "monographs": "暂无内容"
+    },
+    "social_affiliations": "暂无内容",
+    "research_directions": "暂无内容",
+    "team_members": "暂无内容",
+    "site_chrome": {
+      "language_toggle": {
+        "english": {
+          "url": "http://faculty.hust.edu.cn/lixi2/en/index.htm",
+          "anchor_text": "English"
+        }
+      },
+      "images": [
+        "http://faculty.hust.edu.cn/_ts/gkzn/images/gbbtn.png",
+        "http://faculty.hust.edu.cn/_ts/gkzn/images/ss.png",
+        "http://faculty.hust.edu.cn/_ts/gkzn/images/banner.png"
+      ],
+      "navigation": [
+        {
+          "anchor_text": "首页",
+          "url": "http://faculty.hust.edu.cn/lixi2/zh_CN/index/1526233/list/index.htm"
+        },
+        {
+          "anchor_text": "科学研究",
+          "url": "http://faculty.hust.edu.cn/lixi2/zh_CN/zhym/1526234/list/index.htm",
+          "sub_items": [
+            {
+              "anchor_text": "研究领域",
+              "url": "http://faculty.hust.edu.cn/lixi2/zh_CN/yjgk/1526235/list/index.htm"
+            },
+            {
+              "anchor_text": "论文成果",
+              "url": "http://faculty.hust.edu.cn/lixi2/zh_CN/lwcg/1526236/list/index.htm"
+            },
+            {
+              "anchor_text": "专利",
+              "url": "http://faculty.hust.edu.cn/lixi2/zh_CN/zlcg/1526237/list/index.htm"
+            },
+            {
+              "anchor_text": "著作成果",
+              "url": "http://faculty.hust.edu.cn/lixi2/zh_CN/zzcg/1526238/list/index.htm"
+            },
+            {
+              "anchor_text": "科研项目",
+              "url": "http://faculty.hust.edu.cn/lixi2/zh_CN/kyxm/1526239/list/index.htm"
+            }
+          ]
+        },
+        {
+          "anchor_text": "教学研究",
+          "url": "http://faculty.hust.edu.cn/lixi2/zh_CN/zhym/1526240/list/index.htm",
+          "sub_items": [
+            {
+              "anchor_text": "教学资源",
+              "url": "http://faculty.hust.edu.cn/lixi2/zh_CN/jxzy/1526241/list/index.htm"
+            },
+            {
+              "anchor_text": "授课信息",
+              "url": "http://faculty.hust.edu.cn/lixi2/zh_CN/skxx/1526242/list/index.htm"
+            },
+            {
+              "anchor_text": "教学成果",
+              "url": "http://faculty.hust.edu.cn/lixi2/zh_CN/jxcg/1526243/list/index.htm"
+            }
+          ]
+        },
+        {
+          "anchor_text": "获奖信息",
+          "url": "http://faculty.hust.edu.cn/lixi2/zh_CN/hjxx/1526244/list/index.htm"
+        },
+        {
+          "anchor_text": "招生信息",
+          "url": "http://faculty.hust.edu.cn/lixi2/zh_CN/zsxx/1526245/list/index.htm"
+        },
+        {
+          "anchor_text": "学生信息",
+          "url": "http://faculty.hust.edu.cn/lixi2/zh_CN/xsxx/1526246/list/index.htm"
+        },
+        {
+          "anchor_text": "我的相册",
+          "url": "http://faculty.hust.edu.cn/lixi2/zh_CN/img/1526247/list/index.htm"
+        },
+        {
+          "anchor_text": "教师博客",
+          "url": "http://faculty.hust.edu.cn/lixi2/zh_CN/article/1526248/list/index.htm"
+        }
+      ],
+      "related_faculty_links": [
+        {
+          "anchor_text": "同专业博导",
+          "url": "http://faculty.hust.edu.cn/lixi2/zh_CN/tzybd/1526233/list/index.htm"
+        },
+        {
+          "anchor_text": "同专业硕导",
+          "url": "http://faculty.hust.edu.cn/lixi2/zh_CN/tzysd/1526233/list/index.htm"
+        }
+      ]
+    }
+  }
+}

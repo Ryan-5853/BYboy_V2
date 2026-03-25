@@ -1,0 +1,241 @@
+{
+  "meta": {
+    "tutor_name_cn": "葛俊锋",
+    "request_url": "https://aia.hust.edu.cn/info/1577/10042.htm",
+    "declared_source_url": "https://aia.hust.edu.cn/info/1577/10042.htm",
+    "page_host": "aia.hust.edu.cn",
+    "markdown_cache_path": "D:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\c27582dac07ecba925f513ac2321aaa14854c5b82140b6030783af482f745aa2.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": "包含导师职称、联系方式、详细研究方向、教育背景、招生要求及具体的论文和项目成果，信息量充足。"
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "target_professor": "葛俊锋",
+    "page_metadata": {
+      "url": "https://aia.hust.edu.cn/info/1577/10042.htm",
+      "publish_time": "2025-06-29",
+      "view_count": 1724,
+      "author": null
+    },
+    "basic_info": {
+      "name": "葛俊锋",
+      "title": "副教授",
+      "contact": {
+        "phone": "027-87556579",
+        "email": "gejf@mail.hust.edu.cn"
+      },
+      "profile_image": "https://aia.hust.edu.cn/__local/C/01/F4/F0C2FAA0BB95C33416A9E00F43A_835EFEB8_29154.jpg?e=.jpg",
+      "research_interests": [
+        "结冰传感器及探测技术",
+        "光纤式燃油液位传感器等"
+      ]
+    },
+    "education_background": [
+      {
+        "period": "1999—2003年",
+        "institution": "华中科技大学",
+        "major": "测控技术与仪器专业",
+        "degree": "学士学位"
+      },
+      {
+        "period": "2003—2005年",
+        "institution": "清华大学",
+        "major": "检测技术与自动化装置专业",
+        "degree": "硕士学位"
+      },
+      {
+        "period": "2005—2009年",
+        "institution": "清华大学",
+        "major": "控制科学与工程",
+        "degree": "博士学位"
+      }
+    ],
+    "research_details": {
+      "detailed_directions": [
+        "结冰传感器及探测技术",
+        "光纤式燃油液位传感器",
+        "发射率在线测量及红外非接触测温技术",
+        "视觉测量技术",
+        "图像视频处理及模式识别",
+        "嵌入式测控系统"
+      ],
+      "projects": {
+        "hosted_projects": [
+          "光纤式飞机结冰探测相关项目（共三项，包括一项国家自然科学青年基金项目）",
+          "风力机结冰探测项目（横向）",
+          "三维手势识别项目（横向）",
+          "其他横向项目两项"
+        ],
+        "participated_projects": [
+          "国家自然科学面上基金项目1项",
+          "航空联合基金重点项目1项"
+        ]
+      }
+    },
+    "admissions": {
+      "major_requirements": [
+        "自动化",
+        "测控",
+        "机械",
+        "光学"
+      ],
+      "enrollment_direction": "检测技术与自动化装置"
+    },
+    "achievements": {
+      "statistics": {
+        "total_papers": "20多篇",
+        "sci_ei_indexed": 10,
+        "patents_applied": 8
+      },
+      "representative_papers": [
+        "[1] Ge Junfeng, Ye Lin, Zou Jianhong. A Novel Fiber-optic Ice Sensor Capable of Identifying Ice Type Accurately[J]. Sensors and Actuators A: Physical, 2012, 175: 35-42",
+        "[2] Ge Junfeng, Luo, Yupin, Tei Gyomei. Real-time Pedestrian Detection and Tracking at Nighttime for Driver Assistance Systems[J]. IEEE Transactions on Intelligent Transportation Systems, 2009, 10(2): 283-198.",
+        "[3] Zou Jianhong, Ye Lin, Ge Junfeng. Ice type detection using an oblique end-face fibre-optic technique[J]. Measurement Science and Technology. 2013, 24(3): 035201.",
+        "[4] Zou Jianhong, Ye Lin, Ge Junfeng, et al. Novel fiber optic sensor for ice type detection[J]. Measurement: Journal of the International Measurement Confederation. 2013, 46(2): 881-886.",
+        "[5] Zhao Chengrui, Ye Lin, Ge Junfeng, et al. Novel light-leaking optical fiber liquid-level sensor for aircraft fuel gauging[J]. Optical Engineering. 2013, 52(1): 14402."
+      ],
+      "awards": [
+        "获中国航空工业集团公司航空科学技术奖三等奖1项"
+      ]
+    },
+    "site_chrome": {
+      "organization": "华中科技大学人工智能与自动化学院",
+      "navigation": [
+        {
+          "text": "首页",
+          "url": "https://aia.hust.edu.cn/index.htm"
+        },
+        {
+          "text": "院系概况",
+          "sub_items": [
+            "学院简介",
+            "组织机构",
+            "现任领导"
+          ]
+        },
+        {
+          "text": "师资队伍",
+          "sub_items": [
+            "杰出学者",
+            "学院师资",
+            "实验工程人员",
+            "博士后",
+            "荣休教师"
+          ]
+        },
+        {
+          "text": "学生培养",
+          "sub_items": [
+            "本科生教育",
+            "研究生教育",
+            "学生工作"
+          ]
+        },
+        {
+          "text": "科学研究",
+          "sub_items": [
+            "喻园.AIA学术论坛",
+            "学术会议",
+            "挂靠学会",
+            "服务指南",
+            "平台建设"
+          ]
+        },
+        {
+          "text": "党群工作",
+          "sub_items": [
+            "党旗领航",
+            "廉政教育",
+            "党史学习教育",
+            "离退休"
+          ]
+        },
+        {
+          "text": "国际交流",
+          "sub_items": [
+            "外事流程",
+            "教师交流",
+            "学生交换",
+            "经验分享"
+          ]
+        },
+        {
+          "text": "人才招聘",
+          "url": "https://aia.hust.edu.cn/rczp.htm"
+        },
+        {
+          "text": "校友专栏",
+          "sub_items": [
+            "校友动态",
+            "校友名录",
+            "校友照片",
+            "校友风采",
+            "校友服务",
+            "50周年院庆",
+            "我要捐赠"
+          ]
+        },
+        {
+          "text": "培训服务",
+          "url": "http://aitc.hust.edu.cn/"
+        },
+        {
+          "text": "院长信箱",
+          "url": "https://aia.hust.edu.cn/yzxx.htm"
+        }
+      ],
+      "breadcrumbs": [
+        "首页",
+        "师资队伍",
+        "学院师资",
+        "按姓名拼音首字母列表",
+        "G",
+        "正文"
+      ],
+      "sidebar_links": [
+        {
+          "text": "杰出学者",
+          "url": "https://aia.hust.edu.cn/szdw/jcxz.htm"
+        },
+        {
+          "text": "学院师资",
+          "url": "https://aia.hust.edu.cn/szdw/xysz/axmpyszmlb.htm"
+        },
+        {
+          "text": "实验工程人员",
+          "url": "https://aia.hust.edu.cn/szdw/sygcry.htm"
+        },
+        {
+          "text": "博士后",
+          "url": "https://aia.hust.edu.cn/szdw/bsh.htm"
+        },
+        {
+          "text": "荣休教师",
+          "url": "https://aia.hust.edu.cn/szdw/rxjs.htm"
+        }
+      ],
+      "language_versions": [
+        {
+          "text": "English Version",
+          "url": "https://en-aia.hust.edu.cn/"
+        }
+      ],
+      "neighboring_pages": {
+        "previous": {
+          "name": "高常鑫",
+          "url": "http://faculty.hust.edu.cn/cgao/zh_CN/more/1104201/jsjjgd/index.htm"
+        },
+        "next": {
+          "name": "桂康",
+          "url": "http://faculty.hust.edu.cn/~qYFZFz/zh_CN/index.htm"
+        }
+      },
+      "footer": "版权所有：华中科技大学人工智能与自动化学院"
+    },
+    "uncategorized": [
+      "官方公众号二维码图片存在",
+      "学院Logo与Banner图片链接已保留"
+    ]
+  }
+}

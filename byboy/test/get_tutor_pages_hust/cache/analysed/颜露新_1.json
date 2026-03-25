@@ -1,0 +1,166 @@
+{
+  "meta": {
+    "tutor_name_cn": "颜露新",
+    "request_url": "http://faculty.hust.edu.cn/yanluxin/zh_CN/index.htm",
+    "declared_source_url": "http://faculty.hust.edu.cn/yanluxin/zh_CN/index.htm",
+    "page_host": "faculty.hust.edu.cn",
+    "markdown_cache_path": "D:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\0232aa39fcdda24b810858815ef87ea2a86c4fee23b669944c32c65062db0ee8.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": "包含导师的职衔、教育背景、工作经历、荣誉、联系方式及个人简介等大量有效信息。"
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "target_professor": "颜露新",
+    "source_url": "http://faculty.hust.edu.cn/yanluxin/zh_CN/index.htm",
+    "basic_information": {
+      "name": "颜露新",
+      "gender": "男",
+      "titles": [
+        "教授",
+        "博士生导师",
+        "硕士生导师"
+      ],
+      "employment_status": "在职",
+      "institution": "多谱信息智能处理技术全国重点实验室",
+      "department": "人工智能与自动化学院飞行器导航制导系",
+      "education_background": "研究生(博士)毕业",
+      "degree": "工学博士学位",
+      "alma_mater": "华中科技大学",
+      "disciplines": [
+        "模式识别与智能系统",
+        "导航、制导与控制"
+      ],
+      "honorary_titles": [
+        {
+          "year": "2020",
+          "title": "国家科技进步二等奖"
+        },
+        {
+          "year": "2018",
+          "title": "入选湖北省杰出青年人才计划"
+        },
+        {
+          "year": "2018",
+          "title": "华中科技大学“青年五四奖章”"
+        },
+        {
+          "year": "2017",
+          "title": "教育部科技进步一等奖"
+        },
+        {
+          "year": "2015",
+          "title": "湖北省优秀硕士学位论文指导教师"
+        }
+      ]
+    },
+    "contact_information": {
+      "zip_code": "430074",
+      "office_address": "华中科技大学逸夫科技楼1008房间",
+      "office_phone": "027-87556041",
+      "email": "yanluxin@hust.edu.cn"
+    },
+    "personal_profile": {
+      "summary": "颜露新，教授、博士生导师，长期从事多谱成像处理与目标识别研究。现任华中科技大学多谱信息处理技术国家级重点实验室副主任，人工智能与自动化学院飞行器导航制导系主任。主持过国家自然科学基金、总装预研基金、国家重大专项子题等项目。",
+      "full_profile_link": "http://faculty.hust.edu.cn/yanluxin/zh_CN/more/1374873/jsjjgd/index.htm"
+    },
+    "research_focus": [
+      {
+        "direction": "成像探测与处理",
+        "link": "http://faculty.hust.edu.cn/yanluxin/zh_CN/yjfx/1374873/content/3251.htm#yjfx"
+      },
+      "多谱图像处理",
+      "目标检测与识别",
+      "嵌入式实时图像处理系统"
+    ],
+    "education_experience": [
+      {
+        "period": "2001.9 ~ 2007.3",
+        "school": "华中科技大学",
+        "major": "模式识别与智能系统",
+        "degree": "工学博士学位",
+        "status": "研究生(博士)毕业"
+      },
+      {
+        "period": "1997.9 ~ 2001.6",
+        "school": "华中理工大学",
+        "major": "通信与信息系统",
+        "degree": "工学学士学位",
+        "status": "本科(学士)"
+      }
+    ],
+    "work_experience": [
+      {
+        "period": "2007.4-2009.9",
+        "unit": "计算机科学与技术博士后流动站",
+        "position": "博士后"
+      },
+      {
+        "period": "2009.10-2010.10",
+        "unit": "图像识别与人工智能研究所",
+        "position": "讲师"
+      },
+      {
+        "period": "2010.11-2016.10",
+        "unit": "图像识别与人工智能研究所",
+        "position": "副教授"
+      },
+      {
+        "period": "2016.11-至今",
+        "unit": "人工智能与自动化学院",
+        "position": "教授"
+      }
+    ],
+    "social_affiliations": [
+      "华中科技大学多谱信息处理技术国家级重点实验室副主任",
+      "人工智能与自动化学院飞行器导航制导系主任",
+      "中国图象图形学会成像探测与感知专委会委员",
+      "中国电机工程学会电力机器人专委会委员",
+      "《数字海洋与水下攻防》期刊编委"
+    ],
+    "team_members": "暂无内容",
+    "navigation_links": {
+      "home": "http://faculty.hust.edu.cn/yanluxin/zh_CN/index/1374873/list/index.htm",
+      "research": {
+        "main": "http://faculty.hust.edu.cn/yanluxin/zh_CN/zhym/1374874/list/index.htm",
+        "fields": "http://faculty.hust.edu.cn/yanluxin/zh_CN/yjgk/1374875/list/index.htm",
+        "papers": "http://faculty.hust.edu.cn/yanluxin/zh_CN/lwcg/1374876/list/index.htm",
+        "patents": "http://faculty.hust.edu.cn/yanluxin/zh_CN/zlcg/1374877/list/index.htm",
+        "publications": "http://faculty.hust.edu.cn/yanluxin/zh_CN/zzcg/1374878/list/index.htm",
+        "projects": "http://faculty.hust.edu.cn/yanluxin/zh_CN/kyxm/1374879/list/index.htm"
+      },
+      "teaching": {
+        "main": "http://faculty.hust.edu.cn/yanluxin/zh_CN/zhym/1374881/list/index.htm",
+        "resources": "http://faculty.hust.edu.cn/yanluxin/zh_CN/jxzy/1374883/list/index.htm",
+        "courses": "http://faculty.hust.edu.cn/yanluxin/zh_CN/skxx/1374885/list/index.htm",
+        "achievements": "http://faculty.hust.edu.cn/yanluxin/zh_CN/jxcg/1374887/list/index.htm"
+      },
+      "awards": "http://faculty.hust.edu.cn/yanluxin/zh_CN/hjxx/1374889/list/index.htm",
+      "enrollment": "http://faculty.hust.edu.cn/yanluxin/zh_CN/zsxx/1374891/list/index.htm",
+      "students": "http://faculty.hust.edu.cn/yanluxin/zh_CN/xsxx/1374893/list/index.htm",
+      "album": "http://faculty.hust.edu.cn/yanluxin/zh_CN/img/1374895/list/index.htm",
+      "blog": "http://faculty.hust.edu.cn/yanluxin/zh_CN/article/1374897/list/index.htm",
+      "similar_supervisors": {
+        "doctoral": "http://faculty.hust.edu.cn/yanluxin/zh_CN/tzybd/1374873/list/index.htm",
+        "master": "http://faculty.hust.edu.cn/yanluxin/zh_CN/tzysd/1374873/list/index.htm"
+      }
+    },
+    "site_chrome": {
+      "language_switch": {
+        "label": "English",
+        "url": "http://faculty.hust.edu.cn/yanluxin/en/index.htm"
+      },
+      "university": {
+        "name": "华中科技大学",
+        "url": "http://www.hust.edu.cn/"
+      },
+      "portal_logo": "http://faculty.hust.edu.cn/",
+      "current_date_display": "2026年3月24日，星期二",
+      "welcome_message": "欢迎来到我的主页！",
+      "images": [
+        "http://faculty.hust.edu.cn/_resources/group1/M00/00/23/rBAGRmNwyLWAMbTGAAIIcWQYiRc122.png?randomid=1770665710579",
+        "http://faculty.hust.edu.cn/_resources/group1/M00/00/10/rBAGRV8CDr-AeFVmAAA7EN17sME589.png"
+      ]
+    }
+  }
+}

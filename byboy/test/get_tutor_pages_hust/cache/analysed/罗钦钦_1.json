@@ -1,0 +1,171 @@
+{
+  "meta": {
+    "tutor_name_cn": "罗钦钦",
+    "request_url": "http://faculty.hust.edu.cn/LUOQINQIN/zh_CN/index.htm",
+    "declared_source_url": "http://faculty.hust.edu.cn/LUOQINQIN/zh_CN/index.htm",
+    "page_host": "faculty.hust.edu.cn",
+    "markdown_cache_path": "D:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\6567aa606e0197f843614a17c430e6fe5bd08b3bfa7ae35707fde12732e62855.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": "包含姓名、单位、联系方式、详细的教育及工作经历和个人简介，文字信息丰富。"
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "target_professor": "罗钦钦",
+    "source_url": "http://faculty.hust.edu.cn/LUOQINQIN/zh_CN/index.htm",
+    "basic_information": {
+      "name": "罗钦钦",
+      "gender": "男",
+      "employment_status": "在职",
+      "affiliation": "多谱信息智能处理技术全国重点实验室",
+      "education_level": "研究生(博士)毕业",
+      "degree": "工学博士学位",
+      "profile_image_url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/29/rBAGRmfjqv-AIReSAAI48rDQajA742.png?randomid=1767790043974"
+    },
+    "contact_information": {
+      "postcode": "430074",
+      "mobile_phone": "18040547443",
+      "email": "dr_qq_luo@hust.edu.cn"
+    },
+    "personal_biography": "本人主要从事飞行器总体设计、制导与控制、轨迹优化、航天器轨道动力学等方面科研工作，在科研院所工作多年，经历过多个实际型号研发飞试，具有丰富工程实践经验。",
+    "education_experience": [
+      {
+        "period": "2003.9~2007.7",
+        "institution": "北京航空航天大学",
+        "degree_level": "本科(学士)"
+      },
+      {
+        "period": "2007.9~2013.6",
+        "institution": "北京航空航天大学",
+        "degree_level": "研究生(博士)毕业"
+      }
+    ],
+    "work_experience": [
+      {
+        "organization": "湖南湘科浩宇科技有限公司",
+        "department": "研发部",
+        "position": "型号总师",
+        "responsibilities": "负责一型低成本轻型空地导弹技术研发，具体实施，日常管理。"
+      },
+      {
+        "organization": "北京航空航天大学",
+        "department": "宇航学院",
+        "position": "讲师",
+        "responsibilities": "负责航天器轨道高精度预报方法，近距离相对运动动力学模型，天基侦察仿真体系等方面研发。"
+      },
+      {
+        "organization": "航天科工九院九部",
+        "department": "总体室",
+        "position": "副主任设计师",
+        "responsibilities": "主要负责总体方案论证、标准弹道设计、射表软件研制。"
+      }
+    ],
+    "research_and_publications": {
+      "papers": "暂无内容",
+      "patents": "暂无内容",
+      "books": "暂无内容",
+      "research_projects": "暂无内容",
+      "research_fields": "暂无内容"
+    },
+    "teaching_and_awards": {
+      "teaching_resources": "暂无内容",
+      "teaching_info": "暂无内容",
+      "teaching_achievements": "暂无内容",
+      "awards": "暂无内容"
+    },
+    "other_information": {
+      "social_service": "暂无内容",
+      "enrollment_info": "暂无内容",
+      "student_info": "暂无内容",
+      "team_members": "暂无内容"
+    },
+    "site_navigation": {
+      "languages": [
+        {
+          "label": "English",
+          "url": "http://faculty.hust.edu.cn/LUOQINQIN/en/index.htm"
+        }
+      ],
+      "menu_items": [
+        {
+          "label": "首页",
+          "url": "http://faculty.hust.edu.cn/LUOQINQIN/zh_CN/index/2616714/list/index.htm"
+        },
+        {
+          "label": "科学研究",
+          "url": "http://faculty.hust.edu.cn/LUOQINQIN/zh_CN/zhym/2616715/list/index.htm",
+          "sub_items": [
+            {
+              "label": "研究领域",
+              "url": "http://faculty.hust.edu.cn/LUOQINQIN/zh_CN/yjgk/2616716/list/index.htm"
+            },
+            {
+              "label": "论文成果",
+              "url": "http://faculty.hust.edu.cn/LUOQINQIN/zh_CN/lwcg/2616717/list/index.htm"
+            },
+            {
+              "label": "专利",
+              "url": "http://faculty.hust.edu.cn/LUOQINQIN/zh_CN/zlcg/2616718/list/index.htm"
+            },
+            {
+              "label": "著作成果",
+              "url": "http://faculty.hust.edu.cn/LUOQINQIN/zh_CN/zzcg/2616719/list/index.htm"
+            },
+            {
+              "label": "科研项目",
+              "url": "http://faculty.hust.edu.cn/LUOQINQIN/zh_CN/kyxm/2616720/list/index.htm"
+            }
+          ]
+        },
+        {
+          "label": "教学研究",
+          "url": "http://faculty.hust.edu.cn/LUOQINQIN/zh_CN/zhym/2616721/list/index.htm",
+          "sub_items": [
+            {
+              "label": "教学资源",
+              "url": "http://faculty.hust.edu.cn/LUOQINQIN/zh_CN/jxzy/2616722/list/index.htm"
+            },
+            {
+              "label": "授课信息",
+              "url": "http://faculty.hust.edu.cn/LUOQINQIN/zh_CN/skxx/2616723/list/index.htm"
+            },
+            {
+              "label": "教学成果",
+              "url": "http://faculty.hust.edu.cn/LUOQINQIN/zh_CN/jxcg/2616724/list/index.htm"
+            }
+          ]
+        },
+        {
+          "label": "获奖信息",
+          "url": "http://faculty.hust.edu.cn/LUOQINQIN/zh_CN/hjxx/2616725/list/index.htm"
+        },
+        {
+          "label": "招生信息",
+          "url": "http://faculty.hust.edu.cn/LUOQINQIN/zh_CN/zsxx/2616726/list/index.htm"
+        },
+        {
+          "label": "学生信息",
+          "url": "http://faculty.hust.edu.cn/LUOQINQIN/zh_CN/xsxx/2616727/list/index.htm"
+        },
+        {
+          "label": "我的相册",
+          "url": "http://faculty.hust.edu.cn/LUOQINQIN/zh_CN/img/2616728/list/index.htm"
+        },
+        {
+          "label": "教师博客",
+          "url": "http://faculty.hust.edu.cn/LUOQINQIN/zh_CN/article/2616729/list/index.htm"
+        }
+      ]
+    },
+    "site_chrome": {
+      "source_link": "http://faculty.hust.edu.cn/LUOQINQIN/zh_CN/index.htm",
+      "images": [
+        "http://faculty.hust.edu.cn/_ts/gkzn/images/gbbtn.png",
+        "http://faculty.hust.edu.cn/_ts/gkzn/images/ss.png",
+        "http://faculty.hust.edu.cn/_ts/gkzn/images/banner.png"
+      ],
+      "more_info_link": "http://faculty.hust.edu.cn/LUOQINQIN/zh_CN/jsxx/2616714/jsxx/jsxx.htm",
+      "work_experience_more_link": "http://faculty.hust.edu.cn/LUOQINQIN/zh_CN/more/2616714/gzjlgd/index.htm"
+    }
+  }
+}

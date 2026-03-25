@@ -1,0 +1,219 @@
+{
+  "meta": {
+    "tutor_name_cn": "伍冬睿",
+    "request_url": "http://faculty.hust.edu.cn/drwu/zh_CN/index.htm",
+    "declared_source_url": "http://faculty.hust.edu.cn/drwu/zh_CN/index.htm",
+    "page_host": "faculty.hust.edu.cn",
+    "markdown_cache_path": "D:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\56ad6c4878ec420cfe3ad89d5ce308c58c98c777c956f4aeb9ec06c343fd9612.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "source_url": "http://faculty.hust.edu.cn/drwu/zh_CN/index.htm",
+    "target_professor_name": "伍冬睿",
+    "professor_info": {
+      "name": "伍冬睿",
+      "personal_details": {
+        "titles_positions": [
+          "教授",
+          "博士生导师",
+          "硕士生导师",
+          "副院长"
+        ],
+        "gender": "男",
+        "employment_status": "在职",
+        "affiliation": "人工智能与自动化学院",
+        "education_level": "研究生(博士)毕业",
+        "degree": "工学博士学位",
+        "graduated_from": "美国南加州大学",
+        "discipline": "模式识别与智能系统",
+        "academic_honors": [
+          "IEEE Fellow"
+        ]
+      },
+      "contact_information": {
+        "postal_code": "430074",
+        "office_address": "华中科技大学人工智能与自动化学院",
+        "email": "drwu@hust.edu.cn"
+      },
+      "personal_profile": {
+        "summary": "伍冬睿，2003年中国科学技术大学自动化学士，2006年新加坡国立大学电子与计算机工程硕士，2009年美国南加州大学电子工程博士。华中科技大学人工智能与自动化学院教授、博导、副院长，IEEE Fellow, IEEE模糊系统汇刊 (IF=11.9) 主编。主要研究方向为脑机接口、机器学习、智慧医疗、情感计算。主持基金委（青A）、科技部、武汉市科创局、深圳市科创委、中船、东风、华为、阿里、百度、蚂蚁等项目。出版学术专著《Perceptual Compu...",
+        "more_link": {
+          "url": "http://faculty.hust.edu.cn/drwu/zh_CN/more/752488/jsjjgd/index.htm",
+          "anchor_text": "More+"
+        }
+      },
+      "education_experience": [
+        {
+          "start_date": "2005.8",
+          "end_date": "2009.5",
+          "institution": "美国南加州大学",
+          "major": "模式识别与智能系统",
+          "degree": "工学博士学位",
+          "education_level": "研究生(博士)毕业"
+        },
+        {
+          "start_date": "2003.7",
+          "end_date": "2005.6",
+          "institution": "新加坡国立大学",
+          "major": "控制理论与控制工程",
+          "degree": "工学硕士学位",
+          "education_level": "研究生(硕士)毕业"
+        },
+        {
+          "start_date": "1999.9",
+          "end_date": "2003.7",
+          "institution": "中国科学技术大学",
+          "major": "控制理论与控制工程",
+          "degree": "工学学士学位",
+          "education_level": "本科(学士)"
+        }
+      ],
+      "work_experience": "暂无内容",
+      "social_affiliations": [
+        "IEEE Transactions on Fuzzy Systems 主编"
+      ],
+      "research_directions": [
+        {
+          "name": "机器学习",
+          "url": "http://faculty.hust.edu.cn/drwu/zh_CN/yjfx/752488/content/1897.htm#yjfx"
+        },
+        {
+          "name": "脑机接口",
+          "url": "http://faculty.hust.edu.cn/drwu/zh_CN/yjfx/752488/content/1895.htm#yjfx"
+        },
+        {
+          "name": "智慧医疗",
+          "url": "http://faculty.hust.edu.cn/drwu/zh_CN/yjfx/752488/content/4774.htm#yjfx"
+        },
+        {
+          "name": "计算智能",
+          "url": "http://faculty.hust.edu.cn/drwu/zh_CN/yjfx/752488/content/1896.htm#yjfx"
+        },
+        {
+          "name": "情感计算",
+          "url": "http://faculty.hust.edu.cn/drwu/zh_CN/yjfx/752488/content/1894.htm#yjfx"
+        }
+      ],
+      "research_group": {
+        "group_name": "脑机接口与机器学习实验室",
+        "introduction_link": "https://lab.bciml.cn/"
+      },
+      "projects": "主持基金委（青A）、科技部、武汉市科创局、深圳市科创委、中船、东风、华为、阿里、百度、蚂蚁等项目。",
+      "publications": {
+        "journal_editor": "IEEE模糊系统汇刊 (IF=11.9) 主编",
+        "book_publications": "出版学术专著《Perceptual Compu..."
+      }
+    },
+    "site_chrome": {
+      "fetched_from": "http://faculty.hust.edu.cn/drwu/zh_CN/index.htm",
+      "header_images": [
+        {
+          "url": "http://faculty.hust.edu.cn/drwu/zh_CN/index.htm",
+          "alt_text": null
+        }
+      ],
+      "language_options": [
+        {
+          "lang": "English",
+          "url": "http://faculty.hust.edu.cn/drwu/en/index.htm"
+        }
+      ],
+      "university_link": {
+        "anchor_text": "华中科技大学",
+        "url": "http://www.hust.edu.cn/",
+        "title": "华中科技大学"
+      },
+      "university_logo": {
+        "url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/10/rBAGRV8CDr-AeFVmAAA7EN17sME589.png",
+        "link": "http://faculty.hust.edu.cn/"
+      },
+      "navigation_menu": [
+        {
+          "category": "更多",
+          "url": "http://faculty.hust.edu.cn/drwu/zh_CN/index.htm#"
+        },
+        {
+          "category": "首页",
+          "url": "http://faculty.hust.edu.cn/drwu/zh_CN/index/752488/list/index.htm"
+        },
+        {
+          "category": "科学研究",
+          "url": "http://faculty.hust.edu.cn/drwu/zh_CN/zhym/752490/list/index.htm",
+          "sub_items": [
+            {
+              "anchor_text": "研究领域",
+              "url": "http://faculty.hust.edu.cn/drwu/zh_CN/yjgk/752491/list/index.htm"
+            },
+            {
+              "anchor_text": "论文成果",
+              "url": "http://faculty.hust.edu.cn/drwu/zh_CN/lwcg/752492/list/index.htm"
+            },
+            {
+              "anchor_text": "专利",
+              "url": "http://faculty.hust.edu.cn/drwu/zh_CN/zlcg/752493/list/index.htm"
+            },
+            {
+              "anchor_text": "著作成果",
+              "url": "http://faculty.hust.edu.cn/drwu/zh_CN/zzcg/752494/list/index.htm"
+            },
+            {
+              "anchor_text": "科研项目",
+              "url": "http://faculty.hust.edu.cn/drwu/zh_CN/kyxm/752495/list/index.htm"
+            }
+          ]
+        },
+        {
+          "category": "教学研究",
+          "url": "http://faculty.hust.edu.cn/drwu/zh_CN/zhym/752496/list/index.htm",
+          "sub_items": [
+            {
+              "anchor_text": "教学资源",
+              "url": "http://faculty.hust.edu.cn/drwu/zh_CN/jxzy/752497/list/index.htm"
+            },
+            {
+              "anchor_text": "授课信息",
+              "url": "http://faculty.hust.edu.cn/drwu/zh_CN/skxx/752499/list/index.htm"
+            },
+            {
+              "anchor_text": "教学成果",
+              "url": "http://faculty.hust.edu.cn/drwu/zh_CN/jxcg/752501/list/index.htm"
+            }
+          ]
+        },
+        {
+          "category": "获奖信息",
+          "url": "http://faculty.hust.edu.cn/drwu/zh_CN/hjxx/752503/list/index.htm"
+        },
+        {
+          "category": "我的相册",
+          "url": "http://faculty.hust.edu.cn/drwu/zh_CN/img/752509/list/index.htm"
+        },
+        {
+          "category": "教师博客",
+          "url": "http://faculty.hust.edu.cn/drwu/zh_CN/article/752511/list/index.htm"
+        }
+      ],
+      "secondary_image": {
+        "url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/20/rBAGRWLjXgCAWfy6AAGrpLRJlfs526.png?randomid=1770663612804",
+        "alt_text": null
+      },
+      "related_links": [
+        {
+          "anchor_text": "同专业博导",
+          "url": "http://faculty.hust.edu.cn/drwu/zh_CN/tzybd/752488/list/index.htm"
+        },
+        {
+          "anchor_text": "同专业硕导",
+          "url": "http://faculty.hust.edu.cn/drwu/zh_CN/tzysd/752488/list/index.htm"
+        }
+      ],
+      "footer_message": {
+        "date": "2026年3月24日，星期二",
+        "greeting": "欢迎来到我的主页！"
+      }
+    }
+  }
+}

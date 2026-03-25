@@ -1,0 +1,305 @@
+{
+  "meta": {
+    "tutor_name_cn": "刘智伟",
+    "request_url": "http://faculty.hust.edu.cn/zwliu",
+    "declared_source_url": "http://faculty.hust.edu.cn/zwliu",
+    "page_host": "faculty.hust.edu.cn",
+    "markdown_cache_path": "D:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\4bb1b65ed5a46cc34633f9507fa64eb71648545379d6bb1bd2bfbf829c1e2e4c.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": "内容包含详尽的导师简介、研究方向、学术论文列表、科研项目及工作教育经历，文字信息非常丰富。"
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "target_professor": "刘智伟",
+    "source_url": "http://faculty.hust.edu.cn/zwliu",
+    "basic_info": {
+      "name_cn": "刘智伟",
+      "name_en": "Zhi-Wei Liu",
+      "gender": "男",
+      "birth_year": "1982",
+      "titles": [
+        "教授",
+        "博士生导师",
+        "硕士生导师"
+      ],
+      "employment_status": "在职",
+      "department": "人工智能与自动化学院",
+      "education_background": "研究生(博士)毕业",
+      "degree": "工学博士学位",
+      "alma_mater": "华中科技大学",
+      "discipline": "控制理论与控制工程",
+      "honorary_titles": [
+        "教育部青年长江学者",
+        "湖北省杰出青年基金获得者"
+      ]
+    },
+    "contact_information": {
+      "zip_code": "430074",
+      "office_address": "南一楼中325",
+      "email": "zwliu@hust.edu.cn"
+    },
+    "personal_profile": "刘智伟，男，1982年生，教授/博士生导师，教育部青年长江学者，湖北省杰出青年基金获得者。主持国家自然科学基金项目5项（含联合基金、面上项目、青年项目），承担国网总部科技项目、国网电科院科研项目等多项国家及企业级项目20余项。在IEEE Transactions发表论文83余篇、Automatica 9篇，16篇论文入选ESI高被引论文，谷歌学术引用超6300次，获授权发明专利21项。曾获日内瓦国际发明展金奖、银奖各1项，中国自动化学会自然科学二等奖（排名第一）、中国发明协会发明创业奖二等奖（排名第一）、指挥与控制学会技术发明二等奖（排名第二）、机械工业科学技术奖科技进步奖二等奖（排名第二），国际会议论文奖4次。担任IEEE Wuhan Section副主席、（曾）任IEEE Transactions on Industrial Informatics、控制工程、Energy Conversion and Economics等国内外期刊的副编辑或编委。",
+    "research_areas": [
+      "人工智能在电力系统和无人集群系统的应用",
+      "基于人工智能的电力数据分析与预测",
+      "电力需求侧管理",
+      "智能电网优化与控制",
+      "无人集群系统优化与控制",
+      "多智能体分布式协同",
+      "混杂控制系统"
+    ],
+    "recruitment_info": {
+      "description": "长期招聘博后、博士与硕士研究生、本科生进实验室",
+      "preferred_majors": [
+        "人工智能",
+        "自动化",
+        "计算机",
+        "数学"
+      ],
+      "requirements": "具有扎实的数学、英语与编程基础",
+      "contact": "zwliu@hust.edu.cn"
+    },
+    "metrics": {
+      "ieee_transactions_papers": "83+",
+      "automatica_papers": "9",
+      "esi_highly_cited_papers": "16",
+      "google_scholar_citations": "6300+",
+      "authorized_patents": "21"
+    },
+    "publications_recent": [
+      {
+        "index": "[1]",
+        "authors": "Ze-Qiang Liu, Zhi-Wei Liu*, Ding-Xin He, Lintao Ye, Ming Chi",
+        "title": "Dynamic Resilient Consensus of Second-Order Multiagent Networks With a Time-Varying Malicious Agent Set",
+        "journal": "IEEE Transactions on Automatic Control",
+        "year": "2025",
+        "volume_issue_pages": "70(5):2692–2699"
+      },
+      {
+        "index": "[2]",
+        "authors": "Lintao Ye, Ming Chi, Zhi-Wei Liu*, Vijay Gupta",
+        "title": "Online Actuator Selection and Controller Design for Linear Quadratic Regulation with an Unknown System Model",
+        "journal": "IEEE Transactions on Automatic Control",
+        "year": "2025",
+        "volume_issue_pages": "70(1):485–492"
+      },
+      {
+        "index": "[2]",
+        "authors": "Jing-Zhe Xu, Zhi-Wei Liu*, Ming-Feng Ge, Tao Yang, Ming Chi, Dingxin He",
+        "title": "Distributed predefined-time algorithms for optimal solution seeking in multi-agent systems subject to input disturbances",
+        "journal": "Automatica",
+        "year": "2025",
+        "volume_issue_pages": "174, 112139"
+      },
+      {
+        "index": "[3]",
+        "authors": "Jia-Kai Wu, Zhi-Wei Liu*, Yong Zhao, Wenqu Li, Yuanzheng Li",
+        "title": "Game-Based Optimization Method for Geo-Distributed Data Centers under Customer Directrix Load Demand Response Mechanism",
+        "journal": "IEEE Transactions on Smart Grid",
+        "year": "2025",
+        "doi": "10.1109/TSG.2025.3612048"
+      },
+      {
+        "index": "[4]",
+        "authors": "Jia-Kai Wu, Zhi-Wei Liu*, Chaojie Li, Yong Zhao, Ming Chi",
+        "title": "Coordinated Operation Strategy of Virtual Power Plant Based on Two-Layer Game Approach",
+        "journal": "IEEE Transactions on Smart Grid",
+        "year": "2025",
+        "volume_issue_pages": "16(1):554-567"
+      },
+      {
+        "index": "[5]",
+        "authors": "Si-Yu Lu, Zhi-Wei Liu*, Xiao-Kang Liu, Yan-Wu Wang",
+        "title": "Voltage Fluctuation Mitigation in DC Microgrids Through Finite-Time Observer and Distributed Compensation",
+        "journal": "IEEE Transactions on Industrial Electronics",
+        "year": "2025",
+        "doi": "10.1109/TIE.2025.3605483"
+      },
+      {
+        "index": "[6]",
+        "authors": "Yu Chen, Zhi-Wei Liu*, Guanghui Wen, Yan-Wu Wang",
+        "title": "Distributed Finite-Time Observer for Rapid Detection of Multiple Line Outages in Transmission Networks with Uncertain Parameters",
+        "journal": "IEEE Transactions on Control of Network Systems",
+        "year": "2025",
+        "volume_issue_pages": "12(1):596–608"
+      },
+      {
+        "index": "[7]",
+        "authors": "Xueyu Ye, Zhi-Wei Liu*, Ming Chi, Lintao Ye, Chaojie Li",
+        "title": "Real-Time Price-Based Demand Response for Industrial Manufacturing Process via Safe Reinforcement Learning",
+        "journal": "IEEE Transactions on Industrial Informatics",
+        "year": "2025",
+        "volume_issue_pages": "21(4):2937-2946"
+      },
+      {
+        "index": "[8]",
+        "authors": "Yang Zhai, Zhi-Wei Liu*, Dong Yue, Songlin Hu, Chao Deng, Lintao Ye",
+        "title": "Byzantine-Resilient Multi-Agent Distributed Optimization under Redundancy",
+        "journal": "IEEE Transactions on Control of Network Systems",
+        "year": "2025",
+        "doi": "10.1109/TCNS.2025.3583622"
+      },
+      {
+        "index": "[9]",
+        "authors": "Jing-Zhe Xu, Zhi-Wei Liu*, Ding-Xin He, Zhian Jia, Ming-Feng Ge",
+        "title": "Dynamic Nash Equilibrium Seeking for Constrained Noncooperative Game of Open Multiagent Systems",
+        "journal": "IEEE Transactions on Systems, Man, and Cybernetics: Systems",
+        "year": "2025",
+        "volume_issue_pages": "55(6):3846–3855"
+      }
+    ],
+    "research_projects": [
+      {
+        "index": "[1]",
+        "title": "国家自然科学基金区域创新发展联合基金（重点类）.热电联产虚拟电厂参与新型电力系统调节的智能感知与协同调控研究"
+      },
+      {
+        "index": "[2]",
+        "title": "国家自然科学基金面上项目.开放不确定环境下的智能集群系统安全协同控制研究"
+      },
+      {
+        "index": "[3]",
+        "title": "国家电网公司总部科技项目.新一代人工智能技术在未来电网安全分析与决策中的应用研究"
+      },
+      {
+        "index": "[4]",
+        "title": "国家电网公司总部科技项目，基于图机器学习的电力运检领域知识发现与推理决策关技术研究及应用"
+      },
+      {
+        "index": "[5]",
+        "title": "国家电网公司总部科技项目，面向新兴可调资源聚合的精准响应技术与市场化交易研究及应用"
+      },
+      {
+        "index": "[6]",
+        "title": "南方电网科学研究院有限责任公司科研项目，海量用电资源聚合推演与响应约束技术研究"
+      }
+    ],
+    "honors_and_awards": [
+      {
+        "index": "[1]",
+        "award": "中国自动化学会自然科学二等奖",
+        "project": "混杂网络化系统协同控制及其在智能电网中的应用",
+        "rank": "排名第一"
+      },
+      {
+        "index": "[2]",
+        "award": "中国发明协会发明创业奖创新奖二等奖",
+        "project": "新型配电网数字孪生与协调优化技术及应用",
+        "rank": "排名第一"
+      },
+      {
+        "index": "[3]",
+        "award": "中国指挥与控制学会发明二等奖",
+        "project": "复杂动态场景下多机器人的分层调控与智能决策技术",
+        "rank": "排名第二"
+      },
+      {
+        "index": "[4]",
+        "award": "中国机械工业科学技术奖科技进步奖二等奖",
+        "project": "新型配电系统源网荷数智化感知与安全高效互动调控关键技术及应用",
+        "rank": "排名第二"
+      },
+      {
+        "index": "[5]",
+        "award": "中国自动化学会高等教育教学成果评价 特别贡献教学成果",
+        "project": "智能化时代多维度个性化《运筹学》教学体系的构建与实践",
+        "rank": "排名第三"
+      },
+      {
+        "other_awards": [
+          "日内瓦国际发明展金奖1项",
+          "日内瓦国际发明展银奖1项",
+          "国际会议论文奖4次"
+        ]
+      }
+    ],
+    "education_history": [
+      {
+        "period": "2006.09 - 2011.06",
+        "institution": "华中科技大学",
+        "degree": "工学博士学位",
+        "status": "研究生(博士)毕业"
+      }
+    ],
+    "work_experience": [
+      {
+        "period": "2020.11 - 至今",
+        "institution": "华中科技大学",
+        "department": "人工智能与自动化学院",
+        "role": "教授"
+      },
+      {
+        "period": "2019.06 - 2019.08",
+        "institution": "澳大利亚皇家墨尔本理工大学",
+        "role": "访问研究员"
+      },
+      {
+        "period": "2018.07 - 2018.09",
+        "institution": "澳大利亚皇家墨尔本理工大学",
+        "department": "工学院",
+        "role": "访问研究员"
+      },
+      {
+        "period": "2017.02 - 2020.10",
+        "institution": "华中科技大学",
+        "department": "自动化学院",
+        "role": "副教授"
+      },
+      {
+        "period": "2014.09 - 2015.09",
+        "institution": "澳大利亚皇家墨尔本理工大学",
+        "department": "工程学院",
+        "role": "访问研究员"
+      },
+      {
+        "period": "2012.11 - 2013.02",
+        "institution": "香港城市大学",
+        "department": "机械与生物医学工程系",
+        "role": "高级副研究员"
+      },
+      {
+        "period": "2011.06 - 2017.01",
+        "institution": "武汉大学",
+        "department": "动力与机械学院",
+        "role": "博士后、讲师、副教授"
+      }
+    ],
+    "social_affiliations": [
+      {
+        "role": "IEEE Wuhan Section副主席"
+      },
+      {
+        "role": "副编辑或编委",
+        "journals": [
+          "IEEE Transactions on Industrial Informatics",
+          "控制工程",
+          "Energy Conversion and Economics"
+        ]
+      }
+    ],
+    "site_chrome": {
+      "likes": 2796,
+      "source_url": "http://faculty.hust.edu.cn/zwliu",
+      "links": [
+        {
+          "anchor_text": "同专业博导",
+          "url": "http://faculty.hust.edu.cn/zwliu/zh_CN/tzybd/587385/list/index.htm"
+        },
+        {
+          "anchor_text": "同专业硕导",
+          "url": "http://faculty.hust.edu.cn/zwliu/zh_CN/tzysd/587385/list/index.htm"
+        }
+      ],
+      "images": [
+        "http://faculty.hust.edu.cn/zwliu",
+        "http://faculty.hust.edu.cn/_resources/group1/M00/00/0B/rBAGRl8CDjWAcTqOAACQ94XJ0Nk829.jpg?randomid=1770652716205",
+        "http://faculty.hust.edu.cn/_ts/ngd/images/ico-heart-i.png"
+      ]
+    },
+    "uncategorized": {
+      "research_focus_section": "暂无内容",
+      "social_affiliations_section": "暂无内容"
+    }
+  }
+}

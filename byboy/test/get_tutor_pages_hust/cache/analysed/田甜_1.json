@@ -1,0 +1,283 @@
+{
+  "meta": {
+    "tutor_name_cn": "田甜",
+    "request_url": "http://faculty.hust.edu.cn/ttian/zh_CN/index.htm",
+    "declared_source_url": "http://faculty.hust.edu.cn/ttian/zh_CN/index.htm",
+    "page_host": "faculty.hust.edu.cn",
+    "markdown_cache_path": "D:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\d6bdc8a2dd1260cd2257eceecf77f72b501fe9fa682f202a02ae05844725277f.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "source_url": "http://faculty.hust.edu.cn/ttian/zh_CN/index.htm",
+    "site_chrome": {
+      "language_options": [
+        {
+          "anchor_text": "English",
+          "url": "http://faculty.hust.edu.cn/tiantian12/en/index.htm"
+        }
+      ],
+      "ui_elements": [
+        "http://faculty.hust.edu.cn/_ts/gkzn/images/gbbtn.png",
+        "http://faculty.hust.edu.cn/_ts/gkzn/images/ss.png",
+        "http://faculty.hust.edu.cn/_ts/gkzn/images/banner.png"
+      ],
+      "site_navigation_links": [
+        {
+          "anchor_text": "首页",
+          "url": "http://faculty.hust.edu.cn/ttian/zh_CN/index/2364259/list/index.htm"
+        },
+        {
+          "anchor_text": "科学研究",
+          "url": "http://faculty.hust.edu.cn/ttian/zh_CN/zhym/2364260/list/index.htm"
+        },
+        {
+          "anchor_text": "研究领域",
+          "url": "http://faculty.hust.edu.cn/ttian/zh_CN/yjgk/2364261/list/index.htm"
+        },
+        {
+          "anchor_text": "论文成果",
+          "url": "http://faculty.hust.edu.cn/ttian/zh_CN/lwcg/2364262/list/index.htm"
+        },
+        {
+          "anchor_text": "专利",
+          "url": "http://faculty.hust.edu.cn/ttian/zh_CN/zlcg/2364263/list/index.htm"
+        },
+        {
+          "anchor_text": "著作成果",
+          "url": "http://faculty.hust.edu.cn/ttian/zh_CN/zzcg/2364264/list/index.htm"
+        },
+        {
+          "anchor_text": "科研项目",
+          "url": "http://faculty.hust.edu.cn/ttian/zh_CN/kyxm/2364265/list/index.htm"
+        },
+        {
+          "anchor_text": "教学研究",
+          "url": "http://faculty.hust.edu.cn/ttian/zh_CN/zhym/2364266/list/index.htm"
+        },
+        {
+          "anchor_text": "授课信息",
+          "url": "http://faculty.hust.edu.cn/ttian/zh_CN/skxx/2364268/list/index.htm"
+        },
+        {
+          "anchor_text": "获奖信息",
+          "url": "http://faculty.hust.edu.cn/ttian/zh_CN/hjxx/2364270/list/index.htm"
+        },
+        {
+          "anchor_text": "更多+",
+          "url": "http://faculty.hust.edu.cn/ttian/zh_CN/jsxx/2364259/jsxx/jsxx.htm"
+        }
+      ],
+      "related_professor_links": [
+        {
+          "anchor_text": "同专业博导",
+          "url": "http://faculty.hust.edu.cn/ttian/zh_CN/tzybd/2364259/list/index.htm"
+        },
+        {
+          "anchor_text": "同专业硕导",
+          "url": "http://faculty.hust.edu.cn/ttian/zh_CN/tzysd/2364259/list/index.htm"
+        }
+      ]
+    },
+    "professor_info": {
+      "name_zh": "田甜",
+      "name_en": "Tian Tian",
+      "gender": "女",
+      "profile_picture_url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/16/rBAGRmBUHHGAJlEQAAKJyx3D5HY512.png?randomid=1772161094813",
+      "titles": [
+        "副教授",
+        "博士生导师",
+        "硕士生导师",
+        "全重实验室部副主任",
+        "图像识别与智能科学系副主任"
+      ],
+      "affiliation": "多谱信息智能处理技术全国重点实验室",
+      "department": "人工智能与自动化学院",
+      "education_level": "研究生(博士)毕业",
+      "degree": "工学博士学位",
+      "contact": {
+        "postal_code": "430074",
+        "office_address": "华中科技大学东校区多谱楼209/主校区科技楼1109",
+        "email": "ttian@hust.edu.cn"
+      },
+      "biography": {
+        "summary": "田甜，人工智能与自动化学院、多谱信息智能处理技术全国重点实验室副教授，全重实验室部副主任、图像识别与智能科学系副主任。2015年博士毕业于华中科技大学自动化学院。主要研究方向为计算机视觉、多谱图像解译、图像导航与制导等。发表期刊论文40余篇、会议论文30余篇，出版专著3部，授权专利和软著十余项。主持国家自然科学基金面上及青年项目、航天预研项目等，获指控学会科技进步二等奖1项。中国计算机学会会员，《飞控与探测》青年编委、Remote Sensing客座编辑，PAMI、TGRS、CVPR、ECCV、AAAI等顶级期刊与会议审稿人。",
+        "more_info_url": "http://faculty.hust.edu.cn/ttian/zh_CN/more/2364259/jsjjgd/index.htm"
+      },
+      "education_experience": {
+        "entries": [
+          {
+            "start_date": "2005.9",
+            "end_date": "2009.6",
+            "institution": "华中科技大学",
+            "major": "电子信息工程",
+            "degree": "本科"
+          },
+          {
+            "start_date": "2009.9",
+            "end_date": "2015.6",
+            "institution": "华中科技大学",
+            "major": "控制科学与工程",
+            "degree": "博士研究生"
+          },
+          {
+            "start_date": "2012.9",
+            "end_date": "2014.9",
+            "institution": "美国奥克兰大学",
+            "major": "计算机科学与工程-公派联合培养",
+            "degree": null
+          }
+        ],
+        "more_info_url": "http://faculty.hust.edu.cn/ttian/zh_CN/more/2364259/jyjlgd/index.htm"
+      },
+      "work_experience": {
+        "entries": [
+          {
+            "start_date": "2021.3",
+            "end_date": "至今",
+            "institution": "华中科技大学人工智能与自动化学院",
+            "position": "副教授"
+          },
+          {
+            "start_date": "2017.12",
+            "end_date": "2021.3",
+            "institution": "中国地质大学（武汉）计算机学院",
+            "position": "副教授"
+          },
+          {
+            "start_date": "2015.7",
+            "end_date": "2017.12",
+            "institution": "中国地质大学（武汉）计算机学院",
+            "position": "师资博士后/讲师"
+          }
+        ],
+        "more_info_url": "http://faculty.hust.edu.cn/ttian/zh_CN/more/2364259/gzjlgd/index.htm"
+      },
+      "publications": {
+        "papers": [
+          {
+            "title": "Contextually-Guided State Space Fusion for Misaligned Multi-Spectral Object Detection",
+            "venue_year": "ACM Multimedia (ACMMM) 2025,2025",
+            "url": "http://faculty.hust.edu.cn/ttian/zh_CN/lwcg/2364262/content/168233.htm#lwcg"
+          },
+          {
+            "title": "ESCVehicle: A Drone-based Visible-Infrared Vehicle Benchmark with Extensive Scene Coverage",
+            "venue_year": "IEEE Transactions on Geoscience and Remote Sensing,2026",
+            "url": "http://faculty.hust.edu.cn/ttian/zh_CN/lwcg/2364262/content/168232.htm#lwcg"
+          },
+          {
+            "title": "Regional Defeats Global: An Efficient Regional Feature Fusion via Convolutional Architecture for Multispectral Object Detection",
+            "venue_year": "Information Fusion,2026",
+            "url": "http://faculty.hust.edu.cn/ttian/zh_CN/lwcg/2364262/content/168231.htm#lwcg"
+          },
+          {
+            "title": "Omni-Scene Infrared Vehicle Detection: An Efficient Selective Aggregation Approach and a Unified Benchmark",
+            "venue_year": "ISPRS Journal of Photogrammetry and Remote Sensing,2025, 223, 244-260",
+            "url": "http://faculty.hust.edu.cn/ttian/zh_CN/lwcg/2364262/content/136939.htm#lwcg"
+          },
+          {
+            "title": "Robust Point Cloud Registration via Patch Matching",
+            "venue_year": "IEEE Transactions on Geoscience and Remote Sensing,2025(63)",
+            "url": "http://faculty.hust.edu.cn/ttian/zh_CN/lwcg/2364262/content/136938.htm#lwcg"
+          },
+          {
+            "title": "Label Semantic Dynamic Guidance Network for Remote Sensing Image Scene Classification",
+            "venue_year": "IEEE Transactions on Geoscience and Remote Sensing,2025(63)",
+            "url": "http://faculty.hust.edu.cn/ttian/zh_CN/lwcg/2364262/content/136937.htm#lwcg"
+          }
+        ],
+        "more_papers_url": "http://faculty.hust.edu.cn/ttian/zh_CN/lwcg/2364262/list/index.htm",
+        "patents": [
+          {
+            "title": "一种基于多模态自注意力机制生成对抗网络的红外图像生成及装置",
+            "type": "发明",
+            "number": "ZL 2025 1 0100455.9",
+            "url": "http://faculty.hust.edu.cn/ttian/zh_CN/zlcg/2364263/content/100799.htm#zlcg"
+          },
+          {
+            "title": "多输出土地覆盖分类模型的训练方法、分类方法及装置",
+            "type": null,
+            "number": null,
+            "url": "http://faculty.hust.edu.cn/ttian/zh_CN/zlcg/2364263/content/86605.htm#zlcg"
+          }
+        ],
+        "more_patents_url": "http://faculty.hust.edu.cn/ttian/zh_CN/zlcg/2364263/list/index.htm",
+        "books": [
+          {
+            "title": "地质环境高光谱遥感数据处理技术",
+            "url": "http://faculty.hust.edu.cn/ttian/zh_CN/zzcg/2364264/content/7607.htm#zzcg"
+          },
+          {
+            "title": "复杂地质环境遥感影像智能解译理论与方法",
+            "url": "http://faculty.hust.edu.cn/ttian/zh_CN/zzcg/2364264/content/6414.htm#zzcg"
+          },
+          {
+            "title": "图像匹配导航定位技术",
+            "url": "http://faculty.hust.edu.cn/ttian/zh_CN/zzcg/2364264/content/6413.htm#zzcg"
+          }
+        ],
+        "more_books_url": "http://faculty.hust.edu.cn/ttian/zh_CN/zzcg/2364264/list/index.htm"
+      },
+      "social_appointments": [
+        "TGRS、JSTARS、GRSL、INFORM FUSION、IJRS、AAAI、ECCV等期刊与会议审稿人",
+        "中国计算机学会（CCF）会员，中国计算机学会青年论坛（CCF YOCSEF）武汉分论坛2020-2022学术秘书"
+      ],
+      "research_directions": [
+        {
+          "name": "计算机视觉",
+          "url": "http://faculty.hust.edu.cn/ttian/zh_CN/yjfx/2364259/content/6695.htm#yjfx"
+        },
+        {
+          "name": "遥感图像处理",
+          "url": "http://faculty.hust.edu.cn/ttian/zh_CN/yjfx/2364259/content/5735.htm#yjfx"
+        },
+        {
+          "name": "导航与制导",
+          "url": "http://faculty.hust.edu.cn/ttian/zh_CN/yjfx/2364259/content/5737.htm#yjfx"
+        },
+        {
+          "name": "人工智能与深度学习",
+          "url": "http://faculty.hust.edu.cn/ttian/zh_CN/yjfx/2364259/content/6696.htm#yjfx"
+        }
+      ],
+      "research_team": {
+        "team_name": "多谱信息处理",
+        "more_members_url": "http://faculty.hust.edu.cn/ttian/zh_CN/more/2364259/tdgd/index.htm",
+        "members": [
+          {
+            "name": "钟胜",
+            "profile_url": "http://faculty.hust.edu.cn/zhongsheng/zh_CN/index.htm",
+            "image_url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/05/rBAGRl8CDcOAFyf0AACRnp7MLUA912.jpg?randomid=1772161097000"
+          },
+          {
+            "name": "颜露新",
+            "profile_url": "http://faculty.hust.edu.cn/yanluxin/zh_CN/index.htm",
+            "image_url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/07/rBAGRl8CDfOACBt7AAAt_cX-PxY742.jpg?randomid=1772161097009"
+          },
+          {
+            "name": "昌毅",
+            "profile_url": "http://faculty.hust.edu.cn/YiChang/zh_CN/index.htm",
+            "image_url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/1E/rBAGRWIvUoeAD7GdAAHRaeXaEco673.png?randomid=1772161097023"
+          },
+          {
+            "name": "陈立群",
+            "profile_url": "http://faculty.hust.edu.cn/ChenLiQun/zh_CN/index.htm",
+            "image_url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/3B/rBAGRWfXhhuAfttpAAGnyGFe3zo414.png?randomid=1772161097038"
+          },
+          {
+            "name": "邹旭",
+            "profile_url": "http://faculty.hust.edu.cn/zx/zh_CN/index.htm",
+            "image_url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/2B/rBAGRmhiO0yAW-CDAAGuKaIraOE180.png?randomid=1772161097055"
+          },
+          {
+            "name": "田金文",
+            "profile_url": "http://aia.hust.edu.cn/info/1230/5059.htm",
+            "image_url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/21/rBAGRmKpUn2AAEiPAALIjjuKvMQ757.jpg?randomid=1772161096986"
+          }
+        ]
+      }
+    }
+  }
+}

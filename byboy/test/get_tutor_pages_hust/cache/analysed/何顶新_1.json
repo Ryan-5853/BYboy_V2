@@ -1,0 +1,206 @@
+{
+  "meta": {
+    "tutor_name_cn": "何顶新",
+    "request_url": "https://aia.hust.edu.cn/info/1578/10050.htm",
+    "declared_source_url": "https://aia.hust.edu.cn/info/1578/10050.htm",
+    "page_host": "aia.hust.edu.cn",
+    "markdown_cache_path": "D:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\7118775f691c2fe27a9db4a4b80d82958b8d5ec8f73d323993c4fe98acf6d92d.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": "该页面包含导师姓名、职称、联系方式、教育科研背景、研究方向及详细获奖情况等丰富文本信息。"
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "target_professor": "何顶新",
+    "basic_info": {
+      "name": "何顶新",
+      "title": "教授",
+      "gender": "男",
+      "birth_date": "1966年11月",
+      "birth_place": "湖北天门",
+      "contact": {
+        "phone": "027-87543730",
+        "email": "hedingxin@mail.hust.edu.cn"
+      },
+      "current_positions": [
+        "人工智能与自动化学院教授",
+        "人工智能与自动化学院教学实验中心主任",
+        "智能机器人创新基地负责人"
+      ],
+      "images": [
+        {
+          "description": "个人头像",
+          "url": "https://aia.hust.edu.cn/__local/E/11/56/673A712323648C5857114A8586D_0F028E77_3377A.jpg?e=.jpg"
+        },
+        {
+          "description": "何顶新生活照",
+          "url": "https://aia.hust.edu.cn/__local/0/6B/68/D289E9A6CEF7FA106CB7706FCB4_E73416C6_1E73B.jpg?e=.jpg"
+        }
+      ]
+    },
+    "research_info": {
+      "research_directions": [
+        "计算机控制技术",
+        "嵌入式系统",
+        "机器人控制技术",
+        "计算机控制技术",
+        "机器人控制系统",
+        "嵌入式控制技术",
+        "智能地图建模",
+        "多机器人定位与导航",
+        "智能群体网络协同优化"
+      ],
+      "scientific_research_projects": {
+        "summary": "主持和参与国家自然科学基金面上项目、国际合作项目、数控系统及机器人技术等纵横向科研项目25项。",
+        "specific_projects": [
+          "多维度智能群体网络的感知与协同优化研究",
+          "一种远程控制的家用机器人研究",
+          "瑞萨电子中国联合基金项目",
+          "氨基酸纯化过程自动化系统",
+          "台式万用表数字电路软件和硬件开发"
+        ]
+      },
+      "academic_achievements": {
+        "papers": {
+          "total_count": "50余篇",
+          "sci_indexed": "20余篇",
+          "representative_journals": [
+            "Automatica",
+            "IEEE Transactions on Neural Networks and Learning Systems",
+            "Neural Networks"
+          ]
+        },
+        "textbooks": [
+          "主编“十一五”国家级规划教材1本",
+          "参编教材2本"
+        ]
+      }
+    },
+    "education_and_career": {
+      "education_experience": [
+        {
+          "year": "1987",
+          "description": "本科毕业于华中理工大学计算机系"
+        },
+        {
+          "year": "1995",
+          "description": "获华中理工大学工业自动化专业工学硕士学位"
+        }
+      ],
+      "career_experience": [
+        {
+          "year": "1987",
+          "description": "进入华中理工大学数控工程中心工作"
+        },
+        {
+          "year": "1996",
+          "description": "调入控制系"
+        },
+        {
+          "current": "现任",
+          "description": "人工智能与自动化学院教授，教学实验中心主任"
+        }
+      ]
+    },
+    "teaching_info": {
+      "courses": [
+        {
+          "name": "计算机网络",
+          "type": "本科生双语课程",
+          "role": "课程组组长"
+        },
+        {
+          "name": "C语言程序设计",
+          "type": "湖北省精品课程"
+        },
+        {
+          "name": "C语言课程设计",
+          "type": "校精品课程"
+        }
+      ],
+      "educational_reform": "主持和参与省、校级教改项目十余项（含主持湖北省教改项目1项、校级教改项目3项）。"
+    },
+    "awards_and_honors": {
+      "scientific_awards": [
+        "教育部科技进步三等奖（1项）",
+        "湖北省科技进步二等奖（1项）"
+      ],
+      "teaching_awards": [
+        {
+          "year": "2018",
+          "award": "湖北省高等学校教学成果奖一等奖"
+        },
+        {
+          "year": "2017",
+          "award": "华中科技大学教学质量一等奖"
+        },
+        {
+          "year": null,
+          "award": "多次获省、校级教学成果一等奖"
+        },
+        {
+          "year": null,
+          "award": "华中科技大学“三育人奖”"
+        }
+      ],
+      "other_honors": [
+        {
+          "year": "2017",
+          "honor": "入选全国万名优秀创新创业导师人才库"
+        },
+        {
+          "year": "2016",
+          "honor": "获华中科技大学优秀教师班主任"
+        },
+        {
+          "year": "连续十余年",
+          "honor": "获评华中科技大学科技创新优秀指导教师"
+        }
+      ]
+    },
+    "student_supervision": {
+      "postgraduate": "先后指导硕士研究生30余人。",
+      "undergraduate_awards": [
+        "指导学生获各类奖项100余项",
+        "100余人次获全国一等奖",
+        "全国冠军十余项",
+        "两次获湖北省优秀学士学位论文指导奖"
+      ]
+    },
+    "uncategorized": {
+      "page_stats": {
+        "publish_time": "2025-06-29",
+        "views": "1742"
+      },
+      "navigation_links": {
+        "previous": {
+          "name": "韩守东",
+          "url": "http://faculty.hust.edu.cn/hanshoudong"
+        },
+        "next": {
+          "name": "洪流",
+          "url": "https://aia.hust.edu.cn/info/1578/10049.htm"
+        }
+      }
+    },
+    "site_chrome": {
+      "organization": "华中科技大学人工智能与自动化学院",
+      "logo_url": "https://aia.hust.edu.cn/images/logo20251211.png",
+      "banner_url": "https://aia.hust.edu.cn/images/banner20250619.png",
+      "sections": [
+        "院系概况",
+        "师资队伍",
+        "学生培养",
+        "科学研究",
+        "党群工作",
+        "国际交流",
+        "人才招聘",
+        "校友专栏",
+        "培训服务",
+        "院长信箱"
+      ],
+      "copyright": "版权所有：华中科技大学人工智能与自动化学院",
+      "official_wechat_qr_available": true
+    }
+  }
+}

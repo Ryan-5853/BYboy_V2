@@ -1,0 +1,109 @@
+> 抓取来源：http://faculty.hust.edu.cn/jiangjianhua/zh_CN/index.htm
+
+![](http://faculty.hust.edu.cn/jiangjianhua/zh_CN/index.htm)
+
+![](http://faculty.hust.edu.cn/_resources/group1/M00/00/15/rBAGRWBLIwWAauXGAAGTUpg5iXc087.png?randomid=1769844261342)蒋建华
+
+|     |     |
+| --- | --- |
+| ![](http://faculty.hust.edu.cn/_ts/qtmbzw1/images/ico-heart-i.png) | 107 |
+
+# 个人信息Personal Information
+
+副教授
+
+性别：男
+
+在职信息：在职
+
+所在单位：人工智能与自动化学院
+
+学历：研究生(博士)毕业
+
+学位：工学博士学位
+
+毕业院校：华中科技大学
+
+学科：控制理论与控制工程
+
+# 其他联系方式Other Contact Information
+
+邮编 :
+430074
+
+办公室电话 :
+027-87557273
+
+邮箱 :
+jiangjh@hust.edu.cn
+
+# 个人简介Personal Profile
+
+**蒋建华，工学博士，华中科技大学人工智能与自动化学院副教授，香江学者，国际清洁能源拔尖人才；主要从事机器学习、大数据分析与智能控制算法，及其在固体氧化物燃料电池系统、氢** **/** **电动力储能系统、微电网等新能源系统的应用研究，包括电池智能监控与故障诊断，系统健康预测机器学习算法，工业大数据智能分析，微网及无人多机系统群体智能协同控制等。**
+
+**在研究领域内获批主持国家自然科学基金** **（** **3** **项** **）** **、省部级以上科研项目十余项，在** **Applied Energy, Energy conversion and management, Energy, Journal of Energy Storage, International Journal of Hydrogen Energy** **等国际一流 **SCI** 权威期刊上发表** **论文近四十余篇，申请获批授权专利四十余项，并获得日内瓦发明金奖（** **2018** **）、中国商业联合会科技进步特等奖（** **2018** **）、湖北省科技进步二等奖（** **2018** **）、湖北省技术发明二等奖（** **2021** **）、中国自动化大会最佳论文等奖项（** **2021** **），获香港** **“** **香江学者** **”** **与国际清洁能源拔尖人才项目（** **ICET2019** **）。** **中国自动化学会会员、青年工作委员会委员、中国能源学会会员、燃料电池系统领域行业标准起草及制定骨干、曾/现担任国家自然科学基金、省基金评审人与多个国际一流期刊审稿人及** **CAC** **等会议分会主席。指导的学生在国企、外企均有良好的就业，多人获得国家奖学金，一人获得国家留学基金委** **CSC** **保送德国亚琛工业大学攻读博士学位。**
+
+**自动化与人工智能是人类科技文明的基石，欢迎积极努力、踏实诚恳、有理想的自动化、人工智能、电气及能源等相关专业的同学加入，在以梦为马的年纪，努力拼搏、学有所成、勇攀高峰。**
+
+- 教育经历Education Background
+- 工作经历Work Experience
+
+2007.92013.6
+
+- 华中科技大学
+- 工学博士学位
+- 研究生(博士)毕业
+
+2003.92007.6
+
+- 中南大学
+- 工学学士学位
+- 本科(学士)
+
+2016.112022.9
+
+- 华中科技大学
+- 人工智能与自动化学院
+- 副教授
+
+2015.72016.11
+
+- 华中科技大学
+- 人工智能与自动化学院
+- 讲师
+
+2019.92019.11
+
+- 瑞典皇家理工/麦拉达伦大学
+- Future Energy Institute
+- 访问学者
+- ICET2019国际清洁能源拔尖人才项目的第二阶段，邀请全球近60位能源及相关领域顶尖学者（包括MIT、加州大学等）进行讲座交流。第三阶段拟赴MIT开展一年交流，因全球疫情未能成行，与美国、欧洲、澳洲等国家地区研究学者保持深入交流与合作。
+
+- 研究方向Research Focus
+- 社会兼职Social Affiliations
+
+- [基于人工智能大数据的系统优化、诊断与控制](http://faculty.hust.edu.cn/jiangjianhua/zh_CN/yjfx/865145/content/6863.htm#yjfx)
+- [氢/电动力储能系统](http://faculty.hust.edu.cn/jiangjianhua/zh_CN/yjfx/865145/content/6862.htm#yjfx)
+- [固体氧化物燃料电池系统建模优化与集成控制](http://faculty.hust.edu.cn/jiangjianhua/zh_CN/yjfx/865145/content/6861.htm#yjfx)
+- [新能源微电网全生命周期优化与分布式控制](http://faculty.hust.edu.cn/jiangjianhua/zh_CN/yjfx/865145/content/6860.htm#yjfx)
+- [机器学习、大数据分析与智能控制](http://faculty.hust.edu.cn/jiangjianhua/zh_CN/yjfx/865145/content/6859.htm#yjfx)
+
+- 燃料电池系统领域行业标准起草及制定骨干
+
+
+- 中国自动化大会分会主席
+
+
+- 中国能源研究会燃料电池专业委员会会员
+
+
+- 青年工作委员会委员
+
+
+- 中国自动化学会会员
+
+
+- AE、Energy、ECM、IJHE、RSER等国际TOP期刊审稿人
+
+
+- 国家自然科学基金/省基金项目评审人

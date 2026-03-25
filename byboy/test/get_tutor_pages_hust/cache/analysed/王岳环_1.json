@@ -1,0 +1,189 @@
+{
+  "meta": {
+    "tutor_name_cn": "王岳环",
+    "request_url": "http://faculty.hust.edu.cn/wangyuehuan/zh_CN/index.htm",
+    "declared_source_url": "http://faculty.hust.edu.cn/wangyuehuan/zh_CN/index.htm",
+    "page_host": "faculty.hust.edu.cn",
+    "markdown_cache_path": "D:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\0984a1f3ce708cc357032b4c5198e7232cf1075c0863452f435d5b2b61eef7c2.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "source_url": "http://faculty.hust.edu.cn/wangyuehuan/zh_CN/index.htm",
+    "target_mentor_name": "王岳环",
+    "mentor_info": {
+      "name": "王岳环",
+      "image_url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/15/rBAGRmBJbFKAApwzAAG7_N8Zyr8053.png?randomid=1770692232005",
+      "current_titles": [
+        "教授",
+        "博士生导师",
+        "硕士生导师"
+      ],
+      "related_faculty_links": [
+        {
+          "text": "同专业博导",
+          "url": "http://faculty.hust.edu.cn/wangyuehuan/zh_CN/tzybd/1751337/list/index.htm"
+        },
+        {
+          "text": "同专业硕导",
+          "url": "http://faculty.hust.edu.cn/wangyuehuan/zh_CN/tzysd/1751337/list/index.htm"
+        }
+      ],
+      "personal_details": {
+        "gender": "男",
+        "employment_status": "在职",
+        "current_unit": "多谱信息智能处理技术全国重点实验室",
+        "highest_education_level": "研究生(博士)毕业",
+        "highest_degree": "工学博士学位",
+        "highest_degree_university": "华中科技大学",
+        "discipline": "模式识别与智能系统"
+      },
+      "contact_info": {
+        "postal_code": "430074",
+        "office_address": "华中科技大学人工智能与自动化学院",
+        "email": "yuehwang@hust.edu.cn"
+      },
+      "biography_summary": {
+        "text": "王岳环,1993年毕业于电子科技大学电子精密机械专业，获工学学士学位；1996年毕业于华中理工大学计算机器件与设备专业，获工学硕士学位；2001年毕业于华中科技大学模式识别与智能系统专业,获工学博士学位。2004年9月至2005年8月美国华盛顿大学访问学者,现为华中科技大学人工智能与自动化学院教授，博士生导师，中国人工智能学会智能机器人专业委员会委员，中国计算机学会计算机视觉专业委员会委员，中国图像图形学会机器视觉专业...",
+        "more_link": {
+          "text": "More+",
+          "url": "http://faculty.hust.edu.cn/wangyuehuan/zh_CN/more/1751337/jsjjgd/index.htm"
+        }
+      },
+      "education_experience": [
+        {
+          "start_date": "1996.9",
+          "end_date": "2001.12",
+          "institution": "华中科技大学",
+          "degree": "工学博士学位",
+          "level": "研究生(博士)毕业"
+        },
+        {
+          "start_date": "1993.9",
+          "end_date": "1996.6",
+          "institution": "华中理工大学",
+          "degree": "工学硕士学位",
+          "level": "研究生(硕士)毕业"
+        },
+        {
+          "start_date": "1989.9",
+          "end_date": "1993.6",
+          "institution": "电子科技大学",
+          "major": "电子精密机械",
+          "degree": "学士学位",
+          "level": "本科(学士)"
+        }
+      ],
+      "work_experience": [
+        {
+          "start_date": "2008.9",
+          "end_date": "至今",
+          "institution": "华中科技大学",
+          "title": "教授"
+        },
+        {
+          "start_date": "2002.9",
+          "end_date": "2008.8",
+          "institution": "华中科技大学",
+          "department": "图像识别与人工智能研究所",
+          "title": "副教授"
+        }
+      ],
+      "honors_and_awards": [
+        {
+          "year": "2019",
+          "award_name": "湖北省科技进步奖",
+          "award_level": "一等奖",
+          "description": "监控视频中行人分析关键技术及产业化应用"
+        },
+        {
+          "year": "2010",
+          "award_name": "工信部技术发明奖",
+          "award_level": "二等奖",
+          "description": "精确导航成像自动目标识别核心技术与系统"
+        },
+        {
+          "year": "2007",
+          "award_name": "教育部科技进步奖",
+          "award_level": "一等奖",
+          "description": "实时自动目标识别与小型化实时信息处理技术"
+        },
+        {
+          "year": "2005",
+          "award_name": "工信部科技进步奖",
+          "award_level": "二等奖",
+          "description": "图像导航的典型地海面目标自动捕获、识别、匹配与跟踪技术"
+        }
+      ],
+      "social_affiliations": null,
+      "research_directions": [
+        {
+          "text": "主要研究方向",
+          "url": "http://faculty.hust.edu.cn/wangyuehuan/zh_CN/yjfx/1751337/content/6707.htm#yjfx"
+        }
+      ],
+      "research_group_members": null
+    },
+    "site_chrome": {
+      "page_header_image": "http://faculty.hust.edu.cn/wangyuehuan/zh_CN/index.htm",
+      "language_switch": {
+        "text": "English",
+        "url": "http://faculty.hust.edu.cn/wangyuehuan/en/index.htm"
+      },
+      "university_links": [
+        {
+          "text": "华中科技大学",
+          "url": "http://www.hust.edu.cn/"
+        }
+      ],
+      "university_logo": {
+        "image_url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/10/rBAGRV8CDr-AeFVmAAA7EN17sME589.png",
+        "link_url": "http://faculty.hust.edu.cn/"
+      },
+      "navigation_menu": [
+        {
+          "text": "更多",
+          "url": "http://faculty.hust.edu.cn/wangyuehuan/zh_CN/index.htm#"
+        },
+        {
+          "text": "首页",
+          "url": "http://faculty.hust.edu.cn/wangyuehuan/zh_CN/index/1751337/list/index.htm"
+        },
+        {
+          "text": "学术论文",
+          "url": "http://faculty.hust.edu.cn/wangyuehuan/zh_CN/zdylm/2431427/list/index.htm"
+        },
+        {
+          "text": "科研获奖",
+          "url": "http://faculty.hust.edu.cn/wangyuehuan/zh_CN/zdylm/2437003/list/index.htm"
+        },
+        {
+          "text": "教学",
+          "url": "http://faculty.hust.edu.cn/wangyuehuan/zh_CN/zdylm/2437002/list/index.htm"
+        },
+        {
+          "text": "招生信息",
+          "url": "http://faculty.hust.edu.cn/wangyuehuan/zh_CN/zdylm/2437004/list/index.htm"
+        },
+        {
+          "text": "学生信息",
+          "url": "http://faculty.hust.edu.cn/wangyuehuan/zh_CN/xsxx/1751350/list/index.htm"
+        },
+        {
+          "text": "我的相册",
+          "url": "http://faculty.hust.edu.cn/wangyuehuan/zh_CN/img/1751351/list/index.htm"
+        },
+        {
+          "text": "教师博客",
+          "url": "http://faculty.hust.edu.cn/wangyuehuan/zh_CN/article/1751352/list/index.htm"
+        }
+      ],
+      "footer_message": [
+        "2026年3月24日，星期二",
+        "欢迎来到我的主页！"
+      ]
+    }
+  }
+}

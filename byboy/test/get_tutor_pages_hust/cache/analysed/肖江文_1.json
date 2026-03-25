@@ -1,0 +1,191 @@
+{
+  "meta": {
+    "tutor_name_cn": "肖江文",
+    "request_url": "http://faculty.hust.edu.cn/xiaojiangwen/zh_CN/index.htm",
+    "declared_source_url": "http://faculty.hust.edu.cn/xiaojiangwen/zh_CN/index.htm",
+    "page_host": "faculty.hust.edu.cn",
+    "markdown_cache_path": "D:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\4a478f8e9d6a5bd0ee8b3f288caca011e7d256fc618a3d814c874d6547880b52.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": "包含导师的职称、学科、教育及工作经历、研究方向和团队信息。"
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "target_tutor": "肖江文",
+    "page_source": {
+      "url": "http://faculty.hust.edu.cn/xiaojiangwen/zh_CN/index.htm",
+      "language_versions": [
+        {
+          "language": "English",
+          "url": "http://faculty.hust.edu.cn/xiaojiangwen/en/index.htm"
+        }
+      ],
+      "crawl_date": "2026年3月24日，星期二"
+    },
+    "basic_information": {
+      "name": "肖江文",
+      "titles": [
+        "教授",
+        "博士生导师",
+        "硕士生导师"
+      ],
+      "employment_status": "在职",
+      "affiliation": "人工智能与自动化学院",
+      "discipline": "系统工程",
+      "contact": {
+        "email": "jwxiao@hust.edu.cn"
+      },
+      "personal_profile": "暂无内容",
+      "images": [
+        {
+          "description": "个人照/头像",
+          "url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/16/rBAGRmBTRCSAIhyGAAJOCQIylao241.png?randomid=1770673307164"
+        }
+      ]
+    },
+    "education_experience": [
+      {
+        "period": "1997.9 ~ 2001.6",
+        "institution": "华中科技大学",
+        "degree": "工学博士学位",
+        "education_level": "研究生(博士)毕业"
+      },
+      {
+        "period": "1994.9 ~ 1997.6",
+        "institution": "华中理工大学",
+        "degree": "工学硕士学位",
+        "education_level": "研究生(硕士)毕业"
+      },
+      {
+        "period": "1990.9 ~ 1994.7",
+        "institution": "华中理工大学",
+        "degree": "工学学士学位",
+        "education_level": "本科(学士)"
+      }
+    ],
+    "work_experience": [
+      {
+        "period": "2017.11-至今",
+        "institution": "华中科技大学",
+        "department": "人工智能与自动化学院",
+        "position": "教授"
+      }
+    ],
+    "research_focus": [
+      {
+        "direction": "人工智能及在电力和能源系统中的应用",
+        "url": "http://faculty.hust.edu.cn/xiaojiangwen/zh_CN/yjfx/1789641/content/5725.htm#yjfx"
+      },
+      {
+        "direction": "基于群体智能的多尺度分布式协同控制",
+        "url": "http://faculty.hust.edu.cn/xiaojiangwen/zh_CN/yjfx/1789641/content/5726.htm#yjfx"
+      }
+    ],
+    "research_team": {
+      "team_name": "智联系统实验室",
+      "description": "实验室致力于解决智能互联系统的控制与优化问题，并应用于智能电网的分布式优化与控制。",
+      "members": [
+        {
+          "name": "刘骁康",
+          "url": "http://faculty.hust.edu.cn/LiuXiaokang/zh_CN/index.htm",
+          "image": "http://faculty.hust.edu.cn/_resources/group1/M00/00/24/rBAGRmOa0AuAABHJAAJTrtugpW8385.png?randomid=1770673307925"
+        },
+        {
+          "name": "王燕舞",
+          "url": "http://faculty.hust.edu.cn/wangyanwu/zh_CN/index.htm",
+          "image": "http://faculty.hust.edu.cn/_resources/group1/M00/00/16/rBAGRWBSrYKAHp7LAAIVnS3MoEw117.png?randomid=1770673307937"
+        }
+      ]
+    },
+    "social_affiliations": "暂无内容",
+    "site_navigation": {
+      "main_sections": [
+        {
+          "title": "首页",
+          "url": "http://faculty.hust.edu.cn/xiaojiangwen/zh_CN/index/1789641/list/index.htm"
+        },
+        {
+          "title": "科学研究",
+          "url": "http://faculty.hust.edu.cn/xiaojiangwen/zh_CN/zhym/1789642/list/index.htm",
+          "sub_sections": [
+            {
+              "title": "研究领域",
+              "url": "http://faculty.hust.edu.cn/xiaojiangwen/zh_CN/yjgk/1789643/list/index.htm"
+            },
+            {
+              "title": "论文成果",
+              "url": "http://faculty.hust.edu.cn/xiaojiangwen/zh_CN/lwcg/1789644/list/index.htm"
+            },
+            {
+              "title": "专利",
+              "url": "http://faculty.hust.edu.cn/xiaojiangwen/zh_CN/zlcg/1789645/list/index.htm"
+            },
+            {
+              "title": "著作成果",
+              "url": "http://faculty.hust.edu.cn/xiaojiangwen/zh_CN/zzcg/1789646/list/index.htm"
+            },
+            {
+              "title": "科研项目",
+              "url": "http://faculty.hust.edu.cn/xiaojiangwen/zh_CN/kyxm/1789647/list/index.htm"
+            }
+          ]
+        },
+        {
+          "title": "教学研究",
+          "url": "http://faculty.hust.edu.cn/xiaojiangwen/zh_CN/zhym/1789648/list/index.htm",
+          "sub_sections": [
+            {
+              "title": "教学资源",
+              "url": "http://faculty.hust.edu.cn/xiaojiangwen/zh_CN/jxzy/1789649/list/index.htm"
+            },
+            {
+              "title": "授课信息",
+              "url": "http://faculty.hust.edu.cn/xiaojiangwen/zh_CN/skxx/1789650/list/index.htm"
+            },
+            {
+              "title": "教学成果",
+              "url": "http://faculty.hust.edu.cn/xiaojiangwen/zh_CN/jxcg/1789651/list/index.htm"
+            }
+          ]
+        },
+        {
+          "title": "获奖信息",
+          "url": "http://faculty.hust.edu.cn/xiaojiangwen/zh_CN/hjxx/1789652/list/index.htm"
+        },
+        {
+          "title": "招生信息",
+          "url": "http://faculty.hust.edu.cn/xiaojiangwen/zh_CN/zsxx/1789653/list/index.htm"
+        },
+        {
+          "title": "学生信息",
+          "url": "http://faculty.hust.edu.cn/xiaojiangwen/zh_CN/xsxx/1789654/list/index.htm"
+        },
+        {
+          "title": "我的相册",
+          "url": "http://faculty.hust.edu.cn/xiaojiangwen/zh_CN/img/1789655/list/index.htm"
+        },
+        {
+          "title": "教师博客",
+          "url": "http://faculty.hust.edu.cn/xiaojiangwen/zh_CN/article/1789656/list/index.htm"
+        }
+      ],
+      "related_links": [
+        {
+          "title": "同专业博导",
+          "url": "http://faculty.hust.edu.cn/xiaojiangwen/zh_CN/tzybd/1789641/list/index.htm"
+        },
+        {
+          "title": "同专业硕导",
+          "url": "http://faculty.hust.edu.cn/xiaojiangwen/zh_CN/tzysd/1789641/list/index.htm"
+        }
+      ]
+    },
+    "site_chrome": {
+      "breadcrumb": "华中科技大学",
+      "university_logo_url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/10/rBAGRV8CDr-AeFVmAAA7EN17sME589.png",
+      "university_url": "http://www.hust.edu.cn/",
+      "portal_url": "http://faculty.hust.edu.cn/",
+      "welcome_message": "欢迎来到我的主页！"
+    }
+  }
+}

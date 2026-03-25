@@ -1,0 +1,268 @@
+{
+  "meta": {
+    "tutor_name_cn": "昌毅",
+    "request_url": "http://faculty.hust.edu.cn/YiChang/zh_CN/index.htm",
+    "declared_source_url": "http://faculty.hust.edu.cn/YiChang/zh_CN/index.htm",
+    "page_host": "faculty.hust.edu.cn",
+    "markdown_cache_path": "D:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\d345144cddda4b334d0af95f28120d61f33d92fa9662aabae044f614ad4be29c.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "target_professor_name": "昌毅",
+    "source_url": "http://faculty.hust.edu.cn/YiChang/zh_CN/index.htm",
+    "general_info": {
+      "name": "昌毅",
+      "gender": "男",
+      "origin": "湖北仙桃人",
+      "current_status": "在职",
+      "titles_positions": [
+        "研究员",
+        "硕士生导师",
+        "华中科技大学人工智能与自动化学院教授",
+        "多谱信息智能处理技术全国重点实验室研究员",
+        "华中学者卓越特聘教授",
+        "国家级青年人才入选者"
+      ],
+      "affiliated_units": [
+        "华中科技大学人工智能与自动化学院",
+        "多谱信息智能处理技术全国重点实验室"
+      ],
+      "master_supervisor_status": "同专业硕导"
+    },
+    "contact_info": {
+      "postal_code": "430074",
+      "office_address": "多谱楼406",
+      "email": "yichang@hust.edu.cn"
+    },
+    "personal_profile": {
+      "summary_paragraph": "昌毅，男，湖北仙桃人。华中科技大学人工智能与自动化学院教授、多谱信息智能处理技术全国重点实验室研究员，华中学者卓越特聘教授、国家级青年人才入选者。博士毕业于华中科技大学，曾在鹏城国家实验室从事博士后研究。主要研究方向为计算机视觉、图像处理、计算成像等，担任《宇航学报》青年编委。以第一作者或通讯作者身份在TPAMI、TIP等国际期刊与CVPR、ICCV、ECCV等国际会议发表学术论文50余篇，谷歌学术引用4000余次，授...",
+      "more_link": {
+        "url": "http://faculty.hust.edu.cn/YiChang/zh_CN/more/2416912/jsjjgd/index.htm",
+        "anchor_text": "More+"
+      }
+    },
+    "education_experience": [
+      {
+        "start_date": "2016.9",
+        "end_date": "2020.4",
+        "institution": "华中科技大学",
+        "degree": "工学博士学位",
+        "education_level": "研究生(博士)毕业"
+      },
+      {
+        "start_date": "2007.9",
+        "end_date": "2011.7",
+        "institution": "电子科技大学",
+        "degree": "工学学士学位",
+        "education_level": "本科(学士)"
+      },
+      {
+        "start_date": "2011.9",
+        "end_date": "2014.6",
+        "institution": "华中科技大学",
+        "degree": "工学硕士学位",
+        "education_level": "研究生(硕士)毕业"
+      }
+    ],
+    "academic_background": {
+      "highest_degree": "工学博士学位",
+      "highest_education_level": "研究生(博士)毕业",
+      "graduated_university": "华中科技大学",
+      "disciplines": [
+        "计算机应用技术",
+        "模式识别与智能系统"
+      ]
+    },
+    "work_experience": [
+      {
+        "start_date": "2020.1",
+        "end_date": "2022.1",
+        "institution": "鹏城国家实验室",
+        "department": "人工智能中心",
+        "position": "博士后",
+        "role_type": "博士后"
+      },
+      {
+        "start_date": "2017.10",
+        "end_date": "2018.2",
+        "institution": "腾讯",
+        "department": "优图实验室",
+        "position": "实习",
+        "role_type": "实习"
+      },
+      {
+        "start_date": "2015.7",
+        "end_date": "2016.6",
+        "institution": "华中科技大学",
+        "department": "自动化学院",
+        "position": "研究助理",
+        "role_type": "研究助理"
+      },
+      {
+        "start_date": "2014.7",
+        "end_date": "2015.6",
+        "institution": "北京大学",
+        "department": "智能系",
+        "position": "研究助理",
+        "role_type": "研究助理"
+      }
+    ],
+    "honors_awards": [
+      {
+        "year": 2025,
+        "award_name": "国家级青年人才"
+      },
+      {
+        "year": 2025,
+        "award_name": "湖北省青年科学基金A类（原湖北省杰青）"
+      },
+      {
+        "year": 2024,
+        "award_name": "华中卓越青年学者"
+      },
+      {
+        "year": 2022,
+        "award_name": "武汉英才·优秀青年人才"
+      },
+      {
+        "year": 2022,
+        "award_name": "小米青年学者"
+      },
+      {
+        "year": 2021,
+        "award_name": "鹏城国家实验室优秀博士后"
+      },
+      {
+        "year": 2020,
+        "award_name": "博士后创新人才支撑计划"
+      }
+    ],
+    "social_affiliations": [
+      {
+        "start_date": "2026.1",
+        "end_date": "至今",
+        "role": "宇航学报青年编委"
+      },
+      {
+        "start_date": "2022.9",
+        "end_date": "至今",
+        "role": "Sensors客座编辑"
+      },
+      {
+        "start_date": "2022.12",
+        "end_date": "至今",
+        "role": "CSIG成像与探测专委会委员"
+      }
+    ],
+    "research_focus": [
+      {
+        "area": "计算机视觉、图像处理、计算成像",
+        "link": {
+          "url": "http://faculty.hust.edu.cn/YiChang/zh_CN/yjfx/2416912/content/6548.htm#yjfx",
+          "anchor_text": "计算机视觉、图像处理、计算成像"
+        }
+      }
+    ],
+    "research_group": {
+      "team_name": "图像识别与智能系统",
+      "team_description": "聚焦计算机视觉、图像处理、机器人系统等"
+    },
+    "site_chrome": {
+      "language_switch": {
+        "english": {
+          "url": "http://faculty.hust.edu.cn/changyi1/en/index.htm",
+          "anchor_text": "English"
+        }
+      },
+      "university_link": {
+        "url": "http://www.hust.edu.cn/",
+        "anchor_text": "华中科技大学"
+      },
+      "hust_logo": {
+        "image_url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/10/rBAGRV8CDr-AeFVmAAA7EN17sME589.png",
+        "link": "http://faculty.hust.edu.cn/"
+      },
+      "navigation_menu": [
+        {
+          "title": "首页",
+          "url": "http://faculty.hust.edu.cn/YiChang/zh_CN/index/2416912/list/index.htm"
+        },
+        {
+          "title": "科学研究",
+          "url": "http://faculty.hust.edu.cn/YiChang/zh_CN/zhym/2416913/list/index.htm",
+          "sub_items": [
+            {
+              "title": "研究领域",
+              "url": "http://faculty.hust.edu.cn/YiChang/zh_CN/yjgk/2416914/list/index.htm"
+            },
+            {
+              "title": "论文成果",
+              "url": "http://faculty.hust.edu.cn/YiChang/zh_CN/lwcg/2416915/list/index.htm"
+            },
+            {
+              "title": "专利",
+              "url": "http://faculty.hust.edu.cn/YiChang/zh_CN/zlcg/2416916/list/index.htm"
+            },
+            {
+              "title": "著作成果",
+              "url": "http://faculty.hust.edu.cn/YiChang/zh_CN/zzcg/2416917/list/index.htm"
+            },
+            {
+              "title": "科研项目",
+              "url": "http://faculty.hust.edu.cn/YiChang/zh_CN/kyxm/2416918/list/index.htm"
+            }
+          ]
+        },
+        {
+          "title": "教学研究",
+          "url": "http://faculty.hust.edu.cn/YiChang/zh_CN/zhym/2416919/list/index.htm",
+          "sub_items": [
+            {
+              "title": "教学资源",
+              "url": "http://faculty.hust.edu.cn/YiChang/zh_CN/jxzy/2416920/list/index.htm"
+            },
+            {
+              "title": "授课信息",
+              "url": "http://faculty.hust.edu.cn/YiChang/zh_CN/skxx/2416921/list/index.htm"
+            },
+            {
+              "title": "教学成果",
+              "url": "http://faculty.hust.edu.cn/YiChang/zh_CN/jxcg/2416922/list/index.htm"
+            }
+          ]
+        },
+        {
+          "title": "获奖信息",
+          "url": "http://faculty.hust.edu.cn/YiChang/zh_CN/hjxx/2416923/list/index.htm"
+        },
+        {
+          "title": "招生信息",
+          "url": "http://faculty.hust.edu.cn/YiChang/zh_CN/zsxx/2416924/list/index.htm"
+        },
+        {
+          "title": "学生信息",
+          "url": "http://faculty.hust.edu.cn/YiChang/zh_CN/xsxx/2416925/list/index.htm"
+        },
+        {
+          "title": "我的相册",
+          "url": "http://faculty.hust.edu.cn/YiChang/zh_CN/img/2416926/list/index.htm"
+        },
+        {
+          "title": "教师博客",
+          "url": "http://faculty.hust.edu.cn/YiChang/zh_CN/article/2416927/list/index.htm"
+        }
+      ],
+      "image_banner_or_logo": {
+        "image_url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/1E/rBAGRWIvUoeAD7GdAAHRaeXaEco673.png?randomid=1773122389231"
+      },
+      "page_specific_image": "http://faculty.hust.edu.cn/YiChang/zh_CN/index.htm",
+      "footer_or_general_message": {
+        "date_time": "2026年3月24日，星期二",
+        "message": "欢迎来到我的主页！"
+      }
+    }
+  }
+}

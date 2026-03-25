@@ -1,0 +1,160 @@
+{
+  "meta": {
+    "tutor_name_cn": "王苗苗",
+    "request_url": "http://faculty.hust.edu.cn/mmwang/zh_CN/index.htm",
+    "declared_source_url": "http://faculty.hust.edu.cn/mmwang/zh_CN/index.htm",
+    "page_host": "faculty.hust.edu.cn",
+    "markdown_cache_path": "D:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\bb223e38534239018195e2b3a837b027c351d94006ab2ca922e3731dcadc9b1d.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "target_name": "王苗苗",
+    "source_url": "http://faculty.hust.edu.cn/mmwang/zh_CN/index.htm",
+    "site_chrome": {
+      "source_url_in_text": "http://faculty.hust.edu.cn/mmwang/zh_CN/index.htm",
+      "header_images": [
+        "http://faculty.hust.edu.cn/mmwang/zh_CN/index.htm",
+        "http://faculty.hust.edu.cn/_resources/group1/M00/00/3D/rBAGRWhY9N2AJkugAAHHjRIrzxY542.png?randomid=1774255207833"
+      ],
+      "header_table": {
+        "icon": "http://faculty.hust.edu.cn/_ts/qtmbzw1/images/ico-heart-i.png",
+        "content": ""
+      }
+    },
+    "personal_information": {
+      "name": "王苗苗",
+      "roles_and_titles": [
+        "研究员",
+        "博士生导师",
+        "硕士生导师"
+      ],
+      "employment_status": "在职",
+      "affiliated_unit": "人工智能与自动化学院",
+      "education_level": "研究生(博士)毕业",
+      "graduated_university": "加拿大西安大略大学",
+      "discipline": "控制理论与控制工程"
+    },
+    "contact_information": {
+      "postal_code": "430074",
+      "office_address": "南一楼东南501",
+      "email": "mmwang@hust.edu.cn"
+    },
+    "navigation_links": [
+      {
+        "anchor_text": "同专业博导",
+        "url": "http://faculty.hust.edu.cn/mmwang/zh_CN/tzybd/2547773/list/index.htm"
+      },
+      {
+        "anchor_text": "同专业硕导",
+        "url": "http://faculty.hust.edu.cn/mmwang/zh_CN/tzysd/2547773/list/index.htm"
+      }
+    ],
+    "personal_profile": {
+      "biography": "王苗苗，教授， 博士生导师，国家级青年人才，IEEE Senior Member。2013年获得华中科技大学学士学位，2015年获得加拿大湖首大学（Lakehead University）硕士学位，2020年获得加拿大西安大略大学（The University of Western Ontario）博士学位，2020年至2024年期间先后在加拿大西安大略大学和加拿大湖首大学从事博士后研究工作。长期从事自主无人系统感知、优化、控制以及无人机集群相关领域的研究，近年来发表30余篇学术期刊和会议论文，其中在控制领域国际顶尖期刊 Automatica 和 IEEE Transactions on Automatic Control（IEEE TAC）发表第一作者论文7篇（长文5篇），以及在IEEE CDC，ACC等国内外顶尖会议发表论文10余篇。担任IEEE CSS 会议编委，中国自动化学会青年工作委员会委员，Journal of Marine Science and Application青年编委。",
+      "personal_english_homepage": {
+        "url": "https://miaomiaowang101.github.io",
+        "anchor_text": "https://miaomiaowang101.github.io./"
+      },
+      "research_directions_summary": [
+        "无人系统状态估计、SLAM和导航控制",
+        "无人机集群协同控制",
+        "人工智能驱动的无人系统"
+      ],
+      "recruitment_information": {
+        "note": "团队常年招收对以上研究方向感兴趣的优秀硕士、博士研究生、博士后。",
+        "contact_email": "mmwang@hust.edu.cn"
+      },
+      "representative_publications": [
+        "M. Wang* and A. Tayebi, “Hybrid feedback for affine nonlinear systems with application to global obstacle avoidance,” IEEE Transactions on Automatic Control, 69(8), pp. 5546–5553, 2024.",
+        "M. Wang* and A. Tayebi, “Nonlinear attitude estimation using intermittent and multi-rate vector measurements,” IEEE Transactions on Automatic Control, 69(8), pp. 5231–5245, 2024.",
+        "M. Wang* and A. Tayebi, “Hybrid feedback for global tracking on matrix Lie Groups SO(3) and SE(3),” IEEE Transactions on Automatic Control, 67(6), pp.2930-2945, 2022.",
+        "M. Wang*, S. Berkane, and A. Tayebi, “Nonlinear observers design for vision-aided inertial navigation systems,” IEEE Transactions on Automatic Control, 67(4), pp. 1853-1868, 2022.",
+        "M. Wang and A. Tayebi*, “Nonlinear state estimation for inertial navigation systems with intermittent measurements,” Automatica, 122, pp.109244, 2020.",
+        "M. Wang* and A. Tayebi, “Hybrid nonlinear observers for inertial navigation using landmark measurements,” IEEE Transactions on Automatic Control, 65(12), pp.5173–5188, 2020.",
+        "M. Wang and A. Tayebi*, “Hybrid pose and velocity-bias estimation on SE(3) using inertial and landmark measurements,” IEEE Transactions on Automatic Control, 64(8), pp. 3399–3406, 2019."
+      ]
+    },
+    "education_background": [
+      {
+        "period": "2016.1-2020.1",
+        "institution": "加拿大西安大略大学",
+        "degree": "哲学博士学位",
+        "degree_classification": "研究生(博士)毕业"
+      },
+      {
+        "period": "2014.1-2015.12",
+        "institution": "加拿大湖首大学",
+        "degree": "理学硕士学位",
+        "degree_classification": "研究生(硕士)毕业"
+      },
+      {
+        "period": "2009.9-2013.6",
+        "institution": "华中科技大学",
+        "degree": "工学学士学位",
+        "degree_classification": "本科(学士)"
+      }
+    ],
+    "work_experience": [
+      {
+        "period": "2024.2至今",
+        "institution": "华中科技大学",
+        "department": "人工智能与自动化学院",
+        "position": "教师",
+        "status": "在职"
+      },
+      {
+        "period": "2021.8-2024.2",
+        "institution": "加拿大湖首大学",
+        "department": "电子计算机系",
+        "position": "博士后研究员"
+      },
+      {
+        "period": "2020.2-2021.8",
+        "institution": "加拿大西安大略大学",
+        "department": "电子计算机系",
+        "position": "博士后研究员"
+      }
+    ],
+    "research_focus_details": [
+      {
+        "topic": "无人系统感知",
+        "link": {
+          "url": "http://faculty.hust.edu.cn/mmwang/zh_CN/yjfx/2547773/content/7592.htm#yjfx",
+          "anchor_text": "无人系统感知"
+        }
+      },
+      {
+        "topic": "多无人机集群",
+        "link": {
+          "url": "http://faculty.hust.edu.cn/mmwang/zh_CN/yjfx/2547773/content/7593.htm#yjfx",
+          "anchor_text": "多无人机集群"
+        }
+      },
+      {
+        "topic": "无人系统控制",
+        "link": {
+          "url": "http://faculty.hust.edu.cn/mmwang/zh_CN/yjfx/2547773/content/7596.htm#yjfx",
+          "anchor_text": "无人系统控制"
+        }
+      },
+      {
+        "topic": "智能无人系统",
+        "link": {
+          "url": "http://faculty.hust.edu.cn/mmwang/zh_CN/yjfx/2547773/content/7594.htm#yjfx",
+          "anchor_text": "智能无人系统"
+        }
+      }
+    ],
+    "social_affiliations": "暂无内容",
+    "research_group": {
+      "team_name": "类脑智能与智能控制实验室",
+      "team_introduction_link": {
+        "url": "http://biic.aia.hust.edu.cn/tdcy.htm",
+        "anchor_text": "http://biic.aia.hust.edu.cn/tdcy.htm"
+      }
+    }
+  }
+}

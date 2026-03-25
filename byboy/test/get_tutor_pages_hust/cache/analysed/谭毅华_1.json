@@ -1,0 +1,177 @@
+{
+  "meta": {
+    "tutor_name_cn": "谭毅华",
+    "request_url": "http://faculty.hust.edu.cn/tanyihua/zh_CN/index/1529049/list/index.htm",
+    "declared_source_url": "http://faculty.hust.edu.cn/tanyihua/zh_CN/index/1529049/list/index.htm",
+    "page_host": "faculty.hust.edu.cn",
+    "markdown_cache_path": "D:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\836f23300d50fd74dc57f340d5baffb14280421bf9a746ff15bdeb42669a2d7b.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "target_professor_name": "谭毅华",
+    "source_url": "http://faculty.hust.edu.cn/tanyihua/zh_CN/index/1529049/list/index.htm",
+    "site_chrome": {
+      "header_links": [
+        {
+          "anchor_text": "English",
+          "url": "http://faculty.hust.edu.cn/tanyihua/en/index.htm"
+        },
+        {
+          "anchor_text": "华中科技大学",
+          "url": "http://www.hust.edu.cn/",
+          "title": "华中科技大学"
+        },
+        {
+          "anchor_text": "更多",
+          "url": "http://faculty.hust.edu.cn/tanyihua/zh_CN/index/1529049/list/index.htm#"
+        }
+      ],
+      "university_logo": {
+        "url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/10/rBAGRV8CDr-AeFVmAAA7EN17sME589.png",
+        "link": "http://faculty.hust.edu.cn/"
+      },
+      "navigation_menu": [
+        {
+          "title": "首页",
+          "url": "http://faculty.hust.edu.cn/tanyihua/zh_CN/index/1529049/list/index.htm"
+        },
+        {
+          "title": "科学研究",
+          "url": "http://faculty.hust.edu.cn/tanyihua/zh_CN/zhym/1529050/list/index.htm",
+          "sub_items": [
+            {
+              "title": "学术论文",
+              "url": "http://faculty.hust.edu.cn/tanyihua/zh_CN/zdylm/2416706/list/index.htm"
+            }
+          ]
+        },
+        {
+          "title": "教学研究",
+          "url": "http://faculty.hust.edu.cn/tanyihua/zh_CN/zhym/1529056/list/index.htm",
+          "sub_items": [
+            {
+              "title": "教学资源",
+              "url": "http://faculty.hust.edu.cn/tanyihua/zh_CN/jxzy/1529057/list/index.htm"
+            },
+            {
+              "title": "授课信息",
+              "url": "http://faculty.hust.edu.cn/tanyihua/zh_CN/skxx/1529058/list/index.htm"
+            },
+            {
+              "title": "教学成果",
+              "url": "http://faculty.hust.edu.cn/tanyihua/zh_CN/jxcg/1529060/list/index.htm"
+            }
+          ]
+        },
+        {
+          "title": "获奖信息",
+          "url": "http://faculty.hust.edu.cn/tanyihua/zh_CN/hjxx/1529062/list/index.htm"
+        },
+        {
+          "title": "招生信息",
+          "url": "http://faculty.hust.edu.cn/tanyihua/zh_CN/zsxx/1529064/list/index.htm"
+        },
+        {
+          "title": "学生信息",
+          "url": "http://faculty.hust.edu.cn/tanyihua/zh_CN/xsxx/1529066/list/index.htm"
+        },
+        {
+          "title": "我的相册",
+          "url": "http://faculty.hust.edu.cn/tanyihua/zh_CN/img/1529068/list/index.htm"
+        },
+        {
+          "title": "教师博客",
+          "url": "http://faculty.hust.edu.cn/tanyihua/zh_CN/article/1529069/list/index.htm"
+        }
+      ],
+      "footer_message": "2026年3月24日，星期二\n欢迎来到我的主页！"
+    },
+    "main_profile": {
+      "name": "谭毅华",
+      "profile_picture": {
+        "url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/0B/rBAGRl8CDi6AMk9UAADBGeP51u8202.jpg?randomid=1767865380894",
+        "caption": "Profile picture of 谭毅华"
+      },
+      "related_links": [
+        {
+          "anchor_text": "同专业博导",
+          "url": "http://faculty.hust.edu.cn/tanyihua/zh_CN/tzybd/1529049/list/index.htm"
+        },
+        {
+          "anchor_text": "同专业硕导",
+          "url": "http://faculty.hust.edu.cn/tanyihua/zh_CN/tzysd/1529049/list/index.htm"
+        }
+      ],
+      "personal_information": {
+        "职称": "教授",
+        "导师类型": [
+          "博士生导师",
+          "硕士生导师"
+        ],
+        "在职信息": "在职",
+        "所在单位": "多谱信息智能处理技术全国重点实验室",
+        "学历": "研究生(博士)毕业",
+        "学位": "工学博士学位",
+        "毕业院校": "华中科技大学",
+        "学科": "模式识别与智能系统"
+      },
+      "contact_information": {
+        "邮编": "430074",
+        "通讯_办公地址": "科技楼1102",
+        "办公室电话": "027-87556301",
+        "邮箱": "yhtan@hust.edu.cn"
+      },
+      "personal_profile_summary": {
+        "text": "男，工学博士，教授。2010年-2011年在美国普渡大学访问。近年来依托所在单位多谱信息处理技术国家级重点实验室和图像处理和信息控制教育部重点实验室，一直从事多谱图像处理和分析、目标检测识别和跟踪等方面的研究工作。主持和承担国家自然科学基金面上项目、对地观测重大专项、科技部863项目等项目共30余项。在国内外学术期刊及会议上发表论文八十余篇（其中SCI/EI收录三十余篇），获得国家发明专利10项，实用新型专利1项，登...",
+        "more_link": {
+          "anchor_text": "More+",
+          "url": "http://faculty.hust.edu.cn/tanyihua/zh_CN/more/1529049/jsjjgd/index.htm"
+        }
+      },
+      "education_experience": [
+        {
+          "period": "2000.9 ~ 2004.12",
+          "university": "华中科技大学",
+          "degree": "工学博士学位",
+          "qualification": "研究生(博士)毕业"
+        },
+        {
+          "period": "1997.9 ~ 2000.6",
+          "university": "华中科技大学",
+          "degree": "工学硕士学位",
+          "qualification": "研究生(硕士)毕业"
+        },
+        {
+          "period": "1993.9 ~ 1997.6",
+          "university": "武汉汽车工业大学",
+          "degree": "工学学士学位",
+          "qualification": "本科(学士)"
+        }
+      ],
+      "work_experience": "暂无内容",
+      "social_affiliations": "暂无内容",
+      "research_focus": [
+        {
+          "topic": "人体行为和表情识别",
+          "url": "http://faculty.hust.edu.cn/tanyihua/zh_CN/yjfx/1529049/content/2808.htm#yjfx"
+        },
+        {
+          "topic": "机器学习",
+          "url": "http://faculty.hust.edu.cn/tanyihua/zh_CN/yjfx/1529049/content/2807.htm#yjfx"
+        },
+        {
+          "topic": "目标检测和识别",
+          "url": "http://faculty.hust.edu.cn/tanyihua/zh_CN/yjfx/1529049/content/2806.htm#yjfx"
+        },
+        {
+          "topic": "遥感图像处理和分析",
+          "url": "http://faculty.hust.edu.cn/tanyihua/zh_CN/yjfx/1529049/content/2805.htm#yjfx"
+        }
+      ],
+      "research_group": "暂无内容"
+    }
+  }
+}

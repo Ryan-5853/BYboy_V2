@@ -1,0 +1,176 @@
+{
+  "meta": {
+    "tutor_name_cn": "张朴",
+    "request_url": "http://faculty.hust.edu.cn/zhangpo1/zh_CN/index.htm",
+    "declared_source_url": "http://faculty.hust.edu.cn/zhangpo1/zh_CN/index.htm",
+    "page_host": "faculty.hust.edu.cn",
+    "markdown_cache_path": "D:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\2f4139ed6502f0ce86030534620b4b055f47f70353065acd34a8274a0b93db35.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "target_professor": "张朴",
+    "source_url": "http://faculty.hust.edu.cn/zhangpo1/zh_CN/index.htm",
+    "basic_info": {
+      "name_cn": "张朴",
+      "name_en": "Zhang Pu",
+      "titles": [
+        "副教授",
+        "硕士生导师"
+      ],
+      "department": "人工智能与自动化学院",
+      "education_level": "研究生(博士)毕业",
+      "degree": "工学博士学位"
+    },
+    "contact_info": {
+      "email": "zhangpu3430@hust.edu.cn",
+      "postal_code": "430074",
+      "office_address": null
+    },
+    "personal_profile": {
+      "brief": "张朴，博士，副教授。主要从事传感技术、测控系统及信号处理方向科研与教学工作。主持了近10项有关激光焊接焊熔池温度场测量、焊接过程监测，及石油测井仪研制相关项目。发表论文30余篇，获授权发明专利10项，获湖北省科学技术奖（技术发明）一等奖（排名第二）1项，省优秀硕士学位论文指导奖1项。",
+      "full_profile_link": "http://faculty.hust.edu.cn/zhangpo1/zh_CN/more/1896025/jsjjgd/index.htm"
+    },
+    "education_history": [
+      {
+        "period": "1997.9~2002.12",
+        "institution": "华中科技大学",
+        "stage": "研究生(博士)毕业",
+        "more_link": "http://faculty.hust.edu.cn/zhangpo1/zh_CN/more/1896025/jyjlgd/index.htm"
+      },
+      {
+        "period": "1989.9~1992.6",
+        "institution": "华中理工大学",
+        "stage": "研究生(硕士)毕业"
+      },
+      {
+        "period": "1984.9~1988.6",
+        "institution": "华中理工大学",
+        "stage": "本科(学士)"
+      }
+    ],
+    "work_experience": [
+      {
+        "period": "2019.1~至今",
+        "institution": "华中科技大学",
+        "department": "人工智能与自动化学院",
+        "title": "副教授",
+        "more_link": "http://faculty.hust.edu.cn/zhangpo1/zh_CN/more/1896025/gzjlgd/index.htm"
+      },
+      {
+        "period": "2000.12~2019.1",
+        "institution": "华中科技大学",
+        "department": "自动化学院",
+        "title": "副教授"
+      },
+      {
+        "period": "1993.12~2000.12",
+        "institution": "华中科技大学",
+        "department": "控制科学与工程系",
+        "title": "讲师"
+      }
+    ],
+    "research_and_teaching": {
+      "research_areas": "传感技术、测控系统及信号处理",
+      "project_summary": "主持了近10项有关激光焊接焊熔池温度场测量、焊接过程监测，及石油测井仪研制相关项目。",
+      "publication_summary": "发表论文30余篇",
+      "patent_summary": "获授权发明专利10项",
+      "award_summary": [
+        "获湖北省科学技术奖（技术发明）一等奖（排名第二）1项",
+        "省优秀硕士学位论文指导奖1项"
+      ]
+    },
+    "empty_sections": {
+      "paper_results": "暂无内容",
+      "patent_results": "暂无内容",
+      "book_results": "暂无内容",
+      "social_appointments": "暂无内容",
+      "research_direction_detail": "暂无内容",
+      "team_members": "暂无内容"
+    },
+    "site_navigation": [
+      {
+        "title": "首页",
+        "url": "http://faculty.hust.edu.cn/zhangpo1/zh_CN/index/1896025/list/index.htm"
+      },
+      {
+        "title": "科学研究",
+        "url": "http://faculty.hust.edu.cn/zhangpo1/zh_CN/zhym/1896026/list/index.htm",
+        "sub_items": [
+          {
+            "title": "研究领域",
+            "url": "http://faculty.hust.edu.cn/zhangpo1/zh_CN/yjgk/1896027/list/index.htm"
+          },
+          {
+            "title": "论文成果",
+            "url": "http://faculty.hust.edu.cn/zhangpo1/zh_CN/lwcg/1896028/list/index.htm"
+          },
+          {
+            "title": "专利",
+            "url": "http://faculty.hust.edu.cn/zhangpo1/zh_CN/zlcg/1896029/list/index.htm"
+          },
+          {
+            "title": "著作成果",
+            "url": "http://faculty.hust.edu.cn/zhangpo1/zh_CN/zzcg/1896030/list/index.htm"
+          },
+          {
+            "title": "科研项目",
+            "url": "http://faculty.hust.edu.cn/zhangpo1/zh_CN/kyxm/1896031/list/index.htm"
+          }
+        ]
+      },
+      {
+        "title": "教学研究",
+        "url": "http://faculty.hust.edu.cn/zhangpo1/zh_CN/zhym/1896032/list/index.htm",
+        "sub_items": [
+          {
+            "title": "教学资源",
+            "url": "http://faculty.hust.edu.cn/zhangpo1/zh_CN/jxzy/1896033/list/index.htm"
+          },
+          {
+            "title": "授课信息",
+            "url": "http://faculty.hust.edu.cn/zhangpo1/zh_CN/skxx/1896034/list/index.htm"
+          },
+          {
+            "title": "教学成果",
+            "url": "http://faculty.hust.edu.cn/zhangpo1/zh_CN/jxcg/1896035/list/index.htm"
+          }
+        ]
+      },
+      {
+        "title": "获奖信息",
+        "url": "http://faculty.hust.edu.cn/zhangpo1/zh_CN/hjxx/1896036/list/index.htm"
+      },
+      {
+        "title": "招生信息",
+        "url": "http://faculty.hust.edu.cn/zhangpo1/zh_CN/zsxx/1896037/list/index.htm"
+      },
+      {
+        "title": "学生信息",
+        "url": "http://faculty.hust.edu.cn/zhangpo1/zh_CN/xsxx/1896038/list/index.htm"
+      },
+      {
+        "title": "我的相册",
+        "url": "http://faculty.hust.edu.cn/zhangpo1/zh_CN/img/1896040/list/index.htm"
+      },
+      {
+        "title": "教师博客",
+        "url": "http://faculty.hust.edu.cn/zhangpo1/zh_CN/article/1896042/list/index.htm"
+      }
+    ],
+    "extra_links": {
+      "english_version": "http://faculty.hust.edu.cn/zhangpo1/en/index.htm",
+      "same_major_supervisors": "http://faculty.hust.edu.cn/zhangpo1/zh_CN/tzysd/1896025/list/index.htm"
+    },
+    "site_chrome": {
+      "images": [
+        "http://faculty.hust.edu.cn/_ts/gkzn/images/gbbtn.png",
+        "http://faculty.hust.edu.cn/_ts/gkzn/images/ss.png",
+        "http://faculty.hust.edu.cn/_ts/gkzn/images/banner.png",
+        "http://faculty.hust.edu.cn/_resources/group1/M00/00/23/rBAGRmN0MFmAbpRkAAH_r0zqQwQ878.png?randomid=1769824605943"
+      ]
+    }
+  }
+}

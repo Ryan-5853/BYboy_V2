@@ -1,0 +1,227 @@
+{
+  "meta": {
+    "tutor_name_cn": "周凯波",
+    "request_url": "http://faculty.hust.edu.cn/zhoukaibo/zh_CN/index.htm",
+    "declared_source_url": "http://faculty.hust.edu.cn/zhoukaibo/zh_CN/index.htm",
+    "page_host": "faculty.hust.edu.cn",
+    "markdown_cache_path": "D:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\bf71ed2b96e6a695cbf0ded6fd118ad898dad703ac244f9e4517f99586e48d24.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": "包含导师的详细个人简介、教育背景、工作经历、研究方向和联系方式等丰富事实。"
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "target_professor": "周凯波",
+    "source_url": "http://faculty.hust.edu.cn/zhoukaibo/zh_CN/index.htm",
+    "profile_header": {
+      "name": "周凯波",
+      "avatar_url": "http://faculty.hust.edu.cn/system/resource/tsites/images/defaultteacherimg.png?randomid=1770636281047",
+      "titles": [
+        "教授",
+        "博士生导师",
+        "硕士生导师"
+      ],
+      "tags": [
+        {
+          "text": "同专业博导",
+          "url": "http://faculty.hust.edu.cn/zhoukaibo/zh_CN/tzybd/1763628/list/index.htm"
+        },
+        {
+          "text": "同专业硕导",
+          "url": "http://faculty.hust.edu.cn/zhoukaibo/zh_CN/tzysd/1763628/list/index.htm"
+        }
+      ]
+    },
+    "basic_information": {
+      "gender": "男",
+      "employment_status": "在职",
+      "affiliation": "人工智能与自动化学院",
+      "education_level": "研究生(博士)毕业",
+      "degree": "工学博士学位",
+      "graduated_from": "华中科技大学",
+      "discipline": "检测技术与自动化装置"
+    },
+    "contact_information": {
+      "postal_code": "430074",
+      "office_address": "华中科技大学人工智能与自动化学院",
+      "email": "zhoukb_2003@163.com"
+    },
+    "personal_profile": {
+      "summary": "周凯波，华中理工大学/华中科技大学本科-硕士-博士毕业；管理科学与工程博士后；休斯敦大学测井和浅地表探测实验室访问学者。华中科技大学人工智能与自动化学院教授/博导，测量科学与仪器系副主任。主要研究方向：信息感知与处理、人工智能与机器学习、智能集成系统。 先后主持或参与多项国家863、国家自然科学基金、预研基金、企业合作项目30余项；发表论文100余篇，申请专利10余项(其中授权发明专利9项，授权...",
+      "full_profile_link": "http://faculty.hust.edu.cn/zhoukaibo/zh_CN/more/1763628/jsjjgd/index.htm"
+    },
+    "education_experience": [
+      {
+        "period": "1998.9 ~ 2003.6",
+        "institution": "华中科技大学",
+        "degree": "工学博士学位",
+        "status": "研究生(博士)毕业"
+      },
+      {
+        "period": "1995.9 ~ 1998.6",
+        "institution": "华中理工大学",
+        "degree": "工学硕士学位",
+        "status": "研究生(硕士)毕业"
+      },
+      {
+        "period": "1991.9 ~ 1995.9",
+        "institution": "华中理工大学",
+        "degree": "工学学士学位",
+        "status": "本科(学士)"
+      }
+    ],
+    "work_experience": [
+      {
+        "period": "2019.11-至今",
+        "institution": "华中科技大学",
+        "department": "人工智能与自动化学院",
+        "position": "教授"
+      },
+      {
+        "period": "2005.11-2019.11",
+        "institution": "华中科技大学",
+        "department": "控制系/自动化学院/人工智能与自动化学院",
+        "position": "副教授"
+      },
+      {
+        "period": "2009.10-2010.11",
+        "institution": "美国休斯敦大学",
+        "position": "访问学者"
+      },
+      {
+        "period": "2003.7-2006.6",
+        "institution": "华中科技大学",
+        "department": "管理学院",
+        "position": "博士后"
+      },
+      {
+        "period": "2000.6-2005.11",
+        "institution": "华中科技大学",
+        "department": "控制系",
+        "position": "讲师"
+      },
+      {
+        "period": "1998.6-2000.12",
+        "institution": "华中科技大学",
+        "department": "自控系",
+        "position": "助教"
+      }
+    ],
+    "research_focus": [
+      {
+        "direction": "水下无人系统",
+        "url": "http://faculty.hust.edu.cn/zhoukaibo/zh_CN/yjfx/1763628/content/6363.htm#yjfx"
+      },
+      {
+        "direction": "智能集成系统",
+        "url": "http://faculty.hust.edu.cn/zhoukaibo/zh_CN/yjfx/1763628/content/4969.htm#yjfx"
+      },
+      {
+        "direction": "人工智能与机器学习",
+        "url": "http://faculty.hust.edu.cn/zhoukaibo/zh_CN/yjfx/1763628/content/4967.htm#yjfx"
+      },
+      {
+        "direction": "信息感知与处理",
+        "url": "http://faculty.hust.edu.cn/zhoukaibo/zh_CN/yjfx/1763628/content/4966.htm#yjfx"
+      }
+    ],
+    "research_group": {
+      "team_name": "复杂工况下的信息获取与处理",
+      "description": "水下无人系统；智能集成系统；油气探测装备；无线能量传输",
+      "members": [
+        {
+          "name": "徐琦",
+          "url": "http://faculty.hust.edu.cn/xuqi/zh_CN/index.htm",
+          "image": "http://faculty.hust.edu.cn/_resources/group1/M00/00/01/rBAGRV8CDXyAOOEyAAkD2qKIPPw298.JPG?randomid=1770636281838"
+        }
+      ]
+    },
+    "social_affiliations": "暂无内容",
+    "navigation_menu": [
+      {
+        "title": "首页",
+        "url": "http://faculty.hust.edu.cn/zhoukaibo/zh_CN/index/1763628/list/index.htm",
+        "sub_items": [
+          {
+            "name": "研究生信息",
+            "url": "http://faculty.hust.edu.cn/zhoukaibo/zh_CN/zdylm/2428184/list/index.htm"
+          }
+        ]
+      },
+      {
+        "title": "科学研究",
+        "url": "http://faculty.hust.edu.cn/zhoukaibo/zh_CN/zhym/1763630/list/index.htm",
+        "sub_items": [
+          {
+            "name": "研究领域",
+            "url": "http://faculty.hust.edu.cn/zhoukaibo/zh_CN/yjgk/1763632/list/index.htm"
+          },
+          {
+            "name": "论文成果",
+            "url": "http://faculty.hust.edu.cn/zhoukaibo/zh_CN/lwcg/1763634/list/index.htm"
+          },
+          {
+            "name": "专利",
+            "url": "http://faculty.hust.edu.cn/zhoukaibo/zh_CN/zlcg/1763636/list/index.htm"
+          },
+          {
+            "name": "著作成果",
+            "url": "http://faculty.hust.edu.cn/zhoukaibo/zh_CN/zzcg/1763638/list/index.htm"
+          },
+          {
+            "name": "科研项目",
+            "url": "http://faculty.hust.edu.cn/zhoukaibo/zh_CN/kyxm/1763640/list/index.htm"
+          }
+        ]
+      },
+      {
+        "title": "教学研究",
+        "url": "http://faculty.hust.edu.cn/zhoukaibo/zh_CN/zhym/1763642/list/index.htm",
+        "sub_items": [
+          {
+            "name": "教学资源",
+            "url": "http://faculty.hust.edu.cn/zhoukaibo/zh_CN/jxzy/1763644/list/index.htm"
+          },
+          {
+            "name": "授课信息",
+            "url": "http://faculty.hust.edu.cn/zhoukaibo/zh_CN/skxx/1763646/list/index.htm"
+          },
+          {
+            "name": "教学成果",
+            "url": "http://faculty.hust.edu.cn/zhoukaibo/zh_CN/jxcg/1763648/list/index.htm"
+          }
+        ]
+      },
+      {
+        "title": "获奖信息",
+        "url": "http://faculty.hust.edu.cn/zhoukaibo/zh_CN/hjxx/1763650/list/index.htm"
+      },
+      {
+        "title": "招生信息",
+        "url": "http://faculty.hust.edu.cn/zhoukaibo/zh_CN/zsxx/1763652/list/index.htm"
+      },
+      {
+        "title": "学生信息",
+        "url": "http://faculty.hust.edu.cn/zhoukaibo/zh_CN/xsxx/1763654/list/index.htm"
+      },
+      {
+        "title": "我的相册",
+        "url": "http://faculty.hust.edu.cn/zhoukaibo/zh_CN/img/1763655/list/index.htm"
+      },
+      {
+        "title": "教师博客",
+        "url": "http://faculty.hust.edu.cn/zhoukaibo/zh_CN/article/1763656/list/index.htm"
+      }
+    ],
+    "site_chrome": {
+      "language_switch": {
+        "text": "English",
+        "url": "http://faculty.hust.edu.cn/zhoukaibo/en/index.htm"
+      },
+      "university_link": "http://www.hust.edu.cn/",
+      "portal_link": "http://faculty.hust.edu.cn/",
+      "current_date": "2026年3月24日，星期二",
+      "welcome_message": "欢迎来到我的主页！"
+    }
+  }
+}

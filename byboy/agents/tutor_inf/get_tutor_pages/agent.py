@@ -18,6 +18,10 @@ from urllib.parse import urljoin, urlsplit, urlunsplit
 from byboy.agent.invoke import AgentInvocation, ModelRef
 from byboy.agents.tutor_inf.link_choose import LinkChooseAgent, LinkChoosePayload
 from byboy.agents.tutor_inf.logging_utils import AgentLogger
+from byboy.agents.tutor_inf.transient_errors import (
+    run_with_transient_llm_retries,
+    try_switch_fast_slot_pair,
+)
 from byboy.agents.tutor_inf.web_clean import WebCleanAgent, WebCleanPayload
 from byboy.llm.dispatcher import LLMDispatcher
 
@@ -36,6 +40,8 @@ class GetTutorPagesPayload:
     output_dir: str | Path
     max_depth: int = 2
     resume_state_path: str | Path | None = None
+    #: 传给 link_choose：True 每条链接都经 LLM；False 仅低置信链接经 LLM。
+    link_choose_refine_all_links: bool = True
 
 
 @dataclass(frozen=True, slots=True)
@@ -97,14 +103,88 @@ def _to_root_relative(path: str | Path) -> str:
         return os.path.relpath(str(p), str(_ROOT_DIR)).replace("\\", "/")
 
 
-def _resolve_maybe_relative(path_text: str | Path, *, base_dir: Path) -> Path:
-    p = Path(path_text)
+def _to_workspace_relative(path: str | Path, workspace: Path) -> str:
+    """将路径存为相对工作目录（output_dir），避免与 base_dir 拼接时错位。"""
+    p = Path(path).resolve()
+    w = workspace.resolve()
+    try:
+        return p.relative_to(w).as_posix()
+    except ValueError:
+        return _to_root_relative(p)
+
+
+def _resolve_cleaned_markdown(
+    path_text: str,
+    *,
+    out_dir: Path,
+    cleaned_dir: Path,
+) -> Path | None:
+    """
+    解析 state 里记录的 cleaned markdown 路径。
+    兼容：相对 workdir、仅 basename、旧版相对仓库根、以及当前工作目录。
+    """
+    s = (path_text or "").strip()
+    if not s:
+        return None
+    p = Path(s)
     if p.is_absolute():
+        r = p.resolve()
+        return r if r.is_file() else None
+    cand = (out_dir / p).resolve()
+    if cand.is_file():
+        return cand
+    norm = s.replace("\\", "/")
+    mark = "cache/cleaned/"
+    if mark in norm:
+        tail = norm.split(mark, 1)[-1].lstrip("/")
+        if tail:
+            c2 = (out_dir / "cache" / "cleaned" / tail).resolve()
+            if c2.is_file():
+                return c2
+    c3 = (cleaned_dir / p.name).resolve()
+    if c3.is_file():
+        return c3
+    c4 = p.resolve()
+    if c4.is_file():
+        return c4
+    return None
+
+
+def _resolve_existing_choice_path(
+    rec_choice_text: str,
+    *,
+    out_dir: Path,
+    choice_dir: Path,
+    choice_filename: str,
+) -> Path | None:
+    """若 choice JSON 已存在于标准路径或 state 记录的路径，返回绝对路径。"""
+    default_p = (choice_dir / choice_filename).resolve()
+    if default_p.is_file():
+        return default_p
+    s = (rec_choice_text or "").strip()
+    if not s:
+        return None
+    p = Path(s)
+    if p.is_absolute() and p.is_file():
         return p.resolve()
-    c1 = (base_dir / p).resolve()
-    if c1.exists():
-        return c1
-    return p.resolve()
+    cand = (out_dir / p).resolve()
+    if cand.is_file():
+        return cand
+    norm = s.replace("\\", "/")
+    mark = "cache/choice/"
+    if mark in norm:
+        tail = norm.split(mark, 1)[-1].lstrip("/")
+        if tail:
+            c2 = (out_dir / "cache" / "choice" / tail).resolve()
+            if c2.is_file():
+                return c2
+    c3 = (choice_dir / p.name).resolve()
+    if c3.is_file():
+        return c3
+    c4 = p.resolve()
+    if c4.is_file():
+        return c4
+    return None
 
 
 def _read_json(path: Path, default_obj: Any) -> Any:
@@ -257,10 +337,49 @@ class GetTutorPagesAgent:
         dispatcher: LLMDispatcher,
         *,
         max_tokens: int = 8192,
+        restart_on_transient_llm_error: bool = True,
+        transient_retry_initial_sec: float = 15.0,
+        transient_retry_max_sec: float = 120.0,
+        transient_swap_fast_slot_pair: bool = True,
     ) -> GetTutorPagesResult:
         log = AgentLogger("GetTutorPagesAgent")
         if max_tokens <= 0:
             raise ValueError("max_tokens 必须为正整数")
+        slot_token = [inv.model.token]
+
+        def _on_retry(attempt: int, wait_sec: float, e: BaseException) -> None:
+            log.warn(
+                "LLM 网关/模型暂时不可用，抓取编排将从断点重试",
+                detail=f"attempt={attempt} sleep={wait_sec:.1f}s err={e!s}",
+            )
+            try_switch_fast_slot_pair(
+                dispatcher,
+                slot_token,
+                log=log,
+                enabled=transient_swap_fast_slot_pair,
+            )
+
+        return run_with_transient_llm_retries(
+            lambda: self._run_impl(
+                AgentInvocation(ModelRef(slot_token[0]), inv.llm_part),
+                dispatcher,
+                max_tokens=max_tokens,
+                log=log,
+            ),
+            restart_on_transient_llm_error=restart_on_transient_llm_error,
+            transient_retry_initial_sec=transient_retry_initial_sec,
+            transient_retry_max_sec=transient_retry_max_sec,
+            on_retry=_on_retry,
+        )
+
+    def _run_impl(
+        self,
+        inv: AgentInvocation[GetTutorPagesPayload],
+        dispatcher: LLMDispatcher,
+        *,
+        max_tokens: int,
+        log: AgentLogger,
+    ) -> GetTutorPagesResult:
         dispatcher.resolve(inv.model.token)
         p = inv.llm_part
         academy_url = _normalize_url(p.academy_url)
@@ -356,7 +475,7 @@ class GetTutorPagesAgent:
                         {
                             "url": url,
                             "round": current_round,
-                            "cleaned_file": _to_root_relative(cleaned_path),
+                            "cleaned_file": _to_workspace_relative(cleaned_path, out_dir),
                         }
                     )
                     log.info("完成页面清洗", detail=f"{url} -> {cleaned_name}")
@@ -373,30 +492,61 @@ class GetTutorPagesAgent:
                     if not isinstance(rec, dict):
                         continue
                     source_url = str(rec.get("url") or "").strip()
-                    cleaned_file = _resolve_maybe_relative(
+                    cleaned_file = _resolve_cleaned_markdown(
                         str(rec.get("cleaned_file") or ""),
-                        base_dir=out_dir,
+                        out_dir=out_dir,
+                        cleaned_dir=cleaned_dir,
                     )
-                    if not source_url or not cleaned_file.is_file():
+                    if not source_url or cleaned_file is None:
                         continue
                     choice_name = _choice_filename(cleaned_file.name)
-                    choice_path = chooser.run(
-                        AgentInvocation(
-                            model=inv.model,
-                            llm_part=LinkChoosePayload(
-                                markdown_path=cleaned_file,
-                                output_dir=choice_dir,
-                                output_filename=choice_name,
-                            ),
-                        ),
-                        dispatcher,
-                        max_tokens=max_tokens,
+                    existing_choice = _resolve_existing_choice_path(
+                        str(rec.get("choice_file") or ""),
+                        out_dir=out_dir,
+                        choice_dir=choice_dir,
+                        choice_filename=choice_name,
                     )
-                    rec["choice_file"] = _to_root_relative(choice_path)
-                    log.info("完成链接分类", detail=f"{source_url} -> {Path(choice_path).name}")
-                    one = _read_json(Path(choice_path), default_obj={"clickable_links": []})
+                    one: dict[str, Any] | None = None
+                    choice_path: Path
+                    if existing_choice is not None:
+                        cached = _read_json(existing_choice, default_obj={})
+                        try:
+                            if isinstance(cached, dict):
+                                _validate_choice_schema(cached)
+                                one = cached
+                        except GetTutorPagesError:
+                            one = None
+                            log.warn(
+                                "已有 choice 缓存无效，将重新分类",
+                                detail=f"{source_url} -> {existing_choice.name}",
+                            )
+                    if one is None:
+                        choice_path = chooser.run(
+                            AgentInvocation(
+                                model=inv.model,
+                                llm_part=LinkChoosePayload(
+                                    markdown_path=cleaned_file,
+                                    output_dir=choice_dir,
+                                    output_filename=choice_name,
+                                    refine_all_links=p.link_choose_refine_all_links,
+                                ),
+                            ),
+                            dispatcher,
+                            max_tokens=max_tokens,
+                        ).resolve()
+                        rec["choice_file"] = _to_workspace_relative(choice_path, out_dir)
+                        log.info("完成链接分类", detail=f"{source_url} -> {choice_path.name}")
+                        one = _read_json(choice_path, default_obj={"clickable_links": []})
+                        if isinstance(one, dict):
+                            _validate_choice_schema(one)
+                    else:
+                        choice_path = existing_choice
+                        rec["choice_file"] = _to_workspace_relative(choice_path, out_dir)
+                        log.info(
+                            "跳过链接分类(已有缓存)",
+                            detail=f"{source_url} -> {choice_path.name}",
+                        )
                     if isinstance(one, dict):
-                        _validate_choice_schema(one)
                         links = one.get("clickable_links")
                         if isinstance(links, list):
                             for item in links:
@@ -467,8 +617,21 @@ class GetTutorPagesAgent:
         dispatcher: LLMDispatcher,
         *,
         max_tokens: int = 8192,
+        restart_on_transient_llm_error: bool = True,
+        transient_retry_initial_sec: float = 15.0,
+        transient_retry_max_sec: float = 120.0,
+        transient_swap_fast_slot_pair: bool = True,
     ) -> GetTutorPagesResult:
-        return await asyncio.to_thread(self.run, inv, dispatcher, max_tokens=max_tokens)
+        return await asyncio.to_thread(
+            self.run,
+            inv,
+            dispatcher,
+            max_tokens=max_tokens,
+            restart_on_transient_llm_error=restart_on_transient_llm_error,
+            transient_retry_initial_sec=transient_retry_initial_sec,
+            transient_retry_max_sec=transient_retry_max_sec,
+            transient_swap_fast_slot_pair=transient_swap_fast_slot_pair,
+        )
 
 
 __all__ = [

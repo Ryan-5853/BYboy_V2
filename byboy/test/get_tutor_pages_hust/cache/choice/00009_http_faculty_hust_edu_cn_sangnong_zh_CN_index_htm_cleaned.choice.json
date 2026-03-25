@@ -1,0 +1,229 @@
+{
+  "clickable_links": [
+    {
+      "url": "http://faculty.hust.edu.cn/sangnong/zh_CN/index.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/sangnong/en/index.htm",
+      "anchor_text": "English",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://www.hust.edu.cn/",
+      "anchor_text": "华中科技大学",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "medium",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/10/rBAGRV8CDr-AeFVmAAA7EN17sME589.png",
+      "anchor_text": "![",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/sangnong/zh_CN/index.htm\\#",
+      "anchor_text": "更多",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/sangnong/zh_CN/index/1877456/list/index.htm",
+      "anchor_text": "首页",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/sangnong/zh_CN/zhym/1877458/list/index.htm",
+      "anchor_text": "科学研究",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/sangnong/zh_CN/yjgk/1877460/list/index.htm",
+      "anchor_text": "· 研究领域",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/sangnong/zh_CN/lwcg/1877462/list/index.htm",
+      "anchor_text": "· 论文成果",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/sangnong/zh_CN/zlcg/1877464/list/index.htm",
+      "anchor_text": "· 专利",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/sangnong/zh_CN/zzcg/1877466/list/index.htm",
+      "anchor_text": "· 著作成果",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/sangnong/zh_CN/kyxm/1877468/list/index.htm",
+      "anchor_text": "· 科研项目",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/sangnong/zh_CN/zhym/1877470/list/index.htm",
+      "anchor_text": "教学研究",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/sangnong/zh_CN/jxzy/1877472/list/index.htm",
+      "anchor_text": "· 教学资源",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/sangnong/zh_CN/skxx/1877474/list/index.htm",
+      "anchor_text": "· 授课信息",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/sangnong/zh_CN/jxcg/1877475/list/index.htm",
+      "anchor_text": "· 教学成果",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/sangnong/zh_CN/hjxx/1877476/list/index.htm",
+      "anchor_text": "获奖信息",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/sangnong/zh_CN/zsxx/1877477/list/index.htm",
+      "anchor_text": "招生信息",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/sangnong/zh_CN/xsxx/1877478/list/index.htm",
+      "anchor_text": "学生信息",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/sangnong/zh_CN/img/1877479/list/index.htm",
+      "anchor_text": "我的相册",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/sangnong/zh_CN/article/1877480/list/index.htm",
+      "anchor_text": "教师博客",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "命中个人主页关键词；命中名录关键词",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/system/resource/tsites/images/defaultteacherimg.png?randomid=1770688664799",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/sangnong/zh_CN/tzybd/1877456/list/index.htm",
+      "anchor_text": "同专业博导",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/sangnong/zh_CN/tzysd/1877456/list/index.htm",
+      "anchor_text": "同专业硕导",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/sangnong/zh_CN/yjfx/1877456/content/8497.htm#yjfx",
+      "anchor_text": "研究方向",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    }
+  ]
+}

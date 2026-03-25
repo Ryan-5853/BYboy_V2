@@ -1,0 +1,137 @@
+{
+  "meta": {
+    "tutor_name_cn": "邹旭",
+    "request_url": "http://faculty.hust.edu.cn/zx",
+    "declared_source_url": "http://faculty.hust.edu.cn/zx",
+    "page_host": "faculty.hust.edu.cn",
+    "markdown_cache_path": "D:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\63552b9ae28f1acec321c6c0065df654a2dd1d20c839844f704a9c6e85c3a1a2.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": "包含导师"
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "target_instructor": "邹旭",
+    "source_url": "http://faculty.hust.edu.cn/zx",
+    "site_chrome": {
+      "language_options": [
+        {
+          "label": "中文",
+          "url": "http://faculty.hust.edu.cn/zx/zh_CN/index.htm"
+        }
+      ],
+      "navigation_menu": [
+        {
+          "label": "Home",
+          "url": "http://faculty.hust.edu.cn/zx/en/index/2599990/list/index.htm"
+        },
+        {
+          "label": "Scientific Research",
+          "url": "http://faculty.hust.edu.cn/zx/en/zhym/2599991/list/index.htm",
+          "sub_menu": [
+            {
+              "label": "Research Field",
+              "url": "http://faculty.hust.edu.cn/zx/en/yjgk/2599992/list/index.htm"
+            },
+            {
+              "label": "Paper Publications",
+              "url": "http://faculty.hust.edu.cn/zx/en/lwcg/2599993/list/index.htm"
+            },
+            {
+              "label": "Patents",
+              "url": "http://faculty.hust.edu.cn/zx/en/zlcg/2599994/list/index.htm"
+            },
+            {
+              "label": "Published Books",
+              "url": "http://faculty.hust.edu.cn/zx/en/zzcg/2599995/list/index.htm"
+            },
+            {
+              "label": "Research Projects",
+              "url": "http://faculty.hust.edu.cn/zx/en/kyxm/2599996/list/index.htm"
+            }
+          ]
+        },
+        {
+          "label": "Teaching Research",
+          "url": "http://faculty.hust.edu.cn/zx/en/zhym/2599997/list/index.htm",
+          "sub_menu": [
+            {
+              "label": "Teaching Resources",
+              "url": "http://faculty.hust.edu.cn/zx/en/jxzy/2599998/list/index.htm"
+            },
+            {
+              "label": "Teaching Information",
+              "url": "http://faculty.hust.edu.cn/zx/en/skxx/2599999/list/index.htm"
+            },
+            {
+              "label": "Teaching Achievement",
+              "url": "http://faculty.hust.edu.cn/zx/en/jxcg/2600000/list/index.htm"
+            }
+          ]
+        },
+        {
+          "label": "Awards and Honours",
+          "url": "http://faculty.hust.edu.cn/zx/en/hjxx/2600001/list/index.htm"
+        },
+        {
+          "label": "Enrollment Information",
+          "url": "http://faculty.hust.edu.cn/zx/en/zsxx/2600002/list/index.htm"
+        },
+        {
+          "label": "Student Information",
+          "url": "http://faculty.hust.edu.cn/zx/en/xsxx/2600003/list/index.htm"
+        },
+        {
+          "label": "My Album",
+          "url": "http://faculty.hust.edu.cn/zx/en/img/2600004/list/index.htm"
+        },
+        {
+          "label": "Blog",
+          "url": "http://faculty.hust.edu.cn/zx/en/article/2600005/list/index.htm"
+        }
+      ]
+    },
+    "basic_information": {
+      "name": "邹旭",
+      "department": "多谱信息智能处理技术全国重点实验室",
+      "other_identifier": "36",
+      "profile_image": "http://faculty.hust.edu.cn/_resources/group1/M00/00/2B/rBAGRmhiO0yAW-CDAAGuKaIraOE180.png?randomid=1769824297674"
+    },
+    "personal_profile": {
+      "summary": "人工智能与自动化学院青年教师、多谱信息智能处理技术全国重点实验室青年骨干，主要从事计算机视觉与智能感知计算相关的学术与应用技术研究。主持技术领域基金、联合基金青年人才基金等项目。近5年以通讯作者在IEEE TPAMI、CVPR、ICLR等领域顶级学术期刊或会议上发表A类论文十余篇，获2025年ICME最佳论文/最佳学生论文提名。指导硕士生和本科生组成的团队获2024年“挑战杯”竞赛“揭榜挂帅”专项赛全国特等奖。",
+      "full_profile_link": "http://faculty.hust.edu.cn/zx/en/more/2599990/jsjjgd/index.htm"
+    },
+    "research_focus": [
+      {
+        "title": "计算机视觉与智能感知计算",
+        "anchor_link": "http://faculty.hust.edu.cn/zx/en/yjfx/2599990/content/8273.htm#yjfx"
+      }
+    ],
+    "sections": {
+      "education_experience": "No content",
+      "awards_and_honours": "No content",
+      "work_experience": "No content",
+      "social_affiliations": "No content",
+      "paper_publications": "No content",
+      "patents": "No content",
+      "published_books": "No content",
+      "team_members": {
+        "status": "Has link but no list in preview",
+        "more_link": "http://faculty.hust.edu.cn/zx/en/more/2599990/tdgd/index.htm"
+      }
+    },
+    "visual_assets": {
+      "banners": [
+        "http://faculty.hust.edu.cn/_ts/gkyn/images/ba.jpg",
+        "http://faculty.hust.edu.cn/_ts/gkyn/images/ba.jpg",
+        "http://faculty.hust.edu.cn/_ts/gkyn/images/ba.jpg",
+        "http://faculty.hust.edu.cn/_ts/gkyn/images/ba.jpg",
+        "http://faculty.hust.edu.cn/_ts/gkyn/images/ba.jpg"
+      ],
+      "main_profile_img": "http://faculty.hust.edu.cn/zx"
+    },
+    "uncategorized": {
+      "jsxx_more_link": "http://faculty.hust.edu.cn/zx/en/jsxx/2599990/jsxx/jsxx.htm"
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "clickable_links": [
+    {
+      "url": "http://faculty.hust.edu.cn/majie/zh_CN/index/1491001/list/index.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/00/rBAGRl8CDXSAbtMuAADh9WJeLwk272.jpg?randomid=1773928346250",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/_ts/qtmbzw1/images/ico-heart-i.png",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/majie/zh_CN/tzybd/1491001/list/index.htm",
+      "anchor_text": "同专业博导",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/majie/zh_CN/tzysd/1491001/list/index.htm",
+      "anchor_text": "同专业硕导",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/majie/zh_CN/yjfx/1491001/content/2064.htm#yjfx",
+      "anchor_text": "三维信息处理：基于激光雷达三维点云的目标检测与识别",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/majie/zh_CN/yjfx/1491001/content/2068.htm#yjfx",
+      "anchor_text": "无人艇环境感知：基于光学、雷达的水面目标检测识别，航行避障",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/majie/zh_CN/yjfx/1491001/content/2067.htm#yjfx",
+      "anchor_text": "目标检测与识别：生产线全自动产品测量和缺陷检测，无人机自动检测与识别",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/majie/zh_CN/yjfx/1491001/content/2061.htm#yjfx",
+      "anchor_text": "图像处理领域：图像增强、防抖、去雾等。",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/majie/zh_CN/yjfx/1491001/content/2066.htm#yjfx",
+      "anchor_text": "图像导航与制导：基于图像匹配、地形匹配、重力匹配的导航与定位",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    }
+  ]
+}

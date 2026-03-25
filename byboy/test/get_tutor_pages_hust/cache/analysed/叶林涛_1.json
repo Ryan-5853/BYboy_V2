@@ -1,0 +1,296 @@
+{
+  "meta": {
+    "tutor_name_cn": "叶林涛",
+    "request_url": "http://faculty.hust.edu.cn/yelintao/zh_CN/index.htm",
+    "declared_source_url": "http://faculty.hust.edu.cn/yelintao/zh_CN/index.htm",
+    "page_host": "faculty.hust.edu.cn",
+    "markdown_cache_path": "D:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\12cba52825aad671c1dd894c7caa1b0e644ef2c97507c3addb8f9d2c8fd2e169.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": "包含丰富的个人简介、研究方向、代表性成果列表以及详细的教育和工作经历。"
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "target_scholar": "叶林涛",
+    "source_url": "http://faculty.hust.edu.cn/yelintao/zh_CN/index.htm",
+    "basic_information": {
+      "name": "叶林涛",
+      "title": "副教授",
+      "supervisory_role": "硕士生导师",
+      "employment_status": "在职",
+      "department": "人工智能与自动化学院",
+      "education_level": "研究生(博士)毕业",
+      "degree": "哲学博士学位",
+      "alma_mater": "美国普渡大学",
+      "discipline": "控制理论与控制工程",
+      "images": [
+        "http://faculty.hust.edu.cn/_resources/group1/M00/00/1D/rBAGRWH3mgmABBbdAAIJQhD-P6Q522.png?randomid=1770672520450"
+      ]
+    },
+    "contact_information": {
+      "postal_code": "430074",
+      "email": "yelintao93@hust.edu.cn",
+      "professional_links": [
+        {
+          "anchor_text": "同专业硕导",
+          "url": "http://faculty.hust.edu.cn/yelintao/zh_CN/tzysd/2413120/list/index.htm"
+        }
+      ]
+    },
+    "personal_profile": {
+      "summary": "叶林涛，华中科技大学人工智能与自动化学院副教授、硕士生导师。2015年获华中科技大学本科学位，2017年和2020年分别获美国普渡大学硕士和博士学位，2020-2021年于美国圣母大学从事博士后研究。主要研究方向包括：优化算法、控制理论、机器学习、强化学习等。近年来，在IEEE Transactions on Automatic Control (TAC)、Automatica、SIAM Journal on Control and Optimization (SICON) 等国际期刊发表论文十余篇。",
+      "external_homepage": "https://sites.google.com/view/lintao-ye"
+    },
+    "research_focus": {
+      "core_goal": "设计具有可解释性和性能保障的优化算法及人工智能算法",
+      "detailed_directions": [
+        "（1）基于强化学习的模型未知动态系统最优控制与观测；",
+        "（2）在线优化和序贯决策问题；",
+        "（3）基于次摸性的组合优化；",
+        "（4）大规模和分布式系统中的强化学习问题；",
+        "（5）强化学习算法在无人系统集群、大规模电力系统中的应用。"
+      ]
+    },
+    "recruitment_information": {
+      "target_students": [
+        "本科生",
+        "硕士生",
+        "博士生",
+        "博士后"
+      ],
+      "requirements": [
+        "较强的数学基础",
+        "编程能力",
+        "英语水平",
+        "具备自我激励和持之以恒的精神",
+        "以自身兴趣为驱动从事关键科学问题研究"
+      ],
+      "contact_method": "发送邮件至yelintao93@hust.edu.cn"
+    },
+    "representative_publications": [
+      {
+        "index": 1,
+        "authors": "L. Ye, M. Chi, Z. W. Liu, X. Wang, V. Gupta",
+        "title": "Online mixed discrete and continuous optimization: Algorithms, regret analysis and applications.",
+        "journal": "Automatica",
+        "volume": "175",
+        "pages": "112189",
+        "year": 2025,
+        "links": [
+          {
+            "text": "link",
+            "url": "https://www.sciencedirect.com/science/article/abs/pii/S0005109825000822"
+          },
+          {
+            "text": "arXiv",
+            "url": "https://arxiv.org/abs/2309.07630"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "authors": "L. Ye, M. Chi, Z.W. Liu, V. Gupta",
+        "title": "Online actuator selection and controller design for linear quadratic regulation with unknown system model.",
+        "journal": "IEEE Transactions on Automatic Control",
+        "volume": "70",
+        "issue": "1",
+        "pages": "18-33",
+        "year": 2025,
+        "links": [
+          {
+            "text": "link",
+            "url": "https://ieeexplore.ieee.org/document/10582506"
+          },
+          {
+            "text": "arXiv",
+            "url": "https://arxiv.org/pdf/2201.10197"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "authors": "L. Ye, M. Chi, R. Liao, V. Gupta",
+        "title": "Learning decentralized linear quadratic regulator with squared root T regret.",
+        "journal": "SIAM Journal on Control and Optimization",
+        "volume": "62",
+        "issue": "6",
+        "pages": "3341-3368",
+        "year": 2024,
+        "links": [
+          {
+            "text": "link",
+            "url": "https://epubs.siam.org/doi/abs/10.1137/23M161714X"
+          },
+          {
+            "text": "arXiv",
+            "url": "https://arxiv.org/abs/2210.08886"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "authors": "L. Ye, M. Figura, Y. Lin, M. Pal, P. Das, J. Liu, V. Gupta",
+        "title": "Resilient multi-agent reinforcement learning with function approximation.",
+        "journal": "IEEE Transactions on Automatic Control",
+        "volume": "69",
+        "issue": "12",
+        "pages": "8497-8512",
+        "year": 2024,
+        "links": [
+          {
+            "text": "link",
+            "url": "https://ieeexplore.ieee.org/document/10549785"
+          }
+        ]
+      },
+      {
+        "index": 5,
+        "authors": "L. Ye, Z.W. Liu, M. Chi, V. Gupta",
+        "title": "Maximization of nonsubmodular functions under multiple constraints with applications.",
+        "journal": "Automatica",
+        "volume": "155",
+        "pages": "11126",
+        "year": 2023,
+        "links": [
+          {
+            "text": "link",
+            "url": "https://www.sciencedirect.com/science/article/abs/pii/S0005109823002868"
+          },
+          {
+            "text": "arXiv",
+            "url": "https://arxiv.org/pdf/2305.04254"
+          }
+        ]
+      },
+      {
+        "index": 6,
+        "authors": "L. Ye, H. Zhu, V. Gupta",
+        "title": "On the sample complexity of decentralized linear quadratic regulator with partially nested information structure.",
+        "journal": "IEEE Transactions on Automatic Control",
+        "volume": "68",
+        "issue": "8",
+        "pages": "4841-4856",
+        "year": 2023,
+        "links": [
+          {
+            "text": "link",
+            "url": "https://ieeexplore.ieee.org/abstract/document/9925263"
+          },
+          {
+            "text": "arXiv",
+            "url": "https://arxiv.org/pdf/2110.07112"
+          }
+        ]
+      },
+      {
+        "index": 7,
+        "authors": "L. Ye, P. E. Paré, S. Sundaram",
+        "title": "Parameter estimation in epidemic spread networks using limited measurements.",
+        "journal": "SIAM Journal on Control and Optimization",
+        "volume": "60",
+        "issue": "2",
+        "pages": "S49-S74",
+        "year": 2022,
+        "links": [
+          {
+            "text": "link",
+            "url": "https://epubs.siam.org/doi/abs/10.1137/20M1377801"
+          },
+          {
+            "text": "arXiv",
+            "url": "https://arxiv.org/pdf/2105.04750"
+          }
+        ]
+      },
+      {
+        "index": 8,
+        "authors": "L. Ye, N. Woodford, S. Roy, S. Sundaram",
+        "title": "On the complexity and approximability of optimal sensor selection and attack for Kalman filtering.",
+        "journal": "IEEE Transactions on Automatic Control",
+        "volume": "66",
+        "issue": "5",
+        "pages": "2146-2161",
+        "year": 2021,
+        "links": [
+          {
+            "text": "link",
+            "url": "https://ieeexplore.ieee.org/abstract/document/9134889"
+          },
+          {
+            "text": "arXiv",
+            "url": "https://arxiv.org/pdf/2003.11951"
+          }
+        ]
+      }
+    ],
+    "educational_background": [
+      {
+        "period": "2011.9 - 2015.6",
+        "institution": "华中科技大学",
+        "major": "材料成型及控制工程",
+        "degree": "工学学士学位",
+        "level": "本科(学士)"
+      },
+      {
+        "period": "2015.8 - 2017.5",
+        "institution": "美国普渡大学",
+        "major": "机械工程",
+        "degree": "理学硕士学位",
+        "level": "研究生(硕士)毕业"
+      },
+      {
+        "period": "2017.5 - 2020.12",
+        "institution": "美国普渡大学",
+        "major": "电子与计算机工程",
+        "degree": "哲学博士学位",
+        "level": "研究生(博士)毕业"
+      }
+    ],
+    "work_experience": [
+      {
+        "period": "2025.2 至今",
+        "institution": "华中科技大学",
+        "department": "人工智能与自动化学院",
+        "title": "副教授"
+      },
+      {
+        "period": "2021.12 - 2025.2",
+        "institution": "华中科技大学",
+        "department": "人工智能与自动化学院",
+        "title": "讲师"
+      },
+      {
+        "period": "2020.12 - 2021.12",
+        "institution": "美国圣母大学",
+        "department": "电子工程学院",
+        "title": "博士后研究员"
+      }
+    ],
+    "social_affiliations": [
+      {
+        "period": "2018.3 至今",
+        "role": "IEEE Member"
+      }
+    ],
+    "site_chrome": {
+      "nav_placeholders": [
+        {
+          "icon": "http://faculty.hust.edu.cn/_ts/ngd/images/ico-heart-i.png",
+          "description": "收藏功能占位"
+        }
+      ],
+      "sidebar_menus": [
+        "个人信息Personal Information",
+        "其他联系方式Other Contact Information",
+        "个人简介Personal Profile",
+        "教育经历Education Background",
+        "工作经历Work Experience",
+        "研究方向Research Focus",
+        "社会兼职Social Affiliations"
+      ],
+      "uncategorized": {
+        "other_content_status": "研究方向部分暂无内容（列表外描述）"
+      }
+    }
+  }
+}

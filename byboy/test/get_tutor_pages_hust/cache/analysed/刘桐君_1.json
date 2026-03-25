@@ -1,0 +1,199 @@
+{
+  "meta": {
+    "tutor_name_cn": "刘桐君",
+    "request_url": "http://faculty.hust.edu.cn/LIUTONGJUN/zh_CN/index.htm",
+    "declared_source_url": "http://faculty.hust.edu.cn/LIUTONGJUN/zh_CN/index.htm",
+    "page_host": "faculty.hust.edu.cn",
+    "markdown_cache_path": "D:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\feb64f61284f0ef2eff6c22fa194f34326f3b8e64f858f448fecc852250b7c42.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": "包含详细的个人简介、教育及工作经历、联系方式、研究方向及多篇高水平学术论文，有效信息丰富。"
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "target_tutor": "刘桐君",
+    "source_url": "http://faculty.hust.edu.cn/LIUTONGJUN/zh_CN/index.htm",
+    "basic_info": {
+      "name": "刘桐君",
+      "titles": [
+        "博士生导师",
+        "硕士生导师",
+        "教授"
+      ],
+      "gender": "男",
+      "employment_status": "在职",
+      "affiliation": "人工智能与自动化学院",
+      "education_level": "研究生(博士)毕业",
+      "degree": "工学博士学位",
+      "office_address": "人工智能与自动化学院新大楼S807",
+      "postal_code": "430074",
+      "email": "tongjun_liu@hust.edu.cn",
+      "profile_image": "http://faculty.hust.edu.cn/_resources/group1/M00/00/41/rBAGRWmmUj6AarY1AAGyct5ldxs773.png?randomid=1773634402708",
+      "more_info_link": "http://faculty.hust.edu.cn/LIUTONGJUN/zh_CN/jsxx/2699183/jsxx/jsxx.htm"
+    },
+    "biography": {
+      "summary": "刘桐君，国家级青年人才项目（海外）、湖北省“百人计划”入选者。近年来围绕智能光学精密测量与成像、微纳机械测量与传感以及新奇物态探索开展研究。以唯一第一作者身份在Nature Materials，Nature Physics，Science Advances等期刊上发表文章。研究成果被Nature、Nature Physics等期刊论文引用，并被Phys.Org、Optics.Org等国际主流科学媒体报道，受到国内外同行的高度评价。获得2025 Rising Stars of Light（全球光学未来之星）提名奖（全球仅4人），2022年获得南安普顿大学光电子研究中心光子学未来领袖奖（每年1人）等奖励。受邀担任Nature Communications、Optics Letters等多个国际学术期刊审稿人。作为骨干成员参与英国EPSRC项目“纳...\"",
+      "full_bio_link": "http://faculty.hust.edu.cn/LIUTONGJUN/zh_CN/more/2699183/jsjjgd/index.htm"
+    },
+    "education_experience": [
+      {
+        "period": "2018.9~2023.2",
+        "institution": "英国南安普顿大学",
+        "detail": "研究生(博士)毕业"
+      },
+      {
+        "period": "2015.9~2018.6",
+        "institution": "华中科技大学",
+        "detail": "研究生(硕士)毕业"
+      },
+      {
+        "period": "2011.9~2015.6",
+        "institution": "扬州大学",
+        "detail": "本科(学士)"
+      }
+    ],
+    "work_experience": [
+      {
+        "period": "2026.1~至今",
+        "institution": "华中科技大学人工智能与自动化学院",
+        "position": "教授"
+      },
+      {
+        "period": "2023.11~2025.9",
+        "institution": "美国耶鲁大学物理系",
+        "position": "博士后"
+      },
+      {
+        "period": "2023.3~2023.11",
+        "institution": "英国南安普顿大学光电子研究中心",
+        "position": "博士后"
+      }
+    ],
+    "research_fields": [
+      {
+        "title": "1）智能光学精密测量与超分辨成像；",
+        "link": "http://faculty.hust.edu.cn/LIUTONGJUN/zh_CN/yjfx/2699183/content/8563.htm#yjfx"
+      }
+    ],
+    "publications_and_achievements": {
+      "papers": "暂无内容",
+      "patents": "暂无内容",
+      "monographs_and_works": [
+        {
+          "title": "Picophotonic localization metrology beyond thermal fluctuations, T. Liu, J. Y. Ou, J. Xu, E. A. Chan, K. F. MacDonald, and N. I. Zheludev, Nature Materials 22, 844–847 (2023) doi: 10.1038/s41563-023-01543-y",
+          "link": "http://faculty.hust.edu.cn/LIUTONGJUN/zh_CN/zzcg/2699188/content/9215.htm#zzcg"
+        },
+        {
+          "title": "Photonic metamaterial analogue of a continuous time crystal, T. Liu, J. Y. Ou, K. F. MacDonald, and N. I. Zheludev, Nature Physics 19, 986–991 (2023) doi: 10.1038/s41567-023-02023-5",
+          "link": "http://faculty.hust.edu.cn/LIUTONGJUN/zh_CN/zzcg/2699188/content/9216.htm#zzcg"
+        },
+        {
+          "title": "Ballistic Dynamics of Flexural Thermal Movements in a Nano-membrane Revealed with Subatomic Resolution, T. Liu, J. Y. Ou, N. Papasimakis, K. F. MacDonald, V. E. Gusev and N. I. Zheludev, Science Advances 8 (33), eabn8007 (2022) doi: 10.1126/sciadv.abn8007",
+          "link": "http://faculty.hust.edu.cn/LIUTONGJUN/zh_CN/zzcg/2699188/content/9217.htm#zzcg"
+        },
+        {
+          "title": "Visualization of Sub-atomic Movements in Nanostructures, T. Liu, J. Y. Ou, E. Plum, K. F. MacDonald, and N. I. Zheludev, Nano Letters 21(18), 7746-7752 (2021) doi: 10.1021/acs.nanolett.1c02644",
+          "link": "http://faculty.hust.edu.cn/LIUTONGJUN/zh_CN/zzcg/2699188/content/9218.htm#zzcg"
+        },
+        {
+          "title": "Time translation symmetry, ergodicity and entropy dynamics in a time crystal driven by optical interaction forces, T. Liu, V. Raskatla, J. Li, K. F. MacDonald, and N. I. Zheludev, Newton, 1, 100206 (2025) doi: 10.1016/j.newton.2025.100206",
+          "link": "http://faculty.hust.edu.cn/LIUTONGJUN/zh_CN/zzcg/2699188/content/9219.htm#zzcg"
+        },
+        {
+          "title": "Continuous space-time crystal state driven by nonreciprocal optical forces, V. Raskatla, T. Liu, J. Li, K. F. MacDonald, and N. I. Zheludev, Physics Review Letters 133, 136202 (2024) doi: 10.1103/PhysRevLett.133.136202 PRL Editor’s Suggestion",
+          "link": "http://faculty.hust.edu.cn/LIUTONGJUN/zh_CN/zzcg/2699188/content/9220.htm#zzcg"
+        }
+      ],
+      "more_works_link": "http://faculty.hust.edu.cn/LIUTONGJUN/zh_CN/zzcg/2699188/list/index.htm"
+    },
+    "social_appointments": "暂无内容",
+    "team_members": "暂无内容",
+    "site_navigation": [
+      {
+        "text": "首页",
+        "url": "http://faculty.hust.edu.cn/LIUTONGJUN/zh_CN/index/2699183/list/index.htm"
+      },
+      {
+        "text": "科学研究",
+        "url": "http://faculty.hust.edu.cn/LIUTONGJUN/zh_CN/zhym/2699184/list/index.htm"
+      },
+      {
+        "text": "研究领域",
+        "url": "http://faculty.hust.edu.cn/LIUTONGJUN/zh_CN/yjgk/2699185/list/index.htm"
+      },
+      {
+        "text": "论文成果",
+        "url": "http://faculty.hust.edu.cn/LIUTONGJUN/zh_CN/lwcg/2699186/list/index.htm"
+      },
+      {
+        "text": "专利",
+        "url": "http://faculty.hust.edu.cn/LIUTONGJUN/zh_CN/zlcg/2699187/list/index.htm"
+      },
+      {
+        "text": "著作成果",
+        "url": "http://faculty.hust.edu.cn/LIUTONGJUN/zh_CN/zzcg/2699188/list/index.htm"
+      },
+      {
+        "text": "科研项目",
+        "url": "http://faculty.hust.edu.cn/LIUTONGJUN/zh_CN/kyxm/2699189/list/index.htm"
+      },
+      {
+        "text": "教学研究",
+        "url": "http://faculty.hust.edu.cn/LIUTONGJUN/zh_CN/zhym/2699190/list/index.htm"
+      },
+      {
+        "text": "教学资源",
+        "url": "http://faculty.hust.edu.cn/LIUTONGJUN/zh_CN/jxzy/2699191/list/index.htm"
+      },
+      {
+        "text": "授课信息",
+        "url": "http://faculty.hust.edu.cn/LIUTONGJUN/zh_CN/skxx/2699192/list/index.htm"
+      },
+      {
+        "text": "教学成果",
+        "url": "http://faculty.hust.edu.cn/LIUTONGJUN/zh_CN/jxcg/2699193/list/index.htm"
+      },
+      {
+        "text": "获奖信息",
+        "url": "http://faculty.hust.edu.cn/LIUTONGJUN/zh_CN/hjxx/2699194/list/index.htm"
+      },
+      {
+        "text": "招生信息",
+        "url": "http://faculty.hust.edu.cn/LIUTONGJUN/zh_CN/zsxx/2699195/list/index.htm"
+      },
+      {
+        "text": "学生信息",
+        "url": "http://faculty.hust.edu.cn/LIUTONGJUN/zh_CN/xsxx/2699196/list/index.htm"
+      },
+      {
+        "text": "我的相册",
+        "url": "http://faculty.hust.edu.cn/LIUTONGJUN/zh_CN/img/2699197/list/index.htm"
+      },
+      {
+        "text": "教师博客",
+        "url": "http://faculty.hust.edu.cn/LIUTONGJUN/zh_CN/article/2699198/list/index.htm"
+      }
+    ],
+    "site_chrome": {
+      "language_switch": {
+        "text": "English",
+        "url": "http://faculty.hust.edu.cn/LIUTONGJUN/en/index.htm"
+      },
+      "related_links": [
+        {
+          "text": "同专业博导",
+          "url": "http://faculty.hust.edu.cn/LIUTONGJUN/zh_CN/tzybd/2699183/list/index.htm"
+        },
+        {
+          "text": "同专业硕导",
+          "url": "http://faculty.hust.edu.cn/LIUTONGJUN/zh_CN/tzysd/2699183/list/index.htm"
+        }
+      ],
+      "images": [
+        "http://faculty.hust.edu.cn/_ts/gkzn/images/gbbtn.png",
+        "http://faculty.hust.edu.cn/_ts/gkzn/images/ss.png",
+        "http://faculty.hust.edu.cn/_ts/gkzn/images/banner.png"
+      ]
+    }
+  }
+}

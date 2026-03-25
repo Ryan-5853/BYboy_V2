@@ -1,0 +1,210 @@
+{
+  "meta": {
+    "tutor_name_cn": "池明",
+    "request_url": "http://faculty.hust.edu.cn/chiming/zh_CN/index.htm",
+    "declared_source_url": "http://faculty.hust.edu.cn/chiming/zh_CN/index.htm",
+    "page_host": "faculty.hust.edu.cn",
+    "markdown_cache_path": "D:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\91d2c9ec8bb8c651d18421ad7631cd666f61c4f04b252adc4e81615ffcf599b2.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "professor_name": "池明",
+    "metadata": {
+      "source_url": "http://faculty.hust.edu.cn/chiming/zh_CN/index.htm"
+    },
+    "personal_info": {
+      "name": "池明",
+      "titles": [
+        "教授",
+        "博士生导师",
+        "硕士生导师"
+      ],
+      "gender": "男",
+      "employment_status": "在职",
+      "current_unit": "人工智能与自动化学院",
+      "highest_degree_education": "研究生(博士)毕业",
+      "highest_degree": "工学博士学位",
+      "graduating_university": "华中科技大学",
+      "discipline": "控制理论与控制工程",
+      "related_links": [
+        {
+          "anchor_text": "同专业博导",
+          "url": "http://faculty.hust.edu.cn/chiming/zh_CN/tzybd/1103465/list/index.htm"
+        },
+        {
+          "anchor_text": "同专业硕导",
+          "url": "http://faculty.hust.edu.cn/chiming/zh_CN/tzysd/1103465/list/index.htm"
+        }
+      ]
+    },
+    "contact_info": {
+      "postal_code": "430074",
+      "office_address": "华中科技大学南一楼中317",
+      "email": "chiming@hust.edu.cn"
+    },
+    "profile_summary": {
+      "text": "池明，2008年6月本科毕业于华中科技大学控制科学与工程系，2013年6月博士毕业于华中科技大学控制科学与工程专业。2013年7月留任华中科技大学自动化学院，先后任博士辅导员、讲师、副教授、教授。研究方向主要为网络控制系统性能优化、多机器人协同控制、智能电网控制与优化等，主持国家自然科学基金优青项目、国家自然科学基金面上项目、科技部国际合作专项等国家级项目多项。截止目前已在国际期刊与会议上发表论文共70余篇，其...",
+      "more_link": {
+        "anchor_text": "More+",
+        "url": "http://faculty.hust.edu.cn/chiming/zh_CN/more/1103465/jsjjgd/index.htm"
+      }
+    },
+    "education_experience": [
+      {
+        "period": "2008.9 ~ 2013.6",
+        "university": "华中科技大学",
+        "degree": "工学博士学位",
+        "qualification": "研究生(博士)毕业"
+      },
+      {
+        "period": "2004.9 ~ 2008.6",
+        "university": "华中科技大学",
+        "degree": "工学学士学位",
+        "qualification": "本科(学士)"
+      }
+    ],
+    "work_experience": [
+      {
+        "period": "2022.11-至今",
+        "institution": "华中科技大学",
+        "department": "人工智能与自动化学院",
+        "position": "教授"
+      },
+      {
+        "period": "2018.11-2022.10",
+        "institution": "华中科技大学",
+        "department": "人工智能与自动化学院",
+        "position": "副教授"
+      },
+      {
+        "period": "2018.1-2018.10",
+        "institution": "华中科技大学",
+        "department": "自动化学院",
+        "position": "讲师"
+      },
+      {
+        "period": "2013.7-2017.12",
+        "institution": "华中科技大学",
+        "department": "自动化学院",
+        "position": "博士辅导员"
+      }
+    ],
+    "social_affiliations": "暂无内容",
+    "research_focus": {
+      "section_content_status": "暂无内容",
+      "derived_from_profile_summary": [
+        "网络控制系统性能优化",
+        "多机器人协同控制",
+        "智能电网控制与优化"
+      ]
+    },
+    "research_group": "暂无内容",
+    "site_chrome": {
+      "main_page_image": {
+        "image_url": "http://faculty.hust.edu.cn/chiming/zh_CN/index.htm",
+        "comment": "This image URL appears to be the page URL itself, likely a misconfigured image link or placeholder."
+      },
+      "language_switch": {
+        "anchor_text": "English",
+        "url": "http://faculty.hust.edu.cn/chiming/en/index.htm"
+      },
+      "university_logo_link": {
+        "image_url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/10/rBAGRV8CDr-AeFVmAAA7EN17sME589.png",
+        "link_url": "http://faculty.hust.edu.cn/",
+        "anchor_text": "华中科技大学"
+      },
+      "navigation_menu": [
+        {
+          "anchor_text": "首页",
+          "url": "http://faculty.hust.edu.cn/chiming/zh_CN/index/1103465/list/index.htm"
+        },
+        {
+          "anchor_text": "科学研究",
+          "url": "http://faculty.hust.edu.cn/chiming/zh_CN/zhym/1103466/list/index.htm",
+          "sub_items": [
+            {
+              "anchor_text": "研究领域",
+              "url": "http://faculty.hust.edu.cn/chiming/zh_CN/yjgk/1103467/list/index.htm"
+            },
+            {
+              "anchor_text": "论文成果",
+              "url": "http://faculty.hust.edu.cn/chiming/zh_CN/lwcg/1103468/list/index.htm"
+            },
+            {
+              "anchor_text": "专利",
+              "url": "http://faculty.hust.edu.cn/chiming/zh_CN/zlcg/1103469/list/index.htm"
+            },
+            {
+              "anchor_text": "著作成果",
+              "url": "http://faculty.hust.edu.cn/chiming/zh_CN/zzcg/1103470/list/index.htm"
+            },
+            {
+              "anchor_text": "科研项目",
+              "url": "http://faculty.hust.edu.cn/chiming/zh_CN/kyxm/1103471/list/index.htm"
+            }
+          ]
+        },
+        {
+          "anchor_text": "教学研究",
+          "url": "http://faculty.hust.edu.cn/chiming/zh_CN/zhym/1103472/list/index.htm",
+          "sub_items": [
+            {
+              "anchor_text": "教学资源",
+              "url": "http://faculty.hust.edu.cn/chiming/zh_CN/jxzy/1103474/list/index.htm"
+            },
+            {
+              "anchor_text": "授课信息",
+              "url": "http://faculty.hust.edu.cn/chiming/zh_CN/skxx/1103476/list/index.htm"
+            },
+            {
+              "anchor_text": "教学成果",
+              "url": "http://faculty.hust.edu.cn/chiming/zh_CN/jxcg/1103478/list/index.htm"
+            }
+          ]
+        },
+        {
+          "anchor_text": "获奖信息",
+          "url": "http://faculty.hust.edu.cn/chiming/zh_CN/hjxx/1103480/list/index.htm"
+        },
+        {
+          "anchor_text": "招生信息",
+          "url": "http://faculty.hust.edu.cn/chiming/zh_CN/zsxx/1103482/list/index.htm"
+        },
+        {
+          "anchor_text": "学生信息",
+          "url": "http://faculty.hust.edu.cn/chiming/zh_CN/xsxx/1103484/list/index.htm"
+        },
+        {
+          "anchor_text": "我的相册",
+          "url": "http://faculty.hust.edu.cn/chiming/zh_CN/img/1103486/list/index.htm"
+        },
+        {
+          "anchor_text": "教师博客",
+          "url": "http://faculty.hust.edu.cn/chiming/zh_CN/article/1103488/list/index.htm"
+        }
+      ],
+      "footer_elements": [
+        {
+          "image_url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/25/rBAGRWQmj9WAQ52vAAGEPFFrH3o309.png?randomid=1770651736763",
+          "type": "image"
+        },
+        {
+          "date_time": "2026年3月24日，星期二",
+          "type": "date_time"
+        },
+        {
+          "welcome_message": "欢迎来到我的主页！",
+          "type": "welcome_message"
+        },
+        {
+          "anchor_text": "更多",
+          "url": "http://faculty.hust.edu.cn/chiming/zh_CN/index.htm#",
+          "type": "link"
+        }
+      ]
+    }
+  }
+}

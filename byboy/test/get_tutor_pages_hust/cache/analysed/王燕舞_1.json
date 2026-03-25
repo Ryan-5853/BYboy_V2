@@ -1,0 +1,322 @@
+{
+  "meta": {
+    "tutor_name_cn": "王燕舞",
+    "request_url": "http://faculty.hust.edu.cn/wangyanwu/zh_CN/index.htm",
+    "declared_source_url": "http://faculty.hust.edu.cn/wangyanwu/zh_CN/index.htm",
+    "page_host": "faculty.hust.edu.cn",
+    "markdown_cache_path": "D:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\14d3539e1fdffc61ecafcb5663c600a04b5435bfdd837f791397e800999547f9.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "target_name": "王燕舞",
+    "source_url": "http://faculty.hust.edu.cn/wangyanwu/zh_CN/index.htm",
+    "site_chrome": {
+      "language_switch": {
+        "English": "http://faculty.hust.edu.cn/wangyanwu/en/index.htm"
+      },
+      "university_links": [
+        {
+          "anchor_text": "华中科技大学",
+          "url": "http://www.hust.edu.cn/",
+          "title": "华中科技大学"
+        },
+        {
+          "anchor_text": "华中科技大学 Logo",
+          "url": "http://faculty.hust.edu.cn/",
+          "image_url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/10/rBAGRV8CDr-AeFVmAAA7EN17sME589.png"
+        }
+      ],
+      "general_navigation_link": {
+        "anchor_text": "更多",
+        "url": "http://faculty.hust.edu.cn/wangyanwu/zh_CN/index.htm#"
+      },
+      "profile_image": "http://faculty.hust.edu.cn/_resources/group1/M00/00/16/rBAGRWBSrYKAHp7LAAIVnS3MoEw117.png?randomid=1770683328755",
+      "page_footer_date": "2026年3月24日，星期二",
+      "welcome_message": "欢迎来到我的主页！"
+    },
+    "navigation_menu": [
+      {
+        "title": "首页",
+        "url": "http://faculty.hust.edu.cn/wangyanwu/zh_CN/index/1789686/list/index.htm",
+        "sub_items": [
+          {
+            "title": "项目成果科普",
+            "url": "http://faculty.hust.edu.cn/wangyanwu/zh_CN/zdylm/2693872/list/index.htm"
+          }
+        ]
+      },
+      {
+        "title": "科学研究",
+        "url": "http://faculty.hust.edu.cn/wangyanwu/zh_CN/zhym/1789688/list/index.htm",
+        "sub_items": [
+          {
+            "title": "研究领域",
+            "url": "http://faculty.hust.edu.cn/wangyanwu/zh_CN/yjgk/1789690/list/index.htm"
+          },
+          {
+            "title": "论文成果",
+            "url": "http://faculty.hust.edu.cn/wangyanwu/zh_CN/lwcg/1789692/list/index.htm"
+          },
+          {
+            "title": "专利",
+            "url": "http://faculty.hust.edu.cn/wangyanwu/zh_CN/zlcg/1789693/list/index.htm"
+          },
+          {
+            "title": "著作成果",
+            "url": "http://faculty.hust.edu.cn/wangyanwu/zh_CN/zzcg/1789694/list/index.htm"
+          },
+          {
+            "title": "科研项目",
+            "url": "http://faculty.hust.edu.cn/wangyanwu/zh_CN/kyxm/1789695/list/index.htm"
+          }
+        ]
+      },
+      {
+        "title": "教学研究",
+        "url": "http://faculty.hust.edu.cn/wangyanwu/zh_CN/zhym/1789696/list/index.htm",
+        "sub_items": [
+          {
+            "title": "教学资源",
+            "url": "http://faculty.hust.edu.cn/wangyanwu/zh_CN/jxzy/1789697/list/index.htm"
+          },
+          {
+            "title": "授课信息",
+            "url": "http://faculty.hust.edu.cn/wangyanwu/zh_CN/skxx/1789698/list/index.htm"
+          },
+          {
+            "title": "教学成果",
+            "url": "http://faculty.hust.edu.cn/wangyanwu/zh_CN/jxcg/1789699/list/index.htm"
+          }
+        ]
+      },
+      {
+        "title": "获奖信息",
+        "url": "http://faculty.hust.edu.cn/wangyanwu/zh_CN/hjxx/1789700/list/index.htm"
+      },
+      {
+        "title": "招生信息",
+        "url": "http://faculty.hust.edu.cn/wangyanwu/zh_CN/zsxx/1789701/list/index.htm"
+      },
+      {
+        "title": "学生信息",
+        "url": "http://faculty.hust.edu.cn/wangyanwu/zh_CN/xsxx/1789702/list/index.htm"
+      },
+      {
+        "title": "我的相册",
+        "url": "http://faculty.hust.edu.cn/wangyanwu/zh_CN/img/1789704/list/index.htm"
+      },
+      {
+        "title": "教师博客",
+        "url": "http://faculty.hust.edu.cn/wangyanwu/zh_CN/article/1789706/list/index.htm"
+      }
+    ],
+    "personal_info": {
+      "name": "王燕舞",
+      "titles": [
+        "教授",
+        "博士生导师",
+        "硕士生导师"
+      ],
+      "gender": "女",
+      "employment_status": "在职",
+      "affiliation": "人工智能与自动化学院",
+      "highest_education": "研究生(博士)毕业",
+      "highest_degree": "工学博士学位",
+      "graduated_university": "华中科技大学",
+      "discipline": "控制理论与控制工程",
+      "related_links": [
+        {
+          "anchor_text": "同专业博导",
+          "url": "http://faculty.hust.edu.cn/wangyanwu/zh_CN/tzybd/1789686/list/index.htm"
+        },
+        {
+          "anchor_text": "同专业硕导",
+          "url": "http://faculty.hust.edu.cn/wangyanwu/zh_CN/tzysd/1789686/list/index.htm"
+        }
+      ]
+    },
+    "contact_info": {
+      "postal_code": "430074",
+      "email": "wangyw@hust.edu.cn"
+    },
+    "profile_summary": "华中科技大学二级教授、博士生导师，华中科技大学华中卓越学者，教育部新世纪优秀人才。发表SCI收录文章90余篇，获得教育部自然科学奖一等奖、湖北省自然科学奖一等奖、湖北省教学成果一等奖、湖北省杰出青年基金等。",
+    "education_experience": [
+      {
+        "period": "2000.9 ~ 2003.6",
+        "institution": "华中科技大学",
+        "degree_type": "工学博士学位",
+        "degree_level": "研究生(博士)毕业"
+      },
+      {
+        "period": "1997.9 ~ 2000.6",
+        "institution": "华中科技大学",
+        "degree_type": "工学硕士学位",
+        "degree_level": "研究生(硕士)毕业"
+      },
+      {
+        "period": "1993.9 ~ 1997.7",
+        "institution": "华中理工大学",
+        "degree_type": "工学学士学位",
+        "degree_level": "本科(学士)"
+      }
+    ],
+    "work_experience": [
+      {
+        "period": "2005.2-2005.4",
+        "institution": "新加坡南洋理工大学",
+        "department": "电气与电子工程学院",
+        "role": null
+      },
+      {
+        "period": "2008.9-2009.8",
+        "institution": "美国波士顿大学",
+        "department": "机械工程系",
+        "role": "访问学者"
+      },
+      {
+        "period": "2010.9-至今",
+        "institution": "华中科技大学",
+        "department": null,
+        "role": "博士生导师"
+      },
+      {
+        "period": "2009.11-至今",
+        "institution": "华中科技大学",
+        "department": null,
+        "role": "教授"
+      }
+    ],
+    "social_affiliations": [
+      {
+        "period": "2021.10-至今",
+        "affiliation": "International Journal of Robust and Nonlinear Control",
+        "role": "副编"
+      },
+      {
+        "period": "2021.5-至今",
+        "affiliation": "IEEE Transactions on Smart Grid",
+        "role": "副编"
+      },
+      {
+        "period": "2020.2-至今",
+        "affiliation": "Journal of The Franklin Institute",
+        "role": "副编",
+        "impact_factor": "4.036"
+      },
+      {
+        "period": "2017.12-至今",
+        "affiliation": "Neurocomputing",
+        "role": "编委",
+        "impact_factor": "4.438"
+      },
+      {
+        "period": "2017.1-至今",
+        "affiliation": "《控制与决策》",
+        "role": "编委",
+        "notes": "EI源刊"
+      },
+      {
+        "period": "2018.1-至今",
+        "affiliation": "中国自动化学会控制理论专业委员会",
+        "role": "委员"
+      },
+      {
+        "period": "2014.1-至今",
+        "affiliation": "中国自动化学会教育工作委员会",
+        "role": "副主任委员"
+      },
+      {
+        "period": "2013.1-至今",
+        "affiliation": "IEEE",
+        "role": "Senior Member"
+      }
+    ],
+    "awards": [
+      {
+        "year": 2025,
+        "name": "中国指挥与控制学会CICC科学技术进步奖（技术发明类）",
+        "level": "二等奖"
+      },
+      {
+        "year": 2024,
+        "name": "中国自动化学会自然科学奖",
+        "level": "二等奖"
+      },
+      {
+        "year": 2003,
+        "name": "华中科技大学青年教师教学竞赛",
+        "level": "一等奖"
+      },
+      {
+        "year": 2004,
+        "name": "湖北省优秀博士学位论文",
+        "level": null
+      },
+      {
+        "year": 2005,
+        "name": "华中科技大学十佳优秀女教工",
+        "level": null
+      },
+      {
+        "year": 2006,
+        "name": "教育部自然科学奖",
+        "level": "一等奖"
+      },
+      {
+        "year": 2010,
+        "name": "湖北省自然科学优秀学术论文",
+        "level": "一等奖"
+      },
+      {
+        "year": 2010,
+        "name": "湖北省优秀硕士学位论文指导奖",
+        "level": null
+      },
+      {
+        "year": 2012,
+        "name": "湖北省优秀学士学位论文指导奖",
+        "level": null
+      },
+      {
+        "year": 2014,
+        "name": "湖北省自然科学奖",
+        "level": "一等奖"
+      },
+      {
+        "year": 2015,
+        "name": "华中科技大学十佳青年教工",
+        "level": null
+      },
+      {
+        "year": 2017,
+        "name": "湖北省教学成果",
+        "level": "一等奖"
+      }
+    ],
+    "research_directions": [
+      {
+        "topic": "基于深度学习的混杂数据挖掘、分析与预测",
+        "url": "http://faculty.hust.edu.cn/wangyanwu/zh_CN/yjfx/1789686/content/4373.htm#yjfx"
+      },
+      {
+        "topic": "基于强化学习的分布式协同优化调度",
+        "url": "http://faculty.hust.edu.cn/wangyanwu/zh_CN/yjfx/1789686/content/4372.htm#yjfx"
+      },
+      {
+        "topic": "基于群体智能的多尺度分布式协同控制",
+        "url": "http://faculty.hust.edu.cn/wangyanwu/zh_CN/yjfx/1789686/content/4371.htm#yjfx"
+      }
+    ],
+    "research_group": {
+      "team_name": "智联系统实验室",
+      "description": "实验室致力于解决智能互联系统的控制与优化问题，并应用于智能电网的分布式优化与控制。"
+    },
+    "uncategorized": {
+      "number_below_name": "949",
+      "image_below_url": "http://faculty.hust.edu.cn/wangyanwu/zh_CN/index.htm"
+    }
+  }
+}

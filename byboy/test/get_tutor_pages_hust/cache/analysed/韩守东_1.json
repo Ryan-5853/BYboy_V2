@@ -1,0 +1,256 @@
+{
+  "meta": {
+    "tutor_name_cn": "韩守东",
+    "request_url": "http://faculty.hust.edu.cn/hanshoudong",
+    "declared_source_url": "http://faculty.hust.edu.cn/hanshoudong",
+    "page_host": "faculty.hust.edu.cn",
+    "markdown_cache_path": "D:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\b7caf755f2e5efd23c1be1ff4d27f560af414d791d9c10eeb9f829c434b53d0c.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "professor_name_query": "韩守东",
+    "page_source_url": "http://faculty.hust.edu.cn/hanshoudong",
+    "site_chrome": {
+      "capture_source": "http://faculty.hust.edu.cn/hanshoudong",
+      "header_images": [
+        {
+          "url": "http://faculty.hust.edu.cn/hanshoudong",
+          "alt_text": ""
+        },
+        {
+          "url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/10/rBAGRV8CDr-AcYphAABibx5cRsQ683.png",
+          "alt_text": "",
+          "link_url": "http://faculty.hust.edu.cn/"
+        }
+      ],
+      "language_switch": {
+        "chinese": {
+          "text": "中文",
+          "url": "http://faculty.hust.edu.cn/hanshoudong/zh_CN/index.htm"
+        }
+      },
+      "university_link": {
+        "text": "HUAZHONG UNIVERSITY OF SCIENCE & TECHNOLOGY",
+        "url": "http://www.hust.edu.cn/"
+      },
+      "navigation_menu": [
+        {
+          "text": "More",
+          "url": "http://faculty.hust.edu.cn/hanshoudong#"
+        },
+        {
+          "text": "Home",
+          "url": "http://faculty.hust.edu.cn/hanshoudong/en/index/1321673/list/index.htm"
+        },
+        {
+          "text": "Scientific Research",
+          "url": "http://faculty.hust.edu.cn/hanshoudong/en/zhym/1321674/list/index.htm",
+          "sub_items": [
+            {
+              "text": "Research Field",
+              "url": "http://faculty.hust.edu.cn/hanshoudong/en/yjgk/1321675/list/index.htm"
+            },
+            {
+              "text": "Paper Publications",
+              "url": "http://faculty.hust.edu.cn/hanshoudong/en/lwcg/1321676/list/index.htm"
+            },
+            {
+              "text": "Patents",
+              "url": "http://faculty.hust.edu.cn/hanshoudong/en/zlcg/1321677/list/index.htm"
+            },
+            {
+              "text": "Published Books",
+              "url": "http://faculty.hust.edu.cn/hanshoudong/en/zzcg/1321678/list/index.htm"
+            },
+            {
+              "text": "Research Projects",
+              "url": "http://faculty.hust.edu.cn/hanshoudong/en/kyxm/1321679/list/index.htm"
+            }
+          ]
+        },
+        {
+          "text": "Teaching Research",
+          "url": "http://faculty.hust.edu.cn/hanshoudong/en/zhym/1321680/list/index.htm",
+          "sub_items": [
+            {
+              "text": "Teaching Resources",
+              "url": "http://faculty.hust.edu.cn/hanshoudong/en/jxzy/1321681/list/index.htm"
+            },
+            {
+              "text": "Teaching Information",
+              "url": "http://faculty.hust.edu.cn/hanshoudong/en/skxx/1321682/list/index.htm"
+            },
+            {
+              "text": "Teaching Achievement",
+              "url": "http://faculty.hust.edu.cn/hanshoudong/en/jxcg/1321683/list/index.htm"
+            }
+          ]
+        },
+        {
+          "text": "Awards and Honours",
+          "url": "http://faculty.hust.edu.cn/hanshoudong/en/hjxx/1321684/list/index.htm"
+        },
+        {
+          "text": "Enrollment Information",
+          "url": "http://faculty.hust.edu.cn/hanshoudong/en/zsxx/1321685/list/index.htm"
+        },
+        {
+          "text": "Student Information",
+          "url": "http://faculty.hust.edu.cn/hanshoudong/en/xsxx/1321686/list/index.htm"
+        },
+        {
+          "text": "My Album",
+          "url": "http://faculty.hust.edu.cn/hanshoudong/en/img/1321687/list/index.htm"
+        },
+        {
+          "text": "Blog",
+          "url": "http://faculty.hust.edu.cn/hanshoudong/en/article/1321688/list/index.htm"
+        }
+      ],
+      "footer_image": {
+        "url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/23/rBAGRmNy85iAHJm4AAG0r3gCUks668.png?randomid=1770714421031",
+        "alt_text": ""
+      },
+      "footer_message": "2026-3-24,Tuesday\nWelcome to my home page!"
+    },
+    "personal_info": {
+      "name": "Han Shoudong",
+      "current_titles": [
+        "Associate professor",
+        "Supervisor of Doctorate Candidates",
+        "Supervisor of Master's Candidates"
+      ],
+      "recommended_supervisor_roles": [
+        {
+          "role": "Ph.D.Supervisor",
+          "url": "http://faculty.hust.edu.cn/hanshoudong/en/tzybd/1321673/list/index.htm"
+        },
+        {
+          "role": "MA Supervisor",
+          "url": "http://faculty.hust.edu.cn/hanshoudong/en/tzysd/1321673/list/index.htm"
+        }
+      ],
+      "gender": "Male",
+      "status": "Employed",
+      "teacher_college": "School of Artifical Intelligence and Automation",
+      "department": "School of Artifical Intelligence and Automation",
+      "education_level": "Postgraduate (Doctoral)",
+      "degree": "Doctoral Degree in Engineering",
+      "alma_mater": "Huazhong University of Science and Technology",
+      "disciplines": [
+        "Pattern Recognition and Intelligent Systems",
+        "Guidance, Navigation, and Control",
+        "Control Theory and Engineering",
+        "Detection Technology and Automatic Device",
+        "Systems Engineering"
+      ],
+      "honors_and_titles": [
+        "2012 湖北省优秀博士学位论文",
+        "2012 湖北省第十四届自然科学优秀学术论文奖",
+        "2014 中国精品科技期刊顶尖学术论文《领跑者5000》（证书编号[3623]：S026201101002）"
+      ]
+    },
+    "contact_info": {
+      "zip_code": "430074",
+      "postal_address": "湖北武汉华中科技大学主校区南一楼中532",
+      "telephone": "13720301586",
+      "email": "shoudonghan@hust.edu.cn"
+    },
+    "personal_profile": {
+      "summary": "副教授，硕士、博士导师。2020年度在新加坡南洋理工大学计算机科学与工程学院（QS2023专业排名全球第11位）担任访问学者工作一年。同时，也是多谱信息智能处理技术全国重点实验室和图像信息处理与智能控制教育部重点实验室的主要研究人员。长期围绕计算机视觉和人工智能的算法建模、落地应用等开展了多方面研究工作，特别是在复杂场景视觉目标检测与跟踪、行人重识别与行为/属性识别、图像/视频跨域对齐与实例分割、特定...",
+      "more_link": {
+        "text": "More+",
+        "url": "http://faculty.hust.edu.cn/hanshoudong/en/more/1321673/jsjjgd/index.htm"
+      }
+    },
+    "education_experience": [
+      {
+        "start_date": "2007.9",
+        "end_date": "2010.12",
+        "institution": "华中科技大学",
+        "major": "Control Science and Engineering",
+        "degree": "Doctoral Degree in Engineering",
+        "level": "Postgraduate (Doctoral)"
+      },
+      {
+        "start_date": "2005.9",
+        "end_date": "2007.6",
+        "institution": "华中科技大学",
+        "major": "Control Theory and Engineering",
+        "degree": "Master's Degree in Engineering",
+        "level": "Postgraduate (Master's Degree)"
+      },
+      {
+        "start_date": "2001.9",
+        "end_date": "2005.6",
+        "institution": "华中科技大学",
+        "major": "Detection Technology and Automatic Device",
+        "degree": "Bachelor's Degree in Engineering",
+        "level": "Undergraduate (Bachelor’s degree)"
+      },
+      {
+        "start_date": "1998.9",
+        "end_date": "2001.6",
+        "institution": "武汉第十一中学",
+        "degree": "高中毕业",
+        "level": null
+      }
+    ],
+    "work_experience": [
+      {
+        "start_date": "2013.11",
+        "end_date": "Now",
+        "institution": "华中科技大学",
+        "department": "人工智能与自动化学院",
+        "position": "副教授",
+        "title": "副教授"
+      },
+      {
+        "start_date": "2019.12",
+        "end_date": "2020.12",
+        "institution": "新加坡南洋理工大学",
+        "department": "计算机科学与工程学院",
+        "position": "访问学者",
+        "title": "访问学者"
+      },
+      {
+        "start_date": "2010.9",
+        "end_date": "2013.10",
+        "institution": "华中科技大学",
+        "department": "控制科学与工程系",
+        "position": "讲师",
+        "title": "讲师"
+      }
+    ],
+    "social_affiliations": "No content",
+    "research_focus": [
+      {
+        "area": "计算机视觉",
+        "url": "http://faculty.hust.edu.cn/hanshoudong/en/yjfx/1321673/content/4775.htm#yjfx"
+      },
+      {
+        "area": "特定场景视觉/AI算法应用优化",
+        "url": "http://faculty.hust.edu.cn/hanshoudong/en/yjfx/1321673/content/4779.htm#yjfx"
+      },
+      {
+        "area": "复杂场景视觉目标检测与跟踪",
+        "url": "http://faculty.hust.edu.cn/hanshoudong/en/yjfx/1321673/content/4776.htm#yjfx"
+      },
+      {
+        "area": "图像/视频跨域对齐与实例分割",
+        "url": "http://faculty.hust.edu.cn/hanshoudong/en/yjfx/1321673/content/4777.htm#yjfx"
+      },
+      {
+        "area": "行人重识别与行为/属性识别",
+        "url": "http://faculty.hust.edu.cn/hanshoudong/en/yjfx/1321673/content/4778.htm#yjfx"
+      }
+    ],
+    "research_group": {
+      "name": "ISE-CV",
+      "description": "系统工程研究所机器视觉团队"
+    }
+  }
+}

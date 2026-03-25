@@ -1,0 +1,160 @@
+{
+  "meta": {
+    "tutor_name_cn": "袁烨",
+    "request_url": "http://faculty.hust.edu.cn/yeyuan/zh_CN/index/752531/list/index.htm",
+    "declared_source_url": "http://faculty.hust.edu.cn/yeyuan/zh_CN/index/752531/list/index.htm",
+    "page_host": "faculty.hust.edu.cn",
+    "markdown_cache_path": "D:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\3b1e51e146e11154c5b1a5efcb8c0913ef0ef44f081770615e9cdff6d06b4dc7.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": "包含详尽的个人简介、教育背景、研究方向、学术成果及联系方式等有效信息。"
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "target_instructor": "袁烨",
+    "source_url": "http://faculty.hust.edu.cn/yeyuan/zh_CN/index/752531/list/index.htm",
+    "basic_information": {
+      "name": "袁烨",
+      "gender": "男",
+      "title": [
+        "教授",
+        "博士生导师",
+        "硕士生导师"
+      ],
+      "employment_status": "在职",
+      "institution": "人工智能与自动化学院",
+      "education_level": "研究生(博士)毕业",
+      "degree": "工学博士学位",
+      "graduation_university": "剑桥大学",
+      "disciplines": [
+        "机械制造及其自动化",
+        "控制理论与控制工程"
+      ],
+      "honorary_titles": [
+        "国家特聘专家"
+      ]
+    },
+    "contact_information": {
+      "office_address": "南一楼中315",
+      "email": "yye@hust.edu.cn"
+    },
+    "personal_profile": "袁烨，华中科技大学人工智能与自动化学院教授、博导，国家特聘专家。2008年获得上海交通大学学士学位，2009和2012年分别在剑桥大学获得硕士，博士学位，2012至2016年分任剑桥大学博士后、达尔文学院Fellow、加州大学伯克利分校博士后。从事物理AI系统建模优化理论及其在工程应用的研究，主持国家自然科学基金青A，重大研究计划（重点项目、集成项目课题）、科技部重点研发计划课题等国家级项目。以第一作者或者通信作者发表National Science Review、Nature Machine Intelligence、Nature Communications、Journal of Machine Learning Research、IEEE Trans.、Automatica等期刊论文50余篇，发表COLT、CDC、ICML、IJCAI、ICRA等会议论文30余篇，出版Cambridge University Press英文专著，授权发明专利50余项，在航空工业等成果转化。牵头获得2022年湖北省自然科学一等奖、2020年华科重大学术进展、2020年IEEE信息物理系统技术委员会青年科学家提名奖、华科\"青年五四奖章\"（抗疫类）等奖励。成果获得国际工业人工智能大会等多个国际学术会议最佳论文奖。指导学生获得世界人工智能大会全球工业互联网算法大赛两届冠军，培养了多位去华科、清华、剑桥、伯克利深造和去华为、成飞、华科工作的学生，获得华科\"我最喜爱教师班主任\"、\"优秀教师班主任\"等称号。担任/曾任中国自动化学会大数据专委会副主任委员，NSR、NSO、Engineering、《中国科学·技术科学》、IEEE Trans. on Control of Network Systems等刊编委或者青年编委，IEEE Trans. on Mechatronics工业智能方向专刊编辑。",
+    "detailed_history": {
+      "education_background": [
+        {
+          "year": "2008",
+          "institution": "上海交通大学",
+          "degree": "学士学位"
+        },
+        {
+          "year": "2009",
+          "institution": "剑桥大学",
+          "degree": "硕士学位"
+        },
+        {
+          "year": "2012",
+          "institution": "剑桥大学",
+          "degree": "博士学位"
+        }
+      ],
+      "work_experience": [
+        {
+          "period": "2012-2016",
+          "roles": [
+            "剑桥大学博士后",
+            "达尔文学院Fellow",
+            "加州大学伯克利分校博士后"
+          ]
+        }
+      ],
+      "note": "页面底部‘教育经历’与‘工作经历’栏目显示为‘暂无内容’，上述信息提取自‘个人简介’段落。"
+    },
+    "research_focus": [
+      {
+        "direction": "物理AI系统的演化机理",
+        "url": "http://faculty.hust.edu.cn/yeyuan/zh_CN/yjfx/752531/content/7889.htm#yjfx"
+      },
+      {
+        "direction": "系统辨识优化理论及算法",
+        "url": "http://faculty.hust.edu.cn/yeyuan/zh_CN/yjfx/752531/content/3297.htm#yjfx"
+      },
+      {
+        "direction": "​机器人化智能制造（灵巧智能）",
+        "url": "http://faculty.hust.edu.cn/yeyuan/zh_CN/yjfx/752531/content/3291.htm#yjfx"
+      }
+    ],
+    "social_affiliations": {
+      "academic_roles": [
+        "中国自动化学会大数据专委会副主任委员"
+      ],
+      "editorial_boards": [
+        {
+          "journals": [
+            "National Science Review (NSR)",
+            "NSO",
+            "Engineering",
+            "《中国科学·技术科学》",
+            "IEEE Trans. on Control of Network Systems"
+          ],
+          "role": "编委或青年编委"
+        },
+        {
+          "journal": "IEEE Trans. on Mechatronics",
+          "role": "工业智能方向专刊编辑"
+        }
+      ]
+    },
+    "scientific_research_summary": {
+      "projects": "主持国家自然科学基金青A，重大研究计划（重点项目、集成项目课题）、科技部重点研发计划课题等国家级项目。",
+      "publications": {
+        "journal_articles": "50余篇（含National Science Review, Nature Machine Intelligence, Nature Communications, Journal of Machine Learning Research, IEEE Trans., Automatica等）",
+        "conference_papers": "30余篇（含COLT, CDC, ICML, IJCAI, ICRA等）",
+        "monographs": "Cambridge University Press 英文专著"
+      },
+      "patents": "授权发明专利50余项",
+      "achievements_transformation": "在航空工业等成果转化"
+    },
+    "awards_and_honors": [
+      "2022年湖北省自然科学一等奖",
+      "2020年华科重大学术进展",
+      "2020年IEEE信息物理系统技术委员会青年科学家提名奖",
+      "华科'青年五四奖章'（抗疫类）",
+      "国际工业人工智能大会等多个国际学术会议最佳论文奖",
+      "华科'我最喜爱教师班主任'",
+      "华科'优秀教师班主任'"
+    ],
+    "student_achievements": [
+      "世界人工智能大会全球工业互联网算法大赛两届冠军",
+      "学生去向：华科、清华、剑桥、伯克利深造；华为、成飞、华科工作"
+    ],
+    "multimedia_and_links": {
+      "images": [
+        "http://faculty.hust.edu.cn/_resources/group1/M00/00/03/rBAGRV8CDZmAZ-rgAABqXgPbP9w132.jpg?randomid=1770661931510",
+        "http://faculty.hust.edu.cn/_ts/qtmbzw1/images/ico-heart-i.png"
+      ],
+      "navigation_links": [
+        {
+          "text": "同专业博导",
+          "url": "http://faculty.hust.edu.cn/yeyuan/zh_CN/tzybd/752531/list/index.htm"
+        },
+        {
+          "text": "同专业硕导",
+          "url": "http://faculty.hust.edu.cn/yeyuan/zh_CN/tzysd/752531/list/index.htm"
+        }
+      ]
+    },
+    "site_chrome": {
+      "page_title": "袁烨 - 华中科技大学教师个人主页",
+      "crawler_source": "http://faculty.hust.edu.cn/yeyuan/zh_CN/index/752531/list/index.htm",
+      "sections_present": [
+        "个人信息Personal Information",
+        "其他联系方式Other Contact Information",
+        "个人简介Personal Profile",
+        "教育经历Education Background",
+        "工作经历Work Experience",
+        "研究方向Research Focus",
+        "社会兼职Social Affiliations"
+      ]
+    }
+  }
+}

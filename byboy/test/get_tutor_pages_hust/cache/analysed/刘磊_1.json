@@ -1,0 +1,177 @@
+{
+  "meta": {
+    "tutor_name_cn": "刘磊",
+    "request_url": "http://faculty.hust.edu.cn/liulei4aia/zh_CN/index.htm",
+    "declared_source_url": "http://faculty.hust.edu.cn/liulei4aia/zh_CN/index.htm",
+    "page_host": "faculty.hust.edu.cn",
+    "markdown_cache_path": "D:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\f2980051b22d3e70ed8beffd6ecbc28be442df788dd650dc7be7736c3421e12a.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "general_info": {
+      "name": "刘磊",
+      "titles": [
+        "教授",
+        "博士生导师",
+        "硕士生导师"
+      ],
+      "gender": "男",
+      "employment_status": "在职",
+      "current_unit": "多谱信息智能处理技术全国重点实验室",
+      "highest_education_level": "研究生(博士)毕业",
+      "highest_degree": "工学博士学位",
+      "graduating_university": "华中科技大学",
+      "disciplines": [
+        "控制理论与控制工程",
+        "导航、制导与控制"
+      ]
+    },
+    "contact_info": {
+      "office_address": "华中科技大学东校区多谱信息处理技术国家级重点实验室",
+      "email": "liulei@hust.edu.cn",
+      "related_links": [
+        {
+          "url": "http://faculty.hust.edu.cn/liulei4aia/zh_CN/tzybd/1376153/list/index.htm",
+          "anchor_text": "同专业博导"
+        },
+        {
+          "url": "http://faculty.hust.edu.cn/liulei4aia/zh_CN/tzysd/1376153/list/index.htm",
+          "anchor_text": "同专业硕导"
+        }
+      ]
+    },
+    "profile": {
+      "summary_description": "主要从事航空航天领域的科学研究工作，具体研究方向为飞行器控制、制导和轨迹优化，协同控制与决策，无人机飞行控制等。",
+      "scientific_research_work": {
+        "projects": [
+          "主持承担国家自然科学基金、教育部博士点基金、湖北省重点研发计划、湖北省自然科学基金等民口科研课题",
+          "主持承担基础加强计划重点基础研究项目，装备基础研究项目群，973项目，相关专项工程项目及预研项目等纵向科研课题",
+          "主持承担航天一院、航天三院、三江航天等多项科研合作项目，为现代空天飞行控制技术提供最新的解决方案"
+        ],
+        "publications": "在航空航天及控制领域Top期刊Chinese J of Aeronautics，Automatica，IEEE T AES，IEEE T SMC，IEEE T CST，JFI等，发表论文30余篇",
+        "patents": "授权发明专利7项"
+      },
+      "education_teaching_work": {
+        "courses_taught": [
+          "《自动控制原理II》",
+          "《飞行器制导控制基础》"
+        ],
+        "awards": [
+          "获得华中科技大学2021～2022学年度教学质量优秀奖二等奖",
+          "获华中科技大学“大学生创新创业活动优秀指导教师”称号"
+        ],
+        "mooc_courses": [
+          "担任MOOC课程《自动控制原理（二）》主讲教师，该课程获批2019年国家精品在线开放课程"
+        ],
+        "platform_development": [
+          "主持建设“运载火箭控制系统设计虚拟仿真实验”平台，获批湖北高校一流本科虚拟仿真实验教学课程"
+        ],
+        "teaching_projects": [
+          "主持湖北省教学研究专项项目"
+        ],
+        "student_guidance_achievements": [
+          "指导本科生获“西门子杯”中国智能制造挑战赛ITEM4工程创新赛项全国总决赛二等奖"
+        ]
+      },
+      "social_public_service_work": {
+        "roles": [
+          "担任飞导系党支部书记",
+          "院纪委委员"
+        ],
+        "responsibilities": [
+          "承担纪委监察、支部党建、院系招生等多项公共服务工作",
+          "担任湖北省自动化学会秘书长，支持和服务我省自动化领域高校、企业和科研院所的学术交流、学科建设、专业竞赛和技术合作等工作"
+        ]
+      }
+    },
+    "education_history": [
+      {
+        "start_date": "2007.10",
+        "end_date": "2008.10",
+        "institution": "英国拉夫堡大学",
+        "major": "计算机科学与技术",
+        "degree_type": "进修或培训"
+      },
+      {
+        "start_date": "2005.3",
+        "end_date": "2009.6",
+        "institution": "华中科技大学",
+        "degree": "工学博士学位",
+        "education_level": "研究生(博士)毕业"
+      },
+      {
+        "start_date": "2003.9",
+        "end_date": "2006.6",
+        "institution": "华中科技大学",
+        "degree": "工学硕士学位",
+        "education_level": "研究生(硕士)毕业"
+      },
+      {
+        "start_date": "1999.9",
+        "end_date": "2003.6",
+        "institution": "华中科技大学",
+        "degree": "工学学士学位",
+        "education_level": "本科(学士)"
+      }
+    ],
+    "work_history": [
+      {
+        "start_date": "2022.12",
+        "end_date": "至今",
+        "institution": "华中科技大学人工智能与自动化学院",
+        "department": "飞行器导航制导系",
+        "position": "系支部书记",
+        "title": "教授",
+        "status": "在职"
+      },
+      {
+        "start_date": "2015.12",
+        "end_date": "2022.11",
+        "institution": "华中科技大学人工智能与自动化学院",
+        "department": "飞行器导航制导系",
+        "position": "副教授",
+        "status": "在职"
+      },
+      {
+        "start_date": "2009.7",
+        "end_date": "2015.11",
+        "institution": "华中科技大学人工智能与自动化学院",
+        "department": "飞行器导航制导系",
+        "position": "讲师",
+        "status": "在职"
+      }
+    ],
+    "research_directions": "暂无内容",
+    "social_affiliations": [
+      {
+        "start_date": "2020.11",
+        "end_date": "至今",
+        "organization": "湖北省自动化学会",
+        "role": "秘书长，常务理事"
+      }
+    ],
+    "site_metadata": {
+      "source_url": "http://faculty.hust.edu.cn/liulei4aia/zh_CN/index.htm",
+      "profile_images": [
+        {
+          "url": "http://faculty.hust.edu.cn/liulei4aia/zh_CN/index.htm",
+          "description": "页面本身链接，可能为图片加载错误或Markdown转换问题"
+        },
+        {
+          "url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/08/rBAGRV8CDf6AeaCrAACTpUqEREo263.jpg?randomid=1770666490068",
+          "description": "个人照片"
+        }
+      ],
+      "page_metrics": [
+        {
+          "icon_url": "http://faculty.hust.edu.cn/_ts/qtmbzw1/images/ico-heart-i.png",
+          "value": "238",
+          "description": "页面互动计数（例如点赞或浏览量）"
+        }
+      ]
+    }
+  }
+}

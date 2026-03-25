@@ -1,0 +1,67 @@
+{
+  "clickable_links": [
+    {
+      "url": "http://faculty.hust.edu.cn/sunyali/zh_CN/index.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/29/rBAGRmfSfe2AJvMoAAHf4lnozrU889.png?randomid=1770716978758",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/_ts/qtmbzw1/images/ico-heart-i.png",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/sunyali/zh_CN/tzybd/2613610/list/index.htm",
+      "anchor_text": "同专业博导",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/sunyali/zh_CN/tzysd/2613610/list/index.htm",
+      "anchor_text": "同专业硕导",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "mailto:yali_sun@hust.edu.cn",
+      "anchor_text": "yali\\_sun@hust.edu.cn",
+      "scope": "unknown",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "mailto 链接",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "http://faculty.hust.edu.cn/sunyali/zh_CN/yjfx/2613610/content/8004.htm#yjfx",
+      "anchor_text": "光学精密测量",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面"
+    }
+  ]
+}

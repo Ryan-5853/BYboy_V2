@@ -1,0 +1,199 @@
+{
+  "meta": {
+    "tutor_name_cn": "桂康",
+    "request_url": "http://faculty.hust.edu.cn/~qYFZFz/zh_CN/index.htm",
+    "declared_source_url": "http://faculty.hust.edu.cn/~qYFZFz/zh_CN/index.htm",
+    "page_host": "faculty.hust.edu.cn",
+    "markdown_cache_path": "D:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\dfcbd77287896f7d9bcf817ec2660b57655739b66f71d9ce6dcd64dde2c8ffa5.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": "包含导师姓名、职称、详细教育工作背景、研究方向及多项论文和专利成果。"
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "target_instructor": "桂康",
+    "source_url": "http://faculty.hust.edu.cn/~qYFZFz/zh_CN/index.htm",
+    "basic_information": {
+      "name": "桂康",
+      "title": "助理研究员",
+      "gender": "男",
+      "employment_status": "在职",
+      "affiliation": "多谱信息智能处理技术全国重点实验室",
+      "education_level": "研究生(博士)毕业",
+      "degree": "工学博士学位",
+      "profile_image": "http://faculty.hust.edu.cn/_resources/group1/M00/00/29/rBAGRmfP_w6AYXeeAAFNG8Zvc0s324.png?randomid=1770715019383"
+    },
+    "contact_information": {
+      "zip_code": "430074",
+      "office_address": "华中科技大学东二楼A308室",
+      "email": "guik@hust.edu.cn"
+    },
+    "personal_profile": {
+      "summary": "桂康，男，湖北武汉人。华中科技大学多谱信息智能处理技术全国重点实验室助理研究员。2019年毕业于华中科技大学人工智能与自动化学院，获博士学位。个人研究领域为波谱特性测量技术，并在复阻抗谱、多光谱测量方向有多项应用成果。",
+      "research_highlights": [
+        "主持研发的复阻抗谱薄膜感知技术服务于C929过冷大水滴结冰防护研究，并在交通、风电、输电产业中快速渗透应用",
+        "参与研发的光纤结冰传感器装备于多款航空器"
+      ],
+      "projects_led": [
+        "国基金青年项目",
+        "博士后基金面上项目",
+        "重点实验室开放课题",
+        "航空工业院所横向项目"
+      ],
+      "achievements_summary": "以第一/通讯作者在Applied Thermal Engineering、Measurement、Sensors and Actuators A: Physical等具国际影响力的期刊/会议发表论文18篇，申请/授权专...",
+      "full_profile_link": "http://faculty.hust.edu.cn/GUIKANG/zh_CN/more/2612810/jsjjgd/index.htm"
+    },
+    "education_experience": [
+      {
+        "period": "2009.9~2013.6",
+        "institution": "华中科技大学",
+        "degree": "本科(学士)"
+      },
+      {
+        "period": "2015.9~2019.9",
+        "institution": "华中科技大学",
+        "degree": "研究生(博士)毕业"
+      }
+    ],
+    "work_experience": [
+      {
+        "period": "2025.1~至今",
+        "institution": "华中科技大学",
+        "department": "多谱信息智能处理技术全国重点实验室",
+        "title": "助理研究员"
+      },
+      {
+        "period": "2019.10~2023.10",
+        "institution": "华中科技大学",
+        "department": "人工智能与自动化学院",
+        "title": "博士后"
+      }
+    ],
+    "research_directions": [
+      {
+        "direction": "多光谱特性测量",
+        "link": "http://faculty.hust.edu.cn/GUIKANG/zh_CN/yjfx/2612810/content/8008.htm#yjfx"
+      },
+      {
+        "direction": "复阻抗谱测量技术",
+        "link": "http://faculty.hust.edu.cn/GUIKANG/zh_CN/yjfx/2612810/content/8007.htm#yjfx"
+      }
+    ],
+    "scientific_research": {
+      "publications": [
+        {
+          "title": "Mixed-phase measurement during atmospheric icing using ultrasonic pulse-echo (UPE) and signal separation techniques. Measurement, 2025,",
+          "link": "http://faculty.hust.edu.cn/GUIKANG/zh_CN/lwcg/2612813/content/133375.htm#lwcg"
+        },
+        {
+          "title": "Flexible ice detection film utilizing arrayed complex impedance sensors. Measurement, 2025,",
+          "link": "http://faculty.hust.edu.cn/GUIKANG/zh_CN/lwcg/2612813/content/133374.htm#lwcg"
+        },
+        {
+          "title": "Mixed phase measurement during icing process utilizing multi-wavelength interdigital sensor. Applied Thermal Engineering, 2024,",
+          "link": "http://faculty.hust.edu.cn/GUIKANG/zh_CN/lwcg/2612813/content/133372.htm#lwcg"
+        },
+        {
+          "title": "Fdstnet & TransCAM: A 1D CNN temperature interpretation model for temperature indication paint and model interpretability method. Measurement, 2024,",
+          "link": "http://faculty.hust.edu.cn/GUIKANG/zh_CN/lwcg/2612813/content/133371.htm#lwcg"
+        },
+        {
+          "title": "Temperature interpretation method for temperature indicating paint based on spectrogram. Measurement, 2023,",
+          "link": "http://faculty.hust.edu.cn/GUIKANG/zh_CN/lwcg/2612813/content/133370.htm#lwcg"
+        },
+        {
+          "title": "Ice porosity measurement utilizing dynamic wavelet fingerprint technology. Transactions of Nanjing University of Aeronautics and Astronautics, 2023,",
+          "link": "http://faculty.hust.edu.cn/GUIKANG/zh_CN/lwcg/2612813/content/133373.htm#lwcg"
+        }
+      ],
+      "patents": [
+        {
+          "title": "一种示温漆温度判读方法、装置、电子设备及存储介质.",
+          "link": "http://faculty.hust.edu.cn/GUIKANG/zh_CN/zlcg/2612814/content/88314.htm#zlcg"
+        },
+        {
+          "title": "一种结冰防护蒙皮结构、除冰系统及除冰方法.",
+          "link": "http://faculty.hust.edu.cn/GUIKANG/zh_CN/zlcg/2612814/content/88313.htm#zlcg"
+        },
+        {
+          "title": "一种飞行器表面冰结合状态的判别方法及系统.",
+          "link": "http://faculty.hust.edu.cn/GUIKANG/zh_CN/zlcg/2612814/content/88312.htm#zlcg"
+        },
+        {
+          "title": "一种阵列式结冰探测器.",
+          "link": "http://faculty.hust.edu.cn/GUIKANG/zh_CN/zlcg/2612814/content/88311.htm#zlcg"
+        },
+        {
+          "title": "一种冰层孔隙分布探测器及探测方法.",
+          "link": "http://faculty.hust.edu.cn/GUIKANG/zh_CN/zlcg/2612814/content/88310.htm#zlcg"
+        },
+        {
+          "title": "一种基于压电阵列的结冰三维成像方法.",
+          "link": "http://faculty.hust.edu.cn/GUIKANG/zh_CN/zlcg/2612814/content/88309.htm#zlcg"
+        }
+      ],
+      "monographs": null
+    },
+    "social_appointments": [
+      "担任Measurement、Sensors and Actuators A: Physical等期刊及会议的审稿人"
+    ],
+    "team_members": null,
+    "site_chrome": {
+      "language_switch": {
+        "text": "English",
+        "url": "http://faculty.hust.edu.cn/GUIKANG/en/index.htm"
+      },
+      "navigation_menu": [
+        {
+          "label": "首页",
+          "url": "http://faculty.hust.edu.cn/GUIKANG/zh_CN/index/2612810/list/index.htm"
+        },
+        {
+          "label": "科学研究",
+          "url": "http://faculty.hust.edu.cn/GUIKANG/zh_CN/zhym/2612811/list/index.htm",
+          "sub_items": [
+            "研究领域",
+            "论文成果",
+            "专利",
+            "著作成果",
+            "科研项目"
+          ]
+        },
+        {
+          "label": "教学研究",
+          "url": "http://faculty.hust.edu.cn/GUIKANG/zh_CN/zhym/2612817/list/index.htm",
+          "sub_items": [
+            "教学资源",
+            "授课信息",
+            "教学成果"
+          ]
+        },
+        {
+          "label": "获奖信息",
+          "url": "http://faculty.hust.edu.cn/GUIKANG/zh_CN/hjxx/2612821/list/index.htm"
+        },
+        {
+          "label": "招生信息",
+          "url": "http://faculty.hust.edu.cn/GUIKANG/zh_CN/zsxx/2612822/list/index.htm"
+        },
+        {
+          "label": "学生信息",
+          "url": "http://faculty.hust.edu.cn/GUIKANG/zh_CN/xsxx/2612823/list/index.htm"
+        },
+        {
+          "label": "我的相册",
+          "url": "http://faculty.hust.edu.cn/GUIKANG/zh_CN/img/2612824/list/index.htm"
+        },
+        {
+          "label": "教师博客",
+          "url": "http://faculty.hust.edu.cn/GUIKANG/zh_CN/article/2612825/list/index.htm"
+        }
+      ],
+      "images": [
+        "http://faculty.hust.edu.cn/_ts/gkzn/images/gbbtn.png",
+        "http://faculty.hust.edu.cn/_ts/gkzn/images/ss.png",
+        "http://faculty.hust.edu.cn/_ts/gkzn/images/banner.png"
+      ]
+    }
+  }
+}

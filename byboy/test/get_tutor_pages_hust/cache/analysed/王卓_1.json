@@ -1,0 +1,425 @@
+{
+  "meta": {
+    "tutor_name_cn": "王卓",
+    "request_url": "http://faculty.hust.edu.cn/wangzhuo/zh_CN/index.htm",
+    "declared_source_url": "http://faculty.hust.edu.cn/wangzhuo/zh_CN/index.htm",
+    "page_host": "faculty.hust.edu.cn",
+    "markdown_cache_path": "D:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\a4057d5973d22195fcf158fbf3b46fe6025994697eb339df589d93a86515fa1c.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": "包含详尽的个人简介、联系方式、研究成果（论文列表）、科研项目及教育背景等核心信息。"
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "target_professor": "王卓",
+    "basic_information": {
+      "name": "王卓",
+      "title": "副教授",
+      "supervisor_status": "硕士生导师",
+      "gender": "男",
+      "employment_status": "在职",
+      "department": "人工智能与自动化学院",
+      "education": "研究生(博士)毕业",
+      "degree": "工学博士学位",
+      "alma_mater": "华中科技大学",
+      "discipline": "控制理论与控制工程",
+      "personal_portrait_url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/41/rBAGRWmwzd2AA0FsAAGm439DOls699.png?randomid=1773533062075"
+    },
+    "contact_information": {
+      "zip_code": "430074",
+      "office_address": "南一楼517室",
+      "mobile_phone": "18064074935",
+      "email": "wangzhuo@hust.edu.cn",
+      "wechat": "18064074935",
+      "links": [
+        {
+          "text": "同专业硕导",
+          "url": "http://faculty.hust.edu.cn/wangzhuo/zh_CN/tzysd/1733481/list/index.htm"
+        }
+      ]
+    },
+    "personal_profile": {
+      "recruitment_message": "目前课题组致力于氢能、智能电网、航空航天自动化测试系统、电力储能系统等前沿与关键领域的研究。我们的研究具有显著的交叉学科特色，注重理论创新与工程应用的结合。",
+      "recruitment_requirements": {
+        "target_majors": [
+          "自动化",
+          "数学",
+          "电子信息工程",
+          "电气工程",
+          "机械"
+        ],
+        "desired_traits": [
+          "诚实严谨，具备扎实的基础理论知识",
+          "喜爱钻研，面对科研难题具有积极主动的态度",
+          "乐观坚韧，拥有良好的抗压能力",
+          "具备较强的英语阅读与写作能力"
+        ]
+      },
+      "mentorship_philosophy": "在这里，我们不仅是师生，更是高质量科研的合作者。我致力于营造平等、开放的学术氛围，大家一起来完成有价值、有影响力的工作。在整个科研探索的过程中，我将全力协助每一位参与者实现个人发展目标，收获扎实的专业能力与全面的成长。欢迎有志于此的同学与我联系！"
+    },
+    "research_outputs": [
+      {
+        "year": "2026",
+        "content": "Sheng C, Xiang Q, Chen W, Zhang W, Wu Z, Xia Z, et al. Water Management Fault Diagnosis for Open-Cathode PEMFC Systems Based on Electrochemical Impedance Spectroscopy. IEEE Trans Power Electron. 2026;41(2):2674–84."
+      },
+      {
+        "year": "2026",
+        "content": "Sheng C, Lei J, Zeng L, Deng Z, Wang Z, Li X. Online Impedance Spectrum Measurement of Fuel Cells With Discrete-Interval Binary Sequence Signals. IEEE Transactions on Industrial Electronics. 2026:1–11."
+      },
+      {
+        "year": "2025",
+        "content": "Zhang J, Wang Z, Li M, Liu G, Zhang L, Xu Y, et al. Optimization of working conditions in solid oxide electrolysis cell based on deep neural network and slime mold algorithm. International Journal of Hydrogen Energy. 2025;135:172–81."
+      },
+      {
+        "year": "2025",
+        "content": "Yin Z, Jin J, Zeng L, Tang X, Wang Z, Li X. A novel linear search-linear programming method for non-convex multi-objective sizing of standalone microgrids. Energ Convers Manage. 2025;337.（共同通讯）"
+      },
+      {
+        "year": "2025",
+        "content": "Xu Y, Tang R, Yin J, Wang J, Wu X-l, Peng J, et al. Energy management strategy development for a dual-stack solid oxide fuel cell/battery hybrid power generation system with consideration of inter-stack inconsistency. Sustainable Energy Technologies and Assessments. 2025;83."
+      },
+      {
+        "year": "2025",
+        "content": "Wu X-l, Li K, Yang Y, Xu Y-w, Peng J, Chi B, et al. Modeling, analysis and prediction of waste biomass gasification integrated with parallel multi-stack solid oxide fuel cell systems for low CO2 emissions: A mechanistic and data-driven approach. Process Safety and Environmental Protection. 2025;197."
+      },
+      {
+        "year": "2024",
+        "content": "Zeng Linghong, Fu Jun, Sheng Chuang, Li Beijia, Guo Ziang, Xiang Qian, Wang Jingjing, Shan Xinkai, Fu Xiaowei, Deng Zhonghua, Wang Zhuo, Li Xi. Energy management for proton exchange membrane fuel cell-lithium battery hybrid power systems based on real-time prediction and optimization under multimodal information[J]. Journal of Cleaner Production, 2024, 434.（共同通讯）"
+      },
+      {
+        "year": "2024",
+        "content": "Sheng Chuang, Guo Ziang, Lei Jingzhi, Zhang Shuyu, Zhang Wenxuan, Chen Weiming, Jiang Xuefeng, Wang Zhuo, Li Xi. Optimal energy management strategies for hybrid power systems considering Pt degradation[J]. Applied Energy, 2024, 360. （共同通讯）"
+      },
+      {
+        "year": "2024",
+        "content": "Wang Zhuo, Zhang Jun, Liu Jiantao, Huang Jingjing, Zhu Guorui, Yu Chaofan, Zhou Hongtao. Data association load uncertainty and risk aversion in electricity markets with data center participation in the demand response[J]. Energy Reports, 2024, 11: 483-497.（第一作者）"
+      },
+      {
+        "year": "2024",
+        "content": "Wan Yiming, Du Songtao, Yan Jiayu, Wang Zhuo. Towards fast embedded moving horizon state-of-charge estimation for lithium-ion batteries[J]. Journal of Energy Storage, 2024, 78."
+      },
+      {
+        "year": "2023",
+        "content": "Zhang Shuyu, Jiang Chang, Liu Xingbo, Sheng Chuang, Li Guang, Jin Bing, Wang Zhuo, Li Xi. Design and research of a novel solid oxide fuel cell with thermal energy storage for load tracking[J]. Energy Conversion and Management, 2023, 294: 117560.（共同通讯）"
+      },
+      {
+        "year": "2023",
+        "content": "Wu Xiaolong, Li Yu, Gao Zilin, Xu Yuanwu, Peng Jingxuan, Xia Zhiping, Hu Lingyan, Hu Jiangong, Wang Zhuo, Li Xi. Robust Control of RSOC/Li-ion Battery Hybrid System Based on Modeling and Active Disturbance Rejection Technology[J]. Atmosphere, 2023, 14(6): 947."
+      },
+      {
+        "year": "2023",
+        "content": "Wang Zhen, Wang Jie, Sun Can, Xiang Hongfu, Zhu Renjie, Fu Xiaowei, Wang Zhuo, Li Xi. A Fuzzy Decoupling Compensator With Direction Control for NOx Sensor[J]. IEEE Sensors Journal, 2023, 23(24): 31108-31116."
+      },
+      {
+        "year": "2023",
+        "content": "Peng Jingxuan, Huang Jian, Li Yuanzheng, Xu Yuan-Wu, Wu Xiao-Long, Wang Zhuo, Wang Jingjing, Li Xi. Control-oriented Extraction and Prediction of Key Performance Features Affecting Performance Variability of Solid Oxide Fuel Cell System[J]. IEEE Transactions on Transportation Electrification, 2023: 1-1.（共同通讯）"
+      },
+      {
+        "year": "2023",
+        "content": "Liu Guoqiang, Zhou Yihuan, Liu Xingbo, Li Zexin, Kupecki Jakub, Jin Bing, Jin Zhiyang, Wang Zhuo, Li Xi. Multiscale analysis and cost optimization of a reversible solid oxide cell system with coordinated degradation and efficiency considering Ni-particle coarsening[J]. Journal of Cleaner Production, 2023, 424: 138823.（共同通讯）"
+      },
+      {
+        "year": "2023",
+        "content": "Liu G., Wang Z., Liu X., Kupecki J., Zhao D., Jin B., Wang Z., Li X. Transient analysis and safety-oriented process optimization during electrolysis–fuel cell transition of a novel reversible solid oxide cell system[J]. Journal of Cleaner Production, 2023, 425.（共同通讯）"
+      },
+      {
+        "year": "2023",
+        "content": "Fan Kesen, Wan Yiming, Wang Zhuo, Jiang Kai. Time-efficient identification of lithium-ion battery temperature-dependent OCV-SOC curve using multi-output Gaussian process[J]. Energy, 2023, 268."
+      },
+      {
+        "year": "2022",
+        "content": "Xu Cheng, Zhang E., Yan Shuai, Jiang Kai, Wang Kangli, Wang Zhuo, Cheng Shijie. State of charge estimation for liquid metal battery based on an improved sliding mode observer[J]. Journal of Energy Storage, 2022, 45: 103701.（共同通讯）"
+      },
+      {
+        "year": "2022",
+        "content": "Liang Haiyan, Wang Zhuo, Hao Guokai, Xiao Li, Sun Zhigang. Deep Reinforcement Learning for Charging Electric Vehicles With Uncertain Photovoltaic Power[C]. 2022 China Automation Congress (CAC), 2022: 1225-1231."
+      },
+      {
+        "year": "2022",
+        "content": "Jiang Jianhua, Zhou Renjie, Xu Hao, Wang Hao, Wu Ping, Wang Zhuo, Li Jian. Optimal sizing, operation strategy and case study of a grid-connected solid oxide fuel cell microgrid[J]. Applied Energy, 2022, 307: 118214."
+      },
+      {
+        "year": "2022",
+        "content": "王卓, 王聃, 闫立东, 王民, 张宇. 伺服阀滑阀副径向间隙和圆角估计方法[J]. 液压与气动, 2022, 46(02): 176-183.（第一作者）"
+      },
+      {
+        "year": "2021",
+        "content": "Liao S., Wang Z., Luo Y., Liang H. Locational marginal price forecasting using Transformer-based deep learning network[C]. 2021 40th Chinese Control Conference (CCC), 2021: 8457-8462."
+      },
+      {
+        "year": "2021",
+        "content": "Cui S. C., Wang Y. W., Liu X. K., Wang Z., Xiao J. W. Economic Storage Sharing Framework: Asymmetric Bargaining-Based Energy Cooperation[J]. Ieee Transactions on Industrial Informatics, 2021, 17(11): 7489-7500."
+      },
+      {
+        "year": "2021",
+        "type": "Patent",
+        "content": "王卓, 王聃, 肖力, 孙志刚. 一种电液伺服阀叠合量快速气动测量方法: CN111503090B[P]. 2021-01-15."
+      },
+      {
+        "year": "2021",
+        "content": "王卓, 王聃, 丁忠军, 孟健, 张凌霄, 倪钢, 刘小田. 伺服阀滑阀副叠合量快速气动测量及数据分析方法[J]. 液压与气动, 2021(01): 169-173.（第一作者）"
+      },
+      {
+        "year": "2020",
+        "content": "向欣, 王卓, 禹万泓. 基于PCS7的过程仿真及控制实验设计[J]. 实验室研究与探索, 2020, 39(03): 123-127."
+      },
+      {
+        "year": "2019",
+        "content": "Wang Z., Yue D., Liu J., Xu Z. A Stackelberg Game Modelling Approach for Aggregator Pricing and Electric Vehicle Charging[C]. 2019 IEEE 28th International Symposium on Industrial Electronics (ISIE), 2019: 2209-2213.（第一作者）"
+      },
+      {
+        "year": "2019",
+        "content": "Chen J., Dou C., Xiao L., Wang Z. Fusion State Estimation for Power Systems Under DoS Attacks: A Switched System Approach[J]. IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2019, 49(8): 1679-1687."
+      },
+      {
+        "year": "2019",
+        "type": "Patent",
+        "content": "黄川, 王卓, 肖力, 王道新. 一种电液伺服阀叠合量气动测量装置及方法: CN108591183B[P]. 2019-02-22."
+      },
+      {
+        "year": "2019",
+        "type": "Patent",
+        "content": "黄川, 王卓, 肖力, 王道新. 一种用于滑阀副叠合量测量的定位阀座组件: CN208487074U[P]. 2019-02-12."
+      },
+      {
+        "year": "2017",
+        "type": "Patent",
+        "content": "王卓, 黄川, 申振丰, 刘小田, 肖力, 孙志刚, 江金林, 朱力敏, 罗尚勤, 倪钢. 一种电液伺服阀叠合量测量装置及其测量方法: CN105841647A[P]. 2016-08-10."
+      },
+      {
+        "year": "2017",
+        "content": "王卓, 黄川, 申振丰, 刘小田, 江金林, 朱力敏. 小流量电液伺服阀叠合量气动测量台的研制[J]. 液压与气动, 2017(05): 113-119.（第一作者）"
+      }
+    ],
+    "research_projects": [
+      {
+        "year": "2025",
+        "role": "参与",
+        "title": "船用SOFC系统仿真验证与智能控制技术研究",
+        "amount": "48万",
+        "client": "某部委"
+      },
+      {
+        "year": "2025",
+        "role": "主持",
+        "title": "气动配磨试验台",
+        "amount": "38万",
+        "client": "中国航发长春控制科技有限公司"
+      },
+      {
+        "year": "2025",
+        "role": "参与",
+        "title": "基于储能群体智能微电网的主配微协同控制与优化技术研究",
+        "amount": "100万",
+        "client": "湖北省科技厅"
+      },
+      {
+        "year": "2025",
+        "role": "主持",
+        "title": "伺服阀弯曲刚度自动测量仪",
+        "amount": "28万",
+        "client": "中国航发长春控制科技有限公司"
+      },
+      {
+        "year": "2025",
+        "role": "主持",
+        "title": "电液伺服阀滑阀副自动配磨测试系统",
+        "amount": "40万",
+        "client": "中国航发长春控制科技有限公司"
+      },
+      {
+        "year": "2024",
+        "role": "主持",
+        "title": "国家重点研发项目《电网调峰用兆瓦级固体氧化物燃料电池系统关键技术及应用示范》子课题",
+        "amount": "52万",
+        "client": "国家自然科学基金委"
+      },
+      {
+        "year": "2024",
+        "role": "参与",
+        "title": "面向近底航行安全的自主水下航行器递阶重构容错控制与规划",
+        "amount": "50万",
+        "client": "国家自然科学基金委"
+      },
+      {
+        "year": "2023",
+        "role": "主持",
+        "title": "电液*统",
+        "amount": "76万",
+        "client": "有关部委"
+      },
+      {
+        "year": "2023",
+        "role": "参与",
+        "title": "固体氧化物电池系统设备试制合同",
+        "amount": "2491万",
+        "client": "广东电网有限责任公司广州供电局"
+      },
+      {
+        "year": "2022",
+        "role": "主持",
+        "title": "气动配磨测试台维修和保养",
+        "amount": "5.8万",
+        "client": "上海航天控制技术研究所"
+      },
+      {
+        "year": "2022",
+        "role": "主持",
+        "title": "电磁阀电磁铁电磁特性测试系统",
+        "amount": "55.08万",
+        "client": "北京精密机电控制设备研究所"
+      },
+      {
+        "year": "2020",
+        "role": "主持",
+        "title": "mems惯组电路组件通用测试系统",
+        "amount": "205万",
+        "client": "上海杰瑞兆新信息科技有限公司"
+      },
+      {
+        "year": "2020",
+        "role": "主持",
+        "title": "伺服阀滑阀副搭接量测试装置",
+        "amount": "72万",
+        "client": "北京精密机电控制设备研究所"
+      },
+      {
+        "year": "2020",
+        "role": "主持",
+        "title": "伺服阀弹性零件刚度测量装置",
+        "amount": "45万",
+        "client": "北京精密机电控制设备研究所"
+      },
+      {
+        "year": "2020",
+        "role": "主持",
+        "title": "伺服阀弯曲刚度自动测量仪",
+        "amount": "25.3271万",
+        "client": "武汉华中航空测控技术有限公司"
+      },
+      {
+        "year": "2020",
+        "role": "主持",
+        "title": "半物理控制仿真软件",
+        "amount": "19.1729万",
+        "client": "西安中科微星光电科技有限公司"
+      },
+      {
+        "year": "2019",
+        "role": "主持",
+        "title": "小流量伺服阀滑阀副搭接量测试验装置研制",
+        "amount": "36万",
+        "client": "北京实验工厂有限责任公司"
+      },
+      {
+        "year": "2019",
+        "role": "主持",
+        "title": "音视频流存储开发套件",
+        "amount": "9.8万",
+        "client": "中船重工709所"
+      },
+      {
+        "year": "2019",
+        "role": "主持",
+        "title": "半球谐振陀螺组合电路可靠性设计及验证子系统",
+        "amount": "46万",
+        "client": "上海航天控制技术研究所"
+      },
+      {
+        "year": "2019",
+        "role": "主持",
+        "title": "透镜耦合软件",
+        "amount": "8万",
+        "client": "武汉格航帆科技有限公司"
+      },
+      {
+        "year": "2018",
+        "role": "主持",
+        "title": "微机械惯组综合测试设备",
+        "amount": "43.2万",
+        "client": "武汉华中航空测控技术有限公司"
+      },
+      {
+        "year": "2018",
+        "role": "主持",
+        "title": "伺服阀微孔零件检测系统",
+        "amount": "22万",
+        "client": "上海航天控制技术研究所"
+      },
+      {
+        "year": "2016",
+        "role": "主持",
+        "title": "大流量电液伺服阀计算机气动配磨测试台万",
+        "amount": "42万",
+        "client": "九江精密测试技术研究所"
+      },
+      {
+        "year": "2015",
+        "role": "主持",
+        "title": "电液伺服阀计算机气动配磨测试台",
+        "amount": "42万",
+        "client": "上海航天控制技术研究所"
+      },
+      {
+        "year": "2015",
+        "role": "主持",
+        "title": "伺服机构间隙特性研究",
+        "amount": "8万",
+        "client": "上海新跃仪表厂"
+      },
+      {
+        "year": "2015",
+        "role": "主持",
+        "title": "机械间隙测量",
+        "amount": "20万",
+        "client": "上海交通大学"
+      }
+    ],
+    "education_background": [
+      {
+        "period": "2012.12 - 2013.12",
+        "institution": "中央昆士兰大学",
+        "major": "控制理论与控制工程",
+        "qualification": "研究生(博士后)"
+      },
+      {
+        "period": "2003.9 - 2008.6",
+        "institution": "华中科技大学",
+        "degree": "工学博士学位",
+        "qualification": "研究生(博士)毕业"
+      },
+      {
+        "period": "1999.9 - 2002.6",
+        "institution": "华中科技大学",
+        "degree": "工学硕士学位",
+        "qualification": "研究生(硕士)毕业"
+      },
+      {
+        "period": "1995.9 - 1999.6",
+        "institution": "华中理工大学",
+        "degree": "工学学士学位",
+        "qualification": "本科(学士)"
+      }
+    ],
+    "work_experience": "暂无内容",
+    "research_focus": [
+      {
+        "name": "自动化测控系统",
+        "link": "http://faculty.hust.edu.cn/wangzhuo/zh_CN/yjfx/1733481/content/5395.htm#yjfx"
+      },
+      {
+        "name": "航天测控系统",
+        "link": "http://faculty.hust.edu.cn/wangzhuo/zh_CN/yjfx/1733481/content/5394.htm#yjfx"
+      },
+      {
+        "name": "智能电网",
+        "link": "http://faculty.hust.edu.cn/wangzhuo/zh_CN/yjfx/1733481/content/5393.htm#yjfx"
+      }
+    ],
+    "social_affiliations": "暂无内容",
+    "site_chrome": {
+      "source_url": "http://faculty.hust.edu.cn/wangzhuo/zh_CN/index.htm",
+      "page_likes": 68
+    }
+  }
+}

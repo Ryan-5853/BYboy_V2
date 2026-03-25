@@ -1,0 +1,279 @@
+{
+  "meta": {
+    "tutor_name_cn": "唐其鹏",
+    "request_url": "http://faculty.hust.edu.cn/TangQipeng/zh_CN/index.htm",
+    "declared_source_url": "http://faculty.hust.edu.cn/TangQipeng/zh_CN/index.htm",
+    "page_host": "faculty.hust.edu.cn",
+    "markdown_cache_path": "D:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\731aa84d19d8e88ec43479163c536dd96d1be21495bb703eb8e90189563b642f.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "site_chrome": {
+      "source_url": "http://faculty.hust.edu.cn/TangQipeng/zh_CN/index.htm",
+      "university_logo": {
+        "image_url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/10/rBAGRl8CDr-AOrTEAAA6Htit-Ms340.png",
+        "link_url": "http://faculty.hust.edu.cn/"
+      },
+      "university_name": {
+        "name": "华中科技大学",
+        "link_url": "http://www.hust.edu.cn/"
+      },
+      "language_switch": {
+        "language": "English",
+        "link_url": "http://faculty.hust.edu.cn/TangQipeng/en/index.htm"
+      },
+      "navigation_menu": [
+        {
+          "anchor_text": "首页",
+          "link_url": "http://faculty.hust.edu.cn/TangQipeng/zh_CN/index/2346861/list/index.htm"
+        },
+        {
+          "anchor_text": "科学研究",
+          "link_url": "http://faculty.hust.edu.cn/TangQipeng/zh_CN/zhym/2346862/list/index.htm",
+          "sub_items": [
+            {
+              "anchor_text": "研究领域",
+              "link_url": "http://faculty.hust.edu.cn/TangQipeng/zh_CN/yjgk/2346863/list/index.htm"
+            },
+            {
+              "anchor_text": "论文成果",
+              "link_url": "http://faculty.hust.edu.cn/TangQipeng/zh_CN/lwcg/2346864/list/index.htm"
+            },
+            {
+              "anchor_text": "专利",
+              "link_url": "http://faculty.hust.edu.cn/TangQipeng/zh_CN/zlcg/2346865/list/index.htm"
+            },
+            {
+              "anchor_text": "著作成果",
+              "link_url": "http://faculty.hust.edu.cn/TangQipeng/zh_CN/zzcg/2346866/list/index.htm"
+            },
+            {
+              "anchor_text": "科研项目",
+              "link_url": "http://faculty.hust.edu.cn/TangQipeng/zh_CN/kyxm/2346867/list/index.htm"
+            }
+          ]
+        },
+        {
+          "anchor_text": "教学研究",
+          "link_url": "http://faculty.hust.edu.cn/TangQipeng/zh_CN/zhym/2346868/list/index.htm",
+          "sub_items": [
+            {
+              "anchor_text": "教学资源",
+              "link_url": "http://faculty.hust.edu.cn/TangQipeng/zh_CN/jxzy/2346869/list/index.htm"
+            },
+            {
+              "anchor_text": "授课信息",
+              "link_url": "http://faculty.hust.edu.cn/TangQipeng/zh_CN/skxx/2346870/list/index.htm"
+            },
+            {
+              "anchor_text": "教学成果",
+              "link_url": "http://faculty.hust.edu.cn/TangQipeng/zh_CN/jxcg/2346871/list/index.htm"
+            }
+          ]
+        },
+        {
+          "anchor_text": "获奖信息",
+          "link_url": "http://faculty.hust.edu.cn/TangQipeng/zh_CN/hjxx/2346872/list/index.htm"
+        },
+        {
+          "anchor_text": "招生信息",
+          "link_url": "http://faculty.hust.edu.cn/TangQipeng/zh_CN/zsxx/2346873/list/index.htm"
+        },
+        {
+          "anchor_text": "学生信息",
+          "link_url": "http://faculty.hust.edu.cn/TangQipeng/zh_CN/xsxx/2346874/list/index.htm"
+        },
+        {
+          "anchor_text": "我的相册",
+          "link_url": "http://faculty.hust.edu.cn/TangQipeng/zh_CN/img/2346875/list/index.htm"
+        },
+        {
+          "anchor_text": "教师博客",
+          "link_url": "http://faculty.hust.edu.cn/TangQipeng/zh_CN/article/2346876/list/index.htm"
+        }
+      ],
+      "like_button_image": "http://faculty.hust.edu.cn/_ts/glzw/images/dianzan.png",
+      "related_faculty_links": [
+        {
+          "anchor_text": "同专业博导",
+          "link_url": "http://faculty.hust.edu.cn/TangQipeng/zh_CN/tzybd/2346861/list/index.htm"
+        },
+        {
+          "anchor_text": "同专业硕导",
+          "link_url": "http://faculty.hust.edu.cn/TangQipeng/zh_CN/tzysd/2346861/list/index.htm"
+        }
+      ]
+    },
+    "teacher_profile": {
+      "name": "唐其鹏",
+      "profile_picture_url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/15/rBAGRWBIIbeAL7pXAAJ7VsFy8SQ827.png?randomid=1769844382805",
+      "titles": [
+        "博士生导师",
+        "硕士生导师",
+        "副教授"
+      ],
+      "gender": "男",
+      "employment_status": "在职",
+      "affiliation": {
+        "department": "人工智能与自动化学院",
+        "university": "华中科技大学"
+      },
+      "education_level": "研究生(博士)毕业",
+      "degree": "工学博士学位",
+      "disciplines": [
+        "控制理论与控制工程"
+      ],
+      "more_info_link": {
+        "anchor_text": "更多+",
+        "link_url": "http://faculty.hust.edu.cn/TangQipeng/zh_CN/jsxx/2346861/jsxx/jsxx.htm"
+      }
+    },
+    "biography": {
+      "summary": "2009年9月本科就读于华中科技大学控制系，2013年6月本科毕业后保送本校直接攻读博士学位，2018年6月博士毕业后进入浙江大学电气工程学院博士后流动站从事博士后研究工作。于2020年10月加入华中科技大学人工智能与自动化学院。本人长期从事电力电子与运动控制、控制理论与控制工程等领域的研究，现研究方向为交流电气传动系统数字化控制技术、交-直流变换器、数字集成化控制技术、高速电机无位置传感器控制技术、三相电流重构技术等，理论研究于实践并重，研究成果主要应用于数控机床、电动汽车、核电、船舶等工业领域。共发表SCI学术期刊...",
+      "full_bio_link": {
+        "anchor_text": "more+",
+        "link_url": "http://faculty.hust.edu.cn/TangQipeng/zh_CN/more/2346861/jsjjgd/index.htm"
+      }
+    },
+    "contact_info": {
+      "postal_code": "430074",
+      "office_address": "东二楼220实验室",
+      "mobile_phone": "18657168213",
+      "more_contact_link": {
+        "anchor_text": "more+",
+        "link_url": "http://faculty.hust.edu.cn/TangQipeng/zh_CN/more/2346861/qtlxfsgd/index.htm"
+      }
+    },
+    "social_engagements": {
+      "memberships": [
+        "IEEE 会员",
+        "中国自动化学会会员"
+      ],
+      "reviewer_roles": [
+        "多个著名期刊的审稿人：IEEE Transactions on Power Electronics",
+        "IEEE Transactions on Industrial Electronics",
+        "International Journal of Electronics",
+        "IEEE Transactions on Energy Conversion"
+      ]
+    },
+    "research_directions": [
+      {
+        "name": "交流电机无传感器控制技术",
+        "link_url": "http://faculty.hust.edu.cn/TangQipeng/zh_CN/yjfx/2346861/content/5682.htm#yjfx"
+      },
+      {
+        "name": "电力电子与运动控制",
+        "link_url": "http://faculty.hust.edu.cn/TangQipeng/zh_CN/yjfx/2346861/content/5681.htm#yjfx"
+      }
+    ],
+    "education_experience": [
+      {
+        "period": "2009.9-2013.6",
+        "institution": "华中科技大学",
+        "degree": "工学学士学位",
+        "qualification": "本科(学士)"
+      },
+      {
+        "period": "2013.9-2018.6",
+        "institution": "华中科技大学",
+        "degree": "工学博士学位",
+        "qualification": "研究生(博士)毕业"
+      }
+    ],
+    "work_experience": [
+      {
+        "period": "2020.10-至今",
+        "department": "人工智能与自动化学院",
+        "institution": "华中科技大学",
+        "position": "讲师"
+      },
+      {
+        "period": "2018.7-2020.9",
+        "department": "电气工程学院",
+        "institution": "浙江大学",
+        "position": "博士后"
+      }
+    ],
+    "courses_taught": "暂无内容",
+    "team": {
+      "team_name": "自动化研究所工业...",
+      "team_introduction": "目前课题组团队有正教授2名，讲师3名，在读研究生数十名。",
+      "members": [
+        {
+          "name": "沈安文",
+          "profile_image_url": "http://faculty.hust.edu.cn/system/resource/tsites/images/defaultteacherimg.png?randomid=1769844383728",
+          "profile_link_url": "http://faculty.hust.edu.cn/shenanwen/zh_CN/index.htm"
+        },
+        {
+          "name": "徐金榜",
+          "profile_image_url": "http://faculty.hust.edu.cn/system/resource/tsites/images/defaultteacherimg.png?randomid=1769844383744",
+          "profile_link_url": "http://faculty.hust.edu.cn/TangQipeng/zh_CN/tdcy/2346861/content/1499.htm#tdcy"
+        },
+        {
+          "name": "罗欣",
+          "profile_image_url": "http://faculty.hust.edu.cn/system/resource/tsites/images/defaultteacherimg.png?randomid=1769844383765",
+          "profile_link_url": "http://faculty.hust.edu.cn/TangQipeng/zh_CN/tdcy/2346861/content/1500.htm#tdcy"
+        },
+        {
+          "name": "叶杰",
+          "profile_image_url": "http://faculty.hust.edu.cn/system/resource/tsites/images/defaultteacherimg.png?randomid=1769844383786",
+          "profile_link_url": "http://faculty.hust.edu.cn/TangQipeng/zh_CN/tdcy/2346861/content/1501.htm#tdcy"
+        }
+      ],
+      "view_more_link": {
+        "anchor_text": "查看更多",
+        "link_url": "http://faculty.hust.edu.cn/TangQipeng/zh_CN/more/2346861/tdgd/index.htm"
+      }
+    },
+    "research_outputs": {
+      "projects": [
+        {
+          "id": "1",
+          "title": "基于转速分段优化和平滑切换的高速永磁同步电机无传感器控制技术研究",
+          "period": "2019-03-09-2022-12-31",
+          "funding_source": "国家自然科学基金青年基金项目",
+          "link_url": "http://faculty.hust.edu.cn/TangQipeng/zh_CN/kyxm/2346867/content/8685.htm#kyxm"
+        }
+      ],
+      "publications": [
+        {
+          "id": "1",
+          "title": "Q. Tang(#), D. Chen(*) and X. He, “Integration of Enhanced Flux Linkage Observer and I-f Starting Method for Wide Speed-Range Sensorless SPMSM Drives”, IEEE Transactions on Power Electronics. , vol. 35, no. 8, pp. 8374-8383, Aug. 2020.",
+          "link_url": "http://faculty.hust.edu.cn/TangQipeng/zh_CN/lwcg/2346864/content/45222.htm#lwcg"
+        },
+        {
+          "id": "2",
+          "title": "Q. Tang(#), A. Shen, W. Li, P. Luo, M. Chen(*) and X. He, “Multiple-Positions-Coupled Sampling Method for PMSM Three-Phase Current Reconstruction with a Single Current Sensor”, IEEE Transactions on Power Electronics, vol. 35, no. 1, pp. 699-708, Jan. 2020.",
+          "link_url": "http://faculty.hust.edu.cn/TangQipeng/zh_CN/lwcg/2346864/content/45221.htm#lwcg"
+        },
+        {
+          "id": "3",
+          "title": "Q. Tang(#)(*), A. Shen, P. Luo, H. Shen, W. Li and X. He, “IPMSMs Sensorless MTPA Control Based on Virtual q-Axis Inductance by Using Virtual High-Frequency Signal Injection,” IEEE Transactions on Industrial Electronics, vol. 67, no. 1, pp. 136-146, Jan. 2020.",
+          "link_url": "http://faculty.hust.edu.cn/TangQipeng/zh_CN/lwcg/2346864/content/45220.htm#lwcg"
+        },
+        {
+          "id": "4",
+          "title": "Q. Tang(#), A. Shen, X. Luo(*) and J. Xu, “IPMSM Sensorless Control by Injecting Bi-directional Rotating HF Carrier Signals”, IEEE Transactions on Power Electronics, vol. 33, no. 12, pp. 10698-10707, Dec. 2018.",
+          "link_url": "http://faculty.hust.edu.cn/TangQipeng/zh_CN/lwcg/2346864/content/45219.htm#lwcg"
+        },
+        {
+          "id": "5",
+          "title": "X. Luo(#), Q. Tang(*), A. Shen, H. Shen and J. Xu, “A Combining FPE and Additional Test Vectors Hybrid Strategy for IPMSM Sensorless Control”, IEEE Transactions on Power Electronics, vol. 33, no. 7, pp. 6104-6113, July 2018.",
+          "link_url": "http://faculty.hust.edu.cn/TangQipeng/zh_CN/lwcg/2346864/content/45218.htm#lwcg"
+        },
+        {
+          "id": "6",
+          "title": "Q. Tang(#), A. Shen, X. Luo(*) and J. Xu, “PMSM Sensorless Control by Injecting HF Pulsating Carrier Signal Into ABC Frame”, IEEE Transactions on Power Electronics, vol. 32, no. 5, pp. 3767-3776, May 2017.",
+          "link_url": "http://faculty.hust.edu.cn/TangQipeng/zh_CN/lwcg/2346864/content/45217.htm#lwcg"
+        }
+      ],
+      "view_more_publications_link": {
+        "anchor_text": "查看更多",
+        "link_url": "http://faculty.hust.edu.cn/TangQipeng/zh_CN/lwcg/2346864/list/index.htm"
+      }
+    }
+  }
+}

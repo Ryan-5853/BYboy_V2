@@ -1,0 +1,210 @@
+{
+  "meta": {
+    "tutor_name_cn": "姜军",
+    "request_url": "https://aia.hust.edu.cn/info/1580/10054.htm",
+    "declared_source_url": "https://aia.hust.edu.cn/info/1580/10054.htm",
+    "page_host": "aia.hust.edu.cn",
+    "markdown_cache_path": "D:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\ca4d0cf48dc228e45d31992d1c5a96cc62b9bf9ab23660d094d56f831cbd5351.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": "包含导师职称、联系方式、研究方向、教育背景及主持的具体科研项目等丰富信息。"
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "target_professor": "姜军",
+    "page_metadata": {
+      "source_url": "https://aia.hust.edu.cn/info/1580/10054.htm",
+      "title": "姜军",
+      "author": null,
+      "publish_date": "2025-06-29",
+      "view_count": 1392,
+      "breadcrumb": [
+        {
+          "anchor_text": "首页",
+          "url": "https://aia.hust.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://aia.hust.edu.cn/szdw/xysz/axmpyszmlb.htm"
+        },
+        {
+          "anchor_text": "学院师资",
+          "url": "https://aia.hust.edu.cn/szdw/xysz/axmpyszmlb.htm"
+        },
+        {
+          "anchor_text": "按姓名拼音首字母列表",
+          "url": "https://aia.hust.edu.cn/szdw/xysz/axmpyszmlb.htm"
+        },
+        {
+          "anchor_text": "J",
+          "url": "https://aia.hust.edu.cn/szdw/xysz/axmpyszmlb/J.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ]
+    },
+    "basic_information": {
+      "name": "姜军",
+      "title": "讲师",
+      "phone": "027-87543576",
+      "email": "junjiang@mail.hust.edu.cn",
+      "research_interests": [
+        "机器学习及其在图像检索和处理中的应用",
+        "生物特征识别"
+      ],
+      "profile_images": [
+        "https://aia.hust.edu.cn/__local/7/BF/BA/68F8516D61D38805920377A6EE5_EB3BCF60_2E76A.jpg?e=.jpg",
+        "https://aia.hust.edu.cn/__local/5/AB/B7/853593B93CAD05E5D20D6160A85_99E185C0_191B1.jpg?e=.jpg"
+      ]
+    },
+    "personal_profile": {
+      "background_summary": "于华中科技大学智能获模式识别与智能系统专业硕士学位（指导导师为国内知名红外专家张桂林教授），10年于香港城市大学计算机系获哲学博士学位（指导导师为IAPR创建院士叶豪盛讲座教授）。00年留校任教至今。",
+      "research_experience_evolution": "研究经历主要分为两部分：读博之前，在人脸识别/检测、图像跟踪等领域做了一些工作，主要关注点为图像处理和特征提取部分，也就是如何“提取模式”；读博之后，主要兴趣转为机器学习及其在图像处理中的应用，也就是如何“识别模式”。合起来，整个研究经历就是“模式识别”。",
+      "publication_overview": "曾在各类期刊杂志发表文章10余篇，单篇文章最高索引率为25（Google学术搜索）。"
+    },
+    "research_achievements_and_projects": {
+      "laboratory_background": "所在实验室为智能控制研究室，从1984年起就进行自动目标识别和成像跟踪技术方面的理论和应用研究，同时也在人脸生物特征识别、车牌识别等领域进行研究。",
+      "awards": [
+        "参与的人脸生物特征识别项目获湖北省科技进步三等奖",
+        "参与的人脸生物特征识别项目获武汉市科技进步二等奖"
+      ],
+      "projects": [
+        {
+          "period": "02~03年",
+          "type": "部级项目",
+          "title": "红外/电视图像跟踪系统研制",
+          "role": "第二主持人"
+        },
+        {
+          "period": "03~05年",
+          "type": "湖北省自然科学基金项目",
+          "title": "实时自动人脸图像检测的理论 and 应用研究",
+          "role": "第一主持人"
+        },
+        {
+          "period": "11~12年",
+          "type": "校自主创新基金项目",
+          "title": "主动学习中的小样本分析及应用",
+          "role": "第一主持人"
+        },
+        {
+          "period": "12~13年",
+          "type": "横向项目",
+          "title": "便携式激光扫描投影仪的开发与研制",
+          "role": "第一主持人"
+        }
+      ]
+    },
+    "admission_information": {
+      "major_requirements": [
+        "数学",
+        "计算机",
+        "信号处理等"
+      ],
+      "admission_direction": "模式识别与智能系统"
+    },
+    "site_chrome": {
+      "organization": "华中科技大学人工智能与自动化学院",
+      "navigation_menu": [
+        {
+          "title": "首页",
+          "url": "https://aia.hust.edu.cn/index.htm"
+        },
+        {
+          "title": "院系概况",
+          "sub_menu": [
+            "学院简介",
+            "组织机构",
+            "现任领导"
+          ]
+        },
+        {
+          "title": "师资队伍",
+          "sub_menu": [
+            "杰出学者",
+            "学院师资",
+            "实验工程人员",
+            "博士后",
+            "荣休教师"
+          ]
+        },
+        {
+          "title": "学生培养",
+          "sub_menu": [
+            "本科生教育",
+            "研究生教育",
+            "学生工作"
+          ]
+        },
+        {
+          "title": "科学研究",
+          "sub_menu": [
+            "喻园.AIA学术论坛",
+            "学术会议",
+            "挂靠学会",
+            "服务指南",
+            "平台建设"
+          ]
+        },
+        {
+          "title": "党群工作",
+          "sub_menu": [
+            "党旗领航",
+            "廉政教育",
+            "党史学习教育",
+            "离退休"
+          ]
+        },
+        {
+          "title": "国际交流",
+          "sub_menu": [
+            "外事流程",
+            "教师交流",
+            "学生交换",
+            "经验分享"
+          ]
+        },
+        {
+          "title": "人才招聘",
+          "url": "https://aia.hust.edu.cn/rczp.htm"
+        },
+        {
+          "title": "校友专栏",
+          "sub_menu": [
+            "校友动态",
+            "校友名录",
+            "校友照片",
+            "校友风采",
+            "校友服务",
+            "50周年院庆",
+            "我要捐赠"
+          ]
+        },
+        {
+          "title": "培训服务",
+          "url": "http://aitc.hust.edu.cn/"
+        },
+        {
+          "title": "院长信箱",
+          "url": "https://aia.hust.edu.cn/yzxx.htm"
+        }
+      ],
+      "images": {
+        "logo": "https://aia.hust.edu.cn/images/logo20251211.png",
+        "banner": "https://aia.hust.edu.cn/images/banner20250619.png",
+        "official_wechat_qr_description": "官方公众号二维码"
+      },
+      "footer": {
+        "copyright": "版权所有：华中科技大学人工智能与自动化学院"
+      }
+    },
+    "uncategorized": {
+      "next_article": {
+        "anchor_text": "姜艺",
+        "url": "http://faculty.hust.edu.cn/JIANGYI/zh_CN/index.htm"
+      }
+    }
+  }
+}

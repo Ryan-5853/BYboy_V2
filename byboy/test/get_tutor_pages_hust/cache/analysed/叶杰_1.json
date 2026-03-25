@@ -1,0 +1,184 @@
+{
+  "meta": {
+    "tutor_name_cn": "叶杰",
+    "request_url": "http://faculty.hust.edu.cn/yejie/zh_CN/index.htm",
+    "declared_source_url": "http://faculty.hust.edu.cn/yejie/zh_CN/index.htm",
+    "page_host": "faculty.hust.edu.cn",
+    "markdown_cache_path": "D:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\16182414776255eab2183e44158cc75df9c64af0fdd4d36b665f74f49fe1cc41.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": "包含导师基本信息、联系方式、研究方向、教育及工作经历等丰富的有效文字信息。"
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "target_professor": "叶杰",
+    "page_source": "http://faculty.hust.edu.cn/yejie/zh_CN/index.htm",
+    "site_chrome": {
+      "language_versions": [
+        {
+          "label": "English",
+          "url": "http://faculty.hust.edu.cn/yejie/en/index.htm"
+        }
+      ],
+      "university": {
+        "name": "华中科技大学",
+        "url": "http://www.hust.edu.cn/"
+      },
+      "navigation_menu": [
+        {
+          "label": "首页",
+          "url": "http://faculty.hust.edu.cn/yejie/zh_CN/index/2363651/list/index.htm"
+        },
+        {
+          "label": "科学研究",
+          "url": "http://faculty.hust.edu.cn/yejie/zh_CN/zhym/2363652/list/index.htm",
+          "sub_items": [
+            {
+              "label": "研究领域",
+              "url": "http://faculty.hust.edu.cn/yejie/zh_CN/yjgk/2363653/list/index.htm"
+            },
+            {
+              "label": "论文成果",
+              "url": "http://faculty.hust.edu.cn/yejie/zh_CN/lwcg/2363654/list/index.htm"
+            },
+            {
+              "label": "专利",
+              "url": "http://faculty.hust.edu.cn/yejie/zh_CN/zlcg/2363655/list/index.htm"
+            },
+            {
+              "label": "著作成果",
+              "url": "http://faculty.hust.edu.cn/yejie/zh_CN/zzcg/2363656/list/index.htm"
+            },
+            {
+              "label": "科研项目",
+              "url": "http://faculty.hust.edu.cn/yejie/zh_CN/kyxm/2363657/list/index.htm"
+            }
+          ]
+        },
+        {
+          "label": "教学研究",
+          "url": "http://faculty.hust.edu.cn/yejie/zh_CN/zhym/2363658/list/index.htm",
+          "sub_items": [
+            {
+              "label": "教学资源",
+              "url": "http://faculty.hust.edu.cn/yejie/zh_CN/jxzy/2363659/list/index.htm"
+            },
+            {
+              "label": "授课信息",
+              "url": "http://faculty.hust.edu.cn/yejie/zh_CN/skxx/2363660/list/index.htm"
+            },
+            {
+              "label": "教学成果",
+              "url": "http://faculty.hust.edu.cn/yejie/zh_CN/jxcg/2363661/list/index.htm"
+            }
+          ]
+        },
+        {
+          "label": "获奖信息",
+          "url": "http://faculty.hust.edu.cn/yejie/zh_CN/hjxx/2363662/list/index.htm"
+        },
+        {
+          "label": "招生信息",
+          "url": "http://faculty.hust.edu.cn/yejie/zh_CN/zsxx/2363663/list/index.htm"
+        },
+        {
+          "label": "学生信息",
+          "url": "http://faculty.hust.edu.cn/yejie/zh_CN/xsxx/2363664/list/index.htm"
+        },
+        {
+          "label": "我的相册",
+          "url": "http://faculty.hust.edu.cn/yejie/zh_CN/img/2363665/list/index.htm"
+        },
+        {
+          "label": "教师博客",
+          "url": "http://faculty.hust.edu.cn/yejie/zh_CN/article/2363666/list/index.htm"
+        }
+      ],
+      "system_date_display": "2026年3月24日，星期二"
+    },
+    "personal_info": {
+      "name": "叶杰",
+      "titles": [
+        "副教授",
+        "博士生导师",
+        "硕士生导师"
+      ],
+      "gender": "男",
+      "department": "人工智能与自动化学院",
+      "education_level": "研究生(博士)毕业",
+      "degree": "工学博士学位",
+      "graduated_from": "华中科技大学",
+      "major": "控制理论与控制工程",
+      "professional_tags": [
+        {
+          "label": "同专业博导",
+          "url": "http://faculty.hust.edu.cn/yejie/zh_CN/tzybd/2363651/list/index.htm"
+        },
+        {
+          "label": "同专业硕导",
+          "url": "http://faculty.hust.edu.cn/yejie/zh_CN/tzysd/2363651/list/index.htm"
+        }
+      ],
+      "profile_images": [
+        "http://faculty.hust.edu.cn/_resources/group1/M00/00/19/rBAGRmCvLn-AA8yAAAHDq9iaXdc693.png?randomid=1767821616245"
+      ]
+    },
+    "contact_info": {
+      "postcode": "430074",
+      "email": "yejie_hust@hust.edu.cn"
+    },
+    "honors": [
+      {
+        "year": "2013",
+        "name": "甘肃省科技进步一等奖"
+      }
+    ],
+    "personal_profile": {
+      "content": "叶杰，2021年3月入职华中科技大学人工智能与自动化学院，博士生导师、武汉英才（优秀青年人才），主要研究方向：并网变换器谐振及谐波抑制、电力电子变换器的建模与控制以及复杂柔性直流电网的稳定性分析。2017年在华中科技大学控制科学与工程专业获得工学博士学位，随后在国家电网公司全球能源互联网研究院直流输电技术研究所从事博士后研究工作，合作导师是汤广福院士。相关研究内容以第一作者或通讯作者身份在IEEE Trans. on...",
+      "more_link": "http://faculty.hust.edu.cn/yejie/zh_CN/more/2363651/jsjjgd/index.htm"
+    },
+    "education_experience": [
+      {
+        "period": "2011.9 ~ 2017.7",
+        "institution": "华中科技大学",
+        "degree": "工学博士学位",
+        "status": "研究生(博士)毕业"
+      },
+      {
+        "period": "2019.1 ~ 2021.2",
+        "institution": "全球能源互联网研究院有限公司",
+        "major": "工学",
+        "status": "研究生(博士后)"
+      }
+    ],
+    "work_experience": [
+      {
+        "period": "2019.1-2021.2",
+        "institution": "全球能源互联网研究院有限公司",
+        "department": "直流输电技术研究所",
+        "position": "工程师"
+      }
+    ],
+    "social_affiliations": "暂无内容",
+    "research_directions": [
+      {
+        "name": "柔性直流电网建模与稳定性分析",
+        "url": "http://faculty.hust.edu.cn/yejie/zh_CN/yjfx/2363651/content/5787.htm#yjfx"
+      },
+      {
+        "name": "电能质量治理",
+        "url": "http://faculty.hust.edu.cn/yejie/zh_CN/yjfx/2363651/content/5786.htm#yjfx"
+      },
+      {
+        "name": "并网变换器的稳定性控制",
+        "url": "http://faculty.hust.edu.cn/yejie/zh_CN/yjfx/2363651/content/5785.htm#yjfx"
+      }
+    ],
+    "team_members": "暂无内容",
+    "uncategorized": {
+      "welcome_message": "欢迎来到我的主页！",
+      "site_logo_url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/10/rBAGRV8CDr-AeFVmAAA7EN17sME589.png",
+      "more_link_top": "http://faculty.hust.edu.cn/yejie/zh_CN/index.htm#"
+    }
+  }
+}

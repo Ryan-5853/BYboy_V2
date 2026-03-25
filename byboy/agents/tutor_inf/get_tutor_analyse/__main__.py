@@ -54,13 +54,24 @@ def main(argv: list[str] | None = None) -> int:
     )
     p.add_argument("--max-tokens", type=int, default=16384, help="tutor_analyse max_tokens")
     p.add_argument(
+        "--name-resolve-max-tokens",
+        type=int,
+        default=512,
+        help="LLM 推断导师姓名的 max_tokens（默认 512；默认先 LLM）",
+    )
+    p.add_argument(
+        "--no-name-resolve-llm-first",
+        action="store_true",
+        help="改为先标题/加粗启发式，失败后再 LLM（默认先 LLM）",
+    )
+    p.add_argument(
         "--analysed-subdir",
         default="cache/analysed",
         help="分析结果子目录（相对 workspace_dir），默认 cache/analysed",
     )
     args = p.parse_args(argv)
-    if args.max_tokens <= 0:
-        raise SystemExit("--max-tokens 必须为正整数")
+    if args.max_tokens <= 0 or args.name_resolve_max_tokens <= 0:
+        raise SystemExit("--max-tokens 与 --name-resolve-max-tokens 必须为正整数")
     workdir = args.workdir or args.workspace_dir
     if workdir is None:
         raise SystemExit("必须提供 workspace_dir 或 --workdir")
@@ -74,7 +85,13 @@ def main(argv: list[str] | None = None) -> int:
             analysed_subdir=args.analysed_subdir,
         ),
     )
-    result = agent.run(inv, dispatcher, max_tokens=args.max_tokens)
+    result = agent.run(
+        inv,
+        dispatcher,
+        max_tokens=args.max_tokens,
+        name_resolve_max_tokens=args.name_resolve_max_tokens,
+        name_resolve_llm_first=not args.no_name_resolve_llm_first,
+    )
     print(_to_root_relative(result.manifest_path))
     print(f"success_count={result.success_count}")
     print(f"skipped_count={result.skipped_count}")

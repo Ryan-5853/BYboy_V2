@@ -1,0 +1,147 @@
+{
+  "meta": {
+    "tutor_name_cn": "马杰",
+    "request_url": "http://faculty.hust.edu.cn/majie/zh_CN/index/1491001/list/index.htm",
+    "declared_source_url": "http://faculty.hust.edu.cn/majie/zh_CN/index/1491001/list/index.htm",
+    "page_host": "faculty.hust.edu.cn",
+    "markdown_cache_path": "D:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\aaf607c9ed9573116d004e79b010d6ba7f0b19a463a5e303fd4a386953109731.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "target_professor_name": "马杰",
+    "source_url": "http://faculty.hust.edu.cn/majie/zh_CN/index/1491001/list/index.htm",
+    "general_information": {
+      "name": "马杰",
+      "profile_picture_url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/00/rBAGRl8CDXSAbtMuAADh9WJeLwk272.jpg?randomid=1773928346250",
+      "gender": "男",
+      "employment_status": "在职",
+      "titles": [
+        "教授",
+        "博士生导师",
+        "硕士生导师"
+      ],
+      "affiliation": "多谱信息智能处理技术全国重点实验室",
+      "highest_education": {
+        "degree_type": "研究生(博士)毕业",
+        "degree": "工学博士学位",
+        "institution": "华中科技大学"
+      },
+      "disciplines": [
+        "模式识别与智能系统",
+        "导航、制导与控制"
+      ]
+    },
+    "contact_information": {
+      "postal_code": "430074",
+      "office_address": "逸夫科技楼",
+      "office_phone": "027-87556301",
+      "mobile_phone": "13971400128",
+      "email": "majie@hust.edu.cn"
+    },
+    "biography_summary": {
+      "full_text_paragraph1": "马杰，博士，教授，博士生导师，现任职于华中科技大学自动化学院，同时担任多谱信息处理技术国家级重点实验室制导中心副主任，广东华中科技大学工业技术研究院“全自主无人艇环境感知与智能控制研究中心”系统集成室主任，同时兼任自然科学基金项目评议人，中国宇航学会会员，《Journal of Electronics》，《宇航学报》，《电子与信息学报》，《中国图像图形学报》，SPIE MIPPR等杂志和会议审稿专家。",
+      "full_text_paragraph2": "在学术研究方面，一直从事导航与制导、目标检测与识别等领域的科学研究和人才培养工作。在三维点云处理，图像信息处理，深度学习，目标检测与识别等领域取得了丰富的研究成果，国内外权威期刊发表相关论文百余篇，授权发明和国防专利十余项。主持和完成国家自然科学基金、国家级预研基金、国家级装备预先研究计划，国防973、863等课题等30余项。",
+      "current_roles_and_affiliations": [
+        "华中科技大学自动化学院 (任职)",
+        "多谱信息处理技术国家级重点实验室制导中心副主任",
+        "广东华中科技大学工业技术研究院“全自主无人艇环境感知与智能控制研究中心”系统集成室主任"
+      ],
+      "professional_affiliations_and_reviewing_activities": [
+        "自然科学基金项目评议人",
+        "中国宇航学会会员",
+        "《Journal of Electronics》审稿专家",
+        "《宇航学报》审稿专家",
+        "《电子与信息学报》审稿专家",
+        "《中国图像图形学报》审稿专家",
+        "SPIE MIPPR等杂志和会议审稿专家"
+      ],
+      "research_domains_summary": [
+        "导航与制导",
+        "目标检测与识别",
+        "三维点云处理",
+        "图像信息处理",
+        "深度学习"
+      ],
+      "research_achievements_summary": {
+        "publications": "百余篇 (国内外权威期刊)",
+        "patents": "十余项 (发明和国防专利)",
+        "projects": "30余项 (国家自然科学基金、国家级预研基金、国家级装备预先研究计划，国防973、863等课题)"
+      }
+    },
+    "education_experience": [
+      {
+        "start_date": "1997.9",
+        "end_date": "2000.6",
+        "institution": "华中科技大学",
+        "degree": "工学硕士学位",
+        "qualification": "研究生(硕士)毕业"
+      },
+      {
+        "start_date": "1992.9",
+        "end_date": "1996.7",
+        "institution": "武汉冶金科技大学",
+        "degree": "工学学士学位",
+        "qualification": "本科(学士)"
+      },
+      {
+        "start_date": "2000.9",
+        "end_date": "2004.12",
+        "institution": "华中科技大学",
+        "degree": "工学博士学位",
+        "qualification": "研究生(博士)毕业"
+      }
+    ],
+    "work_experience": [
+      {
+        "start_date": "2006.9",
+        "end_date": "2018.4",
+        "institution": "华中科技大学",
+        "status": "在职"
+      }
+    ],
+    "research_directions": [
+      {
+        "title": "三维信息处理：基于激光雷达三维点云的目标检测与识别",
+        "url": "http://faculty.hust.edu.cn/majie/zh_CN/yjfx/1491001/content/2064.htm#yjfx"
+      },
+      {
+        "title": "无人艇环境感知：基于光学、雷达的水面目标检测识别，航行避障",
+        "url": "http://faculty.hust.edu.cn/majie/zh_CN/yjfx/1491001/content/2068.htm#yjfx"
+      },
+      {
+        "title": "目标检测与识别：生产线全自动产品测量和缺陷检测，无人机自动检测与识别",
+        "url": "http://faculty.hust.edu.cn/majie/zh_CN/yjfx/1491001/content/2067.htm#yjfx"
+      },
+      {
+        "title": "图像处理领域：图像增强、防抖、去雾等。",
+        "url": "http://faculty.hust.edu.cn/majie/zh_CN/yjfx/1491001/content/2061.htm#yjfx"
+      },
+      {
+        "title": "图像导航与制导：基于图像匹配、地形匹配、重力匹配的导航与定位",
+        "url": "http://faculty.hust.edu.cn/majie/zh_CN/yjfx/1491001/content/2066.htm#yjfx"
+      }
+    ],
+    "social_affiliations": [],
+    "research_group": {
+      "name": "全自主无人艇团队",
+      "description": "该团队包括自动化学院十余名教授，承担多个国家级重点、重大项目，本人主要负责其中的机艇协同多源信息感知任务。"
+    },
+    "site_chrome": {
+      "captured_page_url_as_image_src": "http://faculty.hust.edu.cn/majie/zh_CN/index/1491001/list/index.htm",
+      "icon_image_url": "http://faculty.hust.edu.cn/_ts/qtmbzw1/images/ico-heart-i.png",
+      "navigation_links": [
+        {
+          "anchor_text": "同专业博导",
+          "url": "http://faculty.hust.edu.cn/majie/zh_CN/tzybd/1491001/list/index.htm"
+        },
+        {
+          "anchor_text": "同专业硕导",
+          "url": "http://faculty.hust.edu.cn/majie/zh_CN/tzysd/1491001/list/index.htm"
+        }
+      ]
+    }
+  }
+}

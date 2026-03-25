@@ -1,0 +1,296 @@
+{
+  "meta": {
+    "tutor_name_cn": "肖强",
+    "request_url": "http://faculty.hust.edu.cn/qxiao/zh_CN/index.htm",
+    "declared_source_url": "http://faculty.hust.edu.cn/qxiao/zh_CN/index.htm",
+    "page_host": "faculty.hust.edu.cn",
+    "markdown_cache_path": "D:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\6bc9dbaddcc8a3d64131963415292f8850bc82c2df62d83f347f59bc0a1052c6.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "mentor_name": "肖强",
+    "source_url": "http://faculty.hust.edu.cn/qxiao/zh_CN/index.htm",
+    "site_metadata": {
+      "fetched_from": "http://faculty.hust.edu.cn/qxiao/zh_CN/index.htm",
+      "timestamp_on_page": "2026年3月24日，星期二",
+      "welcome_message": "欢迎来到我的主页！"
+    },
+    "site_chrome": {
+      "header_elements": [
+        {
+          "type": "image",
+          "url": "http://faculty.hust.edu.cn/qxiao/zh_CN/index.htm",
+          "alt_text": "image from current page URL"
+        },
+        {
+          "type": "link",
+          "url": "http://faculty.hust.edu.cn/qxiao/en/index.htm",
+          "anchor_text": "English"
+        },
+        {
+          "type": "link",
+          "url": "http://www.hust.edu.cn/",
+          "anchor_text": "华中科技大学"
+        },
+        {
+          "type": "image_link",
+          "url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/10/rBAGRV8CDr-AeFVmAAA7EN17sME589.png",
+          "link_target": "http://faculty.hust.edu.cn/",
+          "alt_text": "华中科技大学 logo"
+        }
+      ],
+      "footer_elements": [
+        {
+          "type": "image",
+          "url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/27/rBAGRWRVxeyAfY-GAAKt_EVzkKY256.png?randomid=1770659546972",
+          "alt_text": "footer decoration image"
+        }
+      ]
+    },
+    "navigation_menu": [
+      {
+        "category": null,
+        "anchor_text": "更多",
+        "url": "http://faculty.hust.edu.cn/qxiao/zh_CN/index.htm#"
+      },
+      {
+        "category": null,
+        "anchor_text": "首页",
+        "url": "http://faculty.hust.edu.cn/qxiao/zh_CN/index/2408008/list/index.htm"
+      },
+      {
+        "category": "科学研究",
+        "anchor_text": "科学研究",
+        "url": "http://faculty.hust.edu.cn/qxiao/zh_CN/zhym/2408009/list/index.htm",
+        "sub_items": [
+          {
+            "anchor_text": "研究领域",
+            "url": "http://faculty.hust.edu.cn/qxiao/zh_CN/yjgk/2408010/list/index.htm"
+          },
+          {
+            "anchor_text": "论文成果",
+            "url": "http://faculty.hust.edu.cn/qxiao/zh_CN/lwcg/2408011/list/index.htm"
+          },
+          {
+            "anchor_text": "专利",
+            "url": "http://faculty.hust.edu.cn/qxiao/zh_CN/zlcg/2408012/list/index.htm"
+          },
+          {
+            "anchor_text": "著作成果",
+            "url": "http://faculty.hust.edu.cn/qxiao/zh_CN/zzcg/2408013/list/index.htm"
+          },
+          {
+            "anchor_text": "科研项目",
+            "url": "http://faculty.hust.edu.cn/qxiao/zh_CN/kyxm/2408014/list/index.htm"
+          }
+        ]
+      },
+      {
+        "category": "教学研究",
+        "anchor_text": "教学研究",
+        "url": "http://faculty.hust.edu.cn/qxiao/zh_CN/zhym/2408015/list/index.htm",
+        "sub_items": [
+          {
+            "anchor_text": "教学资源",
+            "url": "http://faculty.hust.edu.cn/qxiao/zh_CN/jxzy/2408016/list/index.htm"
+          },
+          {
+            "anchor_text": "授课信息",
+            "url": "http://faculty.hust.edu.cn/qxiao/zh_CN/skxx/2408017/list/index.htm"
+          },
+          {
+            "anchor_text": "教学成果",
+            "url": "http://faculty.hust.edu.cn/qxiao/zh_CN/jxcg/2408018/list/index.htm"
+          }
+        ]
+      },
+      {
+        "category": null,
+        "anchor_text": "获奖信息",
+        "url": "http://faculty.hust.edu.cn/qxiao/zh_CN/hjxx/2408019/list/index.htm"
+      },
+      {
+        "category": null,
+        "anchor_text": "招生信息",
+        "url": "http://faculty.hust.edu.cn/qxiao/zh_CN/zsxx/2408020/list/index.htm"
+      },
+      {
+        "category": null,
+        "anchor_text": "学生信息",
+        "url": "http://faculty.hust.edu.cn/qxiao/zh_CN/xsxx/2408021/list/index.htm"
+      },
+      {
+        "category": null,
+        "anchor_text": "我的相册",
+        "url": "http://faculty.hust.edu.cn/qxiao/zh_CN/img/2408022/list/index.htm"
+      },
+      {
+        "category": null,
+        "anchor_text": "教师博客",
+        "url": "http://faculty.hust.edu.cn/qxiao/zh_CN/article/2408023/list/index.htm"
+      }
+    ],
+    "profile": {
+      "personal_details": {
+        "name": "肖强",
+        "gender": "男",
+        "employment_status": "在职",
+        "current_affiliation": {
+          "unit": "人工智能与自动化学院",
+          "university": "华中科技大学"
+        },
+        "highest_education_summary": {
+          "degree_type": "研究生(博士)毕业",
+          "degree": "工学博士学位",
+          "graduated_from": "华中科技大学",
+          "discipline": "控制理论与控制工程"
+        }
+      },
+      "titles_and_positions": [
+        {
+          "title": "副教授",
+          "type": "academic_rank",
+          "notes": "在职于人工智能与自动化学院，华中科技大学"
+        },
+        {
+          "title": "硕士生导师",
+          "type": "supervisory_role"
+        },
+        {
+          "title": "华中卓越青年学者",
+          "type": "honorary_title"
+        }
+      ],
+      "contact_information": {
+        "postcode": "430074",
+        "address": "华中科技大学人工智能与自动化学院",
+        "email": "qxiao@hust.edu.cn"
+      },
+      "biography": {
+        "summary_text": "副教授、硕导、华中卓越青年学者。研究方向主要包括多智能系统编队控制、车辆队列控制、强化学习。以第一作者在IEEE汇刊、Automatica、SIAM期刊共发表论文17篇，入选ESI高被引论文2篇。获中国自动化学会自然科学奖二等奖（排1）、中国自动化学会优博奖、亚太神经网络学会青年研究者奖等奖项。主持了国基金面上项目、国基金青年项目、博后基金站前特助、校自主创新基金等，参与了科技部重大专项、武汉市科技局重大专项等项目。",
+        "more_link": {
+          "url": "http://faculty.hust.edu.cn/qxiao/zh_CN/more/2408008/jsjjgd/index.htm",
+          "anchor_text": "More+"
+        }
+      },
+      "education_experience": [
+        {
+          "start_date": "2009.9",
+          "end_date": "2013.6",
+          "institution": "湖南大学",
+          "degree": "工学学士学位",
+          "degree_type": "本科(学士)",
+          "major": null
+        },
+        {
+          "start_date": "2013.9",
+          "end_date": "2016.6",
+          "institution": "集美大学",
+          "major": "数学",
+          "degree": "理学硕士学位",
+          "degree_type": "研究生(硕士)毕业"
+        },
+        {
+          "start_date": "2016.9",
+          "end_date": "2019.6",
+          "institution": "华中科技大学",
+          "degree": "工学博士学位",
+          "degree_type": "研究生(博士)毕业",
+          "major": null
+        }
+      ],
+      "work_experience": [
+        {
+          "start_date": "2019.7",
+          "end_date": "2021.11",
+          "institution": "华中科技大学",
+          "department": "人工智能与自动化学院",
+          "position": "博士后"
+        },
+        {
+          "start_date": "2021.12",
+          "end_date": "至今",
+          "institution": "华中科技大学",
+          "department": "人工智能与自动化学院",
+          "position": "副教授"
+        }
+      ],
+      "awards_honors": [
+        {
+          "year": "2025",
+          "name": "APNNS Young Researcher Award"
+        },
+        {
+          "year": "2024",
+          "name": "中国自动化学会自然科学奖二等奖",
+          "notes": "排1"
+        },
+        {
+          "year": "2020",
+          "name": "中国自动化学会优秀博士学位论文奖"
+        },
+        {
+          "year": "2017",
+          "name": "福建省优秀硕士学位论文奖"
+        }
+      ],
+      "research_directions": {
+        "explicit_section_content": "暂无内容",
+        "mentioned_in_biography": [
+          "多智能系统编队控制",
+          "车辆队列控制",
+          "强化学习"
+        ]
+      },
+      "publications_summary": "以第一作者在IEEE汇刊、Automatica、SIAM期刊共发表论文17篇，入选ESI高被引论文2篇",
+      "projects_summary": "主持了国基金面上项目、国基金青年项目、博后基金站前特助、校自主创新基金等，参与了科技部重大专项、武汉市科技局重大专项等项目。",
+      "social_affiliations": [
+        {
+          "start_date": "2024.9",
+          "end_date": "至今",
+          "role": "IEEE Senior Member"
+        },
+        {
+          "start_date": "2016.9",
+          "end_date": "至今",
+          "role": "期刊审稿人",
+          "notes": "IEEE TAC、Automatica等十余种期刊"
+        },
+        {
+          "start_date": "2016.9",
+          "end_date": "至今",
+          "role": "会议审稿人",
+          "notes": "CDC、ICONIP等"
+        },
+        {
+          "start_date": "2021.7",
+          "end_date": "至今",
+          "role": "学术会议PC member",
+          "notes": "ICNC2021、ICACI2022、ICONIP2022、ICONIP2023等"
+        },
+        {
+          "start_date": "2020.12",
+          "end_date": "至今",
+          "role": "国家自然科学基金项目评审专家"
+        }
+      ],
+      "research_group": {
+        "team_name": "类脑智能与智能控制团队",
+        "introduction_link": {
+          "url": "http://biic.aia.hust.edu.cn/",
+          "anchor_text": "http://biic.aia.hust.edu.cn/"
+        },
+        "members_status": "未列出具体成员"
+      },
+      "mentor_related_links": [
+        {
+          "anchor_text": "同专业硕导",
+          "url": "http://faculty.hust.edu.cn/qxiao/zh_CN/tzysd/2408008/list/index.htm"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "meta": {
+    "tutor_name_cn": "李叶松",
+    "request_url": "http://faculty.hust.edu.cn/liyesong/zh_CN/index.htm",
+    "declared_source_url": "http://faculty.hust.edu.cn/liyesong/zh_CN/index.htm",
+    "page_host": "faculty.hust.edu.cn",
+    "markdown_cache_path": "D:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\8a6b72c88d1f4cbce328586b63b580d26045d986392b8329b06690068f24d5c7.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "source_url": "http://faculty.hust.edu.cn/liyesong/zh_CN/index.htm",
+    "target_person_name": "李叶松",
+    "site_chrome": {
+      "header_links": [
+        {
+          "text": "English",
+          "url": "http://faculty.hust.edu.cn/liyesong/en/index.htm"
+        },
+        {
+          "text": "华中科技大学",
+          "url": "http://www.hust.edu.cn/"
+        },
+        {
+          "text": "华中科技大学Logo",
+          "url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/10/rBAGRV8CDr-AeFVmAAA7EN17sME589.png"
+        }
+      ],
+      "navigation_menu": [
+        {
+          "text": "首页",
+          "url": "http://faculty.hust.edu.cn/liyesong/zh_CN/index/1741065/list/index.htm"
+        },
+        {
+          "text": "科学研究",
+          "url": "http://faculty.hust.edu.cn/liyesong/zh_CN/zhym/1741066/list/index.htm",
+          "sub_items": [
+            {
+              "text": "研究领域",
+              "url": "http://faculty.hust.edu.cn/liyesong/zh_CN/yjgk/1741067/list/index.htm"
+            },
+            {
+              "text": "论文成果",
+              "url": "http://faculty.hust.edu.cn/liyesong/zh_CN/lwcg/1741068/list/index.htm"
+            },
+            {
+              "text": "专利",
+              "url": "http://faculty.hust.edu.cn/liyesong/zh_CN/zlcg/1741069/list/index.htm"
+            },
+            {
+              "text": "著作成果",
+              "url": "http://faculty.hust.edu.cn/liyesong/zh_CN/zzcg/1741070/list/index.htm"
+            },
+            {
+              "text": "科研项目",
+              "url": "http://faculty.hust.edu.cn/liyesong/zh_CN/kyxm/1741071/list/index.htm"
+            }
+          ]
+        },
+        {
+          "text": "教学研究",
+          "url": "http://faculty.hust.edu.cn/liyesong/zh_CN/zhym/1741072/list/index.htm",
+          "sub_items": [
+            {
+              "text": "教学资源",
+              "url": "http://faculty.hust.edu.cn/liyesong/zh_CN/jxzy/1741073/list/index.htm"
+            },
+            {
+              "text": "授课信息",
+              "url": "http://faculty.hust.edu.cn/liyesong/zh_CN/skxx/1741074/list/index.htm"
+            },
+            {
+              "text": "教学成果",
+              "url": "http://faculty.hust.edu.cn/liyesong/zh_CN/jxcg/1741076/list/index.htm"
+            }
+          ]
+        },
+        {
+          "text": "获奖信息",
+          "url": "http://faculty.hust.edu.cn/liyesong/zh_CN/hjxx/1741078/list/index.htm"
+        },
+        {
+          "text": "招生信息",
+          "url": "http://faculty.hust.edu.cn/liyesong/zh_CN/zsxx/1741079/list/index.htm"
+        },
+        {
+          "text": "学生信息",
+          "url": "http://faculty.hust.edu.cn/liyesong/zh_CN/xsxx/1741081/list/index.htm"
+        },
+        {
+          "text": "我的相册",
+          "url": "http://faculty.hust.edu.cn/liyesong/zh_CN/img/1741083/list/index.htm"
+        },
+        {
+          "text": "教师博客",
+          "url": "http://faculty.hust.edu.cn/liyesong/zh_CN/article/1741085/list/index.htm"
+        }
+      ],
+      "last_updated_or_visit_date": "2026年3月24日，星期二",
+      "welcome_message": "欢迎来到我的主页！"
+    },
+    "personal_details": {
+      "name": "李叶松",
+      "profile_image_url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/0A/rBAGRl8CDiSAJjtOAAH4OXg-QYE026.JPG?randomid=1770685921548",
+      "titles": [
+        "教授",
+        "博士生导师",
+        "硕士生导师"
+      ],
+      "gender": "男",
+      "employment_status": "在职",
+      "affiliation": "人工智能与自动化学院",
+      "discipline": "控制理论与控制工程",
+      "related_profiles": [
+        {
+          "text": "同专业博导",
+          "url": "http://faculty.hust.edu.cn/liyesong/zh_CN/tzybd/1741065/list/index.htm"
+        },
+        {
+          "text": "同专业硕导",
+          "url": "http://faculty.hust.edu.cn/liyesong/zh_CN/tzysd/1741065/list/index.htm"
+        }
+      ]
+    },
+    "contact_info": {
+      "other_contact": "暂无内容"
+    },
+    "biography": {
+      "summary": "李叶松，男，博士、教授、博士生导师。1996年毕业于华中理工大学工业自动化专业，获工学博士学位，1997年在华中理工大学电工博士后流动站工作，1998赴香港科技大学电机与电子工程系自动化技术中心工作，2000年任职华中科技大学，曾任华中科技大学控制科学与工程系自动化研究所所长。主要研究方向：高速、高精度交流电机控制技术；高性能多轴同步、全闭环协调、智能化运动控制；实时网络化嵌入式系统设计技术；非侵入式机电故障...",
+      "full_bio_link": "http://faculty.hust.edu.cn/liyesong/zh_CN/more/1741065/jsjjgd/index.htm"
+    },
+    "education_experience": [
+      {
+        "period": "1993.9 ~ 1996.6",
+        "institution": "华中理工大学",
+        "degree": "工学博士学位",
+        "degree_type": "研究生(博士)毕业"
+      },
+      {
+        "period": "1990.9 ~ 1993.6",
+        "institution": "华中理工大学",
+        "degree": "工学硕士学位",
+        "degree_type": "研究生(硕士)毕业"
+      }
+    ],
+    "work_experience": [
+      {
+        "section_header": "工作经历",
+        "content": "暂无内容"
+      },
+      {
+        "context": "摘自个人简介",
+        "year": "1997",
+        "description": "在华中理工大学电工博士后流动站工作"
+      },
+      {
+        "context": "摘自个人简介",
+        "year": "1998",
+        "description": "赴香港科技大学电机与电子工程系自动化技术中心工作"
+      },
+      {
+        "context": "摘自个人简介",
+        "year": "2000",
+        "description": "任职华中科技大学"
+      },
+      {
+        "context": "摘自个人简介",
+        "role": "曾任华中科技大学控制科学与工程系自动化研究所所长"
+      }
+    ],
+    "social_affiliations": "暂无内容",
+    "research_directions": [
+      {
+        "topic": "运动控制与自动化",
+        "url": "http://faculty.hust.edu.cn/liyesong/zh_CN/yjfx/1741065/content/4272.htm#yjfx"
+      },
+      {
+        "topic": "高速、高精度交流电机控制技术",
+        "context": "摘自个人简介"
+      },
+      {
+        "topic": "高性能多轴同步、全闭环协调、智能化运动控制",
+        "context": "摘自个人简介"
+      },
+      {
+        "topic": "实时网络化嵌入式系统设计技术",
+        "context": "摘自个人简介"
+      },
+      {
+        "topic": "非侵入式机电故障...",
+        "context": "摘自个人简介 (内容有截断)"
+      }
+    ],
+    "team_members": "暂无内容"
+  }
+}

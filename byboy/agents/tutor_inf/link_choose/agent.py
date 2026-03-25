@@ -1,6 +1,7 @@
 """
-从 webclean 产出的 Markdown 中，用 LLM 归类链接：导师主页链接 vs 可迭代扩展的站内链接，
-并写入 JSON。正文为 Markdown（由 HTML 转换而来），链接以 ``[锚文本](url)`` 等形式保留。
+从 webclean 产出的 Markdown 中提取链接，默认对每条链接调用 LLM 归类（导师主页 / 可扩展名录 / 无关），
+并写入 JSON；也可仅对规则低置信链接调 LLM（``LinkChoosePayload.refine_all_links=False``）。
+正文为 Markdown（由 HTML 转换而来），链接以 ``[锚文本](url)`` 等形式保留。
 """
 
 from __future__ import annotations
@@ -35,6 +36,8 @@ class LinkChoosePayload:
     markdown_path: str | Path
     output_dir: str | Path
     output_filename: str
+    #: True：每条链接都经 LLM 再分类；False：仅规则标为低置信的链接调 LLM（省 token）。
+    refine_all_links: bool = True
 
 
 def _read_markdown_source_declaration(md: str) -> str | None:
@@ -442,9 +445,14 @@ class LinkChooseAgent:
         declared = _read_markdown_source_declaration(md_text)
         links = _extract_clickable_links(md_text, declared)
         log.step("提取可点击链接", detail=f"total={len(links)}")
-        uncertain = [x for x in links if x.get("needs_llm_refine") == "1"]
-        if uncertain:
-            log.step("调用 LLM 细化低置信链接", detail=f"uncertain={len(uncertain)}")
+        if p.refine_all_links:
+            uncertain = list(links)
+            if uncertain:
+                log.step("调用 LLM 分类全部链接", detail=f"total={len(uncertain)}")
+        else:
+            uncertain = [x for x in links if x.get("needs_llm_refine") == "1"]
+            if uncertain:
+                log.step("调用 LLM 细化低置信链接", detail=f"uncertain={len(uncertain)}")
         refined = _llm_refine_uncertain(
             items=uncertain,
             dispatcher=dispatcher,

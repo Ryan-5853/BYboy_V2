@@ -1,0 +1,76 @@
+{
+  "meta": {
+    "tutor_name_cn": "刘禹良",
+    "request_url": "http://faculty.hust.edu.cn/liuyuliang/zh_CN/index.htm",
+    "declared_source_url": "http://faculty.hust.edu.cn/liuyuliang/zh_CN/index.htm",
+    "page_host": "faculty.hust.edu.cn",
+    "markdown_cache_path": "D:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\1daa03d60964b0a4ab84dfe9cf6a2b034487afa99c928cf49f09546612f2ee56.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "query_name": "刘禹良",
+    "name": "刘禹良",
+    "personal_info": {
+      "academic_titles": [
+        "博士生导师",
+        "硕士生导师"
+      ],
+      "gender": "男",
+      "employment_status": "在职",
+      "affiliation": "人工智能与自动化学院",
+      "related_faculty_lists": [
+        {
+          "anchor_text": "同专业博导",
+          "url": "http://faculty.hust.edu.cn/liuyuliang/zh_CN/tzybd/2417777/list/index.htm"
+        },
+        {
+          "anchor_text": "同专业硕导",
+          "url": "http://faculty.hust.edu.cn/liuyuliang/zh_CN/tzysd/2417777/list/index.htm"
+        }
+      ]
+    },
+    "personal_profile": {
+      "description": "聚焦多模态文本图像智能，让大模型在复杂文档与场景文本中真正做到看懂、读懂、并能高效推理与交互。致力于将基础模型能力与可解释、可控、低时延的工程体系结合起来，面向真实业务场景稳定落地。",
+      "external_homepage": {
+        "anchor_text": "个人主页",
+        "url": "https://yuliang-liu.github.io/ylliu.github.io/"
+      }
+    },
+    "sections_with_no_content": [
+      {
+        "title_zh": "教育经历",
+        "title_en": "Education Background",
+        "content_status": "暂无内容"
+      },
+      {
+        "title_zh": "工作经历",
+        "title_en": "Work Experience",
+        "content_status": "暂无内容"
+      },
+      {
+        "title_zh": "研究方向",
+        "title_en": "Research Focus",
+        "content_status": "暂无内容"
+      },
+      {
+        "title_zh": "社会兼职",
+        "title_en": "Social Affiliations",
+        "content_status": "暂无内容"
+      }
+    ],
+    "site_chrome": {
+      "source_url": "http://faculty.hust.edu.cn/liuyuliang/zh_CN/index.htm",
+      "retrieval_text": "抓取来源：http://faculty.hust.edu.cn/liuyuliang/zh_CN/index.htm",
+      "profile_picture_url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/2A/rBAGRmgVcfaAIoevAAGVUOs-hAg055.png?randomid=1773118140341",
+      "potential_broken_image_link_from_markdown": "http://faculty.hust.edu.cn/liuyuliang/zh_CN/index.htm",
+      "site_engagement_metric": {
+        "icon_url": "http://faculty.hust.edu.cn/_ts/qtmbzw1/images/ico-heart-i.png",
+        "value": 3949,
+        "description": "Likely page views or likes based on heart icon"
+      }
+    }
+  }
+}

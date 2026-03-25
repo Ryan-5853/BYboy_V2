@@ -53,16 +53,45 @@ def main(argv: list[str] | None = None) -> int:
     )
     p.add_argument("--max-tokens", type=int, default=8192, help="link_choose max_tokens")
     p.add_argument(
+        "--link-choose-uncertain-only-llm",
+        action="store_true",
+        help="link_choose 仅对规则低置信链接调 LLM（默认每条链接都过 LLM）",
+    )
+    p.add_argument(
         "--resume-state",
         type=Path,
         default=None,
         help="断点续跑状态文件路径（state.json），指定后按该文件所在 cache 目录恢复上下文",
+    )
+    p.add_argument(
+        "--no-restart-on-transient-llm-error",
+        action="store_true",
+        help="关闭：遇模型/网关暂时不可用时自动从断点重试（默认开启）",
+    )
+    p.add_argument(
+        "--transient-retry-initial-sec",
+        type=float,
+        default=15.0,
+        help="首次重试前等待秒数（默认 15）",
+    )
+    p.add_argument(
+        "--transient-retry-max-sec",
+        type=float,
+        default=120.0,
+        help="重试等待上限秒数（默认 120）",
+    )
+    p.add_argument(
+        "--no-transient-swap-fast-slot-pair",
+        action="store_true",
+        help="关闭：瞬时故障时在 BYBOY_SLOT_FAST / BYBOY_SLOT_FAST2 间切换（默认开启）",
     )
     args = p.parse_args(argv)
     if args.depth <= 0:
         raise SystemExit("--depth 必须为正整数")
     if args.max_tokens <= 0:
         raise SystemExit("--max-tokens 必须为正整数")
+    if args.transient_retry_initial_sec <= 0 or args.transient_retry_max_sec <= 0:
+        raise SystemExit("transient-retry 秒数必须为正数")
     workdir = args.workdir or args.output_dir
     if workdir is None:
         raise SystemExit("必须提供 output_dir 或 --workdir")
@@ -76,9 +105,18 @@ def main(argv: list[str] | None = None) -> int:
             output_dir=workdir,
             max_depth=args.depth,
             resume_state_path=args.resume_state,
+            link_choose_refine_all_links=not args.link_choose_uncertain_only_llm,
         ),
     )
-    result = agent.run(inv, dispatcher, max_tokens=args.max_tokens)
+    result = agent.run(
+        inv,
+        dispatcher,
+        max_tokens=args.max_tokens,
+        restart_on_transient_llm_error=not args.no_restart_on_transient_llm_error,
+        transient_retry_initial_sec=args.transient_retry_initial_sec,
+        transient_retry_max_sec=args.transient_retry_max_sec,
+        transient_swap_fast_slot_pair=not args.no_transient_swap_fast_slot_pair,
+    )
     print(_to_root_relative(result.state_path))
     print(f"round_count={result.round_count}")
     print(f"list1_pending_count={result.list1_pending_count}")

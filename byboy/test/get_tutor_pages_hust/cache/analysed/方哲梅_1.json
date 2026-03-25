@@ -1,0 +1,133 @@
+{
+  "meta": {
+    "tutor_name_cn": "方哲梅",
+    "request_url": "http://faculty.hust.edu.cn/fangzhemei/zh_CN/index.htm",
+    "declared_source_url": "http://faculty.hust.edu.cn/fangzhemei/zh_CN/index.htm",
+    "page_host": "faculty.hust.edu.cn",
+    "markdown_cache_path": "D:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\05f4e37baab08e39bab58e91c838daa27a34e4a125fbe1342068a051af160d4c.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "source_url": "http://faculty.hust.edu.cn/fangzhemei/zh_CN/index.htm",
+    "name": "方哲梅",
+    "profile_picture": {
+      "url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/1A/rBAGRWDyqNqAKCFZAAGssYG0lqU711.png?randomid=1770715983065"
+    },
+    "personal_information": {
+      "titles": [
+        "副教授",
+        "博士生导师",
+        "硕士生导师"
+      ],
+      "gender": "女",
+      "employment_status": "在职",
+      "current_affiliation": "人工智能与自动化学院",
+      "highest_education_level": "研究生(博士)毕业",
+      "highest_degree": "工学博士学位",
+      "highest_degree_institution": "Purdue University",
+      "highest_degree_discipline": "系统工程",
+      "likes": {
+        "icon_url": "http://faculty.hust.edu.cn/_ts/qtmbzw1/images/ico-heart-i.png",
+        "count": 308
+      }
+    },
+    "contact_information": {
+      "postal_code": "430074",
+      "office_address": "华中科技大学南一楼523",
+      "email": "zmfang2018@hust.edu.cn",
+      "related_links": [
+        {
+          "anchor_text": "同专业博导",
+          "url": "http://faculty.hust.edu.cn/fangzhemei/zh_CN/tzybd/2191471/list/index.htm"
+        },
+        {
+          "anchor_text": "同专业硕导",
+          "url": "http://faculty.hust.edu.cn/fangzhemei/zh_CN/tzysd/2191471/list/index.htm"
+        }
+      ]
+    },
+    "personal_profile": "方哲梅，浙江义乌人，分别于2008年和2011年在华中科技大学控制科学与工程系（现人工智能与自动化学院）获得自动化学士学位和控制理论与控制工程硕士学位，并于2017年在美国普渡大学（Purdue University）航空航天学院获得博士学位。\n\n主持国家自然科学基金、JKW预研基金等国家级项目多项，曾参与来自美国防部系统工程研究中心（SERC），美国家航空航天局（NASA）与联邦航空局（FAA）等部门的多个项目。从事基于模型的系统工程（MBSE）、体系架构设计理论与方法等相关研究（详见研究方向），已在国际知名期刊与会议上发表论文二十余篇。\n\n招收全日制工学硕士和工程硕士，欢迎勤奋踏实、努力肯学，对系统工程、体系工程以及军事系统感兴趣的学生联系 (zmfang2018@hust.edu.cn)。",
+    "education_background": [
+      {
+        "start_date": "2011.9",
+        "end_date": "2017.8",
+        "institution": "普渡大学",
+        "department": "航空航天",
+        "degree": "博士学位",
+        "education_level": "研究生(博士)毕业"
+      },
+      {
+        "start_date": "2008.9",
+        "end_date": "2011.3",
+        "institution": "华中科技大学",
+        "department": "控制科学与工程系",
+        "degree": "硕士学位",
+        "education_level": "研究生(硕士)毕业"
+      },
+      {
+        "start_date": "2004.9",
+        "end_date": "2008.6",
+        "institution": "华中科技大学",
+        "department": "控制科学与工程系",
+        "degree": "学士学位",
+        "education_level": "本科毕业"
+      }
+    ],
+    "work_experience": [
+      {
+        "start_date": "2024.1",
+        "end_date": "至今",
+        "institution": "华中科技大学",
+        "department": "人工智能与自动化",
+        "position": "在职"
+      },
+      {
+        "start_date": "2018.9",
+        "end_date": "2023.12",
+        "institution": "华中科技大学",
+        "department": "人工智能与自动化",
+        "position": "讲师"
+      },
+      {
+        "start_date": "2017.9",
+        "end_date": "2017.12",
+        "institution": "普渡大学",
+        "department": "航空航天学院",
+        "position": "博士后研究员"
+      }
+    ],
+    "research_focus": [
+      {
+        "title": "体系架构决策与优化",
+        "url": "http://faculty.hust.edu.cn/fangzhemei/zh_CN/yjfx/2191471/content/8189.htm#yjfx"
+      },
+      {
+        "title": "体系评估方法",
+        "url": "http://faculty.hust.edu.cn/fangzhemei/zh_CN/yjfx/2191471/content/8187.htm#yjfx"
+      },
+      {
+        "title": "体系架构设计方法",
+        "url": "http://faculty.hust.edu.cn/fangzhemei/zh_CN/yjfx/2191471/content/3196.htm#yjfx"
+      },
+      {
+        "title": "体系/系统架构模型智能生成与验证",
+        "url": "http://faculty.hust.edu.cn/fangzhemei/zh_CN/yjfx/2191471/content/3188.htm#yjfx"
+      }
+    ],
+    "social_affiliations": [
+      {
+        "period": "2017.1至今",
+        "description": "IEEE Systems Journal、Journal of Cleaner Production、系统工程与电子技术等期刊的审稿人"
+      }
+    ],
+    "site_chrome": {
+      "top_image_placeholder": {
+        "url": "http://faculty.hust.edu.cn/fangzhemei/zh_CN/index.htm",
+        "description": "Likely a broken image or default placeholder at the very top of the page."
+      }
+    }
+  }
+}

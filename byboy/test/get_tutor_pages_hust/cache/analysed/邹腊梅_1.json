@@ -1,0 +1,203 @@
+{
+  "meta": {
+    "tutor_name_cn": "邹腊梅",
+    "request_url": "http://faculty.hust.edu.cn/~vuq6zm/zh_CN/index.htm",
+    "declared_source_url": "http://faculty.hust.edu.cn/~vuq6zm/zh_CN/index.htm",
+    "page_host": "faculty.hust.edu.cn",
+    "markdown_cache_path": "D:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\2e72b113d186b304ea56a7c7d4aafeb261ea1bd1c9685ba80ffd899d251a0fc8.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": "页面包含详细的个人简介、教育背景、工作经历及研究方向"
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "target_professor": "邹腊梅",
+    "source_url": "http://faculty.hust.edu.cn/~vuq6zm/zh_CN/index.htm",
+    "basic_information": {
+      "name": "邹腊梅",
+      "title": "副教授",
+      "supervisor_type": "硕士生导师",
+      "employment_status": "在职",
+      "education_level": "研究生(博士)毕业",
+      "degree": "工学博士学位",
+      "alma_mater": "华中科技大学",
+      "discipline": "模式识别与智能系统",
+      "profile_image": "http://faculty.hust.edu.cn/_resources/group1/M00/00/15/rBAGRWBJfaiAAnvDAAJ8wJznEoE561.png?randomid=1770654942281",
+      "related_links": [
+        {
+          "anchor_text": "同专业硕导",
+          "url": "http://faculty.hust.edu.cn/zlmhust/zh_CN/tzysd/1730553/list/index.htm"
+        }
+      ]
+    },
+    "contact_information": {
+      "zip_code": "430074",
+      "emails": [
+        "zlmhust@163.com",
+        "zlmhust@hust.edu.cn"
+      ]
+    },
+    "personal_profile": {
+      "summary": "1999年毕业于华中理工大学自动控制工程系，获自动化专业学士学位；2002年毕业于华中科技大学图像识别与人工智能研究所，获模式识别与智能系统专业硕士学位；2012年毕业于华中科技大学图像识别与人工智能研究所，获控制科学与工程专业博士学位；2016年，亚利桑那州立大学，访问学者；自1999-至今，先后于华中科技大学图像所、自动化学院、人工智能与自动化学院任教。",
+      "more_link": "http://faculty.hust.edu.cn/zlmhust/zh_CN/more/1730553/jsjjgd/index.htm"
+    },
+    "honors_and_awards": [
+      {
+        "year": "2007",
+        "award_name": "教育部科学技术进步奖一等奖",
+        "project_name": "实时信息处理技术",
+        "rank": "第10完成人",
+        "certificate_number": "2006-173"
+      }
+    ],
+    "education_experience": [
+      {
+        "period": "2005.9 ~ 2012.6",
+        "institution": "华中科技大学",
+        "degree": "工学博士学位",
+        "status": "研究生(博士)毕业"
+      },
+      {
+        "period": "1999.9 ~ 2002.6",
+        "institution": "华中科技大学",
+        "degree": "工学硕士学位",
+        "status": "研究生(硕士)毕业"
+      },
+      {
+        "period": "1995.9 ~ 1999.6",
+        "institution": "华中理工大学",
+        "degree": "工学学士学位",
+        "status": "本科(学士)"
+      }
+    ],
+    "work_experience": [
+      {
+        "period": "2019.1-至今",
+        "institution": "华中科技大学 人工智能与自动化学院",
+        "position": "副教授/硕士生导师",
+        "nature": "全职"
+      },
+      {
+        "period": "2016.2-2017.2",
+        "institution": "美国亚利桑那州立大学",
+        "position": "访问学者"
+      },
+      {
+        "period": "2013.1-2019.1",
+        "institution": "华中科技大学 自动化学院",
+        "position": "副教授/硕士生导师",
+        "nature": "全职"
+      },
+      {
+        "period": "2012.10-2013.1",
+        "institution": "华中科技大学 图像所",
+        "position": "副教授/硕士导师",
+        "nature": "全职"
+      },
+      {
+        "period": "2005.1-2012.10",
+        "institution": "华中科技大学 图像所",
+        "position": "讲师",
+        "nature": "全职"
+      },
+      {
+        "period": "1999.7-2005.1",
+        "institution": "华中科技大学 图像所",
+        "position": "助教",
+        "nature": "全职"
+      }
+    ],
+    "research_focus": [
+      {
+        "title": "图像处理、模式识别、机器学习",
+        "url": "http://faculty.hust.edu.cn/zlmhust/zh_CN/yjfx/1730553/content/5693.htm#yjfx"
+      }
+    ],
+    "social_affiliations": "暂无内容",
+    "research_group": "暂无内容",
+    "page_metadata": {
+      "current_date": "2026年3月24日，星期二",
+      "welcome_message": "欢迎来到我的主页！"
+    },
+    "site_chrome": {
+      "language_switch": {
+        "text": "English",
+        "url": "http://faculty.hust.edu.cn/zlmhust/en/index.htm"
+      },
+      "organization": {
+        "name": "华中科技大学",
+        "url": "http://www.hust.edu.cn/"
+      },
+      "navigation_menu": [
+        {
+          "name": "首页",
+          "url": "http://faculty.hust.edu.cn/zlmhust/zh_CN/index/1730553/list/index.htm"
+        },
+        {
+          "name": "科学研究",
+          "url": "http://faculty.hust.edu.cn/zlmhust/zh_CN/zhym/1730554/list/index.htm",
+          "sub_items": [
+            {
+              "name": "研究领域",
+              "url": "http://faculty.hust.edu.cn/zlmhust/zh_CN/yjgk/1730555/list/index.htm"
+            },
+            {
+              "name": "论文成果",
+              "url": "http://faculty.hust.edu.cn/zlmhust/zh_CN/lwcg/1730556/list/index.htm"
+            },
+            {
+              "name": "专利",
+              "url": "http://faculty.hust.edu.cn/zlmhust/zh_CN/zlcg/1730557/list/index.htm"
+            },
+            {
+              "name": "著作成果",
+              "url": "http://faculty.hust.edu.cn/zlmhust/zh_CN/zzcg/1730558/list/index.htm"
+            },
+            {
+              "name": "科研项目",
+              "url": "http://faculty.hust.edu.cn/zlmhust/zh_CN/kyxm/1730559/list/index.htm"
+            }
+          ]
+        },
+        {
+          "name": "教学研究",
+          "url": "http://faculty.hust.edu.cn/zlmhust/zh_CN/zhym/1730560/list/index.htm",
+          "sub_items": [
+            {
+              "name": "教学资源",
+              "url": "http://faculty.hust.edu.cn/zlmhust/zh_CN/jxzy/1730561/list/index.htm"
+            },
+            {
+              "name": "授课信息",
+              "url": "http://faculty.hust.edu.cn/zlmhust/zh_CN/skxx/1730562/list/index.htm"
+            },
+            {
+              "name": "教学成果",
+              "url": "http://faculty.hust.edu.cn/zlmhust/zh_CN/jxcg/1730563/list/index.htm"
+            }
+          ]
+        },
+        {
+          "name": "获奖信息",
+          "url": "http://faculty.hust.edu.cn/zlmhust/zh_CN/hjxx/1730564/list/index.htm"
+        },
+        {
+          "name": "招生信息",
+          "url": "http://faculty.hust.edu.cn/zlmhust/zh_CN/zsxx/1730565/list/index.htm"
+        },
+        {
+          "name": "学生信息",
+          "url": "http://faculty.hust.edu.cn/zlmhust/zh_CN/xsxx/1730566/list/index.htm"
+        },
+        {
+          "name": "我的相册",
+          "url": "http://faculty.hust.edu.cn/zlmhust/zh_CN/img/1730567/list/index.htm"
+        },
+        {
+          "name": "教师博客",
+          "url": "http://faculty.hust.edu.cn/zlmhust/zh_CN/article/1730568/list/index.htm"
+        }
+      ]
+    }
+  }
+}

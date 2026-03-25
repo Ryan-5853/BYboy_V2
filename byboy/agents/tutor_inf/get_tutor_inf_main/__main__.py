@@ -48,7 +48,23 @@ def main(argv: list[str] | None = None) -> int:
         help="统一模型/槽位 token（支持 BYBOY_SLOT_* 或直传模型 token）",
     )
     p.add_argument("--pages-max-tokens", type=int, default=8192, help="页面抓取阶段 max_tokens")
+    p.add_argument(
+        "--link-choose-uncertain-only-llm",
+        action="store_true",
+        help="link_choose 仅对规则低置信链接调 LLM（默认每条链接都过 LLM）",
+    )
     p.add_argument("--analyse-max-tokens", type=int, default=16384, help="导师分析阶段 max_tokens")
+    p.add_argument(
+        "--analyse-name-resolve-max-tokens",
+        type=int,
+        default=512,
+        help="LLM 推断导师姓名的 max_tokens（默认 512；默认先 LLM 再标题/加粗兜底）",
+    )
+    p.add_argument(
+        "--no-analyse-name-resolve-llm-first",
+        action="store_true",
+        help="改为先标题/加粗启发式，失败后再 LLM（默认先 LLM）",
+    )
     p.add_argument("--csv-max-tokens", type=int, default=2048, help="CSV 抽取阶段 max_tokens")
     p.add_argument(
         "--csv-repair-max-tokens",
@@ -85,16 +101,41 @@ def main(argv: list[str] | None = None) -> int:
         default=None,
         help="CSV 阶段运行日志 jsonl 路径",
     )
+    p.add_argument(
+        "--no-restart-on-transient-llm-error",
+        action="store_true",
+        help="关闭：遇模型/网关暂时不可用时自动整任务重试（默认开启）",
+    )
+    p.add_argument(
+        "--transient-retry-initial-sec",
+        type=float,
+        default=15.0,
+        help="首次重试前等待秒数（默认 15）",
+    )
+    p.add_argument(
+        "--transient-retry-max-sec",
+        type=float,
+        default=120.0,
+        help="重试等待上限秒数，指数退避封顶（默认 120）",
+    )
+    p.add_argument(
+        "--no-transient-swap-fast-slot-pair",
+        action="store_true",
+        help="关闭：瞬时故障时在 BYBOY_SLOT_FAST / BYBOY_SLOT_FAST2 间切换（默认开启）",
+    )
     args = p.parse_args(argv)
     if args.depth <= 0:
         raise SystemExit("--depth 必须为正整数")
     if (
         args.pages_max_tokens <= 0
         or args.analyse_max_tokens <= 0
+        or args.analyse_name_resolve_max_tokens <= 0
         or args.csv_max_tokens <= 0
         or args.csv_repair_max_tokens <= 0
     ):
         raise SystemExit("所有 max-tokens 参数都必须为正整数")
+    if args.transient_retry_initial_sec <= 0 or args.transient_retry_max_sec <= 0:
+        raise SystemExit("transient-retry 秒数必须为正数")
 
     dispatcher = LLMDispatcher.from_env()
     agent = GetTutorInfMainAgent()
@@ -109,6 +150,7 @@ def main(argv: list[str] | None = None) -> int:
             csv_path=args.csv_path,
             csv_resume_state_path=args.csv_resume_state,
             csv_run_log_path=args.csv_run_log,
+            link_choose_refine_all_links=not args.link_choose_uncertain_only_llm,
         ),
     )
     result = agent.run(
@@ -116,8 +158,14 @@ def main(argv: list[str] | None = None) -> int:
         dispatcher,
         pages_max_tokens=args.pages_max_tokens,
         analyse_max_tokens=args.analyse_max_tokens,
+        analyse_name_resolve_max_tokens=args.analyse_name_resolve_max_tokens,
+        analyse_name_resolve_llm_first=not args.no_analyse_name_resolve_llm_first,
         csv_max_tokens=args.csv_max_tokens,
         csv_repair_max_tokens=args.csv_repair_max_tokens,
+        restart_on_transient_llm_error=not args.no_restart_on_transient_llm_error,
+        transient_retry_initial_sec=args.transient_retry_initial_sec,
+        transient_retry_max_sec=args.transient_retry_max_sec,
+        transient_swap_fast_slot_pair=not args.no_transient_swap_fast_slot_pair,
     )
 
     print(f"workdir={_to_root_relative(result.workdir)}")

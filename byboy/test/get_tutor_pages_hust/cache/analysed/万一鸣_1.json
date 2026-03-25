@@ -1,0 +1,190 @@
+{
+  "meta": {
+    "tutor_name_cn": "万一鸣",
+    "request_url": "http://faculty.hust.edu.cn/wanyiming/zh_CN/index.htm",
+    "declared_source_url": "http://faculty.hust.edu.cn/wanyiming/zh_CN/index.htm",
+    "page_host": "faculty.hust.edu.cn",
+    "markdown_cache_path": "D:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\78608c9157ccff08a93ebdcda0f7f06811d1d269da240a5e9258832953cb1581.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": "内容包含导师职称、教育背景、工作经历、获奖荣誉、研究方向及联系方式等丰富文字信息。"
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "target_faculty": "万一鸣",
+    "source_url": "http://faculty.hust.edu.cn/wanyiming/zh_CN/index.htm",
+    "basic_information": {
+      "name": "万一鸣",
+      "gender": "男",
+      "professional_titles": [
+        "副研究员",
+        "博士生导师",
+        "硕士生导师"
+      ],
+      "employment_status": "在职",
+      "department": "人工智能与自动化学院",
+      "educational_background": "研究生(博士)毕业",
+      "degree": "工学博士学位",
+      "alma_mater": "清华大学",
+      "discipline": "控制理论与控制工程",
+      "profile_image": "http://faculty.hust.edu.cn/_resources/group1/M00/00/0E/rBAGRl8CDmiAWGyZAAHVLfHmQWg016.jpg?randomid=1772520760278"
+    },
+    "contact_information": {
+      "email": "ywan@hust.edu.cn",
+      "zip_code": "430074"
+    },
+    "personal_profile": {
+      "text": "详细信息请见 https://yiming-wan.github.io/ 感兴趣的学生请阅读“招生信息”栏目",
+      "external_website": "https://yiming-wan.github.io/"
+    },
+    "honors_and_awards": [
+      {
+        "year": "2025",
+        "honor": "第14届全国技术过程故障诊断与安全性学术会议方崇智优秀论文二等奖"
+      },
+      {
+        "year": "2025",
+        "honor": "中国自动化学会青年学术年会优秀论文提名奖"
+      },
+      {
+        "year": "2024",
+        "honor": "入选中国商飞大飞机创新谷“卓越科学家”"
+      },
+      {
+        "year": "2024",
+        "honor": "受聘中国商飞大飞机创新谷“客座科学家”"
+      },
+      {
+        "year": "2021",
+        "honor": "指导研究生获国家奖学金"
+      },
+      {
+        "year": "2021",
+        "honor": "入选IFAC ADCHEM会议Keynote Paper"
+      },
+      {
+        "year": "2015",
+        "honor": "IFAC SAFEPROCESS会议Paul M. Frank最佳理论论文提名奖（1/4）"
+      }
+    ],
+    "education_experience": [
+      {
+        "period": "2007.9 ~ 2013.1",
+        "institution": "清华大学",
+        "major": "控制理论与控制工程",
+        "degree": "工学博士学位",
+        "status": "研究生(博士)毕业"
+      },
+      {
+        "period": "2003.9 ~ 2007.7",
+        "institution": "华中科技大学",
+        "major": "控制科学与工程",
+        "degree": "工学学士学位",
+        "status": "本科毕业"
+      }
+    ],
+    "work_experience": [
+      {
+        "period": "2016.9-2018.2",
+        "institution": "美国麻省理工学院",
+        "position": "博士后"
+      },
+      {
+        "period": "2013.5-2016.8",
+        "institution": "荷兰代尔夫特理工大学",
+        "position": "博士后"
+      }
+    ],
+    "social_affiliations": [
+      "International Journal of Robust and Nonlinear Control, Editor (2026-)",
+      "IEEE控制系统学会过程控制技术委员会委员(2024-)",
+      "IEEE Control Systems Society Conference Editorial Board (2023-)",
+      "IFAC过程控制技术委员会 委员 (2018-)",
+      "中国自动化学会技术过程的故障诊断与安全性专业委员会 委员（2019-）"
+    ],
+    "research_directions": [
+      {
+        "direction": "状态估计、多传感器融合",
+        "url": "http://faculty.hust.edu.cn/wanyiming/zh_CN/yjfx/2129075/content/3625.htm#yjfx"
+      },
+      {
+        "direction": "预测控制、容错控制",
+        "url": "http://faculty.hust.edu.cn/wanyiming/zh_CN/yjfx/2129075/content/2057.htm#yjfx"
+      },
+      {
+        "direction": "机器学习、异常检测",
+        "url": "http://faculty.hust.edu.cn/wanyiming/zh_CN/yjfx/2129075/content/2059.htm#yjfx"
+      }
+    ],
+    "team_members": "暂无内容",
+    "navigation_menu": [
+      {
+        "title": "首页",
+        "url": "http://faculty.hust.edu.cn/wanyiming/zh_CN/index/2129075/list/index.htm"
+      },
+      {
+        "title": "科学研究",
+        "url": "http://faculty.hust.edu.cn/wanyiming/zh_CN/zhym/2129076/list/index.htm",
+        "sub_items": [
+          {
+            "title": "期刊论文",
+            "url": "http://faculty.hust.edu.cn/wanyiming/zh_CN/zdylm/2129965/list/index.htm"
+          },
+          {
+            "title": "会议论文",
+            "url": "http://faculty.hust.edu.cn/wanyiming/zh_CN/zdylm/2129964/list/index.htm"
+          }
+        ]
+      },
+      {
+        "title": "教学研究",
+        "url": "http://faculty.hust.edu.cn/wanyiming/zh_CN/zhym/2129082/list/index.htm",
+        "sub_items": [
+          {
+            "title": "教学资源",
+            "url": "http://faculty.hust.edu.cn/wanyiming/zh_CN/jxzy/2129083/list/index.htm"
+          },
+          {
+            "title": "授课信息",
+            "url": "http://faculty.hust.edu.cn/wanyiming/zh_CN/skxx/2129084/list/index.htm"
+          }
+        ]
+      },
+      {
+        "title": "招生信息",
+        "url": "http://faculty.hust.edu.cn/wanyiming/zh_CN/zdylm/2149737/list/index.htm"
+      },
+      {
+        "title": "学生信息",
+        "url": "http://faculty.hust.edu.cn/wanyiming/zh_CN/xsxx/2129088/list/index.htm"
+      },
+      {
+        "title": "我的相册",
+        "url": "http://faculty.hust.edu.cn/wanyiming/zh_CN/img/2129089/list/index.htm"
+      }
+    ],
+    "site_chrome": {
+      "language_switch": {
+        "text": "English",
+        "url": "http://faculty.hust.edu.cn/wanyiming/en/index.htm"
+      },
+      "university_link": "http://www.hust.edu.cn/",
+      "university_name": "华中科技大学",
+      "faculty_home_logo": "http://faculty.hust.edu.cn/",
+      "related_links": [
+        {
+          "text": "同专业博导",
+          "url": "http://faculty.hust.edu.cn/wanyiming/zh_CN/tzybd/2129075/list/index.htm"
+        },
+        {
+          "text": "同专业硕导",
+          "url": "http://faculty.hust.edu.cn/wanyiming/zh_CN/tzysd/2129075/list/index.htm"
+        }
+      ],
+      "page_metadata": {
+        "current_date": "2026年3月24日，星期二",
+        "greeting": "欢迎来到我的主页！"
+      }
+    }
+  }
+}

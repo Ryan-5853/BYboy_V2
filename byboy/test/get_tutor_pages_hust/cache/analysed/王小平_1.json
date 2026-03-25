@@ -1,0 +1,204 @@
+{
+  "meta": {
+    "tutor_name_cn": "王小平",
+    "request_url": "http://faculty.hust.edu.cn/wangxiaoping4/zh_CN/index.htm",
+    "declared_source_url": "http://faculty.hust.edu.cn/wangxiaoping4/zh_CN/index.htm",
+    "page_host": "faculty.hust.edu.cn",
+    "markdown_cache_path": "D:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\e697d1f8e052fd26a0f377601909baa4e29203f6f37c724628f8fb5d19ea7c8b.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "source_url": "http://faculty.hust.edu.cn/wangxiaoping4/zh_CN/index.htm",
+    "site_chrome": {
+      "language_switch": {
+        "english": {
+          "url": "http://faculty.hust.edu.cn/wangxiaoping4/en/index.htm",
+          "anchor_text": "English"
+        }
+      },
+      "university_links": [
+        {
+          "url": "http://www.hust.edu.cn/",
+          "anchor_text": "华中科技大学",
+          "title": "华中科技大学"
+        },
+        {
+          "url": "http://faculty.hust.edu.cn/",
+          "anchor_text": "",
+          "image_url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/10/rBAGRV8CDr-AeFVmAAA7EN17sME589.png"
+        }
+      ],
+      "main_navigation": [
+        {
+          "url": "http://faculty.hust.edu.cn/wangxiaoping4/zh_CN/index/1707929/list/index.htm",
+          "anchor_text": "首页"
+        },
+        {
+          "url": "http://faculty.hust.edu.cn/wangxiaoping4/zh_CN/zhym/1707930/list/index.htm",
+          "anchor_text": "科学研究",
+          "sub_items": [
+            {
+              "url": "http://faculty.hust.edu.cn/wangxiaoping4/zh_CN/yjgk/1707931/list/index.htm",
+              "anchor_text": "研究领域"
+            },
+            {
+              "url": "http://faculty.hust.edu.cn/wangxiaoping4/zh_CN/lwcg/1707932/list/index.htm",
+              "anchor_text": "论文成果"
+            },
+            {
+              "url": "http://faculty.hust.edu.cn/wangxiaoping4/zh_CN/zlcg/1707933/list/index.htm",
+              "anchor_text": "专利"
+            },
+            {
+              "url": "http://faculty.hust.edu.cn/wangxiaoping4/zh_CN/zzcg/1707934/list/index.htm",
+              "anchor_text": "著作成果"
+            },
+            {
+              "url": "http://faculty.hust.edu.cn/wangxiaoping4/zh_CN/kyxm/1707935/list/index.htm",
+              "anchor_text": "科研项目"
+            }
+          ]
+        },
+        {
+          "url": "http://faculty.hust.edu.cn/wangxiaoping4/zh_CN/zhym/1707936/list/index.htm",
+          "anchor_text": "教学研究",
+          "sub_items": [
+            {
+              "url": "http://faculty.hust.edu.cn/wangxiaoping4/zh_CN/jxzy/1707937/list/index.htm",
+              "anchor_text": "教学资源"
+            },
+            {
+              "url": "http://faculty.hust.edu.cn/wangxiaoping4/zh_CN/skxx/1707938/list/index.htm",
+              "anchor_text": "授课信息"
+            },
+            {
+              "url": "http://faculty.hust.edu.cn/wangxiaoping4/zh_CN/jxcg/1707939/list/index.htm",
+              "anchor_text": "教学成果"
+            }
+          ]
+        },
+        {
+          "url": "http://faculty.hust.edu.cn/wangxiaoping4/zh_CN/hjxx/1707940/list/index.htm",
+          "anchor_text": "获奖信息"
+        },
+        {
+          "url": "http://faculty.hust.edu.cn/wangxiaoping4/zh_CN/zsxx/1707941/list/index.htm",
+          "anchor_text": "招生信息"
+        },
+        {
+          "url": "http://faculty.hust.edu.cn/wangxiaoping4/zh_CN/xsxx/1707942/list/index.htm",
+          "anchor_text": "学生信息"
+        },
+        {
+          "url": "http://faculty.hust.edu.cn/wangxiaoping4/zh_CN/img/1707943/list/index.htm",
+          "anchor_text": "我的相册"
+        },
+        {
+          "url": "http://faculty.hust.edu.cn/wangxiaoping4/zh_CN/article/1707944/list/index.htm",
+          "anchor_text": "教师博客"
+        }
+      ],
+      "misc_links": [
+        {
+          "url": "http://faculty.hust.edu.cn/wangxiaoping4/zh_CN/index.htm#",
+          "anchor_text": "更多"
+        }
+      ]
+    },
+    "professor_info": {
+      "name": "王小平",
+      "photo_url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/11/rBAGRl-ngE2AZvqpAAGlaClVkHw969.jpg?randomid=1770653255107",
+      "academic_titles": [
+        "教授",
+        "博士生导师",
+        "硕士生导师"
+      ],
+      "related_links": [
+        {
+          "url": "http://faculty.hust.edu.cn/wangxiaoping4/zh_CN/tzybd/1707929/list/index.htm",
+          "anchor_text": "同专业博导"
+        },
+        {
+          "url": "http://faculty.hust.edu.cn/wangxiaoping4/zh_CN/tzysd/1707929/list/index.htm",
+          "anchor_text": "同专业硕导"
+        }
+      ],
+      "personal_information": {
+        "gender": "女",
+        "employment_status": "在职",
+        "department": "人工智能与自动化学院",
+        "education_level": "研究生(博士)毕业",
+        "degree": "工学博士学位",
+        "alma_mater": "华中科技大学",
+        "discipline": "系统工程"
+      },
+      "contact_information": {
+        "postal_code": "430074",
+        "office_address_or_website": "团队网址：biic.aia.hust.edu.cn",
+        "email": "wangxiaoping@hust.edu.cn"
+      },
+      "personal_profile": {
+        "text": "王小平，女，湖北黄梅人，华中科技大学人工智能与自动化学院，教授，博士生导师，IEEE Senior Member，湖北省系统工程学会常务理事。1997年毕业于重庆大学工业自动化专业，获学士学位；2000年毕业于重庆大学控制理论与控制工程专业，获硕士学位；2003年毕业于华中科技大学控制科学与工程专业，获博士学位；2004年7月至2007年5月在华中科技大学电气工程博士后流动站从事博士后研究工作。研究兴趣包括忆阻系统及其应用、类脑计算...",
+        "more_link": {
+          "url": "http://faculty.hust.edu.cn/wangxiaoping4/zh_CN/more/1707929/jsjjgd/index.htm",
+          "anchor_text": "More+"
+        }
+      },
+      "education_experience": [
+        {
+          "period": "2000.9 ~ 2003.6",
+          "institution": "华中科技大学",
+          "degree": "工学博士学位",
+          "education_level": "研究生(博士)毕业"
+        },
+        {
+          "period": "1997.9 ~ 2000.6",
+          "institution": "重庆大学",
+          "degree": "工学硕士学位",
+          "education_level": "研究生(硕士)毕业"
+        },
+        {
+          "period": "1993.9 ~ 1997.6",
+          "institution": "重庆大学",
+          "degree": "工学学士学位",
+          "education_level": "本科(学士)"
+        }
+      ],
+      "work_experience": [
+        {
+          "period": "2000.7-至今",
+          "institution": "华中科技大学"
+        }
+      ],
+      "social_affiliations": "暂无内容",
+      "research_focus": [
+        {
+          "topic": "情感计算",
+          "url": "http://faculty.hust.edu.cn/wangxiaoping4/zh_CN/yjfx/1707929/content/5042.htm#yjfx"
+        },
+        {
+          "topic": "机器学习、深度学习、迁移学习等",
+          "url": "http://faculty.hust.edu.cn/wangxiaoping4/zh_CN/yjfx/1707929/content/5041.htm#yjfx"
+        },
+        {
+          "topic": "忆阻系统及其应用",
+          "url": "http://faculty.hust.edu.cn/wangxiaoping4/zh_CN/yjfx/1707929/content/5040.htm#yjfx"
+        }
+      ],
+      "research_group": "暂无内容"
+    },
+    "uncategorized": {
+      "page_info": {
+        "date": "2026年3月24日，星期二",
+        "welcome_message": "欢迎来到我的主页！"
+      },
+      "banner_image": {
+        "url": "http://faculty.hust.edu.cn/wangxiaoping4/zh_CN/index.htm",
+        "description": "Possibly a banner or logo pointing to the page itself, or a broken image reference."
+      }
+    }
+  }
+}

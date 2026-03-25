@@ -1,0 +1,194 @@
+{
+  "meta": {
+    "tutor_name_cn": "曹治国",
+    "request_url": "http://faculty.hust.edu.cn/caozhiguo1/zh_CN/index.htm",
+    "declared_source_url": "http://faculty.hust.edu.cn/caozhiguo1/zh_CN/index.htm",
+    "page_host": "faculty.hust.edu.cn",
+    "markdown_cache_path": "D:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\c681263809b639fdec8f98a2c7ad180a2f07e24f77d5e8e1148549f1da920329.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "source_url": "http://faculty.hust.edu.cn/caozhiguo1/zh_CN/index.htm",
+    "mentor_name": "曹治国",
+    "profile_picture_url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/01/rBAGRV8CDX2ARjO3AACyzyBojWo719.jpg?randomid=1770654257528",
+    "personal_info": {
+      "title": "教授",
+      "doctoral_supervisor": true,
+      "master_supervisor": true,
+      "gender": "男",
+      "employment_status": "在职",
+      "department": "人工智能与自动化学院",
+      "education_level": "研究生(博士)毕业",
+      "degree": "工学博士学位",
+      "alma_mater": "华中科技大学",
+      "discipline": "模式识别与智能系统",
+      "related_links": [
+        {
+          "anchor_text": "同专业博导",
+          "url": "http://faculty.hust.edu.cn/caozhiguo1/zh_CN/tzybd/52083/list/index.htm"
+        },
+        {
+          "anchor_text": "同专业硕导",
+          "url": "http://faculty.hust.edu.cn/caozhiguo1/zh_CN/tzysd/52083/list/index.htm"
+        }
+      ]
+    },
+    "contact_info": {
+      "zip_code": "430074",
+      "fax": "027-87543130",
+      "address": "华中科技大学主校区科技楼9楼",
+      "office_phone": "027-87558918",
+      "email": "zgcao@hust.edu.cn"
+    },
+    "biography": {
+      "text": "曹治国，现为华中科技大学人工智能与自动化学院教授、博士生导师、中国自动化学会高级会员、湖北省人工智能学会副理事长。研究方向是计算机视觉，近年来的研究兴趣包括单张图像及单目视频深度预测、图像配准与三维场景重建、神经辐射场及新视图生成、计算摄影与计算美学如焦外散景渲染、智能构图等。研究成果发表在IEEE TPAMI/TIP/TNNLS/TGRS/TMM/TCSVT/TASE/TIFS/T-Cybernetics、IJCV、Information Fusion、PR以及CVPR、ICCV、...",
+      "more_link": {
+        "anchor_text": "More+",
+        "url": "http://faculty.hust.edu.cn/caozhiguo1/zh_CN/more/52083/jsjjgd/index.htm"
+      }
+    },
+    "education_experience": [
+      {
+        "start_date": "1996.9",
+        "end_date": "2001.10",
+        "institution": "华中科技大学",
+        "degree_type": "工学博士学位",
+        "level": "研究生(博士)毕业"
+      },
+      {
+        "start_date": "1987.9",
+        "end_date": "1990.4",
+        "institution": "电子科技大学",
+        "degree_type": "工学硕士学位",
+        "level": "研究生(硕士)毕业"
+      },
+      {
+        "start_date": "1981.9",
+        "end_date": "1985.7",
+        "institution": "成都电讯工程学院",
+        "major": "电子工程",
+        "degree_type": "工学学士学位",
+        "level": "本科(学士)"
+      }
+    ],
+    "work_experience": [
+      {
+        "start_date": "1990.4",
+        "end_date": "至今",
+        "organization": "华中科技大学"
+      },
+      {
+        "start_date": "1985.7",
+        "end_date": "1987.8",
+        "organization": "武汉长江有线电厂"
+      }
+    ],
+    "social_affiliations": {
+      "content": "暂无内容"
+    },
+    "research_directions": [
+      {
+        "description": "图像理解与分析、平面图像与视频的深度信息估计与提取、运动检测与行为分析等",
+        "url": "http://faculty.hust.edu.cn/caozhiguo1/zh_CN/yjfx/52083/content/1757.htm#yjfx"
+      }
+    ],
+    "research_group": {
+      "content": "暂无内容"
+    },
+    "uncategorized": {
+      "welcome_message": "欢迎来到我的主页！"
+    },
+    "site_chrome": {
+      "language_switch": {
+        "anchor_text": "English",
+        "url": "http://faculty.hust.edu.cn/caozhiguo1/en/index.htm"
+      },
+      "university_link": {
+        "anchor_text": "华中科技大学",
+        "url": "http://www.hust.edu.cn/"
+      },
+      "university_logo": {
+        "image_url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/10/rBAGRV8CDr-AeFVmAAA7EN17sME589.png",
+        "link_url": "http://faculty.hust.edu.cn/"
+      },
+      "more_link_general": {
+        "anchor_text": "更多",
+        "url": "http://faculty.hust.edu.cn/caozhiguo1/zh_CN/index.htm#"
+      },
+      "navigation_menu": [
+        {
+          "anchor_text": "首页",
+          "url": "http://faculty.hust.edu.cn/caozhiguo1/zh_CN/index/52083/list/index.htm"
+        },
+        {
+          "anchor_text": "科学研究",
+          "url": "http://faculty.hust.edu.cn/caozhiguo1/zh_CN/zhym/52084/list/index.htm",
+          "sub_items": [
+            {
+              "anchor_text": "研究领域",
+              "url": "http://faculty.hust.edu.cn/caozhiguo1/zh_CN/yjgk/52085/list/index.htm"
+            },
+            {
+              "anchor_text": "论文成果",
+              "url": "http://faculty.hust.edu.cn/caozhiguo1/zh_CN/lwcg/52086/list/index.htm"
+            },
+            {
+              "anchor_text": "专利",
+              "url": "http://faculty.hust.edu.cn/caozhiguo1/zh_CN/zlcg/52087/list/index.htm"
+            },
+            {
+              "anchor_text": "著作成果",
+              "url": "http://faculty.hust.edu.cn/caozhiguo1/zh_CN/zzcg/52088/list/index.htm"
+            },
+            {
+              "anchor_text": "科研项目",
+              "url": "http://faculty.hust.edu.cn/caozhiguo1/zh_CN/kyxm/52089/list/index.htm"
+            }
+          ]
+        },
+        {
+          "anchor_text": "教学研究",
+          "url": "http://faculty.hust.edu.cn/caozhiguo1/zh_CN/zhym/52090/list/index.htm",
+          "sub_items": [
+            {
+              "anchor_text": "教学资源",
+              "url": "http://faculty.hust.edu.cn/caozhiguo1/zh_CN/jxzy/52091/list/index.htm"
+            },
+            {
+              "anchor_text": "授课信息",
+              "url": "http://faculty.hust.edu.cn/caozhiguo1/zh_CN/skxx/52092/list/index.htm"
+            },
+            {
+              "anchor_text": "教学成果",
+              "url": "http://faculty.hust.edu.cn/caozhiguo1/zh_CN/jxcg/52093/list/index.htm"
+            }
+          ]
+        },
+        {
+          "anchor_text": "获奖信息",
+          "url": "http://faculty.hust.edu.cn/caozhiguo1/zh_CN/hjxx/52094/list/index.htm"
+        },
+        {
+          "anchor_text": "招生信息",
+          "url": "http://faculty.hust.edu.cn/caozhiguo1/zh_CN/zsxx/52095/list/index.htm"
+        },
+        {
+          "anchor_text": "学生信息",
+          "url": "http://faculty.hust.edu.cn/caozhiguo1/zh_CN/xsxx/52096/list/index.htm"
+        },
+        {
+          "anchor_text": "我的相册",
+          "url": "http://faculty.hust.edu.cn/caozhiguo1/zh_CN/img/52097/list/index.htm"
+        },
+        {
+          "anchor_text": "教师博客",
+          "url": "http://faculty.hust.edu.cn/caozhiguo1/zh_CN/article/52098/list/index.htm"
+        }
+      ],
+      "last_updated_or_current_date": "2026年3月24日，星期二"
+    }
+  }
+}

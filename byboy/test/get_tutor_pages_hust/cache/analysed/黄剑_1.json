@@ -1,0 +1,225 @@
+{
+  "meta": {
+    "tutor_name_cn": "黄剑",
+    "request_url": "https://aia.hust.edu.cn/info/1578/10044.htm",
+    "declared_source_url": "https://aia.hust.edu.cn/info/1578/10044.htm",
+    "page_host": "aia.hust.edu.cn",
+    "markdown_cache_path": "D:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\f296d4a49e12f0c1cff4ab120c0e88c82974bc9764568188d27fb1a10eced0f8.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": "该页面包含导师详细的个人简介、研究方向、教育经历、代表性论文、科研项目及获奖等多项有效信息。"
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "target_professor": "黄剑",
+    "source_url": "https://aia.hust.edu.cn/info/1578/10044.htm",
+    "basic_info": {
+      "name": "黄剑",
+      "photo_url": "https://aia.hust.edu.cn/__local/F/AA/63/A3427693EF6B864705D4C3FB9D9_FA55907B_14E92.jpg?e=.jpg",
+      "title": "教授",
+      "supervisor_type": "博士生导师",
+      "department": "人工智能与自动化学院",
+      "institution": "华中科技大学",
+      "contact": {
+        "phone": "027-87558472",
+        "email": "huang_jan@mail.hust.edu.cn"
+      },
+      "page_metadata": {
+        "author": "黄剑",
+        "publish_time": "2025-06-29",
+        "views": "2523"
+      }
+    },
+    "research_info": {
+      "research_directions": [
+        "智能机器人",
+        "生物信息学",
+        "网络化控制",
+        "智能控制",
+        "人-机-电一体化系统"
+      ]
+    },
+    "biography": {
+      "summary": "入选国家科技创新领军人才、教育部“新世纪优秀人才支持计划”，获湖北省自然科学基金杰出青年基金项目资助。曾任日本名古屋大学客座教授、法国巴黎第十二大学访问教授和日本学术振兴会资助的JSPS Fellow。",
+      "academic_achievements": "主持国家自然科学基金重点类项目、科技部国际合作重点专项等国家级、省部级科研项目十余项。发表SCI期刊论文80余篇，SCI他引1000余次。获20件国家发明专利、1件美国发明专利和1件日本发明专利授权。担任《IEEE Transactions on Fuzzy Systems》等国际知名期刊编委。"
+    },
+    "academic_appointments": [
+      {
+        "organization": "IEEE CIS武汉支会",
+        "position": "副主席"
+      },
+      {
+        "organization": "武汉市自动化学会",
+        "position": "副理事长"
+      },
+      {
+        "organization": "中国人工智能学会智能机器人专业委员会",
+        "position": "常务委员"
+      }
+    ],
+    "education_background": [
+      {
+        "period": "1993—1997年",
+        "institution": "华中理工大学",
+        "major": "自动控制专业",
+        "degree": "学士学位"
+      },
+      {
+        "period": "1997—2000年",
+        "institution": "华中科技大学",
+        "major": "控制理论与控制工程专业",
+        "degree": "硕士学位"
+      },
+      {
+        "period": "2000—2005年",
+        "institution": "华中科技大学",
+        "major": "控制科学与工程",
+        "degree": "博士学位"
+      }
+    ],
+    "professional_experience": [
+      {
+        "period": "2006—2008年",
+        "institution": "日本名古屋大学",
+        "unit": "微纳米系统工程福田研究室",
+        "position": "博士后"
+      },
+      {
+        "period": "2008—至今",
+        "institution": "华中科技大学",
+        "unit": "自动化学院",
+        "position": "工作"
+      }
+    ],
+    "research_projects": [
+      {
+        "id": "U1913207",
+        "title": "面向偏瘫患者运动辅助的外肢体机器人基础研究",
+        "source": "国家自然科学基金联合基金重点支持项目"
+      },
+      {
+        "id": "2017YFE0128300",
+        "title": "智能行走辅助机器人关键技术合作研究",
+        "source": "国家重点研发计划政府间/港澳台重点专项项目"
+      },
+      {
+        "id": "61473130",
+        "title": "人机协同稳定约束的杖式助行机器人跌倒防护控制研究",
+        "source": "国家自然科学基金面上项目"
+      },
+      {
+        "id": "61075095",
+        "title": "复杂可变形线性物体的机器人可靠动态操作研究",
+        "source": "国家自然科学基金面上项目"
+      },
+      {
+        "id": "NCET-12-0214",
+        "title": "机器人控制",
+        "source": "教育部新世纪优秀人才支持计划项目"
+      },
+      {
+        "id": "2016AAA039",
+        "title": "智能变电站电力巡检机器人研制与开发应用",
+        "source": "湖北省技术创新专项（重大项目）"
+      },
+      {
+        "id": "2015CFA047",
+        "title": "智能助行康复机器人运动控制关键技术研究",
+        "source": "湖北省自然科学基金杰出青年基金项目"
+      }
+    ],
+    "representative_publications": [
+      "J. Huang, Z.-H. Guan, T. Matsuno, T. Fukuda and K. Sekiyama, “Sliding Mode Velocity Control of Mobile Wheeled Inverted Pendulum Systems,” IEEE Transactions on Robotics, vol.26, no. 4, pp. 750-758, Aug. 2010.",
+      "K. Wakita, J. Huang*, P. Di, K. Sekiyama and T. Fukuda, “Human-Walking-Intention-Based Motion Control of an Omnidirectional-Type Cane Robot,” IEEE/ASME Transactions on Mechatronics, vol. 18, no. 1, pp. 285-296, 2013",
+      "J. Huang, W. Huo, W. Xu, S. Mohammed, Y. Amirat, “Control of Upper-Limb Power-Assist Exoskeleton Using a Human-Robot Interface Based on Motion Intention Recognition,” IEEE Transactions on Automation Science and Engineering, vol. 12, no. 4, pp. 1257-1270, 2015",
+      "J. Huang, S. Ri, L. Liu, Y. Wang, J. Kim and G. Pak, “Nonlinear Disturbance Observer-Based Dynamic Surface Control of Mobile Wheeled Inverted Pendulum,” IEEE Transactions on Control Systems Technology, vol. 23, no. 6, pp. 2400-2407, 2015",
+      "J. Huang, M.H. Ri, D. Wu, et al., “Interval Type-2 Fuzzy Logic Modeling and Control of a Mobile Two-Wheeled Inverted Pendulum,” IEEE Transactions on Fuzzy Systems, vol. 26, no. 4, pp. 2030-2038, 2018",
+      "J. Huang, F. Ding, T. Fukuda, T. Matsuno, “Modeling and Velocity Control for a Novel Narrow Vehicle Based on Mobile Wheeled Inverted Pendulum,” IEEE Transactions on Control System Technology, vol. 21, no. 5, pp. 1607-1617, 2013",
+      "J. Huang, S. Ri, T. Fukuda, Y. Wang, “A Disturbance Observer based Sliding Mode Control for a Class of Underactuated Robotic System with Mismatched Uncertainties,” IEEE Transactions on Automatic Control, vol. 64, no. 6, pp. 2480-2487, 2019",
+      "J. Huang, X. Tu, J. He, “Design and Evaluation of the RUPERT Wearable Upper Extremity Exoskeleton Robot for Clinical and In-Home Therapies,” IEEE Transactions on Systems, Man, and Cybernetics: Systems, vol. 46, no. 7, pp. 926-935, 2016",
+      "J. Huang, M. Zhang, S. Ri, C. Xiong, Z. Li, Y. Kang, “High-Order Disturbance Observer Based Sliding Mode Control for Mobile Wheeled Inverted Pendulum Systems,” IEEE Transactions on Industrial Electronics, vol. 67, no. 3, pp. 2030-2041, 2020",
+      "J. Huang, T. Fukuda and T. Matsuno, “Model-based Intelligent Fault Detection and Diagnosis for Mating Electric Connectors in Robotic Wiring Harness Assembly Systems,” IEEE/ASME Transactions on Mechatronics, vol. 13, no. 1, pp. 86-94, 2008"
+    ],
+    "honors_and_awards": [
+      {
+        "award_name": "中国商业联合会科学技术奖特等奖",
+        "ranking": "第1",
+        "year": "2016年"
+      },
+      {
+        "award_name": "湖北省技术发明奖一等奖",
+        "ranking": "第2",
+        "year": "2019年"
+      },
+      {
+        "award_name": "湖北省自然科学奖一等奖",
+        "ranking": "第5",
+        "year": "2014年"
+      },
+      {
+        "award_name": "教育部自然科学奖一等奖",
+        "ranking": "第7",
+        "year": "2006年"
+      },
+      {
+        "award_name": "IEEE ICMA国际会议最佳论文奖",
+        "role": "通讯作者",
+        "year": "2020年"
+      },
+      {
+        "award_name": "IEEE ICARM国际会议最佳论文奖",
+        "role": "通讯作者",
+        "year": "2019年"
+      },
+      {
+        "award_name": "WCICA国际会议最佳论文奖",
+        "role": "通讯作者",
+        "year": "2018年"
+      },
+      {
+        "award_name": "ICAI 2008国际会议最佳论文奖",
+        "role": "第一作者",
+        "year": "2008年"
+      },
+      {
+        "award_name": "日内瓦国际发明展金奖",
+        "year": "2017年"
+      },
+      {
+        "award_name": "第二届中国研究生机器人创新设计大赛优秀指导教师奖",
+        "year": "2020年"
+      }
+    ],
+    "site_chrome": {
+      "navigation_menu": [
+        "首页",
+        "院系概况 (学院简介, 组织机构, 现任领导)",
+        "师资队伍 (杰出学者, 学院师资, 实验工程人员, 博士后, 荣休教师)",
+        "学生培养 (本科生教育, 研究生教育, 学生工作)",
+        "科学研究 (喻园.AIA学术论坛, 学术会议, 挂靠学会, 服务指南, 平台建设)",
+        "党群工作 (党旗领航, 廉政教育, 党史学习教育, 离退休)",
+        "国际交流 (外事流程, 教师交流, 学生交换, 经验分享)",
+        "人才招聘",
+        "校友专栏 (校友动态, 校友名录, 校友照片, 校友风采, 校友服务, 50周年院庆, 我要捐赠)",
+        "培训服务",
+        "院长信箱"
+      ],
+      "breadcrumbs": [
+        "首页",
+        "师资队伍",
+        "学院师资",
+        "按姓名拼音首字母列表",
+        "H"
+      ],
+      "footer": "版权所有：华中科技大学人工智能与自动化学院",
+      "related_links": {
+        "previous_entry": {
+          "name": "胡晓娅",
+          "url": "http://faculty.hust.edu.cn/huxiaoya/zh_CN/index.htm"
+        },
+        "english_version": "https://en-aia.hust.edu.cn/",
+        "logo_url": "https://aia.hust.edu.cn/images/logo20251211.png"
+      }
+    }
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "meta": {
+    "tutor_name_cn": "胡晓娅",
+    "request_url": "http://faculty.hust.edu.cn/huxiaoya/zh_CN/index.htm",
+    "declared_source_url": "http://faculty.hust.edu.cn/huxiaoya/zh_CN/index.htm",
+    "page_host": "faculty.hust.edu.cn",
+    "markdown_cache_path": "D:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\94e3649f70e0d09bb7d4aad5ae83e6b6161b65277863c411958c4909434a5c5d.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": "该页面包含导师胡晓娅的详细个人概况、研究方向、教育及工作背景、社会兼职和团队详细介绍等丰富信息。"
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "target_tutor": "胡晓娅",
+    "source_url": "http://faculty.hust.edu.cn/huxiaoya/zh_CN/index.htm",
+    "identity_info": {
+      "name": "胡晓娅",
+      "titles": [
+        "教授",
+        "博士生导师",
+        "硕士生导师"
+      ],
+      "gender": "女",
+      "employment_status": "在职",
+      "department": "人工智能与自动化学院",
+      "education_level": "研究生(博士)毕业",
+      "degree": "工学博士学位",
+      "alma_mater": "华中科技大学",
+      "discipline": "控制理论与控制工程",
+      "professional_affiliations_summary": "IEEE 高级会员，中国自动化学会仪表与装置专业委员会和网联智能服务系统专业委员会委员，工业互联网产业联盟《边缘计算安全白皮书》编写组成员"
+    },
+    "contact_info": {
+      "zip_code": "430074",
+      "email": "huxy@hust.edu.cn"
+    },
+    "personal_profile": {
+      "brief": "胡晓娅，博士，教授，IEEE 高级会员。2012年-2013年在美国科罗拉多州立大学访问，2019年-2020年在加拿大瑞尔森大学访问。长期从事垂直领域大模型、边缘人工智能、工业互联网及工业信息物理系统信息安全等相关研究。作为项目负责人/主要成员先...",
+      "full_profile_link": "http://faculty.hust.edu.cn/huxiaoya/zh_CN/more/1729001/jsjjgd/index.htm"
+    },
+    "honors": [
+      {
+        "year": "2017",
+        "title": "优秀班主任"
+      }
+    ],
+    "education_experience": [
+      {
+        "period": "2003.3 ~ 2006.12",
+        "institution": "华中科技大学",
+        "degree": "工学博士学位",
+        "status": "研究生(博士)毕业"
+      },
+      {
+        "period": "1999.9 ~ 2002.6",
+        "institution": "华中理工大学",
+        "degree": "工学硕士学位",
+        "status": "研究生毕业"
+      },
+      {
+        "period": "1991.9 ~ 1995.7",
+        "institution": "华中理工大学",
+        "degree": "工学学士学位",
+        "status": "本科(学士)"
+      }
+    ],
+    "work_experience": [
+      {
+        "period": "2019.9-2020.10",
+        "institution": "加拿大瑞尔森大学电子与计算机工程系",
+        "role": "访问学者"
+      },
+      {
+        "period": "2012.7-2013.8",
+        "institution": "美国科罗拉多州立大学电子科学与工程系",
+        "role": "访问学者"
+      }
+    ],
+    "social_affiliations": [
+      {
+        "period": "2009.4-至今",
+        "role": "国家自然科学基金项目评审专家，期刊评审人（包括 Computer-Aided Civil and Infrastructure Engineering、IEEE Antennas and Wireless Propagation Letters、Automation in Construction、控制与决策、东北大学学报（自然科学版）、计算机工程与科学）"
+      },
+      {
+        "period": "2013.1-至今",
+        "role": "IEEE全球通信大会（GlobeCOM）、国际车联网大会ICCVE、IEEE ICIIP、IEEE-GCC、ICITE等国际会议技术程序委员会委员"
+      },
+      {
+        "period": "2011.1-至今",
+        "role": "中国计算机学会、ACM学会会员"
+      },
+      {
+        "period": "2015.1-至今",
+        "role": "中国自动化学会仪表与装置专业委员会委员"
+      },
+      {
+        "period": "2014.9-至今",
+        "role": "IEEE senior member"
+      }
+    ],
+    "research_focus": [
+      {
+        "description": "面向技术前沿和国家重大需求，围绕工业控制系统及其基础设施的信息安全防护，系统性地研究基于人工智能和大数据的主动安全防护技术，为未来工业互联网和工业控制系统提供安全运行的解决方案。",
+        "link": "http://faculty.hust.edu.cn/huxiaoya/zh_CN/yjfx/1729001/content/6169.htm#yjfx"
+      }
+    ],
+    "team_info": {
+      "name": "工业互联网及系统安全实验室",
+      "affiliation": "“图像信息处理与智能控制”教育部重点实验室",
+      "research_areas": [
+        "工业通信技术（现场总线、工业以太网、工业无线网络、物联网及传感器网络等）",
+        "工业互联网",
+        "工业控制系统的功能安全及网络空间安全",
+        "工业人工智能",
+        "网络化控制系统及工业安全仪器研制"
+      ],
+      "achievements_summary": "近10年主持国家自然科学基金重点项目1项、面上项目5项，国家重点研发计划项目课题2项；发表论文40余篇（含IEEE Trans长文20余篇），制定国家标准10余项，授权发明专利20余项。",
+      "collaborators": [
+        "国家电网",
+        "中船重工",
+        "三一重工",
+        "航天部五院",
+        "中车集团",
+        "机械工业仪器仪表综合技术经济研究所（共同成立：工业控制系统功能安全与网络空间安全联合研究中心）"
+      ],
+      "social_service": "支撑湖北省经济和信息化厅开展龙头企业工控系统信息安全检查和风险评估",
+      "facilities": "工业控制系统和关键基础设施信息安全攻防测试验证平台，漏洞挖掘、入侵检测与风险评估装备与软件",
+      "international_exchange": "与美国、英国、加拿大、澳大利亚等多国大学开展合作，组织师生出国交流",
+      "team_culture": "坚持每周2次羽毛球/乒乓球锻炼，定期组织春秋游及不定期郊游",
+      "personnel_stats": {
+        "faculty": 3,
+        "current_phd_students": 10,
+        "current_master_students": 25,
+        "alumni_total": "近20年来培养100余人"
+      }
+    },
+    "site_navigation": {
+      "main_tabs": [
+        {
+          "name": "首页",
+          "url": "http://faculty.hust.edu.cn/huxiaoya/zh_CN/index/1729001/list/index.htm"
+        },
+        {
+          "name": "科学研究",
+          "url": "http://faculty.hust.edu.cn/huxiaoya/zh_CN/zhym/1729002/list/index.htm",
+          "sub_items": [
+            "研究领域",
+            "论文成果",
+            "专利",
+            "著作成果",
+            "科研项目"
+          ]
+        },
+        {
+          "name": "教学研究",
+          "url": "http://faculty.hust.edu.cn/huxiaoya/zh_CN/zhym/1729011/list/index.htm",
+          "sub_items": [
+            "教学资源",
+            "授课信息",
+            "教学成果"
+          ]
+        },
+        {
+          "name": "获奖信息",
+          "url": "http://faculty.hust.edu.cn/huxiaoya/zh_CN/hjxx/1729019/list/index.htm"
+        },
+        {
+          "name": "招生信息",
+          "url": "http://faculty.hust.edu.cn/huxiaoya/zh_CN/zsxx/1729021/list/index.htm"
+        },
+        {
+          "name": "学生信息",
+          "url": "http://faculty.hust.edu.cn/huxiaoya/zh_CN/xsxx/1729023/list/index.htm"
+        },
+        {
+          "name": "我的相册",
+          "url": "http://faculty.hust.edu.cn/huxiaoya/zh_CN/img/1729025/list/index.htm"
+        },
+        {
+          "name": "教师博客",
+          "url": "http://faculty.hust.edu.cn/huxiaoya/zh_CN/article/1729027/list/index.htm"
+        }
+      ],
+      "quick_links": [
+        {
+          "name": "同专业博导",
+          "url": "http://faculty.hust.edu.cn/huxiaoya/zh_CN/tzybd/1729001/list/index.htm"
+        },
+        {
+          "name": "同专业硕导",
+          "url": "http://faculty.hust.edu.cn/huxiaoya/zh_CN/tzysd/1729001/list/index.htm"
+        },
+        {
+          "name": "English Version",
+          "url": "http://faculty.hust.edu.cn/huxiaoya/en/index.htm"
+        }
+      ]
+    },
+    "site_chrome": {
+      "institution": "华中科技大学",
+      "logo_url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/10/rBAGRV8CDr-AeFVmAAA7EN17sME589.png",
+      "profile_image_url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/21/rBAGRmK0LbSAKC39AANXdVpe4K0279.png?randomid=1770670733746",
+      "page_timestamp": "2026年3月24日，星期二",
+      "welcome_message": "欢迎来到我的主页！"
+    }
+  }
+}

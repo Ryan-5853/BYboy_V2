@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "tutor_name_cn": "李远征",
+    "request_url": "http://faculty.hust.edu.cn/liyuanzheng2/zh_CN/index.htm",
+    "declared_source_url": "http://faculty.hust.edu.cn/liyuanzheng2/zh_CN/index.htm",
+    "page_host": "faculty.hust.edu.cn",
+    "markdown_cache_path": "D:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\234e2a08fe0b4a9977b8c4169144b376653e25ef30c8552438ba4b3e01ac34f8.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "professor_name_query": "李远征",
+    "source_url": "http://faculty.hust.edu.cn/liyuanzheng2/zh_CN/index.htm",
+    "professor_info": {
+      "name": "李远征",
+      "image_url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/40/rBAGRWleCVKAW5u4AACwQ2jo5Ys335.png?randomid=1770653087514",
+      "personal_details": {
+        "titles": [
+          "博士生导师",
+          "硕士生导师",
+          "教授",
+          "国家优秀青年基金获得者",
+          "IEEE高级会员"
+        ],
+        "gender": "男",
+        "employment_status": "在职",
+        "affiliated_unit": "人工智能与自动化学院",
+        "education_background_summary": {
+          "degree_type": "研究生(博士)毕业",
+          "degree_name": "工学博士学位",
+          "discipline": "系统工程"
+        }
+      },
+      "contact_information": {
+        "postal_code": "430074",
+        "email": "Yuanzheng_Li@hust.edu.cn"
+      },
+      "profile_summary": "李远征，教授，国家优秀青年基金获得者，博士生导师, IEEE高级会员。主要研究领域为人工智能赋能的智能电网与能源互联网，以第一/通讯作者在《自然》子刊Nature Reviews Electrical Engineering、国际工程领域权威刊物Proceedings of the IEEE（创刊114年），以及IEEE Transactions 等期刊发表论文40余篇，11篇论文荣获期刊特色/ESI热点/高被引论文。出版学术专著4部，主持了国家自然科学基金优青、面上、青年项目，国家重点研发子课题，湖北省重点研发计划等，参与了国基金重点，973计划等具有一定影响力的科研课题。担任IEEE Transactions和IET等5个权威国内外刊物的编委，中国控制与决策大会（CCDC)分会—人工智能赋能的智能电网与能源互联网共同主席，以第一完成人获天津市科技进步二等奖、腾讯优秀专利项目奖。",
+      "research_directions": [
+        "基于深度学习的大数据分析、优化及预测",
+        "人工智能及其在 电力和能源系统中的应用",
+        "系统风险辨识与管控",
+        "智能电网/微电网优化与运行"
+      ],
+      "selected_publications": [
+        {
+          "authors": "Y. Z. Li, Y. Z. Ding, S. Y. He, F. Hu, J. T. Duan, et al",
+          "title": "Artificial Intelligence-based Methods for Renewable Power System Operation",
+          "journal": "Nature Reviews Electrical Engineering",
+          "year": "2024",
+          "volume_issue_pages": "1: 163-179"
+        },
+        {
+          "authors": "Y. Z. Li, C. F. Yu, M. Shahidehpour, T. Yang, Z. G. Zeng, T. Y. Chai",
+          "title": "Deep Reinforcement Learning for Smart Grid Operations: Algorithms, Applications, and Prospects",
+          "journal": "Proceedings of the IEEE",
+          "year": "2023",
+          "volume_issue_pages": "111(9):1055-1096",
+          "notes": "Selected as a Feature Paper"
+        },
+        {
+          "authors": "Y. Z. Li, Y. Ding, Y. Liu, T. Yang, P. Wang, J. Wang, W. Yao",
+          "title": "Dense Skip Attention based Deep Learning for Day-Ahead Electricity Price Forecasting",
+          "journal": "IEEE Transactions on Power Systems",
+          "year": "2023",
+          "volume_issue_pages": "38(5): 4308-4327",
+          "notes": "ESI hot paper and ESI highly cited paper"
+        },
+        {
+          "authors": "X. Yang, Y. Z. Li*, Zhao Y, et al",
+          "title": "Gaussian Mixture Model Uncertainty Modeling for Power Systems Considering Mutual Assistance of Latent Variables",
+          "journal": "IEEE Transactions on Sustainable Energy",
+          "year": "2024",
+          "details": "DOI: 10.1109/TSTE.2024.3356259",
+          "notes": "Y. Z. Li is corresponding author"
+        },
+        {
+          "authors": "X. Yang, Y. Z. Li*, Zhao Y, et al",
+          "title": "Hierarchical Uncertainty Characterization of Monthly Net Load in Renewable Power Systems",
+          "journal": "IEEE Transactions on Automation Science and Engineering",
+          "year": "2024",
+          "notes": "Y. Z. Li is corresponding author"
+        }
+      ],
+      "graduate_recruitment_information": "招收全日制工学硕士(保研/考研)和工程硕士，欢迎勤奋踏实、持之以恒、有上进心的学生联系(Yuanzheng_Li@hust.edu.cn)。"
+    },
+    "empty_sections": {
+      "education_background": "暂无内容",
+      "work_experience": "暂无内容",
+      "research_focus_template_section": "暂无内容",
+      "social_affiliations": "暂无内容"
+    },
+    "site_chrome": {
+      "navigation_links": [
+        {
+          "anchor_text": "同专业博导",
+          "url": "http://faculty.hust.edu.cn/liyuanzheng2/zh_CN/tzybd/2153846/list/index.htm"
+        },
+        {
+          "anchor_text": "同专业硕导",
+          "url": "http://faculty.hust.edu.cn/liyuanzheng2/zh_CN/tzysd/2153846/list/index.htm"
+        }
+      ]
+    }
+  }
+}

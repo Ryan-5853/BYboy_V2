@@ -1,0 +1,300 @@
+{
+  "meta": {
+    "tutor_name_cn": "王博",
+    "request_url": "http://faculty.hust.edu.cn/WANGBo/zh_CN/index.htm",
+    "declared_source_url": "http://faculty.hust.edu.cn/WANGBo/zh_CN/index.htm",
+    "page_host": "faculty.hust.edu.cn",
+    "markdown_cache_path": "D:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\febf9b70a173f2cd9bdc784dbea1596aeb0423e6a41ddf298da06d0827a0d8e4.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "name": "王博",
+    "name_en": "WANG Bo",
+    "titles": [
+      "副教授",
+      "硕士生导师"
+    ],
+    "gender": "男",
+    "employment_status": "在职",
+    "affiliation": {
+      "unit": "人工智能与自动化学院",
+      "department_summary": "自动化学院系统科学与工程系"
+    },
+    "profile_picture_url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/09/rBAGRl8CDg2AW_eUAAF1lzI53bU612.jpg?randomid=1770652073957",
+    "personal_info_details": {
+      "education_level": "研究生(博士)毕业",
+      "degree": "工学博士学位",
+      "more_info_link": {
+        "url": "http://faculty.hust.edu.cn/WANGBo/zh_CN/jsxx/2129218/jsxx/jsxx.htm",
+        "anchor_text": "更多+"
+      }
+    },
+    "contact": {
+      "postal_code": "430074",
+      "email": "wb8517@hust.edu.cn"
+    },
+    "bio": {
+      "full_text": "王博，男，1985年5月出生，华中科技大学自动化本科，上海交通大学控制理论与控制工程硕士，南非比勒陀利亚大学电子工程博士。现任华中科技大学自动化学院系统科学与工程系副教授。目前隶属于人工智能与自动化学院的智能飞行器制导控制团队，以团队形式开展科研和学生培养工作。现阶段主要研究方向是智能方法驱动的最优控制与决策问题求解。应用方法包括且不限于贝叶斯推理与模糊推理，元启发搜索，深度学习和深度强化学习等。主要解决飞行器的协同任务规划、快速轨迹优化、飞行能力评估等制导控制和决策相关的问题。在该研究方向上，主持多项国家级科研项目，发表期刊论文20余篇。",
+      "birth_year": 1985,
+      "current_role_summary": "现任华中科技大学自动化学院系统科学与工程系副教授",
+      "research_team": "智能飞行器制导控制团队",
+      "current_research_focus": "智能方法驱动的最优控制与决策问题求解",
+      "applied_methods": [
+        "贝叶斯推理",
+        "模糊推理",
+        "元启发搜索",
+        "深度学习",
+        "深度强化学习"
+      ],
+      "problems_solved": [
+        "飞行器的协同任务规划",
+        "快速轨迹优化",
+        "飞行能力评估"
+      ],
+      "achievements_summary": "主持多项国家级科研项目，发表期刊论文20余篇",
+      "more_bio_link": {
+        "url": "http://faculty.hust.edu.cn/WANGBo/zh_CN/more/2129218/jsjjgd/index.htm",
+        "anchor_text": "查看更多>"
+      }
+    },
+    "education_history": [
+      {
+        "start_date": "2012.9",
+        "end_date": "2017.7",
+        "institution": "南非比勒陀利亚大学",
+        "major": "电子工程",
+        "degree_type": "研究生(博士)毕业",
+        "degree": "工学博士学位"
+      },
+      {
+        "start_date": "2007.9",
+        "end_date": "2010.6",
+        "institution": "上海交通大学",
+        "major": "控制理论与控制工程",
+        "degree_type": "研究生(硕士)毕业"
+      },
+      {
+        "start_date": "2003.9",
+        "end_date": "2007.6",
+        "institution": "华中科技大学",
+        "major": "自动化",
+        "degree_type": "本科(学士)"
+      }
+    ],
+    "education_history_more_link": {
+      "url": "http://faculty.hust.edu.cn/WANGBo/zh_CN/more/2129218/jyjlgd/index.htm",
+      "anchor_text": "查看更多"
+    },
+    "work_experience": [
+      {
+        "start_date": "2023.1",
+        "end_date": "至今",
+        "institution": "华中科技大学",
+        "department": "人工智能与自动化学院",
+        "status": "在职",
+        "position": "副教授"
+      },
+      {
+        "start_date": "2018.2",
+        "end_date": "2022.12",
+        "institution": "华中科技大学",
+        "department": "自动化学院系统科学与工程系",
+        "status": "在职",
+        "position": "讲师"
+      },
+      {
+        "start_date": "2017.2",
+        "end_date": "2017.12",
+        "institution": "比勒陀利亚大学",
+        "department": "电气电子与计算机工程系",
+        "position": "博士后研究员"
+      }
+    ],
+    "work_experience_more_link": {
+      "url": "http://faculty.hust.edu.cn/WANGBo/zh_CN/more/2129218/gzjlgd/index.htm",
+      "anchor_text": "查看更多"
+    },
+    "research_output": {
+      "publications": [
+        {
+          "title": "Online policy iteration ADP-based attitude-tracking control for hypersonic vehicles.AEROSPACE SCIENCE AND TECHNOLOGY,",
+          "link": {
+            "url": "http://faculty.hust.edu.cn/WANGBo/zh_CN/lwcg/2129221/content/98953.htm#lwcg",
+            "anchor_text": "Online policy iteration ADP-based attitude-tracking control for hypersonic vehicles.AEROSPACE SCIENCE AND TECHNOLOGY,"
+          }
+        },
+        {
+          "title": "A Competitive Swarm Optimizer-Based Technoeconomic Optimization with Appliance Scheduling in Domestic PV-Battery Hybrid Systems.COMPLEXITY,",
+          "link": {
+            "url": "http://faculty.hust.edu.cn/WANGBo/zh_CN/lwcg/2129221/content/98045.htm#lwcg",
+            "anchor_text": "A Competitive Swarm Optimizer-Based Technoeconomic Optimization with Appliance Scheduling in Domestic PV-Battery Hybrid Systems.COMPLEXITY,"
+          }
+        },
+        {
+          "title": "Optimal maintenance planning in building retrofitting with interacting energy effects.Optimal Control Applications and Methods,",
+          "link": {
+            "url": "http://faculty.hust.edu.cn/WANGBo/zh_CN/lwcg/2129221/content/96970.htm#lwcg",
+            "anchor_text": "Optimal maintenance planning in building retrofitting with interacting energy effects.Optimal Control Applications and Methods,"
+          }
+        },
+        {
+          "title": "Disturbance observer-based gain adaptation high-order sliding mode control of hypersonic vehicles.AEROSPACE SCIENCE AND TECHNOLOGY,",
+          "link": {
+            "url": "http://faculty.hust.edu.cn/WANGBo/zh_CN/lwcg/2129221/content/92409.htm#lwcg",
+            "anchor_text": "Disturbance observer-based gain adaptation high-order sliding mode control of hypersonic vehicles.AEROSPACE SCIENCE AND TECHNOLOGY,"
+          }
+        },
+        {
+          "title": "Adaptive Terminal Sliding Mode Control for Reentry Vehicle Based on Nonlinear Disturbance Observer.IEEE ACCESS,",
+          "link": {
+            "url": "http://faculty.hust.edu.cn/WANGBo/zh_CN/lwcg/2129221/content/91308.htm#lwcg",
+            "anchor_text": "Adaptive Terminal Sliding Mode Control for Reentry Vehicle Based on Nonlinear Disturbance Observer.IEEE ACCESS,"
+          }
+        }
+      ],
+      "publications_more_link": {
+        "url": "http://faculty.hust.edu.cn/WANGBo/zh_CN/lwcg/2129221/list/index.htm",
+        "anchor_text": "查看更多>"
+      },
+      "patents": "暂无内容",
+      "monographs_or_books": "暂无内容"
+    },
+    "research_directions": [
+      {
+        "name": "智能控制与飞行器制导控制",
+        "link": {
+          "url": "http://faculty.hust.edu.cn/WANGBo/zh_CN/yjfx/2129218/content/7509.htm#yjfx",
+          "anchor_text": "智能控制与飞行器制导控制"
+        }
+      }
+    ],
+    "courses_taught": [
+      "人工智能导论 (本科生)",
+      "运筹学（一） (本科生)",
+      "智... (研究生)"
+    ],
+    "social_affiliations": "暂无内容",
+    "team_members": "暂无内容",
+    "site_chrome": {
+      "language_switch": {
+        "english_link": {
+          "url": "http://faculty.hust.edu.cn/WANGBo/en/index.htm",
+          "anchor_text": "English"
+        }
+      },
+      "navigation_menu": [
+        {
+          "main_item": {
+            "url": "http://faculty.hust.edu.cn/WANGBo/zh_CN/index/2129218/list/index.htm",
+            "anchor_text": "首页"
+          }
+        },
+        {
+          "main_item": {
+            "url": "http://faculty.hust.edu.cn/WANGBo/zh_CN/zhym/2129219/list/index.htm",
+            "anchor_text": "科学研究"
+          },
+          "sub_items": [
+            {
+              "url": "http://faculty.hust.edu.cn/WANGBo/zh_CN/yjgk/2129220/list/index.htm",
+              "anchor_text": "研究领域"
+            },
+            {
+              "url": "http://faculty.hust.edu.cn/WANGBo/zh_CN/lwcg/2129221/list/index.htm",
+              "anchor_text": "论文成果"
+            },
+            {
+              "url": "http://faculty.hust.edu.cn/WANGBo/zh_CN/zlcg/2129222/list/index.htm",
+              "anchor_text": "专利"
+            },
+            {
+              "url": "http://faculty.hust.edu.cn/WANGBo/zh_CN/zzcg/2129223/list/index.htm",
+              "anchor_text": "著作成果"
+            },
+            {
+              "url": "http://faculty.hust.edu.cn/WANGBo/zh_CN/kyxm/2129224/list/index.htm",
+              "anchor_text": "科研项目"
+            }
+          ]
+        },
+        {
+          "main_item": {
+            "url": "http://faculty.hust.edu.cn/WANGBo/zh_CN/zhym/2129225/list/index.htm",
+            "anchor_text": "教学研究"
+          },
+          "sub_items": [
+            {
+              "url": "http://faculty.hust.edu.cn/WANGBo/zh_CN/jxzy/2129226/list/index.htm",
+              "anchor_text": "教学资源"
+            },
+            {
+              "url": "http://faculty.hust.edu.cn/WANGBo/zh_CN/skxx/2129227/list/index.htm",
+              "anchor_text": "授课信息"
+            },
+            {
+              "url": "http://faculty.hust.edu.cn/WANGBo/zh_CN/jxcg/2129228/list/index.htm",
+              "anchor_text": "教学成果"
+            }
+          ]
+        },
+        {
+          "main_item": {
+            "url": "http://faculty.hust.edu.cn/WANGBo/zh_CN/hjxx/2129229/list/index.htm",
+            "anchor_text": "获奖信息"
+          }
+        },
+        {
+          "main_item": {
+            "url": "http://faculty.hust.edu.cn/WANGBo/zh_CN/zsxx/2129230/list/index.htm",
+            "anchor_text": "招生信息"
+          }
+        },
+        {
+          "main_item": {
+            "url": "http://faculty.hust.edu.cn/WANGBo/zh_CN/xsxx/2129231/list/index.htm",
+            "anchor_text": "学生信息"
+          }
+        },
+        {
+          "main_item": {
+            "url": "http://faculty.hust.edu.cn/WANGBo/zh_CN/img/2129232/list/index.htm",
+            "anchor_text": "我的相册"
+          }
+        },
+        {
+          "main_item": {
+            "url": "http://faculty.hust.edu.cn/WANGBo/zh_CN/article/2129233/list/index.htm",
+            "anchor_text": "教师博客"
+          }
+        }
+      ],
+      "related_links": [
+        {
+          "url": "http://faculty.hust.edu.cn/WANGBo/zh_CN/tzysd/2129218/list/index.htm",
+          "anchor_text": "同专业硕导"
+        }
+      ],
+      "site_images": [
+        {
+          "url": "http://faculty.hust.edu.cn/WANGBo/zh_CN/index.htm",
+          "description": "Likely a placeholder or broken image link referring to the page itself."
+        },
+        {
+          "url": "http://faculty.hust.edu.cn/_ts/gkzn/images/gbbtn.png",
+          "description": "Site navigation button image"
+        },
+        {
+          "url": "http://faculty.hust.edu.cn/_ts/gkzn/images/ss.png",
+          "description": "Search icon image"
+        },
+        {
+          "url": "http://faculty.hust.edu.cn/_ts/gkzn/images/banner.png",
+          "description": "Site banner image"
+        }
+      ]
+    }
+  }
+}

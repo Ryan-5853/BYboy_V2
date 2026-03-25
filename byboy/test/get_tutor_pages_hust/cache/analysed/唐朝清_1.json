@@ -1,0 +1,197 @@
+{
+  "meta": {
+    "tutor_name_cn": "唐朝清",
+    "request_url": "http://faculty.hust.edu.cn/TANGCHAOQING/zh_CN/index.htm",
+    "declared_source_url": "http://faculty.hust.edu.cn/TANGCHAOQING/zh_CN/index.htm",
+    "page_host": "faculty.hust.edu.cn",
+    "markdown_cache_path": "D:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\04f274ab0cb33cd237814b643742ee1a038c3b01eb81945ab63677d86fd0b3cc.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "target_tutor": "唐朝清",
+    "source_url": "http://faculty.hust.edu.cn/TANGCHAOQING/zh_CN/index.htm",
+    "basic_info": {
+      "name": "唐朝清",
+      "titles": [
+        "副教授",
+        "硕士生导师"
+      ],
+      "gender": "男",
+      "employment_status": "在职",
+      "department": "人工智能与自动化学院",
+      "education_background": "研究生(博士)毕业",
+      "degree": "工学博士学位",
+      "graduated_school": "Newcastle University",
+      "discipline": "检测技术与自动化装置"
+    },
+    "contact_info": {
+      "postal_code": "430074",
+      "email": "billtang@hust.edu.cn"
+    },
+    "personal_profile": "本科阶段即发表七篇学术论文，毕业后在全额奖学金的资助下跳级到英国Newcastle University(QS世界排名120-150)攻读博士学位，期间曾到剑桥大学交流学习，三年完成博士课题后拿到剑桥大学、帝国理工和牛津大学的博后offer。牛津大学博后结束后回国到华为2012实验室工作，负责产线生产质量前沿检测技术研发。于2020.12月加入华中科技大学。现研究方向为深度学习、机器视觉和计算成像等，理论研究与实践并重，主要应用于无损检测/...",
+    "education_experience": [
+      {
+        "period": "2011.9 ~ 2015.6",
+        "institution": "西南大学",
+        "degree": "工学学士学位",
+        "type": "本科(学士)"
+      },
+      {
+        "period": "2015.9 ~ 2018.11",
+        "institution": "英国纽卡斯尔大学",
+        "degree": "工学博士学位",
+        "type": "研究生(博士)毕业",
+        "location": "UK"
+      },
+      {
+        "period": "2016.6 ~ 2016.7",
+        "institution": "剑桥大学",
+        "type": "进修或培训"
+      }
+    ],
+    "work_experience": [
+      {
+        "period": "2020.12-至今",
+        "institution": "华中科技大学",
+        "department": "人工智能与自动化学院",
+        "position": "讲师"
+      },
+      {
+        "period": "2020.7-2020.12",
+        "institution": "华为技术有限公司",
+        "department": "2012实验室",
+        "position": "高级工程师",
+        "location": "Shenzhen, China"
+      },
+      {
+        "period": "2018.11-2020.4",
+        "institution": "纽卡斯尔大学；牛津大学",
+        "position": "博士后"
+      }
+    ],
+    "social_affiliations": [
+      {
+        "period": "2021.7-至今",
+        "role": "Session co-chair, IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM2021)"
+      },
+      {
+        "period": "2019.3-至今",
+        "role": "IEEE Member"
+      },
+      {
+        "period": "2016.3-至今",
+        "role": "IEEE Transactions on (Industrial Electronics\\Industrial Informatics\\Instrumentation and Measurement\\Mechatronics\\Communications)等多个期刊审稿人"
+      }
+    ],
+    "research_focus": [
+      {
+        "name": "Non-Destructive Testing and Evaluation",
+        "url": "http://faculty.hust.edu.cn/TANGCHAOQING/zh_CN/yjfx/2354166/content/5662.htm#yjfx"
+      },
+      {
+        "name": "Computational Imaging",
+        "url": "http://faculty.hust.edu.cn/TANGCHAOQING/zh_CN/yjfx/2354166/content/5661.htm#yjfx"
+      },
+      {
+        "name": "Computer Vision",
+        "url": "http://faculty.hust.edu.cn/TANGCHAOQING/zh_CN/yjfx/2354166/content/5660.htm#yjfx"
+      },
+      {
+        "name": "Deep Learning",
+        "url": "http://faculty.hust.edu.cn/TANGCHAOQING/zh_CN/yjfx/2354166/content/5659.htm#yjfx"
+      }
+    ],
+    "site_structure": {
+      "navigation": [
+        {
+          "title": "首页",
+          "url": "http://faculty.hust.edu.cn/TANGCHAOQING/zh_CN/index/2354166/list/index.htm"
+        },
+        {
+          "title": "科学研究",
+          "url": "http://faculty.hust.edu.cn/TANGCHAOQING/zh_CN/zhym/2354167/list/index.htm",
+          "sub_items": [
+            {
+              "name": "研究领域",
+              "url": "http://faculty.hust.edu.cn/TANGCHAOQING/zh_CN/yjgk/2354168/list/index.htm"
+            },
+            {
+              "name": "论文成果",
+              "url": "http://faculty.hust.edu.cn/TANGCHAOQING/zh_CN/lwcg/2354169/list/index.htm"
+            },
+            {
+              "name": "专利",
+              "url": "http://faculty.hust.edu.cn/TANGCHAOQING/zh_CN/zlcg/2354170/list/index.htm"
+            },
+            {
+              "name": "著作成果",
+              "url": "http://faculty.hust.edu.cn/TANGCHAOQING/zh_CN/zzcg/2354171/list/index.htm"
+            },
+            {
+              "name": "科研项目",
+              "url": "http://faculty.hust.edu.cn/TANGCHAOQING/zh_CN/kyxm/2354172/list/index.htm"
+            }
+          ]
+        },
+        {
+          "title": "教学研究",
+          "url": "http://faculty.hust.edu.cn/TANGCHAOQING/zh_CN/zhym/2354173/list/index.htm",
+          "sub_items": [
+            {
+              "name": "教学资源",
+              "url": "http://faculty.hust.edu.cn/TANGCHAOQING/zh_CN/jxzy/2354174/list/index.htm"
+            },
+            {
+              "name": "授课信息",
+              "url": "http://faculty.hust.edu.cn/TANGCHAOQING/zh_CN/skxx/2354175/list/index.htm"
+            },
+            {
+              "name": "教学成果",
+              "url": "http://faculty.hust.edu.cn/TANGCHAOQING/zh_CN/jxcg/2354176/list/index.htm"
+            }
+          ]
+        },
+        {
+          "title": "获奖信息",
+          "url": "http://faculty.hust.edu.cn/TANGCHAOQING/zh_CN/hjxx/2354177/list/index.htm"
+        },
+        {
+          "title": "招生信息",
+          "url": "http://faculty.hust.edu.cn/TANGCHAOQING/zh_CN/zsxx/2354178/list/index.htm"
+        },
+        {
+          "title": "学生信息",
+          "url": "http://faculty.hust.edu.cn/TANGCHAOQING/zh_CN/xsxx/2354179/list/index.htm"
+        },
+        {
+          "title": "我的相册",
+          "url": "http://faculty.hust.edu.cn/TANGCHAOQING/zh_CN/img/2354180/list/index.htm"
+        },
+        {
+          "title": "教师博客",
+          "url": "http://faculty.hust.edu.cn/TANGCHAOQING/zh_CN/article/2354181/list/index.htm"
+        }
+      ],
+      "other_links": {
+        "english_page": "http://faculty.hust.edu.cn/TANGCHAOQING/en/index.htm",
+        "university_home": "http://www.hust.edu.cn/",
+        "same_major_supervisors": "http://faculty.hust.edu.cn/TANGCHAOQING/zh_CN/tzysd/2354166/list/index.htm"
+      }
+    },
+    "research_group": {
+      "members": "暂无内容"
+    },
+    "uncategorized": {
+      "welcome_message": "欢迎来到我的主页！",
+      "display_date": "2026年3月24日，星期二",
+      "images": [
+        "http://faculty.hust.edu.cn/TANGCHAOQING/zh_CN/index.htm",
+        "http://faculty.hust.edu.cn/_resources/group1/M00/00/10/rBAGRV8CDr-AeFVmAAA7EN17sME589.png",
+        "http://faculty.hust.edu.cn/_resources/group1/M00/00/1C/rBAGRmEgUJ-AVpjZAAM2eG8xm6E306.png?randomid=1773118308590"
+      ]
+    }
+  }
+}

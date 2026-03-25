@@ -1,0 +1,367 @@
+{
+  "meta": {
+    "tutor_name_cn": "刘振元",
+    "request_url": "http://faculty.hust.edu.cn/liuzhenyuan/zh_CN/index.htm",
+    "declared_source_url": "http://faculty.hust.edu.cn/liuzhenyuan/zh_CN/index.htm",
+    "page_host": "faculty.hust.edu.cn",
+    "markdown_cache_path": "D:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\75fe10ff2b6ba9c6571f5b761404d995116ed591529cdd8572c5677edbaced26.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "target_name": "刘振元",
+    "source_url": "http://faculty.hust.edu.cn/liuzhenyuan/zh_CN/index.htm",
+    "site_chrome": {
+      "language_switch": {
+        "language": "English",
+        "url": "http://faculty.hust.edu.cn/liuzhenyuan/en/index.htm"
+      },
+      "images": [
+        {
+          "url": "http://faculty.hust.edu.cn/_ts/gkzn/images/gbbtn.png",
+          "alt_text": ""
+        },
+        {
+          "url": "http://faculty.hust.edu.cn/_ts/gkzn/images/ss.png",
+          "alt_text": ""
+        },
+        {
+          "url": "http://faculty.hust.edu.cn/_ts/gkzn/images/banner.png",
+          "alt_text": ""
+        }
+      ],
+      "navigation_menu": [
+        {
+          "anchor_text": "首页",
+          "url": "http://faculty.hust.edu.cn/liuzhenyuan/zh_CN/index/1766320/list/index.htm"
+        },
+        {
+          "anchor_text": "科学研究",
+          "url": "http://faculty.hust.edu.cn/liuzhenyuan/zh_CN/zhym/1766322/list/index.htm",
+          "sub_items": [
+            {
+              "anchor_text": "研究领域",
+              "url": "http://faculty.hust.edu.cn/liuzhenyuan/zh_CN/yjgk/1766324/list/index.htm"
+            },
+            {
+              "anchor_text": "论文成果",
+              "url": "http://faculty.hust.edu.cn/liuzhenyuan/zh_CN/lwcg/1766326/list/index.htm"
+            },
+            {
+              "anchor_text": "专利",
+              "url": "http://faculty.hust.edu.cn/liuzhenyuan/zh_CN/zlcg/1766328/list/index.htm"
+            },
+            {
+              "anchor_text": "著作成果",
+              "url": "http://faculty.hust.edu.cn/liuzhenyuan/zh_CN/zzcg/1766330/list/index.htm"
+            },
+            {
+              "anchor_text": "科研项目",
+              "url": "http://faculty.hust.edu.cn/liuzhenyuan/zh_CN/kyxm/1766332/list/index.htm"
+            }
+          ]
+        },
+        {
+          "anchor_text": "教学研究",
+          "url": "http://faculty.hust.edu.cn/liuzhenyuan/zh_CN/zhym/1766334/list/index.htm",
+          "sub_items": [
+            {
+              "anchor_text": "教学资源",
+              "url": "http://faculty.hust.edu.cn/liuzhenyuan/zh_CN/jxzy/1766336/list/index.htm"
+            },
+            {
+              "anchor_text": "授课信息",
+              "url": "http://faculty.hust.edu.cn/liuzhenyuan/zh_CN/skxx/1766338/list/index.htm"
+            },
+            {
+              "anchor_text": "教学成果",
+              "url": "http://faculty.hust.edu.cn/liuzhenyuan/zh_CN/jxcg/1766339/list/index.htm"
+            }
+          ]
+        },
+        {
+          "anchor_text": "获奖信息",
+          "url": "http://faculty.hust.edu.cn/liuzhenyuan/zh_CN/hjxx/1766340/list/index.htm"
+        },
+        {
+          "anchor_text": "招生信息",
+          "url": "http://faculty.hust.edu.cn/liuzhenyuan/zh_CN/zsxx/1766341/list/index.htm"
+        },
+        {
+          "anchor_text": "学生信息",
+          "url": "http://faculty.hust.edu.cn/liuzhenyuan/zh_CN/xsxx/1766342/list/index.htm"
+        },
+        {
+          "anchor_text": "我的相册",
+          "url": "http://faculty.hust.edu.cn/liuzhenyuan/zh_CN/img/1766343/list/index.htm"
+        },
+        {
+          "anchor_text": "教师博客",
+          "url": "http://faculty.hust.edu.cn/liuzhenyuan/zh_CN/article/1766344/list/index.htm"
+        }
+      ]
+    },
+    "personal_profile": {
+      "name": "刘振元",
+      "photo_url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/05/rBAGRl8CDcCAAHnFAAPI2Wi0p7c562.jpg?randomid=1770678641273",
+      "titles": [
+        "教授",
+        "博士生导师",
+        "硕士生导师"
+      ],
+      "more_info_link": {
+        "anchor_text": "更多+",
+        "url": "http://faculty.hust.edu.cn/liuzhenyuan/zh_CN/jsxx/1766320/jsxx/jsxx.htm"
+      },
+      "details": [
+        {
+          "key": "性别",
+          "value": "男"
+        },
+        {
+          "key": "在职信息",
+          "value": "在职"
+        },
+        {
+          "key": "所在单位",
+          "value": "人工智能与自动化学院"
+        },
+        {
+          "key": "学历",
+          "value": "研究生(博士)毕业"
+        },
+        {
+          "key": "学位",
+          "value": "工学博士学位"
+        }
+      ]
+    },
+    "contact_info": {
+      "postcode": "430074",
+      "office_address": "南一楼西308",
+      "office_phone": "027-87559490",
+      "email": "zyliu@mail.hust.edu.cn"
+    },
+    "biography": {
+      "text": "现任华中科技大学人工智能与自动化学院智能系统与系统工程系教授、博士生导师，学院本科教育指导委员会委员，兼任中国运筹学会排序专业委员会常务理事、医疗运作管理分会会员、中国双法学会项目管理研究委员会委员、中国岩石力学与工程学会地下物流专业委员会委员、湖北省系统工程学会理事、中国人工智能学会会员、中国自动化学会会员、中国系统工程学会会员、中国物流学会会员，2016年入选武汉市“黄鹤英才计划”（创新人才）。受邀担任国家自然科学基金管理委员会管理科学部、信息科学部通讯评议专家、教育部学位论文评审专家以及AUTOMAT CONSTR、EJOR、COR、CIE、APJOR、ASOC、自动化学报、系统工程理论与实践、系统工程学报、运筹学学报、...",
+      "more_link": {
+        "anchor_text": "查看更多>",
+        "url": "http://faculty.hust.edu.cn/liuzhenyuan/zh_CN/more/1766320/jsjjgd/index.htm"
+      }
+    },
+    "education_experience": {
+      "entries": [
+        {
+          "start_date": "2000.9",
+          "end_date": "2005.12",
+          "institution": "华中科技大学",
+          "degree_info": "研究生(博士)毕业"
+        },
+        {
+          "start_date": "1995.9",
+          "end_date": "1998.6",
+          "institution": "华中理工大学",
+          "degree_info": "研究生(硕士)毕业"
+        },
+        {
+          "start_date": "1991.9",
+          "end_date": "1995.7",
+          "institution": "大连理工大学",
+          "major": "自动控制",
+          "degree_info": "本科(学士)"
+        }
+      ],
+      "more_link": {
+        "anchor_text": "查看更多",
+        "url": "http://faculty.hust.edu.cn/liuzhenyuan/zh_CN/more/1766320/jyjlgd/index.htm"
+      }
+    },
+    "work_experience": {
+      "entries": [
+        {
+          "start_date": "2021.11",
+          "end_date": "至今",
+          "institution": "华中科技大学",
+          "department": "人工智能与自动化学院",
+          "position": "教授"
+        },
+        {
+          "start_date": "2007.8",
+          "end_date": "2008.8",
+          "institution": "美国University of Wisconsin-Madison",
+          "department": "Department of Industrial & Systems Engineering （Prof. Leyuan Shi的团队）",
+          "position": "访问学者"
+        },
+        {
+          "start_date": "2013.3",
+          "end_date": "2021.10",
+          "institution": "华中科技大学",
+          "department": "自动化学院/人工智能与自动化学院，系统科学与工程系",
+          "position": "副教授"
+        }
+      ],
+      "more_link": {
+        "anchor_text": "查看更多",
+        "url": "http://faculty.hust.edu.cn/liuzhenyuan/zh_CN/more/1766320/gzjlgd/index.htm"
+      }
+    },
+    "publications_and_works": {
+      "papers": {
+        "entries": [
+          {
+            "authors": "刘振元,王承涛.许明阳.",
+            "title": "基于数据增强和字词融合特征的实体槽位识别.",
+            "journal": "华中科技大学学报（自然科学版）",
+            "year": "2022",
+            "volume_issue_pages": "(11):101-106",
+            "url": "http://faculty.hust.edu.cn/liuzhenyuan/zh_CN/lwcg/1766326/content/105981.htm#lwcg"
+          },
+          {
+            "authors": "Zhengming Hua,Lijing Yang,Liu Yang.Zhenyuan Liu.",
+            "title": "Improved genetic algorithm based on time windows decomposition for solving resource-constrained project scheduling problem.",
+            "journal": "Automation in Construction",
+            "year": "2022",
+            "volume_issue_pages": "104503",
+            "url": "http://faculty.hust.edu.cn/liuzhenyuan/zh_CN/lwcg/1766326/content/105985.htm#lwcg"
+          },
+          {
+            "authors": "Yuan Tian,Tifan Xiong,Yi Mei,Li Wan.Zhenyuan Liu.",
+            "title": "Multi-Objective multi-skill resource-constrained project scheduling problem with skill switches: Model and evolutionary approaches.",
+            "journal": "Computers & Industrial Engineering",
+            "year": "2022",
+            "volume_issue_pages": "107897",
+            "url": "http://faculty.hust.edu.cn/liuzhenyuan/zh_CN/lwcg/1766326/content/105984.htm#lwcg"
+          },
+          {
+            "authors": "Zhengming Hua,Liu Yang,Raoyi Deng.Zhenyuan Liu.",
+            "title": "Search Space Decomposition for Resource-Constrained Project Scheduling.",
+            "journal": "Automation in Construction",
+            "year": "2022",
+            "volume_issue_pages": "104040",
+            "url": "http://faculty.hust.edu.cn/liuzhenyuan/zh_CN/lwcg/1766326/content/105983.htm#lwcg"
+          },
+          {
+            "authors": "许明阳,王承涛.刘振元.",
+            "title": "基于多任务学习的 IT 运维服务需求语义解析.",
+            "journal": "计算机集成制造系统",
+            "year": "2022",
+            "volume_issue_pages": "(https://kns.cnki.net/kcms/detail/ 11.5946.tp.20220):",
+            "url": "http://faculty.hust.edu.cn/liuzhenyuan/zh_CN/lwcg/1766326/content/105980.htm#lwcg"
+          },
+          {
+            "authors": "刘振元,袁慧涛.",
+            "title": "多技能资源时间窗约束下可中断项目调度的分支定界算法.",
+            "journal": "系统工程理论与实践",
+            "year": "2019",
+            "volume_issue_pages": "(1):183-199",
+            "url": "http://faculty.hust.edu.cn/liuzhenyuan/zh_CN/lwcg/1766326/content/105982.htm#lwcg"
+          }
+        ],
+        "more_link": {
+          "anchor_text": "查看更多>",
+          "url": "http://faculty.hust.edu.cn/liuzhenyuan/zh_CN/lwcg/1766326/list/index.htm"
+        }
+      },
+      "patents": {
+        "entries": [
+          {
+            "inventors": "刘振元,赵俊波,周紫诺,姜兆勤,王注,谢勇.",
+            "title": "一种基于时空规则的车间生产与天车协同调度方法及装置.",
+            "patent_number": "CN 113205277 B,",
+            "url": "http://faculty.hust.edu.cn/liuzhenyuan/zh_CN/zlcg/1766328/content/87405.htm#zlcg"
+          },
+          {
+            "inventors": "姜兆勤,周紫诺.刘振元.",
+            "title": "一种厢式货车多批次货物装载方法及应用.",
+            "patent_type": "发明",
+            "patent_number": "CN 114275561 B,",
+            "url": "http://faculty.hust.edu.cn/liuzhenyuan/zh_CN/zlcg/1766328/content/87404.htm#zlcg"
+          }
+        ],
+        "more_link": {
+          "anchor_text": "查看更多>",
+          "url": "http://faculty.hust.edu.cn/liuzhenyuan/zh_CN/zlcg/1766328/list/index.htm"
+        }
+      },
+      "books_and_works": {
+        "entries": [
+          {
+            "title": "数据驱动的水电工程物资供应链风险控制与决策",
+            "url": "http://faculty.hust.edu.cn/liuzhenyuan/zh_CN/zzcg/1766330/content/6906.htm#zzcg"
+          },
+          {
+            "title": "服务系统中的多技能人员调度",
+            "url": "http://faculty.hust.edu.cn/liuzhenyuan/zh_CN/zzcg/1766330/content/6905.htm#zzcg"
+          },
+          {
+            "title": "工程供应链管理与物流调度",
+            "url": "http://faculty.hust.edu.cn/liuzhenyuan/zh_CN/zzcg/1766330/content/1205.htm#zzcg"
+          },
+          {
+            "title": "水电开发工程物资供应链管理理论与实践——以雅砻江流域梯级水电开发工程为例",
+            "url": "http://faculty.hust.edu.cn/liuzhenyuan/zh_CN/zzcg/1766330/content/1204.htm#zzcg"
+          },
+          {
+            "title": "建模与仿真（参编第4、8章）",
+            "url": "http://faculty.hust.edu.cn/liuzhenyuan/zh_CN/zzcg/1766330/content/1203.htm#zzcg"
+          }
+        ],
+        "more_link": {
+          "anchor_text": "查看更多>",
+          "url": "http://faculty.hust.edu.cn/liuzhenyuan/zh_CN/zzcg/1766330/list/index.htm"
+        }
+      }
+    },
+    "social_affiliations": {
+      "entries": [
+        {
+          "start_date": "2021.12",
+          "end_date": "至今",
+          "role": "中国运筹学会排序专业委员会常务理事"
+        },
+        {
+          "start_date": "2013.10",
+          "end_date": "至今",
+          "role": "湖北省系统工程学会理事"
+        },
+        {
+          "start_date": "2022.12",
+          "end_date": "至今",
+          "role": "中国岩石力学与工程学会地下物流专业委员会委员"
+        }
+      ],
+      "more_link": {
+        "anchor_text": "查看更多",
+        "url": "http://faculty.hust.edu.cn/liuzhenyuan/zh_CN/more/1766320/shjzgd/index.htm"
+      }
+    },
+    "research_directions": [
+      {
+        "direction": "生产运作分析与服务智能",
+        "url": "http://faculty.hust.edu.cn/liuzhenyuan/zh_CN/yjfx/1766320/content/7361.htm#yjfx"
+      },
+      {
+        "direction": "企业数智化转型",
+        "url": "http://faculty.hust.edu.cn/liuzhenyuan/zh_CN/yjfx/1766320/content/8299.htm#yjfx"
+      }
+    ],
+    "team_info": {
+      "more_team_members_link": {
+        "anchor_text": "查看更多",
+        "url": "http://faculty.hust.edu.cn/liuzhenyuan/zh_CN/more/1766320/tdgd/index.htm"
+      },
+      "related_supervisor_links": [
+        {
+          "anchor_text": "同专业博导",
+          "url": "http://faculty.hust.edu.cn/liuzhenyuan/zh_CN/tzybd/1766320/list/index.htm"
+        },
+        {
+          "anchor_text": "同专业硕导",
+          "url": "http://faculty.hust.edu.cn/liuzhenyuan/zh_CN/tzysd/1766320/list/index.htm"
+        }
+      ]
+    }
+  }
+}

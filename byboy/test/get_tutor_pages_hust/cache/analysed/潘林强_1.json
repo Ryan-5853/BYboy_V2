@@ -1,0 +1,271 @@
+{
+  "meta": {
+    "tutor_name_cn": "潘林强",
+    "request_url": "http://faculty.hust.edu.cn/panlinqiang/zh_CN/index.htm",
+    "declared_source_url": "http://faculty.hust.edu.cn/panlinqiang/zh_CN/index.htm",
+    "page_host": "faculty.hust.edu.cn",
+    "markdown_cache_path": "D:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\42de2971b1cc9a8da2228ab8cdfc5c95402d78d35cd9a2098b248b0513e6f812.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "target_name": "潘林强",
+    "site_chrome": {
+      "source_url": "http://faculty.hust.edu.cn/panlinqiang/zh_CN/index.htm",
+      "language_toggle": {
+        "text": "English",
+        "url": "http://faculty.hust.edu.cn/panlinqiang/en/index.htm"
+      },
+      "university_links": [
+        {
+          "anchor_text": "华中科技大学",
+          "url": "http://www.hust.edu.cn/"
+        },
+        {
+          "anchor_text": "",
+          "image_url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/10/rBAGRV8CDr-AeFVmAAA7EN17sME589.png",
+          "url": "http://faculty.hust.edu.cn/"
+        }
+      ],
+      "more_link": {
+        "text": "更多",
+        "url": "http://faculty.hust.edu.cn/panlinqiang/zh_CN/index.htm#"
+      },
+      "page_generation_info": {
+        "date": "2026年3月24日",
+        "day_of_week": "星期二",
+        "welcome_message": "欢迎来到我的主页！"
+      }
+    },
+    "navigation": {
+      "main_sections": [
+        {
+          "name": "首页",
+          "url": "http://faculty.hust.edu.cn/panlinqiang/zh_CN/index/1653235/list/index.htm"
+        },
+        {
+          "name": "科学研究",
+          "url": "http://faculty.hust.edu.cn/panlinqiang/zh_CN/zhym/1653237/list/index.htm",
+          "sub_sections": [
+            {
+              "name": "研究领域",
+              "url": "http://faculty.hust.edu.cn/panlinqiang/zh_CN/yjgk/1653239/list/index.htm"
+            },
+            {
+              "name": "论文成果",
+              "url": "http://faculty.hust.edu.cn/panlinqiang/zh_CN/lwcg/1653241/list/index.htm"
+            },
+            {
+              "name": "专利",
+              "url": "http://faculty.hust.edu.cn/panlinqiang/zh_CN/zlcg/1653243/list/index.htm"
+            },
+            {
+              "name": "著作成果",
+              "url": "http://faculty.hust.edu.cn/panlinqiang/zh_CN/zzcg/1653245/list/index.htm"
+            },
+            {
+              "name": "科研项目",
+              "url": "http://faculty.hust.edu.cn/panlinqiang/zh_CN/kyxm/1653247/list/index.htm"
+            }
+          ]
+        },
+        {
+          "name": "教学研究",
+          "url": "http://faculty.hust.edu.cn/panlinqiang/zh_CN/zhym/1653248/list/index.htm",
+          "sub_sections": [
+            {
+              "name": "教学资源",
+              "url": "http://faculty.hust.edu.cn/panlinqiang/zh_CN/jxzy/1653249/list/index.htm"
+            },
+            {
+              "name": "授课信息",
+              "url": "http://faculty.hust.edu.cn/panlinqiang/zh_CN/skxx/1653250/list/index.htm"
+            },
+            {
+              "name": "教学成果",
+              "url": "http://faculty.hust.edu.cn/panlinqiang/zh_CN/jxcg/1653251/list/index.htm"
+            }
+          ]
+        },
+        {
+          "name": "获奖信息",
+          "url": "http://faculty.hust.edu.cn/panlinqiang/zh_CN/hjxx/1653252/list/index.htm"
+        },
+        {
+          "name": "招生信息",
+          "url": "http://faculty.hust.edu.cn/panlinqiang/zh_CN/zsxx/1653253/list/index.htm"
+        },
+        {
+          "name": "学生信息",
+          "url": "http://faculty.hust.edu.cn/panlinqiang/zh_CN/xsxx/1653254/list/index.htm"
+        },
+        {
+          "name": "我的相册",
+          "url": "http://faculty.hust.edu.cn/panlinqiang/zh_CN/img/1653255/list/index.htm"
+        },
+        {
+          "name": "教师博客",
+          "url": "http://faculty.hust.edu.cn/panlinqiang/zh_CN/article/1653256/list/index.htm"
+        }
+      ]
+    },
+    "profile_picture_url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/13/rBAGRV-ngU-AKYFfAAIs07xBSc8746.jpg?randomid=1770679023731",
+    "name": "潘林强",
+    "related_roles_links": [
+      {
+        "text": "同专业博导",
+        "url": "http://faculty.hust.edu.cn/panlinqiang/zh_CN/tzybd/1653235/list/index.htm"
+      },
+      {
+        "text": "同专业硕导",
+        "url": "http://faculty.hust.edu.cn/panlinqiang/zh_CN/tzysd/1653235/list/index.htm"
+      }
+    ],
+    "personal_information": {
+      "section_title": "个人信息",
+      "section_title_en": "Personal information",
+      "titles": [
+        "教授",
+        "博士生导师",
+        "硕士生导师"
+      ],
+      "gender": "男",
+      "employment_status": "在职",
+      "affiliation": "人工智能与自动化学院",
+      "highest_degree_category": "研究生(博士)毕业",
+      "highest_degree_name": "理学博士学位",
+      "highest_degree_university": "南京大学",
+      "discipline": "模式识别与智能系统",
+      "awards": [
+        {
+          "year": "2019",
+          "name": "湖北省自然科学一等奖",
+          "role": "第一完成人"
+        },
+        {
+          "year": "2014",
+          "name": "教育部自然科学一等奖",
+          "role": "第一完成人"
+        },
+        {
+          "year": "2007",
+          "name": "湖北省自然科学一等奖",
+          "role": "第二完成人"
+        }
+      ]
+    },
+    "contact_information": {
+      "section_title": "其他联系方式",
+      "section_title_en": "Other contact",
+      "postcode": "430074",
+      "address": "武汉市珞喻路1037号，华中科技大学南一楼",
+      "office_phone": "027-87556070",
+      "email": "lqpan@mail.hust.edu.cn"
+    },
+    "biography": {
+      "section_title": "个人简介",
+      "section_title_en": "Personal profile",
+      "text": "潘林强，2000年毕业于南京大学，获理学博士学位；2000年至2002年在华中科技大学控制理论与工程博士后流动站从事博士后研究，出站后留校任教；2002年晋升为副教授，2004年晋升为教授，同年被评为博士生导师。2020年入选国家百千万人才工程，2021年入选国家万人计划科技创新领军人才。现为华中科技大学自动化学院副院长、华中学者特聘教授，兼任湖北省运筹学学会理事长。 主要从事生物计算及其相关的纳米技术和人工智能研究和教学...",
+      "full_bio_link": {
+        "text": "More+",
+        "url": "http://faculty.hust.edu.cn/panlinqiang/zh_CN/more/1653235/jsjjgd/index.htm"
+      }
+    },
+    "education_experience": {
+      "section_title": "教育经历",
+      "section_title_en": "Education experience",
+      "entries": [
+        {
+          "time_period": "1997.9 ~ 2000.6",
+          "university": "南京大学",
+          "degree_name": "理学博士学位",
+          "degree_type": "研究生(博士)毕业"
+        },
+        {
+          "time_period": "1994.9 ~ 1997.6",
+          "university": "南京大学",
+          "degree_name": "理学硕士学位",
+          "degree_type": "研究生(硕士)毕业"
+        },
+        {
+          "time_period": "1990.9 ~ 1994.7",
+          "university": "浙江师范大学",
+          "degree_name": "理学学士学位",
+          "degree_type": "本科(学士)"
+        }
+      ]
+    },
+    "work_experience": {
+      "section_title": "工作经历",
+      "section_title_en": "Work experience",
+      "entries": [
+        {
+          "time_period": "2018.5-至今",
+          "institution": "华中科技大学",
+          "department": "人工智能与自动化学院",
+          "position": "副院长"
+        },
+        {
+          "time_period": "2004.12-至今",
+          "institution": "华中科技大学",
+          "department": "人工智能与自动化学院",
+          "position": "教授"
+        },
+        {
+          "time_period": "2002.7-2004.11",
+          "institution": "华中科技大学",
+          "department": "控制科学与工程系",
+          "position": "副教授"
+        },
+        {
+          "time_period": "2000.9-2002.7",
+          "institution": "华中科技大学",
+          "department": "控制科学与工程系",
+          "position": "博士后"
+        }
+      ]
+    },
+    "social_affiliations": {
+      "section_title": "社会兼职",
+      "section_title_en": "Social affiliations",
+      "entries": [
+        {
+          "time_period": "2014.8-至今",
+          "role": "理事长",
+          "organization": "湖北省运筹学学会"
+        },
+        {
+          "time_period": "2019.1-至今",
+          "role": "主编",
+          "organization": "Journal of Membrane Computing杂志"
+        }
+      ]
+    },
+    "research_directions": {
+      "section_title": "研究方向",
+      "section_title_en": "Research focus",
+      "entries": [
+        {
+          "name": "生物计算",
+          "url": "http://faculty.hust.edu.cn/panlinqiang/zh_CN/yjfx/1653235/content/5036.htm#yjfx"
+        },
+        {
+          "name": "DNA纳米技术",
+          "url": "http://faculty.hust.edu.cn/panlinqiang/zh_CN/yjfx/1653235/content/5037.htm#yjfx"
+        },
+        {
+          "name": "人工智能",
+          "url": "http://faculty.hust.edu.cn/panlinqiang/zh_CN/yjfx/1653235/content/5038.htm#yjfx"
+        }
+      ]
+    },
+    "research_group": {
+      "section_title": "团队成员",
+      "section_title_en": "Research group",
+      "members": null,
+      "status_text": "暂无内容"
+    }
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "meta": {
+    "tutor_name_cn": "陆昊",
+    "request_url": "http://faculty.hust.edu.cn/hlu/zh_CN/index.htm",
+    "declared_source_url": "http://faculty.hust.edu.cn/hlu/zh_CN/index.htm",
+    "page_host": "faculty.hust.edu.cn",
+    "markdown_cache_path": "D:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\684c1437636ad3d08ce4368fb04b8b3861ab18576dec187442b10804c43a2686.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "target_person_name": "陆昊",
+    "source_url": "http://faculty.hust.edu.cn/hlu/zh_CN/index.htm",
+    "site_chrome": {
+      "source_metadata": "抓取来源：http://faculty.hust.edu.cn/hlu/zh_CN/index.htm",
+      "header_elements": [
+        {
+          "type": "image",
+          "url": "http://faculty.hust.edu.cn/hlu/zh_CN/index.htm",
+          "alt_text": ""
+        },
+        {
+          "type": "link",
+          "text": "English",
+          "url": "http://faculty.hust.edu.cn/LUHAO/en/index.htm"
+        },
+        {
+          "type": "image",
+          "url": "http://faculty.hust.edu.cn/_ts/gkzn/images/gbbtn.png",
+          "alt_text": ""
+        },
+        {
+          "type": "image",
+          "url": "http://faculty.hust.edu.cn/_ts/gkzn/images/ss.png",
+          "alt_text": ""
+        }
+      ],
+      "navigation_menu": [
+        {
+          "text": "首页",
+          "url": "http://faculty.hust.edu.cn/hlu/zh_CN/index/2348866/list/index.htm"
+        },
+        {
+          "text": "科学研究",
+          "url": "http://faculty.hust.edu.cn/hlu/zh_CN/zhym/2348867/list/index.htm",
+          "sub_items": [
+            {
+              "text": "研究领域",
+              "url": "http://faculty.hust.edu.cn/hlu/zh_CN/yjgk/2348868/list/index.htm"
+            },
+            {
+              "text": "论文成果",
+              "url": "http://faculty.hust.edu.cn/hlu/zh_CN/lwcg/2348869/list/index.htm"
+            },
+            {
+              "text": "专利",
+              "url": "http://faculty.hust.edu.cn/hlu/zh_CN/zlcg/2348870/list/index.htm"
+            },
+            {
+              "text": "著作成果",
+              "url": "http://faculty.hust.edu.cn/hlu/zh_CN/zzcg/2348871/list/index.htm"
+            },
+            {
+              "text": "科研项目",
+              "url": "http://faculty.hust.edu.cn/hlu/zh_CN/kyxm/2348872/list/index.htm"
+            }
+          ]
+        },
+        {
+          "text": "教学研究",
+          "url": "http://faculty.hust.edu.cn/hlu/zh_CN/zhym/2348873/list/index.htm",
+          "sub_items": [
+            {
+              "text": "教学资源",
+              "url": "http://faculty.hust.edu.cn/hlu/zh_CN/jxzy/2348874/list/index.htm"
+            },
+            {
+              "text": "授课信息",
+              "url": "http://faculty.hust.edu.cn/hlu/zh_CN/skxx/2348875/list/index.htm"
+            },
+            {
+              "text": "教学成果",
+              "url": "http://faculty.hust.edu.cn/hlu/zh_CN/jxcg/2348876/list/index.htm"
+            }
+          ]
+        },
+        {
+          "text": "获奖信息",
+          "url": "http://faculty.hust.edu.cn/hlu/zh_CN/hjxx/2348877/list/index.htm"
+        },
+        {
+          "text": "招生信息",
+          "url": "http://faculty.hust.edu.cn/hlu/zh_CN/zsxx/2348878/list/index.htm"
+        },
+        {
+          "text": "学生信息",
+          "url": "http://faculty.hust.edu.cn/hlu/zh_CN/xsxx/2348879/list/index.htm"
+        },
+        {
+          "text": "我的相册",
+          "url": "http://faculty.hust.edu.cn/hlu/zh_CN/img/2348880/list/index.htm"
+        },
+        {
+          "text": "教师博客",
+          "url": "http://faculty.hust.edu.cn/hlu/zh_CN/article/2348881/list/index.htm"
+        }
+      ],
+      "banner_image": {
+        "url": "http://faculty.hust.edu.cn/_ts/gkzn/images/banner.png",
+        "alt_text": ""
+      }
+    },
+    "profile_picture": {
+      "url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/14/rBAGRl_Fm_mAIwTQAAF0r4-heLs573.png?randomid=1769839573770",
+      "alt_text": "陆昊 portrait"
+    },
+    "basic_info": {
+      "name": "陆昊",
+      "titles": [
+        "副教授",
+        "博士生导师",
+        "硕士生导师"
+      ],
+      "gender": "男",
+      "employment_status": "在职",
+      "affiliation": "多谱信息智能处理技术全国重点实验室",
+      "education_level": "研究生(博士)毕业",
+      "degree": "工学博士学位",
+      "more_personal_info_link": {
+        "text": "更多+",
+        "url": "http://faculty.hust.edu.cn/hlu/zh_CN/jsxx/2348866/jsxx/jsxx.htm"
+      }
+    },
+    "contact_info": {
+      "postcode": "430074",
+      "office_address": "逸夫科技楼914",
+      "email": "hlu@hust.edu.cn"
+    },
+    "biography": {
+      "text_summary": "陆昊，副教授，博导，华中卓越青年学者，武汉英才，楚天学子，研究方向为计算机视觉与植物表型视觉。其在视觉和表型领域有十余年研究经历，在视觉领域的顶刊顶会包括TPAMI、IJCV、CVPR、ICCV、ECCV、NeurIPS、AAAI、ACM MM等发表论文30余篇，在Plant Phenomics、Comput Electron Agric、ISPRS J Photogramm Remote Sens, IEEE Trans Geosci Remote Sens等植物表型和农业遥感领域国际权威期刊发表论文20余篇，4篇论文入选ESI高被引。谷歌学术引用5500余次，H指数40。其是Plant Phenomics期刊编委（AE）、Frontiers in Plant Science期刊客座编委，是AAAI高级程序委员（SPC）、VALSE执行领域主席（EAC）、PRCV 2023领域主席（AC），CSIG视觉大数...",
+      "full_biography_link": {
+        "text": "查看更多>",
+        "url": "http://faculty.hust.edu.cn/hlu/zh_CN/more/2348866/jsjjgd/index.htm"
+      }
+    },
+    "education_experience": {
+      "items": [
+        {
+          "period": "2016.8~2017.9",
+          "institution": "澳大利亚阿德莱德大学",
+          "degree_or_activity": "进修或培训"
+        },
+        {
+          "period": "2013.9~2018.6",
+          "institution": "华中科技大学",
+          "degree_or_activity": "研究生(博士)毕业"
+        },
+        {
+          "period": "2009.9~2013.6",
+          "institution": "中国地质大学(武汉)",
+          "degree_or_activity": "本科(学士)"
+        }
+      ],
+      "full_education_link": {
+        "text": "查看更多",
+        "url": "http://faculty.hust.edu.cn/hlu/zh_CN/more/2348866/jyjlgd/index.htm"
+      }
+    },
+    "work_experience": [
+      {
+        "period": "2020.11~至今",
+        "institution": "华中科技大学",
+        "department": "人工智能与自动化学院",
+        "position": "副教授"
+      },
+      {
+        "period": "2018.9~2020.8",
+        "institution": "阿德莱德大学",
+        "department": "澳大利亚机器学习研究所",
+        "position": "博士后"
+      }
+    ],
+    "research_directions": [
+      {
+        "name": "稠密预测",
+        "url": "http://faculty.hust.edu.cn/hlu/zh_CN/yjfx/2348866/content/5544.htm#yjfx"
+      },
+      {
+        "name": "图像抠图",
+        "url": "http://faculty.hust.edu.cn/hlu/zh_CN/yjfx/2348866/content/6478.htm#yjfx"
+      },
+      {
+        "name": "目标计数",
+        "url": "http://faculty.hust.edu.cn/hlu/zh_CN/yjfx/2348866/content/5543.htm#yjfx"
+      },
+      {
+        "name": "语义分割",
+        "url": "http://faculty.hust.edu.cn/hlu/zh_CN/yjfx/2348866/content/6479.htm#yjfx"
+      }
+    ],
+    "publications": {
+      "detail_page_status": "暂无内容",
+      "summary_from_biography": {
+        "research_experience_years": "十余年",
+        "visual_field_top_venues_papers_count": "30余篇",
+        "visual_field_top_venues_list": [
+          "TPAMI",
+          "IJCV",
+          "CVPR",
+          "ICCV",
+          "ECCV",
+          "NeurIPS",
+          "AAAI",
+          "ACM MM"
+        ],
+        "plant_phenomics_agricultural_remote_sensing_papers_count": "20余篇",
+        "plant_phenomics_agricultural_remote_sensing_venues_list": [
+          "Plant Phenomics",
+          "Comput Electron Agric",
+          "ISPRS J Photogramm Remote Sens",
+          "IEEE Trans Geosci Remote Sens"
+        ],
+        "esi_highly_cited_papers_count": "4篇",
+        "google_scholar_citations": "5500余次",
+        "h_index": 40
+      }
+    },
+    "patents": {
+      "detail_page_status": "暂无内容"
+    },
+    "books": {
+      "detail_page_status": "暂无内容"
+    },
+    "social_appointments": {
+      "detail_page_status": "暂无内容",
+      "roles_from_biography": [
+        {
+          "role": "期刊编委（AE）",
+          "organization": "Plant Phenomics"
+        },
+        {
+          "role": "客座编委",
+          "organization": "Frontiers in Plant Science"
+        },
+        {
+          "role": "高级程序委员（SPC）",
+          "organization": "AAAI"
+        },
+        {
+          "role": "执行领域主席（EAC）",
+          "organization": "VALSE"
+        },
+        {
+          "role": "领域主席（AC）",
+          "organization": "PRCV 2023"
+        },
+        {
+          "role": "CSIG视觉大数...",
+          "organization": null
+        }
+      ]
+    },
+    "honors_awards_from_biography": [
+      "华中卓越青年学者",
+      "武汉英才",
+      "楚天学子"
+    ],
+    "team_members": {
+      "more_info_link": {
+        "text": "查看更多",
+        "url": "http://faculty.hust.edu.cn/hlu/zh_CN/more/2348866/tdgd/index.htm"
+      }
+    },
+    "related_persons": []
+  }
+}

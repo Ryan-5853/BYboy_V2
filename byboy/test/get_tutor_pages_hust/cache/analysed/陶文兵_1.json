@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "tutor_name_cn": "陶文兵",
+    "request_url": "http://faculty.hust.edu.cn/taowenbing/zh_CN/index/1485744/list/index.htm",
+    "declared_source_url": "http://faculty.hust.edu.cn/taowenbing/zh_CN/index/1485744/list/index.htm",
+    "page_host": "faculty.hust.edu.cn",
+    "markdown_cache_path": "D:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\0081a4ea6eea3ed9ebf5e383fa87233ba635cb80a23872920a667bd6d392d8bd.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "professor_name": "陶文兵",
+    "source_url": "http://faculty.hust.edu.cn/taowenbing/zh_CN/index/1485744/list/index.htm",
+    "site_chrome": {
+      "crawling_source": "http://faculty.hust.edu.cn/taowenbing/zh_CN/index/1485744/list/index.htm",
+      "language_switcher": {
+        "text": "English",
+        "url": "http://faculty.hust.edu.cn/taowenbing/en/index.htm"
+      },
+      "university_link": {
+        "anchor_text": "华中科技大学",
+        "url": "http://www.hust.edu.cn/"
+      },
+      "hust_logo": {
+        "image_url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/10/rBAGRV8CDr-AeFVmAAA7EN17sME589.png",
+        "link_url": "http://faculty.hust.edu.cn/"
+      },
+      "more_link": {
+        "anchor_text": "更多",
+        "url": "http://faculty.hust.edu.cn/taowenbing/zh_CN/index/1485744/list/index.htm#"
+      },
+      "main_navigation": [
+        {
+          "anchor_text": "首页",
+          "url": "http://faculty.hust.edu.cn/taowenbing/zh_CN/index/1485744/list/index.htm"
+        },
+        {
+          "anchor_text": "研究方向",
+          "url": "http://faculty.hust.edu.cn/taowenbing/zh_CN/zhym/2289668/list/index.htm"
+        },
+        {
+          "anchor_text": "学术论文",
+          "url": "http://faculty.hust.edu.cn/taowenbing/zh_CN/lwcg/2289670/list/index.htm"
+        },
+        {
+          "anchor_text": "专利成果",
+          "url": "http://faculty.hust.edu.cn/taowenbing/zh_CN/zlcg/2289671/list/index.htm"
+        },
+        {
+          "anchor_text": "指导学生",
+          "url": "http://faculty.hust.edu.cn/taowenbing/zh_CN/hjxx/1485764/list/index.htm"
+        },
+        {
+          "anchor_text": "承担项目",
+          "url": "http://faculty.hust.edu.cn/taowenbing/zh_CN/zsxx/1485765/list/index.htm"
+        }
+      ],
+      "footer_message": "欢迎来到我的主页！",
+      "timestamp": "2026年3月24日，星期二"
+    },
+    "personal_info": {
+      "image": "http://faculty.hust.edu.cn/_resources/group1/M00/00/2D/rBAGRWUOsaqAHvuAAAIu_cgMVlo272.png?randomid=1770678689823",
+      "name": "陶文兵",
+      "advisor_links": [
+        {
+          "anchor_text": "同专业博导",
+          "url": "http://faculty.hust.edu.cn/taowenbing/zh_CN/tzybd/1485744/list/index.htm"
+        },
+        {
+          "anchor_text": "同专业硕导",
+          "url": "http://faculty.hust.edu.cn/taowenbing/zh_CN/tzysd/1485744/list/index.htm"
+        }
+      ],
+      "titles": [
+        "教授",
+        "博士生导师",
+        "硕士生导师"
+      ],
+      "employment_status": "在职",
+      "affiliation": "多谱信息智能处理技术全国重点实验室",
+      "education_level": "研究生(博士)毕业",
+      "degree": "工学博士学位",
+      "discipline": "模式识别与智能系统"
+    },
+    "contact_info": {
+      "postal_code": "430074",
+      "fax": "027-87543130",
+      "address": "华中科技大学人工智能与自动化学院",
+      "office_phone": "027-87543130",
+      "email": "wenbingtao@hust.edu.cn"
+    },
+    "biography": {
+      "summary": "陶文兵，男，博士，现为华中科技大学人工智能与自动化学院及多谱信息智能处理技术全国重点实验室教授/博士生导师，担任华中科技大学与杭州市共建的杭州运河人工智能研究院首任执行院长筹备研究院，主要研究方向为目标识别与跟踪、机器人视觉导航、三维重建与生成、数字人、空间智能、三维点云信息处理、无人驾驶、世界模型与具身智能、智能无人机等。曾连续6年入选中国高被引学者计算机领域榜单，以第一作者和通讯作者在TPAMI, ...",
+      "more_link": {
+        "anchor_text": "More+",
+        "url": "http://faculty.hust.edu.cn/taowenbing/zh_CN/more/1485744/jsjjgd/index.htm"
+      }
+    },
+    "education_experience": "暂无内容",
+    "work_experience": "暂无内容",
+    "social_affiliations": "暂无内容",
+    "research_directions": [
+      {
+        "area": "计算机视觉，机器人目标识别，大场景三维重建，机器学习",
+        "url": "http://faculty.hust.edu.cn/taowenbing/zh_CN/yjfx/1485744/content/4584.htm#yjfx"
+      }
+    ],
+    "research_group": "暂无内容"
+  }
+}

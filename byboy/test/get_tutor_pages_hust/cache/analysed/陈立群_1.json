@@ -1,0 +1,223 @@
+{
+  "meta": {
+    "tutor_name_cn": "陈立群",
+    "request_url": "http://faculty.hust.edu.cn/ChenLiQun/zh_CN/index.htm",
+    "declared_source_url": "http://faculty.hust.edu.cn/ChenLiQun/zh_CN/index.htm",
+    "page_host": "faculty.hust.edu.cn",
+    "markdown_cache_path": "D:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\fae06b5706284c178a937ccae658e4d5847546d08ee9565233bfe2b489acf5a9.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "name": "陈立群",
+    "source_url": "http://faculty.hust.edu.cn/ChenLiQun/zh_CN/index.htm",
+    "site_chrome": {
+      "language_switch": {
+        "english": {
+          "url": "http://faculty.hust.edu.cn/ChenLiQun/en/index.htm",
+          "anchor_text": "English"
+        }
+      },
+      "university_links": [
+        {
+          "url": "http://www.hust.edu.cn/",
+          "anchor_text": "华中科技大学"
+        },
+        {
+          "url": "http://faculty.hust.edu.cn/",
+          "anchor_text": "HUST Logo"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://faculty.hust.edu.cn/ChenLiQun/zh_CN/index.htm",
+          "alt_text": "Banner/Header image"
+        },
+        {
+          "url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/10/rBAGRV8CDr-AeFVmAAA7EN17sME589.png",
+          "alt_text": "HUST Logo"
+        },
+        {
+          "url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/3B/rBAGRWfXhhuAfttpAAGnyGFe3zo414.png?randomid=1768309114549",
+          "alt_text": "Decorative image"
+        }
+      ],
+      "misc_links": [
+        {
+          "url": "http://faculty.hust.edu.cn/ChenLiQun/zh_CN/index.htm#",
+          "anchor_text": "更多"
+        }
+      ]
+    },
+    "navigation": [
+      {
+        "main_item": {
+          "url": "http://faculty.hust.edu.cn/ChenLiQun/zh_CN/index/2535869/list/index.htm",
+          "anchor_text": "首页"
+        }
+      },
+      {
+        "main_item": {
+          "url": "http://faculty.hust.edu.cn/ChenLiQun/zh_CN/zhym/2535870/list/index.htm",
+          "anchor_text": "科学研究"
+        },
+        "sub_items": [
+          {
+            "url": "http://faculty.hust.edu.cn/ChenLiQun/zh_CN/yjgk/2535871/list/index.htm",
+            "anchor_text": "研究领域"
+          },
+          {
+            "url": "http://faculty.hust.edu.cn/ChenLiQun/zh_CN/lwcg/2535872/list/index.htm",
+            "anchor_text": "论文成果"
+          },
+          {
+            "url": "http://faculty.hust.edu.cn/ChenLiQun/zh_CN/zlcg/2535873/list/index.htm",
+            "anchor_text": "专利"
+          },
+          {
+            "url": "http://faculty.hust.edu.cn/ChenLiQun/zh_CN/zzcg/2535874/list/index.htm",
+            "anchor_text": "著作成果"
+          },
+          {
+            "url": "http://faculty.hust.edu.cn/ChenLiQun/zh_CN/kyxm/2535875/list/index.htm",
+            "anchor_text": "科研项目"
+          }
+        ]
+      },
+      {
+        "main_item": {
+          "url": "http://faculty.hust.edu.cn/ChenLiQun/zh_CN/zhym/2535876/list/index.htm",
+          "anchor_text": "教学研究"
+        },
+        "sub_items": [
+          {
+            "url": "http://faculty.hust.edu.cn/ChenLiQun/zh_CN/jxzy/2535877/list/index.htm",
+            "anchor_text": "教学资源"
+          },
+          {
+            "url": "http://faculty.hust.edu.cn/ChenLiQun/zh_CN/skxx/2535878/list/index.htm",
+            "anchor_text": "授课信息"
+          },
+          {
+            "url": "http://faculty.hust.edu.cn/ChenLiQun/zh_CN/jxcg/2535879/list/index.htm",
+            "anchor_text": "教学成果"
+          }
+        ]
+      },
+      {
+        "main_item": {
+          "url": "http://faculty.hust.edu.cn/ChenLiQun/zh_CN/hjxx/2535880/list/index.htm",
+          "anchor_text": "获奖信息"
+        }
+      },
+      {
+        "main_item": {
+          "url": "http://faculty.hust.edu.cn/ChenLiQun/zh_CN/zsxx/2535881/list/index.htm",
+          "anchor_text": "招生信息"
+        }
+      },
+      {
+        "main_item": {
+          "url": "http://faculty.hust.edu.cn/ChenLiQun/zh_CN/xsxx/2535882/list/index.htm",
+          "anchor_text": "学生信息"
+        }
+      },
+      {
+        "main_item": {
+          "url": "http://faculty.hust.edu.cn/ChenLiQun/zh_CN/img/2535883/list/index.htm",
+          "anchor_text": "我的相册"
+        }
+      },
+      {
+        "main_item": {
+          "url": "http://faculty.hust.edu.cn/ChenLiQun/zh_CN/article/2535884/list/index.htm",
+          "anchor_text": "教师博客"
+        }
+      }
+    ],
+    "personal_information": {
+      "name_chinese": "陈立群",
+      "titles": [
+        "副教授",
+        "硕士生导师"
+      ],
+      "affiliation": "多谱信息智能处理技术全国重点实验室",
+      "education_level_at_graduation": "研究生(博士)毕业",
+      "graduated_university_department": "华中科技大学 人工智能与自动化学院",
+      "discipline": "模式识别与智能系统"
+    },
+    "contact_information": {
+      "postal_code": "430074",
+      "email": "chenliqun@hust.edu.cn"
+    },
+    "biography": {
+      "description": "陈立群，人工智能与自动化学院副教授。2019年毕业于华中科技大学人工智能与自动化学院，获博士学位。主要从事计算机视觉和嵌入式智能计算相关研究。主持国家自然科学基金青年项目、航天领域预基础科研、装备预研项目多项。发表IEEE Trans., AAAI, ACM MM等国际权威期刊和顶级会议在内的学术论文十余篇，授权发明专利16项。2017年获教育部科技进步一等奖，2024年入选湖北省青年拔尖人才计划。",
+      "more_link": {
+        "url": "http://faculty.hust.edu.cn/ChenLiQun/zh_CN/more/2535869/jsjjgd/index.htm",
+        "anchor_text": "More+"
+      }
+    },
+    "education_experience": [
+      {
+        "period": "2008.9 ~ 2012.6",
+        "institution": "华中科技大学",
+        "degree": "工学学士学位",
+        "level": "本科(学士)"
+      },
+      {
+        "period": "2013.9 ~ 2019.6",
+        "institution": "华中科技大学",
+        "degree": "工学博士学位",
+        "level": "研究生(博士)毕业"
+      }
+    ],
+    "work_experience": [
+      {
+        "status": "暂无内容"
+      }
+    ],
+    "social_affiliations": [
+      "中国图像图形学学会成像探测与感知专委会委员"
+    ],
+    "research_directions": [
+      {
+        "topic": "计算机视觉",
+        "link": "http://faculty.hust.edu.cn/ChenLiQun/zh_CN/yjfx/2535869/content/8036.htm#yjfx"
+      },
+      {
+        "topic": "嵌入式智能计算",
+        "link": "http://faculty.hust.edu.cn/ChenLiQun/zh_CN/yjfx/2535869/content/8037.htm#yjfx"
+      }
+    ],
+    "research_group": {
+      "name": "图像识别与智能系统"
+    },
+    "awards_and_honors": [
+      {
+        "year": 2024,
+        "name": "湖北省青年拔尖人才计划"
+      },
+      {
+        "year": 2017,
+        "name": "教育部科技进步一等奖"
+      }
+    ],
+    "publications_patents_projects_summary": {
+      "publications": "发表IEEE Trans., AAAI, ACM MM等国际权威期刊和顶级会议在内的学术论文十余篇",
+      "patents": "授权发明专利16项",
+      "projects": "主持国家自然科学基金青年项目、航天领域预基础科研、装备预研项目多项"
+    },
+    "uncategorized": {
+      "welcome_message": "欢迎来到我的主页！",
+      "last_updated_date": "2026年3月24日，星期二",
+      "related_links": [
+        {
+          "url": "http://faculty.hust.edu.cn/ChenLiQun/zh_CN/tzysd/2535869/list/index.htm",
+          "anchor_text": "同专业硕导"
+        }
+      ]
+    }
+  }
+}

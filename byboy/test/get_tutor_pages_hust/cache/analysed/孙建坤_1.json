@@ -1,0 +1,178 @@
+{
+  "meta": {
+    "tutor_name_cn": "孙建坤",
+    "request_url": "http://faculty.hust.edu.cn/SunJianKun/zh_CN/index.htm",
+    "declared_source_url": "http://faculty.hust.edu.cn/SunJianKun/zh_CN/index.htm",
+    "page_host": "faculty.hust.edu.cn",
+    "markdown_cache_path": "D:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\79aef51d65812cb02070e07997327439821e1ddb172792bff1f87ec19c3036ab.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": "包含导师姓名、职称、详细个人简介、联系方式、教育工作经历及多篇代表性论文，信息非常丰富。"
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "target_professor": "孙建坤",
+    "source_url": "http://faculty.hust.edu.cn/SunJianKun/zh_CN/index.htm",
+    "basic_info": {
+      "name": "孙建坤",
+      "gender": "男",
+      "titles": [
+        "博士生导师",
+        "硕士生导师",
+        "副教授"
+      ],
+      "honorary_titles": [
+        "国家级青年人才",
+        "小米青年学者",
+        "2023年度万人计划青年拔尖人才",
+        "2020年度博士后创新人才支持计划"
+      ],
+      "status": "在职",
+      "department": "人工智能与自动化学院",
+      "institution": "华中科技大学",
+      "education_level": "研究生(博士)毕业",
+      "degree": "工学博士学位",
+      "postal_code": "430074",
+      "office_address": "武汉市洪山区珞喻路1037号华中科技大学南一楼中527",
+      "email": "sunjiankun@hust.edu.cn",
+      "personal_links": {
+        "english_profile": "http://faculty.hust.edu.cn/SunJianKun/en/index.htm"
+      }
+    },
+    "biography": "孙建坤，现为华中科技大学人工智能与自动化学院副教授、博士生导师、国家级青年人才、小米青年学者，2013年在东南大学数学系获得数学与应用数学学士学位，2019年在东南大学自动化学院获得控制理论与控制工程博士学位，师从东南大学李世华教授和英国拉夫堡大学杨俊教授，2015年9月-12月在澳洲西悉尼大学做访问学者，合作导师为Wei Xing Zheng教授，2016年9月-2018年10月获得国家留学基金委资助在美国圣母大学联合培养，合作导师为Hai Lin教授。2020年3月-2023年5月在华中科技大学人工智能与自动化学院做博士后，合作导师为曾志刚教授。入选2020年度博士后创新人才支持计划、2023年度万人计划青年拔尖人才、2023年度小米青年学者，被评为2021年...",
+    "education_experience": [
+      {
+        "period": "2016.9~2018.10",
+        "institution": "美国圣母大学",
+        "type": "进修或培训"
+      },
+      {
+        "period": "2013.9~2019.9",
+        "institution": "东南大学",
+        "type": "研究生(博士)毕业"
+      },
+      {
+        "period": "2009.8~2013.6",
+        "institution": "东南大学",
+        "type": "本科(学士)"
+      }
+    ],
+    "work_experience": [
+      {
+        "period": "2023.6~至今",
+        "institution": "华中科技大学",
+        "department": "人工智能与自动化学院"
+      },
+      {
+        "period": "2020.3~2023.5",
+        "institution": "华中科技大学人工智能与自动化学院",
+        "position": "博士后",
+        "collaborator": "曾志刚教授"
+      }
+    ],
+    "research_interests": [
+      {
+        "title": "研究方向",
+        "url": "http://faculty.hust.edu.cn/SunJianKun/zh_CN/yjfx/2493606/content/7395.htm#yjfx"
+      }
+    ],
+    "publications": [
+      {
+        "title": "Jiankun Sun, Jun Yang, and Zhigang Zeng, Safety-critical control with control barrier function based on disturbance observer, IEEE Transactions on Automatic Control, vol. 69, no. 7, pp. 4750-4756, Jul. 2024..",
+        "link": "http://faculty.hust.edu.cn/SunJianKun/zh_CN/lwcg/2493609/content/133336.htm#lwcg"
+      },
+      {
+        "title": "Jiankun Sun and Zhigang Zeng, Predictor-based extended state observer for decentralized event-triggered control of large-scale systems with input and output delays，IEEE Transactions on Industrial Informatics, vol. 20, no. 3, pp. 3913-3922, Mar. 2024..",
+        "link": "http://faculty.hust.edu.cn/SunJianKun/zh_CN/lwcg/2493609/content/133335.htm#lwcg"
+      },
+      {
+        "title": "J. Sun, J. Yang, W. X. Zheng, and S. Li, GPIO-based robust control of nonlinear uncertain systems under time-varying disturbance with application to DC-DC converter, IEEE Trans. Circuits Syst. II, Exp. Briefs, vol. 63, no. 11, pp. 1074-1078, Nov. 2016..",
+        "link": "http://faculty.hust.edu.cn/SunJianKun/zh_CN/lwcg/2493609/content/106575.htm#lwcg"
+      },
+      {
+        "title": "J. Sun, J. Yang, S. Li, and W. X. Zheng, Sampled-data-based event-triggered active disturbance rejection control for disturbed systems in networked environment, IEEE Trans. Cybern., vol. 49, no. 2, pp. 556-566, Feb. 2019..",
+        "link": "http://faculty.hust.edu.cn/SunJianKun/zh_CN/lwcg/2493609/content/106574.htm#lwcg"
+      },
+      {
+        "title": "J. Sun, J. Yang, and S. Li, Reduced-order GPIO based dynamic event-triggered tracking control of networked one-DOF link manipulator without velocity measurement, IEEE/CAA J. Automat. Sinica, vol. 7, no. 3, pp. 725–734, May 2020..",
+        "link": "http://faculty.hust.edu.cn/SunJianKun/zh_CN/lwcg/2493609/content/106573.htm#lwcg"
+      },
+      {
+        "title": "J. Sun, J. Yang, S. Li, and W. X. Zheng, Output-based dynamic event-triggered mechanisms for disturbance rejection control of networked nonlinear systems, IEEE Trans. Cybern., vol. 50, no. 5, pp. 1978-1988, May 2020..",
+        "link": "http://faculty.hust.edu.cn/SunJianKun/zh_CN/lwcg/2493609/content/106572.htm#lwcg"
+      }
+    ],
+    "social_appointments": [
+      {
+        "period": "2025.9~至今",
+        "organization": "中国指挥与控制学会",
+        "role": "会员"
+      },
+      {
+        "period": "2024.1~至今",
+        "organization": "中国自动化学会具身智能专业委员会",
+        "role": "委员"
+      },
+      {
+        "period": "2023.11~至今",
+        "organization": "中国自动化学会",
+        "role": "会员"
+      },
+      {
+        "period": "2021.11~至今",
+        "organization": "中国人工智能学会",
+        "role": "会员"
+      }
+    ],
+    "site_navigation": {
+      "home": "http://faculty.hust.edu.cn/SunJianKun/zh_CN/index/2493606/list/index.htm",
+      "research": {
+        "main": "http://faculty.hust.edu.cn/SunJianKun/zh_CN/zhym/2493607/list/index.htm",
+        "sub_fields": {
+          "research_area": "http://faculty.hust.edu.cn/SunJianKun/zh_CN/yjgk/2493608/list/index.htm",
+          "papers": "http://faculty.hust.edu.cn/SunJianKun/zh_CN/lwcg/2493609/list/index.htm",
+          "patents": "http://faculty.hust.edu.cn/SunJianKun/zh_CN/zlcg/2493610/list/index.htm",
+          "works": "http://faculty.hust.edu.cn/SunJianKun/zh_CN/zzcg/2493611/list/index.htm",
+          "projects": "http://faculty.hust.edu.cn/SunJianKun/zh_CN/kyxm/2493612/list/index.htm"
+        }
+      },
+      "teaching": {
+        "main": "http://faculty.hust.edu.cn/SunJianKun/zh_CN/zhym/2493613/list/index.htm",
+        "sub_fields": {
+          "resources": "http://faculty.hust.edu.cn/SunJianKun/zh_CN/jxzy/2493614/list/index.htm",
+          "courses": "http://faculty.hust.edu.cn/SunJianKun/zh_CN/skxx/2493615/list/index.htm",
+          "achievements": "http://faculty.hust.edu.cn/SunJianKun/zh_CN/jxcg/2493616/list/index.htm"
+        }
+      },
+      "awards": "http://faculty.hust.edu.cn/SunJianKun/zh_CN/hjxx/2493617/list/index.htm",
+      "enrollment": "http://faculty.hust.edu.cn/SunJianKun/zh_CN/zsxx/2493618/list/index.htm",
+      "students": "http://faculty.hust.edu.cn/SunJianKun/zh_CN/xsxx/2493619/list/index.htm",
+      "album": "http://faculty.hust.edu.cn/SunJianKun/zh_CN/img/2493620/list/index.htm",
+      "blog": "http://faculty.hust.edu.cn/SunJianKun/zh_CN/article/2493621/list/index.htm",
+      "more_info": "http://faculty.hust.edu.cn/SunJianKun/zh_CN/jsxx/2493606/jsxx/jsxx.htm"
+    },
+    "other_content": {
+      "patent_results": "暂无内容",
+      "book_results": "暂无内容",
+      "team_members": "暂无内容",
+      "related_links": [
+        {
+          "text": "同专业博导",
+          "url": "http://faculty.hust.edu.cn/SunJianKun/zh_CN/tzybd/2493606/list/index.htm"
+        },
+        {
+          "text": "同专业硕导",
+          "url": "http://faculty.hust.edu.cn/SunJianKun/zh_CN/tzysd/2493606/list/index.htm"
+        }
+      ]
+    },
+    "site_chrome": {
+      "images": [
+        "http://faculty.hust.edu.cn/_ts/gkzn/images/gbbtn.png",
+        "http://faculty.hust.edu.cn/_ts/gkzn/images/ss.png",
+        "http://faculty.hust.edu.cn/_ts/gkzn/images/banner.png",
+        "http://faculty.hust.edu.cn/_resources/group1/M00/00/28/rBAGRWSAOFyARUtZAAI2KwUbr6I957.png?randomid=1767824180394"
+      ]
+    }
+  }
+}

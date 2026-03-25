@@ -1,0 +1,237 @@
+{
+  "meta": {
+    "tutor_name_cn": "俞耀文",
+    "request_url": "http://faculty.hust.edu.cn/YuYaowen/zh_CN/index.htm",
+    "declared_source_url": "http://faculty.hust.edu.cn/YuYaowen/zh_CN/index.htm",
+    "page_host": "faculty.hust.edu.cn",
+    "markdown_cache_path": "D:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\5ce2a5c27c8176912d9fa61a05986f7e5bc2e5f443bbac7be2e9de2f3c53936f.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "name": "俞耀文",
+    "source_url": "http://faculty.hust.edu.cn/YuYaowen/zh_CN/index.htm",
+    "profile_image_url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/09/rBAGRl8CDhaAWg0DAAEf7PDuLT4455.jpg?randomid=1770671166979",
+    "personal_info": {
+      "titles_and_positions": [
+        "副教授",
+        "硕士生导师"
+      ],
+      "gender": "男",
+      "employment_status": "在职",
+      "affiliation": {
+        "university": "华中科技大学",
+        "department": "人工智能与自动化学院"
+      },
+      "highest_education_summary": {
+        "degree_level": "研究生(博士)毕业",
+        "degree_type": "工学博士学位",
+        "institution": "美国康涅狄格大学(University of Connecticut)"
+      },
+      "disciplines": [
+        "电力系统及其自动化",
+        "控制理论与控制工程"
+      ],
+      "birthplace": "湖北武汉",
+      "date_joined_hust": "2019年10月"
+    },
+    "contact_info": {
+      "postal_code": "430074",
+      "email": "yaowen_yu@hust.edu.cn"
+    },
+    "personal_statement_excerpt": {
+      "text": "俞耀文，男，湖北武汉人。2019年10月起任华中科技大学人工智能与自动化学院副教授，主要研究方向：电力系统优化调度，人工智能与电网大数据，可再生能源消纳。2011年在华中科技大学获得自动化专业工学学士学位，2016年于美国康涅狄格大学（University of Connecticut）获得电子工程专业博士学位（并在2014年获赠同专业硕士学位）。2016年9月至2019年9月在ABB集团（世界500强企业）美国硅谷办公室任高级应用工程师，并作为技术带...",
+      "more_link": {
+        "url": "http://faculty.hust.edu.cn/YuYaowen/zh_CN/more/2287091/jsjjgd/index.htm",
+        "anchor_text": "More+"
+      }
+    },
+    "education_experience": [
+      {
+        "start_date": "2011.8",
+        "end_date": "2016.9",
+        "institution": "美国康涅狄格大学",
+        "major": "电气工程",
+        "degree_type": "工学博士学位",
+        "degree_level": "研究生(博士)毕业"
+      },
+      {
+        "start_date": "2011.8",
+        "end_date": "2014.8",
+        "institution": "美国康涅狄格大学",
+        "major": "电气工程",
+        "degree_type": "理学硕士学位",
+        "degree_level": "研究生(硕士)毕业"
+      },
+      {
+        "start_date": "2007.9",
+        "end_date": "2011.6",
+        "institution": "华中科技大学",
+        "major": "自动化（Automation）",
+        "degree_type": "工学学士学位",
+        "degree_level": "本科(学士)"
+      }
+    ],
+    "work_experience": [
+      {
+        "start_date": "2016.9",
+        "end_date": "2019.9",
+        "institution": "ABB集团",
+        "position": "高级应用工程师",
+        "location": "美国硅谷办公室"
+      },
+      {
+        "start_date": "2014.5",
+        "end_date": "2014.8",
+        "institution": "新英格兰(电网)独立系统运营机构",
+        "position": "实习生",
+        "location": "美国"
+      }
+    ],
+    "social_affiliations": null,
+    "research_directions": [
+      {
+        "topic": "电力系统优化调度",
+        "url": "http://faculty.hust.edu.cn/YuYaowen/zh_CN/yjfx/2287091/content/4619.htm#yjfx"
+      },
+      {
+        "topic": "人工智能与电网大数据",
+        "url": "http://faculty.hust.edu.cn/YuYaowen/zh_CN/yjfx/2287091/content/4620.htm#yjfx"
+      },
+      {
+        "topic": "可再生能源消纳",
+        "url": "http://faculty.hust.edu.cn/YuYaowen/zh_CN/yjfx/2287091/content/4618.htm#yjfx"
+      }
+    ],
+    "research_group": null,
+    "awards_and_honors": [
+      {
+        "year": "2024",
+        "description": "2024 3nd International Conference on Power Systems and Electrical Technology最佳口头报告奖"
+      },
+      {
+        "year": "2024",
+        "description": "2024 3rd International Conference on Power Systems and Electrical Technology杰出审稿专家奖"
+      },
+      {
+        "year": "2023",
+        "description": "2023 2nd International Conference on Power Systems and Electrical Technology最佳口头报告奖"
+      },
+      {
+        "year": "2022",
+        "description": "华中科技大学教师教学竞赛二等奖"
+      },
+      {
+        "year": "2018",
+        "description": "International Journal of Electrical Power and Energy Systems杰出审稿贡献奖"
+      },
+      {
+        "year": "2015",
+        "description": "2015 IEEE Power and Energy Society General Meeting最佳会议论文之一"
+      },
+      {
+        "year": "2013",
+        "description": "2013 IEEE Power and Energy Society General Meeting最佳会议论文之一"
+      }
+    ],
+    "site_chrome": {
+      "source_capture_info": "抓取来源：http://faculty.hust.edu.cn/YuYaowen/zh_CN/index.htm",
+      "language_switch": {
+        "language": "English",
+        "url": "http://faculty.hust.edu.cn/YuYaowen/en/index.htm"
+      },
+      "university_link": {
+        "anchor_text": "华中科技大学",
+        "url": "http://www.hust.edu.cn/"
+      },
+      "university_logo": {
+        "image_url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/10/rBAGRV8CDr-AeFVmAAA7EN17sME589.png",
+        "link_url": "http://faculty.hust.edu.cn/"
+      },
+      "more_button": {
+        "anchor_text": "更多",
+        "url": "http://faculty.hust.edu.cn/YuYaowen/zh_CN/index.htm#"
+      },
+      "main_navigation": [
+        {
+          "category": "首页",
+          "url": "http://faculty.hust.edu.cn/YuYaowen/zh_CN/index/2287091/list/index.htm"
+        },
+        {
+          "category": "科学研究",
+          "url": "http://faculty.hust.edu.cn/YuYaowen/zh_CN/zhym/2287092/list/index.htm",
+          "sub_categories": [
+            {
+              "anchor_text": "研究领域",
+              "url": "http://faculty.hust.edu.cn/YuYaowen/zh_CN/yjgk/2287093/list/index.htm"
+            },
+            {
+              "anchor_text": "论文成果",
+              "url": "http://faculty.hust.edu.cn/YuYaowen/zh_CN/lwcg/2287094/list/index.htm"
+            },
+            {
+              "anchor_text": "专利",
+              "url": "http://faculty.hust.edu.cn/YuYaowen/zh_CN/zlcg/2287095/list/index.htm"
+            },
+            {
+              "anchor_text": "著作成果",
+              "url": "http://faculty.hust.edu.cn/YuYaowen/zh_CN/zzcg/2287096/list/index.htm"
+            },
+            {
+              "anchor_text": "科研项目",
+              "url": "http://faculty.hust.edu.cn/YuYaowen/zh_CN/kyxm/2287097/list/index.htm"
+            }
+          ]
+        },
+        {
+          "category": "教学研究",
+          "url": "http://faculty.hust.edu.cn/YuYaowen/zh_CN/zhym/2287098/list/index.htm",
+          "sub_categories": [
+            {
+              "anchor_text": "教学资源",
+              "url": "http://faculty.hust.edu.cn/YuYaowen/zh_CN/jxzy/2287099/list/index.htm"
+            },
+            {
+              "anchor_text": "授课信息",
+              "url": "http://faculty.hust.edu.cn/YuYaowen/zh_CN/skxx/2287100/list/index.htm"
+            },
+            {
+              "anchor_text": "教学成果",
+              "url": "http://faculty.hust.edu.cn/YuYaowen/zh_CN/jxcg/2287101/list/index.htm"
+            }
+          ]
+        },
+        {
+          "category": "获奖信息",
+          "url": "http://faculty.hust.edu.cn/YuYaowen/zh_CN/hjxx/2287102/list/index.htm"
+        },
+        {
+          "category": "招生信息",
+          "url": "http://faculty.hust.edu.cn/YuYaowen/zh_CN/zsxx/2287103/list/index.htm"
+        },
+        {
+          "category": "学生信息",
+          "url": "http://faculty.hust.edu.cn/YuYaowen/zh_CN/xsxx/2287104/list/index.htm"
+        },
+        {
+          "category": "我的相册",
+          "url": "http://faculty.hust.edu.cn/YuYaowen/zh_CN/img/2287105/list/index.htm"
+        },
+        {
+          "category": "教师博客",
+          "url": "http://faculty.hust.edu.cn/YuYaowen/zh_CN/article/2287106/list/index.htm"
+        }
+      ],
+      "related_faculty_link": {
+        "anchor_text": "同专业硕导",
+        "url": "http://faculty.hust.edu.cn/YuYaowen/zh_CN/tzysd/2287091/list/index.htm"
+      },
+      "footer_message": {
+        "date": "2026年3月24日，星期二",
+        "welcome_text": "欢迎来到我的主页！"
+      }
+    }
+  }
+}

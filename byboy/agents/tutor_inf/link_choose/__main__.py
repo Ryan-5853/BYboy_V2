@@ -33,6 +33,11 @@ def main(argv: list[str] | None = None) -> int:
         default=8192,
         help="补全 max_tokens",
     )
+    p.add_argument(
+        "--uncertain-only-llm",
+        action="store_true",
+        help="仅对规则低置信链接调 LLM（默认：每条链接都过 LLM）",
+    )
     args = p.parse_args(argv)
 
     dispatcher = LLMDispatcher.from_env()
@@ -43,6 +48,7 @@ def main(argv: list[str] | None = None) -> int:
             markdown_path=args.markdown_path,
             output_dir=args.output_dir,
             output_filename=args.output_filename,
+            refine_all_links=not args.uncertain_only_llm,
         ),
     )
     out = agent.run(inv, dispatcher, max_tokens=args.max_tokens)

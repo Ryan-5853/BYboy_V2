@@ -1,0 +1,151 @@
+{
+  "meta": {
+    "tutor_name_cn": "赵金",
+    "request_url": "http://faculty.hust.edu.cn/zhaojin1/zh_CN/index.htm",
+    "declared_source_url": "http://faculty.hust.edu.cn/zhaojin1/zh_CN/index.htm",
+    "page_host": "faculty.hust.edu.cn",
+    "markdown_cache_path": "D:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\6eae011fc00c9ac84c7050cf75eae5a819ea832a3478d95481b497ddb9742f34.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": "该内容包含导师的个人简介、详细教育与工作经历、研究方向及联系方式，文字信息丰富且结构清晰。"
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "target_instructor": "赵金",
+    "source_url": "http://faculty.hust.edu.cn/zhaojin1/zh_CN/index.htm",
+    "basic_information": {
+      "name": "赵金",
+      "gender": "男",
+      "status": "在职",
+      "department": "人工智能与自动化学院",
+      "professional_titles": [
+        "教授",
+        "博士生导师",
+        "硕士生导师"
+      ],
+      "education_level": "研究生(博士)毕业",
+      "degree": "工学博士学位",
+      "graduated_from": "华中理工大学",
+      "discipline": "控制理论与控制工程",
+      "profile_photo": "http://faculty.hust.edu.cn/_resources/group1/M00/00/22/rBAGRWNt-bSALdJcAAHMR_ULEnI280.png?randomid=1770661875338"
+    },
+    "contact_details": {
+      "zip_code": "430074",
+      "office_address": "华中科技大学东二楼218室",
+      "mobile_phone": "13971151299",
+      "email": "jinzhao617@mail.hust.edu.cn"
+    },
+    "personal_profile": {
+      "summary": "赵金，男，博士、教授、博士生导师。1994年6月毕业于华中理工大学工业自动化专业，获工学博士学位，留校任教至今。2001年10月赴美国田纳西大学作访问研究一年。IEEE高级会员，中国自动化学会电气自动化专业委员会和中国电工技术学会电控系统与装置专业委员会委员。主要研究方向：电力电子与运动控制、控制系统故障预测与容错技术、医学中的人工智能应用、船舶无人智能航行技术。主持国家自然科学基金面上项目四项、参与国家自然...",
+      "full_profile_link": "http://faculty.hust.edu.cn/zhaojin1/zh_CN/more/1851791/jsjjgd/index.htm"
+    },
+    "research_focus": [
+      {
+        "title": "电力电子与运动控制",
+        "url": "http://faculty.hust.edu.cn/zhaojin1/zh_CN/yjfx/1851791/content/6992.htm#yjfx"
+      },
+      {
+        "title": "医学中的人工智能应用",
+        "url": "http://faculty.hust.edu.cn/zhaojin1/zh_CN/yjfx/1851791/content/7590.htm#yjfx"
+      },
+      {
+        "title": "无人船舶智能航行技术",
+        "url": "http://faculty.hust.edu.cn/zhaojin1/zh_CN/yjfx/1851791/content/7589.htm#yjfx"
+      },
+      {
+        "title": "复杂工程系统故障预测与容错技术",
+        "url": "http://faculty.hust.edu.cn/zhaojin1/zh_CN/yjfx/1851791/content/7591.htm#yjfx"
+      }
+    ],
+    "education_experience": [
+      {
+        "period": "1989.9 ~ 1994.6",
+        "institution": "华中理工大学",
+        "degree": "工学博士学位",
+        "status": "研究生(博士)毕业"
+      },
+      {
+        "period": "1989.9 ~ 1991.7",
+        "institution": "华中理工大学(直攻博)",
+        "status": "研究生(硕士)毕业"
+      },
+      {
+        "period": "1985.9 ~ 1989.7",
+        "institution": "华中理工大学",
+        "degree": "工学学士学位",
+        "status": "本科(学士)"
+      }
+    ],
+    "work_experience": [
+      {
+        "period": "1994.9-1997.8",
+        "institution": "华中理工大学",
+        "department": "自动控制系",
+        "title": "讲师"
+      },
+      {
+        "period": "1997.9-2004.9",
+        "institution": "华中科技大学",
+        "department": "控制科学与工程系",
+        "title": "副教授"
+      },
+      {
+        "period": "2004.9-至今",
+        "institution": "华中科技大学人工智能与自动化学院",
+        "title": "教授"
+      }
+    ],
+    "social_affiliations": [
+      "中国电工技术学会电控系统与装置专业委员会委员",
+      "中国自动化学会电气自动化专业委员会委员",
+      "IEEE高级会员"
+    ],
+    "site_navigation": {
+      "homepage": "http://faculty.hust.edu.cn/zhaojin1/zh_CN/index/1851791/list/index.htm",
+      "scientific_research": {
+        "main": "http://faculty.hust.edu.cn/zhaojin1/zh_CN/zhym/1851793/list/index.htm",
+        "fields": "http://faculty.hust.edu.cn/zhaojin1/zh_CN/yjgk/1851795/list/index.htm",
+        "papers": "http://faculty.hust.edu.cn/zhaojin1/zh_CN/lwcg/1851797/list/index.htm",
+        "patents": "http://faculty.hust.edu.cn/zhaojin1/zh_CN/zlcg/1851799/list/index.htm",
+        "books": "http://faculty.hust.edu.cn/zhaojin1/zh_CN/zzcg/1851801/list/index.htm",
+        "projects": "http://faculty.hust.edu.cn/zhaojin1/zh_CN/kyxm/1851803/list/index.htm"
+      },
+      "teaching_research": {
+        "main": "http://faculty.hust.edu.cn/zhaojin1/zh_CN/zhym/1851805/list/index.htm",
+        "resources": "http://faculty.hust.edu.cn/zhaojin1/zh_CN/jxzy/1851807/list/index.htm",
+        "course_info": "http://faculty.hust.edu.cn/zhaojin1/zh_CN/skxx/1851809/list/index.htm",
+        "achievements": "http://faculty.hust.edu.cn/zhaojin1/zh_CN/jxcg/1851811/list/index.htm"
+      },
+      "awards": "http://faculty.hust.edu.cn/zhaojin1/zh_CN/hjxx/1851812/list/index.htm",
+      "enrollment_info": "http://faculty.hust.edu.cn/zhaojin1/zh_CN/zsxx/1851813/list/index.htm",
+      "student_info": "http://faculty.hust.edu.cn/zhaojin1/zh_CN/xsxx/1851814/list/index.htm",
+      "photo_album": "http://faculty.hust.edu.cn/zhaojin1/zh_CN/img/1851815/list/index.htm",
+      "blog": "http://faculty.hust.edu.cn/zhaojin1/zh_CN/article/1851816/list/index.htm",
+      "related_mentors": {
+        "phd_mentors": "http://faculty.hust.edu.cn/zhaojin1/zh_CN/tzybd/1851791/list/index.htm",
+        "master_mentors": "http://faculty.hust.edu.cn/zhaojin1/zh_CN/tzysd/1851791/list/index.htm"
+      }
+    },
+    "research_group": {
+      "team_members": "暂无内容"
+    },
+    "site_chrome": {
+      "language_switch": {
+        "english": "http://faculty.hust.edu.cn/zhaojin1/en/index.htm"
+      },
+      "university_links": [
+        {
+          "name": "华中科技大学",
+          "url": "http://www.hust.edu.cn/"
+        },
+        {
+          "name": "教师主页系统首页",
+          "url": "http://faculty.hust.edu.cn/"
+        }
+      ],
+      "sidebar_more_link": "http://faculty.hust.edu.cn/zhaojin1/zh_CN/index.htm#",
+      "current_date_display": "2026年3月24日，星期二",
+      "welcome_message": "欢迎来到我的主页！"
+    }
+  }
+}

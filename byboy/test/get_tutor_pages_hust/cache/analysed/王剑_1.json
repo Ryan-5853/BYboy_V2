@@ -1,0 +1,226 @@
+{
+  "meta": {
+    "tutor_name_cn": "王剑",
+    "request_url": "http://faculty.hust.edu.cn/wangjian13/zh_CN/index.htm",
+    "declared_source_url": "http://faculty.hust.edu.cn/wangjian13/zh_CN/index.htm",
+    "page_host": "faculty.hust.edu.cn",
+    "markdown_cache_path": "D:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\555b32011a5e1bad5fe98ff80c8323231e61ccdc20eeaa3b39c91e5852f71c5c.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "source_url": "http://faculty.hust.edu.cn/wangjian13/zh_CN/index.htm",
+    "professor_name": "王剑",
+    "personal_info": {
+      "name": "王剑",
+      "titles": [
+        "教授",
+        "硕士生导师"
+      ],
+      "gender": "男",
+      "employment_status": "在职",
+      "affiliation_unit": "人工智能与自动化学院",
+      "education_level": "研究生(博士)毕业",
+      "degree": "工学博士学位",
+      "discipline": "系统工程",
+      "related_links": [
+        {
+          "anchor_text": "同专业硕导",
+          "url": "http://faculty.hust.edu.cn/wangjian13/zh_CN/tzysd/1756121/list/index.htm"
+        }
+      ]
+    },
+    "contact_info": {
+      "postal_code": "430074",
+      "email": "wj0826_can@hust.edu.cn"
+    },
+    "biography": {
+      "summary": "华中科技大学人工智能与自动化学院，智能系统与系统工程系，教授。主要从事系统工程、运营管理、运筹优化、分布式仿真、AI技术集成等方面的教学与科研工作。研究方向为突发事件应急管理与智能决策，包括：供应链/物流系统安全与决策优化、城市安全应急调度与仿真优化、安全风险实时感知与智能预警等。担任国家国民经济动员仿真演练研究中心技术负责人，以及安全预警与应急联动技术湖北省协同创新中心、区域（福建）反恐研究中心...",
+      "more_link": {
+        "anchor_text": "More+",
+        "url": "http://faculty.hust.edu.cn/wangjian13/zh_CN/more/1756121/jsjjgd/index.htm"
+      }
+    },
+    "education_experience": [
+      {
+        "period": "2005.9 ~ 2009.3",
+        "institution": "华中科技大学",
+        "degree": "工学博士学位",
+        "degree_type": "研究生(博士)毕业"
+      },
+      {
+        "period": "1998.9 ~ 2001.6",
+        "institution": "华中科技大学",
+        "degree": "工学硕士学位",
+        "degree_type": "研究生(硕士)毕业"
+      },
+      {
+        "period": "1994.9 ~ 1998.6",
+        "institution": "华中理工大学",
+        "degree": "工学学士学位",
+        "degree_type": "本科(学士)"
+      }
+    ],
+    "work_experience": [
+      {
+        "period": "2026.1-至今",
+        "institution": "华中科技大学人工智能与自动化学院",
+        "position": "教授"
+      },
+      {
+        "period": "2009.7-2025.12",
+        "institution": "华中科技大学人工智能与自动化学院",
+        "position": "副教授"
+      },
+      {
+        "period": "2003.7-2009.6",
+        "institution": "华中科技大学控制科学与工程系",
+        "position": "讲师"
+      }
+    ],
+    "social_affiliations": [
+      "国家国民经济动员仿真演练研究中心仿真演练技术负责人",
+      "安全预警与应急联动技术湖北省协同创新中心仿真演练技术专家",
+      "区域（福建）反恐研究中心运筹优化技术专家",
+      "中国系统工程学会会员",
+      "中国物流系统工程学会会员",
+      "国际系统工程学会（INCOS）会员"
+    ],
+    "research_directions": [
+      {
+        "description": "面向“博弈协调与机制设计”的供应链/物流系统安全与决策优化",
+        "link": {
+          "anchor_text": "面向“博弈协调与机制设计”的供应链/物流系统安全与决策优化",
+          "url": "http://faculty.hust.edu.cn/wangjian13/zh_CN/yjfx/1756121/content/6702.htm#yjfx"
+        }
+      },
+      {
+        "description": "面向“AI+分布式仿真” 技术集成的城市安全应急调度与仿真优化",
+        "link": {
+          "anchor_text": "面向“AI+分布式仿真” 技术集成的城市安全应急调度与仿真优化",
+          "url": "http://faculty.hust.edu.cn/wangjian13/zh_CN/yjfx/1756121/content/6709.htm#yjfx"
+        }
+      },
+      {
+        "description": "面向“AI+知识+推荐”技术集成的安全风险实时感知与智能预警",
+        "link": {
+          "anchor_text": "面向“AI+知识+推荐”技术集成的安全风险实时感知与智能预警",
+          "url": "http://faculty.hust.edu.cn/wangjian13/zh_CN/yjfx/1756121/content/6710.htm#yjfx"
+        }
+      }
+    ],
+    "research_teams": [
+      "华中科技大学系统工程研究所",
+      "图像信息处理与智能控制教育部重点实验室",
+      "国家国民经济动员仿真演练研究中心",
+      "安全预警与应急联动技术湖北省协同创新中心",
+      "区域（福建）反恐研究中心"
+    ],
+    "site_chrome": {
+      "language_options": [
+        {
+          "language": "English",
+          "url": "http://faculty.hust.edu.cn/wangjian13/en/index.htm"
+        }
+      ],
+      "university_links": [
+        {
+          "anchor_text": "华中科技大学",
+          "url": "http://www.hust.edu.cn/",
+          "title": "华中科技大学"
+        },
+        {
+          "anchor_text": "",
+          "url": "http://faculty.hust.edu.cn/",
+          "image_src": "http://faculty.hust.edu.cn/_resources/group1/M00/00/10/rBAGRV8CDr-AeFVmAAA7EN17sME589.png"
+        }
+      ],
+      "main_navigation": [
+        {
+          "anchor_text": "首页",
+          "url": "http://faculty.hust.edu.cn/wangjian13/zh_CN/index/1756121/list/index.htm"
+        },
+        {
+          "anchor_text": "科学研究",
+          "url": "http://faculty.hust.edu.cn/wangjian13/zh_CN/zhym/1756122/list/index.htm",
+          "sub_items": [
+            {
+              "anchor_text": "研究领域",
+              "url": "http://faculty.hust.edu.cn/wangjian13/zh_CN/yjgk/1756123/list/index.htm"
+            },
+            {
+              "anchor_text": "论文成果",
+              "url": "http://faculty.hust.edu.cn/wangjian13/zh_CN/lwcg/1756124/list/index.htm"
+            },
+            {
+              "anchor_text": "专利",
+              "url": "http://faculty.hust.edu.cn/wangjian13/zh_CN/zlcg/1756125/list/index.htm"
+            },
+            {
+              "anchor_text": "著作成果",
+              "url": "http://faculty.hust.edu.cn/wangjian13/zh_CN/zzcg/1756126/list/index.htm"
+            },
+            {
+              "anchor_text": "科研项目",
+              "url": "http://faculty.hust.edu.cn/wangjian13/zh_CN/kyxm/1756127/list/index.htm"
+            }
+          ]
+        },
+        {
+          "anchor_text": "教学研究",
+          "url": "http://faculty.hust.edu.cn/wangjian13/zh_CN/zhym/1756128/list/index.htm",
+          "sub_items": [
+            {
+              "anchor_text": "教学资源",
+              "url": "http://faculty.hust.edu.cn/wangjian13/zh_CN/jxzy/1756129/list/index.htm"
+            },
+            {
+              "anchor_text": "授课信息",
+              "url": "http://faculty.hust.edu.cn/wangjian13/zh_CN/skxx/1756130/list/index.htm"
+            },
+            {
+              "anchor_text": "教学成果",
+              "url": "http://faculty.hust.edu.cn/wangjian13/zh_CN/jxcg/1756131/list/index.htm"
+            }
+          ]
+        },
+        {
+          "anchor_text": "获奖信息",
+          "url": "http://faculty.hust.edu.cn/wangjian13/zh_CN/hjxx/1756132/list/index.htm"
+        },
+        {
+          "anchor_text": "招生信息",
+          "url": "http://faculty.hust.edu.cn/wangjian13/zh_CN/zsxx/1756133/list/index.htm"
+        },
+        {
+          "anchor_text": "学生信息",
+          "url": "http://faculty.hust.edu.cn/wangjian13/zh_CN/xsxx/1756134/list/index.htm"
+        },
+        {
+          "anchor_text": "我的相册",
+          "url": "http://faculty.hust.edu.cn/wangjian13/zh_CN/img/1756135/list/index.htm"
+        },
+        {
+          "anchor_text": "教师博客",
+          "url": "http://faculty.hust.edu.cn/wangjian13/zh_CN/article/1756136/list/index.htm"
+        }
+      ],
+      "footer_image": {
+        "image_src": "http://faculty.hust.edu.cn/_resources/group1/M00/00/20/rBAGRWKsGj2ALPd5AAG97Xy9mB0406.png?randomid=1773394784659"
+      },
+      "footer_text": "2026年3月24日，星期二\n欢迎来到我的主页！",
+      "more_link": {
+        "anchor_text": "更多",
+        "url": "http://faculty.hust.edu.cn/wangjian13/zh_CN/index.htm#"
+      }
+    },
+    "uncategorized_images": [
+      {
+        "image_src": "http://faculty.hust.edu.cn/wangjian13/zh_CN/index.htm",
+        "description": "Appears to be a broken or placeholder image link at the top of the page."
+      }
+    ]
+  }
+}

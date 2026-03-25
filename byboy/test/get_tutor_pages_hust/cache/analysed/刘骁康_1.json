@@ -1,0 +1,188 @@
+{
+  "meta": {
+    "tutor_name_cn": "刘骁康",
+    "request_url": "http://faculty.hust.edu.cn/~uqaUne/zh_CN/index.htm",
+    "declared_source_url": "http://faculty.hust.edu.cn/~uqaUne/zh_CN/index.htm",
+    "page_host": "faculty.hust.edu.cn",
+    "markdown_cache_path": "D:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\06da4fa7dc3569994c1420f4a87f60b05fd601e196f244d126239801cc1b8a43.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": "包含详尽的个人简介、教育背景、工作经历、研究方向、教学课程及联系方式等核心信息。"
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "target_tutor": "刘骁康",
+    "source_url": "http://faculty.hust.edu.cn/~uqaUne/zh_CN/index.htm",
+    "basic_information": {
+      "name_cn": "刘骁康",
+      "name_en": "Liu Xiaokang",
+      "title": "副教授",
+      "gender": "男",
+      "employment_status": "在职",
+      "department": "人工智能与自动化学院",
+      "education_level": "研究生(博士)毕业",
+      "degree": "工学博士学位",
+      "graduated_from": "华中科技大学",
+      "major": "控制理论与控制工程"
+    },
+    "contact_information": {
+      "zip_code": "430074",
+      "email": "xiaokangliu@hust.edu.cn",
+      "related_links": [
+        {
+          "anchor_text": "同专业硕导",
+          "url": "http://faculty.hust.edu.cn/LiuXiaokang/zh_CN/tzysd/2360066/list/index.htm"
+        },
+        {
+          "anchor_text": "中文主页",
+          "url": "https://teacher.hust.edu.cn/system/tsites/permag/preview.jsp?homepageuuid=34CC3925C0C94162B2AC035761D28933"
+        }
+      ]
+    },
+    "personal_profile": {
+      "summary": "刘骁康，华中科技大学人工智能与自动化学院副教授、硕士生导师。2019年获得控制科学与工程专业博士学位。从事协同控制的理论与应用研究，包括多智能体系统的混杂协同控制、微电网系统的协同控制与优化等。",
+      "achievements": {
+        "publications": "发表 Automatica 和 IEEE 汇刊 30 余篇",
+        "patents": "授权国家发明专利 10 项",
+        "esi_citations": "先后入选 ESI 高被引论文 4 篇"
+      },
+      "projects_and_honors": [
+        "主持国家自然科学基金面上项目",
+        "主持国家自然科学基金青年项目",
+        "主持湖北省自然科学基金青年项目",
+        "主持教育部高等学校自动化类专业教学指导委员会专业教育教学改革研究课题",
+        "入选武汉英才",
+        "入选中国科协青年人才托举工程"
+      ]
+    },
+    "education_background": [
+      {
+        "period": "2014.09 - 2019.06",
+        "institution": "华中科技大学",
+        "department": "人工智能与自动化学院",
+        "degree": "工学博士学位",
+        "major": "控制科学与工程",
+        "description": "研究生(博士)毕业"
+      },
+      {
+        "period": "2010.09 - 2014.06",
+        "institution": "华中科技大学",
+        "department": "自动化学院",
+        "degree": "工学学士学位",
+        "major": "2010级自动化理工交叉实验班",
+        "affiliation": "启明学院",
+        "description": "本科毕业"
+      },
+      {
+        "period": "2018.11 - 2019.02",
+        "institution": "新加坡南洋理工大学",
+        "department": "电气与电子工程",
+        "type": "联合培养"
+      },
+      {
+        "period": "2017.07 - 2018.08",
+        "institution": "美国罗德岛大学",
+        "department": "电气工程",
+        "type": "联合培养"
+      }
+    ],
+    "work_experience": [
+      {
+        "period": "2024.02 - 至今",
+        "institution": "华中科技大学",
+        "department": "人工智能与自动化学院",
+        "position": "副教授"
+      },
+      {
+        "period": "2021.03 - 2024.01",
+        "institution": "华中科技大学",
+        "department": "人工智能与自动化学院",
+        "position": "讲师"
+      },
+      {
+        "period": "2019.10 - 2021.02",
+        "institution": "新加坡南洋理工大学 (Nanyang Technological University)",
+        "department": "电气与电子工程系 (Electrical and Electronic Engineering)",
+        "position": "Research Fellow"
+      },
+      {
+        "period": "2019.06 - 2019.09",
+        "institution": "中科院数学与系统科学研究所",
+        "position": "访问学者"
+      },
+      {
+        "period": "2018.11 - 2019.02",
+        "institution": "新加坡南洋理工大学",
+        "department": "能源研究院(ERI@N)",
+        "position": "Visiting Scholar"
+      },
+      {
+        "period": "2017.07 - 2018.08",
+        "institution": "美国罗德岛大学",
+        "department": "电气工程系",
+        "position": "Visiting Scholar"
+      }
+    ],
+    "teaching": {
+      "undergraduate_courses": [
+        "《自动控制原理（一）》",
+        "《智能芯片设计》",
+        "《自主智能系统》"
+      ],
+      "postgraduate_courses": [
+        "《自适应与学习系统》",
+        "《学术规范与论文写作》"
+      ]
+    },
+    "research_fields": {
+      "general_directions": [
+        "智能电网的控制与优化",
+        "分布式协同与群集智能"
+      ],
+      "specific_sub_directions": [
+        {
+          "name": "分布式控制与优化",
+          "url": "http://faculty.hust.edu.cn/LiuXiaokang/zh_CN/yjfx/2360066/content/5711.htm#yjfx"
+        },
+        {
+          "name": "隐私保护协同控制",
+          "url": "http://faculty.hust.edu.cn/LiuXiaokang/zh_CN/yjfx/2360066/content/5709.htm#yjfx"
+        }
+      ],
+      "research_questions_of_interest": [
+        "1. Braess's Paradox现象：电力系统组网运行时是否会出现Braess's Paradox现象？",
+        "2. 耦合潮流优化：带气网PDE约束的优化问题该如何求解？",
+        "3. 直流潮流控制：在什么条件下，正稳定矩阵秩一扰动后依然还能保证正稳定性？"
+      ]
+    },
+    "student_recruitment": {
+      "strategic_context": "响应国家“双碳”战略需求",
+      "research_focus": "围绕新型电力系统的大数据分析、协同控制、优化运行、韧性恢复等内容",
+      "recruitment_count": "每年招收硕士研究生、博士研究生若干名",
+      "invitation": "欢迎感兴趣的同学随时咨询联系，欢迎志同道合的同学们加入交流！"
+    },
+    "social_affiliations": [
+      "中国自动化学会会员",
+      "IEEE Member"
+    ],
+    "multimedia_resources": [
+      {
+        "type": "profile_image",
+        "url": "http://faculty.hust.edu.cn/_resources/group1/M00/00/24/rBAGRmOa0AuAABHJAAJTrtugpW8385.png?randomid=1767829121003"
+      },
+      {
+        "type": "icon",
+        "url": "http://faculty.hust.edu.cn/_ts/qtmbzw1/images/ico-heart-i.png"
+      }
+    ],
+    "site_chrome": {
+      "page_source": "抓取来源：http://faculty.hust.edu.cn/~uqaUne/zh_CN/index.htm",
+      "navigation_tabs": [
+        "教育经历Education Background",
+        "工作经历Work Experience",
+        "研究方向Research Focus",
+        "社会兼职Social Affiliations"
+      ]
+    }
+  }
+}

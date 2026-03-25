@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "tutor_name_cn": "程骋",
+    "request_url": "http://faculty.hust.edu.cn/~uQb2Mf/zh_CN/index.htm",
+    "declared_source_url": "http://faculty.hust.edu.cn/~uQb2Mf/zh_CN/index.htm",
+    "page_host": "faculty.hust.edu.cn",
+    "markdown_cache_path": "D:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\7ab04aaf02819aa1e1ca02c5dbc1c5c9d43ab2d7ca85d0d63b86f0629c647f97.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": "包含详尽的个人简介、教育工作背景、研究方向及科研成果等有效信息。"
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "target_teacher": "程骋",
+    "source_url": "http://faculty.hust.edu.cn/~uQb2Mf/zh_CN/index.htm",
+    "site_chrome": {
+      "navigation_links": [
+        {
+          "anchor_text": "同专业博导",
+          "url": "http://faculty.hust.edu.cn/chengcheng/zh_CN/tzybd/2346893/list/index.htm"
+        },
+        {
+          "anchor_text": "同专业硕导",
+          "url": "http://faculty.hust.edu.cn/chengcheng/zh_CN/tzysd/2346893/list/index.htm"
+        }
+      ],
+      "images": [
+        "http://faculty.hust.edu.cn/~uQb2Mf/zh_CN/index.htm",
+        "http://faculty.hust.edu.cn/_resources/group1/M00/00/2B/rBAGRmhHyn-AOkNyAAJR4a-4pQ4904.png?randomid=1768308058144",
+        "http://faculty.hust.edu.cn/_ts/qtmbzw1/images/ico-heart-i.png"
+      ]
+    },
+    "personal_information": {
+      "name": "程骋",
+      "titles": [
+        "副教授",
+        "博士生导师",
+        "硕士生导师"
+      ],
+      "gender": "女",
+      "employment_status": "在职",
+      "department": "人工智能与自动化学院",
+      "education_level": "研究生(博士)毕业",
+      "degree": "工学博士学位",
+      "alma_mater": "英国伦敦帝国理工",
+      "discipline": "控制理论与控制工程"
+    },
+    "contact_information": {
+      "postal_code": "430074",
+      "email": "c_cheng@hust.edu.cn"
+    },
+    "personal_profile": {
+      "biography": "华中科技大学人工智能与自动化学院副教授、博士生导师，入选中国科协和武汉市青年人才项目。于2012年在天津大学获测控技术与仪器学士学位，2013和2018年在英国伦敦帝国理工控制系统系获硕士和博士学位（导师为控制系统系Simos Evangelou与机械工程学院英国皇家工程院院士Daniele Dini教授）。",
+      "projects_summary": "主持国家自然科学基金面上项目、青年基金、湖北省面上项目、国家重点实验室开放基金、教育部重点实验室开放基金等项目，参与国家自然科学基金重大研究计划（重点支持项目）、科技部重点研发计划课题等项目。",
+      "awards": [
+        "2022年湖北省自然科学一等奖（排2）",
+        "2022年WAIC世界人工智能大会青年优秀论文提名奖"
+      ],
+      "achievements": {
+        "publications": "在柳叶刀子刊（The Lancet Digital Health)、NEJM AI、IEEE/ASME Transactions on Mechatronics、IEEE Transactions on Instrumentation and Measurement、IEEE Transactions on Industrial Informatics等期刊发表第一/通讯作者论文",
+        "metrics": [
+          "ESI高被引论文3篇",
+          "Google Scholar引用3600余次"
+        ]
+      },
+      "general_research_interests": [
+        "信息物理系统建模、演化分析与优化方法及其在智能制造中的应用研究",
+        "机器人化智能制造中的灵巧操作研究"
+      ]
+    },
+    "education_background": [
+      {
+        "period": "2013.11 - 2018.2",
+        "institution": "英国伦敦帝国理工",
+        "degree": "工学博士学位",
+        "status": "研究生(博士)毕业"
+      },
+      {
+        "period": "2012.11 - 2013.11",
+        "institution": "英国伦敦帝国理工",
+        "degree": "工学硕士学位",
+        "status": "研究生(硕士)毕业"
+      },
+      {
+        "period": "2008.9 - 2012.6",
+        "institution": "天津大学",
+        "degree": "工学学士学位",
+        "status": "本科(学士)"
+      }
+    ],
+    "work_experience": [
+      {
+        "period": "2018.7 - 2020.8",
+        "institution": "华中科技大学",
+        "department": "人工智能与自动化学院",
+        "position": "博士后"
+      }
+    ],
+    "detailed_research_focus": [
+      {
+        "topic": "制造过程工艺参数优化",
+        "url": "http://faculty.hust.edu.cn/chengcheng/zh_CN/yjfx/2346893/content/6552.htm#yjfx"
+      },
+      {
+        "topic": "智能制造大数据",
+        "url": "http://faculty.hust.edu.cn/chengcheng/zh_CN/yjfx/2346893/content/5559.htm#yjfx"
+      },
+      {
+        "topic": "医疗人工智能",
+        "url": "http://faculty.hust.edu.cn/chengcheng/zh_CN/yjfx/2346893/content/5558.htm#yjfx"
+      }
+    ],
+    "social_affiliations": {
+      "content": "暂无内容"
+    }
+  }
+}
