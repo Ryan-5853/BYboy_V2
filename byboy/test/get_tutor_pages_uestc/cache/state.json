@@ -1,0 +1,1702 @@
+{
+  "main_task_meta": {
+    "schema": "get_tutor_inf_main_state",
+    "version": 1,
+    "created_at": "2026-03-25T06:45:19+00:00",
+    "updated_at": "2026-03-25T12:00:59+00:00"
+  },
+  "main_task_params": {
+    "academy_url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm",
+    "workdir": "F:\\BYboy_V2\\byboy\\test\\get_tutor_pages_uestc",
+    "slot": "BYBOY_SLOT_FAST",
+    "max_depth": 5,
+    "pages_resume_state_path": null,
+    "analysed_subdir": "cache/analysed",
+    "csv_path": null,
+    "csv_resume_state_path": null,
+    "csv_run_log_path": null,
+    "link_choose_refine_all_links": true
+  },
+  "main_task_progress": {
+    "requested_start_stage": "analyse",
+    "requested_start_round": null,
+    "status": "running",
+    "stages": {
+      "pages": {
+        "status": "done",
+        "updated_at": "2026-03-25T11:55:21+00:00",
+        "detail": {
+          "state_path": "byboy\\test\\get_tutor_pages_uestc\\cache\\state.json"
+        }
+      },
+      "analyse": {
+        "status": "running",
+        "updated_at": "2026-03-25T12:00:59+00:00"
+      },
+      "csv": {
+        "status": "done",
+        "updated_at": "2026-03-25T08:03:32+00:00",
+        "detail": {
+          "csv_path": "F:\\BYboy_V2\\byboy\\test\\get_tutor_pages_uestc\\cache\\tutor_summary.csv"
+        }
+      }
+    },
+    "last_round": 2,
+    "last_stage": "analyse",
+    "updated_at": "2026-03-25T12:00:59+00:00"
+  },
+  "main_task_rounds": [
+    {
+      "round": 1,
+      "stages": {
+        "pages": {
+          "status": "done",
+          "updated_at": "2026-03-25T06:46:34+00:00",
+          "detail": {
+            "state_path": "byboy\\test\\get_tutor_pages_uestc\\cache\\state.json"
+          }
+        },
+        "analyse": {
+          "status": "skipped",
+          "updated_at": "2026-03-25T06:46:34+00:00",
+          "detail": {
+            "note": "no_cleaned_tutor_profiles_yet"
+          }
+        }
+      }
+    },
+    {
+      "round": 2,
+      "stages": {
+        "pages": {
+          "status": "done",
+          "updated_at": "2026-03-25T11:55:21+00:00",
+          "detail": {
+            "state_path": "byboy\\test\\get_tutor_pages_uestc\\cache\\state.json"
+          }
+        },
+        "analyse": {
+          "status": "running",
+          "updated_at": "2026-03-25T12:00:59+00:00"
+        }
+      }
+    },
+    {
+      "round": 3,
+      "stages": {
+        "pages": {
+          "status": "done",
+          "updated_at": "2026-03-25T08:03:32+00:00",
+          "detail": {
+            "note": "no_pending_pages"
+          }
+        }
+      }
+    }
+  ],
+  "round": 2,
+  "seq": 178,
+  "list1_possible_pages": [
+    "http://faculty.uestc.edu.cn/cxi/zh_CN/index.htm",
+    "http://faculty.uestc.edu.cn/gaobin/zh_CN/lwcg/153392/list/index.htm",
+    "http://faculty.uestc.edu.cn/longyue/zh_CN/index.htm",
+    "http://faculty.uestc.edu.cn/tianlulu1/zh_CN/index.htm",
+    "http://faculty.uestc.edu.cn/zhangjiusi/zh_CN/index.htm",
+    "https://faculty.uestc.edu.cn/bidongjie/zh_CN/index/169592/list/index.htm",
+    "https://faculty.uestc.edu.cn/chencong1/zh_CN/index.htm",
+    "https://faculty.uestc.edu.cn/chengjunguo/zh_CN/index.htm",
+    "https://faculty.uestc.edu.cn/dhzhou/zh_CN/",
+    "https://faculty.uestc.edu.cn/huangwei123/zh_CN/index.htm",
+    "https://faculty.uestc.edu.cn/liyanjun/zh_CN/index.htm",
+    "https://faculty.uestc.edu.cn/liyanjun/zh_CN/kyxm/142481/list/index.htm",
+    "https://faculty.uestc.edu.cn/pengzhinan1/zh_CN/index.htm",
+    "https://faculty.uestc.edu.cn/shenzewei1/zh_CN/index.htm",
+    "https://faculty.uestc.edu.cn/wangli2/zh_CN/index.htm",
+    "https://www.auto.uestc.edu.cn/bszn/jsb.htm",
+    "https://www.auto.uestc.edu.cn/bszn/jsb/szdw.htm",
+    "https://www.auto.uestc.edu.cn/hzjl/cfgs.htm",
+    "https://www.auto.uestc.edu.cn/hzjl/jscj.htm",
+    "https://www.auto.uestc.edu.cn/index.htm",
+    "https://www.auto.uestc.edu.cn/info/1091/4046.htm",
+    "https://www.auto.uestc.edu.cn/info/1091/4145.htm",
+    "https://www.auto.uestc.edu.cn/info/1091/4147.htm",
+    "https://www.auto.uestc.edu.cn/info/1091/4187.htm",
+    "https://www.auto.uestc.edu.cn/info/1091/7674.htm",
+    "https://www.auto.uestc.edu.cn/info/1091/7726.htm",
+    "https://www.auto.uestc.edu.cn/info/1092/4274.htm",
+    "https://www.auto.uestc.edu.cn/info/1092/4276.htm",
+    "https://www.auto.uestc.edu.cn/info/1092/5489.htm",
+    "https://www.auto.uestc.edu.cn/info/1092/5492.htm",
+    "https://www.auto.uestc.edu.cn/kxyj/kypt/yqkxyjs.htm",
+    "https://www.auto.uestc.edu.cn/kxyj/kytd/yqkxyjsx.htm",
+    "https://www.auto.uestc.edu.cn/rcpy/pxzx/szll.htm",
+    "https://www.auto.uestc.edu.cn/szdw/jsml/1.htm",
+    "https://www.auto.uestc.edu.cn/szdw/jsml/14.htm",
+    "https://www.auto.uestc.edu.cn/szdw/jsml/15.htm",
+    "https://www.auto.uestc.edu.cn/szdw/jsml/16.htm",
+    "https://www.auto.uestc.edu.cn/szdw/jsml/17.htm",
+    "https://www.auto.uestc.edu.cn/szdw/jsml/bsh.htm",
+    "https://www.auto.uestc.edu.cn/szdw/jsml/bssds.htm",
+    "https://www.auto.uestc.edu.cn/szdw/jsml/cj.htm",
+    "https://www.auto.uestc.edu.cn/szdw/jsml/fgj.htm",
+    "https://www.auto.uestc.edu.cn/szdw/jsml/sssds.htm",
+    "https://www.auto.uestc.edu.cn/szdw/jsml/zgj/1.htm",
+    "https://www.auto.uestc.edu.cn/szdw/jsml/zgj/3.htm",
+    "https://www.auto.uestc.edu.cn/szdw/jsml/zgj/4.htm",
+    "https://www.auto.uestc.edu.cn/szdw/jsml/zgj/5.htm",
+    "https://www.auto.uestc.edu.cn/szdw/jsml/zgj/6.htm",
+    "https://www.auto.uestc.edu.cn/szdw/jsml/zj.htm",
+    "https://www.auto.uestc.edu.cn/szdw/jsmlzly/A.htm",
+    "https://www.auto.uestc.edu.cn/szdw/jsmlzly/B.htm",
+    "https://www.auto.uestc.edu.cn/szdw/jsmlzly/C.htm",
+    "https://www.auto.uestc.edu.cn/szdw/jsmlzly/D.htm",
+    "https://www.auto.uestc.edu.cn/szdw/jsmlzly/E.htm",
+    "https://www.auto.uestc.edu.cn/szdw/jsmlzly/F.htm",
+    "https://www.auto.uestc.edu.cn/szdw/jsmlzly/G.htm",
+    "https://www.auto.uestc.edu.cn/szdw/jsmlzly/H.htm",
+    "https://www.auto.uestc.edu.cn/szdw/jsmlzly/I.htm",
+    "https://www.auto.uestc.edu.cn/szdw/jsmlzly/J.htm",
+    "https://www.auto.uestc.edu.cn/szdw/jsmlzly/K.htm",
+    "https://www.auto.uestc.edu.cn/szdw/jsmlzly/L.htm",
+    "https://www.auto.uestc.edu.cn/szdw/jsmlzly/M.htm",
+    "https://www.auto.uestc.edu.cn/szdw/jsmlzly/N.htm",
+    "https://www.auto.uestc.edu.cn/szdw/jsmlzly/O.htm",
+    "https://www.auto.uestc.edu.cn/szdw/jsmlzly/P.htm",
+    "https://www.auto.uestc.edu.cn/szdw/jsmlzly/Q.htm",
+    "https://www.auto.uestc.edu.cn/szdw/jsmlzly/R.htm",
+    "https://www.auto.uestc.edu.cn/szdw/jsmlzly/S.htm",
+    "https://www.auto.uestc.edu.cn/szdw/jsmlzly/T.htm",
+    "https://www.auto.uestc.edu.cn/szdw/jsmlzly/U.htm",
+    "https://www.auto.uestc.edu.cn/szdw/jsmlzly/V.htm",
+    "https://www.auto.uestc.edu.cn/szdw/jsmlzly/W.htm",
+    "https://www.auto.uestc.edu.cn/szdw/jsmlzly/X.htm",
+    "https://www.auto.uestc.edu.cn/szdw/jsmlzly/Y.htm",
+    "https://www.auto.uestc.edu.cn/szdw/jsmlzly/Z.htm",
+    "https://www.auto.uestc.edu.cn/xygk/kssz.htm",
+    "https://www.auto.uestc.edu.cn/xygk/sjxx.htm",
+    "https://www.auto.uestc.edu.cn/xygk/xrld.htm",
+    "https://www.auto.uestc.edu.cn/xygk/xyjj.htm",
+    "https://www.auto.uestc.edu.cn/xygk/yzxx.htm",
+    "https://www.researchgate.net/profile/Cong-Yin",
+    "https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/dsgrjj/10970",
+    "https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/dsgrjj/12531",
+    "https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/dsgrjj/21363"
+  ],
+  "list2_tutor_profiles": [
+    "http://faculty.uestc.edu.cn/cxi/zh_CN/index.htm",
+    "http://faculty.uestc.edu.cn/gaobin/zh_CN/lwcg/153392/list/index.htm",
+    "http://faculty.uestc.edu.cn/longyue/zh_CN/index.htm",
+    "http://faculty.uestc.edu.cn/tianlulu1/zh_CN/index.htm",
+    "http://faculty.uestc.edu.cn/zhangjiusi/zh_CN/index.htm",
+    "https://faculty.uestc.edu.cn/bidongjie/zh_CN/index/169592/list/index.htm",
+    "https://faculty.uestc.edu.cn/chencong1/zh_CN/index.htm",
+    "https://faculty.uestc.edu.cn/chengjunguo/zh_CN/index.htm",
+    "https://faculty.uestc.edu.cn/dhzhou/zh_CN/",
+    "https://faculty.uestc.edu.cn/huangwei123/zh_CN/index.htm",
+    "https://faculty.uestc.edu.cn/liyanjun/zh_CN/index.htm",
+    "https://faculty.uestc.edu.cn/liyanjun/zh_CN/kyxm/142481/list/index.htm",
+    "https://faculty.uestc.edu.cn/pengzhinan1/zh_CN/index.htm",
+    "https://faculty.uestc.edu.cn/shenzewei1/zh_CN/index.htm",
+    "https://faculty.uestc.edu.cn/wangli2/zh_CN/index.htm",
+    "https://www.auto.uestc.edu.cn/info/1091/4046.htm",
+    "https://www.auto.uestc.edu.cn/info/1091/4145.htm",
+    "https://www.auto.uestc.edu.cn/info/1091/4147.htm",
+    "https://www.auto.uestc.edu.cn/info/1091/4187.htm",
+    "https://www.auto.uestc.edu.cn/info/1091/7674.htm",
+    "https://www.auto.uestc.edu.cn/info/1091/7726.htm",
+    "https://www.auto.uestc.edu.cn/info/1092/4274.htm",
+    "https://www.auto.uestc.edu.cn/info/1092/4276.htm",
+    "https://www.auto.uestc.edu.cn/info/1092/5489.htm",
+    "https://www.auto.uestc.edu.cn/info/1092/5492.htm",
+    "https://www.auto.uestc.edu.cn/info/1151/4048.htm",
+    "https://www.auto.uestc.edu.cn/info/1151/7676.htm",
+    "https://www.auto.uestc.edu.cn/info/1152/4305.htm",
+    "https://www.auto.uestc.edu.cn/info/1152/4311.htm",
+    "https://www.auto.uestc.edu.cn/info/1152/4321.htm",
+    "https://www.auto.uestc.edu.cn/info/1152/4333.htm",
+    "https://www.auto.uestc.edu.cn/info/1152/4527.htm",
+    "https://www.auto.uestc.edu.cn/info/1152/6154.htm",
+    "https://www.auto.uestc.edu.cn/info/1152/6155.htm",
+    "https://www.auto.uestc.edu.cn/info/1152/7221.htm",
+    "https://www.auto.uestc.edu.cn/info/1152/7728.htm",
+    "https://www.auto.uestc.edu.cn/info/1153/4052.htm",
+    "https://www.auto.uestc.edu.cn/info/1153/4054.htm",
+    "https://www.auto.uestc.edu.cn/info/1153/4341.htm",
+    "https://www.auto.uestc.edu.cn/info/1155/4343.htm",
+    "https://www.auto.uestc.edu.cn/info/1155/4345.htm",
+    "https://www.auto.uestc.edu.cn/info/1156/4056.htm",
+    "https://www.auto.uestc.edu.cn/info/1156/4058.htm",
+    "https://www.auto.uestc.edu.cn/info/1156/4060.htm",
+    "https://www.auto.uestc.edu.cn/info/1156/4347.htm",
+    "https://www.auto.uestc.edu.cn/info/1156/4515.htm",
+    "https://www.auto.uestc.edu.cn/info/1156/4521.htm",
+    "https://www.auto.uestc.edu.cn/info/1156/4523.htm",
+    "https://www.auto.uestc.edu.cn/info/1156/7030.htm",
+    "https://www.auto.uestc.edu.cn/info/1156/7223.htm",
+    "https://www.auto.uestc.edu.cn/info/1156/7409.htm",
+    "https://www.auto.uestc.edu.cn/info/1157/4062.htm",
+    "https://www.auto.uestc.edu.cn/info/1157/4064.htm",
+    "https://www.auto.uestc.edu.cn/info/1157/4066.htm",
+    "https://www.auto.uestc.edu.cn/info/1157/4161.htm",
+    "https://www.auto.uestc.edu.cn/info/1157/4349.htm",
+    "https://www.auto.uestc.edu.cn/info/1157/4351.htm",
+    "https://www.auto.uestc.edu.cn/info/1157/4353.htm",
+    "https://www.auto.uestc.edu.cn/info/1157/4355.htm",
+    "https://www.auto.uestc.edu.cn/info/1157/4386.htm",
+    "https://www.auto.uestc.edu.cn/info/1157/4498.htm",
+    "https://www.auto.uestc.edu.cn/info/1157/4502.htm",
+    "https://www.auto.uestc.edu.cn/info/1157/4504.htm",
+    "https://www.auto.uestc.edu.cn/info/1157/4506.htm",
+    "https://www.auto.uestc.edu.cn/info/1157/4509.htm",
+    "https://www.auto.uestc.edu.cn/info/1157/4513.htm",
+    "https://www.auto.uestc.edu.cn/info/1157/6194.htm",
+    "https://www.auto.uestc.edu.cn/info/1157/6958.htm",
+    "https://www.auto.uestc.edu.cn/info/1157/7226.htm",
+    "https://www.auto.uestc.edu.cn/info/1157/7714.htm",
+    "https://www.auto.uestc.edu.cn/info/1157/7968.htm",
+    "https://www.auto.uestc.edu.cn/info/1159/4357.htm",
+    "https://www.auto.uestc.edu.cn/info/1159/4367.htm",
+    "https://www.auto.uestc.edu.cn/info/1159/4661.htm",
+    "https://www.auto.uestc.edu.cn/info/1159/7365.htm",
+    "https://www.auto.uestc.edu.cn/info/1160/4070.htm",
+    "https://www.auto.uestc.edu.cn/info/1160/4494.htm",
+    "https://www.auto.uestc.edu.cn/info/1161/4074.htm",
+    "https://www.auto.uestc.edu.cn/info/1161/4076.htm",
+    "https://www.auto.uestc.edu.cn/info/1161/4078.htm",
+    "https://www.auto.uestc.edu.cn/info/1161/4080.htm",
+    "https://www.auto.uestc.edu.cn/info/1161/4279.htm",
+    "https://www.auto.uestc.edu.cn/info/1161/4361.htm",
+    "https://www.auto.uestc.edu.cn/info/1161/4363.htm",
+    "https://www.auto.uestc.edu.cn/info/1161/4365.htm",
+    "https://www.auto.uestc.edu.cn/info/1161/4369.htm",
+    "https://www.auto.uestc.edu.cn/info/1161/4371.htm",
+    "https://www.auto.uestc.edu.cn/info/1161/4373.htm",
+    "https://www.auto.uestc.edu.cn/info/1161/4375.htm",
+    "https://www.auto.uestc.edu.cn/info/1161/4380.htm",
+    "https://www.auto.uestc.edu.cn/info/1161/4382.htm",
+    "https://www.auto.uestc.edu.cn/info/1161/4383.htm",
+    "https://www.auto.uestc.edu.cn/info/1161/4466.htm",
+    "https://www.auto.uestc.edu.cn/info/1161/4468.htm",
+    "https://www.auto.uestc.edu.cn/info/1161/4474.htm",
+    "https://www.auto.uestc.edu.cn/info/1161/4476.htm",
+    "https://www.auto.uestc.edu.cn/info/1161/4478.htm",
+    "https://www.auto.uestc.edu.cn/info/1161/4482.htm",
+    "https://www.auto.uestc.edu.cn/info/1161/4484.htm",
+    "https://www.auto.uestc.edu.cn/info/1161/4486.htm",
+    "https://www.auto.uestc.edu.cn/info/1161/4488.htm",
+    "https://www.auto.uestc.edu.cn/info/1161/4490.htm",
+    "https://www.auto.uestc.edu.cn/info/1161/4492.htm",
+    "https://www.auto.uestc.edu.cn/info/1161/7615.htm",
+    "https://www.auto.uestc.edu.cn/info/1161/7735.htm",
+    "https://www.auto.uestc.edu.cn/info/1162/4081.htm",
+    "https://www.auto.uestc.edu.cn/info/1162/4083.htm",
+    "https://www.auto.uestc.edu.cn/info/1162/4462.htm",
+    "https://www.auto.uestc.edu.cn/info/1162/4464.htm",
+    "https://www.auto.uestc.edu.cn/info/1162/7733.htm",
+    "https://www.auto.uestc.edu.cn/info/1165/4359.htm",
+    "https://www.auto.uestc.edu.cn/info/1165/4454.htm",
+    "https://www.auto.uestc.edu.cn/info/1165/4456.htm",
+    "https://www.auto.uestc.edu.cn/info/1165/4458.htm",
+    "https://www.auto.uestc.edu.cn/info/1165/7730.htm",
+    "https://www.auto.uestc.edu.cn/info/1165/7822.htm",
+    "https://www.auto.uestc.edu.cn/info/1165/7985.htm",
+    "https://www.auto.uestc.edu.cn/info/1166/4339.htm",
+    "https://www.auto.uestc.edu.cn/info/1166/4452.htm",
+    "https://www.auto.uestc.edu.cn/info/1167/8017.htm",
+    "https://www.auto.uestc.edu.cn/info/1168/4089.htm",
+    "https://www.auto.uestc.edu.cn/info/1168/4335.htm",
+    "https://www.auto.uestc.edu.cn/info/1168/4337.htm",
+    "https://www.auto.uestc.edu.cn/info/1168/4446.htm",
+    "https://www.auto.uestc.edu.cn/info/1168/4448.htm",
+    "https://www.auto.uestc.edu.cn/info/1168/7057.htm",
+    "https://www.auto.uestc.edu.cn/info/1168/7545.htm",
+    "https://www.auto.uestc.edu.cn/info/1169/4325.htm",
+    "https://www.auto.uestc.edu.cn/info/1169/4327.htm",
+    "https://www.auto.uestc.edu.cn/info/1169/4329.htm",
+    "https://www.auto.uestc.edu.cn/info/1169/4331.htm",
+    "https://www.auto.uestc.edu.cn/info/1169/4385.htm",
+    "https://www.auto.uestc.edu.cn/info/1169/4444.htm",
+    "https://www.auto.uestc.edu.cn/info/1172/4091.htm",
+    "https://www.auto.uestc.edu.cn/info/1172/4095.htm",
+    "https://www.auto.uestc.edu.cn/info/1172/4101.htm",
+    "https://www.auto.uestc.edu.cn/info/1172/4104.htm",
+    "https://www.auto.uestc.edu.cn/info/1172/4323.htm",
+    "https://www.auto.uestc.edu.cn/info/1172/4434.htm",
+    "https://www.auto.uestc.edu.cn/info/1172/4436.htm",
+    "https://www.auto.uestc.edu.cn/info/1172/4438.htm",
+    "https://www.auto.uestc.edu.cn/info/1172/7055.htm",
+    "https://www.auto.uestc.edu.cn/info/1172/7601.htm",
+    "https://www.auto.uestc.edu.cn/info/1172/8027.htm",
+    "https://www.auto.uestc.edu.cn/info/1173/4108.htm",
+    "https://www.auto.uestc.edu.cn/info/1173/4317.htm",
+    "https://www.auto.uestc.edu.cn/info/1173/4319.htm",
+    "https://www.auto.uestc.edu.cn/info/1173/4424.htm",
+    "https://www.auto.uestc.edu.cn/info/1173/4428.htm",
+    "https://www.auto.uestc.edu.cn/info/1173/4432.htm",
+    "https://www.auto.uestc.edu.cn/info/1173/6034.htm",
+    "https://www.auto.uestc.edu.cn/info/1173/7482.htm",
+    "https://www.auto.uestc.edu.cn/info/1173/8001.htm",
+    "https://www.auto.uestc.edu.cn/info/1174/4112.htm",
+    "https://www.auto.uestc.edu.cn/info/1174/4114.htm",
+    "https://www.auto.uestc.edu.cn/info/1174/4301.htm",
+    "https://www.auto.uestc.edu.cn/info/1174/4307.htm",
+    "https://www.auto.uestc.edu.cn/info/1174/4313.htm",
+    "https://www.auto.uestc.edu.cn/info/1174/4315.htm",
+    "https://www.auto.uestc.edu.cn/info/1174/4405.htm",
+    "https://www.auto.uestc.edu.cn/info/1174/4407.htm",
+    "https://www.auto.uestc.edu.cn/info/1174/4409.htm",
+    "https://www.auto.uestc.edu.cn/info/1174/4410.htm",
+    "https://www.auto.uestc.edu.cn/info/1174/4415.htm",
+    "https://www.auto.uestc.edu.cn/info/1174/4417.htm",
+    "https://www.auto.uestc.edu.cn/info/1174/4419.htm",
+    "https://www.auto.uestc.edu.cn/info/1174/4421.htm",
+    "https://www.auto.uestc.edu.cn/info/1174/4422.htm",
+    "https://www.auto.uestc.edu.cn/info/1174/6195.htm",
+    "https://www.auto.uestc.edu.cn/info/1175/4118.htm",
+    "https://www.auto.uestc.edu.cn/info/1175/4119.htm",
+    "https://www.auto.uestc.edu.cn/info/1175/4120.htm",
+    "https://www.auto.uestc.edu.cn/info/1175/4123.htm",
+    "https://www.auto.uestc.edu.cn/info/1175/4124.htm",
+    "https://www.auto.uestc.edu.cn/info/1175/4126.htm",
+    "https://www.auto.uestc.edu.cn/info/1175/4142.htm",
+    "https://www.auto.uestc.edu.cn/info/1175/4281.htm",
+    "https://www.auto.uestc.edu.cn/info/1175/4282.htm",
+    "https://www.auto.uestc.edu.cn/info/1175/4285.htm",
+    "https://www.auto.uestc.edu.cn/info/1175/4287.htm",
+    "https://www.auto.uestc.edu.cn/info/1175/4289.htm",
+    "https://www.auto.uestc.edu.cn/info/1175/4291.htm",
+    "https://www.auto.uestc.edu.cn/info/1175/4293.htm",
+    "https://www.auto.uestc.edu.cn/info/1175/4295.htm",
+    "https://www.auto.uestc.edu.cn/info/1175/4297.htm",
+    "https://www.auto.uestc.edu.cn/info/1175/4303.htm",
+    "https://www.auto.uestc.edu.cn/info/1175/4378.htm",
+    "https://www.auto.uestc.edu.cn/info/1175/4388.htm",
+    "https://www.auto.uestc.edu.cn/info/1175/4390.htm",
+    "https://www.auto.uestc.edu.cn/info/1175/4392.htm",
+    "https://www.auto.uestc.edu.cn/info/1175/4394.htm",
+    "https://www.auto.uestc.edu.cn/info/1175/4398.htm",
+    "https://www.auto.uestc.edu.cn/info/1175/4400.htm",
+    "https://www.auto.uestc.edu.cn/info/1175/4402.htm",
+    "https://www.auto.uestc.edu.cn/info/1175/4403.htm",
+    "https://www.auto.uestc.edu.cn/info/1175/4531.htm",
+    "https://www.auto.uestc.edu.cn/info/1175/7213.htm",
+    "https://www.auto.uestc.edu.cn/info/1175/7477.htm",
+    "https://www.auto.uestc.edu.cn/info/1175/7542.htm",
+    "https://www.auto.uestc.edu.cn/info/1175/7913.htm",
+    "https://www.auto.uestc.edu.cn/szdw/jsmlzly/R.htm",
+    "https://www.auto.uestc.edu.cn/szdw/jsmlzly/S.htm",
+    "https://www.auto.uestc.edu.cn/szdw/jsmlzly/T.htm",
+    "https://www.auto.uestc.edu.cn/szdw/jsmlzly/U.htm",
+    "https://www.auto.uestc.edu.cn/szdw/jsmlzly/V.htm",
+    "https://www.auto.uestc.edu.cn/szdw/jsmlzly/W.htm",
+    "https://www.auto.uestc.edu.cn/szdw/jsmlzly/X.htm",
+    "https://www.auto.uestc.edu.cn/szdw/jsmlzly/Y.htm",
+    "https://www.auto.uestc.edu.cn/szdw/jsmlzly/Z.htm",
+    "https://www.auto.uestc.edu.cn/xygk/sjxx.htm",
+    "https://www.auto.uestc.edu.cn/xygk/yzxx.htm",
+    "https://www.researchgate.net/profile/Cong-Yin",
+    "https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/dsgrjj/10970",
+    "https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/dsgrjj/12531",
+    "https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/dsgrjj/21363"
+  ],
+  "list3_processed_pages": [
+    "https://www.auto.uestc.edu.cn/info/1151/4048.htm",
+    "https://www.auto.uestc.edu.cn/info/1151/7676.htm",
+    "https://www.auto.uestc.edu.cn/info/1152/4305.htm",
+    "https://www.auto.uestc.edu.cn/info/1152/4311.htm",
+    "https://www.auto.uestc.edu.cn/info/1152/4321.htm",
+    "https://www.auto.uestc.edu.cn/info/1152/4333.htm",
+    "https://www.auto.uestc.edu.cn/info/1152/4527.htm",
+    "https://www.auto.uestc.edu.cn/info/1152/6154.htm",
+    "https://www.auto.uestc.edu.cn/info/1152/6155.htm",
+    "https://www.auto.uestc.edu.cn/info/1152/7221.htm",
+    "https://www.auto.uestc.edu.cn/info/1152/7728.htm",
+    "https://www.auto.uestc.edu.cn/info/1153/4052.htm",
+    "https://www.auto.uestc.edu.cn/info/1153/4054.htm",
+    "https://www.auto.uestc.edu.cn/info/1153/4341.htm",
+    "https://www.auto.uestc.edu.cn/info/1155/4343.htm",
+    "https://www.auto.uestc.edu.cn/info/1155/4345.htm",
+    "https://www.auto.uestc.edu.cn/info/1156/4056.htm",
+    "https://www.auto.uestc.edu.cn/info/1156/4058.htm",
+    "https://www.auto.uestc.edu.cn/info/1156/4060.htm",
+    "https://www.auto.uestc.edu.cn/info/1156/4347.htm",
+    "https://www.auto.uestc.edu.cn/info/1156/4515.htm",
+    "https://www.auto.uestc.edu.cn/info/1156/4521.htm",
+    "https://www.auto.uestc.edu.cn/info/1156/4523.htm",
+    "https://www.auto.uestc.edu.cn/info/1156/7030.htm",
+    "https://www.auto.uestc.edu.cn/info/1156/7223.htm",
+    "https://www.auto.uestc.edu.cn/info/1156/7409.htm",
+    "https://www.auto.uestc.edu.cn/info/1157/4062.htm",
+    "https://www.auto.uestc.edu.cn/info/1157/4064.htm",
+    "https://www.auto.uestc.edu.cn/info/1157/4066.htm",
+    "https://www.auto.uestc.edu.cn/info/1157/4161.htm",
+    "https://www.auto.uestc.edu.cn/info/1157/4349.htm",
+    "https://www.auto.uestc.edu.cn/info/1157/4351.htm",
+    "https://www.auto.uestc.edu.cn/info/1157/4353.htm",
+    "https://www.auto.uestc.edu.cn/info/1157/4355.htm",
+    "https://www.auto.uestc.edu.cn/info/1157/4386.htm",
+    "https://www.auto.uestc.edu.cn/info/1157/4498.htm",
+    "https://www.auto.uestc.edu.cn/info/1157/4502.htm",
+    "https://www.auto.uestc.edu.cn/info/1157/4504.htm",
+    "https://www.auto.uestc.edu.cn/info/1157/4506.htm",
+    "https://www.auto.uestc.edu.cn/info/1157/4509.htm",
+    "https://www.auto.uestc.edu.cn/info/1157/4513.htm",
+    "https://www.auto.uestc.edu.cn/info/1157/6194.htm",
+    "https://www.auto.uestc.edu.cn/info/1157/6958.htm",
+    "https://www.auto.uestc.edu.cn/info/1157/7226.htm",
+    "https://www.auto.uestc.edu.cn/info/1157/7714.htm",
+    "https://www.auto.uestc.edu.cn/info/1157/7968.htm",
+    "https://www.auto.uestc.edu.cn/info/1159/4357.htm",
+    "https://www.auto.uestc.edu.cn/info/1159/4367.htm",
+    "https://www.auto.uestc.edu.cn/info/1159/4661.htm",
+    "https://www.auto.uestc.edu.cn/info/1159/7365.htm",
+    "https://www.auto.uestc.edu.cn/info/1160/4070.htm",
+    "https://www.auto.uestc.edu.cn/info/1160/4494.htm",
+    "https://www.auto.uestc.edu.cn/info/1161/4074.htm",
+    "https://www.auto.uestc.edu.cn/info/1161/4076.htm",
+    "https://www.auto.uestc.edu.cn/info/1161/4078.htm",
+    "https://www.auto.uestc.edu.cn/info/1161/4080.htm",
+    "https://www.auto.uestc.edu.cn/info/1161/4279.htm",
+    "https://www.auto.uestc.edu.cn/info/1161/4361.htm",
+    "https://www.auto.uestc.edu.cn/info/1161/4363.htm",
+    "https://www.auto.uestc.edu.cn/info/1161/4365.htm",
+    "https://www.auto.uestc.edu.cn/info/1161/4369.htm",
+    "https://www.auto.uestc.edu.cn/info/1161/4371.htm",
+    "https://www.auto.uestc.edu.cn/info/1161/4373.htm",
+    "https://www.auto.uestc.edu.cn/info/1161/4375.htm",
+    "https://www.auto.uestc.edu.cn/info/1161/4380.htm",
+    "https://www.auto.uestc.edu.cn/info/1161/4382.htm",
+    "https://www.auto.uestc.edu.cn/info/1161/4383.htm",
+    "https://www.auto.uestc.edu.cn/info/1161/4466.htm",
+    "https://www.auto.uestc.edu.cn/info/1161/4468.htm",
+    "https://www.auto.uestc.edu.cn/info/1161/4474.htm",
+    "https://www.auto.uestc.edu.cn/info/1161/4476.htm",
+    "https://www.auto.uestc.edu.cn/info/1161/4478.htm",
+    "https://www.auto.uestc.edu.cn/info/1161/4482.htm",
+    "https://www.auto.uestc.edu.cn/info/1161/4484.htm",
+    "https://www.auto.uestc.edu.cn/info/1161/4486.htm",
+    "https://www.auto.uestc.edu.cn/info/1161/4488.htm",
+    "https://www.auto.uestc.edu.cn/info/1161/4490.htm",
+    "https://www.auto.uestc.edu.cn/info/1161/4492.htm",
+    "https://www.auto.uestc.edu.cn/info/1161/7615.htm",
+    "https://www.auto.uestc.edu.cn/info/1161/7735.htm",
+    "https://www.auto.uestc.edu.cn/info/1162/4081.htm",
+    "https://www.auto.uestc.edu.cn/info/1162/4083.htm",
+    "https://www.auto.uestc.edu.cn/info/1162/4462.htm",
+    "https://www.auto.uestc.edu.cn/info/1162/4464.htm",
+    "https://www.auto.uestc.edu.cn/info/1162/7733.htm",
+    "https://www.auto.uestc.edu.cn/info/1165/4359.htm",
+    "https://www.auto.uestc.edu.cn/info/1165/4454.htm",
+    "https://www.auto.uestc.edu.cn/info/1165/4456.htm",
+    "https://www.auto.uestc.edu.cn/info/1165/4458.htm",
+    "https://www.auto.uestc.edu.cn/info/1165/7730.htm",
+    "https://www.auto.uestc.edu.cn/info/1165/7822.htm",
+    "https://www.auto.uestc.edu.cn/info/1165/7985.htm",
+    "https://www.auto.uestc.edu.cn/info/1166/4339.htm",
+    "https://www.auto.uestc.edu.cn/info/1166/4452.htm",
+    "https://www.auto.uestc.edu.cn/info/1167/8017.htm",
+    "https://www.auto.uestc.edu.cn/info/1168/4089.htm",
+    "https://www.auto.uestc.edu.cn/info/1168/4335.htm",
+    "https://www.auto.uestc.edu.cn/info/1168/4337.htm",
+    "https://www.auto.uestc.edu.cn/info/1168/4446.htm",
+    "https://www.auto.uestc.edu.cn/info/1168/4448.htm",
+    "https://www.auto.uestc.edu.cn/info/1168/7057.htm",
+    "https://www.auto.uestc.edu.cn/info/1168/7545.htm",
+    "https://www.auto.uestc.edu.cn/info/1169/4325.htm",
+    "https://www.auto.uestc.edu.cn/info/1169/4327.htm",
+    "https://www.auto.uestc.edu.cn/info/1169/4329.htm",
+    "https://www.auto.uestc.edu.cn/info/1169/4331.htm",
+    "https://www.auto.uestc.edu.cn/info/1169/4385.htm",
+    "https://www.auto.uestc.edu.cn/info/1169/4444.htm",
+    "https://www.auto.uestc.edu.cn/info/1172/4091.htm",
+    "https://www.auto.uestc.edu.cn/info/1172/4095.htm",
+    "https://www.auto.uestc.edu.cn/info/1172/4101.htm",
+    "https://www.auto.uestc.edu.cn/info/1172/4104.htm",
+    "https://www.auto.uestc.edu.cn/info/1172/4323.htm",
+    "https://www.auto.uestc.edu.cn/info/1172/4434.htm",
+    "https://www.auto.uestc.edu.cn/info/1172/4436.htm",
+    "https://www.auto.uestc.edu.cn/info/1172/4438.htm",
+    "https://www.auto.uestc.edu.cn/info/1172/7055.htm",
+    "https://www.auto.uestc.edu.cn/info/1172/7601.htm",
+    "https://www.auto.uestc.edu.cn/info/1172/8027.htm",
+    "https://www.auto.uestc.edu.cn/info/1173/4108.htm",
+    "https://www.auto.uestc.edu.cn/info/1173/4317.htm",
+    "https://www.auto.uestc.edu.cn/info/1173/4319.htm",
+    "https://www.auto.uestc.edu.cn/info/1173/4424.htm",
+    "https://www.auto.uestc.edu.cn/info/1173/4428.htm",
+    "https://www.auto.uestc.edu.cn/info/1173/4432.htm",
+    "https://www.auto.uestc.edu.cn/info/1173/6034.htm",
+    "https://www.auto.uestc.edu.cn/info/1173/7482.htm",
+    "https://www.auto.uestc.edu.cn/info/1173/8001.htm",
+    "https://www.auto.uestc.edu.cn/info/1174/4112.htm",
+    "https://www.auto.uestc.edu.cn/info/1174/4114.htm",
+    "https://www.auto.uestc.edu.cn/info/1174/4301.htm",
+    "https://www.auto.uestc.edu.cn/info/1174/4307.htm",
+    "https://www.auto.uestc.edu.cn/info/1174/4313.htm",
+    "https://www.auto.uestc.edu.cn/info/1174/4315.htm",
+    "https://www.auto.uestc.edu.cn/info/1174/4405.htm",
+    "https://www.auto.uestc.edu.cn/info/1174/4407.htm",
+    "https://www.auto.uestc.edu.cn/info/1174/4409.htm",
+    "https://www.auto.uestc.edu.cn/info/1174/4410.htm",
+    "https://www.auto.uestc.edu.cn/info/1174/4415.htm",
+    "https://www.auto.uestc.edu.cn/info/1174/4417.htm",
+    "https://www.auto.uestc.edu.cn/info/1174/4419.htm",
+    "https://www.auto.uestc.edu.cn/info/1174/4421.htm",
+    "https://www.auto.uestc.edu.cn/info/1174/4422.htm",
+    "https://www.auto.uestc.edu.cn/info/1174/6195.htm",
+    "https://www.auto.uestc.edu.cn/info/1175/4118.htm",
+    "https://www.auto.uestc.edu.cn/info/1175/4119.htm",
+    "https://www.auto.uestc.edu.cn/info/1175/4120.htm",
+    "https://www.auto.uestc.edu.cn/info/1175/4123.htm",
+    "https://www.auto.uestc.edu.cn/info/1175/4124.htm",
+    "https://www.auto.uestc.edu.cn/info/1175/4126.htm",
+    "https://www.auto.uestc.edu.cn/info/1175/4142.htm",
+    "https://www.auto.uestc.edu.cn/info/1175/4281.htm",
+    "https://www.auto.uestc.edu.cn/info/1175/4282.htm",
+    "https://www.auto.uestc.edu.cn/info/1175/4285.htm",
+    "https://www.auto.uestc.edu.cn/info/1175/4287.htm",
+    "https://www.auto.uestc.edu.cn/info/1175/4289.htm",
+    "https://www.auto.uestc.edu.cn/info/1175/4291.htm",
+    "https://www.auto.uestc.edu.cn/info/1175/4293.htm",
+    "https://www.auto.uestc.edu.cn/info/1175/4295.htm",
+    "https://www.auto.uestc.edu.cn/info/1175/4297.htm",
+    "https://www.auto.uestc.edu.cn/info/1175/4303.htm",
+    "https://www.auto.uestc.edu.cn/info/1175/4378.htm",
+    "https://www.auto.uestc.edu.cn/info/1175/4388.htm",
+    "https://www.auto.uestc.edu.cn/info/1175/4390.htm",
+    "https://www.auto.uestc.edu.cn/info/1175/4392.htm",
+    "https://www.auto.uestc.edu.cn/info/1175/4394.htm",
+    "https://www.auto.uestc.edu.cn/info/1175/4398.htm",
+    "https://www.auto.uestc.edu.cn/info/1175/4400.htm",
+    "https://www.auto.uestc.edu.cn/info/1175/4402.htm",
+    "https://www.auto.uestc.edu.cn/info/1175/4403.htm",
+    "https://www.auto.uestc.edu.cn/info/1175/4531.htm",
+    "https://www.auto.uestc.edu.cn/info/1175/7213.htm",
+    "https://www.auto.uestc.edu.cn/info/1175/7477.htm",
+    "https://www.auto.uestc.edu.cn/info/1175/7542.htm",
+    "https://www.auto.uestc.edu.cn/info/1175/7913.htm",
+    "https://www.auto.uestc.edu.cn/szdw/jsml.htm",
+    "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm",
+    "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+  ],
+  "records": [
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm",
+      "round": 1,
+      "cleaned_file": "cache/cleaned/00001_https_www_auto_uestc_edu_cn_szdw_jsmlzly_htm_cleaned.md",
+      "choice_file": "cache/choice/00001_https_www_auto_uestc_edu_cn_szdw_jsmlzly_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1157/4502.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00002_https_www_auto_uestc_edu_cn_info_1157_4502_htm_cleaned.md",
+      "choice_file": "cache/choice/00002_https_www_auto_uestc_edu_cn_info_1157_4502_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1162/7733.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00003_https_www_auto_uestc_edu_cn_info_1162_7733_htm_cleaned.md",
+      "choice_file": "cache/choice/00003_https_www_auto_uestc_edu_cn_info_1162_7733_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1175/4388.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00004_https_www_auto_uestc_edu_cn_info_1175_4388_htm_cleaned.md",
+      "choice_file": "cache/choice/00004_https_www_auto_uestc_edu_cn_info_1175_4388_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1161/4380.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00005_https_www_auto_uestc_edu_cn_info_1161_4380_htm_cleaned.md",
+      "choice_file": "cache/choice/00005_https_www_auto_uestc_edu_cn_info_1161_4380_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1156/4060.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00006_https_www_auto_uestc_edu_cn_info_1156_4060_htm_cleaned.md",
+      "choice_file": "cache/choice/00006_https_www_auto_uestc_edu_cn_info_1156_4060_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1175/4124.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00007_https_www_auto_uestc_edu_cn_info_1175_4124_htm_cleaned.md",
+      "choice_file": "cache/choice/00007_https_www_auto_uestc_edu_cn_info_1175_4124_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1174/4301.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00008_https_www_auto_uestc_edu_cn_info_1174_4301_htm_cleaned.md",
+      "choice_file": "cache/choice/00008_https_www_auto_uestc_edu_cn_info_1174_4301_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1175/4400.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00009_https_www_auto_uestc_edu_cn_info_1175_4400_htm_cleaned.md",
+      "choice_file": "cache/choice/00009_https_www_auto_uestc_edu_cn_info_1175_4400_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1162/4464.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00010_https_www_auto_uestc_edu_cn_info_1162_4464_htm_cleaned.md",
+      "choice_file": "cache/choice/00010_https_www_auto_uestc_edu_cn_info_1162_4464_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1173/6034.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00011_https_www_auto_uestc_edu_cn_info_1173_6034_htm_cleaned.md",
+      "choice_file": "cache/choice/00011_https_www_auto_uestc_edu_cn_info_1173_6034_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1152/4321.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00012_https_www_auto_uestc_edu_cn_info_1152_4321_htm_cleaned.md",
+      "choice_file": "cache/choice/00012_https_www_auto_uestc_edu_cn_info_1152_4321_htm_cleaned.choice.json",
+      "analysed_file": "byboy/test/get_tutor_pages_uestc/cache/analysed/程洪_1.json",
+      "analysed_name": "程洪"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1175/4119.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00013_https_www_auto_uestc_edu_cn_info_1175_4119_htm_cleaned.md",
+      "choice_file": "cache/choice/00013_https_www_auto_uestc_edu_cn_info_1175_4119_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1161/7615.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00014_https_www_auto_uestc_edu_cn_info_1161_7615_htm_cleaned.md",
+      "choice_file": "cache/choice/00014_https_www_auto_uestc_edu_cn_info_1161_7615_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1152/4333.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00015_https_www_auto_uestc_edu_cn_info_1152_4333_htm_cleaned.md",
+      "choice_file": "cache/choice/00015_https_www_auto_uestc_edu_cn_info_1152_4333_htm_cleaned.choice.json",
+      "analysed_file": "byboy/test/get_tutor_pages_uestc/cache/analysed/程玉华_1.json",
+      "analysed_name": "程玉华"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1165/7985.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00016_https_www_auto_uestc_edu_cn_info_1165_7985_htm_cleaned.md",
+      "choice_file": "cache/choice/00016_https_www_auto_uestc_edu_cn_info_1165_7985_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1162/4083.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00017_https_www_auto_uestc_edu_cn_info_1162_4083_htm_cleaned.md",
+      "choice_file": "cache/choice/00017_https_www_auto_uestc_edu_cn_info_1162_4083_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1172/4091.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00018_https_www_auto_uestc_edu_cn_info_1172_4091_htm_cleaned.md",
+      "choice_file": "cache/choice/00018_https_www_auto_uestc_edu_cn_info_1172_4091_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1155/4343.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00019_https_www_auto_uestc_edu_cn_info_1155_4343_htm_cleaned.md",
+      "choice_file": "cache/choice/00019_https_www_auto_uestc_edu_cn_info_1155_4343_htm_cleaned.choice.json",
+      "analysed_file": "byboy/test/get_tutor_pages_uestc/cache/analysed/凡时财_1.json",
+      "analysed_name": "凡时财"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1157/4509.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00020_https_www_auto_uestc_edu_cn_info_1157_4509_htm_cleaned.md",
+      "choice_file": "cache/choice/00020_https_www_auto_uestc_edu_cn_info_1157_4509_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1157/7226.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00021_https_www_auto_uestc_edu_cn_info_1157_7226_htm_cleaned.md",
+      "choice_file": "cache/choice/00021_https_www_auto_uestc_edu_cn_info_1157_7226_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1172/4434.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00022_https_www_auto_uestc_edu_cn_info_1172_4434_htm_cleaned.md",
+      "choice_file": "cache/choice/00022_https_www_auto_uestc_edu_cn_info_1172_4434_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1157/4506.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00023_https_www_auto_uestc_edu_cn_info_1157_4506_htm_cleaned.md",
+      "choice_file": "cache/choice/00023_https_www_auto_uestc_edu_cn_info_1157_4506_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1169/4327.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00024_https_www_auto_uestc_edu_cn_info_1169_4327_htm_cleaned.md",
+      "choice_file": "cache/choice/00024_https_www_auto_uestc_edu_cn_info_1169_4327_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1157/4498.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00025_https_www_auto_uestc_edu_cn_info_1157_4498_htm_cleaned.md",
+      "choice_file": "cache/choice/00025_https_www_auto_uestc_edu_cn_info_1157_4498_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00026_https_www_auto_uestc_edu_cn_szdw_jsml_zgj_htm_cleaned.md",
+      "choice_file": "cache/choice/00026_https_www_auto_uestc_edu_cn_szdw_jsml_zgj_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1152/4305.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00027_https_www_auto_uestc_edu_cn_info_1152_4305_htm_cleaned.md",
+      "choice_file": "cache/choice/00027_https_www_auto_uestc_edu_cn_info_1152_4305_htm_cleaned.choice.json",
+      "analysed_file": "byboy/test/get_tutor_pages_uestc/cache/analysed/陈凯_1.json",
+      "analysed_name": "陈凯"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1168/4337.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00028_https_www_auto_uestc_edu_cn_info_1168_4337_htm_cleaned.md",
+      "choice_file": "cache/choice/00028_https_www_auto_uestc_edu_cn_info_1168_4337_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1156/7409.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00029_https_www_auto_uestc_edu_cn_info_1156_7409_htm_cleaned.md",
+      "choice_file": "cache/choice/00029_https_www_auto_uestc_edu_cn_info_1156_7409_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1157/7714.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00030_https_www_auto_uestc_edu_cn_info_1157_7714_htm_cleaned.md",
+      "choice_file": "cache/choice/00030_https_www_auto_uestc_edu_cn_info_1157_7714_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1156/4347.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00031_https_www_auto_uestc_edu_cn_info_1156_4347_htm_cleaned.md",
+      "choice_file": "cache/choice/00031_https_www_auto_uestc_edu_cn_info_1156_4347_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1157/4064.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00032_https_www_auto_uestc_edu_cn_info_1157_4064_htm_cleaned.md",
+      "choice_file": "cache/choice/00032_https_www_auto_uestc_edu_cn_info_1157_4064_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1157/4351.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00033_https_www_auto_uestc_edu_cn_info_1157_4351_htm_cleaned.md",
+      "choice_file": "cache/choice/00033_https_www_auto_uestc_edu_cn_info_1157_4351_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1156/4058.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00034_https_www_auto_uestc_edu_cn_info_1156_4058_htm_cleaned.md",
+      "choice_file": "cache/choice/00034_https_www_auto_uestc_edu_cn_info_1156_4058_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1152/4527.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00035_https_www_auto_uestc_edu_cn_info_1152_4527_htm_cleaned.md",
+      "choice_file": "cache/choice/00035_https_www_auto_uestc_edu_cn_info_1152_4527_htm_cleaned.choice.json",
+      "analysed_file": "byboy/test/get_tutor_pages_uestc/cache/analysed/陈章勇_1.json",
+      "analysed_name": "陈章勇"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1166/4339.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00036_https_www_auto_uestc_edu_cn_info_1166_4339_htm_cleaned.md",
+      "choice_file": "cache/choice/00036_https_www_auto_uestc_edu_cn_info_1166_4339_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1175/4142.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00037_https_www_auto_uestc_edu_cn_info_1175_4142_htm_cleaned.md",
+      "choice_file": "cache/choice/00037_https_www_auto_uestc_edu_cn_info_1175_4142_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1175/4282.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00038_https_www_auto_uestc_edu_cn_info_1175_4282_htm_cleaned.md",
+      "choice_file": "cache/choice/00038_https_www_auto_uestc_edu_cn_info_1175_4282_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1161/4466.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00039_https_www_auto_uestc_edu_cn_info_1161_4466_htm_cleaned.md",
+      "choice_file": "cache/choice/00039_https_www_auto_uestc_edu_cn_info_1161_4466_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1168/4089.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00040_https_www_auto_uestc_edu_cn_info_1168_4089_htm_cleaned.md",
+      "choice_file": "cache/choice/00040_https_www_auto_uestc_edu_cn_info_1168_4089_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1168/4446.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00041_https_www_auto_uestc_edu_cn_info_1168_4446_htm_cleaned.md",
+      "choice_file": "cache/choice/00041_https_www_auto_uestc_edu_cn_info_1168_4446_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1153/4052.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00042_https_www_auto_uestc_edu_cn_info_1153_4052_htm_cleaned.md",
+      "choice_file": "cache/choice/00042_https_www_auto_uestc_edu_cn_info_1153_4052_htm_cleaned.choice.json",
+      "analysed_file": "byboy/test/get_tutor_pages_uestc/cache/analysed/邓颖_1.json",
+      "analysed_name": "邓颖"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1172/4095.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00043_https_www_auto_uestc_edu_cn_info_1172_4095_htm_cleaned.md",
+      "choice_file": "cache/choice/00043_https_www_auto_uestc_edu_cn_info_1172_4095_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1157/4513.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00044_https_www_auto_uestc_edu_cn_info_1157_4513_htm_cleaned.md",
+      "choice_file": "cache/choice/00044_https_www_auto_uestc_edu_cn_info_1157_4513_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1153/4054.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00045_https_www_auto_uestc_edu_cn_info_1153_4054_htm_cleaned.md",
+      "choice_file": "cache/choice/00045_https_www_auto_uestc_edu_cn_info_1153_4054_htm_cleaned.choice.json",
+      "analysed_file": "byboy/test/get_tutor_pages_uestc/cache/analysed/邓罡_1.json",
+      "analysed_name": "邓罡"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1157/4386.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00046_https_www_auto_uestc_edu_cn_info_1157_4386_htm_cleaned.md",
+      "choice_file": "cache/choice/00046_https_www_auto_uestc_edu_cn_info_1157_4386_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1174/4419.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00047_https_www_auto_uestc_edu_cn_info_1174_4419_htm_cleaned.md",
+      "choice_file": "cache/choice/00047_https_www_auto_uestc_edu_cn_info_1174_4419_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1161/4363.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00048_https_www_auto_uestc_edu_cn_info_1161_4363_htm_cleaned.md",
+      "choice_file": "cache/choice/00048_https_www_auto_uestc_edu_cn_info_1161_4363_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1165/7822.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00049_https_www_auto_uestc_edu_cn_info_1165_7822_htm_cleaned.md",
+      "choice_file": "cache/choice/00049_https_www_auto_uestc_edu_cn_info_1165_7822_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1175/4378.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00050_https_www_auto_uestc_edu_cn_info_1175_4378_htm_cleaned.md",
+      "choice_file": "cache/choice/00050_https_www_auto_uestc_edu_cn_info_1175_4378_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1173/4428.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00051_https_www_auto_uestc_edu_cn_info_1173_4428_htm_cleaned.md",
+      "choice_file": "cache/choice/00051_https_www_auto_uestc_edu_cn_info_1173_4428_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1161/4486.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00052_https_www_auto_uestc_edu_cn_info_1161_4486_htm_cleaned.md",
+      "choice_file": "cache/choice/00052_https_www_auto_uestc_edu_cn_info_1161_4486_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1175/4293.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00053_https_www_auto_uestc_edu_cn_info_1175_4293_htm_cleaned.md",
+      "choice_file": "cache/choice/00053_https_www_auto_uestc_edu_cn_info_1175_4293_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1173/4432.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00054_https_www_auto_uestc_edu_cn_info_1173_4432_htm_cleaned.md",
+      "choice_file": "cache/choice/00054_https_www_auto_uestc_edu_cn_info_1173_4432_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1168/4335.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00055_https_www_auto_uestc_edu_cn_info_1168_4335_htm_cleaned.md",
+      "choice_file": "cache/choice/00055_https_www_auto_uestc_edu_cn_info_1168_4335_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1157/4355.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00056_https_www_auto_uestc_edu_cn_info_1157_4355_htm_cleaned.md",
+      "choice_file": "cache/choice/00056_https_www_auto_uestc_edu_cn_info_1157_4355_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1157/4353.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00057_https_www_auto_uestc_edu_cn_info_1157_4353_htm_cleaned.md",
+      "choice_file": "cache/choice/00057_https_www_auto_uestc_edu_cn_info_1157_4353_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1173/4319.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00058_https_www_auto_uestc_edu_cn_info_1173_4319_htm_cleaned.md",
+      "choice_file": "cache/choice/00058_https_www_auto_uestc_edu_cn_info_1173_4319_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1159/4661.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00059_https_www_auto_uestc_edu_cn_info_1159_4661_htm_cleaned.md",
+      "choice_file": "cache/choice/00059_https_www_auto_uestc_edu_cn_info_1159_4661_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1173/4424.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00060_https_www_auto_uestc_edu_cn_info_1173_4424_htm_cleaned.md",
+      "choice_file": "cache/choice/00060_https_www_auto_uestc_edu_cn_info_1173_4424_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1175/4120.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00061_https_www_auto_uestc_edu_cn_info_1175_4120_htm_cleaned.md",
+      "choice_file": "cache/choice/00061_https_www_auto_uestc_edu_cn_info_1175_4120_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1156/4523.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00062_https_www_auto_uestc_edu_cn_info_1156_4523_htm_cleaned.md",
+      "choice_file": "cache/choice/00062_https_www_auto_uestc_edu_cn_info_1156_4523_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1174/4422.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00063_https_www_auto_uestc_edu_cn_info_1174_4422_htm_cleaned.md",
+      "choice_file": "cache/choice/00063_https_www_auto_uestc_edu_cn_info_1174_4422_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1152/6154.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00064_https_www_auto_uestc_edu_cn_info_1152_6154_htm_cleaned.md",
+      "choice_file": "cache/choice/00064_https_www_auto_uestc_edu_cn_info_1152_6154_htm_cleaned.choice.json",
+      "analysed_file": "byboy/test/get_tutor_pages_uestc/cache/analysed/陈聪_1.json",
+      "analysed_name": "陈聪"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1152/6155.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00065_https_www_auto_uestc_edu_cn_info_1152_6155_htm_cleaned.md",
+      "choice_file": "cache/choice/00065_https_www_auto_uestc_edu_cn_info_1152_6155_htm_cleaned.choice.json",
+      "analysed_file": "byboy/test/get_tutor_pages_uestc/cache/analysed/陈路锋_1.json",
+      "analysed_name": "陈路锋"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1172/4101.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00066_https_www_auto_uestc_edu_cn_info_1172_4101_htm_cleaned.md",
+      "choice_file": "cache/choice/00066_https_www_auto_uestc_edu_cn_info_1172_4101_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1168/4448.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00067_https_www_auto_uestc_edu_cn_info_1168_4448_htm_cleaned.md",
+      "choice_file": "cache/choice/00067_https_www_auto_uestc_edu_cn_info_1168_4448_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1157/6958.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00068_https_www_auto_uestc_edu_cn_info_1157_6958_htm_cleaned.md",
+      "choice_file": "cache/choice/00068_https_www_auto_uestc_edu_cn_info_1157_6958_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1173/7482.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00069_https_www_auto_uestc_edu_cn_info_1173_7482_htm_cleaned.md",
+      "choice_file": "cache/choice/00069_https_www_auto_uestc_edu_cn_info_1173_7482_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1159/4357.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00070_https_www_auto_uestc_edu_cn_info_1159_4357_htm_cleaned.md",
+      "choice_file": "cache/choice/00070_https_www_auto_uestc_edu_cn_info_1159_4357_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1174/4405.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00071_https_www_auto_uestc_edu_cn_info_1174_4405_htm_cleaned.md",
+      "choice_file": "cache/choice/00071_https_www_auto_uestc_edu_cn_info_1174_4405_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1161/4365.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00072_https_www_auto_uestc_edu_cn_info_1161_4365_htm_cleaned.md",
+      "choice_file": "cache/choice/00072_https_www_auto_uestc_edu_cn_info_1161_4365_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1166/4452.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00073_https_www_auto_uestc_edu_cn_info_1166_4452_htm_cleaned.md",
+      "choice_file": "cache/choice/00073_https_www_auto_uestc_edu_cn_info_1166_4452_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1161/4361.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00074_https_www_auto_uestc_edu_cn_info_1161_4361_htm_cleaned.md",
+      "choice_file": "cache/choice/00074_https_www_auto_uestc_edu_cn_info_1161_4361_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1175/7542.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00075_https_www_auto_uestc_edu_cn_info_1175_7542_htm_cleaned.md",
+      "choice_file": "cache/choice/00075_https_www_auto_uestc_edu_cn_info_1175_7542_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1161/4492.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00076_https_www_auto_uestc_edu_cn_info_1161_4492_htm_cleaned.md",
+      "choice_file": "cache/choice/00076_https_www_auto_uestc_edu_cn_info_1161_4492_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1157/7968.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00077_https_www_auto_uestc_edu_cn_info_1157_7968_htm_cleaned.md",
+      "choice_file": "cache/choice/00077_https_www_auto_uestc_edu_cn_info_1157_7968_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1161/4484.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00078_https_www_auto_uestc_edu_cn_info_1161_4484_htm_cleaned.md",
+      "choice_file": "cache/choice/00078_https_www_auto_uestc_edu_cn_info_1161_4484_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1174/4421.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00079_https_www_auto_uestc_edu_cn_info_1174_4421_htm_cleaned.md",
+      "choice_file": "cache/choice/00079_https_www_auto_uestc_edu_cn_info_1174_4421_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1173/4317.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00080_https_www_auto_uestc_edu_cn_info_1173_4317_htm_cleaned.md",
+      "choice_file": "cache/choice/00080_https_www_auto_uestc_edu_cn_info_1173_4317_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1161/4375.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00081_https_www_auto_uestc_edu_cn_info_1161_4375_htm_cleaned.md",
+      "choice_file": "cache/choice/00081_https_www_auto_uestc_edu_cn_info_1161_4375_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1174/4112.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00082_https_www_auto_uestc_edu_cn_info_1174_4112_htm_cleaned.md",
+      "choice_file": "cache/choice/00082_https_www_auto_uestc_edu_cn_info_1174_4112_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1161/4476.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00083_https_www_auto_uestc_edu_cn_info_1161_4476_htm_cleaned.md",
+      "choice_file": "cache/choice/00083_https_www_auto_uestc_edu_cn_info_1161_4476_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1165/7730.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00084_https_www_auto_uestc_edu_cn_info_1165_7730_htm_cleaned.md",
+      "choice_file": "cache/choice/00084_https_www_auto_uestc_edu_cn_info_1165_7730_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1161/4478.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00085_https_www_auto_uestc_edu_cn_info_1161_4478_htm_cleaned.md",
+      "choice_file": "cache/choice/00085_https_www_auto_uestc_edu_cn_info_1161_4478_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1175/4123.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00086_https_www_auto_uestc_edu_cn_info_1175_4123_htm_cleaned.md",
+      "choice_file": "cache/choice/00086_https_www_auto_uestc_edu_cn_info_1175_4123_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1156/7223.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00087_https_www_auto_uestc_edu_cn_info_1156_7223_htm_cleaned.md",
+      "choice_file": "cache/choice/00087_https_www_auto_uestc_edu_cn_info_1156_7223_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1160/4070.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00088_https_www_auto_uestc_edu_cn_info_1160_4070_htm_cleaned.md",
+      "choice_file": "cache/choice/00088_https_www_auto_uestc_edu_cn_info_1160_4070_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1161/4373.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00089_https_www_auto_uestc_edu_cn_info_1161_4373_htm_cleaned.md",
+      "choice_file": "cache/choice/00089_https_www_auto_uestc_edu_cn_info_1161_4373_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1161/4382.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00090_https_www_auto_uestc_edu_cn_info_1161_4382_htm_cleaned.md",
+      "choice_file": "cache/choice/00090_https_www_auto_uestc_edu_cn_info_1161_4382_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1175/4402.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00091_https_www_auto_uestc_edu_cn_info_1175_4402_htm_cleaned.md",
+      "choice_file": "cache/choice/00091_https_www_auto_uestc_edu_cn_info_1175_4402_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1161/4076.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00092_https_www_auto_uestc_edu_cn_info_1161_4076_htm_cleaned.md",
+      "choice_file": "cache/choice/00092_https_www_auto_uestc_edu_cn_info_1161_4076_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1169/4325.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00093_https_www_auto_uestc_edu_cn_info_1169_4325_htm_cleaned.md",
+      "choice_file": "cache/choice/00093_https_www_auto_uestc_edu_cn_info_1169_4325_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1172/7055.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00094_https_www_auto_uestc_edu_cn_info_1172_7055_htm_cleaned.md",
+      "choice_file": "cache/choice/00094_https_www_auto_uestc_edu_cn_info_1172_7055_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1169/4331.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00095_https_www_auto_uestc_edu_cn_info_1169_4331_htm_cleaned.md",
+      "choice_file": "cache/choice/00095_https_www_auto_uestc_edu_cn_info_1169_4331_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1156/7030.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00096_https_www_auto_uestc_edu_cn_info_1156_7030_htm_cleaned.md",
+      "choice_file": "cache/choice/00096_https_www_auto_uestc_edu_cn_info_1156_7030_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1174/4313.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00097_https_www_auto_uestc_edu_cn_info_1174_4313_htm_cleaned.md",
+      "choice_file": "cache/choice/00097_https_www_auto_uestc_edu_cn_info_1174_4313_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1161/4080.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00098_https_www_auto_uestc_edu_cn_info_1161_4080_htm_cleaned.md",
+      "choice_file": "cache/choice/00098_https_www_auto_uestc_edu_cn_info_1161_4080_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1155/4345.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00099_https_www_auto_uestc_edu_cn_info_1155_4345_htm_cleaned.md",
+      "choice_file": "cache/choice/00099_https_www_auto_uestc_edu_cn_info_1155_4345_htm_cleaned.choice.json",
+      "analysed_file": "byboy/test/get_tutor_pages_uestc/cache/analysed/付在明_1.json",
+      "analysed_name": "付在明"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1172/8027.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00100_https_www_auto_uestc_edu_cn_info_1172_8027_htm_cleaned.md",
+      "choice_file": "cache/choice/00100_https_www_auto_uestc_edu_cn_info_1172_8027_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1161/7735.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00101_https_www_auto_uestc_edu_cn_info_1161_7735_htm_cleaned.md",
+      "choice_file": "cache/choice/00101_https_www_auto_uestc_edu_cn_info_1161_7735_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1175/4281.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00102_https_www_auto_uestc_edu_cn_info_1175_4281_htm_cleaned.md",
+      "choice_file": "cache/choice/00102_https_www_auto_uestc_edu_cn_info_1175_4281_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1159/7365.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00103_https_www_auto_uestc_edu_cn_info_1159_7365_htm_cleaned.md",
+      "choice_file": "cache/choice/00103_https_www_auto_uestc_edu_cn_info_1159_7365_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1161/4371.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00104_https_www_auto_uestc_edu_cn_info_1161_4371_htm_cleaned.md",
+      "choice_file": "cache/choice/00104_https_www_auto_uestc_edu_cn_info_1161_4371_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1165/4458.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00105_https_www_auto_uestc_edu_cn_info_1165_4458_htm_cleaned.md",
+      "choice_file": "cache/choice/00105_https_www_auto_uestc_edu_cn_info_1165_4458_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1175/4285.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00106_https_www_auto_uestc_edu_cn_info_1175_4285_htm_cleaned.md",
+      "choice_file": "cache/choice/00106_https_www_auto_uestc_edu_cn_info_1175_4285_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1161/4482.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00107_https_www_auto_uestc_edu_cn_info_1161_4482_htm_cleaned.md",
+      "choice_file": "cache/choice/00107_https_www_auto_uestc_edu_cn_info_1161_4482_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1175/4390.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00108_https_www_auto_uestc_edu_cn_info_1175_4390_htm_cleaned.md",
+      "choice_file": "cache/choice/00108_https_www_auto_uestc_edu_cn_info_1175_4390_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1168/7545.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00109_https_www_auto_uestc_edu_cn_info_1168_7545_htm_cleaned.md",
+      "choice_file": "cache/choice/00109_https_www_auto_uestc_edu_cn_info_1168_7545_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1173/4108.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00110_https_www_auto_uestc_edu_cn_info_1173_4108_htm_cleaned.md",
+      "choice_file": "cache/choice/00110_https_www_auto_uestc_edu_cn_info_1173_4108_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1174/4409.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00111_https_www_auto_uestc_edu_cn_info_1174_4409_htm_cleaned.md",
+      "choice_file": "cache/choice/00111_https_www_auto_uestc_edu_cn_info_1174_4409_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1175/4394.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00112_https_www_auto_uestc_edu_cn_info_1175_4394_htm_cleaned.md",
+      "choice_file": "cache/choice/00112_https_www_auto_uestc_edu_cn_info_1175_4394_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1174/4415.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00113_https_www_auto_uestc_edu_cn_info_1174_4415_htm_cleaned.md",
+      "choice_file": "cache/choice/00113_https_www_auto_uestc_edu_cn_info_1174_4415_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1160/4494.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00114_https_www_auto_uestc_edu_cn_info_1160_4494_htm_cleaned.md",
+      "choice_file": "cache/choice/00114_https_www_auto_uestc_edu_cn_info_1160_4494_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1152/7728.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00115_https_www_auto_uestc_edu_cn_info_1152_7728_htm_cleaned.md",
+      "choice_file": "cache/choice/00115_https_www_auto_uestc_edu_cn_info_1152_7728_htm_cleaned.choice.json",
+      "analysed_file": "byboy/test/get_tutor_pages_uestc/cache/analysed/陈云坪_1.json",
+      "analysed_name": "陈云坪"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1174/4315.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00116_https_www_auto_uestc_edu_cn_info_1174_4315_htm_cleaned.md",
+      "choice_file": "cache/choice/00116_https_www_auto_uestc_edu_cn_info_1174_4315_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1162/4462.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00117_https_www_auto_uestc_edu_cn_info_1162_4462_htm_cleaned.md",
+      "choice_file": "cache/choice/00117_https_www_auto_uestc_edu_cn_info_1162_4462_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1175/4297.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00118_https_www_auto_uestc_edu_cn_info_1175_4297_htm_cleaned.md",
+      "choice_file": "cache/choice/00118_https_www_auto_uestc_edu_cn_info_1175_4297_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1172/4436.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00119_https_www_auto_uestc_edu_cn_info_1172_4436_htm_cleaned.md",
+      "choice_file": "cache/choice/00119_https_www_auto_uestc_edu_cn_info_1172_4436_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1175/4287.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00120_https_www_auto_uestc_edu_cn_info_1175_4287_htm_cleaned.md",
+      "choice_file": "cache/choice/00120_https_www_auto_uestc_edu_cn_info_1175_4287_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1172/4104.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00121_https_www_auto_uestc_edu_cn_info_1172_4104_htm_cleaned.md",
+      "choice_file": "cache/choice/00121_https_www_auto_uestc_edu_cn_info_1172_4104_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1161/4383.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00122_https_www_auto_uestc_edu_cn_info_1161_4383_htm_cleaned.md",
+      "choice_file": "cache/choice/00122_https_www_auto_uestc_edu_cn_info_1161_4383_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1174/4307.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00123_https_www_auto_uestc_edu_cn_info_1174_4307_htm_cleaned.md",
+      "choice_file": "cache/choice/00123_https_www_auto_uestc_edu_cn_info_1174_4307_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1175/7213.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00124_https_www_auto_uestc_edu_cn_info_1175_7213_htm_cleaned.md",
+      "choice_file": "cache/choice/00124_https_www_auto_uestc_edu_cn_info_1175_7213_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1172/7601.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00125_https_www_auto_uestc_edu_cn_info_1172_7601_htm_cleaned.md",
+      "choice_file": "cache/choice/00125_https_www_auto_uestc_edu_cn_info_1172_7601_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1161/4488.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00126_https_www_auto_uestc_edu_cn_info_1161_4488_htm_cleaned.md",
+      "choice_file": "cache/choice/00126_https_www_auto_uestc_edu_cn_info_1161_4488_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1169/4385.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00127_https_www_auto_uestc_edu_cn_info_1169_4385_htm_cleaned.md",
+      "choice_file": "cache/choice/00127_https_www_auto_uestc_edu_cn_info_1169_4385_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1175/4126.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00128_https_www_auto_uestc_edu_cn_info_1175_4126_htm_cleaned.md",
+      "choice_file": "cache/choice/00128_https_www_auto_uestc_edu_cn_info_1175_4126_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1161/4490.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00129_https_www_auto_uestc_edu_cn_info_1161_4490_htm_cleaned.md",
+      "choice_file": "cache/choice/00129_https_www_auto_uestc_edu_cn_info_1161_4490_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1174/4417.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00130_https_www_auto_uestc_edu_cn_info_1174_4417_htm_cleaned.md",
+      "choice_file": "cache/choice/00130_https_www_auto_uestc_edu_cn_info_1174_4417_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1175/7477.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00131_https_www_auto_uestc_edu_cn_info_1175_7477_htm_cleaned.md",
+      "choice_file": "cache/choice/00131_https_www_auto_uestc_edu_cn_info_1175_7477_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1157/4161.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00132_https_www_auto_uestc_edu_cn_info_1157_4161_htm_cleaned.md",
+      "choice_file": "cache/choice/00132_https_www_auto_uestc_edu_cn_info_1157_4161_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1161/4078.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00133_https_www_auto_uestc_edu_cn_info_1161_4078_htm_cleaned.md",
+      "choice_file": "cache/choice/00133_https_www_auto_uestc_edu_cn_info_1161_4078_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1157/4062.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00134_https_www_auto_uestc_edu_cn_info_1157_4062_htm_cleaned.md",
+      "choice_file": "cache/choice/00134_https_www_auto_uestc_edu_cn_info_1157_4062_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1175/4289.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00135_https_www_auto_uestc_edu_cn_info_1175_4289_htm_cleaned.md",
+      "choice_file": "cache/choice/00135_https_www_auto_uestc_edu_cn_info_1175_4289_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1168/7057.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00136_https_www_auto_uestc_edu_cn_info_1168_7057_htm_cleaned.md",
+      "choice_file": "cache/choice/00136_https_www_auto_uestc_edu_cn_info_1168_7057_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1169/4329.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00137_https_www_auto_uestc_edu_cn_info_1169_4329_htm_cleaned.md",
+      "choice_file": "cache/choice/00137_https_www_auto_uestc_edu_cn_info_1169_4329_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1175/4118.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00138_https_www_auto_uestc_edu_cn_info_1175_4118_htm_cleaned.md",
+      "choice_file": "cache/choice/00138_https_www_auto_uestc_edu_cn_info_1175_4118_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1153/4341.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00139_https_www_auto_uestc_edu_cn_info_1153_4341_htm_cleaned.md",
+      "choice_file": "cache/choice/00139_https_www_auto_uestc_edu_cn_info_1153_4341_htm_cleaned.choice.json",
+      "analysed_file": "byboy/test/get_tutor_pages_uestc/cache/analysed/戴志坚_1.json",
+      "analysed_name": "戴志坚"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1175/4403.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00140_https_www_auto_uestc_edu_cn_info_1175_4403_htm_cleaned.md",
+      "choice_file": "cache/choice/00140_https_www_auto_uestc_edu_cn_info_1175_4403_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1175/4291.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00141_https_www_auto_uestc_edu_cn_info_1175_4291_htm_cleaned.md",
+      "choice_file": "cache/choice/00141_https_www_auto_uestc_edu_cn_info_1175_4291_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1151/7676.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00142_https_www_auto_uestc_edu_cn_info_1151_7676_htm_cleaned.md",
+      "choice_file": "cache/choice/00142_https_www_auto_uestc_edu_cn_info_1151_7676_htm_cleaned.choice.json",
+      "analysed_file": "byboy/test/get_tutor_pages_uestc/cache/analysed/毕东杰_1.json",
+      "analysed_name": "毕东杰"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1151/4048.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00143_https_www_auto_uestc_edu_cn_info_1151_4048_htm_cleaned.md",
+      "choice_file": "cache/choice/00143_https_www_auto_uestc_edu_cn_info_1151_4048_htm_cleaned.choice.json",
+      "analysed_file": "byboy/test/get_tutor_pages_uestc/cache/analysed/白利兵_1.json",
+      "analysed_name": "白利兵"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1169/4444.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00144_https_www_auto_uestc_edu_cn_info_1169_4444_htm_cleaned.md",
+      "choice_file": "cache/choice/00144_https_www_auto_uestc_edu_cn_info_1169_4444_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1161/4474.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00145_https_www_auto_uestc_edu_cn_info_1161_4474_htm_cleaned.md",
+      "choice_file": "cache/choice/00145_https_www_auto_uestc_edu_cn_info_1161_4474_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1174/4410.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00146_https_www_auto_uestc_edu_cn_info_1174_4410_htm_cleaned.md",
+      "choice_file": "cache/choice/00146_https_www_auto_uestc_edu_cn_info_1174_4410_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1173/8001.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00147_https_www_auto_uestc_edu_cn_info_1173_8001_htm_cleaned.md",
+      "choice_file": "cache/choice/00147_https_www_auto_uestc_edu_cn_info_1173_8001_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00148_https_www_auto_uestc_edu_cn_szdw_jsml_htm_cleaned.md",
+      "choice_file": "cache/choice/00148_https_www_auto_uestc_edu_cn_szdw_jsml_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1156/4515.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00149_https_www_auto_uestc_edu_cn_info_1156_4515_htm_cleaned.md",
+      "choice_file": "cache/choice/00149_https_www_auto_uestc_edu_cn_info_1156_4515_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1152/4311.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00150_https_www_auto_uestc_edu_cn_info_1152_4311_htm_cleaned.md",
+      "choice_file": "cache/choice/00150_https_www_auto_uestc_edu_cn_info_1152_4311_htm_cleaned.choice.json",
+      "analysed_file": "byboy/test/get_tutor_pages_uestc/cache/analysed/陈勇_1.json",
+      "analysed_name": "陈勇"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1152/7221.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00151_https_www_auto_uestc_edu_cn_info_1152_7221_htm_cleaned.md",
+      "choice_file": "cache/choice/00151_https_www_auto_uestc_edu_cn_info_1152_7221_htm_cleaned.choice.json",
+      "analysed_file": "byboy/test/get_tutor_pages_uestc/cache/analysed/陈啸午_1.json",
+      "analysed_name": "陈啸午"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1175/4295.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00152_https_www_auto_uestc_edu_cn_info_1175_4295_htm_cleaned.md",
+      "choice_file": "cache/choice/00152_https_www_auto_uestc_edu_cn_info_1175_4295_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1175/7913.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00153_https_www_auto_uestc_edu_cn_info_1175_7913_htm_cleaned.md",
+      "choice_file": "cache/choice/00153_https_www_auto_uestc_edu_cn_info_1175_7913_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1161/4369.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00154_https_www_auto_uestc_edu_cn_info_1161_4369_htm_cleaned.md",
+      "choice_file": "cache/choice/00154_https_www_auto_uestc_edu_cn_info_1161_4369_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1162/4081.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00155_https_www_auto_uestc_edu_cn_info_1162_4081_htm_cleaned.md",
+      "choice_file": "cache/choice/00155_https_www_auto_uestc_edu_cn_info_1162_4081_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1161/4279.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00156_https_www_auto_uestc_edu_cn_info_1161_4279_htm_cleaned.md",
+      "choice_file": "cache/choice/00156_https_www_auto_uestc_edu_cn_info_1161_4279_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1174/4407.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00157_https_www_auto_uestc_edu_cn_info_1174_4407_htm_cleaned.md",
+      "choice_file": "cache/choice/00157_https_www_auto_uestc_edu_cn_info_1174_4407_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1156/4056.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00158_https_www_auto_uestc_edu_cn_info_1156_4056_htm_cleaned.md",
+      "choice_file": "cache/choice/00158_https_www_auto_uestc_edu_cn_info_1156_4056_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1157/4066.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00159_https_www_auto_uestc_edu_cn_info_1157_4066_htm_cleaned.md",
+      "choice_file": "cache/choice/00159_https_www_auto_uestc_edu_cn_info_1157_4066_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1175/4398.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00160_https_www_auto_uestc_edu_cn_info_1175_4398_htm_cleaned.md",
+      "choice_file": "cache/choice/00160_https_www_auto_uestc_edu_cn_info_1175_4398_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1167/8017.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00161_https_www_auto_uestc_edu_cn_info_1167_8017_htm_cleaned.md",
+      "choice_file": "cache/choice/00161_https_www_auto_uestc_edu_cn_info_1167_8017_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1157/6194.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00162_https_www_auto_uestc_edu_cn_info_1157_6194_htm_cleaned.md",
+      "choice_file": "cache/choice/00162_https_www_auto_uestc_edu_cn_info_1157_6194_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1159/4367.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00163_https_www_auto_uestc_edu_cn_info_1159_4367_htm_cleaned.md",
+      "choice_file": "cache/choice/00163_https_www_auto_uestc_edu_cn_info_1159_4367_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1165/4359.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00164_https_www_auto_uestc_edu_cn_info_1165_4359_htm_cleaned.md",
+      "choice_file": "cache/choice/00164_https_www_auto_uestc_edu_cn_info_1165_4359_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1172/4323.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00165_https_www_auto_uestc_edu_cn_info_1172_4323_htm_cleaned.md",
+      "choice_file": "cache/choice/00165_https_www_auto_uestc_edu_cn_info_1172_4323_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1174/6195.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00166_https_www_auto_uestc_edu_cn_info_1174_6195_htm_cleaned.md",
+      "choice_file": "cache/choice/00166_https_www_auto_uestc_edu_cn_info_1174_6195_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1157/4504.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00167_https_www_auto_uestc_edu_cn_info_1157_4504_htm_cleaned.md",
+      "choice_file": "cache/choice/00167_https_www_auto_uestc_edu_cn_info_1157_4504_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1175/4392.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00168_https_www_auto_uestc_edu_cn_info_1175_4392_htm_cleaned.md",
+      "choice_file": "cache/choice/00168_https_www_auto_uestc_edu_cn_info_1175_4392_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1175/4531.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00169_https_www_auto_uestc_edu_cn_info_1175_4531_htm_cleaned.md",
+      "choice_file": "cache/choice/00169_https_www_auto_uestc_edu_cn_info_1175_4531_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1174/4114.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00170_https_www_auto_uestc_edu_cn_info_1174_4114_htm_cleaned.md",
+      "choice_file": "cache/choice/00170_https_www_auto_uestc_edu_cn_info_1174_4114_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1161/4468.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00171_https_www_auto_uestc_edu_cn_info_1161_4468_htm_cleaned.md",
+      "choice_file": "cache/choice/00171_https_www_auto_uestc_edu_cn_info_1161_4468_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1172/4438.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00172_https_www_auto_uestc_edu_cn_info_1172_4438_htm_cleaned.md",
+      "choice_file": "cache/choice/00172_https_www_auto_uestc_edu_cn_info_1172_4438_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1161/4074.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00173_https_www_auto_uestc_edu_cn_info_1161_4074_htm_cleaned.md",
+      "choice_file": "cache/choice/00173_https_www_auto_uestc_edu_cn_info_1161_4074_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1165/4456.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00174_https_www_auto_uestc_edu_cn_info_1165_4456_htm_cleaned.md",
+      "choice_file": "cache/choice/00174_https_www_auto_uestc_edu_cn_info_1165_4456_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1156/4521.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00175_https_www_auto_uestc_edu_cn_info_1156_4521_htm_cleaned.md",
+      "choice_file": "cache/choice/00175_https_www_auto_uestc_edu_cn_info_1156_4521_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1175/4303.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00176_https_www_auto_uestc_edu_cn_info_1175_4303_htm_cleaned.md",
+      "choice_file": "cache/choice/00176_https_www_auto_uestc_edu_cn_info_1175_4303_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1157/4349.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00177_https_www_auto_uestc_edu_cn_info_1157_4349_htm_cleaned.md",
+      "choice_file": "cache/choice/00177_https_www_auto_uestc_edu_cn_info_1157_4349_htm_cleaned.choice.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1165/4454.htm",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00178_https_www_auto_uestc_edu_cn_info_1165_4454_htm_cleaned.md",
+      "choice_file": "cache/choice/00178_https_www_auto_uestc_edu_cn_info_1165_4454_htm_cleaned.choice.json"
+    }
+  ],
+  "list4_analysed_profiles": [
+    "https://www.auto.uestc.edu.cn/info/1151/4048.htm",
+    "https://www.auto.uestc.edu.cn/info/1151/7676.htm",
+    "https://www.auto.uestc.edu.cn/info/1152/4305.htm",
+    "https://www.auto.uestc.edu.cn/info/1152/4311.htm",
+    "https://www.auto.uestc.edu.cn/info/1152/4321.htm",
+    "https://www.auto.uestc.edu.cn/info/1152/4333.htm",
+    "https://www.auto.uestc.edu.cn/info/1152/4527.htm",
+    "https://www.auto.uestc.edu.cn/info/1152/6154.htm",
+    "https://www.auto.uestc.edu.cn/info/1152/6155.htm",
+    "https://www.auto.uestc.edu.cn/info/1152/7221.htm",
+    "https://www.auto.uestc.edu.cn/info/1152/7728.htm",
+    "https://www.auto.uestc.edu.cn/info/1153/4052.htm",
+    "https://www.auto.uestc.edu.cn/info/1153/4054.htm",
+    "https://www.auto.uestc.edu.cn/info/1153/4341.htm",
+    "https://www.auto.uestc.edu.cn/info/1155/4343.htm",
+    "https://www.auto.uestc.edu.cn/info/1155/4345.htm"
+  ]
+}

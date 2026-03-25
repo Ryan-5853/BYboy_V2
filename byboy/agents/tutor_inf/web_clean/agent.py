@@ -66,6 +66,7 @@ def scrape_url_to_markdown(
     api_key: str | None = None,
     base_url: str | None = None,
     only_main_content: bool = True,
+    wait_for_ms: int = 0,
     timeout_sec: float = 120.0,
 ) -> str:
     """调用 Firecrawl ``POST /v2/scrape``，返回 ``data.markdown``。"""
@@ -73,48 +74,60 @@ def scrape_url_to_markdown(
     key = api_key if api_key is not None else firecrawl_api_key_from_env()
     root = base_url if base_url is not None else firecrawl_base_url_from_env()
     endpoint = f"{root}/v2/scrape"
-    body: dict[str, Any] = {
-        "url": url.strip(),
-        "formats": ["markdown"],
-        "onlyMainContent": only_main_content,
-    }
-    data = json.dumps(body).encode("utf-8")
-    req = urllib.request.Request(
-        endpoint,
-        data=data,
-        method="POST",
-        headers={
-            "Authorization": f"Bearer {key}",
-            "Content-Type": "application/json",
-            "Accept": "application/json",
-        },
-    )
-    try:
-        with urllib.request.urlopen(req, timeout=timeout_sec) as resp:
-            raw = resp.read().decode("utf-8")
-    except urllib.error.HTTPError as e:
+    def _call_scrape(only_main: bool, *, wait_ms: int) -> str:
+        body: dict[str, Any] = {
+            "url": url.strip(),
+            "formats": ["markdown"],
+            "onlyMainContent": only_main,
+        }
+        if wait_ms and wait_ms > 0:
+            # 等待页面渲染/动态加载正文
+            body["waitFor"] = int(wait_ms)
+        data = json.dumps(body).encode("utf-8")
+        req = urllib.request.Request(
+            endpoint,
+            data=data,
+            method="POST",
+            headers={
+                "Authorization": f"Bearer {key}",
+                "Content-Type": "application/json",
+                "Accept": "application/json",
+            },
+        )
         try:
-            detail = e.read().decode("utf-8")
-        except OSError:
-            detail = str(e)
-        raise FirecrawlError(f"Firecrawl HTTP {e.code}: {detail}") from e
-    except urllib.error.URLError as e:
-        raise FirecrawlError(f"Firecrawl 请求失败: {e.reason}") from e
+            with urllib.request.urlopen(req, timeout=timeout_sec) as resp:
+                raw = resp.read().decode("utf-8")
+        except urllib.error.HTTPError as e:
+            try:
+                detail = e.read().decode("utf-8")
+            except OSError:
+                detail = str(e)
+            raise FirecrawlError(f"Firecrawl HTTP {e.code}: {detail}") from e
+        except urllib.error.URLError as e:
+            raise FirecrawlError(f"Firecrawl 请求失败: {e.reason}") from e
 
-    try:
-        payload = json.loads(raw)
-    except json.JSONDecodeError as e:
-        raise FirecrawlError(f"Firecrawl 返回非 JSON: {raw[:200]!r}") from e
+        try:
+            payload = json.loads(raw)
+        except json.JSONDecodeError as e:
+            raise FirecrawlError(f"Firecrawl 返回非 JSON: {raw[:200]!r}") from e
 
-    if not payload.get("success"):
-        err = payload.get("error") or payload.get("message") or payload
-        raise FirecrawlError(f"Firecrawl 失败: {err}")
+        if not payload.get("success"):
+            err = payload.get("error") or payload.get("message") or payload
+            raise FirecrawlError(f"Firecrawl 失败: {err}")
 
-    data_obj = payload.get("data") or {}
-    md = data_obj.get("markdown")
-    if md is None or not str(md).strip():
-        raise FirecrawlError("Firecrawl 响应中缺少 markdown 正文")
-    return str(md)
+        data_obj = payload.get("data") or {}
+        md = data_obj.get("markdown")
+        if md is None or not str(md).strip():
+            raise FirecrawlError("Firecrawl 响应中缺少 markdown 正文")
+        return str(md)
+
+    md_main = _call_scrape(only_main_content, wait_ms=wait_for_ms)
+    # 一些高校站点在 onlyMainContent=True 时会被误裁剪成仅导航。
+    if only_main_content and len(md_main.strip()) < 1200:
+        md_full = _call_scrape(False, wait_ms=max(0, int(wait_for_ms) * 2) if wait_for_ms else 5000)
+        if len(md_full.strip()) > len(md_main.strip()) * 2:
+            return md_full
+    return md_main
 
 
 def _markdown_with_source_declaration(source_url: str, markdown_body: str) -> str:
@@ -155,7 +168,8 @@ class WebCleanAgent:
         p = inv.llm_part
         _validate_http_url(p.url)
         log.step("调用 Firecrawl 抓取 markdown")
-        raw = scrape_url_to_markdown(p.url)
+        # 这个站点详情页往往是空壳 HTML + JS 动态加载正文，等待后可提高命中率。
+        raw = scrape_url_to_markdown(p.url, wait_for_ms=2500)
         md = _markdown_with_source_declaration(p.url, raw)
         out = _output_path(p)
         out.parent.mkdir(parents=True, exist_ok=True)

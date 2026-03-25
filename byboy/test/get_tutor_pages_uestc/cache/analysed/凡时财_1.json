@@ -1,0 +1,161 @@
+{
+  "meta": {
+    "tutor_name_cn": "凡时财",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1155/4343.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1155/4343.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "F:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\e0bc361a525ff55ae79000fc10436e4cc68bc7515ef8be45a9fcfed1b3d2a2e9.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": "包含导师的学位、职称、邮箱、研究方向、学习工作经历、科研成果、主讲课程和招生专业等大量有效信息。"
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "source_url": "https://www.auto.uestc.edu.cn/info/1155/4343.htm",
+    "site_chrome": {
+      "breadcrumbs": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "F",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/F.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "navigation_links": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ]
+    },
+    "instructor_info": {
+      "name": "凡时财",
+      "profile_image_url": "https://www.auto.uestc.edu.cn/__local/F/FF/FE/FCB66B1380199A8340C6CF6FDA1_69697370_40A27.jpg",
+      "highest_degree": "博士",
+      "contact_phone": null,
+      "titles_positions": [
+        "教授"
+      ],
+      "email": "shicaifan@uestc.edu.cn",
+      "supervisory_status": "博士导师",
+      "personal_homepage": null,
+      "research_team": "自动化研究所"
+    },
+    "research_directions": [
+      "模式识别与机器学习",
+      "多源异构数据融合挖掘",
+      "故障诊断与健康管理"
+    ],
+    "academic_appointments_and_parttime_positions": [
+      "人工智能学会生信与人工生命专委会委员"
+    ],
+    "education_and_work_experience": [
+      {
+        "start_date": "1999-09",
+        "end_date": "2003-06",
+        "institution": "电子科技大学",
+        "department": "自动化系",
+        "degree": "学士",
+        "type": "education"
+      },
+      {
+        "start_date": "2003-09",
+        "end_date": "2009-01",
+        "institution": "清华大学",
+        "department": "自动化系",
+        "degree": "博士",
+        "type": "education"
+      },
+      {
+        "start_date": "2009-03",
+        "end_date": "2011-07",
+        "institution": "电子科技大学自动化工程学院",
+        "role": "讲师",
+        "type": "work"
+      },
+      {
+        "start_date": "2011-08",
+        "end_date": "2019-07",
+        "institution": "电子科技大学自动化工程学院",
+        "role": "副教授",
+        "type": "work"
+      },
+      {
+        "start_date": "2019-08",
+        "end_date": "至今",
+        "institution": "电子科技大学自动化工程学院",
+        "role": "教授",
+        "type": "work"
+      },
+      {
+        "start_date": "2015-01",
+        "end_date": "2015-12",
+        "institution": "加州大学圣地亚哥分校",
+        "role": "访问学者",
+        "type": "exchange"
+      },
+      {
+        "start_date": "2016-01",
+        "end_date": "2016-08",
+        "institution": "加州大学圣地亚哥分校",
+        "role": "访问科学家",
+        "type": "exchange"
+      }
+    ],
+    "scientific_research": {
+      "summary": "主持/参与国家自然科学基金、国家级项目和横向合作项目等10余项。",
+      "publications": "相关科研成果在Nature Biotechnology、Nature Communications等杂志上发表SCI检索论文二十余篇",
+      "patents": {
+        "applied": "四十余项",
+        "authorized": "二十余项"
+      },
+      "awards_and_achievements": [
+        "作为指导教师指导学生参加华为软件精英挑战赛，连续两年获全国亚军。"
+      ]
+    },
+    "taught_courses_and_teaching_research": {
+      "undergraduate_courses": [
+        "自动控制原理"
+      ],
+      "graduate_courses": [
+        "模式识别"
+      ],
+      "teaching_research": [
+        "参与国家精品课程《模式识别 》教材的编写",
+        "参与四川省精品课程《自动控制原理 》教材的编写",
+        "主持《模式识别》研究生精品课程建设",
+        "参与教学方法与考核方法改革示范课“自动控制原理”建设",
+        "发表教学论文5篇",
+        "获电子科技大学第五届“我最喜爱的老师”称号"
+      ]
+    },
+    "admission_specialties": {
+      "master": [
+        "081100控制科学与工程",
+        "085400电子信息"
+      ],
+      "phd": [
+        "081100控制科学与工程",
+        "085400电子信息"
+      ]
+    }
+  }
+}

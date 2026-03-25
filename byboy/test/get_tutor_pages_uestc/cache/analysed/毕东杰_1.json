@@ -1,0 +1,151 @@
+{
+  "meta": {
+    "tutor_name_cn": "毕东杰",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1151/7676.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1151/7676.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "F:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\0fe19f6587e24b5141cd40671ca783870df169097e02e83f8e0900cd09e183ab.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "target_name": "毕东杰",
+    "page_url": "https://www.auto.uestc.edu.cn/info/1151/7676.htm",
+    "person_info": {
+      "name": "毕东杰",
+      "highest_degree": "博士",
+      "contact_phone": null,
+      "title_position": "正高级工程师",
+      "email": "bidongjie@uestc.edu.cn",
+      "supervisor_status": "硕士导师",
+      "personal_homepage_url": "https://faculty.uestc.edu.cn/bidongjie/zh_CN/index/169592/list/index.htm",
+      "research_team": "电磁与声波测量团队",
+      "profile_image_url": "https://www.auto.uestc.edu.cn/__local/9/EA/DA/7AF021644D6D99927595D0CF0A1_29E90212_99DEA5.jpg"
+    },
+    "main_research_directions": [
+      "近场微波/毫米波技术",
+      "近场EMI检测与成像",
+      "航空声学研究"
+    ],
+    "academic_titles_and_part_time_positions": {
+      "description": "担任IEEE Transactions on Signal Processing、IEEE Transactions on Instrument and Measurement等杂志审稿人。",
+      "roles": [
+        {
+          "role": "审稿人",
+          "organization": "IEEE Transactions on Signal Processing"
+        },
+        {
+          "role": "审稿人",
+          "organization": "IEEE Transactions on Instrument and Measurement"
+        }
+      ]
+    },
+    "education_and_work_experience": [
+      {
+        "period": "2005.09-2015.12",
+        "institution": "电子科技大学",
+        "description": "本硕博"
+      },
+      {
+        "period": "2013.12-2014.12",
+        "institution": "美国密苏里科技大学",
+        "description": "联合培养博士"
+      },
+      {
+        "period": "2016.01-2020.02",
+        "institution": "电子科技大学，自动化工程学院",
+        "position": "助理研究员"
+      },
+      {
+        "period": "2017.11-2018.09",
+        "institution": "美国密苏里科技大学",
+        "position": "博士后"
+      },
+      {
+        "period": "2020.03-2025.04",
+        "institution": "电子科技大学，自动化工程学院",
+        "position": "高级工程师"
+      },
+      {
+        "period": "2025.05-至今",
+        "institution": "电子科技大学",
+        "position": "正高级工程师"
+      }
+    ],
+    "scientific_research": {
+      "overview": "面向航空航天复合材料/结构/XX检测、XX发动机监测二个方向开展研究。",
+      "specific_research_areas": [
+        "近场微波/毫米波/太赫兹技术",
+        "近场EMI测量技术",
+        "航空声学研究"
+      ],
+      "detailed_research_content": [
+        "微波/毫米波/太赫兹近场成像设备，包含：近场成像技术、相位成像技术、双基/多基成像技术、超分辨成像技术等",
+        "近场EMI测量/检测/监测设备，包含高频段近场电场/磁场探头设计、近场磁场显微成像技术、近场天线设计技术等",
+        "基于空气声/弹性波/振动/应变的监测设备，包含：传感器阵列设计、分布式阵列设计、实时信号数据处理、大范围/高频成像、数据驱动的机器学习/模态分解建模等"
+      ],
+      "achievements_summary": {
+        "projects": "近五年主持/参与十项国家级重点XX项目、部委XX/基金项目、国家自然科学基金重大仪器项目",
+        "publications": "发表SCI论文共35篇",
+        "patents": "授权和受理发明专利13项"
+      }
+    },
+    "courses_taught": {
+      "undergraduate_courses": [
+        "综合（专题）课程设计",
+        "课程设计基础实验",
+        "单片机原理及应用课程设计",
+        "单片机原理与接口技术实验",
+        "电子线路CAD"
+      ],
+      "postgraduate_courses": [
+        "创新实践课程",
+        "学科前沿知识讲座"
+      ]
+    },
+    "admission_majors": {
+      "master_majors": [
+        "080400仪器科学与技术",
+        "085400电子信息"
+      ],
+      "phd_majors": []
+    },
+    "site_chrome": {
+      "primary_section_title": "师资队伍",
+      "breadcrumbs": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "B",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/B.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "navigation_links": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ]
+    }
+  }
+}

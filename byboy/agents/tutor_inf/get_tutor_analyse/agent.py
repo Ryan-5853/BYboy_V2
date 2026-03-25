@@ -7,6 +7,8 @@
 from __future__ import annotations
 
 import asyncio
+import concurrent.futures
+import hashlib
 import json
 import os
 import re
@@ -254,6 +256,7 @@ class GetTutorAnalyseAgent:
         max_tokens: int = 16384,
         name_resolve_max_tokens: int = 512,
         name_resolve_llm_first: bool = True,
+        max_workers: int = 4,
     ) -> GetTutorAnalyseResult:
         log = AgentLogger("GetTutorAnalyseAgent")
         dispatcher.resolve(inv.model.token)
@@ -306,35 +309,47 @@ class GetTutorAnalyseAgent:
                 record_map[url] = fp
                 record_ref_map[url] = rec
 
+        # 交替轮次模式下，list2_tutor_profiles 可能包含“本轮刚被 choice 发现，但还没来得及清洗生成 records”的 URL。
+        # 直接遍历会造成大量 missing_cleaned_markdown_in_records 跳过。
+        # 这里改为只分析 record_map 中已存在 cleaned markdown 的 URL，避免无效跳过并让轮次输出更稳定。
+        list2_analysable: list[str] = []
+        missing_cleaned_urls: list[str] = []
+        for raw_url in list2:
+            url = _normalize_url(str(raw_url or ""))
+            if not url:
+                continue
+            if url in record_map:
+                list2_analysable.append(url)
+            else:
+                missing_cleaned_urls.append(url)
+        if missing_cleaned_urls:
+            log.step(
+                "过滤无 cleaned 的导师页",
+                detail=f"analysable={len(list2_analysable)}/{len(list2)} missing_cleaned={len(set(missing_cleaned_urls))}",
+            )
+
         analyser = TutorAnalyseAgent()
-        per_name_counter: dict[str, int] = {}
         success_items: list[dict[str, Any]] = []
         skipped_items: list[dict[str, Any]] = []
 
-        total = len(list2)
-        for i, raw_url in enumerate(list2, start=1):
+        pending_urls: list[str] = []
+        total_all = len(list2_analysable)
+        for i, raw_url in enumerate(list2_analysable, start=1):
             url = _normalize_url(str(raw_url or ""))
             if not url:
                 continue
             if url in analysed_set:
-                log.info("跳过已分析页面", detail=f"{i}/{total} {url}")
+                log.info("跳过已分析页面", detail=f"{i}/{total_all} {url}")
                 continue
-            log.step("处理导师页面", detail=f"{i}/{total} {url}")
+            pending_urls.append(url)
+
+        def _worker(url: str) -> tuple[str, dict[str, Any]]:
             md_path = record_map.get(url)
             if md_path is None or not md_path.is_file():
-                skipped_items.append(
-                    {"url": url, "reason": "missing_cleaned_markdown_in_records"}
-                )
-                log.warn("跳过页面", detail=f"{url} missing_cleaned_markdown_in_records")
-                continue
-
+                return ("skipped", {"url": url, "reason": "missing_cleaned_markdown_in_records"})
             md_text = md_path.read_text(encoding="utf-8", errors="replace")
             final_name = ""
             if name_resolve_llm_first:
-                log.step(
-                    "LLM 推断导师姓名",
-                    detail=f"{i}/{total} {url[:100]}",
-                )
                 final_name = (
                     _llm_resolve_tutor_name_cn(
                         url=url,
@@ -347,16 +362,10 @@ class GetTutorAnalyseAgent:
                     or ""
                 ).strip()
             if not final_name:
-                name_from_h1 = _extract_h1_name(md_text)
-                final_name = (name_from_h1 or "").strip()
+                final_name = (_extract_h1_name(md_text) or "").strip()
             if not final_name:
-                name_bold = _extract_bold_cn_name(md_text)
-                final_name = (name_bold or "").strip()
+                final_name = (_extract_bold_cn_name(md_text) or "").strip()
             if not final_name and not name_resolve_llm_first:
-                log.step(
-                    "标题未识别姓名，LLM 兜底推断",
-                    detail=f"{i}/{total} {url[:100]}",
-                )
                 final_name = (
                     _llm_resolve_tutor_name_cn(
                         url=url,
@@ -369,15 +378,12 @@ class GetTutorAnalyseAgent:
                     or ""
                 ).strip()
             if not final_name:
-                skipped_items.append({"url": url, "reason": "cannot_resolve_unique_name"})
-                log.warn("跳过页面", detail=f"{url} cannot_resolve_unique_name")
-                continue
+                return ("skipped", {"url": url, "reason": "cannot_resolve_unique_name"})
 
             stem = _safe_filename_stem(final_name)
-            idx = per_name_counter.get(stem, 0) + 1
-            per_name_counter[stem] = idx
-            output_filename = f"{stem}_{idx}.json"
-
+            suffix = hashlib.sha1(url.encode("utf-8", errors="replace")).hexdigest()[:10]
+            output_filename = f"{stem}_{suffix}.json"
+            output_path = (analysed_dir / output_filename).resolve()
             try:
                 result = analyser.run(
                     AgentInvocation(
@@ -393,33 +399,54 @@ class GetTutorAnalyseAgent:
                     dispatcher,
                     max_tokens=max_tokens,
                 )
-            except TutorAnalyseError as e:
-                skipped_items.append(
-                    {
-                        "url": url,
-                        "reason": "tutor_analyse_failed",
-                        "error": str(e),
-                    }
-                )
-                log.warn("跳过页面", detail=f"{url} tutor_analyse_failed")
-                continue
-            success_items.append(
+            except Exception as e:
+                try:
+                    if output_path.exists():
+                        output_path.unlink()
+                except OSError:
+                    pass
+                return ("skipped", {"url": url, "reason": "tutor_analyse_failed", "error": str(e)})
+
+            return (
+                "success",
                 {
                     "url": url,
                     "tutor_name_cn": final_name,
                     "cleaned_markdown": _to_root_relative(md_path),
                     "analysed_json": _to_root_relative(result.json_path),
-                }
+                },
             )
-            analysed_set.add(url)
-            state["list4_analysed_profiles"] = sorted(analysed_set)
-            rec_ref = record_ref_map.get(url)
-            if isinstance(rec_ref, dict):
-                rec_ref["analysed_file"] = _to_root_relative(result.json_path)
-                rec_ref["analysed_name"] = final_name
-            # 每成功一个导师页就即时落盘，支持中断恢复不重复。
-            _write_json(state_path, state)
-            log.info("完成单页分析", detail=f"{final_name} -> {output_filename}")
+
+        workers = max(1, int(max_workers))
+        if pending_urls:
+            log.step("并行导师分析", detail=f"pending={len(pending_urls)} workers={workers}")
+        with concurrent.futures.ThreadPoolExecutor(max_workers=workers) as ex:
+            fut_map = {ex.submit(_worker, u): u for u in pending_urls}
+            done_i = 0
+            for fut in concurrent.futures.as_completed(fut_map):
+                done_i += 1
+                url = fut_map[fut]
+                log.step("处理导师页面", detail=f"{done_i}/{len(pending_urls)} {url}")
+                try:
+                    kind, payload_item = fut.result()
+                except Exception as e:
+                    skipped_items.append({"url": url, "reason": "worker_failed", "error": str(e)})
+                    log.warn("跳过页面", detail=f"{url} worker_failed")
+                    continue
+                if kind != "success":
+                    skipped_items.append(payload_item)
+                    log.warn("跳过页面", detail=f"{url} {payload_item.get('reason', 'unknown')}")
+                    continue
+                success_items.append(payload_item)
+                analysed_set.add(url)
+                state["list4_analysed_profiles"] = sorted(analysed_set)
+                rec_ref = record_ref_map.get(url)
+                if isinstance(rec_ref, dict):
+                    rec_ref["analysed_file"] = payload_item["analysed_json"]
+                    rec_ref["analysed_name"] = payload_item["tutor_name_cn"]
+                # 仅在 worker 成功完成后，由主线程同步状态，避免半成品污染断点。
+                _write_json(state_path, state)
+                log.info("完成单页分析", detail=f"{payload_item['tutor_name_cn']} -> {Path(payload_item['analysed_json']).name}")
 
         manifest = {
             "workspace_dir": _to_root_relative(workspace_dir),
@@ -452,6 +479,7 @@ class GetTutorAnalyseAgent:
         max_tokens: int = 16384,
         name_resolve_max_tokens: int = 512,
         name_resolve_llm_first: bool = True,
+        max_workers: int = 4,
     ) -> GetTutorAnalyseResult:
         return await asyncio.to_thread(
             self.run,
@@ -460,6 +488,7 @@ class GetTutorAnalyseAgent:
             max_tokens=max_tokens,
             name_resolve_max_tokens=name_resolve_max_tokens,
             name_resolve_llm_first=name_resolve_llm_first,
+            max_workers=max_workers,
         )
 
 

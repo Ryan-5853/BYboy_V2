@@ -204,10 +204,19 @@ def _parse_with_repair(
 
 _MD_LINK_RE = re.compile(r"\[([^\]]*)\]\((\S+?)(?:\s+\"[^\"]*\")?\)")
 _AUTO_LINK_RE = re.compile(r"<(https?://[^>\s]+)>", flags=re.IGNORECASE)
+_BARE_URL_RE = re.compile(r"(https?://[^\s<>()\[\]\"']+)", flags=re.IGNORECASE)
 
 
 def _normalize_url(url: str) -> str:
-    return url.strip().strip("()[]<>")
+    u = url.strip().strip("()[]<>")
+    # Firecrawl/Markdown 里 URL 可能带有转义字符（如 zh\_CN），需要还原后再用。
+    u = (
+        u.replace("\\_", "_")
+        .replace("\\-", "-")
+        .replace("\\.", ".")
+        .replace("\\~", "~")
+    )
+    return u
 
 
 def _link_scope(url: str, declared_source_url: str | None) -> str:
@@ -273,13 +282,15 @@ def _rule_category(url: str, anchor_text: str, scope: str) -> tuple[str, str, st
     second_score = ranked[1][1]
     gap = top_score - second_score
 
-    if top_score >= 4 and gap >= 2:
+    # 放宽规则：只有“非常明确”的才跳过 LLM，其它（medium/low）都尽量交给 LLM 判断。
+    # 这样可在开启 `--link-choose-uncertain-only-llm` 时显著提升召回/分类准确率。
+    if top_score >= 6 and gap >= 3:
         conf = "high"
-    elif top_score >= 2 and gap >= 1:
+    elif top_score >= 3 and gap >= 1:
         conf = "medium"
     else:
         conf = "low"
-    uncertain = conf == "low"
+    uncertain = conf != "high"
     reason = "；".join(reason_parts[:2]) if reason_parts else "关键词信号较弱"
     return (top_label, conf, reason, uncertain)
 
@@ -296,8 +307,30 @@ def _llm_refine_uncertain(
     if not items:
         return {}
     refined: dict[int, dict[str, str]] = {}
+
+    def _fallback_refine_batch(batch_items: list[dict[str, str]], *, reason: str) -> dict[int, dict[str, str]]:
+        # LLM 多次失败后，跳过该批次 LLM 细化，保留规则结果并打标。
+        out: dict[int, dict[str, str]] = {}
+        for x in batch_items:
+            try:
+                idx = int(x.get("idx") or -1)
+            except (TypeError, ValueError):
+                continue
+            if idx < 0:
+                continue
+            cat = str(x.get("category") or x.get("rule_category") or "irrelevant")
+            if cat not in {"tutor_profile", "tutor_expansion", "irrelevant"}:
+                cat = "irrelevant"
+            out[idx] = {
+                "category": cat,
+                "category_confidence": "low",
+                "category_reason": reason[:60],
+            }
+        return out
+
     for i in range(0, len(items), batch_size):
         batch = items[i : i + batch_size]
+        batch_no = i // batch_size + 1
         user_data = {
             "links": [
                 {
@@ -316,35 +349,75 @@ def _llm_refine_uncertain(
             {"role": "user", "content": json.dumps(user_data, ensure_ascii=False)},
         ]
         inv = AgentInvocation(model=model, llm_part=messages)
-        t1 = None
-        if log is not None:
-            t1 = log_llm_wait_start(
-                log,
-                model=model.token,
-                payload=messages,
-                max_tokens=max_tokens,
-                stage=f"refine_batch_{i // batch_size + 1}",
+
+        def _run_refine_once(stage_suffix: str) -> dict[str, Any]:
+            t1 = None
+            stage_name = f"refine_batch_{batch_no}{stage_suffix}"
+            if log is not None:
+                t1 = log_llm_wait_start(
+                    log,
+                    model=model.token,
+                    payload=messages,
+                    max_tokens=max_tokens,
+                    stage=stage_name,
+                )
+            raw = run_with_periodic_wait_log(
+                log=log if log is not None else AgentLogger("LinkChooseAgent"),
+                stage=stage_name,
+                wait_message="等待模型响应中",
+                every_sec=5.0,
+                fn=lambda: agent_complete(dispatcher, inv, max_tokens=max_tokens),
             )
-        raw = run_with_periodic_wait_log(
-            log=log if log is not None else AgentLogger("LinkChooseAgent"),
-            stage=f"refine_batch_{i // batch_size + 1}",
-            wait_message="等待模型响应中",
-            every_sec=5.0,
-            fn=lambda: agent_complete(dispatcher, inv, max_tokens=max_tokens),
-        )
-        if log is not None and t1 is not None:
-            log_llm_wait_done(log, stage=f"refine_batch_{i // batch_size + 1}", started_at=t1)
-        parsed = _parse_with_repair(
-            raw,
-            dispatcher,
-            model.token,
-            repair_max_tokens=max_tokens,
-            log=log,
-            stage=f"json_repair_batch_{i // batch_size + 1}",
-        )
+            if log is not None and t1 is not None:
+                log_llm_wait_done(log, stage=stage_name, started_at=t1)
+            return _parse_with_repair(
+                raw,
+                dispatcher,
+                model.token,
+                repair_max_tokens=max_tokens,
+                log=log,
+                stage=f"json_repair_batch_{batch_no}{stage_suffix}",
+            )
+
+        try:
+            parsed = _run_refine_once("")
+        except LinkChooseError as e1:
+            if log is not None:
+                log.warn(
+                    "LLM 首次输出不可解析，重试一次",
+                    detail=f"batch={batch_no} err={e1!s}",
+                )
+            try:
+                parsed = _run_refine_once("_retry")
+            except LinkChooseError as e2:
+                if log is not None:
+                    log.warn(
+                        "LLM 重试仍失败，跳过该批次细化",
+                        detail=f"batch={batch_no} mark=LLM_RETRY_FAILED_SKIP err={e2!s}",
+                    )
+                refined.update(
+                    _fallback_refine_batch(
+                        batch,
+                        reason="LLM_RETRY_FAILED_SKIP: 保留规则分类",
+                    )
+                )
+                continue
+
         results = parsed.get("results")
         if not isinstance(results, list):
+            if log is not None:
+                log.warn(
+                    "LLM 输出缺少 results，跳过该批次细化",
+                    detail=f"batch={batch_no} mark=LLM_RESULTS_MISSING_SKIP",
+                )
+            refined.update(
+                _fallback_refine_batch(
+                    batch,
+                    reason="LLM_RESULTS_MISSING_SKIP: 保留规则分类",
+                )
+            )
             continue
+
         for r in results:
             if not isinstance(r, dict):
                 continue
@@ -397,6 +470,33 @@ def _extract_clickable_links(markdown_text: str, declared_source_url: str | None
 
     for m in _AUTO_LINK_RE.finditer(markdown_text):
         url = _normalize_url(m.group(1))
+        key = (url, "")
+        if not url or key in seen:
+            continue
+        seen.add(key)
+        scope = _link_scope(url, declared_source_url)
+        category, category_confidence, category_reason, uncertain = _rule_category(url, "", scope)
+        items.append(
+            {
+                "idx": str(len(items)),
+                "url": url,
+                "anchor_text": "",
+                "scope": scope,
+                "category": category,
+                "category_confidence": category_confidence,
+                "category_reason": category_reason,
+                "guessed_target_content": _category_to_guess(category),
+                "needs_llm_refine": "1" if uncertain else "0",
+            }
+        )
+
+    # 有些页面即便包含 URL，也可能被 firecrawl 转成“裸文本”，不一定会生成 markdown link 或 <...>。
+    # 为了保证这类 URL 也能进入后续队列，这里额外提取裸 URL。
+    for m in _BARE_URL_RE.finditer(markdown_text):
+        raw_url = m.group(1).strip()
+        # 去掉句末常见标点，避免把正文标点当作 URL 一部分。
+        raw_url = raw_url.rstrip(".,;:!?)\"'")
+        url = _normalize_url(raw_url)
         key = (url, "")
         if not url or key in seen:
             continue

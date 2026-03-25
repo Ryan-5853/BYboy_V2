@@ -1,0 +1,197 @@
+{
+  "meta": {
+    "tutor_name_cn": "程洪",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1152/4321.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1152/4321.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "F:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\5d8986c9bdba7edd1865daa52ec65bfad3ae5e4157910df78186cb35dedd8a80.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "site_chrome": {
+      "source_url": "https://www.auto.uestc.edu.cn/info/1152/4321.htm",
+      "breadcrumbs": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "C",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/C.htm"
+        }
+      ],
+      "navigation_links": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ]
+    },
+    "mentor_info": {
+      "name": "程洪",
+      "photo_url": "https://www.auto.uestc.edu.cn/__local/C/71/6E/D39E3585156A12E20C3733797F9_E69F77A8_92695.png",
+      "highest_degree": "博士",
+      "contact_phone": null,
+      "job_title": "教授",
+      "email": "hcheng@uestc.edu.cn",
+      "supervision_status": "博士导师",
+      "personal_homepage": null,
+      "research_team": "机器人研究中心"
+    },
+    "sections": [
+      {
+        "title": "主要研究方向",
+        "content": [
+          "模式识别与机器学习",
+          "计算机视觉",
+          "机器人"
+        ]
+      },
+      {
+        "title": "学术头衔及兼职",
+        "content": [
+          "国家级人才",
+          "四川省有突出贡献的专家",
+          "四川省领军人才",
+          "新世纪优秀人才计划"
+        ]
+      },
+      {
+        "title": "学习、工作经历",
+        "content": [
+          {
+            "period": "2000.7-2006.11",
+            "description": "任西安交通大学电子与信息工程学院副教授"
+          },
+          {
+            "period": "2006.12-2009.11",
+            "description": "赴美国卡内基梅隆大学从事博士后工作"
+          },
+          {
+            "period": "2009.12至今",
+            "description": "任电子科技大学自动化工程学院教授"
+          }
+        ]
+      },
+      {
+        "title": "科学研究",
+        "content": {
+          "publications": [
+            {
+              "type": "教材",
+              "title": "数字信号处理",
+              "publisher": "清华大学",
+              "notes": "十一五自动化专业规划教材"
+            },
+            {
+              "type": "学术专著",
+              "publisher": "Springer",
+              "count": 2,
+              "language": "英文"
+            },
+            {
+              "type": "学术论文",
+              "venues": [
+                "ECCV",
+                "ICCV",
+                "CVPR",
+                "国际杂志"
+              ],
+              "count_description": "60余篇",
+              "google_scholar_citations": {
+                "count": 600,
+                "unit": "次"
+              }
+            }
+          ],
+          "organized_conferences": [
+            "ICVES2005",
+            "VLPR2011",
+            "ICME2014"
+          ],
+          "projects": {
+            "description": "主持多项自然科学基金和重要企业横向项目",
+            "count_description": "10项"
+          },
+          "patents": {
+            "description": "申请国家发明专利",
+            "count_description": "12项"
+          }
+        }
+      },
+      {
+        "title": "主讲课程与教学研究",
+        "content": {
+          "undergraduate_courses": [
+            "新生课堂Ⅱ",
+            "智能科学与技术",
+            "魅力自动化：入门与创新"
+          ],
+          "graduate_courses": [
+            "机器学习",
+            "计算机视觉",
+            "学科前沿知识专题讲座"
+          ],
+          "teaching_positions": null,
+          "teaching_research_projects": [
+            {
+              "description": "主持《智能科学与技术》学科前沿课"
+            }
+          ]
+        }
+      },
+      {
+        "title": "招生专业",
+        "content": {
+          "masters": [
+            {
+              "code": "081100",
+              "name": "控制科学与工程"
+            },
+            {
+              "code": "085400",
+              "name": "电子信息"
+            }
+          ],
+          "doctors": [
+            {
+              "code": "081100",
+              "name": "控制科学与工程"
+            },
+            {
+              "code": "085400",
+              "name": "电子信息"
+            },
+            {
+              "code": "086100",
+              "name": "交通运输"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

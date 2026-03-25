@@ -1,0 +1,150 @@
+{
+  "meta": {
+    "tutor_name_cn": "陈章勇",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1152/4527.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1152/4527.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "F:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\ce06e3aa307feb40de272f5b0cc26e174fb3e3aeae08de1a4920f0b093791b9e.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "query_mentor_name": "陈章勇",
+    "page_source_url": "https://www.auto.uestc.edu.cn/info/1152/4527.htm",
+    "sections": [
+      {
+        "type": "site_chrome",
+        "title": "导航与页面结构",
+        "content": {
+          "main_headers": [
+            {
+              "level": 3,
+              "text": "师资队伍"
+            },
+            {
+              "level": 2,
+              "text": "师资队伍"
+            }
+          ],
+          "breadcrumbs": [
+            {
+              "anchor_text": "首页",
+              "url": "https://www.auto.uestc.edu.cn/index.htm"
+            },
+            {
+              "anchor_text": "师资队伍",
+              "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+            },
+            {
+              "anchor_text": "教师名录总览页",
+              "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+            },
+            {
+              "anchor_text": "C",
+              "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/C.htm"
+            },
+            {
+              "anchor_text": "正文",
+              "url": null
+            }
+          ],
+          "navigation_links": [
+            {
+              "anchor_text": "教师名录",
+              "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+            },
+            {
+              "anchor_text": "教师名录总览页",
+              "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+            }
+          ]
+        }
+      },
+      {
+        "type": "mentor_profile_summary",
+        "title": "陈章勇",
+        "content": {
+          "name": "陈章勇",
+          "image_url": "https://www.auto.uestc.edu.cn/__local/E/F8/D7/C5CBE329C73621240BFF8354503_4205113E_1E2B17.jpg",
+          "highest_degree": "博士",
+          "contact_phone": null,
+          "title_position": "副教授",
+          "email": "zhang_yong_ch@126.com",
+          "supervisor_status": "硕士导师",
+          "personal_homepage": null,
+          "research_team": "电力电子与先进控制中心"
+        }
+      },
+      {
+        "type": "research_directions",
+        "title": "主要研究方向",
+        "content": [
+          "新型电力电子技术",
+          "谐振变换器及软开关技术",
+          "电力电子控制技术"
+        ]
+      },
+      {
+        "type": "academic_roles_affiliations",
+        "title": "学术头衔及兼职",
+        "content": [
+          "担任IEEE Trans. on Power Electronics，IEEE Trans. On Industrial Electronics，IEEE Journal of Emerging and Selected Topics in Power Electronics, IET Power Electronics，International Journal of Electronics letters等多种国外著名期刊的审稿人"
+        ]
+      },
+      {
+        "type": "experience",
+        "title": "学习、工作经历",
+        "content": {
+          "work_experience": [
+            {
+              "period": "2016.1-2017.11",
+              "description": "任电子科技大学能源学院专任教师"
+            },
+            {
+              "period": "2017.12至今",
+              "description": "任电子科技大学自动化工程学院专任教师"
+            }
+          ]
+        }
+      },
+      {
+        "type": "scientific_research",
+        "title": "科学研究",
+        "content": [
+          "主持国家自然科学基金及四川省科技计划项目",
+          "参与成都市电动乘用车产业集群协同创新项目等"
+        ]
+      },
+      {
+        "type": "teaching",
+        "title": "主讲课程与教学研究",
+        "content": {
+          "undergraduate_courses": [
+            "电力电子技术",
+            "柔性电力系统中的电力电子技术"
+          ],
+          "graduate_courses": [
+            "电气传动与自动控制"
+          ],
+          "teaching_positions": null,
+          "teaching_research": [
+            "参与《嵌入式系统设计——基于STM32及μC/OS 》在线开放课程"
+          ]
+        }
+      },
+      {
+        "type": "admission_information",
+        "title": "招生专业",
+        "content": {
+          "masters": [
+            "081100控制科学与工程",
+            "086100交通运输"
+          ],
+          "doctors": []
+        }
+      }
+    ]
+  }
+}

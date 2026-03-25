@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "tutor_name_cn": "付在明",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1155/4345.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1155/4345.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "F:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\d221317c100f9ed81ffafd3e43baf650f8a4c67497b6aab05a70a7d25c82ca73.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "site_metadata": {
+      "source_url": "https://www.auto.uestc.edu.cn/info/1155/4345.htm",
+      "breadcrumbs": [
+        {
+          "text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "text": "F",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/F.htm"
+        },
+        {
+          "text": "正文",
+          "url": null
+        }
+      ],
+      "sidebar_menu": [
+        {
+          "text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ]
+    },
+    "professor_profile": {
+      "name": "付在明",
+      "image_url": "https://www.auto.uestc.edu.cn/__local/2/37/1A/DF2C071B1428F6B0A35301AE410_AA00F16A_3D6DF.jpg",
+      "highest_degree": "博士",
+      "contact_phone": null,
+      "position_title": "正高级高工",
+      "email": "fzm8446@uestc.edu.cn",
+      "supervisor_status": "博士导师",
+      "personal_homepage": null,
+      "research_team": "测试技术与仪器研究所（信号产生）"
+    },
+    "research_directions": [
+      "数字系统测试与设计",
+      "抖动理论与技术",
+      "无线能源传输技术"
+    ],
+    "academic_titles_and_affiliations": null,
+    "experience": {
+      "education_work_experience": [
+        {
+          "period": "2014.09- 2015.08",
+          "institution": "加拿大达尔豪斯大学",
+          "role": "访问学者"
+        },
+        {
+          "period": "2018.08- 现在",
+          "institution": "电子科技大学，自动化工程学院",
+          "role": "教授级高工"
+        },
+        {
+          "period": "2011.08- 2018.07",
+          "institution": "电子科技大学，自动化工程学院",
+          "role": "副研究员"
+        },
+        {
+          "period": "2007.12- 2011.07",
+          "institution": "电子科技大学，自动化工程学院",
+          "role": "讲师"
+        },
+        {
+          "period": "2004.03- 2007.11",
+          "institution": "电子科技大学，自动化工程学院",
+          "role": "助教"
+        }
+      ]
+    },
+    "scientific_research_summary": "主持和负责国家级、省部级科研项目10余项，参与校企合作项目多项，共计科研经费超过5000万元，研究成果获四川省科技进步一等奖， 并获国家发明专利、软件著作权近20项，获美国专利1项，近年在ACCESS、RSI、EL、ISCAS、AUTOTESTCON等高水平SCI国际期刊/IEEE高级会议发表学术论文20多篇。编著学术专著2本、国家行业标准1项。",
+    "teaching": {
+      "undergraduate_courses": [
+        "数字逻辑设计及应用"
+      ],
+      "graduate_courses": [
+        "计量方法与误差理论",
+        "研究生论文写作指导"
+      ],
+      "teaching_positions": null,
+      "teaching_research": null
+    },
+    "admissions": {
+      "master_programs": [
+        "080400仪器科学与技术",
+        "085400电子信息"
+      ],
+      "doctoral_programs": null
+    }
+  }
+}

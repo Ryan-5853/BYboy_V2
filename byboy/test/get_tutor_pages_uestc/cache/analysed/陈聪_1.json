@@ -1,0 +1,167 @@
+{
+  "meta": {
+    "tutor_name_cn": "陈聪",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1152/6154.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1152/6154.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "F:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\19ea6021c58e6bfb4fe9dd272e1a54f2a5cb214bd196d44327b71de2e2e009b7.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "query_name": "陈聪",
+    "source_url": "https://www.auto.uestc.edu.cn/info/1152/6154.htm",
+    "name": "陈聪",
+    "personal_details": {
+      "highest_degree": "博士",
+      "phone": null,
+      "email": "cong_chen@uestc.edu.cn",
+      "personal_homepage": "https://faculty.uestc.edu.cn/chencong1/zh_CN/index.htm",
+      "current_title": "副研究员",
+      "supervisor_status": "硕士生导师"
+    },
+    "affiliation": {
+      "university": "电子科技大学",
+      "department_implied": "自动化工程学院",
+      "research_institute_or_team": "测试技术与仪器研究所（非电量）"
+    },
+    "research_info": {
+      "main_directions": "长期从事新型传感与精密测量方向前沿技术研究，包括微纳体声波谐振式传感、功率器件热机可靠性检测等方面。",
+      "projects": [
+        {
+          "role": "项目负责人",
+          "description": "国家自然科学基金青年基金项目1项"
+        },
+        {
+          "role": "项目负责人",
+          "description": "四川省重点研发计划项目1项"
+        },
+        {
+          "role": "项目负责人",
+          "description": "中央高校基本科研业务费面向基础前沿类项目1项"
+        },
+        {
+          "role": "项目负责人",
+          "description": "技术开发类横向项目3项"
+        },
+        {
+          "role": "项目核心技术骨干",
+          "description": "国家重点研发计划、国家自然科学基金联合基金重点项目等10余项"
+        }
+      ],
+      "publications_summary": "发表一作及通讯SCI期刊论文及高水平国际学术会议论文9篇，包含中科院一区Top 2篇，二区2篇。",
+      "patents_summary": "作为第一发明人，申请国家发明专利5项，并获授权4项。"
+    },
+    "academic_service": {
+      "reviewer_roles": [
+        "IEEE Transactions on Instrumentation and Measurement",
+        "IEEE Transactions on Power Electronics",
+        "Journal of Ambient Intelligence and Humanized Computing"
+      ]
+    },
+    "experience": {
+      "work_history": [
+        {
+          "start_date": "2023.05",
+          "end_date": "至今",
+          "organization": "电子科技大学 自动化工程学院",
+          "position": "副研究员"
+        },
+        {
+          "start_date": "2020.09",
+          "end_date": "2023.05",
+          "organization": "电子科技大学 自动化工程学院",
+          "position": "助理研究员"
+        },
+        {
+          "start_date": "2019.03",
+          "end_date": "2020.09",
+          "organization": "电子科技大学",
+          "position": "博士后",
+          "field": "仪器科学与技术"
+        }
+      ],
+      "education_history": [
+        {
+          "start_date": "2013.09",
+          "end_date": "2018.12",
+          "university": "重庆大学",
+          "major": "仪器科学与技术",
+          "degree": "直博研究生"
+        },
+        {
+          "start_date": "2009.09",
+          "end_date": "2013.06",
+          "university": "重庆大学",
+          "major": "电子科学与技术",
+          "degree": "本科"
+        }
+      ]
+    },
+    "teaching_info": {
+      "courses_taught": [],
+      "admission_programs": {
+        "master_programs": [
+          "080400仪器科学与技术",
+          "085400电子信息",
+          "085407仪器仪表工程"
+        ],
+        "doctoral_programs": []
+      }
+    },
+    "images": [
+      {
+        "url": "https://www.auto.uestc.edu.cn/__local/E/BF/3C/57591055C4521813D658E0B47E1_823FEDFD_22B23F.jpg",
+        "alt_text": null
+      }
+    ],
+    "site_chrome": {
+      "page_headings": [
+        "师资队伍",
+        "师资队伍"
+      ],
+      "breadcrumbs": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "C",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/C.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "navigation_sidebar_links": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ]
+    }
+  }
+}

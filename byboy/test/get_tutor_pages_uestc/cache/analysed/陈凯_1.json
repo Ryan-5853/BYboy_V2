@@ -1,0 +1,182 @@
+{
+  "meta": {
+    "tutor_name_cn": "陈凯",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1152/4305.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1152/4305.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "F:\\BYboy_V2\\byboy\\agents\\tutor_inf\\tutor_analyse\\cache\\f89e76ffa56b4641ebd6b1d52686b56dc7d22a4967fd0fc00c706b9431dff4f8.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "site_chrome": {
+      "source_url": "https://www.auto.uestc.edu.cn/info/1152/4305.htm",
+      "breadcrumbs": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "C",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/C.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "sidebar_links": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ]
+    },
+    "professor_info": {
+      "name": "陈凯",
+      "image_url": "https://www.auto.uestc.edu.cn/__local/7/37/E0/FE654D3A7D7197693E9D4A1C4FC_940164A7_5D821.jpg",
+      "basic_details": {
+        "highest_degree": "博士",
+        "phone": null,
+        "title_position": "教授",
+        "email": "kaichen@uestc.edu.cn",
+        "advisor_status": "博士导师",
+        "personal_homepage": null,
+        "research_team": "测试技术与仪器研究所（精密测试）"
+      },
+      "research_directions": [
+        "电子测试仪器",
+        "装备综合测试与诊断",
+        "精密测控等领域研究工作",
+        "对高精度信号采集、微弱信号测试、精密传感、故障诊断等技术有较深入的研究"
+      ],
+      "academic_titles_and_affiliations": {
+        "academic_honors": [
+          "入选国家级青年人才",
+          "四川省学术与技术带头人后备人选",
+          "电子科技大学校百人",
+          "四川省杰出青年基金获得者"
+        ],
+        "part_time_positions": [
+          {
+            "organization": "四川省自动化与仪器仪表学会",
+            "position": "理事"
+          },
+          {
+            "organization": "四川省电子学会探测与控制技术委员会",
+            "position": "副主任委员"
+          },
+          {
+            "organization": "《中国测试》杂志",
+            "position": "编委会委员"
+          }
+        ]
+      },
+      "education_and_work_experience": [
+        {
+          "start_date": "2004.09",
+          "end_date": "2008.07",
+          "institution": "电子科技大学",
+          "degree": "本科"
+        },
+        {
+          "start_date": "2008.09",
+          "end_date": "2011.07",
+          "institution": "电子科技大学",
+          "degree": "硕士"
+        },
+        {
+          "start_date": "2011.09",
+          "end_date": "2015.06",
+          "institution": "电子科技大学",
+          "degree": "博士"
+        },
+        {
+          "start_date": "2012.11",
+          "end_date": "2013.10",
+          "institution": "加拿大英属哥伦比亚大学",
+          "position": "访问学者"
+        },
+        {
+          "start_date": "2015.07",
+          "end_date": "2017.06",
+          "institution": "电子科技大学",
+          "position": "讲师"
+        },
+        {
+          "start_date": "2017.07",
+          "end_date": "2022.02",
+          "institution": "电子科技大学",
+          "position": "副教授"
+        },
+        {
+          "start_date": "2022.05",
+          "end_date": "2023.09",
+          "institution": "电子科技大学",
+          "position": "研究员"
+        },
+        {
+          "start_date": "2023.10",
+          "end_date": null,
+          "institution": "电子科技大学",
+          "position": "教授"
+        }
+      ],
+      "scientific_research_achievements": {
+        "projects": "近五年主持自然科学基金（重点）、四川省杰出青年基金等国家级/省部级科研项目10余项",
+        "applications": "研制的多款仪器设备已在国家重点单位和重大工程中获得应用",
+        "awards": [
+          "省部级科技成果一等奖2项",
+          "省部级科技成果三等奖2项",
+          "中国仪器仪表学会科技成果一等奖1项",
+          "中国仪器仪表学会科技成果二等奖1项"
+        ],
+        "publications": "发表高水平论文40余篇",
+        "patents": "授权发明专利30余项（其中美国专利3项）",
+        "monographs": "出版学术专著2部"
+      },
+      "courses_taught": {
+        "undergraduate_courses": [
+          "传感器原理及应用"
+        ],
+        "graduate_courses": [
+          "微弱信号检测与处理",
+          "学科前沿知识讲座"
+        ]
+      },
+      "admissions_majors": {
+        "masters": [
+          "080400仪器科学与技术",
+          "085400电子信息"
+        ],
+        "phd": [
+          "080400仪器科学与技术",
+          "085400电子信息",
+          "086100交通运输"
+        ]
+      }
+    }
+  }
+}

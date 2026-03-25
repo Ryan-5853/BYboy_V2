@@ -6,10 +6,12 @@
 from __future__ import annotations
 
 import asyncio
+import concurrent.futures
 import json
 import os
 import re
 import time
+import uuid
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Any
@@ -330,6 +332,36 @@ def _pick_high_confidence_urls(
     return list1_add, list2_add
 
 
+def _has_choice_pending_for_round(state: dict[str, Any], *, round_no: int) -> bool:
+    """
+    检测是否处于“已完成页面清洗，但链接分类尚未完成”的中断场景。
+
+    触发条件：
+    - records 中存在指定 round_no 的条目
+    - cleaned_file 存在（说明 webclean 已完成）
+    - choice_file 缺失或为空（说明 link_choose 尚未完成）
+    """
+    records = state.get("records")
+    if not isinstance(records, list):
+        return False
+    for rec in records:
+        if not isinstance(rec, dict):
+            continue
+        try:
+            rno = int(rec.get("round") or 0)
+        except (TypeError, ValueError):
+            rno = 0
+        if rno != round_no:
+            continue
+        cleaned_file = str(rec.get("cleaned_file") or "").strip()
+        if not cleaned_file:
+            continue
+        choice_file = str(rec.get("choice_file") or "").strip()
+        if not choice_file:
+            return True
+    return False
+
+
 class GetTutorPagesAgent:
     def run(
         self,
@@ -337,6 +369,7 @@ class GetTutorPagesAgent:
         dispatcher: LLMDispatcher,
         *,
         max_tokens: int = 8192,
+        choice_max_workers: int = 4,
         restart_on_transient_llm_error: bool = True,
         transient_retry_initial_sec: float = 15.0,
         transient_retry_max_sec: float = 120.0,
@@ -364,6 +397,7 @@ class GetTutorPagesAgent:
                 AgentInvocation(ModelRef(slot_token[0]), inv.llm_part),
                 dispatcher,
                 max_tokens=max_tokens,
+                choice_max_workers=choice_max_workers,
                 log=log,
             ),
             restart_on_transient_llm_error=restart_on_transient_llm_error,
@@ -378,6 +412,7 @@ class GetTutorPagesAgent:
         dispatcher: LLMDispatcher,
         *,
         max_tokens: int,
+        choice_max_workers: int,
         log: AgentLogger,
     ) -> GetTutorPagesResult:
         dispatcher.resolve(inv.model.token)
@@ -428,66 +463,80 @@ class GetTutorPagesAgent:
 
             for _ in range(p.max_depth):
                 list1 = list(dict.fromkeys(_as_set(state["list1_possible_pages"])))
-                if not list1:
-                    break
-                log.step(
-                    "开始新一轮迭代",
-                    detail=f"round={int(state['round']) + 1} batch={len(list1)}",
-                )
-
-                state["round"] = int(state["round"]) + 1
                 current_round = int(state["round"])
 
-                batch = list1[:]
-                state["list1_possible_pages"] = []
+                # 常规：当 list1_possible_pages 非空时，开启新一轮清洗+分类。
+                # 续跑：若 list1_possible_pages 为空但当前 round 存在 choice_file 缺失，
+                # 则说明中断发生在“清洗完成但分类未完成”，此时跳过清洗，直接继续分类。
+                if not list1:
+                    if not _has_choice_pending_for_round(state, round_no=current_round):
+                        break
+                    log.step(
+                        "继续链接分类(未完成)",
+                        detail=f"round={current_round} pending_choice=1",
+                    )
+                else:
+                    log.step(
+                        "开始新一轮迭代",
+                        detail=f"round={current_round + 1} batch={len(list1)}",
+                    )
 
-                processed_set = _as_set(state["list3_processed_pages"])
-                records = state["records"] if isinstance(state["records"], list) else []
-                existing_record_urls = {
-                    _normalize_url(str(rec.get("url") or ""))
-                    for rec in records
-                    if isinstance(rec, dict)
-                }
-                existing_record_urls.discard("")
+                    state["round"] = current_round + 1
+                    current_round = int(state["round"])
 
-                for url in batch:
-                    # 已处理过或已有记录都跳过，避免异常场景重复生成 cleaned。
-                    if url in processed_set or url in existing_record_urls:
-                        processed_set.add(url)
-                        continue
-                    seq = int(state["seq"]) + 1
-                    state["seq"] = seq
-                    cleaned_name = _cleaned_filename(url, seq)
-                    cleaned_path = wc.run(
-                        AgentInvocation(
-                            model=inv.model,
-                            llm_part=WebCleanPayload(
-                                url=url,
-                                output_dir=cleaned_dir,
-                                output_filename=cleaned_name,
+                    batch = list1[:]
+                    state["list1_possible_pages"] = []
+
+                    processed_set = _as_set(state["list3_processed_pages"])
+                    records = state["records"] if isinstance(state["records"], list) else []
+                    existing_record_urls = {
+                        _normalize_url(str(rec.get("url") or ""))
+                        for rec in records
+                        if isinstance(rec, dict)
+                    }
+                    existing_record_urls.discard("")
+
+                    for url in batch:
+                        # 已处理过或已有记录都跳过，避免异常场景重复生成 cleaned。
+                        if url in processed_set or url in existing_record_urls:
+                            processed_set.add(url)
+                            continue
+                        seq = int(state["seq"]) + 1
+                        state["seq"] = seq
+                        cleaned_name = _cleaned_filename(url, seq)
+                        cleaned_path = wc.run(
+                            AgentInvocation(
+                                model=inv.model,
+                                llm_part=WebCleanPayload(
+                                    url=url,
+                                    output_dir=cleaned_dir,
+                                    output_filename=cleaned_name,
+                                ),
                             ),
-                        ),
-                        dispatcher,
-                    )
-                    processed_set.add(url)
-                    existing_record_urls.add(url)
-                    records.append(
-                        {
-                            "url": url,
-                            "round": current_round,
-                            "cleaned_file": _to_workspace_relative(cleaned_path, out_dir),
-                        }
-                    )
-                    log.info("完成页面清洗", detail=f"{url} -> {cleaned_name}")
+                            dispatcher,
+                        )
+                        processed_set.add(url)
+                        existing_record_urls.add(url)
+                        records.append(
+                            {
+                                "url": url,
+                                "round": current_round,
+                                "cleaned_file": _to_workspace_relative(cleaned_path, out_dir),
+                            }
+                        )
+                        log.info("完成页面清洗", detail=f"{url} -> {cleaned_name}")
 
-                state["list3_processed_pages"] = sorted(processed_set)
-                state["records"] = records
-                _write_json(state_path, state)
+                    state["list3_processed_pages"] = sorted(processed_set)
+                    state["records"] = records
+                    _write_json(state_path, state)
 
                 all_records = state["records"] if isinstance(state["records"], list) else []
                 aggregated_links: list[dict[str, Any]] = []
                 list1_candidate_add: set[str] = set()
                 list2_candidate_add: set[str] = set()
+                ready_choice_items: list[tuple[dict[str, Any], str, dict[str, Any], Path]] = []
+                choice_jobs: list[tuple[dict[str, Any], str, Path, str]] = []
+
                 for rec in all_records:
                     if not isinstance(rec, dict):
                         continue
@@ -521,24 +570,7 @@ class GetTutorPagesAgent:
                                 detail=f"{source_url} -> {existing_choice.name}",
                             )
                     if one is None:
-                        choice_path = chooser.run(
-                            AgentInvocation(
-                                model=inv.model,
-                                llm_part=LinkChoosePayload(
-                                    markdown_path=cleaned_file,
-                                    output_dir=choice_dir,
-                                    output_filename=choice_name,
-                                    refine_all_links=p.link_choose_refine_all_links,
-                                ),
-                            ),
-                            dispatcher,
-                            max_tokens=max_tokens,
-                        ).resolve()
-                        rec["choice_file"] = _to_workspace_relative(choice_path, out_dir)
-                        log.info("完成链接分类", detail=f"{source_url} -> {choice_path.name}")
-                        one = _read_json(choice_path, default_obj={"clickable_links": []})
-                        if isinstance(one, dict):
-                            _validate_choice_schema(one)
+                        choice_jobs.append((rec, source_url, cleaned_file, choice_name))
                     else:
                         choice_path = existing_choice
                         rec["choice_file"] = _to_workspace_relative(choice_path, out_dir)
@@ -546,17 +578,84 @@ class GetTutorPagesAgent:
                             "跳过链接分类(已有缓存)",
                             detail=f"{source_url} -> {choice_path.name}",
                         )
-                    if isinstance(one, dict):
-                        links = one.get("clickable_links")
-                        if isinstance(links, list):
-                            for item in links:
-                                if isinstance(item, dict):
-                                    row = dict(item)
-                                    row["source_url"] = source_url
-                                    aggregated_links.append(row)
-                        add1, add2 = _pick_high_confidence_urls(choice_json=one, source_url=source_url)
-                        list1_candidate_add |= add1
-                        list2_candidate_add |= add2
+                        if isinstance(one, dict):
+                            ready_choice_items.append((rec, source_url, one, choice_path))
+
+                if choice_jobs:
+                    workers = max(1, int(choice_max_workers))
+                    log.step("并行链接分类", detail=f"jobs={len(choice_jobs)} workers={workers}")
+
+                    def _run_one_choice(job: tuple[dict[str, Any], str, Path, str]) -> tuple[dict[str, Any], str, dict[str, Any], Path]:
+                        rec0, src0, cleaned0, choice_name0 = job
+                        tmp_name = f"{Path(choice_name0).stem}.{uuid.uuid4().hex}.tmp.json"
+                        tmp_path = (choice_dir / tmp_name).resolve()
+                        final_path = (choice_dir / choice_name0).resolve()
+                        try:
+                            out_tmp = chooser.run(
+                                AgentInvocation(
+                                    model=inv.model,
+                                    llm_part=LinkChoosePayload(
+                                        markdown_path=cleaned0,
+                                        output_dir=choice_dir,
+                                        output_filename=tmp_name,
+                                        refine_all_links=p.link_choose_refine_all_links,
+                                    ),
+                                ),
+                                dispatcher,
+                                max_tokens=max_tokens,
+                            ).resolve()
+                            one0 = _read_json(out_tmp, default_obj={"clickable_links": []})
+                            if isinstance(one0, dict):
+                                _validate_choice_schema(one0)
+                            else:
+                                raise GetTutorPagesError("link_choose 输出不是 JSON 对象")
+                            return rec0, src0, one0, final_path
+                        except Exception:
+                            try:
+                                if tmp_path.exists():
+                                    tmp_path.unlink()
+                            except OSError:
+                                pass
+                            raise
+
+                    with concurrent.futures.ThreadPoolExecutor(max_workers=workers) as ex:
+                        fut_map = {ex.submit(_run_one_choice, j): j for j in choice_jobs}
+                        for fut in concurrent.futures.as_completed(fut_map):
+                            rec0, src0, _cleaned0, choice_name0 = fut_map[fut]
+                            try:
+                                rec_ret, src_ret, one_ret, final_path = fut.result()
+                            except Exception as e:
+                                log.warn(
+                                    "链接分类失败，丢弃该 worker 结果",
+                                    detail=f"{src0} -> {choice_name0} err={e!s}",
+                                )
+                                continue
+                            # 仅 worker 完成后在主线程落盘/改状态，保证一致性。
+                            tmp_candidates = list(choice_dir.glob(f"{Path(choice_name0).stem}.*.tmp.json"))
+                            if not tmp_candidates:
+                                log.warn("链接分类结果临时文件丢失，丢弃", detail=f"{src_ret} -> {choice_name0}")
+                                continue
+                            tmp_choice = sorted(tmp_candidates, key=lambda p0: p0.stat().st_mtime)[-1]
+                            try:
+                                tmp_choice.replace(final_path)
+                            except OSError as e:
+                                log.warn("链接分类结果落盘失败，丢弃", detail=f"{src_ret} -> {choice_name0} err={e!s}")
+                                continue
+                            rec_ret["choice_file"] = _to_workspace_relative(final_path, out_dir)
+                            log.info("完成链接分类", detail=f"{src_ret} -> {final_path.name}")
+                            ready_choice_items.append((rec_ret, src_ret, one_ret, final_path))
+
+                for _rec, source_url, one, _choice_path in ready_choice_items:
+                    links = one.get("clickable_links")
+                    if isinstance(links, list):
+                        for item in links:
+                            if isinstance(item, dict):
+                                row = dict(item)
+                                row["source_url"] = source_url
+                                aggregated_links.append(row)
+                    add1, add2 = _pick_high_confidence_urls(choice_json=one, source_url=source_url)
+                    list1_candidate_add |= add1
+                    list2_candidate_add |= add2
 
                 list1_set = _as_set(state["list1_possible_pages"])
                 list2_set = _as_set(state["list2_tutor_profiles"])
@@ -617,6 +716,7 @@ class GetTutorPagesAgent:
         dispatcher: LLMDispatcher,
         *,
         max_tokens: int = 8192,
+        choice_max_workers: int = 4,
         restart_on_transient_llm_error: bool = True,
         transient_retry_initial_sec: float = 15.0,
         transient_retry_max_sec: float = 120.0,
@@ -627,6 +727,7 @@ class GetTutorPagesAgent:
             inv,
             dispatcher,
             max_tokens=max_tokens,
+            choice_max_workers=choice_max_workers,
             restart_on_transient_llm_error=restart_on_transient_llm_error,
             transient_retry_initial_sec=transient_retry_initial_sec,
             transient_retry_max_sec=transient_retry_max_sec,
