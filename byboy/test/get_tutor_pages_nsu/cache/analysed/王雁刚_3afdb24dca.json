@@ -1,0 +1,156 @@
+{
+  "meta": {
+    "tutor_name_cn": "王雁刚",
+    "request_url": "http://automation.seu.edu.cn/wyg/list.htm",
+    "declared_source_url": "http://automation.seu.edu.cn/wyg/list.htm",
+    "page_host": "automation.seu.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/cce057c0c25172fb09d6c2f89663247022802e56e052b61d0f22d3c43fe87552.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": "包含导师详细的个人简介、教育工作经历、讲授课程和代表性论文等大量有效信息。"
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "query_key": "王雁刚",
+    "main_page_url": "http://automation.seu.edu.cn/wyg/list.htm",
+    "personal_info": {
+      "name": "王雁刚",
+      "gender": "男",
+      "birth_year": 1987,
+      "current_title": "博士生导师",
+      "current_affiliation": "东南大学自动化学院",
+      "research_directions": [
+        "人工智能（立体视觉）",
+        "计算机图形学",
+        "人体动态三维重建"
+      ],
+      "research_projects_overview": "主持和承担了多项国家自然科学基金",
+      "professional_memberships": [
+        "中国图象图形学会智能图形专业委员会委员",
+        "中国图象图形学会三维视觉专业委员会委员",
+        "中国人工智能学会脑科学与人工智能专业委员会委员",
+        "IEEE member",
+        "ACM member"
+      ],
+      "awards_and_honors_overview": [
+        "第五届中国科协青年人才托举工程",
+        "江苏省“双创博士”人才",
+        "东南大学“至善学者”A层次人才",
+        "东南大学第26届青年教师授课竞赛二等奖（9/194）"
+      ],
+      "personal_homepage": {
+        "url": "http://www.yangangwang.com/",
+        "anchor_text": "www.yangangwang.com"
+      }
+    },
+    "education_background": [
+      {
+        "period": "2009 - 2014",
+        "institution": "清华大学自动化系",
+        "degree": "工学博士"
+      },
+      {
+        "period": "2012 - 2013",
+        "institution": "瑞士洛桑联邦理工学院",
+        "role": "访问学者"
+      },
+      {
+        "period": "2005 - 2009",
+        "institution": "东南大学仪器科学与工程学院",
+        "degree": "工学学士"
+      }
+    ],
+    "work_experience": [
+      {
+        "period": "2017 - 至今",
+        "organization": "东南大学自动化学院"
+      },
+      {
+        "period": "2014 - 2017",
+        "organization": "微软亚洲研究院"
+      }
+    ],
+    "academic_appointments": [],
+    "awards_and_honors": [],
+    "taught_courses": [
+      "本科生专业课《人工智能导论》",
+      "本科生专业课《数字图像处理综合课程设计》"
+    ],
+    "student_supervision": null,
+    "research_interests": null,
+    "research_projects": null,
+    "publications": {
+      "section_title": "5篇代表论文",
+      "papers": [
+        {
+          "citation_id": "[1]",
+          "authors": "Yangang Wang, Baowen Zhang and Cong Peng",
+          "title": "SRHandNet: Real-time 2D Hand Pose Estimation with Simultaneous Region Localization",
+          "journal_conference": "IEEE Transactions on Image Processing",
+          "volume_issue_pages": "29(1):2977-2986",
+          "year": 2020,
+          "corresponding_authors": [
+            "Yangang Wang"
+          ]
+        },
+        {
+          "citation_id": "[2]",
+          "authors": "Tianshu Zhang, Buzhen Huang and Yangang Wang*",
+          "title": "Object-Occluded Human Shape and Pose Estimation from a Single Color Image",
+          "journal_conference": "IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR)",
+          "year": 2020,
+          "corresponding_authors": [
+            "Yangang Wang"
+          ]
+        },
+        {
+          "citation_id": "[3]",
+          "authors": "Yangang Wang, Cong Peng and Yebin Liu",
+          "title": "Mask-pose Cascaded CNN for 2D Hand Pose Estimation from Single Color Image",
+          "journal_conference": "IEEE Transactions on Circuits and Systems for Video Technology",
+          "volume_issue_pages": "29(11):3258-3268",
+          "year": 2019,
+          "corresponding_authors": [
+            "Yangang Wang"
+          ]
+        },
+        {
+          "citation_id": "[4]",
+          "authors": "Yangang Wang, Yebin Liu, Xin Tong, Qionghai Dai and Ping Tan",
+          "title": "Outdoor Markerless Motion Capture with Sparse Handheld Video Cameras",
+          "journal_conference": "IEEE Transactions on Visualization and Computer Graphics",
+          "volume_issue_pages": "24(5):1856-1866",
+          "year": 2018,
+          "corresponding_authors": [
+            "Yangang Wang"
+          ]
+        },
+        {
+          "citation_id": "[5]",
+          "authors": "Yangang Wang, Jianyuan Min, Jianjie Zhang, Yebin Liu, Feng Xu, Qionghai Dai and Jinxiang Chai",
+          "title": "Video-based Hand Manipulation Capture Through Composite Motion Control",
+          "journal_conference": "ACM Transactions on Graphics",
+          "volume_issue_pages": "article no: 43",
+          "year": 2013,
+          "corresponding_authors": [
+            "Yangang Wang"
+          ]
+        }
+      ]
+    },
+    "uncategorized": {},
+    "site_chrome": {
+      "capture_source_text": "抓取来源：http://automation.seu.edu.cn/wyg/list.htm",
+      "images": [
+        {
+          "url": "https://automation.seu.edu.cn/wyg/list.htm",
+          "description": "Image tag with source URL identical to the page URL; likely a placeholder or representation of a broken image link."
+        },
+        {
+          "url": "https://automation.seu.edu.cn/_visitcount?siteId=338&type=2&columnId=32854",
+          "description": "Site visit counter image."
+        }
+      ]
+    }
+  }
+}

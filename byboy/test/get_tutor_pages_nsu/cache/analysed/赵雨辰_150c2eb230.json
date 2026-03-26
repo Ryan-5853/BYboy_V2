@@ -1,0 +1,178 @@
+{
+  "meta": {
+    "tutor_name_cn": "赵雨辰",
+    "request_url": "http://automation.seu.edu.cn/zyc/list.htm",
+    "declared_source_url": "http://automation.seu.edu.cn/zyc/list.htm",
+    "page_host": "automation.seu.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/a0e47c3ddf477c49fa2306a7366557bc9f23b5ef2fbaf7639698dd2a492bc6c4.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": "正文包含导师详细的基本信息、教育、工作、奖励、课程、研究方向、项目、论文和专利，信息丰富且结构化。"
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "name": "赵雨辰",
+    "source_url": "http://automation.seu.edu.cn/zyc/list.htm",
+    "personal_details": {
+      "birth_year": 1992,
+      "current_affiliation": "东南大学自动化学院",
+      "current_title": "上岗副研究员",
+      "primary_research_interests": [
+        "阵列式机器人及相关自动化技术",
+        "软体机器人"
+      ]
+    },
+    "education_background": [
+      {
+        "period": "2014-2020",
+        "institution": "美国杜克大学",
+        "major": "物理学",
+        "degree": "博士"
+      },
+      {
+        "period": "2010-2014",
+        "institution": "山东大学",
+        "major": "物理学",
+        "degree": "学士"
+      }
+    ],
+    "work_experience": [
+      {
+        "period": "2023-至今",
+        "institution": "东南大学",
+        "department": "自动化学院",
+        "position": "副研究员"
+      },
+      {
+        "period": "2021-2023",
+        "institution": "新加坡南洋理工大学",
+        "department": "机械和航天工程学院",
+        "position": "博士后"
+      }
+    ],
+    "academic_appointments": [],
+    "awards": [
+      {
+        "name": "江苏省双创博士",
+        "year": 2025
+      }
+    ],
+    "taught_courses": {
+      "undergraduate": [
+        "工业机器人系统",
+        "劳动教育与实践"
+      ],
+      "graduate": [
+        "软体机器人"
+      ]
+    },
+    "student_supervision": [
+      "硕士生导师",
+      "国家级/校级大学生创新创业训练项目SRTP指导教师（2025年）"
+    ],
+    "research_interests": [
+      "机器人",
+      "人工智能",
+      "复杂系统控制"
+    ],
+    "research_projects": [
+      {
+        "name": "东南大学复杂系统测量与控制教育部重点实验室开放课题",
+        "period": "2025-"
+      }
+    ],
+    "publications": {
+      "representative_papers": [
+        {
+          "authors": "Y. Zhao; Y. Chen",
+          "title": "A Shape Control and Object Manipulation Technique Based on Function Approximation for Robotic Surface",
+          "journal_conference": "Frontiers in Robotics and AI",
+          "year": 2025,
+          "volume_issue_pages": "12:1633131"
+        },
+        {
+          "authors": "Y. Zhao; Y. Wang",
+          "title": "A Palm-Shape Variable-Stiffness Gripper Based on 3D-Printed Fabric Jamming",
+          "journal_conference": "IEEE Robotics and Automation Letters",
+          "year": 2023,
+          "volume_issue_pages": "8(6): 3238-3245"
+        },
+        {
+          "authors": "Y. Zhao; J. Barés; J. E.S. Socolar",
+          "title": "Yielding, rigidity, and tensile stress in sheared columns of hexapod granules",
+          "journal_conference": "Physical Review E",
+          "year": 2020,
+          "volume_issue_pages": "101(6)",
+          "notes": "editor's suggestion"
+        },
+        {
+          "authors": "Y. Zhao; C.K. Khaw; Y. Wang",
+          "title": "Measuring a Soft Resistive Strain Sensor Array by Solving the Resistor Network Inverse Problem",
+          "journal_conference": "2023 IEEE International Conference on Soft Robotics (RoboSoft)",
+          "year": 2023,
+          "location": "Singapore"
+        },
+        {
+          "authors": "J. Ge*; Y. Zhao*; Y. Wang; H. Li",
+          "title": "Electrochemical pneumatic battery for untethered robotics",
+          "journal_conference": "Device",
+          "year": 2024,
+          "volume_issue_pages": "2(9): 100460",
+          "notes": "共同第一作者"
+        },
+        {
+          "authors": "P. Jalali; Y. Zhao; J. E.S. Socolar",
+          "title": "Static and dynamic features of granular material failure due to upward pulling of a buried sphere by a slowly increasing force",
+          "journal_conference": "Soft Matter",
+          "year": 2021,
+          "volume_issue_pages": "17(10): 2832-2839"
+        }
+      ],
+      "full_list_links": [
+        {
+          "anchor_text": "完整列表与链接请移步至 https://orcid.org/0000-0002-9779-4577",
+          "url": "https://orcid.org/0000-0002-9779-4577"
+        },
+        {
+          "anchor_text": "Google Scholar 链接",
+          "url": "https://scholar.google.com/citations?user=i_oSIYEAAAAJ&hl=zh-TW&oi=sra"
+        }
+      ]
+    },
+    "patents": {
+      "representative_patents": [
+        {
+          "inventors": "Y. Wang; Y. Zhao",
+          "title": "A GRIPPER MEMBER AND GRIPPER SYSTEM",
+          "agency": "WIPO|PCT",
+          "publication_number": "WO2024/080924-A1",
+          "type": null
+        },
+        {
+          "inventors": "冉麒麟; 赵雨辰; 李怡恬",
+          "title": "一种软体扭转线性执行器及执行方法",
+          "filing_date": "2025-10-10",
+          "country": "中国",
+          "publication_number": "CN202511442261.3",
+          "type": "发明专利"
+        }
+      ]
+    },
+    "site_chrome": [
+      {
+        "type": "text",
+        "content": "抓取来源：http://automation.seu.edu.cn/zyc/list.htm"
+      },
+      {
+        "type": "image",
+        "url": "https://automation.seu.edu.cn/zyc/list.htm",
+        "description": "Placeholder image at the top of the page, potentially a broken link or page rendering itself."
+      },
+      {
+        "type": "image",
+        "url": "https://automation.seu.edu.cn/_visitcount?siteId=338&type=2&columnId=53646",
+        "description": "Visit counter image at the bottom of the page."
+      }
+    ]
+  }
+}

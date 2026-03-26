@@ -1,0 +1,374 @@
+{
+  "clickable_links": [
+    {
+      "url": "https://automation.seu.edu.cn/cl/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "URL路径'cl/list.htm'常用于列表页，在学院域名下。",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.baidu.com/link?url=P7166rVcxKTWy719IHRdmrQVgHa9Bk_e3A32Xmk9g9spmaEYh0ck9iAFZiCd0KRlSmeHPS_5na7zJQ9vTAfG7a&wd=&eqid=d2e5ef43000321f1000000065e3bdf1a",
+      "anchor_text": "美国《数学评论》(Mathematical Reviews)",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "百度跳转链接，锚文本为数学评论期刊，与导师无关。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_upload/article/images/c4/27/17181b8348bfb08b6cae98160486/5639bf80-6252-45d3-bf6f-c860def468b7.png",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "链接指向图片文件，与导师信息无关。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_upload/article/images/c4/27/17181b8348bfb08b6cae98160486/bdd383e8-5c6e-4fe9-89ad-85def23dec64.png",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "链接指向图片文件，与导师信息无关。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_upload/article/images/c4/27/17181b8348bfb08b6cae98160486/c4b02b14-e638-48e1-884f-249750c7cdf8.png",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "链接指向图片文件，与导师信息无关。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_upload/article/images/c4/27/17181b8348bfb08b6cae98160486/cd26a0ca-1f74-4148-a3c9-938d5c2fe70e.png",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "链接指向图片文件，与导师信息无关。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_upload/article/images/c4/27/17181b8348bfb08b6cae98160486/c7ba481c-35ae-46ae-bb5c-0745af6ba053.png",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "链接指向图片文件，与导师信息无关。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_upload/article/images/c4/27/17181b8348bfb08b6cae98160486/5a3f02b0-fa10-4097-8771-fc5f2e54da9d.png",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "链接指向图片文件，与导师信息无关。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_upload/article/images/c4/27/17181b8348bfb08b6cae98160486/519a2d99-e84e-4e93-acc8-e6bf654a1e2b.png",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "链接指向图片文件，与导师信息无关。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_upload/article/images/c4/27/17181b8348bfb08b6cae98160486/115c0b5b-87d6-42b2-bbf4-10675206a240.png",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "链接指向图片文件，与导师信息无关。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.engineeringvillage.com/search/doc/abstract.url?&pageType=quickSearch&usageZone=resultslist&usageOrigin=searchresults&searchtype=Quick&SEARCHID=cfbc7925M0b8aM4b24M8597Mea17645ab4cb&DOCINDEX=6&ignore_docid=cpx_b3d223a1672c9a901aM715b1017816339&database=1&format=quickSearchAbstractFormat&tagscope=&displayPagination=yes",
+      "anchor_text": "Global state control for a class of inherently higher-order parameterized nonlinear time-delay systems based on homogeneous domination approach",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部学术数据库论文摘要，非导师个人主页或列表。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://www-engineeringvillage-com-s.vpn.seu.edu.cn:8118/search/doc/abstract.url?&pageType=quickSearch&usageZone=resultslist&usageOrigin=searchresults&searchtype=Quick&SEARCHID=415f65aa0cba4dfb986b25d51433de64&DOCINDEX=11&ignore_docid=cpx_M31cbf63a16df3b4e824M593d10178163131&database=1&format=quickSearchAbstractFormat&tagscope=&displayPagination=yes",
+      "anchor_text": "Control Researches on Nonlinear Systems for A Quadrotor UAV Helicopter under Impact of Wind Disturbance Based on Method of Domination",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部学术数据库论文摘要，非导师个人主页或列表。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.engineeringvillage.com/search/doc/abstract.url?&pageType=quickSearch&usageZone=resultslist&usageOrigin=searchresults&searchtype=Quick&SEARCHID=cfbc7925M0b8aM4b24M8597Mea17645ab4cb&DOCINDEX=3&ignore_docid=cpx_2ca28fde16510778109M47aa1017816339&database=1&format=quickSearchAbstractFormat&tagscope=&displayPagination=yes",
+      "anchor_text": "Global stabilization for a class of uncertain nonlinear time-delay systems by linear sampled-data output feedback",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部学术数据库论文摘要，非导师个人主页或列表。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://apps.webofknowledge.com/full_record.do?product=WOS&search_mode=GeneralSearch&qid=1&SID=1DvtmZ23KDtNzQtxQvg&page=1&doc=1&cacheurlFromRightClick=no",
+      "anchor_text": "Semi-Global Stabilization via Homogeneous Output Feedback for a Class of Nonlinear Time-Delay Systems",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部学术数据库论文摘要，非导师个人主页或列表。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://xueshu.baidu.com/s?wd=authoruri%3A%2840b6dfc9baaf024d%29%20author%3A%28%E6%A8%8A%E9%B9%8F%E9%B9%8F%29%20%E4%B8%9C%E5%8D%97%E5%A4%A7%E5%AD%A6%E8%87%AA%E5%8A%A8%E5%8C%96%E5%AD%A6%E9%99%A2&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&sc_f_para=sc_hilight%3Dperson&sort=sc_cited",
+      "anchor_text": "樊鹏鹏",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "百度学术个人主页，非学校官网导师主页或列表。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://xueshu.baidu.com/usercenter/data/author?cmd=authoruri&wd=authoruri%3A%28e412dc97ca6cf6f1%29%20author%3A%28%E6%9F%B4%E7%90%B3%29%20%E4%B8%9C%E5%8D%97%E5%A4%A7%E5%AD%A6%E8%87%AA%E5%8A%A8%E5%8C%96%E5%AD%A6%E9%99%A2",
+      "anchor_text": "柴琳",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "百度学术个人主页，非学校官网导师主页或列表。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://xueshu.baidu.com/usercenter/data/author?cmd=authoruri&wd=authoruri%3A%2828753732ba51ddab%29%20author%3A%28%E9%87%91%E7%AB%8B%E5%B7%A6%29%20%E4%B8%9C%E5%8D%97%E5%A4%A7%E5%AD%A6%E8%87%AA%E5%8A%A8%E5%8C%96%E5%AD%A6%E9%99%A2",
+      "anchor_text": "金立左",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "百度学术个人主页，非学校官网导师主页或列表。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://automation.seu.edu.cn/article.asp?depid=1&subdepid=144&articleid=621",
+      "anchor_text": "费树岷",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "内部链接，URL含articleid且锚文本为教师姓名，指向个人主页。",
+      "guessed_target_content": "教师/导师个人信息页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://automation.seu.edu.cn/article.asp?articleid=1341&depid=1&subdepid=199",
+      "anchor_text": "翟军勇",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "内部链接，URL含articleid且锚文本为教师姓名，指向个人主页。",
+      "guessed_target_content": "教师/导师个人信息页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://doi.org/10.1016/j.isprsjprs.2024.01.005",
+      "anchor_text": "https://doi.org/10.1016/j.isprsjprs.2024.01.005",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "DOI链接，指向学术论文，与导师信息无关。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://doi.org/10.1109/TGRS.2023.3298852(SCI",
+      "anchor_text": "https://doi.org/10.1109/TGRS.2023.3298852",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "DOI链接，指向学术论文，与导师信息无关。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_visitcount?siteId=338&type=2&columnId=32797",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "内部访问计数链接，非内容页面。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://automation.seu.edu.cn/cl/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "URL路径'cl/list.htm'常用于列表页，在学院域名下。",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.baidu.com/link?url=P7166rVcxKTWy719IHRdmrQVgHa9Bk_e3A32Xmk9g9spmaEYh0ck9iAFZiCd0KRlSmeHPS_5na7zJQ9vTAfG7a&wd=&eqid=d2e5ef43000321f1000000065e3bdf1a",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "百度跳转链接，非导师信息相关页面。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.engineeringvillage.com/search/doc/abstract.url?&pageType=quickSearch&usageZone=resultslist&usageOrigin=searchresults&searchtype=Quick&SEARCHID=cfbc7925M0b8aM4b24M8597Mea17645ab4cb&DOCINDEX=6&ignore_docid=cpx_b3d223a1672c9a901aM715b1017816339&database=1&format=quickSearchAbstractFormat&tagscope=&displayPagination=yes",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部学术数据库论文摘要，非导师个人主页或列表。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://www-engineeringvillage-com-s.vpn.seu.edu.cn:8118/search/doc/abstract.url?&pageType=quickSearch&usageZone=resultslist&usageOrigin=searchresults&searchtype=Quick&SEARCHID=415f65aa0cba4dfb986b25d51433de64&DOCINDEX=11&ignore_docid=cpx_M31cbf63a16df3b4e824M593d10178163131&database=1&format=quickSearchAbstractFormat&tagscope=&displayPagination=yes",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部学术数据库论文摘要，非导师个人主页或列表。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.engineeringvillage.com/search/doc/abstract.url?&pageType=quickSearch&usageZone=resultslist&usageOrigin=searchresults&searchtype=Quick&SEARCHID=cfbc7925M0b8aM4b24M8597Mea17645ab4cb&DOCINDEX=3&ignore_docid=cpx_2ca28fde16510778109M47aa1017816339&database=1&format=quickSearchAbstractFormat&tagscope=&displayPagination=yes",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部学术数据库论文摘要，非导师个人主页或列表。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://apps.webofknowledge.com/full_record.do?product=WOS&search_mode=GeneralSearch&qid=1&SID=1DvtmZ23KDtNzQtxQvg&page=1&doc=1&cacheurlFromRightClick=no",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部学术数据库论文摘要，非导师个人主页或列表。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://xueshu.baidu.com/s?wd=authoruri%3A%2840b6dfc9baaf024d%29%20author%3A%28%E6%A8%8A%E9%B9%8F%E9%B9%8F%29%20%E4%B8%9C%E5%8D%97%E5%A4%A7%E5%AD%A6%E8%87%AA%E5%8A%A8%E5%8C%96%E5%AD%A6%E9%99%A2&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&sc_f_para=sc_hilight%3Dperson&sort=sc_cited",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "百度学术个人主页，非学校官网导师主页或列表。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://xueshu.baidu.com/usercenter/data/author?cmd=authoruri&wd=authoruri%3A%28e412dc97ca6cf6f1%29%20author%3A%28%E6%9F%B4%E7%90%B3%29%20%E4%B8%9C%E5%8D%97%E5%A4%A7%E5%AD%A6%E8%87%AA%E5%8A%A8%E5%8C%96%E5%AD%A6%E9%99%A2",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "百度学术个人主页，非学校官网导师主页或列表。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://xueshu.baidu.com/usercenter/data/author?cmd=authoruri&wd=authoruri%3A%2828753732ba51ddab%29%20author%3A%28%E9%87%91%E7%AB%8B%E5%B7%A6%29%20%E4%B8%9C%E5%8D%97%E5%A4%A7%E5%AD%A6%E8%87%AA%E5%8A%A8%E5%8C%96%E5%AD%A6%E9%99%A2",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "百度学术个人主页，非学校官网导师主页或列表。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://automation.seu.edu.cn/article.asp?depid=1&subdepid=144&articleid=621",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "内部链接，URL含articleid，虽无锚文本但推测为个人主页。",
+      "guessed_target_content": "教师/导师个人信息页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://automation.seu.edu.cn/article.asp?articleid=1341&depid=1&subdepid=199",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "内部链接，URL含articleid，虽无锚文本但推测为个人主页。",
+      "guessed_target_content": "教师/导师个人信息页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://doi.org/10.1109/TCSVT.2024.3484761",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "DOI链接，指向学术论文，与导师信息无关。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://doi.org/10.1016/j.isprsjprs.2024.01.005",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "DOI链接，指向学术论文，与导师信息无关。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://doi.org/10.1109/TGRS.2023.3298852",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "DOI链接，指向学术论文，与导师信息无关。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://doi.org/10.1080/08839514.2023.2175116",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "DOI链接，指向学术论文，与导师信息无关。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    }
+  ]
+}

@@ -1,0 +1,394 @@
+{
+  "clickable_links": [
+    {
+      "url": "https://automation.seu.edu.cn/_upload/column/5f/83/24451/picture.jpg",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "图片文件，非教师信息",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/24498/list.htm",
+      "anchor_text": "学院简介",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "学院简介页面，不含教师名录",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/24499/list.htm",
+      "anchor_text": "发展历程",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "发展历程页面，不含教师名录",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/32602/list.htm",
+      "anchor_text": "组织架构",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "组织架构页面，不含教师名录",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/32603/list.htm",
+      "anchor_text": "现任领导",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "现任领导可能包含教师信息",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/32604/list.htm",
+      "anchor_text": "历任领导",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "历任领导可能包含教师信息",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/yq/list.htm",
+      "anchor_text": "院庆专栏",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "院庆专栏页面，不含教师名录",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/bsxt/list.htm",
+      "anchor_text": "标识系统",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "标识系统页面，不含教师名录",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/24500/list.htm",
+      "anchor_text": "联系我们",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "联系我们页面，不含教师名录",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/main.htm",
+      "anchor_text": "首页",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "网站首页，不含教师名录",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/24451/list.htm",
+      "anchor_text": "学院概况",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "学院概况页面，不含教师名录",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_js/_portletPlugs/swfPlayer/pdfjs22228/web/viewer.html?file=/_upload/article/files/54/23/bd24ca5c4e5fbf0ea5a1c58ec7d8/170e17d0-d0e2-4356-88a6-360a9df23df8.pdf#",
+      "anchor_text": "Current View",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "PDF文件查看器，内容不确定与教师相关",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_ueditor/themes/default/images/icon_rar.gif",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "图片文件，非教师信息",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_upload/article/files/54/23/bd24ca5c4e5fbf0ea5a1c58ec7d8/c9c229a7-4676-4e05-8f14-1f3af1b09cf2.rar",
+      "anchor_text": "东南大学自动化学院视觉识别系统-院徽+象征图形.rar",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "压缩包文件，非教师信息",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_upload/article/files/54/23/bd24ca5c4e5fbf0ea5a1c58ec7d8/93880e73-cf25-465b-ad7c-256b1b3f05e0.rar",
+      "anchor_text": "东南大学自动化学院视觉识别系统-壁纸+头像.rar",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "压缩包文件，非教师信息",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_upload/article/files/54/23/bd24ca5c4e5fbf0ea5a1c58ec7d8/62a304c2-e9c7-4912-9154-1824654f2a2d.rar",
+      "anchor_text": "东南大学自动化学院视觉识别系统-象征图形PNG和SVG格式.rar",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "压缩包文件，非教师信息",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_upload/article/files/54/23/bd24ca5c4e5fbf0ea5a1c58ec7d8/d80f7169-e00c-435a-a8b1-f310457db0c0.rar",
+      "anchor_text": "东南大学自动化学院视觉识别系统-院徽PNG格式.rar",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "压缩包文件，非教师信息",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_upload/article/files/54/23/bd24ca5c4e5fbf0ea5a1c58ec7d8/e4eb981f-6b1c-4fea-a415-29de46c58a60.rar",
+      "anchor_text": "东南大学自动化学院PPT模板-党建版.rar",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "压缩包文件，非教师信息",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_upload/article/files/54/23/bd24ca5c4e5fbf0ea5a1c58ec7d8/2d2b0b82-c636-4cc3-9724-f7b15a91a0ac.zip",
+      "anchor_text": "东南大学自动化学院PPT模板-科研版.zip",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "压缩包文件，非教师信息",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_upload/article/files/54/23/bd24ca5c4e5fbf0ea5a1c58ec7d8/40895568-9021-4026-9ba0-7c7e3b9f44f5.zip",
+      "anchor_text": "东南大学自动化学院视觉识别系统-手机壁纸+红包封面.zip",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "压缩包文件，非教师信息",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_visitcount?siteId=338&type=2&columnId=62613",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "访问计数器链接，非内容页面",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/bsxt/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "标识系统页面，不含教师名录",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/24498/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "学院简介页面，不含教师名录",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/24499/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "发展历程页面，不含教师名录",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/32602/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "组织架构页面，不含教师名录",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/32603/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "现任领导可能包含教师信息",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/32604/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "历任领导可能包含教师信息",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/yq/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "院庆专栏页面，不含教师名录",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/24500/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "联系我们页面，不含教师名录",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/main.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "网站首页，不含教师名录",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/24451/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "学院概况页面，不含教师名录",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_js/_portletPlugs/swfPlayer/pdfjs22228/web/viewer.html?file=/_upload/article/files/54/23/bd24ca5c4e5fbf0ea5a1c58ec7d8/170e17d0-d0e2-4356-88a6-360a9df23df8.pdf#",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "PDF文件查看器，内容不确定与教师相关",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_upload/article/files/54/23/bd24ca5c4e5fbf0ea5a1c58ec7d8/c9c229a7-4676-4e05-8f14-1f3af1b09cf2.rar",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "压缩包文件，非教师信息",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_upload/article/files/54/23/bd24ca5c4e5fbf0ea5a1c58ec7d8/93880e73-cf25-465b-ad7c-256b1b3f05e0.rar",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "压缩包文件，非教师信息",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_upload/article/files/54/23/bd24ca5c4e5fbf0ea5a1c58ec7d8/62a304c2-e9c7-4912-9154-1824654f2a2d.rar",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "压缩包文件，非教师信息",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_upload/article/files/54/23/bd24ca5c4e5fbf0ea5a1c58ec7d8/d80f7169-e00c-435a-a8b1-f310457db0c0.rar",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "压缩包文件，非教师信息",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_upload/article/files/54/23/bd24ca5c4e5fbf0ea5a1c58ec7d8/e4eb981f-6b1c-4fea-a415-29de46c58a60.rar",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "压缩包文件，非教师信息",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_upload/article/files/54/23/bd24ca5c4e5fbf0ea5a1c58ec7d8/2d2b0b82-c636-4cc3-9724-f7b15a91a0ac.zip",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "压缩包文件，非教师信息",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_upload/article/files/54/23/bd24ca5c4e5fbf0ea5a1c58ec7d8/40895568-9021-4026-9ba0-7c7e3b9f44f5.zip",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "压缩包文件，非教师信息",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    }
+  ]
+}

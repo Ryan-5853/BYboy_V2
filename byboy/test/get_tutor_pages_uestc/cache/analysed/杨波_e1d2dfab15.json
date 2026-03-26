@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "tutor_name_cn": "杨波",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1174/4421.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1174/4421.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/54a289cbd34519a9a50ead3e2d97ad2500a5bddd99605c9b4a17601097d44854.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "source_metadata": {
+      "url": "https://www.auto.uestc.edu.cn/info/1174/4421.htm"
+    },
+    "site_chrome": {
+      "breadcrumbs": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "Y",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/Y.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "navigation_links": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ]
+    },
+    "faculty_member": {
+      "name": "杨波",
+      "image_url": "https://www.auto.uestc.edu.cn/__local/9/5A/75/6BF959CAEEEB0DB0DEDFA187346_DF152EF1_454A0.jpg",
+      "personal_details": {
+        "highest_degree": "博士",
+        "contact_phone": "",
+        "title_and_position": "副教授",
+        "email": "boyang@uestc.edu.cn",
+        "supervisor_status": "硕士导师",
+        "personal_homepage": "",
+        "research_team": "机器感知与智能系统研究中心"
+      },
+      "main_research_directions": [
+        "机器视觉",
+        "图像融合",
+        "手术机器人"
+      ],
+      "academic_titles_and_concurrent_posts": [],
+      "learning_and_work_experience": [
+        "2003.3-2003.12工作于山东省计算中心",
+        "2008.3-2014.4任山东科技大学电气与自动化学院内聘副教授",
+        "2010.9-2012.1赴香港理工大学纺织与制衣学系做访问学者",
+        "2014.5至今任电子科技大学自动化工程学院特聘副教授"
+      ],
+      "scientific_research": {
+        "summary": "主持国家自然科学基金1项，地方科技发展计划项目多项。发表SCI/EI收录学术论文10余篇，获授权国家发明专利2项。"
+      },
+      "courses_and_teaching_research": {
+        "undergraduate_courses": [
+          "电力电子技术基础",
+          "问题驱动的创新与创业",
+          "深度学习导论"
+        ],
+        "graduate_courses": [
+          "创新思维：启蒙与实践"
+        ],
+        "teaching_positions": [],
+        "teaching_research_projects": [
+          "主持《面向创新创业应用的机器学习课程探索》教育部高等教育司2018年第一批产学合作协同育人项目",
+          "主持《电子信息类专业双创教育课程体系探索》教育部高等教育司2018年第一批产学合作协同育人项目",
+          "参与《问题驱动的创新与创业》核心通识课",
+          "参与《问题驱动的创业》在线开放课程"
+        ]
+      },
+      "admission_specialties": {
+        "masters": [
+          "081100控制科学与工程",
+          "085400电子信息"
+        ],
+        "phd": []
+      }
+    }
+  }
+}

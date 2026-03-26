@@ -1,0 +1,130 @@
+{
+  "clickable_links": [
+    {
+      "url": "https://faculty.uestc.edu.cn/__local/A/7D/A1/F96878B30D5F27BD7BF6B0C576A_6D83FFBD_550A.png",
+      "anchor_text": "![",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "链接指向图片文件，非个人信息页。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "http://faculty.uestc.edu.cn/huangwei128/zh_CN/index.htm",
+      "anchor_text": "中文",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL包含教师姓名和index.htm，锚文本是语言切换。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/__local/0/F5/45/BF9B03C9F98BC6B45130894B895_201A81D1_14A7B.png",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "链接指向图片文件，非个人信息页。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/huangwei123/en/tzybd/424460/list/index.htm",
+      "anchor_text": "**Recommended Ph.D.Supervisor**",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL包含教师姓名，锚文本明确指向导师信息。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/huangwei123/en/jsxx/424460/jsxx/jsxx.htm",
+      "anchor_text": "VIEW MORE",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL包含教师姓名和“jsxx”字样，锚文本表示查看更多信息。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://urldefense.com/v3/__https:/scholar.google.com/citations?user=VuJsVVUAAAAJ&hl=en__;!!Dq0X2DkFhyF93HkjWTBQKhk!W9weaRiqEhFu7Qdr0bD6h6VKKyX1pIWUWZYB3HbbU8J_4R3rzKnC_4aHqZMkPhACwVM7cEv-lCx0np28qC9Y1tFibDXS$",
+      "anchor_text": "https://scholar.google.com/citations?user=VuJsVVUAAAAJ&hl=en",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "链接指向外部Google Scholar页面，非学校导师档案。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/huangwei123/zh_CN/index.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL包含教师姓名和index.htm，指向个人主页。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/__local/A/7D/A1/F96878B30D5F27BD7BF6B0C576A_6D83FFBD_550A.png",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "链接指向图片文件，非个人信息页。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "http://faculty.uestc.edu.cn/",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "链接是教师主站根目录，通常是教师名录或入口。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "http://faculty.uestc.edu.cn/huangwei128/zh_CN/index.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL包含教师姓名和index.htm，指向个人主页。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/huangwei123/en/tzybd/424460/list/index.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL包含教师姓名和特定信息路径。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/huangwei123/en/jsxx/424460/jsxx/jsxx.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL包含教师姓名和“jsxx”字样。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://scholar.google.com/citations?user=VuJsVVUAAAAJ&hl=en",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "链接指向外部Google Scholar页面，非学校导师档案。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://urldefense.com/v3/__https:/scholar.google.com/citations?user=VuJsVVUAAAAJ&hl=en__;!!Dq0X2DkFhyF93HkjWTBQKhk!W9weaRiqEhFu7Qdr0bD6h6VKKyX1pIWUWZYB3HbbU8J_4R3rzKnC_4aHqZMkPhACwVM7cEv-lCx0np28qC9Y1tFibDXS$",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "链接指向外部Google Scholar页面，非学校导师档案。",
+      "guessed_target_content": "无关网页或低相关页面"
+    }
+  ]
+}

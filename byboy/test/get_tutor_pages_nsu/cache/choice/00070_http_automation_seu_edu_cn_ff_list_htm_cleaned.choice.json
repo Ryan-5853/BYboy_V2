@@ -1,0 +1,194 @@
+{
+  "clickable_links": [
+    {
+      "url": "https://automation.seu.edu.cn/ff/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "URL路径含'list.htm'，通常表示列表页面。",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.engineeringvillage.com/search/submit.url?CID=quickSearchCitationFormat&implicit=true&usageOrigin=searchresults&category=authorsearch&searchtype=Quick&searchWord1=%7bFang,+Fang%7d&section1=AU&database=1&yearselect=yearrange&sort=yr",
+      "anchor_text": "Fang, Fang",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部学术数据库搜索结果，非教师个人页或名录。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.engineeringvillage.com/search/submit.url?CID=quickSearchCitationFormat&implicit=true&usageOrigin=searchresults&category=authorsearch&searchtype=Quick&searchWord1=%7bZhang,+Pengpeng%7d&section1=AU&database=1&yearselect=yearrange&sort=yr",
+      "anchor_text": "Zhang, Pengpeng",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部学术数据库搜索结果，非教师个人页或名录。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.engineeringvillage.com/search/submit.url?CID=quickSearchCitationFormat&implicit=true&usageOrigin=searchresults&category=authorsearch&searchtype=Quick&searchWord1=%7bZhou,+Bo%7d&section1=AU&database=1&yearselect=yearrange&sort=yr",
+      "anchor_text": "Zhou, Bo",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部学术数据库搜索结果，非教师个人页或名录。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.engineeringvillage.com/search/submit.url?CID=quickSearchCitationFormat&implicit=true&usageOrigin=searchresults&category=authorsearch&searchtype=Quick&searchWord1=%7bQian,+Kun%7d&section1=AU&database=1&yearselect=yearrange&sort=yr",
+      "anchor_text": "Qian, Kun",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部学术数据库搜索结果，非教师个人页或名录。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.engineeringvillage.com/search/submit.url?CID=quickSearchCitationFormat&implicit=true&usageOrigin=searchresults&category=authorsearch&searchtype=Quick&searchWord1=%7bGan,+Yahui%7d&section1=AU&database=1&yearselect=yearrange&sort=yr",
+      "anchor_text": "Gan, Yahui",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部学术数据库搜索结果，非教师个人页或名录。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.engineeringvillage.com/app/doc/?docid=cpx_3deb9654181ee9e3753M7f5c1017816355&pageSize=25&index=8&searchId=a482a590a4204d2cb202c51fe9a85454&resultsCount=111&usageZone=resultslist&usageOrigin=searchresults&searchType=Quick",
+      "anchor_text": "Atten-GAN: Pedestrian Trajectory Prediction with GAN Based on Attention Mechanism",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部学术数据库论文详情页，非教师个人页或名录。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.engineeringvillage.com/app/doc/?docid=cpx_1e40082d17295788a92M7ecf10178163190&pageSize=25&index=21&searchId=a482a590a4204d2cb202c51fe9a85454&resultsCount=111&usageZone=resultslist&usageOrigin=searchresults&searchType=Quick",
+      "anchor_text": "A human-aware navigation method for social robot based on multi-layer cost map",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部学术数据库论文详情页，非教师个人页或名录。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.engineeringvillage.com/search/submit.url?CID=quickSearchCitationFormat&implicit=true&usageOrigin=searchresults&category=authorsearch&searchtype=Quick&searchWord1=%7bLiu,+Ziqi%7d&section1=AU&database=1&yearselect=yearrange&sort=yr",
+      "anchor_text": "Liu, Ziqi",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部学术数据库搜索结果，非教师个人页或名录。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_visitcount?siteId=338&type=2&columnId=32779",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL为内部计数或CMS链接，非内容页面。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://automation.seu.edu.cn/ff/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "URL路径含'list.htm'，通常表示列表页面。",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.engineeringvillage.com/search/submit.url?CID=quickSearchCitationFormat&implicit=true&usageOrigin=searchresults&category=authorsearch&searchtype=Quick&searchWord1=%7bFang,+Fang%7d&section1=AU&database=1&yearselect=yearrange&sort=yr",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部学术数据库搜索结果，非教师个人页或名录。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.engineeringvillage.com/search/submit.url?CID=quickSearchCitationFormat&implicit=true&usageOrigin=searchresults&category=authorsearch&searchtype=Quick&searchWord1=%7bZhang,+Pengpeng%7d&section1=AU&database=1&yearselect=yearrange&sort=yr",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部学术数据库搜索结果，非教师个人页或名录。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.engineeringvillage.com/search/submit.url?CID=quickSearchCitationFormat&implicit=true&usageOrigin=searchresults&category=authorsearch&searchtype=Quick&searchWord1=%7bZhou,+Bo%7d&section1=AU&database=1&yearselect=yearrange&sort=yr",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部学术数据库搜索结果，非教师个人页或名录。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.engineeringvillage.com/search/submit.url?CID=quickSearchCitationFormat&implicit=true&usageOrigin=searchresults&category=authorsearch&searchtype=Quick&searchWord1=%7bQian,+Kun%7d&section1=AU&database=1&yearselect=yearrange&sort=yr",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部学术数据库搜索结果，非教师个人页或名录。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.engineeringvillage.com/search/submit.url?CID=quickSearchCitationFormat&implicit=true&usageOrigin=searchresults&category=authorsearch&searchtype=Quick&searchWord1=%7bGan,+Yahui%7d&section1=AU&database=1&yearselect=yearrange&sort=yr",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部学术数据库搜索结果，非教师个人页或名录。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.engineeringvillage.com/app/doc/?docid=cpx_3deb9654181ee9e3753M7f5c1017816355&pageSize=25&index=8&searchId=a482a590a4204d2cb202c51fe9a85454&resultsCount=111&usageZone=resultslist&usageOrigin=searchresults&searchType=Quick",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部学术数据库论文详情页，非教师个人页或名录。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.engineeringvillage.com/app/doc/?docid=cpx_1e40082d17295788a92M7ecf10178163190&pageSize=25&index=21&searchId=a482a590a4204d2cb202c51fe9a85454&resultsCount=111&usageZone=resultslist&usageOrigin=searchresults&searchType=Quick",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部学术数据库论文详情页，非教师个人页或名录。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.engineeringvillage.com/search/submit.url?CID=quickSearchCitationFormat&implicit=true&usageOrigin=searchresults&category=authorsearch&searchtype=Quick&searchWord1=%7bLiu,+Ziqi%7d&section1=AU&database=1&yearselect=yearrange&sort=yr",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部学术数据库搜索结果，非教师个人页或名录。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "meta": {
+    "tutor_name_cn": "陈章勇",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1092/4274.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1092/4274.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/b6071cf6bbda0fdb5dfe453623e51426e013248613401685858a5658fea24364.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "query_name": "陈章勇",
+    "source_url": "https://www.auto.uestc.edu.cn/info/1092/4274.htm",
+    "name": "陈章勇",
+    "basic_info": {
+      "highest_degree": "博士",
+      "titles_and_positions": [
+        "副教授",
+        "硕士导师"
+      ],
+      "research_team": "电力电子与先进控制中心"
+    },
+    "contact_info": {
+      "phone": null,
+      "email": "zhang_yong_ch@126.com",
+      "personal_homepage": null
+    },
+    "research_directions": [
+      "新型电力电子技术",
+      "谐振变换器及软开关技术",
+      "电力电子控制技术"
+    ],
+    "academic_roles_and_affiliations": {
+      "overall_description": "担任IEEE Trans. on Power Electronics，IEEE Trans. On Industrial Electronics，IEEE Journal of Emerging and Selected Topics in Power Electronics, IET Power Electronics，International Journal of Electronics letters等多种国外著名期刊的审稿人。",
+      "reviewer_for_journals": [
+        "IEEE Trans. on Power Electronics",
+        "IEEE Trans. On Industrial Electronics",
+        "IEEE Journal of Emerging and Selected Topics in Power Electronics",
+        "IET Power Electronics",
+        "International Journal of Electronics letters"
+      ]
+    },
+    "experience": {
+      "work_experience": [
+        {
+          "period": "2016.1-2017.11",
+          "description": "任电子科技大学能源学院专任教师"
+        },
+        {
+          "period": "2017.12至今",
+          "description": "任电子科技大学自动化工程学院专任教师"
+        }
+      ]
+    },
+    "scientific_research": {
+      "projects": [
+        "主持国家自然科学基金及四川省科技计划项目",
+        "参与成都市电动乘用车产业集群协同创新项目"
+      ]
+    },
+    "teaching_info": {
+      "undergraduate_courses": [
+        "电力电子技术",
+        "柔性电力系统中的电力电子技术"
+      ],
+      "graduate_courses": [
+        "电气传动与自动控制"
+      ],
+      "teaching_roles": null,
+      "teaching_research_projects": [
+        "参与《嵌入式系统设计——基于STM32及μC/OS 》在线开放课程"
+      ]
+    },
+    "admission_information": {
+      "master_programs": [
+        "081100控制科学与工程",
+        "086100交通运输"
+      ],
+      "phd_programs": []
+    },
+    "site_chrome": {
+      "grab_source": "抓取来源：https://www.auto.uestc.edu.cn/info/1092/4274.htm",
+      "navigation_path": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "副高级",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/fgj.htm"
+        },
+        "正文"
+      ],
+      "sidebar_links": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ],
+      "main_content_section_titles": [
+        "师资队伍"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://www.auto.uestc.edu.cn/__local/E/F8/D7/C5CBE329C73621240BFF8354503_4205113E_1E2B17.jpg",
+        "alt_text": null
+      }
+    ]
+  }
+}

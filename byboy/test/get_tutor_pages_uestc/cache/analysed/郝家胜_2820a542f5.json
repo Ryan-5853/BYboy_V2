@@ -1,0 +1,151 @@
+{
+  "meta": {
+    "tutor_name_cn": "郝家胜",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1157/7968.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1157/7968.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/fb24dce0c6818ae43e7e04feb27e6e47fdd13c97353a8feef3a7838d7e09aece.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "site_chrome": {
+      "source_url": "https://www.auto.uestc.edu.cn/info/1157/7968.htm",
+      "breadcrumbs": [
+        {
+          "text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "text": "H",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/H.htm"
+        },
+        {
+          "text": "正文",
+          "url": null
+        }
+      ],
+      "navigation_links": [
+        {
+          "text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ]
+    },
+    "professor_profile": {
+      "name": "郝家胜",
+      "image_url": "https://www.auto.uestc.edu.cn/__local/F/E4/EA/E6B8FEFB3E26DF0FA6BE0D41FB2_F83D2E9A_27180.jpg",
+      "personal_info": {
+        "highest_degree": "博士",
+        "contact_phone": null,
+        "title_and_position": "教授",
+        "email": "hao@uestc.edu.cn",
+        "advisor_status": "硕士导师",
+        "personal_homepage": null,
+        "research_team": "测试技术与仪器研究所（示波器2、产业化）"
+      },
+      "research_directions": [
+        "工业AI",
+        "智能感知与交互",
+        "机器视觉"
+      ],
+      "academic_titles_and_affiliations": [
+        "中国人工智能学会、计算机学会（CCF）会员",
+        "四川省计算机学会虚拟现实专委会委员",
+        "EAAI/IEEE TCST/Trans. on IM等国际学术期刊审稿人",
+        "中国国际大学生创新创业大赛全国总决赛、全国大学生物联网设计竞赛、华为鲲鹏昇腾创新大赛全国总决赛评委专家",
+        "华为昇腾专家（HAE）",
+        "华为开发者布道师"
+      ],
+      "education_and_work_experience": [
+        {
+          "period": "1995.09-2001.07",
+          "institution": "哈尔滨工业大学",
+          "description": "本硕连读（实验学院）"
+        },
+        {
+          "period": "2002.09-2008.07",
+          "institution": "哈尔滨工业大学",
+          "description": "博士"
+        },
+        {
+          "period": "2013.12-2015.01",
+          "institution": "美国宾夕法尼亚大学（UPenn）",
+          "description": "访问学者"
+        },
+        {
+          "period": "2008.07至今",
+          "institution": "电子科技大学",
+          "description": "讲师、副教授、教授"
+        }
+      ],
+      "scientific_research": {
+        "projects": [
+          "主持或主研国家自然科学基金等国家级课题4项（重点项目1项）",
+          "校企合作课题30余项"
+        ],
+        "developed_systems": [
+          "轮式移动机器人",
+          "四足机器人",
+          "双足企鹅机器人等智能系统"
+        ],
+        "publications": [
+          "在IEEE Trans. on IM/EAAI/GEOEN等国际重要学术期刊和 CDC（IEEE决策与控制）等重要国际学术会议发表论文30余篇（指导本科生在发表高水平学术论文10余篇）"
+        ],
+        "patents": [
+          "国家发明专利授权12项（技术转让1项）"
+        ]
+      },
+      "teaching": {
+        "main_awards": [
+          "教育部-华为“智能基座”优秀教师",
+          "亚太人工智能教育优秀教师",
+          "电子科技大学第十届教学成果奖（本科）一等奖（排名第一）",
+          "华为ICT大赛优秀指导教师",
+          "全国大学生物联网设计竞赛优秀指导教师"
+        ],
+        "undergraduate_courses": [
+          "人工智能（核心通识课程）",
+          "嵌入式系统设计"
+        ],
+        "graduate_courses": [
+          "模式识别",
+          "机器学习（精品课程）",
+          "模式识别与机器学习（精品课程）"
+        ],
+        "teaching_research": [
+          "主编四川省“十四五”普通高等教育本科规划教材1部，并入选教育部-华为“智能基座”优秀教材、国家出版基金项目",
+          "主持省部级教改项目3项",
+          "获教育部产学合作协同育人项目“典型项目成果展”、“十周年项目典型案例”、“华为优秀成果奖”",
+          "校级教学成果奖4项"
+        ],
+        "competition_guidance": [
+          "指导本科生获华为ICT大赛、全国大学生物联网设计竞赛国家级奖项16余人次",
+          "2021年全国大学生冰壶人工智能挑战赛全国冠军1项",
+          "四川省赛银奖等省级奖项20余项"
+        ]
+      },
+      "admission_programs": {
+        "masters": [
+          "081100控制科学与工程",
+          "085400电子信息"
+        ],
+        "phd": []
+      }
+    }
+  }
+}

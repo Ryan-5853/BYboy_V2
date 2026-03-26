@@ -1,0 +1,54 @@
+{
+  "clickable_links": [
+    {
+      "url": "https://automation.seu.edu.cn/zy/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "学院域名下list页，锚文本空",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.frontiersin.org/journals/1785",
+      "anchor_text": "Frontiers in Control Engineering",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部期刊链接，与导师无关",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_visitcount?siteId=338&type=2&columnId=32809",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "访问计数URL，非内容页面",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://automation.seu.edu.cn/zy/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "学院域名下list页，锚文本空",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.frontiersin.org/journals/1785",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部期刊链接，与导师无关",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    }
+  ]
+}

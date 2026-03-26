@@ -1,0 +1,1170 @@
+{
+  "meta": {
+    "tutor_name_cn": "汪峥",
+    "request_url": "http://automation.seu.edu.cn/wz/list.htm",
+    "declared_source_url": "http://automation.seu.edu.cn/wz/list.htm",
+    "page_host": "automation.seu.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/069df995a952506eb3c69e24a3a3e1d7235e6adbfca4a8aa6814f54f5e353acb.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "personal_info": {
+      "name": "汪峥",
+      "birth_year": 1973,
+      "current_titles": [
+        "东南大学自动化学院教授",
+        "博士生导师"
+      ],
+      "current_affiliation": "东南大学自动化学院",
+      "description": "1973年生，东南大学自动化学院教授、博士生导师。1993年于长春光学精密机械学院获学士学位，1998年于东南大学自动化研究所获硕士学位，2001年于东南大学自动化研究所获博士学位；2001-2003年在上海交通大学机械与动力工程学院做博士后研究；2003年至今在东南大学自动化学院工作，2012年晋升教授、博士生导师。2009年1月至2010年1月、2017年8月至2018年2月两次受国家留学基金资助在麻省理工学院(MIT)做访问研究，分别任访问副教授及高级研究学者。IEEE高级会员。",
+      "current_research_focus": "目前研究重心放在中国、美国、智利合作的LCT亚毫米波望远镜重建及性能升级，以及依托这一望远镜的国家自然科学基金重点项目：强柔性大干扰下LCT望远镜高精度指向控制。",
+      "images": [
+        {
+          "url": "https://automation.seu.edu.cn/_upload/article/images/c6/b6/ea42f3614e2e9169ee420e07fd3b/d69e960b-571a-4413-8f19-0bc9fd67371f.jpg",
+          "caption": "图1. 这是位于夏威夷Maunakea山顶(海拔4070m)的加州理工学院亚毫米天文台(Caltech Submillimeter Observatory, CSO)10.4m亚毫米波望远镜，现已退役、拆解，并将于2025年在智利Chajnantor高原（海拔5050m）重建为新的LCT亚毫米波望远镜（Leighton Chajnantor Telescope）。"
+        },
+        {
+          "url": "https://automation.seu.edu.cn/_upload/article/images/c6/b6/ea42f3614e2e9169ee420e07fd3b/681a6f1d-f733-466e-b99d-7f6e0e228721.jpg",
+          "caption": "图2. 这是我2023年9月在夏威夷Maunakea山顶(海拔4070m)的加州理工学院亚毫米天文台(Caltech Submillimeter Observatory, CSO)10.4m亚毫米波望远镜工作时的照片，CSO望远镜附近建有多台一流的天文望远镜(光学、红外、亚毫米)和望远镜阵列：CSO，JCMT，SMA, Subaru, Keck ......"
+        }
+      ]
+    },
+    "education": [
+      {
+        "year": "2001",
+        "degree": "工学博士学位",
+        "major": "控制理论与控制工程专业",
+        "institution": "东南大学"
+      },
+      {
+        "year": "1998",
+        "degree": "工学硕士学位",
+        "major": "控制理论与控制工程专业",
+        "institution": "东南大学"
+      },
+      {
+        "year": "1993",
+        "degree": "工学学士学位",
+        "major": "机械工程专业",
+        "institution": "长春光学精密机械学院(现长春理工大学)"
+      }
+    ],
+    "work_experience": [
+      {
+        "start_year": "1993",
+        "end_year": "1995",
+        "position": "助理工程师",
+        "institution": "电子工业部南京第十四研究所"
+      },
+      {
+        "start_year": "2001",
+        "end_year": "2003",
+        "position": "博士后研究人员",
+        "institution": "上海交通大学机械与动力工程学院"
+      },
+      {
+        "start_year": "2004",
+        "end_year": "2012",
+        "position": "副教授，硕士生导师",
+        "institution": "东南大学自动化学院"
+      },
+      {
+        "start_year": "2012",
+        "end_year": "现在",
+        "position": "教授，博士生导师",
+        "institution": "东南大学自动化学院"
+      }
+    ],
+    "academic_visits": [
+      {
+        "start_date": "2004/04",
+        "end_date": "2004/07",
+        "role": "研究助理",
+        "institution": "香港大学工业及制造系统工程学系"
+      },
+      {
+        "start_date": "2008/07",
+        "end_date": "2008/09",
+        "role": "访问学者",
+        "institution": "香港科技大学工业工程及物流管理学系"
+      },
+      {
+        "start_date": "2009/02",
+        "end_date": "2010/01",
+        "role": "访问副教授",
+        "institution": "麻省理工学院工程系统学部(MIT Engineering Systems Division)",
+        "funding": "国家留学基金全额资助"
+      },
+      {
+        "start_date": "2012/07",
+        "end_date": "2012/08",
+        "role": "访问学者",
+        "institution": "香港理工大学工业及系统工程学系"
+      },
+      {
+        "start_date": "2014/07",
+        "end_date": "2014/08",
+        "role": "访问学者",
+        "institution": "香港理工大学工业及系统工程学系"
+      },
+      {
+        "start_date": "2015/07",
+        "end_date": "2015/08",
+        "role": "访问学者",
+        "institution": "香港理工大学工业及系统工程学系"
+      },
+      {
+        "start_date": "2016/07",
+        "end_date": "2016/08",
+        "role": "访问学者",
+        "institution": "香港理工大学工业及系统工程学系"
+      },
+      {
+        "start_date": "2017/01",
+        "end_date": "2017/02",
+        "role": "高级研究学者",
+        "institution": "法国特鲁瓦科技大学(Université de Technologie de Troyes)",
+        "funding": "国家留学基金资助"
+      },
+      {
+        "start_date": "2017/08",
+        "end_date": "2018/02",
+        "role": "高级研究学者",
+        "institution": "麻省理工学院数据系统与社会研究所(MIT Institute for Data, Systems and Society)",
+        "funding": "国家留学基金资助"
+      },
+      {
+        "start_date": "2020/01",
+        "end_date": "2020/02",
+        "role": "访问学者",
+        "institution": "伦敦帝国理工学院(Imperial College London)电机与电子工程系"
+      }
+    ],
+    "academic_affiliations": [
+      "国际电机与电子工程师学会(IEEE)高级会员(Senior Member)"
+    ],
+    "awards": [],
+    "courses_taught": [
+      {
+        "name": "工程系统优化与控制",
+        "level": "研究生课程",
+        "language": "全英文教学"
+      },
+      {
+        "name": "优化方法",
+        "level": "本科生课程",
+        "language": "全英文教学"
+      }
+    ],
+    "student_recruitment": {
+      "welcome_message": "欢迎你！亲爱的年轻学子！\n我们是一个积极向上、热情友好的团队。\n已经有6名博士研究生和40余名硕士研究生曾经是我们这个团队的成员，目前在读的有4名博士研究生和9名硕士研究生，他们都是我的好朋友。\n我非常乐意将我的学习经验分享给你，而聪明勤奋的你，将是我未来三年或四年中研究工作的合作者。\n如果你对科学有全身心投入的热情和坚持不懈的毅力，我们 欢迎你！\n如果除此之外，你还有敏锐的思维和清晰的逻辑，我们 格外 欢迎你！\n我目前的研究重心放在 亚毫米波天文望远镜的控制方法与技术，这一研究有 国家自然科学基金重点项目 的支持。如果你正好对这一方向感兴趣，我们 格外^2 地欢迎你！如果同时你的控制理论、控制技术、软件开发(比如C/C++)基础较强，我们 格外^3 地欢迎你！如果......你除此之外，还懂一点机械学、光学或电磁学，使用过相关工具(比如Ansys, Adams, Zemax)那我们就该 格外^4 地欢迎你了！。",
+      "expectations": "当然也希望你不怕辛苦，因为有可能安排你去望远镜控制系统调试一线短期工作，很可能是生产安装现场，也不排除......比较艰苦的高海拔地区(尽管机会不多)。\n我们期待和你一起做有价值、有意义的科学！\n我们在等待你......",
+      "team_members_past": {
+        "phd_students": 6,
+        "master_students": 40
+      },
+      "team_members_current": {
+        "phd_students": 4,
+        "master_students": 9
+      },
+      "preferred_student_skills": [
+        "对科学全身心投入的热情和坚持不懈的毅力",
+        "敏锐的思维和清晰的逻辑",
+        "对亚毫米波天文望远镜的控制方法与技术感兴趣",
+        "控制理论基础强",
+        "控制技术基础强",
+        "软件开发(比如C/C++)基础强",
+        "懂机械学",
+        "懂光学",
+        "懂电磁学",
+        "使用过相关工具(Ansys, Adams, Zemax)"
+      ]
+    },
+    "research_interests": [
+      "亚毫米波望远镜控制",
+      "控制科学在天文望远镜及仪器中的应用",
+      "优化方法与最优控制",
+      "系统工程"
+    ],
+    "research_projects": [
+      {
+        "start_year": "2025",
+        "end_year": "2029",
+        "title": "强柔性大干扰下LCT望远镜高精度指向控制",
+        "funding_source": "国家自然科学基金重点项目",
+        "project_number": "12433011",
+        "role": "项目负责人",
+        "status": "在研"
+      },
+      {
+        "start_year": "2017",
+        "end_year": "2020",
+        "title": "生鲜农产品库存、价格及质量综合控制与优化",
+        "funding_source": "国家自然科学基金面上项目",
+        "project_number": "61673109",
+        "role": "项目负责人",
+        "status": "已结题"
+      },
+      {
+        "start_year": "2014",
+        "end_year": "2016",
+        "title": "制造系统设计与控制中的鲁棒耦合优化方法",
+        "funding_source": "教育部高等学校博士点基金博导类课题",
+        "project_number": "20130092110024",
+        "role": "项目负责人",
+        "status": "已结题"
+      },
+      {
+        "start_year": "2014",
+        "end_year": "2017",
+        "title": "克服库存不精确的鲁棒集成补货、生产控制及分销策略",
+        "funding_source": "国家自然科学基金面上项目",
+        "project_number": "61374198",
+        "role": "项目负责人",
+        "status": "已结题"
+      },
+      {
+        "start_year": "2010",
+        "end_year": "2013",
+        "title": "知识化制造系统优化方法研究与应用",
+        "funding_source": "国家自然科学基金重点项目",
+        "project_number": "60934008",
+        "role": "项目参加者(排名第三)",
+        "status": "已结题"
+      },
+      {
+        "start_year": "2010",
+        "end_year": "2012",
+        "title": "基于RFID/EPC 技术的网络化单件生产实时监控",
+        "funding_source": "国家自然科学基金面上项目",
+        "project_number": "60974096",
+        "role": "项目负责人",
+        "status": "已结题"
+      },
+      {
+        "start_year": "2006",
+        "end_year": "2008",
+        "title": "精益设计过程动力学宏观与微观综合分析",
+        "funding_source": "国家自然科学基金青年基金项目",
+        "project_number": "50505006",
+        "role": "项目负责人",
+        "status": "已结题"
+      }
+    ],
+    "publications": {
+      "note_on_corresponding_author": "凡本人为通讯作者的论文，第一作者均为本人指导的博士研究生或硕士研究生",
+      "journal_papers": [
+        {
+          "id": 1,
+          "category": "天文学/天文技术与方法：亚毫米波望远镜控制技术",
+          "authors": [
+            "Jia You",
+            "Zheng Wang",
+            "Rodrigo Andrés Reeves Díaz"
+          ],
+          "year": 2024,
+          "title": "Effect of panel misalignment error distribution on the radiation pattern of Leighton Chajnantor Telescope’s antenna",
+          "venue": "Publications of the Astronomical Society of the Pacific",
+          "volume_issue_pages": "136: 064502",
+          "notes": "(通讯作者)"
+        },
+        {
+          "id": 2,
+          "category": "天文学/天文技术与方法：亚毫米波望远镜控制技术",
+          "authors": [
+            "Weirui Chen",
+            "Yiwei Yao",
+            "Zheng Wang"
+          ],
+          "year": 2024,
+          "title": "Synthesized modeling and active disturbance rejection control for the Leighton Chajnantor Telescope",
+          "venue": "Publications of the Astronomical Society of Japan",
+          "volume_issue_pages": "76(2): 143-162",
+          "notes": "(通讯作者)"
+        },
+        {
+          "id": 3,
+          "category": "天文学/天文技术与方法：亚毫米波望远镜控制技术",
+          "authors": [
+            "Jia You",
+            "Yiwei Yao",
+            "Zheng Wang"
+          ],
+          "year": 2024,
+          "title": "A quick calculation method for radiation pattern of submillimeter telescope with deformation and displacement",
+          "venue": "Research in Astronomy and Astrophysics",
+          "volume_issue_pages": "24(3): 035020",
+          "notes": "(通讯作者)"
+        },
+        {
+          "id": 4,
+          "category": "天文学/天文技术与方法：亚毫米波望远镜控制技术",
+          "authors": [
+            "Weirui Chen",
+            "Zheng Wang"
+          ],
+          "year": 2024,
+          "title": "Disturbance observer-based pointing control of Leighton Chajnantor Telescope",
+          "venue": "Research in Astronomy and Astrophysics",
+          "volume_issue_pages": "24(1):015010",
+          "notes": "(通讯作者)"
+        },
+        {
+          "id": 5,
+          "category": "天文学/天文技术与方法：亚毫米波望远镜控制技术",
+          "authors": [
+            "Yiwei Yao",
+            "Weirui Chen",
+            "Zheng Wang"
+          ],
+          "year": 2023,
+          "title": "Collaborative simulation of mechanical structure and control systems of Leighton Chajnantor Telescope",
+          "venue": "Research in Astronomy and Astrophysics",
+          "volume_issue_pages": "23(4): 045013",
+          "notes": "(通讯作者)"
+        },
+        {
+          "id": 6,
+          "category": "天文学/天文技术与方法：亚毫米波望远镜控制技术",
+          "authors": [
+            "Weirui Chen",
+            "Zheng Wang",
+            "Xiaojun Zhou"
+          ],
+          "year": 2022,
+          "title": "An improved radio pointing model for SHARC II of the Caltech Submillimeter Observatory telescope",
+          "venue": "Publications of the Astronomical Society of the Pacific",
+          "volume_issue_pages": "Vol. 134, No. 1040, Article No. 105002",
+          "notes": "(通讯作者)"
+        },
+        {
+          "id": 1,
+          "category": "控制科学与工程/系统工程：制造系统控制与优化",
+          "authors": [
+            "Ning Li",
+            "Zheng Wang"
+          ],
+          "year": 2025,
+          "title": "Vehicle routing problem for omnichannel retailing including multiple types of time windows and products",
+          "venue": "Computers & Operations Research",
+          "volume_issue_pages": "Vol. 173, 106826",
+          "notes": "(通讯作者)"
+        },
+        {
+          "id": 2,
+          "category": "控制科学与工程/系统工程：制造系统控制与优化",
+          "authors": [
+            "Ning Li",
+            "Zheng Wang"
+          ],
+          "year": 2024,
+          "title": "Inventory control for omnichannel retailing between one warehouse and multiple stores",
+          "venue": "IEEE Transactions on Engineering Management",
+          "volume_issue_pages": "Vol. 71, pp. 7395-7412",
+          "notes": "(通讯作者)"
+        },
+        {
+          "id": 3,
+          "category": "控制科学与工程/系统工程：制造系统控制与优化",
+          "authors": [
+            "Zhipeng Qiu",
+            "Zheng Wang"
+          ],
+          "year": 2024,
+          "title": "Construction and application of patent technical element dependency network",
+          "venue": "IEEE Transactions on Engineering Management",
+          "volume_issue_pages": "Vol. 71, pp.4076-4090",
+          "notes": "(通讯作者)"
+        },
+        {
+          "id": 4,
+          "category": "控制科学与工程/系统工程：制造系统控制与优化",
+          "authors": [
+            "Zhipeng Qiu",
+            "Zheng Wang"
+          ],
+          "year": 2023,
+          "title": "Patent citation network simplification and similarity evaluation based on technological inheritance",
+          "venue": "IEEE Transactions on Engineering Management",
+          "volume_issue_pages": "Vol. 70, No. 12, pp. 4144-4161",
+          "notes": "(通讯作者)"
+        },
+        {
+          "id": 5,
+          "category": "控制科学与工程/系统工程：制造系统控制与优化",
+          "authors": [
+            "Ning Li",
+            "Xue Qiao",
+            "Zheng Wang"
+          ],
+          "year": 2023,
+          "title": "Joint markdown, ordering and freshness-keeping policy under demand competition between new and old products",
+          "venue": "Journal of the Operational Research Society",
+          "volume_issue_pages": "Vol. 74, No. 9, pp. 2043-2063",
+          "notes": "(通讯作者)"
+        },
+        {
+          "id": 6,
+          "category": "控制科学与工程/系统工程：制造系统控制与优化",
+          "authors": [
+            "Zhipeng Qiu",
+            "Zheng Wang"
+          ],
+          "year": 2023,
+          "title": "Technological origination and evolution analysis by combining patent claims and citations: A case of surgical robot domain",
+          "venue": "Advanced Engineering Informatics",
+          "volume_issue_pages": "Vol. 58, Paper No. 102145",
+          "notes": "(通讯作者)"
+        },
+        {
+          "id": 7,
+          "category": "控制科学与工程/系统工程：制造系统控制与优化",
+          "authors": [
+            "Zhipeng Qiu",
+            "Zheng Wang"
+          ],
+          "year": 2023,
+          "title": "What is your next invention? — A framework of mining technological development rules and assisting in designing new technologies based on BERT as well as patent citations",
+          "venue": "Computers in Industry",
+          "volume_issue_pages": "Vol. 145, Paper No. 103829",
+          "notes": "(通讯作者)"
+        },
+        {
+          "id": 8,
+          "category": "控制科学与工程/系统工程：制造系统控制与优化",
+          "authors": [
+            "Ning Li",
+            "Zheng Wang"
+          ],
+          "year": 2023,
+          "title": "Optimal pricing and ordering strategies for dual-channel retailing with different shipping policies",
+          "venue": "Journal of Industrial and Management Optimization",
+          "volume_issue_pages": "Vol. 19, No. 2, pp. 1236-1261",
+          "notes": "(通讯作者)"
+        },
+        {
+          "id": 9,
+          "category": "控制科学与工程/系统工程：制造系统控制与优化",
+          "authors": [
+            "Zhipeng Qiu",
+            "Zheng Wang"
+          ],
+          "year": 2022,
+          "title": "Technology forecasting based on semantic and citation analysis of patents: a case of robotics domain",
+          "venue": "IEEE Transactions on Engineering Management",
+          "volume_issue_pages": "Vol. 69, No. 4, pp. 1216-1236",
+          "notes": "(通讯作者)"
+        },
+        {
+          "id": 10,
+          "category": "控制科学与工程/系统工程：制造系统控制与优化",
+          "authors": [
+            "Xue Qiao",
+            "Zheng Wang",
+            "Haoxun Chen"
+          ],
+          "year": 2022,
+          "title": "Joint optimal pricing and inventory management policy and its sensitivity analysis for perishable products: lost sale case",
+          "venue": "Journal of Industrial and Management Optimization",
+          "volume_issue_pages": "Vol. 18, No. 4, pp. 2533–2552",
+          "notes": "(通讯作者)"
+        },
+        {
+          "id": 11,
+          "category": "控制科学与工程/系统工程：制造系统控制与优化",
+          "authors": [
+            "Xue Qiao",
+            "Zheng Wang",
+            "Haoxun Chen"
+          ],
+          "year": 2021,
+          "title": "Joint ordering and markdown policy for short lifetime products with competitive price-and-freshness-based demand",
+          "venue": "IEEE Transactions on Automation Science and Engineering",
+          "volume_issue_pages": "Vol. 18, No. 4, pp. 1956-1968",
+          "notes": "(通讯作者)"
+        },
+        {
+          "id": 12,
+          "category": "控制科学与工程/系统工程：制造系统控制与优化",
+          "authors": [
+            "Wenliang Chen",
+            "Zheng Wang"
+          ],
+          "year": 2021,
+          "title": "Integrated capacity planning and production control of an assembly manufacturing system",
+          "venue": "IEEE Transactions on Engineering Management",
+          "volume_issue_pages": "Vol. 68, No. 3, pp. 868-880",
+          "notes": "(通讯作者)"
+        },
+        {
+          "id": 13,
+          "category": "控制科学与工程/系统工程：制造系统控制与优化",
+          "authors": [
+            "Yajun Zhang",
+            "Zheng Wang"
+          ],
+          "year": 2020,
+          "title": "Joint ordering, pricing, and freshness-keeping policy for perishable products: single-period deterministic case",
+          "venue": "IEEE Transactions on Automation Science and Engineering",
+          "volume_issue_pages": "Vol. 17, No. 4, pp. 1868-1882",
+          "notes": "(通讯作者)"
+        },
+        {
+          "id": 14,
+          "category": "控制科学与工程/系统工程：制造系统控制与优化",
+          "authors": [
+            "Yajun Zhang",
+            "Zheng Wang"
+          ],
+          "year": 2019,
+          "title": "Optimal RFID deployment in a multiple-stage production system under inventory inaccuracy and robust control policy",
+          "venue": "IEEE Transactions on Industrial Informatics",
+          "volume_issue_pages": "Vol. 15, No. 6, pp. 3230-3242",
+          "notes": "(通讯作者)"
+        },
+        {
+          "id": 15,
+          "category": "控制科学与工程/系统工程：制造系统控制与优化",
+          "authors": [
+            "Yajun Zhang",
+            "Zheng Wang"
+          ],
+          "year": 2019,
+          "title": "A joint ordering, pricing, and freshness-keeping policy for perishable inventory systems with random demand over infinite horizon",
+          "venue": "IEEE Robotics and Automation Letters",
+          "volume_issue_pages": "Vol. 4, No. 3, pp. 2707-2713",
+          "notes": "(通讯作者)"
+        },
+        {
+          "id": 16,
+          "category": "控制科学与工程/系统工程：制造系统控制与优化",
+          "authors": [
+            "Wenliang Chen",
+            "Zheng Wang"
+          ],
+          "year": 2019,
+          "title": "Analysis of the steady state probability distribution of a manufacturing system under the prioritised hedging point control policy",
+          "venue": "International Journal of Production Research",
+          "volume_issue_pages": "Vol. 57, No. 8, pp. 2281-2303",
+          "notes": "(通讯作者)"
+        },
+        {
+          "id": 17,
+          "category": "控制科学与工程/系统工程：制造系统控制与优化",
+          "authors": [
+            "Zheng Wang",
+            "Felix T. S. Chan",
+            "Ming Li"
+          ],
+          "year": 2018,
+          "title": "A robust production control policy for hedging against inventory inaccuracy in a multiple-stage production system with time delay",
+          "venue": "IEEE Transactions on Engineering Management",
+          "volume_issue_pages": "Vol. 65, No. 3, pp. 474-486",
+          "notes": "(通讯作者)"
+        },
+        {
+          "id": 18,
+          "category": "控制科学与工程/系统工程：制造系统控制与优化",
+          "authors": [
+            "Ming Li",
+            "Zheng Wang"
+          ],
+          "year": 2018,
+          "title": "An integrated robust replenishment/ production/distribution policy under inventory inaccuracy",
+          "venue": "International Journal of Production Research",
+          "volume_issue_pages": "Vol. 56, No. 12, pp. 4115-4131",
+          "notes": "(通讯作者)"
+        },
+        {
+          "id": 19,
+          "category": "控制科学与工程/系统工程：制造系统控制与优化",
+          "authors": [
+            "X. T. Sun",
+            "S. H. Chung",
+            "Felix T. S. Chan",
+            "Zheng Wang"
+          ],
+          "year": 2018,
+          "title": "The impact of liner shipping unreliability on the production–distribution scheduling of a decentralized manufacturing system",
+          "venue": "Transportation Research Part E",
+          "volume_issue_pages": "Vol. 114, No. 1, pp. 242–269"
+        },
+        {
+          "id": 20,
+          "category": "控制科学与工程/系统工程：制造系统控制与优化",
+          "authors": [
+            "Ming Li",
+            "Zheng Wang",
+            "Felix T. S. Chan"
+          ],
+          "year": 2017,
+          "title": "An inventory routing policy under replenishment lead time",
+          "venue": "IEEE Transactions on Systems, Man, and Cybernetics: Systems",
+          "volume_issue_pages": "Vol. 47, No. 12, pp. 3150-3164",
+          "notes": "(通讯作者)"
+        },
+        {
+          "id": 21,
+          "category": "控制科学与工程/系统工程：制造系统控制与优化",
+          "authors": [
+            "Ming Li",
+            "Zheng Wang",
+            "Haoxun Chen"
+          ],
+          "year": 2017,
+          "title": "A robust reorder-time/order-quantity policy under invisible stock loss",
+          "venue": "IEEE Transactions on Systems, Man, and Cybernetics: Systems",
+          "volume_issue_pages": "Vol. 47, No. 12, pp. 3102-3119",
+          "notes": "(通讯作者)"
+        },
+        {
+          "id": 22,
+          "category": "控制科学与工程/系统工程：制造系统控制与优化",
+          "authors": [
+            "Ming Li",
+            "Zheng Wang"
+          ],
+          "year": 2017,
+          "title": "An integrated replenishment and production control policy under inventory inaccuracy and time-delay",
+          "venue": "Computers and Operations Research",
+          "volume_issue_pages": "Vol. 88, No. 1, pp. 137-149",
+          "notes": "(通讯作者)"
+        },
+        {
+          "id": 23,
+          "category": "控制科学与工程/系统工程：制造系统控制与优化",
+          "authors": [
+            "Wenliang Chen",
+            "Zheng Wang",
+            "Felix T. S. Chan"
+          ],
+          "year": 2017,
+          "title": "Robust production capacity planning under uncertain wafer lots transfer probabilities for semiconductor automated material handling systems",
+          "venue": "European Journal of Operational Research",
+          "volume_issue_pages": "Vol. 261, No. 3, pp. 929-940",
+          "notes": "(通讯作者)"
+        },
+        {
+          "id": 24,
+          "category": "控制科学与工程/系统工程：制造系统控制与优化",
+          "authors": [
+            "Ming Li",
+            "Zheng Wang",
+            "Felix T.S. Chan"
+          ],
+          "year": 2016,
+          "title": "A robust inventory routing policy under inventory inaccuracy and replenishment lead-time",
+          "venue": "Transportation Research Part E",
+          "volume_issue_pages": "Vol. 91, pp. 290–305",
+          "notes": "(通讯作者)"
+        },
+        {
+          "id": 25,
+          "category": "控制科学与工程/系统工程：制造系统控制与优化",
+          "authors": [
+            "Zheng Wang",
+            "Stanley B. Gershwin"
+          ],
+          "year": 2015,
+          "title": "Heuristic production and sale policy for a two-product-type manufacturing system with downward substitution",
+          "venue": "IEEE Transactions on Systems, Man, and Cybernetics: Systems",
+          "volume_issue_pages": "Vol. 45, No. 6, pp. 929-942"
+        },
+        {
+          "id": 26,
+          "category": "控制科学与工程/系统工程：制造系统控制与优化",
+          "authors": [
+            "Zheng Wang",
+            "Felix T. S. Chan"
+          ],
+          "year": 2015,
+          "title": "A robust replenishment and production control policy for a single-stage production/inventory system with inventory inaccuracy",
+          "venue": "IEEE Transactions on Systems, Man and Cybernetics: Systems",
+          "volume_issue_pages": "Vol. 45, No. 2, pp. 326-337"
+        },
+        {
+          "id": 27,
+          "category": "控制科学与工程/系统工程：制造系统控制与优化",
+          "authors": [
+            "Ming Li",
+            "Li Yao",
+            "Jin Yang",
+            "Zheng Wang"
+          ],
+          "year": 2015,
+          "title": "Due date assignment and dynamic scheduling of one-of-a-kind assembly production with uncertain processing time",
+          "venue": "International Journal of Computer Integrated Manufacturing",
+          "volume_issue_pages": "Vol. 28, No. 6, pp. 616-627",
+          "notes": "(通讯作者)"
+        },
+        {
+          "id": 28,
+          "category": "控制科学与工程/系统工程：制造系统控制与优化",
+          "authors": [
+            "Felix T. S. Chan",
+            "Zheng Wang"
+          ],
+          "year": 2014,
+          "title": "Robust production control policy for a multiple machines and multiple product-types manufacturing system with inventory inaccuracy",
+          "venue": "International Journal of Production Research",
+          "volume_issue_pages": "Vol. 52, No. 16, pp. 4803-4819"
+        },
+        {
+          "id": 29,
+          "category": "控制科学与工程/系统工程：制造系统控制与优化",
+          "authors": [
+            "Zheng Wang",
+            "Felix T. S. Chan"
+          ],
+          "year": 2014,
+          "title": "Independence of the hedging points in PHP control policy",
+          "venue": "Journal of the Operational Research Society",
+          "volume_issue_pages": "Vol. 65, No. 5, pp. 645-659"
+        },
+        {
+          "id": 30,
+          "category": "控制科学与工程/系统工程：制造系统控制与优化",
+          "authors": [
+            "Zheng Wang",
+            "Christopher L. Magee"
+          ],
+          "year": 2012,
+          "title": "Convergence analysis and iteration estimation for a coupled design process with overlap in redesign",
+          "venue": "IEEE Transactions on Engineering Management",
+          "volume_issue_pages": "Vol. 59, No. 4, pp. 621-633"
+        },
+        {
+          "id": 31,
+          "category": "控制科学与工程/系统工程：制造系统控制与优化",
+          "authors": [
+            "Zheng Wang",
+            "Yugang Yu"
+          ],
+          "year": 2012,
+          "title": "Robust production control policy for a single machine and single part-type manufacturing system with inaccurate observation of production surplus",
+          "venue": "IIE Transactions",
+          "volume_issue_pages": "Vol. 44, No. 12, pp. 1061-1082"
+        },
+        {
+          "id": 32,
+          "category": "控制科学与工程/系统工程：制造系统控制与优化",
+          "authors": [
+            "Ying Yan",
+            "Zheng Wang"
+          ],
+          "year": 2012,
+          "title": "A two-layer dynamic scheduling method for minimizing the earliness and tardiness of a reentrant production line",
+          "venue": "International Journal of Production Research",
+          "volume_issue_pages": "Vol. 50, No. 2, pp. 499-515",
+          "notes": "(通讯作者)"
+        },
+        {
+          "id": 33,
+          "category": "控制科学与工程/系统工程：制造系统控制与优化",
+          "authors": [
+            "Yugang Yu",
+            "Zheng Wang",
+            "Liang Liang"
+          ],
+          "year": 2012,
+          "title": "A vendor managed inventory supply chain with deteriorating raw materials and products",
+          "venue": "International Journal of Production Economics",
+          "volume_issue_pages": "Vol. 136, pp. 266-274"
+        },
+        {
+          "id": 34,
+          "category": "控制科学与工程/系统工程：制造系统控制与优化",
+          "authors": [
+            "Bin Wang",
+            "Zilong Cao",
+            "Ying Yan",
+            "Weiping Liu",
+            "Zheng Wang"
+          ],
+          "year": 2011,
+          "title": "Fundamental technology for RFID-based supervisory control of shop floor production system",
+          "venue": "International Journal of Advanced Manufacturing Technology",
+          "volume_issue_pages": "Vol. 57, pp. 1123–1141",
+          "notes": "(通讯作者)"
+        },
+        {
+          "id": 35,
+          "category": "控制科学与工程/系统工程：制造系统控制与优化",
+          "authors": [
+            "Zheng Wang",
+            "Zilong Cao"
+          ],
+          "year": 2010,
+          "title": "Time-synchronizing control of self-organizing shop floors for networked manufacturing",
+          "venue": "Journal of Intelligent Manufacturing",
+          "volume_issue_pages": "Vol. 21, No. 6, pp. 647-656"
+        },
+        {
+          "id": 36,
+          "category": "控制科学与工程/系统工程：制造系统控制与优化",
+          "authors": [
+            "Haiyan Huang",
+            "Zheng Wang"
+          ],
+          "year": 2010,
+          "title": "Solving coupled task assignment and capacity planning problems for a job shop by using a concurrent genetic algorithm",
+          "venue": "International Journal of Production Research",
+          "volume_issue_pages": "Vol. 48, No. 24, pp. 7507-7522",
+          "notes": "(通讯作者)"
+        },
+        {
+          "id": 37,
+          "category": "控制科学与工程/系统工程：制造系统控制与优化",
+          "authors": [
+            "Zheng Wang",
+            "Qi Chen",
+            "Jia Hu",
+            "Haiyan Huang"
+          ],
+          "year": 2010,
+          "title": "A proportional–integral control policy of two coupled concurrent design optimization processes",
+          "venue": "Concurrent Engineering: Research and Applications",
+          "volume_issue_pages": "Vol. 18, No. 1, pp. 55-63"
+        },
+        {
+          "id": 38,
+          "category": "控制科学与工程/系统工程：制造系统控制与优化",
+          "authors": [
+            "Hong-Sen Yan",
+            "Bin Wang",
+            "Duo Xu",
+            "Zheng Wang"
+          ],
+          "year": 2010,
+          "title": "Computing completion time and optimal scheduling of design activities in concurrent product development process",
+          "venue": "IEEE Transactions on Systems, Man, and Cybernetics—Part A: Systems and Humans",
+          "volume_issue_pages": "Vol. 40, No. 1, pp. 76-89"
+        },
+        {
+          "id": 39,
+          "category": "控制科学与工程/系统工程：制造系统控制与优化",
+          "authors": [
+            "Felix T. S. Chan",
+            "Zheng Wang",
+            "Jie Zhang",
+            "S. Wadhwa"
+          ],
+          "year": 2008,
+          "title": "Two-level hedging point control of a manufacturing system with multiple product-types and uncertain demands",
+          "venue": "International Journal of Production Research",
+          "volume_issue_pages": "Vol.46, No.12, pp. 3259-3295"
+        },
+        {
+          "id": 40,
+          "category": "控制科学与工程/系统工程：制造系统控制与优化",
+          "authors": [
+            "Felix T. S. Chan",
+            "Zheng Wang",
+            "Jie Zhang"
+          ],
+          "year": 2007,
+          "title": "A two-level hedging point policy for controlling a manufacturing system with time-delay, demand uncertainty and extra capacity",
+          "venue": "European Journal of Operational Research",
+          "volume_issue_pages": "Vol. 176, pp. 1528–1558"
+        },
+        {
+          "id": 41,
+          "category": "控制科学与工程/系统工程：制造系统控制与优化",
+          "authors": [
+            "Zheng Wang",
+            "Hong-Sen Yan"
+          ],
+          "year": 2005,
+          "title": "Optimizing the concurrency for a group of design activities",
+          "venue": "IEEE Transactions on Engineering Management",
+          "volume_issue_pages": "Vol. 52, No. 1, pp. 102-118"
+        },
+        {
+          "id": 42,
+          "category": "控制科学与工程/系统工程：制造系统控制与优化",
+          "authors": [
+            "Zheng Wang",
+            "Jie Zhang",
+            "Felix T. S. Chan"
+          ],
+          "year": 2005,
+          "title": "A hybrid Petri nets model of networked manufacturing systems and its control system architecture",
+          "venue": "Journal of Manufacturing Technology Management",
+          "volume_issue_pages": "Vol. 16, No. 1, pp. 36-52"
+        },
+        {
+          "id": 43,
+          "category": "控制科学与工程/系统工程：制造系统控制与优化",
+          "authors": [
+            "Hong-Sen Yan",
+            "Zheng Wang",
+            "Xiao-Cheng Jiao"
+          ],
+          "year": 2003,
+          "title": "Modeling, scheduling and simulation of product development process by extended stochastic high-level evaluation Petri nets",
+          "venue": "Robotics and Computer Integrated Manufacturing",
+          "volume_issue_pages": "Vol. 19, No. 4, pp. 329-342"
+        },
+        {
+          "id": 44,
+          "category": "控制科学与工程/系统工程：制造系统控制与优化",
+          "authors": [
+            "Zheng Wang",
+            "Hong-Sen Yan",
+            "Xu-Dong Ma"
+          ],
+          "year": 2003,
+          "title": "A quantitative approach to the organization of cross-functional teams in concurrent engineering",
+          "venue": "International Journal of Advanced Manufacturing Technology",
+          "volume_issue_pages": "Vol. 21, No. 21, pp. 879-888"
+        },
+        {
+          "id": 45,
+          "category": "控制科学与工程/系统工程：制造系统控制与优化",
+          "authors": [
+            "Hong-Sen Yan",
+            "Zheng Wang",
+            "Min Jiang"
+          ],
+          "year": 2002,
+          "title": "A quantitative approach to the process modeling and planning in concurrent engineering",
+          "venue": "Concurrent Engineering: Research and Applications",
+          "volume_issue_pages": "Vol. 10, No. 2, pp. 97-111"
+        }
+      ],
+      "conference_papers": [
+        {
+          "id": 1,
+          "authors": [
+            "Weirui Chen",
+            "Zheng Wang"
+          ],
+          "year": 2022,
+          "title": "Robust control of the servo system of Leighton Chajnantor Telescope under high wind speed",
+          "venue": "Proceedings of SPIE 12187, Modeling, Systems Engineering, and Project Management for Astronomy X, 121870T, SPIE Astronomical Telescopes + Instrumentation",
+          "event_date_location": "29 August 2022, Montréal, Québec, Canada",
+          "notes": "(通讯作者)"
+        },
+        {
+          "id": 2,
+          "authors": [
+            "Yajun Zhang",
+            "Zheng Wang"
+          ],
+          "year": 2018,
+          "title": "Integrated ordering and pricing policy for perishable products with inventory inaccuracy",
+          "venue": "The 14th IEEE International Conference on Automation Science and Engineering (IEEE CASE 2018)",
+          "volume_issue_pages": "pp. 1230-1236",
+          "event_date_location": "August 20-24, 2018 Munich, Germany",
+          "notes": "(通讯作者)"
+        },
+        {
+          "id": 3,
+          "authors": [
+            "Yajun Zhang",
+            "Zheng Wang"
+          ],
+          "year": 2017,
+          "title": "A Markov Decision Process Model for Inventory Control under Invisible Stock Loss and Inaccurate Record",
+          "venue": "The 11th Asian Control Conference (ASCC 2017)",
+          "volume_issue_pages": "pp. 2478-2483",
+          "event_date_location": "December 17-20, 2017, Gold Coast, Australia",
+          "notes": "(通讯作者)"
+        },
+        {
+          "id": 4,
+          "authors": [
+            "Wenliang Chen",
+            "Zheng Wang",
+            "Felix T. S. Chan"
+          ],
+          "year": 2017,
+          "title": "Steady state probability distribution of a two-product-type and multi-parallel-machine system under prioritized hedging point control policy",
+          "venue": "The 13th IEEE International Conference on Automation Science and Engineering (IEEE CASE 2017)",
+          "volume_issue_pages": "pp. 224-230",
+          "event_date_location": "August 20–23, 2017, Xi’an, China",
+          "notes": "(通讯作者)"
+        },
+        {
+          "id": 5,
+          "authors": [
+            "Wenliang Chen",
+            "Zheng Wang"
+          ],
+          "year": 2016,
+          "title": "Integrated capacity planning and production control of a parallel-machine manufacturing system",
+          "venue": "The 12th IEEE International Conference on Automation Science and Engineering (IEEE CASE 2016)",
+          "volume_issue_pages": "pp. 401-406",
+          "event_date_location": "August 21–24, 2016, Fort Worh, Texas, U. S. A.",
+          "notes": "(通讯作者)"
+        },
+        {
+          "id": 6,
+          "authors": [
+            "Wei Wei",
+            "Zheng Wang"
+          ],
+          "year": 2016,
+          "title": "Integrated optimal production and energy control of a single machine and single product-type manufacturing system",
+          "venue": "The 13th International Workshop on Discrete Event Systems (WODES 2016)",
+          "volume_issue_pages": "pp. 343-348",
+          "event_date_location": "Xi'an, China, May 30 - June 1, 2016",
+          "notes": "(通讯作者)"
+        },
+        {
+          "id": 7,
+          "authors": [
+            "Zheng Wang",
+            "Xue Qiao"
+          ],
+          "year": 2016,
+          "title": "Dynamic programming with inaccurate state data",
+          "venue": "2016 INFORMS Optimization Society Conference",
+          "event_date_location": "Princeton, New Jersey, March 17-19, 2016",
+          "notes": "(通讯作者)"
+        },
+        {
+          "id": 8,
+          "authors": [
+            "Minhu Lyu",
+            "Zheng Wang",
+            "Felix T. S. Chan"
+          ],
+          "year": 2015,
+          "title": "Mixed integer programming model and heuristic algorithm for production planning of continuous casting and hot rolling",
+          "venue": "The 11th IEEE International Conference on Automation Science and Engineering (IEEE CASE 2015)",
+          "volume_issue_pages": "pp. 1503-1508",
+          "event_date_location": "Gothenburg, Sweden, August 24–28, 2015",
+          "notes": "(通讯作者)"
+        },
+        {
+          "id": 9,
+          "authors": [
+            "Xue Qiao",
+            "Zheng Wang",
+            "Haoxun Chen",
+            "Ming Li"
+          ],
+          "year": 2015,
+          "title": "Robust replenishment control policies for a production/inventory system with invisible stock loss",
+          "venue": "The 15th IFAC Symposium on Information Control Problems in Manufacturing",
+          "volume_issue_pages": "pp. 1807-1812",
+          "event_date_location": "Ottawa, Canada, May 11-13, 2015",
+          "notes": "(通讯作者)"
+        },
+        {
+          "id": 10,
+          "authors": [
+            "Wenliang Chen",
+            "Zheng Wang",
+            "Felix T. S. Chan"
+          ],
+          "year": 2015,
+          "title": "Robust production capacity planning of a wafer fabrication system with uncertain wafer lots transfer probabilities",
+          "venue": "The 15th IFAC Symposium on Information Control Problems in Manufacturing",
+          "volume_issue_pages": "pp. 1631-1636",
+          "event_date_location": "Ottawa, Canada, May 11-13, 2015",
+          "notes": "(通讯作者)"
+        },
+        {
+          "id": 11,
+          "authors": [
+            "Zheng Wang",
+            "Xue Qiao",
+            "Haoxun Chen"
+          ],
+          "year": 2015,
+          "title": "Integrated ordering and pricing policy for perishable products under inventory inaccuracy",
+          "venue": "The 26th Annual Conference of Production and Operations Society",
+          "event_date_location": "Washington DC, U.S.A., May 8-11, 2015",
+          "notes": "(通讯作者)"
+        },
+        {
+          "id": 12,
+          "authors": [
+            "Ming Li",
+            "Zheng Wang",
+            "Haoxun Chen",
+            "Wenliang Chen"
+          ],
+          "year": 2015,
+          "title": "A robust distribution policy under inaccurate inventory records",
+          "venue": "The 26th Annual Conference of Production and Operations Society",
+          "event_date_location": "Washington DC, U.S.A., May 8-11, 2015",
+          "notes": "(通讯作者)"
+        },
+        {
+          "id": 13,
+          "authors": [
+            "Ming Li",
+            "Felix T. S. Chan",
+            "Zheng Wang"
+          ],
+          "year": 2014,
+          "title": "A Robust ( r, Q) policy for a simple VMI system with inventory inaccuracy and time-delay",
+          "venue": "The 10th IEEE International Conference on Automation Science and Engineering (IEEE CASE 2014)",
+          "volume_issue_pages": "pp. 652-657",
+          "event_date_location": "Taipei, Taiwan, August 18–21, 2014",
+          "notes": "(通讯作者)"
+        },
+        {
+          "id": 14,
+          "authors": [
+            "Zheng Wang",
+            "Hualing Mu",
+            "Jia You"
+          ],
+          "year": 2014,
+          "title": "Analysis of a serial production line with single part-type and multiple parallel-machine workstations",
+          "venue": "The 12th IFAC-IEEE International Workshop on Discrete Event Systems (IFAC WODES 2014)",
+          "event_date_location": "ENS de Cachan, Cachan, France, May 14–16, 2014",
+          "notes": "(通讯作者)"
+        },
+        {
+          "id": 15,
+          "authors": [
+            "Zheng Wang",
+            "Felix T. S. Chan"
+          ],
+          "year": 2013,
+          "title": "A Robust production control policy for a multiple-stage production system with inventory inaccuracy and time-delay",
+          "venue": "The 9th IEEE International Conference on Automation Science and Engineering (IEEE CASE 2013)",
+          "volume_issue_pages": "pp. 77-82",
+          "event_date_location": "Madison, Wisconsin, U. S. A., August 17–21, 2013",
+          "notes": "(通讯作者)"
+        },
+        {
+          "id": 16,
+          "authors": [
+            "Zheng Wang",
+            "Stanley B. Gershwin"
+          ],
+          "year": 2011,
+          "title": "Heuristic production control policy for a two-product-type manufacturing system with down-grade sale",
+          "venue": "The 8th Conference on Stochastic Models of Manufacturing and Service Operation (SMMSO 2011)",
+          "event_date_location": "Kusadasi, Turkey, May 28 – June 2, 2011",
+          "notes": "(通讯作者)"
+        },
+        {
+          "id": 17,
+          "authors": [
+            "Zheng Wang",
+            "Christopher L. Magee"
+          ],
+          "year": 2010,
+          "title": "Sufficiency condition for stability of a fully coupled design process",
+          "venue": "The 12th International Dependency and Structure Modelling Conference, DSM’10",
+          "event_date_location": "Cambridge, U. K., July 22 – 23, 2010",
+          "notes": "(通讯作者)"
+        }
+      ]
+    },
+    "site_chrome": {
+      "source_url": "http://automation.seu.edu.cn/wz/list.htm",
+      "visit_counter_image_url": "https://automation.seu.edu.cn/_visitcount?siteId=338&type=2&columnId=32767"
+    }
+  }
+}

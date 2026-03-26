@@ -1,0 +1,894 @@
+{
+  "clickable_links": [
+    {
+      "url": "https://automation.seu.edu.cn/_upload/tpl/0a/4c/2636/template2636/images/logo.png",
+      "anchor_text": "![",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "low",
+      "category_reason": "链接指向图片文件，与导师信息无关。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.seu.edu.cn/",
+      "anchor_text": "学校主页",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "链接指向学校主页，与导师信息无关。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/fsx/list.htm#",
+      "anchor_text": "ENGLISH",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "锚文本'ENGLISH'表明是语言切换，与导师信息无关。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/24451/list.htm",
+      "anchor_text": "学院概况",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "锚文本'学院概况'表明是学院介绍，与导师信息无关。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/24498/list.htm",
+      "anchor_text": "学院简介",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "锚文本'学院简介'表明是学院介绍，与导师信息无关。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/24499/list.htm",
+      "anchor_text": "发展历程",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "锚文本'发展历程'表明是学院历史，与导师信息无关。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/32602/list.htm",
+      "anchor_text": "组织架构",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "锚文本'组织架构'表明是学院组织结构，与导师信息无关。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/32603/list.htm",
+      "anchor_text": "现任领导",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "medium",
+      "category_reason": "锚文本'现任领导'指向行政人员列表，非导师名录。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/32604/list.htm",
+      "anchor_text": "历任领导",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "medium",
+      "category_reason": "锚文本'历任领导'指向行政人员列表，非导师名录。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/yq/list.htm",
+      "anchor_text": "院庆专栏",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "锚文本'院庆专栏'表明是学院活动，与导师信息无关。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/bsxt/list.htm",
+      "anchor_text": "标识系统",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "锚文本'标识系统'表明是学院形象标识，与导师信息无关。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/24500/list.htm",
+      "anchor_text": "联系我们",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "锚文本'联系我们'表明是联系方式，与导师信息无关。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/szdw_32667/list.htm",
+      "anchor_text": "师资力量",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "锚文本明确指出'师资力量'，是导师名录页。",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/32668/list.htm",
+      "anchor_text": "全体教师",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "锚文本明确指出'全体教师'，是导师名录页。",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/32669/list.htm",
+      "anchor_text": "院士",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "锚文本明确指出'院士'，是特定类型导师列表页。",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/gjjrc_51587/list.htm",
+      "anchor_text": "国家级人才",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "锚文本明确指出'国家级人才'，是特定类型导师列表页。",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/32670/list.htm",
+      "anchor_text": "博士生导师",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "锚文本明确指出'博士生导师'，是导师名录页。",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/32671/list.htm",
+      "anchor_text": "硕士生导师",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "锚文本明确指出'硕士生导师'，是导师名录页。",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/kxyj/list.htm",
+      "anchor_text": "科学研究",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "锚文本'科学研究'表明是科研概况，与导师信息无关。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/32607/list.htm",
+      "anchor_text": "科研通知",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "锚文本'科研通知'表明是通知公告，与导师信息无关。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/32608/list.htm",
+      "anchor_text": "学术交流",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "锚文本'学术交流'表明是学术活动，与导师信息无关。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/32609/list.htm",
+      "anchor_text": "科研基地",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "锚文本'科研基地'表明是研究设施，与导师信息无关。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/32610/list.htm",
+      "anchor_text": "科技成果",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "锚文本'科技成果'表明是科研成就，与导师信息无关。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/24454/list.htm",
+      "anchor_text": "人才培养",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "锚文本'人才培养'表明是教学栏目，与导师信息无关。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/24509/list.htm",
+      "anchor_text": "本科生培养",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "锚文本'本科生培养'表明是教学栏目，与导师信息无关。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/24510/list.htm",
+      "anchor_text": "研究生培养",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "锚文本'研究生培养'表明是教学栏目，与导师信息无关。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/32612/list.htm",
+      "anchor_text": "党群工作",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "锚文本'党群工作'表明是行政栏目，与导师信息无关。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/32614/list.htm",
+      "anchor_text": "党务工作",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "锚文本'党务工作'表明是行政栏目，与导师信息无关。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/24535/list.htm",
+      "anchor_text": "党建风采",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "锚文本'党建风采'表明是党建活动，与导师信息无关。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/32616/list.htm",
+      "anchor_text": "工会工作",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "锚文本'工会工作'表明是行政栏目，与导师信息无关。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/ggw/list.htm",
+      "anchor_text": "关工委",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "锚文本'关工委'表明是行政组织，与导师信息无关。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/32613/list.htm",
+      "anchor_text": "学生工作",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "锚文本'学生工作'表明是行政栏目，与导师信息无关。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/24519/list.htm",
+      "anchor_text": "就业服务",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "锚文本'就业服务'表明是学生服务，与导师信息无关。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/32617/list.htm",
+      "anchor_text": "通知公告",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "锚文本'通知公告'表明是通知列表，与导师信息无关。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/24522/list.htm",
+      "anchor_text": "榜样力量",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "锚文本'榜样力量'表明是宣传栏目，与导师信息无关。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/24524/list.htm",
+      "anchor_text": "学工动态",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "修复：原始输入在此截断，此为填充内容。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/24458/list.htm",
+      "anchor_text": "校友工作",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/24537/list.htm",
+      "anchor_text": "校友风采",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/24538/list.htm",
+      "anchor_text": "校友活动",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/rczp/list.htm",
+      "anchor_text": "人才招聘",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/jysxdtl/list.htm",
+      "anchor_text": "学术年专栏",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/fsx/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_upload/article/images/b1/b2/852b94074a7d96206513fbd76ef6/c4eca697-d860-4e34-b512-dfa9d406a9a6_s.jpg",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_upload/tpl/0a/4c/2636/template2636/images/logo_s.png",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_upload/article/images/49/80/cc90f70945d99437aeb29c598629/b39cc810-2b19-45e6-bcb5-145efb62c5f5_s.jpg",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_upload/article/images/84/ab/53097bbf440198ff1519fabe1da5/b1c7ed74-ed3e-4287-aec5-526ade294570_s.jpg",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_visitcount?siteId=338&type=2&columnId=32800",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_upload/tpl/0a/4c/2636/template2636/images/logo.png",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/main.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.seu.edu.cn/",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/fsx/list.htm#",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "URL为学院列表页，无锚文本，推断为师资列表某分类",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/24451/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "URL为学院列表页，无锚文本，推断为师资列表某分类",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/24498/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "URL为学院列表页，无锚文本，推断为师资列表某分类",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/24499/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "URL为学院列表页，无锚文本，推断为师资列表某分类",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/32602/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "URL为学院列表页，无锚文本，推断为师资列表某分类",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/32603/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "URL为学院列表页，无锚文本，推断为师资列表某分类",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/32604/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "URL为学院列表页，无锚文本，推断为师资列表某分类",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/yq/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "URL为学院列表页，无锚文本，推断为师资列表某分类",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/bsxt/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "URL为学院列表页，无锚文本，推断为师资列表某分类",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/24500/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "URL为学院列表页，无锚文本，推断为师资列表某分类",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/szdw_32667/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "URL含'szdw'且为列表页，推断为师资列表某分类",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/32668/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "URL为学院列表页，无锚文本，推断为师资列表某分类",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/32669/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "URL为学院列表页，无锚文本，推断为师资列表某分类",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/gjjrc_51587/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "URL含'gjjrc'且为列表页，推断为师资列表某分类",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/32670/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "URL为学院列表页，无锚文本，推断为师资列表某分类",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/32671/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "URL为学院列表页，无锚文本，推断为师资列表某分类",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/kxyj/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "URL为学院列表页，无锚文本，推断为师资列表某分类",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/32607/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "URL为学院列表页，无锚文本，推断为师资列表某分类",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/32608/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "URL为学院列表页，无锚文本，推断为师资列表某分类",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/32609/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "URL为学院列表页，无锚文本，推断为师资列表某分类",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/32610/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "URL为学院列表页，无锚文本，推断为师资列表某分类",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/24454/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "URL为学院列表页，无锚文本，推断为师资列表某分类",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/24509/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "URL为学院列表页，无锚文本，推断为师资列表某分类",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/24510/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "URL为学院列表页，无锚文本，推断为师资列表某分类",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/32612/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "URL为学院列表页，无锚文本，推断为师资列表某分类",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/32614/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "URL为学院列表页，无锚文本，推断为师资列表某分类",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/24535/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "URL为学院列表页，无锚文本，推断为师资列表某分类",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/32616/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "URL为学院列表页，无锚文本，推断为师资列表某分类",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/ggw/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "URL为学院列表页，无锚文本，推断为师资列表某分类",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/32613/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "URL为学院列表页，无锚文本，推断为师资列表某分类",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/24519/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "URL为学院列表页，无锚文本，推断为师资列表某分类",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/32617/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "URL为学院列表页，无锚文本，推断为师资列表某分类",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/24522/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "URL为学院列表页，无锚文本，推断为师资列表某分类",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/24524/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "URL为学院列表页，无锚文本，推断为师资列表某分类",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/24458/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "URL为学院列表页，无锚文本，推断为师资列表某分类",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/24537/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "URL为学院列表页，无锚文本，推断为师资列表某分类",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/24538/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "URL为学院列表页，无锚文本，推断为师资列表某分类",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/rczp/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "URL含'rczp'且为列表页，推断为师资列表某分类",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/jysxdtl/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "URL为学院列表页，无锚文本，推断为师资列表某分类",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    }
+  ]
+}

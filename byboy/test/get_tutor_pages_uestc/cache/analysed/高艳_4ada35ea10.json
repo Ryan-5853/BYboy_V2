@@ -1,0 +1,181 @@
+{
+  "meta": {
+    "tutor_name_cn": "高艳",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1156/4521.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1156/4521.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/56e8f192f49a42d5841981575b7e590170889aa30833485aec0b2df386e5d62d.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "source_url": "https://www.auto.uestc.edu.cn/info/1156/4521.htm",
+    "site_chrome": {
+      "breadcrumbs": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "G",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/G.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "navigation_links": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ]
+    },
+    "personal_info": {
+      "name": "高艳",
+      "image_url": "https://www.auto.uestc.edu.cn/__local/D/DE/1D/F79C14A120B1E4024BABF18258E_3FE898D3_2C6B0.png",
+      "highest_degree": "博士",
+      "contact_phone": null,
+      "position_title": "副研究员",
+      "email": "gaoyan@uestc.edu.cn",
+      "supervisor_status": "硕士导师",
+      "personal_homepage": null,
+      "research_team": "系统工程与智能装备团队"
+    },
+    "research_directions": [
+      "新能源系统及控制技术",
+      "系统工程与智能装备",
+      "故障诊断与健康管理",
+      "模式识别与机器学习"
+    ],
+    "academic_appointments_and_affiliations": [
+      "能源行业液流电池标准化技术委员会委员"
+    ],
+    "education_experience": [
+      {
+        "start_date": "2003.09",
+        "end_date": "2007.06",
+        "institution": "浙江大学",
+        "degree": "学士",
+        "type": "学习经历"
+      },
+      {
+        "start_date": "2007.09",
+        "end_date": "2012.06",
+        "institution": "浙江大学",
+        "degree": "博士（直博）",
+        "type": "学习经历"
+      },
+      {
+        "start_date": "2009.10",
+        "end_date": "2011.04",
+        "institution": "美国华盛顿大学",
+        "degree": "博士联合培养",
+        "type": "学习经历"
+      }
+    ],
+    "work_experience": [
+      {
+        "start_date": "2012.07",
+        "end_date": "2017.11",
+        "organization": "中国东方电气集团中央研究院",
+        "position": "项目负责人、高级工程师",
+        "type": "工作经历"
+      },
+      {
+        "start_date": "2017.12",
+        "end_date": "至今",
+        "organization": "电子科技大学",
+        "position": "副研究员",
+        "type": "工作经历"
+      }
+    ],
+    "research": {
+      "summary_description": "高艳，博士，副研究员，四川省第二批海外高层次人才创新创业“顶尖团队”核心成员，能源行业液流电池标准化技术委员会委员。自2012年起主要从事新能源系统集成和智能控制研究。",
+      "projects": [
+        {
+          "description": "作为项目负责人主持并完成1项四川省科技支撑计划重点项目",
+          "role": "项目负责人",
+          "count": 1,
+          "category": "四川省科技支撑计划重点项目"
+        },
+        {
+          "description": "作为项目负责人主持并完成1项中科院“西部之光”项目",
+          "role": "项目负责人",
+          "count": 1,
+          "category": "中科院“西部之光”项目"
+        },
+        {
+          "description": "作为子课题负责人承担1项国家重点研发计划",
+          "role": "子课题负责人",
+          "count": 1,
+          "category": "国家重点研发计划"
+        },
+        {
+          "description": "作为子课题负责人承担2项省部级重点项目",
+          "role": "子课题负责人",
+          "count": 2,
+          "category": "省部级重点项目"
+        }
+      ],
+      "patents": {
+        "filed": {
+          "domestic": "50余项",
+          "international": "1项"
+        },
+        "authorized": "25项",
+        "role": "第一或主要发明人"
+      },
+      "standards": [
+        {
+          "description": "作为标准主要起草人完成四川省地方标准1项",
+          "role": "主要起草人",
+          "count": 1,
+          "category": "四川省地方标准"
+        }
+      ],
+      "publications": {
+        "type": "SCI期刊论文",
+        "count": "20余篇",
+        "journals": "Advanced Materials、Carbon、Applied Physics Letters、Journal of Power Sources等",
+        "highest_citation": "170余次"
+      },
+      "current_research_topics": [
+        "燃料电池智能化算法研究和轻型动力系统集成",
+        "燃料电池无人机动力系统集成与控制算法研究",
+        "基于机器学习的燃料电池故障诊断算法研究与健康状态控制",
+        "机理模型与深度学习相融合的燃料电池衰减研究与寿命预测"
+      ]
+    },
+    "teaching": {
+      "undergraduate_courses": [
+        "新能源系统导论"
+      ],
+      "graduate_courses": [
+        "创新实践课程"
+      ]
+    },
+    "admission_disciplines": {
+      "masters": [
+        "081100控制科学与工程",
+        "085406控制工程"
+      ],
+      "doctorates": []
+    }
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "clickable_links": [
+    {
+      "url": "https://automation.seu.edu.cn/cyy/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "URL结构可能为教师列表页",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://arc.aiaa.org/doi/abs/10.2514/1.G009166",
+      "anchor_text": "http://arc.aiaa.org/doi/abs/10.2514/1.G009166",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部学术出版物链接",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021?source=authoralert",
+      "anchor_text": "**_IEEE Transactions on Systems, Man, and Cybernetics: Systems_**",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部学术期刊链接",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://doi.org/10.1016/j.jfranklin.2024.107018",
+      "anchor_text": "https://doi.org/10.1016/j.jfranklin.2024.107018",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部学术出版物链接",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://doi.org/10.1002/rnc.7361",
+      "anchor_text": "https://doi.org/10.1002/rnc.7361",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部学术出版物链接",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.sciencedirect.com/journal/journal-of-the-franklin-institute",
+      "anchor_text": "**_the Franklin Institute_**",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部学术期刊链接",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://doi.org/10.1016/j.jfranklin.2023.11.020.",
+      "anchor_text": "https://doi.org/10.1016/j.jfranklin.2023.11.020.",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部学术出版物链接",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://doi.org/10.1049/cth2.12584,",
+      "anchor_text": "http://doi.org/10.1049/cth2.12584,",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部学术出版物链接",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://authors.elsevier.com/a/1gHbh3euANFCQ",
+      "anchor_text": "https://authors.elsevier.com/a/1gHbh3euANFCQ",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部出版商作者链接",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_visitcount?siteId=338&type=2&columnId=32812",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "页面访问计数器链接",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://automation.seu.edu.cn/cyy/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "URL结构可能为教师列表页",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://arc.aiaa.org/doi/abs/10.2514/1.G009166",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部学术出版物链接",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021?source=authoralert",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部学术期刊链接",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://doi.org/10.1016/j.jfranklin.2024.107018",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部学术出版物链接",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://doi.org/10.1002/rnc.7361",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部学术出版物链接",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.sciencedirect.com/journal/journal-of-the-franklin-institute",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部学术期刊链接",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://doi.org/10.1016/j.jfranklin.2023.11.020",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部学术出版物链接",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://doi.org/10.1049/cth2.12584",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部学术出版物链接",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://authors.elsevier.com/a/1gHbh3euANFCQ",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部出版商作者链接",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    }
+  ]
+}

@@ -1,0 +1,1230 @@
+{
+  "meta": {
+    "tutor_name_cn": "莫磊",
+    "request_url": "http://automation.seu.edu.cn/ml/list.htm",
+    "declared_source_url": "http://automation.seu.edu.cn/ml/list.htm",
+    "page_host": "automation.seu.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/374ac679ccae931624c81d39c56e85a4bc12ac98ee6fcd84a0625cfed2ef8943.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "personal_info": {
+      "name": "莫磊",
+      "gender": "男",
+      "origin": "广东中山人",
+      "current_affiliation": "东南大学自动化学院",
+      "current_title": "副教授",
+      "profile_summary": "2013年毕业于华南理工大学自动化科学与工程学院，获得工学博士学位（导师：胥布工教授）。随后赴浙江大学控制科学与工程学院、法国国立信息与自动化研究所（INRIA）从事博士后研究，并于2019年加入东南大学自动化学院。",
+      "main_research_directions": [
+        "网络化系统（如信息物理系统CPS、无线传感器网络WSN）中的估计与控制",
+        "资源调度",
+        "任务映射",
+        "边缘计算",
+        "近似计算",
+        "可靠性设计",
+        "及其在实际系统中的应用"
+      ],
+      "publication_summary": "近年来，在工业物联网、电路与系统、智能交通、云计算等领域相关国际期刊（如IEEE Transactions on Industrial Informatics、IEEE Transactions on Reliability、IEEE Internet of Things Journal、IEEE Transactions on Computer Aided-Design of Integrated Circuits and Systems、IEEE Journal on Emerging and Selected Topics in Circuits and Systems、IEEE Transactions on Intelligent Transportation Systems、IEEE Transactions on Cloud Computing、ACM Transactions on Sensor Networks）和国际会议（如DATE、CODES+ISSS、ICCD、RTAS、IFAC World Congress）上，发表学术论文六十余篇。",
+      "project_summary": "作为项目负责人，主持了国家自然科学基金青年项目、中国博士后基金、江苏省自然科学基金、浙江大学工业控制技术国家重点实验室开放课题、百度-东南大数据研究课题、江苏省智能网联汽车产业开放课题等研究项目，并作为主要研究人员参与了国家自然科学基金-广东联合重点项目、国家自然科学基金、海外和港澳学者合作基金、欧盟H2020等研究项目。",
+      "award_summary": "曾获东南大学至善青年学者（A层次）、南京市留学人员科技创新择优资助（B层次）、华南理工大学一等奖学金、华南理工大学E+H企业奖学金、华南理工大学“优秀研究生”、华南理工大学优秀博士论文创新基金、浙江大学高水平国际学术会议基金等奖励。"
+    },
+    "education_and_work_experience": [
+      {
+        "start_date": "2013",
+        "end_date": "2013",
+        "institution": "华南理工大学自动化科学与工程学院",
+        "degree": "工学博士学位",
+        "notes": "导师：胥布工教授"
+      },
+      {
+        "start_date": "2013",
+        "end_date": "2015",
+        "institution": "浙江大学",
+        "department": "控制科学与工程学院",
+        "role": "博士后",
+        "notes": "合作导师：孙优贤院士（IFAC Fellow）、陈积明教授（IEEE Fellow）"
+      },
+      {
+        "start_date": "2015",
+        "end_date": "2016",
+        "institution": "法国国立信息与自动化研究所（INRIA Nancy）",
+        "role": "博士后",
+        "notes": "合作导师：Prof. Yeqiong Song"
+      },
+      {
+        "start_date": "2017",
+        "end_date": "2019",
+        "institution": "法国国立信息与自动化研究所（INRIA Rennes）",
+        "role": "博士后",
+        "notes": "合作导师：Prof. Olivier Sentieys、Prof. Angeliki Kritikakou"
+      },
+      {
+        "start_date": "2019",
+        "end_date": "2020",
+        "institution": "东南大学",
+        "department": "自动化学院",
+        "role": "讲师"
+      },
+      {
+        "start_date": "2020",
+        "end_date": "现在",
+        "institution": "东南大学",
+        "department": "自动化学院",
+        "role": "副教授"
+      },
+      {
+        "start_date": "2025-02",
+        "end_date": "2025-05",
+        "institution": "德国亚琛工业大学",
+        "role": "访问学者"
+      }
+    ],
+    "academic_appointments": {
+      "society_memberships": [
+        "IEEE会员 (IEEE Member)",
+        "ACM会员 (ACM Member)",
+        "中国自动化学会会员 (CAA Member)",
+        "中国计算机学会会员 (CCF Member)",
+        "中国人工智能学会会员 (AAI Member)"
+      ],
+      "committee_memberships": [
+        "中国自动化学会工业网联网技术与应用专委会委员",
+        "中国自动化学会青年工作委员会委员",
+        "江苏省计算机协会系统结构专委会委员"
+      ],
+      "editorial_board_roles": [
+        {
+          "role": "副主编 (Associate Editor)",
+          "journal": "KSII Transactions on Internet and Information Systems",
+          "notes": "SCI"
+        },
+        {
+          "role": "副主编 (Associate Editor)",
+          "journal": "International Journal of Ad Hoc and Ubiquitous Computing",
+          "notes": "SCI"
+        },
+        {
+          "role": "客座编委 (Guest Editor)",
+          "journal": "IEEE Access",
+          "notes": "SCI, Special Issue on \"Security and Privacy for Vehicular Networks\""
+        },
+        {
+          "role": "客座编委 (Guest Editor)",
+          "journal": "Actuators",
+          "notes": "SCI, Special Issue on \"Wireless Sensor-Actuator Networks\""
+        },
+        {
+          "role": "客座编委 (Guest Editor)",
+          "journal": "Electronics",
+          "notes": "SCI, Special Issue on \"Design, Control, Optimization, and Security of Next-Generation Communications Networks\""
+        },
+        {
+          "role": "客座编委 (Guest Editor)",
+          "journal": "IET Electronics Letters",
+          "notes": "SCI, Special Issue on \"Machine Perception and Learning in Human-Cyber-Physical Systems\""
+        },
+        {
+          "role": "客座编委 (Guest Editor)",
+          "journal": "Journal of Computer Networks and Communications",
+          "notes": "Special Issue on \"Emerging Technologies for the Internet of Things\""
+        }
+      ],
+      "reviewer_for": [
+        "IEEE Systems Journal",
+        "IEEE Network Magazine",
+        "IEEE Internet of Things Journal",
+        "IEEE Transactions on Industrial Informatics",
+        "IEEE Transactions on Communications",
+        "IEEE Transactions on Industrial Electronics",
+        "IEEE Transactions on Systems, Man, and Cybernetics: Systems",
+        "IEEE/CAA Journal of Automatica Sinica",
+        "ACM Transactions on Design Automation of Electronic Systems",
+        "IET Control Theory & Applications",
+        "IET Cyber-Physical Systems: Theory & Applications",
+        "Journal of the Franklin Institute",
+        "Asia Journal of Control",
+        "Wireless Networks",
+        "二十余次学术会议技术程序委员会委员 (TPC Member)",
+        "多个国际期刊和会议审稿人"
+      ]
+    },
+    "awards": {
+      "personal_awards": [
+        {
+          "name": "华南理工大学一等奖学金",
+          "year": null,
+          "notes": "学生时期"
+        },
+        {
+          "name": "华南理工大学E+H企业奖学金",
+          "year": null,
+          "notes": "学生时期"
+        },
+        {
+          "name": "华南理工大学“优秀研究生”",
+          "year": null,
+          "notes": "学生时期"
+        },
+        {
+          "name": "华南理工大学优秀博士论文创新基金",
+          "year": null,
+          "notes": "学生时期"
+        },
+        {
+          "name": "浙江大学高水平国际学术会议基金",
+          "year": null,
+          "notes": "学生时期"
+        },
+        {
+          "name": "东南大学至善青年学者",
+          "year": "2020年度",
+          "level": "A层次"
+        },
+        {
+          "name": "南京市留学人员科技创新择优资助",
+          "year": "2021年度",
+          "level": "B层次"
+        },
+        {
+          "name": "江苏省科技副总",
+          "year": "2022年度"
+        },
+        {
+          "name": "江苏省科技镇长团成员",
+          "year": "2022年度"
+        },
+        {
+          "name": "东南大学2023年度本科招生工作先进个人",
+          "year": "2023"
+        },
+        {
+          "name": "东南大学第30届青年教师授课竞赛",
+          "year": "2023",
+          "level": "三等奖"
+        },
+        {
+          "name": "International Conference on Autonomous Unmanned Systems, Best Paper Award",
+          "year": "2024"
+        },
+        {
+          "name": "IEEE SmartWorld Congress, Outstanding Service Award",
+          "year": "2024"
+        },
+        {
+          "name": "全国仿真创新应用大赛, 仿真科学创新奖",
+          "year": "2024"
+        },
+        {
+          "name": "第40届中国自动化学会青年学术年会, 优秀专题组织奖",
+          "year": "2025"
+        },
+        {
+          "name": "东南大学埃斯顿教学奖",
+          "year": "2025",
+          "level": "一等奖"
+        }
+      ],
+      "supervised_student_awards": [
+        {
+          "name": "第二十四届中国机器人及人工智能大赛（江苏赛区）",
+          "year": "2022",
+          "level": "一等奖",
+          "students": "刘德祥, 赵一鸣, 张新宇"
+        },
+        {
+          "name": "第二十四届中国机器人及人工智能大赛（全国赛区）",
+          "year": "2022",
+          "level": "二等奖",
+          "students": "刘德祥, 赵一鸣, 张新宇"
+        },
+        {
+          "name": "东南大学第一届研究生电子设计竞赛",
+          "year": "2023",
+          "level": "三等奖",
+          "students": "李昕镁, 张靖怡, 周子怡"
+        },
+        {
+          "name": "第九届中国研究生智慧城市技术与创意设计大赛",
+          "year": "2023",
+          "level": "三等奖",
+          "students": "李勃翰, 高艺玮, 何新杰, 王忻艺, 高庆"
+        },
+        {
+          "name": "首届全国集群智能技术挑战赛",
+          "year": "2023",
+          "level": "三等奖",
+          "students": "顾一凡, 彭晨华, 周健鑫, 赵一鸣, 张新宇"
+        },
+        {
+          "name": "第八届全国大学生嵌入式芯片与系统设计竞赛",
+          "year": "2025",
+          "level": "东部赛区二等奖",
+          "students": "张弘毅, 张梦冉, 胡天宇"
+        }
+      ]
+    },
+    "courses_taught": [
+      {
+        "type": "本科生课程",
+        "title": "《数字与逻辑设计》"
+      },
+      {
+        "type": "本科生课程",
+        "title": "《控制工程系统综合设计I/II》"
+      },
+      {
+        "type": "本科生课程",
+        "title": "《形势与政策》"
+      }
+    ],
+    "teaching_reform_projects": [
+      {
+        "year": "2020年度",
+        "title": "《数字与逻辑设计》"
+      },
+      {
+        "year": "2025年度",
+        "title": "《东南大学-亚琛工大mini-mester成建制长期国际交流》"
+      },
+      {
+        "year": "2026年度",
+        "title": "《智能控制系统综合设计I/II》"
+      }
+    ],
+    "student_cultivation": {
+      "phd_students": [
+        {
+          "enrollment_year": "2018",
+          "name": "崔敏玉",
+          "notes": "CSC-ENS博士生"
+        }
+      ],
+      "master_students": [
+        {
+          "enrollment_year": "2025",
+          "names": [
+            "朱玉鸽",
+            "韦霄龙",
+            "刘禹岑"
+          ]
+        },
+        {
+          "enrollment_year": "2024",
+          "names": [
+            "赵琳琳",
+            "姚景鑫",
+            "周俊杰"
+          ]
+        },
+        {
+          "enrollment_year": "2023",
+          "names": [
+            "宋珩衍",
+            "朱浩彤",
+            "周健鑫"
+          ]
+        },
+        {
+          "enrollment_year": "2022",
+          "names": [
+            "周子怡",
+            "张靖怡",
+            "顾一凡",
+            "彭晨华",
+            "赵明军"
+          ]
+        },
+        {
+          "enrollment_year": "2021",
+          "names": [
+            "李昕镁",
+            "彭楚君",
+            "张新宇",
+            "赵一鸣"
+          ]
+        },
+        {
+          "enrollment_year": "2020",
+          "names": [
+            "陈雪莹",
+            "刘德祥"
+          ]
+        },
+        {
+          "enrollment_year": "2018",
+          "names": [
+            "周琦"
+          ]
+        }
+      ],
+      "undergraduate_students": [
+        {
+          "graduation_year": "2026",
+          "names": [
+            "田婧",
+            "方子晗",
+            "周子淳",
+            "卢悦国"
+          ]
+        },
+        {
+          "graduation_year": "2025",
+          "names": [
+            "韦霄龙",
+            "朱玉鸽",
+            "康嘉轩",
+            "何敬泰"
+          ]
+        },
+        {
+          "graduation_year": "2024",
+          "names": [
+            "黄一阳",
+            "叶浩然"
+          ]
+        },
+        {
+          "graduation_year": "2023",
+          "names": [
+            "朱浩彤",
+            "宋珩衍"
+          ]
+        },
+        {
+          "graduation_year": "2022",
+          "names": [
+            "周子怡",
+            "颜凌云",
+            "陆震寰",
+            "王辰辰"
+          ]
+        },
+        {
+          "graduation_year": "2021",
+          "names": [
+            "王天瑶",
+            "罗蕴轩",
+            "李博焓"
+          ]
+        }
+      ],
+      "student_placements": [
+        {
+          "graduation_year": "2021",
+          "name": "崔敏玉",
+          "destination": "Chalmers University of Technology博士后"
+        },
+        {
+          "graduation_year": "2021",
+          "name": "周琦",
+          "destination": "理想汽车"
+        },
+        {
+          "graduation_year": "2023",
+          "name": "陈雪莹",
+          "destination": "中国移动"
+        },
+        {
+          "graduation_year": "2023",
+          "name": "刘德祥",
+          "destination": "零跑汽车"
+        },
+        {
+          "graduation_year": "2024",
+          "name": "李昕镁",
+          "destination": "东南大学博士研究生"
+        },
+        {
+          "graduation_year": "2024",
+          "name": "彭楚君",
+          "destination": "无锡选调生"
+        },
+        {
+          "graduation_year": "2024",
+          "name": "张新宇",
+          "destination": "华泰证券"
+        },
+        {
+          "graduation_year": "2024",
+          "name": "赵一鸣",
+          "destination": "中国交建"
+        },
+        {
+          "graduation_year": "2025",
+          "name": "周子怡",
+          "destination": "携程"
+        },
+        {
+          "graduation_year": "2025",
+          "name": "张靖怡",
+          "destination": "华为"
+        },
+        {
+          "graduation_year": "2025",
+          "name": "顾一凡",
+          "destination": "极氪汽车"
+        },
+        {
+          "graduation_year": "2025",
+          "name": "彭晨华",
+          "destination": "华为"
+        },
+        {
+          "graduation_year": "2026",
+          "name": "朱浩彤",
+          "destination": "小鹏汽车"
+        },
+        {
+          "graduation_year": "2026",
+          "name": "宋珩衍",
+          "destination": "寒武纪"
+        },
+        {
+          "graduation_year": "2026",
+          "name": "周健鑫",
+          "destination": "海康威视"
+        }
+      ]
+    },
+    "research_interests": [
+      "信息物理融合系统",
+      "资源调度",
+      "任务映射",
+      "可靠性设计"
+    ],
+    "research_projects": [
+      {
+        "id": "01",
+        "name": "东南大学专业学位研究生卓越工程师培养项目",
+        "title": "陆域智能无人系统关键技术及应用",
+        "start_date": "2025-01",
+        "end_date": "2027-12",
+        "role": "参与"
+      },
+      {
+        "id": "02",
+        "name": "江苏省自然科学基金面上项目",
+        "project_id": "SBK20242028",
+        "title": "多核嵌入式信息物理系统能量优化实时任务可靠映射方法研究",
+        "start_date": "2024-09",
+        "end_date": "2027-09",
+        "role": "主持"
+      },
+      {
+        "id": "03",
+        "name": "百度-东南大数据研究项目",
+        "project_id": "YNNS-DNDX2023022401",
+        "title": "烟草商业供应链金融数字化研究与应用",
+        "start_date": "2023-01",
+        "end_date": "2023-12",
+        "role": "主持"
+      },
+      {
+        "id": "04",
+        "name": "企业委托横向项目",
+        "title": "AGV自动搬运系统控制器底层驱动系统移植与开发",
+        "start_date": "2023-01",
+        "end_date": "2023-12",
+        "role": "主持"
+      },
+      {
+        "id": "05",
+        "name": "科技部国家重点研发计划青年科学家项目",
+        "project_id": "2022YFF0902800",
+        "title": "虚实融合下的边缘智能服务理论与方法研究",
+        "start_date": "2022-12",
+        "end_date": "2025-12",
+        "role": "参与"
+      },
+      {
+        "id": "06",
+        "name": "东南大学复杂系统工程测量与控制教育部重点实验室开放课题",
+        "project_id": "MCCSE2022B03",
+        "title": "面向CPS资源优化调度的跨层和在线机制研究",
+        "start_date": "2022-01",
+        "end_date": "2022-12",
+        "role": "主持"
+      },
+      {
+        "id": "07",
+        "name": "南京市留学人员科技创新项目",
+        "title": "基于资源优化调度的智能交通系统端-边-云协同机制研究",
+        "start_date": "2021-08",
+        "end_date": "2022-08",
+        "role": "主持"
+      },
+      {
+        "id": "08",
+        "name": "江苏省智能网联汽车产业创新联盟开放课题",
+        "project_id": "ORP-2021-001",
+        "title": "C-V2X车路协同交互应用场景及测试评价方法研究",
+        "start_date": "2021-01",
+        "end_date": "2021-12",
+        "role": "主持"
+      },
+      {
+        "id": "09",
+        "name": "百度-东南大数据研究项目",
+        "project_id": "2022015OT03895",
+        "title": "新冠疫情大数据分析",
+        "start_date": "2020-08",
+        "end_date": "2021-08",
+        "role": "主持"
+      },
+      {
+        "id": "10",
+        "name": "浙江大学工业控制技术国家重点实验室开放课题",
+        "project_id": "ICT20058",
+        "title": "基于异构节点协同工作的CPS信息安全机制研究",
+        "start_date": "2020-01",
+        "end_date": "2020-12",
+        "role": "主持"
+      },
+      {
+        "id": "11",
+        "name": "欧盟Horizon 2020研究项目",
+        "project_id": "ANR-15-CE25-0015",
+        "title": "Approximative Flexible Circuits and Computing for IoT",
+        "start_date": "2017-01",
+        "end_date": "2019-12",
+        "role": "参与"
+      },
+      {
+        "id": "12",
+        "name": "国家自然科学基金委员会",
+        "project_id": "61403340",
+        "title": "青年科学基金项目，无线传感器/执行器网络资源优化与协调控制研究",
+        "start_date": "2015-01",
+        "end_date": "2017-12",
+        "role": "主持"
+      },
+      {
+        "id": "13",
+        "name": "中国博士后科学基金",
+        "project_id": "2014M551742",
+        "title": "无线传感器/执行器网络中的资源优化调度研究",
+        "start_date": "2014-06",
+        "end_date": "2016-06",
+        "role": "主持"
+      },
+      {
+        "id": "14",
+        "name": "欧盟Horizon 2020研究项目",
+        "project_id": "ANR-10-INTB-0206",
+        "title": "SATELOR Lorraine Regional AME Project (e-health)",
+        "start_date": "2014-01",
+        "end_date": "2016-12",
+        "role": "参与"
+      }
+    ],
+    "publications": {
+      "journal_papers": [
+        {
+          "id": "01",
+          "authors": [
+            "Hengyan Song",
+            "Lei Mo",
+            "Tamim M. Al-Hasan",
+            "Minyu Cui",
+            "Guiyun Liu",
+            "Xiaojun Zhai"
+          ],
+          "title": "PKTQ: Per-Kernel Thresholded Quantization with size-constrained two-stage optimization for CNNs",
+          "journal": "IET Electronics Letters",
+          "volume_issue_pages": "vol. 62, no. 1, pp. 1-8",
+          "year": "2026",
+          "notes": "SCI"
+        },
+        {
+          "id": "02",
+          "authors": [
+            "Lei Mo",
+            "Ziyi Zhou",
+            "Tamim M. Al-Hasan",
+            "Angeliki Kritikakou",
+            "Xiaojun Zhai",
+            "Olivier Sentieys",
+            "Shibo He"
+          ],
+          "title": "Energy-efficient and reliable task mapping and offloading for multicore edge devices with DVFS",
+          "journal": "IEEE Internet of Things Journal (JIOT)",
+          "volume_issue_pages": "vol. 13, no. 10, pp. 1-18",
+          "year": "2026",
+          "notes": "SCI, IF 9.515, CCF C"
+        },
+        {
+          "id": "03",
+          "authors": [
+            "Hengyan Song",
+            "Lei Mo",
+            "Tamim M. Al-Hasan",
+            "Angeliki Kritikakou",
+            "Xiaojun Zhai",
+            "Shibo He",
+            "Olivier Sentieys"
+          ],
+          "title": "QoS-aware approximate task mapping on heterogeneous multicore platforms with DVFS and task migration",
+          "journal": "ACM Transactions on Embedded Computing Systems",
+          "volume_issue_pages": "vol. 25, no. 2, pp. 1-31",
+          "year": "2026",
+          "notes": "SCI, CCF B"
+        },
+        {
+          "id": "04",
+          "authors": [
+            "Hongyi Zhang",
+            "Tianyu Hu",
+            "Mengran Zhang",
+            "Lei Mo",
+            "Kunpeng Li"
+          ],
+          "title": "A portable intelligent navigation system based on embedded hybrid computing for visually impaired people",
+          "journal": "IET Electronics Letters",
+          "volume_issue_pages": "pp. 1-4",
+          "year": "2026",
+          "notes": "SCI"
+        },
+        {
+          "id": "05",
+          "authors": [
+            "Xiaoyong Yan",
+            "Yulu Wen",
+            "Lei Mo",
+            "Chenhuang Wu",
+            "Chuntao Ding",
+            "Shigeng Zhang"
+          ],
+          "title": "RML: a Robust Multi-hop Localization algorithm for irregular networks",
+          "journal": "Computer Communications",
+          "volume_issue_pages": "vol. 245, no. 1, pp. 1-16",
+          "year": "2025",
+          "notes": "SCI, IF 4.3, CCF C"
+        },
+        {
+          "id": "06",
+          "authors": [
+            "Lei Mo",
+            "Jingyi Zhang",
+            "Tamim Al-Hasan",
+            "Minyu Cui",
+            "Xiaojun Zhai",
+            "Qing Gao",
+            "Shibo He"
+          ],
+          "title": "Reliable and energy optimized task mapping for heterogeneous multicore NoC based on partial task duplication and multipath routing",
+          "journal": "IEEE Internet of Things Journal (JIOT)",
+          "volume_issue_pages": "vol. 12, no. 23, pp. 51240-51253",
+          "year": "2025",
+          "notes": "SCI, IF 9.515, CCF C"
+        },
+        {
+          "id": "07",
+          "authors": [
+            "Lei Mo",
+            "Jingyi Zhang",
+            "Minyu Cui",
+            "Xiaoyong Yan",
+            "Shuang Wang",
+            "Xiaojun Zhai"
+          ],
+          "title": "Energy-aware task mapping combining DVFS and task duplication for multicore networked systems",
+          "journal": "Journal of the Franklin Institute",
+          "volume_issue_pages": "vol. 362, no. 16, pp. 1-18",
+          "year": "2025",
+          "notes": "SCI, IF 4.2"
+        },
+        {
+          "id": "08",
+          "authors": [
+            "Yang Wang",
+            "Yan He",
+            "Defu Zhu",
+            "Junwei Sun",
+            "Lei Mo"
+          ],
+          "title": "Non-uniformly sampled data for data-driven analysis of nonlinear singularly perturbed hybrid systems",
+          "journal": "Nonlinear Dynamics",
+          "volume_issue_pages": "pp. 14165-14179",
+          "year": "2025",
+          "notes": "SCI, IF 5.2"
+        },
+        {
+          "id": "09",
+          "authors": [
+            "Lei Mo",
+            "Xinmei Li",
+            "Angeliki Kritikakou",
+            "Xiaojun Zhai"
+          ],
+          "title": "Contention and reliability-aware energy efficiency task mapping on NoC-based MPSoCs",
+          "journal": "IEEE Transactions on Reliability (TR)",
+          "volume_issue_pages": "vol. 74, no. 1, pp. 2010-2026",
+          "year": "2025",
+          "notes": "SCI, IF 5.9, CCF C"
+        },
+        {
+          "id": "10",
+          "authors": [
+            "Yiming Zhao",
+            "Lei Mo",
+            "Ji Liu"
+          ],
+          "title": "Multi-task scheduling in vehicular edge computing: a multi-agent reinforcement learning approach",
+          "journal": "CCF Transactions on Pervasive Computing and Interaction",
+          "volume_issue_pages": "vol. 6, no. 4, pp. 348-364",
+          "year": "2024",
+          "notes": "EI"
+        },
+        {
+          "id": "11",
+          "authors": [
+            "Lei Mo",
+            "Xinmei Li",
+            "Angeliki Kritikakou",
+            "Pengcheng You"
+          ],
+          "title": "Optimal IC task mapping to maximize QoS on heterogeneous multicore systems",
+          "journal": "IEEE Transactions on Circuits and Systems-II: Express Briefs (TCAS-II)",
+          "volume_issue_pages": "vol. 71, no. 4, pp. 2019-2023",
+          "year": "2024",
+          "notes": "SCI, IF 4.4"
+        },
+        {
+          "id": "12",
+          "authors": [
+            "Chaoqun Yang",
+            "Lei Mo",
+            "Xianghui Cao",
+            "Heng Zhang",
+            "Zhiguo Shi"
+          ],
+          "title": "A labeled RFS-based framework for multiple integrity attackers detection and identification in cyber-physical systems",
+          "journal": "IEEE Internet of Things Journal (JIOT)",
+          "volume_issue_pages": "vol. 10, no. 21, pp. 19244-19256",
+          "year": "2023",
+          "notes": "SCI, IF 9.515, CCF C"
+        },
+        {
+          "id": "13",
+          "authors": [
+            "Lei Mo",
+            "Qi Zhou",
+            "Angeliki Kritikakou",
+            "Xianghui Cao"
+          ],
+          "title": "Energy optimized task mapping for reliable and real-time networked systems",
+          "journal": "ACM Transactions on Sensor Networks (TOSN)",
+          "volume_issue_pages": "vol. 19, no. 4, pp. 1-26",
+          "year": "2023",
+          "notes": "SCI, IF 2.560, CCF B"
+        },
+        {
+          "id": "14",
+          "authors": [
+            "Ji Liu",
+            "Lei Mo",
+            "Sijia Yang",
+            "Jingbo Zhou",
+            "Shilei Ji",
+            "Haoyi Xiong",
+            "Dejing Dou"
+          ],
+          "title": "Data placement for multi-tenant data federation on the cloud",
+          "journal": "IEEE Transactions on Cloud Computing (TCC)",
+          "volume_issue_pages": "vol. 11, no. 2, pp. 1414-1429",
+          "year": "2023",
+          "notes": "SCI, IF 5.938, CCF C"
+        },
+        {
+          "id": "15",
+          "authors": [
+            "Ji Liu",
+            "Xuehai Zhou",
+            "Lei Mo",
+            "Shilei Ji",
+            "Yuan Liao",
+            "Zheng Li",
+            "Qin Gu",
+            "Dejing Dou"
+          ],
+          "title": "Distributed and deep vertical federated learning with big data",
+          "journal": "Concurrency and Computation: Practice and Experience",
+          "volume_issue_pages": "vol. 35, no. 21, pp. 1-15",
+          "year": "2023",
+          "notes": "SCI, CCF C"
+        },
+        {
+          "id": "16",
+          "authors": [
+            "Minyu Cui",
+            "Angeliki Kritikakou",
+            "Lei Mo",
+            "Emmanuel Casseau"
+          ],
+          "title": "Near-optimal energy-efficient partial-duplication mapping of real-time parallel applications",
+          "journal": "Journal of Systems Architecture (JSA)",
+          "volume_issue_pages": "vol. 134, pp. 102790",
+          "year": "2023",
+          "notes": "SCI, IF 5.836, CCF B"
+        },
+        {
+          "id": "17",
+          "authors": [
+            "Xinmei Li",
+            "Lei Mo",
+            "Angeliki Kritikakou",
+            "Olivier Sentieys"
+          ],
+          "title": "Approximation-aware task deployment on heterogeneous multi-core platforms with DVFS",
+          "journal": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)",
+          "volume_issue_pages": "vol. 42, no. 7, pp. 2108-2121",
+          "year": "2023",
+          "notes": "SCI, IF 2.565, CCF A"
+        },
+        {
+          "id": "18",
+          "authors": [
+            "Ji Liu",
+            "Carlyna Bondiombouy",
+            "Lei Mo",
+            "Patrick Valduriez"
+          ],
+          "title": "Two-phase scheduling for efficient vehicle sharing",
+          "journal": "IEEE Transactions on Intelligent Transportation Systems (TITS)",
+          "volume_issue_pages": "vol. 23, no. 1, pp. 457-470",
+          "year": "2022",
+          "notes": "SCI, IF 6.319, CCF B"
+        },
+        {
+          "id": "19",
+          "authors": [
+            "Minyu Cui",
+            "Angeliki Kritikakou",
+            "Lei Mo",
+            "Emmanuel Casseau"
+          ],
+          "title": "Energy-efficient partial-duplication task mapping under multiple DVFS schemes",
+          "journal": "International Journal of Parallel Programming",
+          "volume_issue_pages": "vol. 50, pp. 267-294",
+          "year": "2022",
+          "notes": "SCI"
+        },
+        {
+          "id": "20",
+          "authors": [
+            "Lei Mo",
+            "Angeliki Kritikakou",
+            "Olivier Sentieys",
+            "Xianghui Cao"
+          ],
+          "title": "Real-time imprecise computation tasks mapping for DVFS-enabled networked systems",
+          "journal": "IEEE Internet of Things Journal (JIOT)",
+          "volume_issue_pages": "vol. 8, no. 10, pp. 8246-8258",
+          "year": "2021",
+          "notes": "SCI, IF 9.515, CCF C"
+        },
+        {
+          "id": "21",
+          "authors": [
+            "Lei Mo",
+            "Pengcheng You",
+            "Xianghui Cao",
+            "Yeqiong Song",
+            "Angeliki Kritikakou"
+          ],
+          "title": "Event-driven joint mobile actuators scheduling and control in cyber-physical systems",
+          "journal": "IEEE Transactions on Industrial Informatics (TII)",
+          "volume_issue_pages": "vol. 15, no. 11, pp. 5877-5891",
+          "year": "2019",
+          "notes": "SCI, IF 7.377, CCF C"
+        },
+        {
+          "id": "22",
+          "authors": [
+            "Lei Mo",
+            "Angeliki Kritikakou",
+            "Shibo He"
+          ],
+          "title": "Energy-aware multiple mobile-chargers coordination for wireless rechargeable sensor networks",
+          "journal": "IEEE Internet of Things Journal (JIOT)",
+          "volume_issue_pages": "vol. 6, no. 5, pp. 8202-8214",
+          "year": "2019",
+          "notes": "SCI, IF 9.515, CCF C"
+        },
+        {
+          "id": "23",
+          "authors": [
+            "Lei Mo",
+            "Angeliki Kritikakou"
+          ],
+          "title": "Mapping imprecise computation tasks on cyber-physical systems",
+          "journal": "Peer-to-Peer Networking and Applications",
+          "volume_issue_pages": "vol. 6, no. 12, pp. 1726-1740",
+          "year": "2019",
+          "notes": "SCI, CCF C"
+        },
+        {
+          "id": "24",
+          "authors": [
+            "Lei Mo",
+            "Angeliki Kritikakou",
+            "Olivier Sentieys"
+          ],
+          "title": "Energy-quality-time optimized task mapping on DVFS-enabled multicores",
+          "journal": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)",
+          "volume_issue_pages": "vol. 37, no. 11, pp. 2428-2439",
+          "year": "2018",
+          "notes": "SCI, IF 2.565, CCF A"
+        },
+        {
+          "id": "25",
+          "authors": [
+            "Lei Mo",
+            "Angeliki Kritikakou",
+            "Olivier Sentieys"
+          ],
+          "title": "Controllable QoS for imprecise computation tasks on DVFS multicores with time and energy constraints",
+          "journal": "IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS)",
+          "volume_issue_pages": "vol. 8, no. 4, pp. 708-721",
+          "year": "2018",
+          "notes": "SCI, IF 3.433"
+        },
+        {
+          "id": "26",
+          "authors": [
+            "Lei Mo",
+            "Xianghui Cao",
+            "Yeqiong Song",
+            "Angeliki Kritikakou"
+          ],
+          "title": "Distributed node coordination for real-time energy-constrained control in wireless sensor and actuator networks",
+          "journal": "IEEE Internet of Things Journal (JIOT)",
+          "volume_issue_pages": "vol. 5, no. 5, pp. 4151-4163",
+          "year": "2018",
+          "notes": "SCI, IF 9.515, CCF C"
+        },
+        {
+          "id": "27",
+          "authors": [
+            "Lei Mo",
+            "Bugong Xu"
+          ],
+          "title": "Adaptive filtering based collaborative actuation for wireless sensor and actuator networks",
+          "journal": "International Journal of Ad Hoc and Ubiquitous Computing",
+          "volume_issue_pages": "vol. 20, no. 4, pp. 223-236",
+          "year": "2015",
+          "notes": "SCI"
+        },
+        {
+          "id": "28",
+          "authors": [
+            "Lei Mo",
+            "Bugong Xu"
+          ],
+          "title": "Coordination mechanism based on mobile actuator design for wireless sensor and actuator networks",
+          "journal": "Wireless Communications and Mobile Computing",
+          "volume_issue_pages": "vol. 15, pp. 1274-1289",
+          "year": "2015",
+          "notes": "SCI"
+        },
+        {
+          "id": "29",
+          "authors": [
+            "Hua Liu",
+            "Liu Guiyun",
+            "Yonggui Liu",
+            "Lei Mo",
+            "Hongbin Chen"
+          ],
+          "title": "Adaptive quantization for distributed estimation in energy-harvesting wireless sensor networks: a game-theoretic approach",
+          "journal": "International Journal of Distributed Sensor Networks",
+          "volume_issue_pages": "vol. 2014, pp. 1-9",
+          "year": "2014",
+          "notes": "SCI"
+        },
+        {
+          "id": "30",
+          "authors": [
+            "Lei Mo",
+            "Bugong Xu",
+            "Xiaoping You",
+            "Longqing Liu"
+          ],
+          "title": "Distributed lighting system based on wireless sensor and actuator network",
+          "journal": "Ad Hoc and Sensor Wireless Networks",
+          "volume_issue_pages": "vol. 20, no. 2, pp. 21-46",
+          "year": "2013",
+          "notes": "SCI"
+        },
+        {
+          "id": "31",
+          "authors": [
+            "Lei Mo",
+            "Bugong Xu"
+          ],
+          "title": "Node coordination mechanism based on distributed estimation and control in wireless sensor and actuator networks",
+          "journal": "Journal of Control Theory and Applications",
+          "volume_issue_pages": "vol. 11, no. 4, pp. 570-578",
+          "year": "2013",
+          "notes": "EI"
+        },
+        {
+          "id": "32",
+          "authors": [
+            "Lei Mo",
+            "Bugong Xu"
+          ],
+          "title": "Distributed collaborative processing under communication delay over wireless sensor and actuator networks",
+          "journal": "International Journal of Computers, Communications and Control",
+          "volume_issue_pages": "vol. 7, no. 4, pp. 1841-9836",
+          "year": "2012",
+          "notes": "SCI"
+        }
+      ],
+      "conference_papers": [
+        {
+          "id": "01",
+          "authors": [
+            "Haotong Zhu",
+            "Xinmei Li",
+            "Jie Han",
+            "Lei Mo"
+          ],
+          "title": "Quality-aware offline-online hybrid scheduling for approximate computing tasks on multicores",
+          "conference": "Chinese Control and Decision Conference (CCDC)",
+          "location": "Nanjing, China",
+          "volume_issue_pages": "pp. 1-7",
+          "year": "2026",
+          "notes": "EI"
+        },
+        {
+          "id": "02",
+          "authors": [
+            "Ziyi Zhou",
+            "Jie Han",
+            "Lei Mo"
+          ],
+          "title": "Reliability-aware real-time task mapping for multi-server edge computing systems with DVFS",
+          "conference": "Youth Academic Annual Conference of Chinese Association of Automation (YAC)",
+          "location": "Zhengzhou, China",
+          "volume_issue_pages": "pp. 1-7",
+          "year": "2025",
+          "notes": "EI"
+        },
+        {
+          "id": "03",
+          "authors": [
+            "Junting Li",
+            "Keyi Jiao",
+            "Zhicheng Zhou",
+            "Shuang Duan",
+            "Lei Mo"
+          ],
+          "title": "A slotted Markov model for EDCA mechanism in QoS-aware industrial IoT networks: throughput and delay analysis under saturated condition",
+          "conference": "Youth Academic Annual Conference of Chinese Association of Automation (YAC)",
+          "location": "Zhengzhou, China",
+          "volume_issue_pages": "pp. 1-6",
+          "year": "2025",
+          "notes": "EI"
+        },
+        {
+          "id": "04",
+          "authors": [
+            "Jingxi Yao",
+            "Lei Mo",
+            "Jie Han",
+            "Dan Niu"
+          ],
+          "title": "Task scheduling and temperature optimization co-design for multi-core embedded systems",
+          "conference": "International Symposium of EDA (ISEDA)",
+          "location": "Hong Kong, China",
+          "volume_issue_pages": "pp. 1-6",
+          "year": "2025",
+          "notes": "EI"
+        },
+        {
+          "id": "05",
+          "authors": [
+            "Jingyi Zhang",
+            "Lei Mo",
+            "Xin Wang",
+            "Chaoqun Yang",
+            "Mufeng Wang",
+            "Dan Niu"
+          ],
+          "title": "Mixed criticality DAGs scheduling and performance optimization for heterogeneous multicore systems",
+          "conference": "Chinese Control and Decision Conference (CCDC)",
+          "location": "Xiamen, China",
+          "volume_issue_pages": "pp. 1-7",
+          "year": "2025",
+          "notes": "EI"
+        },
+        {
+          "id": "06",
+          "authors": [
+            "Jiahe Xu",
+            "Lei Mo"
+          ],
+          "title": "A multi-robot indoor coverage path planning method based on the improved BCD segmentation",
+          "conference": "Chinese Control and Decision Conference (CCDC)",
+          "location": "Xiamen, China",
+          "volume_issue_pages": "pp. 1-6",
+          "year": "2025",
+          "notes": "EI"
+        },
+        {
+          "id": "07",
+          "authors": [
+            "Haichuan Sun",
+            "Lei Mo"
+          ],
+          "title": "Enhanced robotic arm localization using UKF based on joint angles and camera observations",
+          "conference": "International Conference on Intelligent Robotics and Automatic Control (IRAC)",
+          "location": "Guangzhou, China",
+          "volume_issue_pages": "pp. 1-6",
+          "year": "2024",
+          "notes": "EI"
+        },
+        {
+          "id": "08",
+          "authors": [
+            "Yuan Gao",
+            "Heng Zhang",
+            "Xin Wang",
+            "Zhemin Sun",
+            "Chaoqun Yang",
+            "Lei Mo",
+            "Ming Yang",
+            "Xiaoming Wu"
+          ],
+          "title": "Data collection scheme for UAV in industrial environments with limited communication",
+          "conference": "International Conference on Autonomous Unmanned Systems (ICAUS)",
+          "location": "Shenyang, China",
+          "volume_issue_pages": "pp. 1-12",
+          "year": "2024",
+          "notes": "EI"
+        },
+        {
+          "id": "09",
+          "authors": [
+            "Yifan Gu",
+            "Chenhua Peng",
+            "Jianxin Zhou",
+            "Lei Mo",
+            "Chaoqun Yang",
+            "Heng Zhang"
+          ],
+          "title": "A lightweight UAV delivering order method based on dynamic environmental information",
+          "conference": "International Conference on Autonomous Unmanned Systems (ICAUS)",
+          "location": "Shenyang, China",
+          "volume_issue_pages": "pp. 1-10",
+          "year": "2024",
+          "notes": "EI"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,454 @@
+{
+  "clickable_links": [
+    {
+      "url": "https://automation.seu.edu.cn/24535/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL对应非师资栏目（党建风采）。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/32614/list.htm",
+      "anchor_text": "党务工作",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "锚文本明确表明非师资相关内容。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/24535/list.htm",
+      "anchor_text": "党建风采",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "锚文本明确表明非师资相关内容。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/32616/list.htm",
+      "anchor_text": "工会工作",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "锚文本明确表明非师资相关内容。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/ggw/list.htm",
+      "anchor_text": "关工委",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "锚文本明确表明非师资相关内容。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/main.htm",
+      "anchor_text": "首页",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "学院主页，非师资相关页面。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/32612/list.htm",
+      "anchor_text": "党群工作",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "锚文本明确表明非师资相关内容。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/2025/0810/c24535a536214/page.htm",
+      "anchor_text": "党建领航聚合力 科技赋能助南华｜“AI赋能改革路，青春淬炼启新程”系列党日活动纪实",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "链接是新闻/活动详情页。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/2025/0402/c24535a523863/page.htm",
+      "anchor_text": "星火映初心，学史践使命——东南大学自动化学院研究生党员开展“共和国科学家的东大印记”主题党日...",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "链接是新闻/活动详情页。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://mp.weixin.qq.com/s/GVL3Rr0aeHK3a3_uhqcG6w",
+      "anchor_text": "全面现代化的中国时间开始了",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部链接，锚文本表明非师资内容。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://mp.weixin.qq.com/s/giQX2Ugb5WCzAcEO1JlLoQ",
+      "anchor_text": "这些话，声声有力，振奋人心！",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部链接，锚文本表明非师资内容。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://mp.weixin.qq.com/s/rZplZGHSkQM3qV21Ox8IyQ",
+      "anchor_text": "二十大报告里，这些提法值得关注！",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部链接，锚文本表明非师资内容。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://mp.weixin.qq.com/s/iIHclScKDXKUuEIW9hX6Wg",
+      "anchor_text": "一图速览二十大报告",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部链接，锚文本表明非师资内容。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://mp.weixin.qq.com/s/aJwmP9DyueqoaVllyThLAQ",
+      "anchor_text": "自动化学院党委召开全体支部书记会议",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部链接，锚文本表明非师资内容。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://mp.weixin.qq.com/s/EYz6-QprDKVR18O-qV-Vtg",
+      "anchor_text": "自动化学院新任研究生党支部书记培训会成功召开",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部链接，锚文本表明非师资内容。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://mp.weixin.qq.com/s/oE4bSz90EXzfK8-rVhCmfw",
+      "anchor_text": "21-22学年党联年度总结暨换届竞选大会",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部链接，锚文本表明非师资内容。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://mp.weixin.qq.com/s/Yv-BLrQ8VwWEmqeps6RU8A",
+      "anchor_text": "2022-2023学年自动化学院研究生党支部联合中心第一次成员大会成功举办",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部链接，锚文本表明非师资内容。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://mp.weixin.qq.com/s/AiUJ3Q5Lgxahb06jhboMxg",
+      "anchor_text": "自动化学院党委组织师生观看二十大并召开座谈会",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部链接，锚文本表明非师资内容。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/2019/0612/c24535a277411/page.htm",
+      "anchor_text": "18级硕士第三党支部成员热议习近平总书记在纪念五四运动100周年大会上的重要讲话精神",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "链接是新闻/活动详情页。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://mp.weixin.qq.com/s/UrdRw0gQWY_PCQlVpL-uxQ",
+      "anchor_text": "2021年东南大学自动化学院研究生党支部标准化建设考核结果说明",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部链接，锚文本表明非师资内容。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://mp.weixin.qq.com/s/NkF6P3rpoNiUcPGxUBVrdA",
+      "anchor_text": "自动化学院党委组织组织集中观看《榜样6》学习暨预备党员宣誓仪式",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部链接，锚文本表明非师资内容。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/24535/list2.htm",
+      "anchor_text": "下一页>>",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "非师资列表的分页链接。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/24535/list8.htm",
+      "anchor_text": "尾页",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "非师资列表的分页链接。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_visitcount?siteId=338&type=2&columnId=24535",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "访问计数链接，非师资相关。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/32614/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL对应非师资栏目（党务工作）。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/32616/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "Missing data, but maintaining structure.",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/ggw/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/main.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/32612/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/2025/0810/c24535a536214/page.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/2025/0402/c24535a523863/page.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://mp.weixin.qq.com/s/GVL3Rr0aeHK3a3_uhqcG6w",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://mp.weixin.qq.com/s/giQX2Ugb5WCzAcEO1JlLoQ",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://mp.weixin.qq.com/s/rZplZGHSkQM3qV21Ox8IyQ",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://mp.weixin.qq.com/s/iIHclScKDXKUuEIW9hX6Wg",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://mp.weixin.qq.com/s/aJwmP9DyueqoaVllyThLAQ",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://mp.weixin.qq.com/s/EYz6-QprDKVR18O-qV-Vtg",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://mp.weixin.qq.com/s/oE4bSz90EXzfK8-rVhCmfw",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://mp.weixin.qq.com/s/Yv-BLrQ8VwWEmqeps6RU8A",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://mp.weixin.qq.com/s/AiUJ3Q5Lgxahb06jhboMxg",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/2019/0612/c24535a277411/page.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://mp.weixin.qq.com/s/UrdRw0gQWY_PCQlVpL-uxQ",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://mp.weixin.qq.com/s/NkF6P3rpoNiUcPGxUBVrdA",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/24535/list2.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/24535/list8.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "clickable_links": [
+    {
+      "url": "https://support.google.com/chrome/answer/6130773?hl=en",
+      "anchor_text": "Learn more about using Guest mode",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "Google支持页面，与教师信息无关",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://support.google.com/accounts?hl=en&p=account_iph",
+      "anchor_text": "Help",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "Google账户帮助页面，与教师信息无关",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://accounts.google.com/TOS?loc=US&hl=en&privacy=true",
+      "anchor_text": "Privacy",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "Google隐私政策页面，与教师信息无关",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://accounts.google.com/TOS?loc=US&hl=en",
+      "anchor_text": "Terms",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "Google服务条款页面，与教师信息无关",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://scholar.google.com/citations",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "Google学术引用，可能包含教师信息",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://support.google.com/chrome/answer/6130773?hl=en",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "Google支持页面，与教师信息无关",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://support.google.com/accounts?hl=en&p=account_iph",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "Google账户帮助页面，与教师信息无关",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://accounts.google.com/TOS?loc=US&hl=en&privacy=true",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "Google隐私政策页面，与教师信息无关",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://accounts.google.com/TOS?loc=US&hl=en",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "Google服务条款页面，与教师信息无关",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    }
+  ]
+}

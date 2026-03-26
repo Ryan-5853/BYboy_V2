@@ -6,6 +6,12 @@ from typing import TYPE_CHECKING, Any
 if TYPE_CHECKING:
     from byboy.packyapi.config import PackyConfig
 
+from byboy.llm.local_deadline_retry import (
+    LlmLocalDeadlineConfig,
+    llm_local_deadline_config_from_env,
+    run_async_with_deadline_retries,
+    run_sync_with_deadline_retries,
+)
 from byboy.llm.registry import ModelSlotRegistry
 from byboy.llm.route_spec import ChatMessage, RouteSpec
 from byboy.packyapi.claude import PackyClaudeClient
@@ -33,6 +39,7 @@ class LLMDispatcher:
         route_claude_clients: Mapping[str, PackyClaudeClient] | None = None,
         route_vision_openai_clients: Mapping[str, PackyAPIClient] | None = None,
         route_vision_claude_clients: Mapping[str, PackyClaudeClient] | None = None,
+        llm_local_deadline: LlmLocalDeadlineConfig | None = None,
     ) -> None:
         self._openai = openai_client
         self._claude = claude_client
@@ -57,6 +64,7 @@ class LLMDispatcher:
         self._routes: dict[str, RouteSpec] = {}
         if routes:
             self.update_routes(routes)
+        self._llm_local = llm_local_deadline or llm_local_deadline_config_from_env()
 
     @staticmethod
     def _normalize_slot_key(key: str) -> str:
@@ -175,6 +183,158 @@ class LLMDispatcher:
             )
         return self._vision_openai
 
+    def _complete_dispatch(
+        self,
+        resolved_key: str,
+        spec: RouteSpec,
+        messages: Sequence[ChatMessage],
+        call_kw: dict[str, Any],
+    ) -> str:
+        kw = dict(call_kw)
+        if spec.backend == "claude":
+            max_t = kw.pop("max_tokens", None) or 4096
+            return self._require_claude(resolved_key).messages_create(
+                model=spec.model,
+                messages=messages,
+                max_tokens=max_t,
+                **kw,
+            )
+        if spec.backend == "claude_vision":
+            max_t = kw.pop("max_tokens", None) or 4096
+            return self._require_vision_claude(resolved_key).messages_create(
+                model=spec.model,
+                messages=messages,
+                max_tokens=max_t,
+                **kw,
+            )
+        if spec.backend == "openai_vision":
+            return self._require_vision_openai(resolved_key).chat_completion(
+                model=spec.model,
+                messages=messages,
+                **kw,
+            )
+        return self._require_openai(resolved_key).chat_completion(
+            model=spec.model,
+            messages=messages,
+            **kw,
+        )
+
+    async def _acomplete_dispatch(
+        self,
+        resolved_key: str,
+        spec: RouteSpec,
+        messages: Sequence[ChatMessage],
+        call_kw: dict[str, Any],
+    ) -> str:
+        kw = dict(call_kw)
+        if spec.backend == "claude":
+            max_t = kw.pop("max_tokens", None) or 4096
+            return await self._require_claude(resolved_key).amessages_create(
+                model=spec.model,
+                messages=messages,
+                max_tokens=max_t,
+                **kw,
+            )
+        if spec.backend == "claude_vision":
+            max_t = kw.pop("max_tokens", None) or 4096
+            return await self._require_vision_claude(resolved_key).amessages_create(
+                model=spec.model,
+                messages=messages,
+                max_tokens=max_t,
+                **kw,
+            )
+        if spec.backend == "openai_vision":
+            return await self._require_vision_openai(resolved_key).achat_completion(
+                model=spec.model,
+                messages=messages,
+                **kw,
+            )
+        return await self._require_openai(resolved_key).achat_completion(
+            model=spec.model,
+            messages=messages,
+            **kw,
+        )
+
+    def _iter_complete_stream(
+        self,
+        resolved_key: str,
+        spec: RouteSpec,
+        messages: Sequence[ChatMessage],
+        call_kw: dict[str, Any],
+    ) -> Iterator[str]:
+        kw = dict(call_kw)
+        if spec.backend == "claude":
+            max_t = kw.pop("max_tokens", None) or 4096
+            yield from self._require_claude(resolved_key).messages_stream(
+                model=spec.model,
+                messages=messages,
+                max_tokens=max_t,
+                **kw,
+            )
+        elif spec.backend == "claude_vision":
+            max_t = kw.pop("max_tokens", None) or 4096
+            yield from self._require_vision_claude(resolved_key).messages_stream(
+                model=spec.model,
+                messages=messages,
+                max_tokens=max_t,
+                **kw,
+            )
+        elif spec.backend == "openai_vision":
+            yield from self._require_vision_openai(resolved_key).chat_completion_stream(
+                model=spec.model,
+                messages=messages,
+                **kw,
+            )
+        else:
+            yield from self._require_openai(resolved_key).chat_completion_stream(
+                model=spec.model,
+                messages=messages,
+                **kw,
+            )
+
+    async def _iter_acomplete_stream(
+        self,
+        resolved_key: str,
+        spec: RouteSpec,
+        messages: Sequence[ChatMessage],
+        call_kw: dict[str, Any],
+    ) -> AsyncIterator[str]:
+        kw = dict(call_kw)
+        if spec.backend == "claude":
+            max_t = kw.pop("max_tokens", None) or 4096
+            async for part in self._require_claude(resolved_key).amessages_stream(
+                model=spec.model,
+                messages=messages,
+                max_tokens=max_t,
+                **kw,
+            ):
+                yield part
+        elif spec.backend == "claude_vision":
+            max_t = kw.pop("max_tokens", None) or 4096
+            async for part in self._require_vision_claude(resolved_key).amessages_stream(
+                model=spec.model,
+                messages=messages,
+                max_tokens=max_t,
+                **kw,
+            ):
+                yield part
+        elif spec.backend == "openai_vision":
+            async for part in self._require_vision_openai(
+                resolved_key
+            ).achat_completion_stream(
+                model=spec.model,
+                messages=messages,
+                **kw,
+            ):
+                yield part
+        else:
+            async for part in self._require_openai(resolved_key).achat_completion_stream(
+                model=spec.model,
+                messages=messages,
+                **kw,
+            ):
+                yield part
+
     def complete(
         self,
         route_key: str | None,
@@ -183,32 +343,13 @@ class LLMDispatcher:
     ) -> str:
         resolved_key, spec = self._resolve_with_key(route_key)
         call_kw = self._merge_kwargs(spec, kwargs)
-        if spec.backend == "claude":
-            max_t = call_kw.pop("max_tokens", None) or 4096
-            return self._require_claude(resolved_key).messages_create(
-                model=spec.model,
-                messages=messages,
-                max_tokens=max_t,
-                **call_kw,
-            )
-        if spec.backend == "claude_vision":
-            max_t = call_kw.pop("max_tokens", None) or 4096
-            return self._require_vision_claude(resolved_key).messages_create(
-                model=spec.model,
-                messages=messages,
-                max_tokens=max_t,
-                **call_kw,
-            )
-        if spec.backend == "openai_vision":
-            return self._require_vision_openai(resolved_key).chat_completion(
-                model=spec.model,
-                messages=messages,
-                **call_kw,
-            )
-        return self._require_openai(resolved_key).chat_completion(
-            model=spec.model,
-            messages=messages,
-            **call_kw,
+        rk = route_key if route_key is not None else self._default_route
+        return run_sync_with_deadline_retries(
+            lambda: self._complete_dispatch(
+                resolved_key, spec, messages, dict(call_kw)
+            ),
+            self._llm_local,
+            what=f"complete({rk!r})",
         )
 
     async def acomplete(
@@ -219,32 +360,17 @@ class LLMDispatcher:
     ) -> str:
         resolved_key, spec = self._resolve_with_key(route_key)
         call_kw = self._merge_kwargs(spec, kwargs)
-        if spec.backend == "claude":
-            max_t = call_kw.pop("max_tokens", None) or 4096
-            return await self._require_claude(resolved_key).amessages_create(
-                model=spec.model,
-                messages=messages,
-                max_tokens=max_t,
-                **call_kw,
+        rk = route_key if route_key is not None else self._default_route
+
+        async def once() -> str:
+            return await self._acomplete_dispatch(
+                resolved_key, spec, messages, dict(call_kw)
             )
-        if spec.backend == "claude_vision":
-            max_t = call_kw.pop("max_tokens", None) or 4096
-            return await self._require_vision_claude(resolved_key).amessages_create(
-                model=spec.model,
-                messages=messages,
-                max_tokens=max_t,
-                **call_kw,
-            )
-        if spec.backend == "openai_vision":
-            return await self._require_vision_openai(resolved_key).achat_completion(
-                model=spec.model,
-                messages=messages,
-                **call_kw,
-            )
-        return await self._require_openai(resolved_key).achat_completion(
-            model=spec.model,
-            messages=messages,
-            **call_kw,
+
+        return await run_async_with_deadline_retries(
+            once,
+            self._llm_local,
+            what=f"acomplete({rk!r})",
         )
 
     def complete_stream(
@@ -255,34 +381,26 @@ class LLMDispatcher:
     ) -> Iterator[str]:
         resolved_key, spec = self._resolve_with_key(route_key)
         call_kw = self._merge_kwargs(spec, kwargs)
-        if spec.backend == "claude":
-            max_t = call_kw.pop("max_tokens", None) or 4096
-            yield from self._require_claude(resolved_key).messages_stream(
-                model=spec.model,
-                messages=messages,
-                max_tokens=max_t,
-                **call_kw,
+        rk = route_key if route_key is not None else self._default_route
+        if self._llm_local.deadline_sec is None:
+            yield from self._iter_complete_stream(
+                resolved_key, spec, messages, dict(call_kw)
             )
-        elif spec.backend == "claude_vision":
-            max_t = call_kw.pop("max_tokens", None) or 4096
-            yield from self._require_vision_claude(resolved_key).messages_stream(
-                model=spec.model,
-                messages=messages,
-                max_tokens=max_t,
-                **call_kw,
+            return
+
+        def once() -> str:
+            return "".join(
+                self._iter_complete_stream(
+                    resolved_key, spec, messages, dict(call_kw)
+                )
             )
-        elif spec.backend == "openai_vision":
-            yield from self._require_vision_openai(resolved_key).chat_completion_stream(
-                model=spec.model,
-                messages=messages,
-                **call_kw,
-            )
-        else:
-            yield from self._require_openai(resolved_key).chat_completion_stream(
-                model=spec.model,
-                messages=messages,
-                **call_kw,
-            )
+
+        text = run_sync_with_deadline_retries(
+            once,
+            self._llm_local,
+            what=f"complete_stream({rk!r})",
+        )
+        yield text
 
     async def acomplete_stream(
         self,
@@ -292,40 +410,28 @@ class LLMDispatcher:
     ) -> AsyncIterator[str]:
         resolved_key, spec = self._resolve_with_key(route_key)
         call_kw = self._merge_kwargs(spec, kwargs)
-        if spec.backend == "claude":
-            max_t = call_kw.pop("max_tokens", None) or 4096
-            async for part in self._require_claude(resolved_key).amessages_stream(
-                model=spec.model,
-                messages=messages,
-                max_tokens=max_t,
-                **call_kw,
+        rk = route_key if route_key is not None else self._default_route
+        if self._llm_local.deadline_sec is None:
+            async for part in self._iter_acomplete_stream(
+                resolved_key, spec, messages, dict(call_kw)
             ):
                 yield part
-        elif spec.backend == "claude_vision":
-            max_t = call_kw.pop("max_tokens", None) or 4096
-            async for part in self._require_vision_claude(resolved_key).amessages_stream(
-                model=spec.model,
-                messages=messages,
-                max_tokens=max_t,
-                **call_kw,
+            return
+
+        async def collect() -> str:
+            parts: list[str] = []
+            async for p in self._iter_acomplete_stream(
+                resolved_key, spec, messages, dict(call_kw)
             ):
-                yield part
-        elif spec.backend == "openai_vision":
-            async for part in self._require_vision_openai(
-                resolved_key
-            ).achat_completion_stream(
-                model=spec.model,
-                messages=messages,
-                **call_kw,
-            ):
-                yield part
-        else:
-            async for part in self._require_openai(resolved_key).achat_completion_stream(
-                model=spec.model,
-                messages=messages,
-                **call_kw,
-            ):
-                yield part
+                parts.append(p)
+            return "".join(parts)
+
+        text = await run_async_with_deadline_retries(
+            collect,
+            self._llm_local,
+            what=f"acomplete_stream({rk!r})",
+        )
+        yield text
 
     @classmethod
     def from_env(

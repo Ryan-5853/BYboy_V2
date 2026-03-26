@@ -1,0 +1,454 @@
+{
+  "clickable_links": [
+    {
+      "url": "https://automation.seu.edu.cn/24524/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL与锚文本（结合idx 4）显示为学工动态列表。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/24519/list.htm",
+      "anchor_text": "就业服务",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "锚文本明确指出是“就业服务”页面。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/32617/list.htm",
+      "anchor_text": "通知公告",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "锚文本明确指出是“通知公告”页面。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/24522/list.htm",
+      "anchor_text": "榜样力量",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "medium",
+      "category_reason": "锚文本“榜样力量”倾向于新闻或事迹，非导师信息。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/24524/list.htm",
+      "anchor_text": "学工动态",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "锚文本明确指出是“学工动态”页面。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/main.htm",
+      "anchor_text": "首页",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "锚文本明确指出是“首页”。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/32613/list.htm",
+      "anchor_text": "学生工作",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "锚文本明确指出是“学生工作”页面。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/2024/1204/c24524a513560/page.htm",
+      "anchor_text": "访企拓岗\\|东南大学自动化学院师生赴XBOTPARK机器人基地（常州）研学交流",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL模式和锚文本均为新闻/活动详情页。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/2024/1204/c24524a513559/page.htm",
+      "anchor_text": "访企拓岗\\|东南大学自动化学院师生赴多家单位开展校企交流活动",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL模式和锚文本均为新闻/活动详情页。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/2024/1204/c24524a513558/page.htm",
+      "anchor_text": "东南大学自动化学院赴建湖县开展访企拓岗促就业专项行动",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL模式和锚文本均为新闻/活动详情页。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/2023/1212/c24524a474528/page.htm",
+      "anchor_text": "东南大学自动化学院召开2024届毕业生赴基层就业动员大会",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL模式和锚文本均为新闻/活动详情页。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/2023/1212/c24524a474523/page.htm",
+      "anchor_text": "自动化学院召开2024届毕业班专题年级大会",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL模式和锚文本均为新闻/活动详情页。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_redirect?siteId=338&columnId=24524&articleId=428928",
+      "anchor_text": "自动化学院2022甲“自”风华迎新晚会圆满落幕",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL包含articleId且锚文本为活动标题，新闻/活动详情页。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_redirect?siteId=338&columnId=24524&articleId=428233",
+      "anchor_text": "自动化学院举办2022－2023学年自动化学院学生骨干培训班第二次培训",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL包含articleId且锚文本为活动标题，新闻/活动详情页。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_redirect?siteId=338&columnId=24524&articleId=428232",
+      "anchor_text": "自动化学院顺利举办2022年第二期“磐石计划”主题团日活动立项答辩活动",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL包含articleId且锚文本为活动标题，新闻/活动详情页。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_redirect?siteId=338&columnId=24524&articleId=428231",
+      "anchor_text": "自动化学院顺利举办本科生社区焕然一“新”主题劳动教育评比活动",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL包含articleId且锚文本为活动标题，新闻/活动详情页。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_redirect?siteId=338&columnId=24524&articleId=428228",
+      "anchor_text": "自动化学院举办2022-2023学年SRTP宣讲会",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL包含articleId且锚文本为活动标题，新闻/活动详情页。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_redirect?siteId=338&columnId=24524&articleId=428227",
+      "anchor_text": "自动化学院顺利举办2022-2023学年学生骨干培训班开班仪式",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL包含articleId且锚文本为活动标题，新闻/活动详情页。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_redirect?siteId=338&columnId=24524&articleId=428226",
+      "anchor_text": "自动化学院成功举办2022年秋季田径运动会",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL包含articleId且锚文本为活动标题，新闻/活动详情页。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_redirect?siteId=338&columnId=24524&articleId=428225",
+      "anchor_text": "自动化学院顺利举办“拨云见月，自见风采”至善学子宣讲活动",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL包含articleId且锚文本为活动标题，新闻/活动详情页。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_redirect?siteId=338&columnId=24524&articleId=428218",
+      "anchor_text": "自动化学院顺利举办“薪火计划”本科生党员骨干上团课活动",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL包含articleId且锚文本为活动标题，新闻/活动详情页。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/24524/list2.htm",
+      "anchor_text": "下一页>>",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "指向学工动态（c24524）的下一页，非导师列表。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/24524/list14.htm",
+      "anchor_text": "尾页",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "指向学工动态（c24524）的尾页，非导师列表。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_visitcount?siteId=338&type=2&columnId=24524",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "访问计数器URL，非内容页。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/24519/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL指向“就业服务”页面（同idx 1）。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/32617/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL指向“通知公告”页面（同idx 2）。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/24522/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "medium",
+      "category_reason": "URL指向“榜样力量”页面（同idx 3）。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/main.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL指向“首页”（同idx 5）。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/32613/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL指向“学生工作”页面（同idx 6）。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/2024/1204/c24524a513560/page.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL模式为新闻/活动详情页（同idx 7）。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/2024/1204/c24524a513559/page.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL模式为新闻/活动详情页（同idx 8）。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/2024/1204/c24524a513558/page.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL模式为新闻/活动详情页（同idx 9）。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/2023/1212/c24524a474528/page.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL模式为新闻/活动详情页（同idx 10）。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/2023/1212/c24524a474523/page.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL模式为新闻/活动详情页（同idx 11）。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_redirect?siteId=338&columnId=24524&articleId=428928",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL包含articleId，为新闻/活动详情页（同idx 12）。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_redirect?siteId=338&columnId=24524&articleId=428233",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL包含articleId，为新闻/活动详情页（同idx 13）。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_redirect?siteId=338&columnId=24524&articleId=428232",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL包含articleId，为新闻/活动详情页（同idx 14）。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_redirect?siteId=338&columnId=24524&articleId=428231",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL包含articleId，为新闻/活动详情页（同idx 15）。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_redirect?siteId=338&columnId=24524&articleId=428228",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL包含articleId，为新闻/活动详情页（同idx 16）。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_redirect?siteId=338&columnId=24524&articleId=428227",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL包含articleId，为新闻/活动详情页（同idx 17）。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_redirect?siteId=338&columnId=24524&articleId=428226",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL包含articleId，为新闻/活动详情页（同idx 18）。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_redirect?siteId=338&columnId=24524&articleId=428225",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL包含articleId，为新闻/活动详情页（同idx 19）。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_redirect?siteId=338&columnId=24524&articleId=428218",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL包含articleId，为新闻/活动详情页（同idx 20）。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/24524/list2.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "指向学工动态（c24524）的下一页（同idx 21），非导师列表。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/24524/list14.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "指向学工动态（c24524）的尾页（同idx 22），非导师列表。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "tutor_name_cn": "高斌",
+    "request_url": "http://faculty.uestc.edu.cn/gaobin/zh_CN/lwcg/153392/list/index.htm",
+    "declared_source_url": "http://faculty.uestc.edu.cn/gaobin/zh_CN/lwcg/153392/list/index.htm",
+    "page_host": "faculty.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/7db5726dd864f09d33cd8f11d97784c7d8a7aab8827cf8457b8631a5b66a6b69.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "source_url": "http://faculty.uestc.edu.cn/gaobin/zh_CN/lwcg/153392/list/index.htm",
+    "personal_info": {
+      "name": "高斌",
+      "image_url": "https://faculty.uestc.edu.cn/__local/C/76/78/8962B15F23431AFE4E3A17C7715_A6CAA5B0_3E2C1.png",
+      "praise_count": 1000,
+      "gender": "男"
+    },
+    "professional_details": {
+      "titles": [
+        "教授",
+        "博士生导师"
+      ],
+      "disciplines": [
+        "信号与信息处理",
+        "测试计量技术及仪器",
+        "检测技术与自动化装置"
+      ]
+    },
+    "education_info": {
+      "degree_level": "博士研究生毕业",
+      "degree_awarded": "哲学博士学位"
+    },
+    "contact_info": {
+      "office_location": "C2-403",
+      "general_contact_method": "bin_gao@uestc.edu.cn",
+      "email": "bin_gao@uestc.edu.cn"
+    },
+    "site_metadata": {
+      "visit_count": "0000192750",
+      "page_opened_date": "2017.7.26",
+      "last_updated_date": "2026.3.23"
+    },
+    "site_chrome": {
+      "navigation_links": [
+        {
+          "anchor_text": "同专业博导",
+          "url": "https://faculty.uestc.edu.cn/gaobin/zh_CN/tzybd/153392/list/index.htm"
+        }
+      ],
+      "breadcrumbs": [
+        {
+          "anchor_text": "中文主页",
+          "url": "https://faculty.uestc.edu.cn/gaobin/zh_CN/index.htm"
+        },
+        {
+          "anchor_text": "科学研究",
+          "url": "https://faculty.uestc.edu.cn/gaobin/zh_CN/zhym/153388/list/index.htm"
+        },
+        {
+          "anchor_text": "论文成果",
+          "url": "https://faculty.uestc.edu.cn/gaobin/zh_CN/lwcg/153392/list/index.htm"
+        }
+      ],
+      "pagination": {}
+    }
+  }
+}

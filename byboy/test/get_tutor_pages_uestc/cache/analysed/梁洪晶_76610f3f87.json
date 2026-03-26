@@ -1,0 +1,170 @@
+{
+  "meta": {
+    "tutor_name_cn": "梁洪晶",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1161/4279.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1161/4279.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/bc0b381ebb3798d271ded3891f45218d8b80ee6d72e88396f790d8b5cfe708ac.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "query_name": "梁洪晶",
+    "source_url": "https://www.auto.uestc.edu.cn/info/1161/4279.htm",
+    "site_chrome": {
+      "source_capture_info": "抓取来源：https://www.auto.uestc.edu.cn/info/1161/4279.htm",
+      "breadcrumbs": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "L",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/L.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "navigation_links": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ],
+      "section_titles": [
+        "师资队伍",
+        "师资队伍"
+      ]
+    },
+    "professor_info": {
+      "name": "梁洪晶",
+      "profile_picture": {
+        "url": "https://www.auto.uestc.edu.cn/__local/E/7D/B7/410EB1B11C79BD96307F75549D3_E8E3FA79_23C8CE.jpg",
+        "alt_text": null
+      },
+      "highest_degree": "博士",
+      "contact_phone": null,
+      "title_position": "教授",
+      "email": "lianghongjing@uestc.edu.cn",
+      "supervisor_status": "博士生导师",
+      "personal_homepage": null,
+      "research_team": "自动化前沿与交叉中心"
+    },
+    "main_research_directions": [
+      "智能自适应控制",
+      "群体智能"
+    ],
+    "academic_titles_and_concurrent_posts": [
+      "科睿唯安全球高被引科学家",
+      "四川省杰青"
+    ],
+    "education_and_work_experience": [
+      {
+        "period": "2021.12至今",
+        "organization": "电子科技大学",
+        "position": "特聘研究员",
+        "type": "work"
+      },
+      {
+        "period": "2016.05-2021.11",
+        "organization": "渤海大学",
+        "position": "副教授",
+        "type": "work"
+      },
+      {
+        "period": "2019.04-2019.08",
+        "organization": "德克萨斯A&M大学卡塔尔分校(Texas A&M University at Qatar)",
+        "position": "助理研究员",
+        "type": "work"
+      },
+      {
+        "period": "2019.01-2022.01",
+        "organization": "东南大学数学学院",
+        "position": "博士后",
+        "type": "work"
+      },
+      {
+        "period": "2011.09-2016.05",
+        "organization": "东北大学信息科学与工程学院",
+        "position": "博士",
+        "type": "education"
+      }
+    ],
+    "scientific_research_details": {
+      "description": "目前主要的研究方向是多智能体系统智能自适应控制，多智能体系统输出调节、包含控制、集群编队等。",
+      "projects": [
+        "主持国家自然科学基金面上项目等7项"
+      ],
+      "publications": {
+        "books": [
+          "出版英文专著1部"
+        ],
+        "papers": [
+          "在国外权威期刊发表（含录用）学术论文一百余篇",
+          "其中SCI检索65篇",
+          "IEEE Trans 系列论文30余篇"
+        ]
+      },
+      "editorial_roles": [
+        "国际SCI期刊Fluctuation and Noise Letters编委",
+        "国际SCI期刊International Journal of Fuzzy Systems 编委"
+      ]
+    },
+    "teaching_courses_and_research": [
+      {
+        "category": "研究生课程",
+        "name": "智能控制"
+      }
+    ],
+    "admission_majors": {
+      "masters": [
+        {
+          "code": "081100",
+          "name": "控制科学与工程"
+        },
+        {
+          "code": "085406",
+          "name": "控制工程"
+        }
+      ],
+      "doctors": [
+        {
+          "code": "081100",
+          "name": "控制科学与工程"
+        },
+        {
+          "code": "085400",
+          "name": "电子信息"
+        },
+        {
+          "code": "086100",
+          "name": "交通运输"
+        }
+      ]
+    }
+  }
+}

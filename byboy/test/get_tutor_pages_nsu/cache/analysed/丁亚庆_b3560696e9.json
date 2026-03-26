@@ -1,0 +1,411 @@
+{
+  "meta": {
+    "tutor_name_cn": "丁亚庆",
+    "request_url": "http://automation.seu.edu.cn/dyq/list.htm",
+    "declared_source_url": "http://automation.seu.edu.cn/dyq/list.htm",
+    "page_host": "automation.seu.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/ae12b22a9c677e81b39e780f6f3287bd08823295074a15199e113c8ca1783f83.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "source_url": "http://automation.seu.edu.cn/dyq/list.htm",
+    "target_person_name": "丁亚庆",
+    "basic_info": {
+      "name": "丁亚庆",
+      "titles_positions": [
+        "东南大学青年首席教授",
+        "博导",
+        "硕导",
+        "国家高层次青年人才"
+      ],
+      "education_summary_text": "2012年本科毕业于东南大学信息科学与工程学院，随后工作两年；2017年和2021年分别在南京信息工程大学和南京理工大学获得硕士、博士学位。",
+      "work_experience_summary_text": "2022-2026期间先后在瑞典隆德大学和捷克理工大学从事博士后研究工作。",
+      "publications_summary_text": "已在国际顶级期刊或会议上发表30余篇学术论文，主要包括IEEE T-PAMI, IJCV, CVPR, ICCV, ECCV等。",
+      "academic_service_summary_text": "担任 ECCV 2026 Area Chair，CVPR, ICCV, ECCV, ICRA等多个国际会议的审稿人，以及国际期刊 IEEE T-PAMI、IJCV、IEEE T-IP、IEEE T-RO 等权威期刊审稿人。",
+      "research_interests": {
+        "三维视觉": [
+          "位姿估计",
+          "视觉定位",
+          "三维重建",
+          "新视角合成",
+          "VLA"
+        ],
+        "代数几何": [
+          "计算机视觉中的代数几何问题"
+        ]
+      },
+      "admissions_statement": "目前招收本科生、硕士生和博士生，欢迎对计算机视觉、机器人及相关方向感兴趣的同学加入。",
+      "funding_and_support_statement": "经费充足，支持开展前沿研究，积极指导投稿国际顶级会议和期刊，论文被接收后将支持出国参加学术会议进行交流。"
+    },
+    "education_background": [
+      {
+        "degree": "博士",
+        "institution": "南京理工大学",
+        "department": "计算机科学与工程学院"
+      },
+      {
+        "degree": "硕士",
+        "institution": "南京信息工程大学",
+        "department": "自动化学院"
+      },
+      {
+        "degree": "本科",
+        "institution": "东南大学",
+        "department": "信息科学与工程学院"
+      }
+    ],
+    "work_experience": [
+      {
+        "start_date": "2026.03",
+        "end_date": "今",
+        "organization": "东南大学自动化学院",
+        "position": "教授"
+      },
+      {
+        "start_date": "2024.01",
+        "end_date": "2026.03",
+        "organization": "捷克理工大学",
+        "position": "博士后研究员"
+      },
+      {
+        "start_date": "2022.01",
+        "end_date": "2024.01",
+        "organization": "瑞典隆德大学",
+        "position": "博士后研究员"
+      },
+      {
+        "start_date": "2012.07",
+        "end_date": "2014.08",
+        "organization": null,
+        "position": "搬砖 🧱"
+      }
+    ],
+    "academic_activities": [
+      {
+        "date": "2026.03",
+        "description": "ECCV 2026 Area Chair"
+      },
+      {
+        "date": "2025.10",
+        "description": "ICCV 2025 12分钟Oral口头报告，美国夏威夷"
+      },
+      {
+        "date": "2025.06",
+        "description": "CVPR 2025 杰出审稿人"
+      },
+      {
+        "date": "2024.07",
+        "description": "欧洲代数视觉与机器学期研讨会30分钟报告，捷克布拉格"
+      },
+      {
+        "date": "2023.10",
+        "description": "ICCV 2023 10分钟Oral口头报告，法国巴黎"
+      },
+      {
+        "date": "2021.10",
+        "description": "ICCV 2021 5分钟Oral口头报告，在线报告"
+      },
+      {
+        "date": "2019.10",
+        "description": "ICCV 2019 5分钟Oral口头报告，韩国首尔"
+      }
+    ],
+    "collaborators": {
+      "international_collaborators": [
+        {
+          "name": "Jean Ponce",
+          "affiliation": "法国 PRAIRIE 人工智能研究中心",
+          "role": "主任"
+        },
+        {
+          "name": "Kalle Astrom",
+          "affiliation": "瑞典隆德大学",
+          "role": "ECCV26 General Chair"
+        },
+        {
+          "name": "Viktor Larsson",
+          "affiliation": "瑞典隆德大学",
+          "role": null
+        },
+        {
+          "name": "Torsten Sattler",
+          "affiliation": "捷克理工大学",
+          "role": "T-PAMI副主编, ECCV24 Program Chair"
+        },
+        {
+          "name": "Zuzana Kukelova",
+          "affiliation": "捷克理工大学",
+          "role": "ECCV26 Program Chair"
+        },
+        {
+          "name": "Benjamin Kimia",
+          "affiliation": "美国布朗大学",
+          "role": null
+        },
+        {
+          "name": "Daniel Barath",
+          "affiliation": "瑞士 ETH",
+          "role": null
+        },
+        {
+          "name": "芬兰、斯洛伐克等机构的研究人员",
+          "affiliation": null,
+          "role": null
+        },
+        {
+          "name": "Nvidia 公司",
+          "affiliation": null,
+          "role": null
+        }
+      ],
+      "student_exchange_recommendation_statement": "对于表现优秀的学生，将积极联系并推荐赴欧洲高校开展访学交流或联合培养。"
+    },
+    "supervised_students": [
+      {
+        "name": "吴千亮",
+        "cohort_affiliation": "南理工25届博",
+        "current_status": "现南通大学副教授",
+        "co_supervisor_marker": "¹"
+      },
+      {
+        "name": "龚家荣",
+        "cohort_affiliation": "瑞典隆德大学23届硕",
+        "current_status": "现林雪平大学读博",
+        "co_supervisor_marker": null
+      },
+      {
+        "name": "林宪辉",
+        "cohort_affiliation": "南理工21届硕",
+        "current_status": "阿里千问",
+        "co_supervisor_marker": "²"
+      },
+      {
+        "name": "殷宁",
+        "cohort_affiliation": "南理工22届硕",
+        "current_status": "智元机器人",
+        "co_supervisor_marker": "²"
+      },
+      {
+        "name": "沙昂",
+        "cohort_affiliation": "南理工23届硕",
+        "current_status": "上海银行，总行金融科技部",
+        "co_supervisor_marker": "¹"
+      },
+      {
+        "name": "齐新磊",
+        "cohort_affiliation": "南理工23届硕",
+        "current_status": "百度地图",
+        "co_supervisor_marker": "¹"
+      }
+    ],
+    "student_co_supervisors": [
+      {
+        "name": "杨健",
+        "marker": "¹"
+      },
+      {
+        "name": "孔慧",
+        "marker": "²"
+      }
+    ],
+    "publications": {
+      "representative_papers": [
+        {
+          "authors": "Y. Ding, J. Yang, J. Ponce, and H. Kong",
+          "title": "Homography-based minimal-case relative pose estimation with known gravity direction",
+          "venue": "T-PAMI",
+          "year": "2022",
+          "remarks": "CCF-A类期刊"
+        },
+        {
+          "authors": "Y. Ding, J. Yang, Z. Kukelova",
+          "title": "Homography Decomposition Revisited",
+          "venue": "IJCV",
+          "year": "2026",
+          "remarks": "CCF-A类期刊"
+        },
+        {
+          "authors": "Y. Ding, V. Kocur, V. Vavra, Z. Haladova, J. Yang, T. Sattler, Z. Kukelova",
+          "title": "RePoseD: Efficient Relative Pose Estimation With Known Depth Information",
+          "venue": "ICCV, Oral",
+          "year": "2025",
+          "remarks": "CCF-A类会议"
+        },
+        {
+          "authors": "Y. Ding, V. Kocur, Z. Haladova, Q. Wu, S. Cai, J. Yang, and Z. Kukelova",
+          "title": "Three-view focal length recovery from homographies",
+          "venue": "CVPR",
+          "year": "2025",
+          "remarks": "CCF-A类会议"
+        },
+        {
+          "authors": "Y. Ding, J. Astermark, M. Oskarsson, and V. Larsson",
+          "title": "Noisy one-point homographies are surprisingly good",
+          "venue": "CVPR",
+          "year": "2024",
+          "remarks": "CCF-A类会议"
+        },
+        {
+          "authors": "Y. Ding, V. Vavra, S. Bhayani, Q. Wu, J. Yang, and Z. Kukelova",
+          "title": "Fundamental matrix estimation using relative depths",
+          "venue": "ECCV",
+          "year": "2024",
+          "remarks": "CCF-B类会议"
+        },
+        {
+          "authors": "Y. Ding, C. Chien, V. Larsson, K. Astrom, and Benjamin Kimia",
+          "title": "Minimal solutions to generalized three-view relative pose problem",
+          "venue": "ICCV, Oral",
+          "year": "2023",
+          "remarks": "CCF-A类会议"
+        },
+        {
+          "authors": "Y. Ding, J. Yang, V. Larsson, C. Olsson, and K. Astrom",
+          "title": "Revisiting the p3p problem",
+          "venue": "CVPR",
+          "year": "2023",
+          "remarks": "CCF-A类会议 (被 [OpenCV](https://github.com/opencv/opencv/blob/4.x/modules/calib3d/src/p3p.cpp), [OpenMVG](https://github.com/openMVG/openMVG/blob/develop/src/openMVG/multiview/solver_resection_p3p_ding.hpp), [PoseLib](https://github.com/PoseLib/PoseLib/blob/master/PoseLib/solvers/p3p.cc) 等知名开源库收录)"
+        },
+        {
+          "authors": "Y. Ding, D. Barath, J. Yang, and Z. Kukelova",
+          "title": "Relative pose from a calibrated and an uncalibrated smartphone image",
+          "venue": "CVPR",
+          "year": "2022",
+          "remarks": "CCF-A类会议"
+        },
+        {
+          "authors": "Y. Ding, D. Barath, and Z. Kukelova",
+          "title": "Minimal solutions for panoramic stitching given gravity prior",
+          "venue": "ICCV, Oral",
+          "year": "2021",
+          "remarks": "CCF-A类会议"
+        },
+        {
+          "authors": "Y. Ding, D. Barath, J. Yang, H. Kong, and Zuzana Kukelova",
+          "title": "Globally optimal relative pose estimation with gravity prior",
+          "venue": "CVPR",
+          "year": "2021",
+          "remarks": "CCF-A类会议"
+        },
+        {
+          "authors": "Y. Ding, J. Yang, J. Ponce, and H. Kong",
+          "title": "Minimal solutions to relative pose estimation from two views sharing a common direction with unknown focal length",
+          "venue": "CVPR",
+          "year": "2020",
+          "remarks": "CCF-A类会议"
+        },
+        {
+          "authors": "Y. Ding, J. Yang, J. Ponce, and H. Kong",
+          "title": "An efficient solution to the homography-based relative pose problem with a common reference direction",
+          "venue": "ICCV, Oral",
+          "year": "2019",
+          "remarks": "CCF-A类会议"
+        }
+      ],
+      "other_papers": [
+        {
+          "authors": "V. Kocur, C. Tzamos, Y. Ding, Z. Haladova, T. Sattler, and Z. Kukelova",
+          "title": "Are minimal radial distortion solvers really necessary for relative pose estimation?",
+          "venue": "IJCV",
+          "year": "2026",
+          "remarks": "CCF-A类期刊"
+        },
+        {
+          "authors": "V. Panek, Q. Zhou, Y. Ding, S. Agostinho, Z. Kukelova, T. Sattler, and L. Leal-Taixe",
+          "title": "A guide to structureless visual localization",
+          "venue": "IJCV",
+          "year": "2026",
+          "remarks": "CCF-A类期刊"
+        },
+        {
+          "authors": "Q. Wu, Y. Ding, Jin Xie, and J. Yang",
+          "title": "Efficient minimal solvers for relative pose estimation with known rotation angle",
+          "venue": "IEEE Robotics and Automation Letters",
+          "year": "2025",
+          "remarks": "中科院二区"
+        },
+        {
+          "authors": "C. Tzamos, V. Kocur, Y. Ding, D. Barath, Z. Haladova, T. Sattler, and Z. Kukelova",
+          "title": "Practical solutions to the relative pose of three calibrated cameras",
+          "venue": "CVPR",
+          "year": "2025",
+          "remarks": "CCF-A类会议"
+        },
+        {
+          "authors": "Q. Wu, Y. Ding, L. Luo, H. Jiang, S. Gu, C. Zhou, J. Xie, and J. Yang",
+          "title": "Sgnet: salient geometric network for point cloud registration",
+          "venue": "IROS",
+          "year": "2024",
+          "remarks": "机器人顶级会议"
+        },
+        {
+          "authors": "Q. Wu, H. Jiang, L. Luo, J. Li, Y. Ding, J. Xie, and J. Yang",
+          "title": "Diff-reg: Diffusion model in doubly stochastic matrix space for registration problem",
+          "venue": "ECCV",
+          "year": "2024",
+          "remarks": "CCF-B类会议"
+        },
+        {
+          "authors": "J. Astermark, Y. Ding, V. Larsson, and A. Heyden",
+          "title": "Fast relative pose estimation using relative depth",
+          "venue": "In 2024 International Conference on 3D Vision (3DV)",
+          "year": "2024",
+          "remarks": null
+        },
+        {
+          "authors": "Q. Wu, Y. Shen, H. Jiang, G. Mei, Y. Ding, L. Luo, J. Xie, and J. Yang",
+          "title": "Graph matching optimization network for point cloud registration",
+          "venue": "IROS",
+          "year": "2023",
+          "remarks": "机器人顶级会议"
+        },
+        {
+          "authors": "Q. Wu, Y. Ding, X. Qi, J. Xie, and J. Yang",
+          "title": "Globally optimal relative pose estimation for multi-camera systems with known gravity direction",
+          "venue": "ICRA",
+          "year": "2022",
+          "remarks": "机器人顶级会议"
+        },
+        {
+          "authors": "Y. Ding, Y. Su, C. Xu, J. Yang, and H. Kong",
+          "title": "A general elimination strategy for camera motion estimation",
+          "venue": "ICRA",
+          "year": "2021",
+          "remarks": "机器人顶级会议"
+        },
+        {
+          "authors": "D. Barath, Y. Ding, Z. Kukelova, and V. Larsson",
+          "title": "Image stitching with locally shared rotation axis",
+          "venue": "In 2021 International Conference on 3D Vision (3DV)",
+          "year": "2021",
+          "remarks": null
+        },
+        {
+          "authors": "Y. Ding, J. Yang, and H. Kong",
+          "title": "An efficient solution to the relative pose estimation with a common direction",
+          "venue": "ICRA",
+          "year": "2020",
+          "remarks": "机器人顶级会议"
+        }
+      ]
+    },
+    "site_chrome": {
+      "header_image_url": "https://automation.seu.edu.cn/dyq/list.htm",
+      "navigation_link_placeholders": [
+        "教育背景",
+        "工作经历",
+        "学术兼职",
+        "所获奖励",
+        "讲授课程",
+        "学生培养",
+        "研究兴趣",
+        "科研项目",
+        "论文发表"
+      ],
+      "footer_tracking_pixel_url": "https://automation.seu.edu.cn/_visitcount?siteId=338&type=2&columnId=67072"
+    }
+  }
+}

@@ -1,0 +1,355 @@
+{
+  "clickable_links": [
+    {
+      "url": "http://www.uestc.edu.cn/",
+      "anchor_text": "电子科技大学",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "大学主页，与导师信息无关。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/bidongjie/zh_CN/index/169592/list/index.htm",
+      "anchor_text": "中文版",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "包含导师姓名，是其个人主页。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.uestc.edu.cn/bidongjie/en/index.htm",
+      "anchor_text": "English",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "导师个人主页的英文版。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/__local/E/03/6D/F54DF556BE955C0A33A986EC9F2_F98AA0B5_73F2.png",
+      "anchor_text": "![",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "图片链接，非导师个人信息页。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/_ts/dzzw03/images/nav-menu.png",
+      "anchor_text": "![",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "图片链接，非导师个人信息页。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/bidongjie/zh_CN/index/169592/list/index.htm",
+      "anchor_text": "首页",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "导师个人主页。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/bidongjie/zh_CN/zhym/169593/list/index.htm",
+      "anchor_text": "科学研究",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "导师个人主页内“科学研究”页面。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/bidongjie/zh_CN/kyxm/169594/list/index.htm",
+      "anchor_text": "科研项目",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "导师个人主页内“科研项目”页面。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/bidongjie/zh_CN/zzcg/169595/list/index.htm",
+      "anchor_text": "著作成果",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "导师个人主页内“著作成果”页面。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/bidongjie/zh_CN/zlcg/169596/list/index.htm",
+      "anchor_text": "专利",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "导师个人主页内“专利”页面。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/bidongjie/zh_CN/lwcg/169597/list/index.htm",
+      "anchor_text": "论文成果",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "导师个人主页内“论文成果”页面。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/bidongjie/zh_CN/yjgk/169598/list/index.htm",
+      "anchor_text": "研究领域",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "导师个人主页内“研究领域”页面。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/bidongjie/zh_CN/zhym/169599/list/index.htm",
+      "anchor_text": "教学研究",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "导师个人主页内“教学研究”页面。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/bidongjie/zh_CN/jxcg/169600/list/index.htm",
+      "anchor_text": "教学成果",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "导师个人主页内“教学成果”页面。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/bidongjie/zh_CN/skxx/169601/list/index.htm",
+      "anchor_text": "授课信息",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "导师个人主页内“授课信息”页面。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/bidongjie/zh_CN/jxzy/169602/list/index.htm",
+      "anchor_text": "教学资源",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "导师个人主页内“教学资源”页面。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/bidongjie/zh_CN/hjxx/169603/list/index.htm",
+      "anchor_text": "获奖信息",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "导师个人主页内“获奖信息”页面。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/bidongjie/zh_CN/zsxx/169604/list/index.htm",
+      "anchor_text": "招生信息",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "导师个人主页内“招生信息”页面。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/bidongjie/zh_CN/article/169607/list/index.htm",
+      "anchor_text": "教师博客",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "导师个人主页内“教师博客”页面。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/__local/0/30/90/C83EA30BFE7109CBCADE2B8A196_8CE73D9A_22A55.png",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "图片链接，非导师个人信息页。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/bidongjie/zh_CN/index/169592/list/index.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "导师个人主页。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://www.uestc.edu.cn/",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "大学主页，与导师信息无关。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "http://faculty.uestc.edu.cn/bidongjie/en/index.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "导师个人主页的英文版。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/__local/E/03/6D/F54DF556BE955C0A33A986EC9F2_F98AA0B5_73F2.png",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "图片链接，非导师个人信息页。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "http://faculty.uestc.edu.cn/",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "教师主页根目录，可能为导师名录入口。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/_ts/dzzw03/images/nav-menu.png",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "图片链接，非导师个人信息页。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/bidongjie/zh_CN/zhym/169593/list/index.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "导师个人主页内详细信息页面。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/bidongjie/zh_CN/kyxm/169594/list/index.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "导师个人主页内详细信息页面。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/bidongjie/zh_CN/zzcg/169595/list/index.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "导师个人主页内详细信息页面。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/bidongjie/zh_CN/zlcg/169596/list/index.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "导师个人主页内详细信息页面。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/bidongjie/zh_CN/lwcg/169597/list/index.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "导师个人主页内详细信息页面。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/bidongjie/zh_CN/yjgk/169598/list/index.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "导师个人主页内详细信息页面。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/bidongjie/zh_CN/zhym/169599/list/index.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "导师个人主页内详细信息页面。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/bidongjie/zh_CN/jxcg/169600/list/index.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "导师个人主页内详细信息页面。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/bidongjie/zh_CN/skxx/169601/list/index.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "导师个人主页内详细信息页面。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/bidongjie/zh_CN/jxzy/169602/list/index.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "导师个人主页内详细信息页面。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/bidongjie/zh_CN/hjxx/169603/list/index.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "导师个人主页内详细信息页面。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/bidongjie/zh_CN/zsxx/169604/list/index.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "导师个人主页内详细信息页面。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/bidongjie/zh_CN/article/169607/list/index.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "导师个人主页内“教师博客”页面。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    }
+  ]
+}

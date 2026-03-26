@@ -1,0 +1,324 @@
+{
+  "meta": {
+    "tutor_name_cn": "洪丹枫",
+    "request_url": "http://automation.seu.edu.cn/hdf/list.htm",
+    "declared_source_url": "http://automation.seu.edu.cn/hdf/list.htm",
+    "page_host": "automation.seu.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/f4fadc5e65fcf144578c3ad862462e216a7f97a262f89acf7110210c026ae5ae.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "site_chrome": {
+      "source_url": "http://automation.seu.edu.cn/hdf/list.htm",
+      "image_placeholders": [
+        {
+          "url": "https://automation.seu.edu.cn/hdf/list.htm",
+          "alt_text": ""
+        }
+      ],
+      "visit_counter_image": {
+        "url": "https://automation.seu.edu.cn/_visitcount?siteId=338&type=2&columnId=62388"
+      }
+    },
+    "personal_info": {
+      "name": "洪丹枫",
+      "current_titles": [
+        "东南大学教授",
+        "博士生导师",
+        "硕士生导师"
+      ],
+      "contact_email": "danfeng.hong@seu.edu.cn"
+    },
+    "biography_summary": "洪丹枫，东南大学教授，博士生导师，硕士生导师，德国洪堡学者，日本JSPS学者，国家级青年人才，科睿唯安全球“高被引科学家”，全球前2%顶尖科学家。德国慕尼黑工业大学（TUM）博士，曾为德国宇航中心（DLR）研究员兼“光谱视觉”课题组组长、法国格勒诺布尔阿尔卑斯大学-傅立叶实验室（GIPSA Lab）客座研究员、德国亥姆霍兹联合会人工智能研究院（HACUI）AI科研顾问。",
+    "research_directions_overview": [
+      "人工智能",
+      "多模态遥感",
+      "大模型",
+      "高光谱成像",
+      "地球科学",
+      "智能感知",
+      "计算机视觉"
+    ],
+    "publications_summary_metrics": {
+      "total_papers": "200余篇",
+      "journals_conferences": [
+        "NRMP",
+        "IEEE TPAMI",
+        "IEEE TIP",
+        "IEEE GRSM",
+        "IEEE TCYB",
+        "IEEE TNNLS",
+        "RSE",
+        "ISPRS",
+        "The Innovation",
+        "The Innovation Geoscience",
+        "CVPR",
+        "ECCV",
+        "NeurIPS",
+        "AAAI",
+        "ACMMM"
+      ],
+      "esi_hot_papers": "24篇",
+      "esi_highly_cited_papers": "63篇",
+      "google_scholar_citations": "26000+"
+    },
+    "awards_summary_overview": [
+      "《麻省理工科技评论》-- 中国智能计算创新人物奖",
+      "中国指挥与控制学会青年科技奖",
+      "IEEE GRSS Highest Impact Paper Award",
+      "IEEE GRSS 杰出青年奖（Early Career Award）",
+      "AI100青年先锋",
+      "Remote Sensing青年科学家奖",
+      "国际高光谱顶级会议WHISPERS杰出论文奖（Jose Bioucas Dias奖、Paul Gader奖）",
+      "IEEE TGRS最佳审稿人奖",
+      "IEEE JSTARS最佳审稿人奖",
+      "国家优秀自费留学生奖学金",
+      "Wiley中国开放科学高贡献作者奖",
+      "遥感新势力奖"
+    ],
+    "recruitment_message": "热忱欢迎数学、物理、计算机科学、人工智能、自动化、电子信息、地学等相关背景的优秀同学加入我们的团队，攻读硕士、博士学位，或从事博士后研究。",
+    "education_background": [],
+    "work_experience": [
+      {
+        "start_date": "2025.08",
+        "end_date": "至今",
+        "institution": "东南大学",
+        "position": "教授"
+      },
+      {
+        "start_date": "2024",
+        "end_date": "2025.07",
+        "institution": "遥感与数字地球全国重点实验室",
+        "position": "副主任"
+      },
+      {
+        "start_date": "2023.10",
+        "end_date": "2025.07",
+        "institution": "中国科学院大学",
+        "position": "岗位教授"
+      },
+      {
+        "start_date": "2022.04",
+        "end_date": "2025.07",
+        "institution": "中国科学院空天信息创新研究院",
+        "position": "研究员"
+      },
+      {
+        "start_date": "2020.01",
+        "end_date": "2021.12",
+        "institution": "法国格勒诺布尔阿尔卑斯大学-傅里叶实验室",
+        "position": "客座研究员"
+      },
+      {
+        "start_date": "2019.09",
+        "end_date": "2021.10",
+        "institution": "德国宇航中心(DLR)",
+        "position": "研究员、光谱视觉课题组组长"
+      },
+      {
+        "start_date": "2018.03",
+        "end_date": "2018.07",
+        "institution": "法国格勒诺布尔阿尔卑斯大学-傅里叶实验室",
+        "position": "访问学者"
+      },
+      {
+        "start_date": "2015.09",
+        "end_date": "2019.08",
+        "institution": "德国宇航中心/慕尼黑工业大学",
+        "position": "副研究员"
+      }
+    ],
+    "academic_affiliations_and_services": [
+      {
+        "start_date": "2025.11",
+        "end_date": "至今",
+        "organization": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+        "role": "副主编"
+      },
+      {
+        "start_date": "2025.07",
+        "end_date": "至今",
+        "organization": "IEEE Transactions on Computational Imaging",
+        "role": "资深领域编委"
+      },
+      {
+        "start_date": "2025.04",
+        "end_date": "至今",
+        "organization": "Information Fusion",
+        "role": "领域编委"
+      },
+      {
+        "start_date": "2024.12",
+        "end_date": "至今",
+        "organization": "The Innovation",
+        "role": "青年编委"
+      },
+      {
+        "start_date": "2024.12",
+        "end_date": "至今",
+        "organization": "国际数字地球学会中国国家委员会青年科学家工作委员会",
+        "role": "副主任委员"
+      },
+      {
+        "start_date": "2024.11",
+        "end_date": "至今",
+        "organization": "遥感学报",
+        "role": "青年编委"
+      },
+      {
+        "start_date": "2024.06",
+        "end_date": "至今",
+        "organization": "IEEE Transactions on Image Processing",
+        "role": "副主编"
+      },
+      {
+        "start_date": "2024.03",
+        "end_date": "至今",
+        "organization": "Information Fusion",
+        "role": "编委"
+      },
+      {
+        "start_date": "2023.07",
+        "end_date": "至今",
+        "organization": "中国指挥与控制学会多域态势感知与认知专业委员会",
+        "role": "委员"
+      },
+      {
+        "start_date": "2022.11",
+        "end_date": "至今",
+        "organization": "中国测绘学会摄影测量与遥感专业委员会",
+        "role": "委员"
+      },
+      {
+        "start_date": "2022.08",
+        "end_date": "至今",
+        "organization": "中国指挥与控制学会青年工作委员会",
+        "role": "委员"
+      },
+      {
+        "start_date": "2022.08",
+        "end_date": "至今",
+        "organization": "中国图象图形学学会遥感图像专业委员会",
+        "role": "委员"
+      },
+      {
+        "start_date": "2022.06",
+        "end_date": "至今",
+        "organization": "ISPRS Journal of Photogrammetry and Remote Sensing",
+        "role": "编委"
+      },
+      {
+        "start_date": "2022.06",
+        "end_date": "至今",
+        "organization": "测绘学报（英文版）",
+        "role": "编委"
+      },
+      {
+        "start_date": "2022.03",
+        "end_date": "至今",
+        "organization": "IEEE国际高光谱图像与信号处理（WHISPERS）技术委员会",
+        "role": "委员"
+      },
+      {
+        "start_date": "2021.04",
+        "end_date": "至今",
+        "organization": "IEEE Transactions on Geoscience and Remote Sensing",
+        "role": "副主编"
+      }
+    ],
+    "awards_and_honors": [
+      {
+        "year": "2025",
+        "award": "IEEE GRSS Highest Impact Paper Award"
+      },
+      {
+        "year": "2025",
+        "award": "《麻省理工科技评论》-- AI100 青年先锋"
+      },
+      {
+        "year": "2024",
+        "award": "科睿唯安2024年度全球“高被引科学家”"
+      },
+      {
+        "year": "2024",
+        "award": "中国指挥与控制学会青年科技奖"
+      },
+      {
+        "year": "2024",
+        "award": "《麻省理工科技评论》-- 中国智能计算创新人物奖"
+      },
+      {
+        "year": "2024",
+        "award": "全球前2%顶尖科学家榜单"
+      },
+      {
+        "year": "2024",
+        "award": "国际高光谱图像与信息处理研讨会（WHISPERS）杰出学生论文奖（Paul Gader奖）"
+      },
+      {
+        "year": "2023",
+        "award": "遥感新势力"
+      },
+      {
+        "year": "2023",
+        "award": "科睿唯安2023年度全球“高被引科学家”"
+      },
+      {
+        "year": "2023",
+        "award": "中国开放科学高贡献作者奖"
+      },
+      {
+        "year": "2022",
+        "award": "科睿唯安2022年度全球“高被引科学家”"
+      },
+      {
+        "year": "2023",
+        "award": "全球前2%顶尖科学家榜单"
+      },
+      {
+        "year": "2022",
+        "award": "IEEE GRSS Early Career Award (杰出青年奖)"
+      },
+      {
+        "year": "2022",
+        "award": "国家优秀自费留学生奖学金"
+      },
+      {
+        "year": "2022",
+        "award": "IEEE JSTARS Best Reviewer Award"
+      },
+      {
+        "year": "2022",
+        "award": "IEEE TGRS Best Reviewer Award"
+      },
+      {
+        "year": "2022",
+        "award": "Remote Sensing Young Investigator Award （青年科学家奖)"
+      },
+      {
+        "year": "2022",
+        "award": "全球前2%顶尖科学家榜单"
+      },
+      {
+        "year": "2021",
+        "award": "国际高光谱图像与信息处理研讨会（WHISPERS）杰出论文奖（Jose Bioucas Dias奖）"
+      },
+      {
+        "year": "2021",
+        "award": "IEEE TGRS Best Reviewer Award"
+      },
+      {
+        "year": "2019",
+        "award": "慕尼黑工业大学最佳博士论文奖"
+      }
+    ],
+    "courses_taught": [],
+    "student_mentoring": [],
+    "research_interests_detailed": "长期从事人工智能、多模态遥感、大模型、计算机视觉、高光谱成像、地球科学等领域，与德国、法国、英国、日本、新加坡等顶级高校和研究所长期合作。",
+    "research_projects": [],
+    "publications_list": []
+  }
+}

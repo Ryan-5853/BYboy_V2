@@ -1,0 +1,136 @@
+{
+  "meta": {
+    "tutor_name_cn": "彭杰钢",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1165/4359.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1165/4359.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/5058643d5a516bfb34f4230e7306c31713b7e73703d540d10608486548dbb9bd.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "site_chrome": {
+      "source_url": "https://www.auto.uestc.edu.cn/info/1165/4359.htm",
+      "breadcrumbs": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "P",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/P.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "navigation_links": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ]
+    },
+    "person_info": {
+      "name": "彭杰钢",
+      "profile_image": {
+        "url": "https://www.auto.uestc.edu.cn/__local/4/24/3C/3B283C42BDFD7E2ABB81E7A4529_ECC8AE28_798D1.png",
+        "description": "彭杰钢"
+      },
+      "highest_degree": "博士",
+      "phone": null,
+      "title_position": "教授",
+      "email": "pengjiegang@uestc.edu.cn",
+      "supervisor_status": "博士导师",
+      "personal_homepage": null,
+      "research_team": "移动计算中心"
+    },
+    "main_research_directions": [
+      "传感技术",
+      "机器人技术"
+    ],
+    "academic_titles_and_affiliations": [],
+    "education_work_experience": [
+      {
+        "date": "2005.11 至今",
+        "description": "电子科技大学，自动化工程学院，副教授"
+      },
+      {
+        "date": "2003.10-2005.10",
+        "description": "清华大学精仪系，助理研究员（博士后）"
+      },
+      {
+        "date": "1993.07-1997.09",
+        "description": "核工业西南物理研究院二所"
+      }
+    ],
+    "scientific_research": {
+      "summary": "主持或完成国家自然科学基金，高等学校博士学科点新教师专项科研基金项目，中央高校基本业务项目等多项科研项目。已发表30余篇学术论文，其中第一作者SCI论文10余篇，ESI他引40余次。独立编著十三五规划教材《传感器原理及应用》。申请发明专利六项。",
+      "projects": [
+        "国家自然科学基金",
+        "高等学校博士学科点新教师专项科研基金项目",
+        "中央高校基本业务项目"
+      ],
+      "publications": {
+        "total_papers": "30余篇",
+        "first_author_sci_papers": "10余篇",
+        "esi_citations": "40余次"
+      },
+      "textbooks": [
+        "十三五规划教材《传感器原理及应用》"
+      ],
+      "patents": "六项"
+    },
+    "teaching_courses_and_research": {
+      "undergraduate_courses": [
+        "传感器原理及应用",
+        "机械工程基础"
+      ],
+      "graduate_courses": [
+        "现代检测技术"
+      ],
+      "teaching_positions": null,
+      "teaching_research_projects": [
+        "参与教学方法与考核方法改革示范课“过程控制系统”建设",
+        "主持《传感器原理》在线开放课程",
+        "主持《“互联网+”新型传感技术课程的教学培养体系建设》2018年高等学校仪器类专业新工科建设项目"
+      ]
+    },
+    "admission_programs": {
+      "masters": [
+        "080400仪器科学与技术",
+        "085400电子信息"
+      ],
+      "doctors": [
+        "080400仪器科学与技术",
+        "085400电子信息",
+        "086100交通运输",
+        "081100控制科学与工程",
+        "085400电子信息"
+      ]
+    }
+  }
+}

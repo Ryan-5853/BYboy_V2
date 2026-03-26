@@ -1,0 +1,1075 @@
+{
+  "clickable_links": [
+    {
+      "url": "https://www.auto.uestc.edu.cn/index.htm",
+      "anchor_text": "首页",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "网站首页，内容广泛，非导师信息或列表。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm",
+      "anchor_text": "师资队伍",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL和锚文本都明确指向师资队伍页面。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm",
+      "anchor_text": "教师名录",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL和锚文本都明确指示为教师名录。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm",
+      "anchor_text": "正高级",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL和锚文本表明是按职称分类的导师列表。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm",
+      "anchor_text": "教师名录总览页",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL和锚文本明确指出是教师名录总览页。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsml/fgj.htm",
+      "anchor_text": "副高级",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL和锚文本表明是按职称分类的导师列表。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zj.htm",
+      "anchor_text": "中级",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL和锚文本表明是按职称分类的导师列表。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsml/cj.htm",
+      "anchor_text": "初级",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL和锚文本表明是按职称分类的导师列表。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsml/bsh.htm",
+      "anchor_text": "博士后",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL和锚文本表明是博士后人员列表。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsml/bssds.htm",
+      "anchor_text": "博士生导师",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL和锚文本表明是博士生导师列表。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsml/sssds.htm",
+      "anchor_text": "硕士生导师",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL和锚文本表明是硕士生导师列表。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm",
+      "anchor_text": "全部",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "指向教师名录总览页，表示显示所有导师。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/A.htm",
+      "anchor_text": "A",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "教师名录按字母索引分页，包含导师信息。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/B.htm",
+      "anchor_text": "B",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "教师名录按字母索引分页，包含导师信息。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/C.htm",
+      "anchor_text": "C",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "教师名录按字母索引分页，包含导师信息。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/D.htm",
+      "anchor_text": "D",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "教师名录按字母索引分页，包含导师信息。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/E.htm",
+      "anchor_text": "E",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "教师名录按字母索引分页，包含导师信息。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/F.htm",
+      "anchor_text": "F",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "教师名录按字母索引分页，包含导师信息。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/G.htm",
+      "anchor_text": "G",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "教师名录按字母索引分页，包含导师信息。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/H.htm",
+      "anchor_text": "H",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "教师名录按字母索引分页，包含导师信息。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/I.htm",
+      "anchor_text": "I",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "教师名录按字母索引分页，包含导师信息。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/J.htm",
+      "anchor_text": "J",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "教师名录按字母索引分页，包含导师信息。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/K.htm",
+      "anchor_text": "K",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "教师名录按字母索引分页，包含导师信息。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/L.htm",
+      "anchor_text": "L",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "教师名录按字母索引分页，包含导师信息。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/M.htm",
+      "anchor_text": "M",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "教师名录按字母索引分页，包含导师信息。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/N.htm",
+      "anchor_text": "N",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "教师名录按字母索引分页，包含导师信息。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/O.htm",
+      "anchor_text": "O",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "教师名录按字母索引分页，包含导师信息。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/P.htm",
+      "anchor_text": "P",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "教师名录按字母索引分页，包含导师信息。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/Q.htm",
+      "anchor_text": "Q",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "教师名录按字母索引分页，包含导师信息。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/R.htm",
+      "anchor_text": "R",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "教师名录按字母索引分页，包含导师信息。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/S.htm",
+      "anchor_text": "S",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "教师名录按字母索引分页，包含导师信息。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/T.htm",
+      "anchor_text": "T",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "教师名录按字母索引分页，包含导师信息。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/U.htm",
+      "anchor_text": "U",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "教师名录按字母索引分页，包含导师信息。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/V.htm",
+      "anchor_text": "V",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "教师名录按字母索引分页，包含导师信息。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/W.htm",
+      "anchor_text": "W",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "教师名录按字母索引分页，包含导师信息。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/X.htm",
+      "anchor_text": "X",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "教师名录按字母索引分页，包含导师信息。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/Y.htm",
+      "anchor_text": "Y",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "教师名录按字母索引分页，包含导师信息。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/Z.htm",
+      "anchor_text": "Z",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "教师名录按字母索引分页，包含导师信息。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/__local/8/EE/22/6B0111C6695D19D15CB10964800_1677A9D0_6E5E5.png",
+      "anchor_text": "![",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "图片文件，不包含导师信息。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/images/js-i.png",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "图片文件，不包含导师信息。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/__local/C/E4/02/CD4652D51940C35D70763852CA1_BE075B0A_4C89.jpg",
+      "anchor_text": "![",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "图片文件，不包含导师信息。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/__local/1/13/82/33212CBDB07CD7074D7337FBE8D_0B1D2301_161E2B.jpg",
+      "anchor_text": "![",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "图片文件，不包含导师信息。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/__local/6/9B/EF/78D45609A199D236A3023D06907_F37FD2CF_4ECA.jpg",
+      "anchor_text": "![",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "图片文件，不包含导师信息。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/__local/C/DE/76/223DE50B92684202B02431783B7_FB27AEE0_78B08.jpg",
+      "anchor_text": "![",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "图片文件，不包含导师信息。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/__local/E/A5/A3/45F302A3CABE94C82344AAB9E2C_ED1C3EFD_254FC.png",
+      "anchor_text": "![",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "图片文件，不包含导师信息。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/__local/F/0D/DE/0D2DB7C90F2679A669A4BF0061D_5DC560B9_4E8C0.jpg",
+      "anchor_text": "![",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "图片文件，不包含导师信息。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/__local/2/8F/81/E4DFBA4D494B00CE0C6B98DD3A8_5141CDBB_4C7D1.jpg",
+      "anchor_text": "![",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "图片文件，不包含导师信息。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/__local/7/15/AF/122BC926BEE3118A4E2B61E77F5_337D284C_47319.jpg",
+      "anchor_text": "![",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "图片文件，不包含导师信息。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/__local/1/A1/6E/36ECB0CEB4E5195FC211C9561E7_8AE95111_4A67E.jpg",
+      "anchor_text": "![",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "图片文件，不包含导师信息。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm",
+      "anchor_text": "首页",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "URL指向导师分类列表页，锚文本可能指该列表页的首页。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj/4.htm",
+      "anchor_text": "上页",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL路径和锚文本（上页）表明是教师名录分页。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm",
+      "anchor_text": "1",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL路径和锚文本（1）表明是教师名录的页码。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj/5.htm",
+      "anchor_text": "3",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL路径和锚文本（3）表明是教师名录分页。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj/4.htm",
+      "anchor_text": "4",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL路径和锚文本（4）表明是教师名录分页。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj/2.htm",
+      "anchor_text": "6",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL路径和锚文本（6）表明是教师名录分页。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj/1.htm",
+      "anchor_text": "7",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL路径和锚文本（7）表明是教师名录分页。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj/2.htm",
+      "anchor_text": "下页",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL路径和锚文本（下页）表明是教师名录分页。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj/1.htm",
+      "anchor_text": "尾页",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL路径和锚文本（尾页）表明是教师名录分页。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj/3.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL路径包含“jsml/zgj”，很可能是教师名录分页。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/index.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "网站首页，与导师信息不直接相关。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL路径“szdw/jsml/zgj”表明是教师名录子分类。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL路径“szdw/jsml”表明是教师名录主页。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL路径“szdw/jsmlzly”表明是教师名录字母索引页。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsml/fgj.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL路径“szdw/jsml/fgj”表明是教师名录子分类。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zj.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL路径“szdw/jsml/zj”表明是教师名录子分类。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsml/cj.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL路径“szdw/jsml/cj”表明是教师名录子分类。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsml/bsh.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL路径“szdw/jsml/bsh”表明是教师名录子分类（博士后）。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsml/bssds.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL路径“szdw/jsml/bssds”表明是教师名录子分类（博士生导师）。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsml/sssds.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL路径“szdw/jsml/sssds”表明是教师名录子分类（硕士生导师）。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/A.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL路径“jsmlzly/A”表明是教师名录字母索引分页。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/B.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL路径“jsmlzly/B”表明是教师名录字母索引分页。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/C.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL路径“jsmlzly/C”表明是教师名录字母索引分页。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/D.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL路径“jsmlzly/D”表明是教师名录字母索引分页。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/E.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL路径“jsmlzly/E”表明是教师名录字母索引分页。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/F.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL路径“jsmlzly/F”表明是教师名录字母索引分页。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/G.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL路径“jsmlzly/G”表明是教师名录字母索引分页。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/H.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL路径“jsmlzly/H”表明是教师名录字母索引分页。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/I.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL路径“jsmlzly/I”表明是教师名录字母索引分页。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/J.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL路径“jsmlzly/J”表明是教师名录字母索引分页。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/K.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL路径“jsmlzly/K”表明是教师名录字母索引分页。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/L.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL路径“jsmlzly/L”表明是教师名录字母索引分页。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/M.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL路径“jsmlzly/M”表明是教师名录字母索引分页。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/N.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL路径“jsmlzly/N”表明是教师名录字母索引分页。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/O.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL路径“jsmlzly/O”表明是教师名录字母索引分页。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/P.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL路径“jsmlzly/P”表明是教师名录字母索引分页。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/Q.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL路径“jsmlzly/Q”表明是教师名录字母索引分页。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/R.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL路径“jsmlzly/R”表明是教师名录字母索引分页。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/S.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL路径“jsmlzly/S”表明是教师名录字母索引分页。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/T.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL路径“jsmlzly/T”表明是教师名录字母索引分页。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/U.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL路径“jsmlzly/U”表明是教师名录字母索引分页。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/V.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL路径“jsmlzly/V”表明是教师名录字母索引分页。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/W.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL路径“jsmlzly/W”表明是教师名录字母索引分页。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/X.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL路径“jsmlzly/X”表明是教师名录字母索引分页。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/Y.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL路径“jsmlzly/Y”表明是教师名录字母索引分页。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/Z.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL路径“jsmlzly/Z”表明是教师名录字母索引分页。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/__local/8/EE/22/6B0111C6695D19D15CB10964800_1677A9D0_6E5E5.png",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "这是一个图片文件（.png），与导师信息无关。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1091/4178.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "medium",
+      "category_reason": "URL是通用信息页，无明确导师信息标识。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/__local/C/E4/02/CD4652D51940C35D70763852CA1_BE075B0A_4C89.jpg",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "这是一个图片文件（.jpg），与导师信息无关。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1091/4179.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "medium",
+      "category_reason": "URL是通用信息页，无明确导师信息标识。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/__local/1/13/82/33212CBDB07CD7074D7337FBE8D_0B1D2301_161E2B.jpg",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "这是一个图片文件（.jpg），与导师信息无关。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1091/8025.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "URL结构`/info/1091/XXXX.htm`像个人详情页。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/__local/6/9B/EF/78D45609A199D236A3023D06907_F37FD2CF_4ECA.jpg",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "链接直接指向图片文件，非信息页面。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1091/4180.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "URL结构`/info/1091/XXXX.htm`像个人详情页。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/__local/C/DE/76/223DE50B92684202B02431783B7_FB27AEE0_78B08.jpg",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "链接直接指向图片文件，非信息页面。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1091/5488.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "URL结构`/info/1091/XXXX.htm`像个人详情页。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/__local/E/A5/A3/45F302A3CABE94C82344AAB9E2C_ED1C3EFD_254FC.png",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "链接直接指向图片文件，非信息页面。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1091/4181.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "URL结构`/info/1091/XXXX.htm`像个人详情页。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/__local/F/0D/DE/0D2DB7C90F2679A669A4BF0061D_5DC560B9_4E8C0.jpg",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "链接直接指向图片文件，非信息页面。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1091/7998.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "URL结构`/info/1091/XXXX.htm`像个人详情页。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/__local/2/8F/81/E4DFBA4D494B00CE0C6B98DD3A8_5141CDBB_4C7D1.jpg",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "链接直接指向图片文件，非信息页面。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1091/7479.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "URL结构`/info/1091/XXXX.htm`像个人详情页。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/__local/7/15/AF/122BC926BEE3118A4E2B61E77F5_337D284C_47319.jpg",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "链接直接指向图片文件，非信息页面。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1091/4182.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "URL结构`/info/1091/XXXX.htm`像个人详情页。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/__local/1/A1/6E/36ECB0CEB4E5195FC211C9561E7_8AE95111_4A67E.jpg",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "链接直接指向图片文件，非信息页面。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1091/4186.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "URL结构`/info/1091/XXXX.htm`像个人详情页。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj/4.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL路径`/szdw/jsml/zgj/4.htm`表示教师名录分页。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj/5.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL路径`/szdw/jsml/zgj/5.htm`表示教师名录分页。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj/2.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL路径`/szdw/jsml/zgj/2.htm`表示教师名录分页。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj/1.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL路径`/szdw/jsml/zgj/1.htm`表示教师名录分页。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    }
+  ]
+}

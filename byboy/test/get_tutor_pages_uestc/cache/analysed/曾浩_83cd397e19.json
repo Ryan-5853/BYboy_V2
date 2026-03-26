@@ -1,0 +1,124 @@
+{
+  "meta": {
+    "tutor_name_cn": "曾浩",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1091/4187.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1091/4187.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/19b19b2c9effeb1bf1fcd55d5f33cafdbbaa34601b84a0b4a656ca9c1019363e.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": "包含导师的详细研究方向、工作经历、科研成果、主讲课程和招生专业等丰富文本信息。"
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "site_metadata": {
+      "source_url": "https://www.auto.uestc.edu.cn/info/1091/4187.htm",
+      "navigation": {
+        "breadcrumbs": [
+          {
+            "anchor_text": "首页",
+            "url": "https://www.auto.uestc.edu.cn/index.htm"
+          },
+          {
+            "anchor_text": "师资队伍",
+            "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+          },
+          {
+            "anchor_text": "教师名录",
+            "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+          },
+          {
+            "anchor_text": "正高级",
+            "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+          },
+          {
+            "anchor_text": "正文",
+            "url": null
+          }
+        ],
+        "side_menu": [
+          {
+            "anchor_text": "教师名录",
+            "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+          },
+          {
+            "anchor_text": "教师名录总览页",
+            "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+          }
+        ]
+      },
+      "sections_on_page": [
+        "师资队伍"
+      ]
+    },
+    "mentor_profile": {
+      "name": "曾浩",
+      "image_url": "https://www.auto.uestc.edu.cn/__local/3/F2/A5/5D67ADCB33A07FD01F57977F74C_907A0BF9_19E2F6.jpg",
+      "personal_info": {
+        "highest_degree": "曾浩",
+        "job_title": "研究员",
+        "mentoring_status": "博士生导师",
+        "research_team": "测试技术与仪器研究所（示波器2、产业化）"
+      },
+      "contact_info": {
+        "phone": "",
+        "email": "zenghao@uestc.edu.cn",
+        "personal_homepage": ""
+      },
+      "research_directions": [
+        "宽带信号实时捕获方法与技术",
+        "无缝采集与处理技术",
+        "高精度同步技术",
+        "数字存储示波器"
+      ],
+      "academic_titles_and_affiliations": [],
+      "experience": {
+        "work_education": [
+          {
+            "period": "2012.08-至今",
+            "institution": "电子科技大学",
+            "position": "副研究员"
+          },
+          {
+            "period": "2010.01-2012.07",
+            "institution": "电子科技大学",
+            "position": "讲师"
+          },
+          {
+            "period": "2007.07-2009.12",
+            "institution": "电子科技大学",
+            "position": "助教"
+          }
+        ]
+      },
+      "scientific_research_summary": "作为项目第一负责人或主研正在承担或已完成国家自然科学基金青年/面上/科学仪器专项等10多项国家级、省部级和横向合作项目，科研经费超过2000万元；发表学术论文20余篇，SCI/EI检索12篇；申请国内外发明专利23项，授权13项，获得省部级科技进步奖一等1项，三等2项，参与制定国家标准1项。",
+      "teaching": {
+        "undergraduate_courses": [
+          "测试技术新专题",
+          "电子测量原理与测试系统",
+          "综合（专题）课程设计"
+        ],
+        "graduate_courses": [
+          "现代时域测试",
+          "时域测试技术综合实验"
+        ],
+        "teaching_positions": "",
+        "teaching_research": [
+          "1参与《电子测量原理与测试系统》探究式小班课程",
+          "2.参与教学方法与考核方法改革示范课“电子测量原理与测试系统”建设"
+        ]
+      },
+      "admission": {
+        "masters_majors": [
+          "080400仪器科学与技术",
+          "085400电子信息"
+        ],
+        "phd_majors": [
+          "仪器科学与技术",
+          "电子信息",
+          "交通运输"
+        ]
+      }
+    }
+  }
+}

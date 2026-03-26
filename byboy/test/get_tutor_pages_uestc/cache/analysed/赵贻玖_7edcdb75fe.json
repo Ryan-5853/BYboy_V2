@@ -1,0 +1,126 @@
+{
+  "meta": {
+    "tutor_name_cn": "赵贻玖",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1175/4291.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1175/4291.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/cd0542ae6c9f306d60218172889b302ec6a5cfff4000b3e5d97f4d6fcc4eb240.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "site_chrome": {
+      "source_url": "https://www.auto.uestc.edu.cn/info/1175/4291.htm",
+      "breadcrumbs": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "Z",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/Z.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "sidebar_navigation": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ]
+    },
+    "tutor_profile": {
+      "name": "赵贻玖",
+      "image_url": "https://www.auto.uestc.edu.cn/__local/E/45/E3/FB9C3BBA1DA66929894EB518969_8371B417_42000.jpg",
+      "basic_info": {
+        "highest_degree": "博士",
+        "contact_phone": null,
+        "job_title": "教授",
+        "email": "yijiuzhao@uestc.edu.cn",
+        "supervisor_status": "博士生导师",
+        "personal_homepage": null,
+        "research_team": "测试技术与仪器研究所"
+      },
+      "research_directions": [
+        "测试信号处理",
+        "压缩采样",
+        "宽带时域测试技术与仪器"
+      ],
+      "academic_titles_and_positions": null,
+      "experience": {
+        "work_experience": [
+          {
+            "start_date": "2020.05",
+            "end_date": "至今",
+            "institution": "电子科技大学自动化工程学院",
+            "position": "教授"
+          },
+          {
+            "start_date": "2014.08",
+            "end_date": "2020.04",
+            "institution": "电子科技大学自动化工程学院",
+            "position": "副教授"
+          },
+          {
+            "start_date": "2012.06",
+            "end_date": "2014.07",
+            "institution": "电子科技大学自动化工程学院",
+            "position": "讲师"
+          }
+        ],
+        "education_experience": [
+          {
+            "start_date": "2009.09",
+            "end_date": "2011.09",
+            "institution": "美国威斯康星大学麦迪逊分校",
+            "study_type": "博士联合培养"
+          }
+        ]
+      },
+      "scientific_research": {
+        "description": "长期从事宽带时域测试技术、信号获取与信号处理方面的教学与科研工作；",
+        "projects_summary": "主持国家自然科学基金青年和面上项目、国家重点研发计划课题、教育部博士点基金、国家部委（重点）型号项目、四川省科技计划等多项国家和省部级项目；",
+        "patents_count": 14,
+        "publications_summary": "发表SCI/EI检索学术论文60余篇"
+      },
+      "teaching": {
+        "undergraduate_courses": [
+          "微处理器系统结构与嵌入式系统",
+          "测试技术新专题"
+        ],
+        "graduate_courses": [
+          "信号检测与估计",
+          "现代时域测试"
+        ]
+      },
+      "admissions": {
+        "masters_majors": [
+          "080400仪器科学与技术",
+          "085400电子信息"
+        ],
+        "doctoral_majors": [
+          "080400仪器科学与技术",
+          "085400电子信息",
+          "086100交通运输"
+        ]
+      }
+    }
+  }
+}

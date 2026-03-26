@@ -92,11 +92,13 @@ class PackyConfig:
 
     - ``base_url``：OpenAI 兼容接口根路径（一般以 ``/v1`` 结尾）。
     - ``anthropic_base_url``：Anthropic Messages API 根路径（**不要**带 ``/v1``，SDK 会自动拼接）。
+    - ``http_timeout_sec``：单次 HTTP 请求超时（秒）；为 ``None`` 时使用 SDK 默认。
     """
 
     api_key: str
     base_url: str = "https://www.packyapi.com/v1"
     anthropic_base_url: str = "https://www.packyapi.com"
+    http_timeout_sec: float | None = None
 
     @classmethod
     def from_env(cls) -> PackyConfig:

@@ -1,0 +1,155 @@
+{
+  "meta": {
+    "tutor_name_cn": "赵禹",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1175/7913.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1175/7913.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/a6a34510ae7e6c00cdab93720876e990f59b8b9b23d3743f953409cb69aabb93.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "personal_info": {
+      "name": "赵禹",
+      "highest_degree": "博士",
+      "contact_phone": null,
+      "position_title": "特聘副教授",
+      "email": "yuzhao@uestc.edu.cn",
+      "advisor_status": "硕士导师",
+      "personal_homepage": null,
+      "research_team": "测试技术与仪器研究所",
+      "profile_image_url": "https://www.auto.uestc.edu.cn/__local/6/48/CC/860AD340FF5FE4045615E5BAFB4_BED9F315_4CB9A.jpg"
+    },
+    "main_research_directions": [
+      "智能科学仪器研究与设计"
+    ],
+    "academic_roles_and_affiliations": {
+      "academic_titles_and_part_time_positions": [
+        "担任爱思唯尔《Measurement》，美国物理联合会《Review of Scientific Instruments》等SCI期刊审稿人",
+        "IEEE ICEMI 2023国际学术会议分会主席",
+        "中国科技核心期刊《西安邮电大学学报》青年编委",
+        "中国电子学会会员",
+        "中国仪器仪表学会会员",
+        "IEEE会员"
+      ]
+    },
+    "education_work_experience": [
+      {
+        "start_date": "2025.08",
+        "end_date": "至今",
+        "institution": "电子科技大学",
+        "role": "特聘副教授"
+      },
+      {
+        "start_date": "2024.01",
+        "end_date": "2025.07",
+        "institution": "电子科技大学",
+        "role": "师资博士后"
+      },
+      {
+        "start_date": "2021.07",
+        "end_date": "2023.12",
+        "institution": "电子科技大学（深圳）高等研究院",
+        "role": "博士后"
+      },
+      {
+        "start_date": "2015.09",
+        "end_date": "2021.06",
+        "institution": "电子科技大学",
+        "degree": "博士"
+      },
+      {
+        "start_date": "2011.09",
+        "end_date": "2015.06",
+        "institution": "电子科技大学",
+        "degree": "学士"
+      }
+    ],
+    "scientific_research": {
+      "research_focus": "本人长期致力于智能数字示波器与超宽带数据采集研究，聚焦于皮秒级同步采样与超高速高精度采集等前沿方向，核心研究工作围绕时/频域交织采样架构的频响非一致性误差校准与智能可重构采样技术展开。",
+      "academic_achievements": {
+        "publications": {
+          "summary": "近五年，以第一/通信作者在《IEEE Transactions on Instrumentation and Measurement》、《Measurement》、《仪器仪表学报》等本领域重要期刊发表SCI论文4篇、EI论文9篇。",
+          "details": [
+            "SCI论文4篇",
+            "EI论文9篇"
+          ]
+        },
+        "patents": {
+          "summary": "授权国家发明专利5项。",
+          "details": [
+            "国家发明专利5项"
+          ]
+        }
+      },
+      "research_projects": {
+        "summary": "主持国家自然科学青年基金、国家某部委型号等多个项目，并作为核心成员（排名第2）参与科技部重大专项，累计科研经费超3000万元。",
+        "details": [
+          "主持国家自然科学青年基金",
+          "主持国家某部委型号等多个项目",
+          "作为核心成员（排名第2）参与科技部重大专项",
+          "累计科研经费超3000万元"
+        ]
+      },
+      "awards_and_honors": [
+        "作为负责人率队荣获2023年中国国际大学生创新大赛银奖",
+        "指导学生获2024年四川省国际大学生创新大赛金奖",
+        "于2025年获全国博士后创新创业大赛铜奖"
+      ]
+    },
+    "courses_and_teaching_research": null,
+    "admission_information": {
+      "masters_programs": [
+        "080400仪器科学与技术",
+        "085407仪器仪表工程"
+      ],
+      "doctoral_programs": []
+    },
+    "site_chrome": {
+      "source_url": "https://www.auto.uestc.edu.cn/info/1175/7913.htm",
+      "breadcrumb_navigation": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "Z",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/Z.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "sidebar_navigation": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ],
+      "page_title": "师资队伍"
+    }
+  }
+}

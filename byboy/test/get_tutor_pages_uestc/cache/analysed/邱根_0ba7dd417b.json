@@ -1,0 +1,189 @@
+{
+  "meta": {
+    "tutor_name_cn": "邱根",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1166/4452.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1166/4452.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/2685a98c58b5c5b56a21ebbe21d2bb54245bd2f6950f65880f129534139966e6.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "site_chrome": {
+      "source_url": "https://www.auto.uestc.edu.cn/info/1166/4452.htm",
+      "main_title": "师资队伍",
+      "breadcrumbs": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "Q",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/Q.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "navigation_links": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ]
+    },
+    "general_info": {
+      "name": "邱根",
+      "highest_degree": "博士",
+      "contact_phone": null,
+      "position_title": "高级工程师",
+      "email": "qgen615@uestc.edu.cn",
+      "supervisor_status": "硕士导师",
+      "personal_homepage": null,
+      "research_team": "测试技术与仪器研究所"
+    },
+    "profile_image": {
+      "url": "https://www.auto.uestc.edu.cn/__local/F/E7/9D/E8C81B2D48E5F3AE7E9D4FB6E4E_0280D7A5_20413.png",
+      "alt_text": ""
+    },
+    "research_directions": [
+      "宽带时域精密测量",
+      "电子故障检测与诊断"
+    ],
+    "academic_roles_and_affiliations": [
+      "《仪器仪表学报》青年编委",
+      "四川省科技协同创新促进会智能制造专家委员会委员",
+      "IEEE Conference on Decision and Control：Fault Detection联合主席",
+      "中国仪器仪表学会学术年会组织委员会副主席"
+    ],
+    "education_and_work_experience": [
+      {
+        "start_date": "2001.09",
+        "end_date": "2005.06",
+        "institution": "电子科技大学",
+        "degree_or_role": "本科"
+      },
+      {
+        "start_date": "2005.09",
+        "end_date": "2009.12",
+        "institution": "电子科技大学",
+        "degree_or_role": "硕士"
+      },
+      {
+        "start_date": "2019.09",
+        "end_date": "2025.06",
+        "institution": "电子科技大学",
+        "degree_or_role": "博士"
+      },
+      {
+        "start_date": "2016.12",
+        "end_date": "2017.04",
+        "institution": "美国休斯顿大学",
+        "degree_or_role": "访问学者"
+      },
+      {
+        "start_date": "2019.01",
+        "end_date": "2021.04",
+        "institution": "电子科技大学自动化工程学院",
+        "degree_or_role": "工程师"
+      },
+      {
+        "start_date": "2021.05",
+        "end_date": "至今",
+        "institution": "电子科技大学自动化工程学院",
+        "degree_or_role": "高级工程师"
+      }
+    ],
+    "scientific_research": {
+      "summary": "长期从事电子系统多维信号测量技术与故障特征识别方法研究，主持或主研国家及省部级研究项目20余项，总经费5000余万元；发表论文23篇；授权发明专利15项，软件著作权3项；获中国仪器仪表学会技术发明奖一等奖1项（排名1）、四川省科学技术进步奖三等奖1项（排名1）。",
+      "projects": [
+        {
+          "role": "主持",
+          "description": "多通道温度采集系统、大功率电源等国家项目",
+          "type": "国家项目"
+        },
+        {
+          "role": "主持",
+          "description": "铁路轨道大机作业综合测量装置研发、机器人专用高灵敏度微型扭矩传感器关键技术研究及应用等省部机项目",
+          "type": "省部级项目"
+        },
+        {
+          "role": "主研",
+          "description": "电源故障诊断、虑及故障相关性的重型数控机床可靠性建模与评估等国家级和省部级项目",
+          "type": "国家级和省部级项目"
+        }
+      ],
+      "publications_count": 23,
+      "patents_granted_count": 15,
+      "software_copyrights_count": 3,
+      "awards": [
+        {
+          "name": "中国仪器仪表学会技术发明奖",
+          "level": "一等奖",
+          "ranking": "1"
+        },
+        {
+          "name": "四川省科学技术进步奖",
+          "level": "三等奖",
+          "ranking": "1"
+        }
+      ]
+    },
+    "courses_and_teaching_research": {
+      "undergraduate_courses": [
+        "C语言",
+        "精密仪器设计基础",
+        "智能避障循迹小车设计"
+      ],
+      "graduate_courses": [],
+      "teaching_positions": [],
+      "teaching_research": {
+        "summary": "参编出版《全国大学生智能汽车竞赛指导系列丛书》2部，获四川省教学成果三等奖1项，指导全国飞思卡尔智能车竞赛全国总决赛一等奖2项、二等奖1项。",
+        "publications": [
+          "参编出版《全国大学生智能汽车竞赛指导系列丛书》2部"
+        ],
+        "awards": [
+          {
+            "name": "四川省教学成果奖",
+            "level": "三等奖",
+            "count": 1
+          }
+        ],
+        "student_competition_guidance": [
+          {
+            "competition": "全国飞思卡尔智能车竞赛全国总决赛",
+            "award": "一等奖",
+            "count": 2
+          },
+          {
+            "competition": "全国飞思卡尔智能车竞赛全国总决赛",
+            "award": "二等奖",
+            "count": 1
+          }
+        ]
+      }
+    },
+    "admission_programs": {
+      "master_programs": [
+        "080400仪器科学与技术",
+        "085400电子信息"
+      ],
+      "doctoral_programs": []
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "clickable_links": [
+    {
+      "url": "https://faculty.uestc.edu.cn/__local/5/C1/7E/EFA08B4422F81D41790BA912E45_22F79090_4286.jpg",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL是图片文件，非网页内容。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/_ts/zw2/images/praise.png",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL是图片文件，非网页内容。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/cxi/zh_CN/tzysd/259518/list/index.htm",
+      "anchor_text": "同专业硕导",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL含list，锚文本指导师列表。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "http://faculty.uestc.edu.cn/cxi/zh_CN/index.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "疑似院系主页，可能导航至导师。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/cxi/zh_CN/tzysd/259518/list/index.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL含list，指向导师列表页。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    }
+  ]
+}

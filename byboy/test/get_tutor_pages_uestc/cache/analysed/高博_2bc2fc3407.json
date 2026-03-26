@@ -1,0 +1,126 @@
+{
+  "meta": {
+    "tutor_name_cn": "高博",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1156/4523.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1156/4523.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/8d874e2fb05d3b96710495c358a0111de6ab21f31fa504802d4cca209db276b7.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "site_chrome": {
+      "source_url": "https://www.auto.uestc.edu.cn/info/1156/4523.htm",
+      "breadcrumbs": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "G",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/G.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "navigation_links": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ]
+    },
+    "personal_info": {
+      "name": "高博",
+      "image_url": "https://www.auto.uestc.edu.cn/__local/B/A2/91/85B339B1FAE88E5460622F1F5BA_5C984649_48CE9.jpg",
+      "highest_degree": "博士",
+      "contact_phone": null,
+      "title_position": "副教授",
+      "email": "gbo@uestc.edu.cn",
+      "supervisor_status": "硕士导师",
+      "personal_homepage": null,
+      "research_team": "空间信息探测与智能处理研究中心"
+    },
+    "research_directions": [
+      "电子测量方法、仪器和系统研发"
+    ],
+    "academic_titles_affiliations": [],
+    "experience": {
+      "work_education": [
+        {
+          "start_date": "2013.07",
+          "end_date": "至今",
+          "organization": "电子科技大学自动化工程学院",
+          "role": "副教授",
+          "type": "work"
+        },
+        {
+          "start_date": "2010.01",
+          "end_date": "2013.07",
+          "organization": "电子科技大学自动化工程学院",
+          "role": "讲师",
+          "type": "work"
+        },
+        {
+          "start_date": "2013.01",
+          "end_date": "2014.01",
+          "organization": "德国马普太阳系研究所",
+          "role": "访问学者",
+          "type": "visiting_scholar"
+        },
+        {
+          "start_date": "2016.09",
+          "end_date": "2017.02",
+          "organization": "美国加州大学圣巴巴拉分校",
+          "role": "访问学者",
+          "type": "visiting_scholar"
+        }
+      ]
+    },
+    "scientific_research": {
+      "description": "长期从事电子测量方法、仪器和系统研发，包括：矢量网络分析仪、微波辐射计、宽带实时频谱分析模块等",
+      "projects_summary": "工作以来主持国家级项目2项，参与5项",
+      "patents_count": 8,
+      "publications_summary": "发表高水平学术论文40余篇"
+    },
+    "courses_teaching_research": {
+      "undergraduate_courses": [
+        "电子测量原理与测试系统",
+        "射频电路与微波技术",
+        "电磁场与波"
+      ],
+      "graduate_courses": [
+        "微波电路的设计、优化及测试技术"
+      ],
+      "teaching_positions": [],
+      "teaching_research_projects": [
+        "主持教学方法与考核方法改革示范课“射频电路与微波技术”建设",
+        "主持《微波技术基础》在线开放课程",
+        "主持《基于“问题”的射频与微波技术基础及仪器教学改革》2018年高等学校仪器类专业新工科建设项目"
+      ]
+    },
+    "admissions": {
+      "masters_majors": [
+        "080400仪器科学与技术",
+        "085400电子信息"
+      ],
+      "phd_majors": []
+    }
+  }
+}

@@ -1,0 +1,400 @@
+{
+  "clickable_links": [
+    {
+      "url": "https://faculty.uestc.edu.cn/__local/C/77/C5/91C2EAF3AECED944413B063D1D3_336FE1B6_2FA0.png",
+      "anchor_text": "![",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "图片URL，位于导师主域，通常是头像或页面图片。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/wangli2/zh_CN/index/149684/list/index.htm",
+      "anchor_text": "首页",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL包含导师姓名/ID和“首页”锚文本，是个人主页。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/wangli2/zh_CN/zhym/149685/list/index.htm",
+      "anchor_text": "科学研究",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL包含导师姓名/ID和“科学研究”锚文本，是个人信息页下属栏目。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/wangli2/zh_CN/kyxm/149686/list/index.htm",
+      "anchor_text": "科研项目",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL包含导师姓名/ID和“科研项目”锚文本，是个人信息页下属栏目。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/wangli2/zh_CN/zzcg/149687/list/index.htm",
+      "anchor_text": "著作成果",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL包含导师姓名/ID和“著作成果”锚文本，是个人信息页下属栏目。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/wangli2/zh_CN/zlcg/149688/list/index.htm",
+      "anchor_text": "专利",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL包含导师姓名/ID和“专利”锚文本，是个人信息页下属栏目。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/wangli2/zh_CN/lwcg/149689/list/index.htm",
+      "anchor_text": "论文成果",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL包含导师姓名/ID和“论文成果”锚文本，是个人信息页下属栏目。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/wangli2/zh_CN/yjgk/149690/list/index.htm",
+      "anchor_text": "研究领域",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL包含导师姓名/ID和“研究领域”锚文本，是个人信息页下属栏目。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/wangli2/zh_CN/zhym/149691/list/index.htm",
+      "anchor_text": "教学研究",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL包含导师姓名/ID和“教学研究”锚文本，是个人信息页下属栏目。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/wangli2/zh_CN/jxcg/149692/list/index.htm",
+      "anchor_text": "教学成果",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL包含导师姓名/ID和“教学成果”锚文本，是个人信息页下属栏目。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/wangli2/zh_CN/skxx/149693/list/index.htm",
+      "anchor_text": "授课信息",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL包含导师姓名/ID和“授课信息”锚文本，是个人信息页下属栏目。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/wangli2/zh_CN/jxzy/149694/list/index.htm",
+      "anchor_text": "教学资源",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL包含导师姓名/ID和“教学资源”锚文本，是个人信息页下属栏目。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/wangli2/zh_CN/hjxx/149695/list/index.htm",
+      "anchor_text": "获奖信息",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL包含导师姓名/ID和“获奖信息”锚文本，是个人信息页下属栏目。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/wangli2/zh_CN/zsxx/149696/list/index.htm",
+      "anchor_text": "招生信息",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL包含导师姓名/ID和“招生信息”锚文本，是个人信息页下属栏目。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/wangli2/zh_CN/xsxx/149697/list/index.htm",
+      "anchor_text": "学生信息",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL包含导师姓名/ID和“学生信息”锚文本，是个人信息页下属栏目。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/wangli2/zh_CN/img/149698/list/index.htm",
+      "anchor_text": "我的相册",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL包含导师姓名/ID和“我的相册”锚文本，是个人信息页下属栏目。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/wangli2/zh_CN/article/149699/list/index.htm",
+      "anchor_text": "教师博客",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "URL包含导师姓名/ID和“教师博客”锚文本，可能包含多篇博文，属于导师信息扩展。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "http://faculty.uestc.edu.cn/wangli2/en/index.htm",
+      "anchor_text": "English",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL包含导师姓名/ID和“English”锚文本，是英文版个人主页。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/__local/1/21/08/AE9986A0EC249484A97EB5885D6_608FBC5C_58E8.jpg",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "图片URL，位于导师主域，通常是头像或页面图片。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/_ts/zw2/images/praise.png",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "图片URL，位于faculty域下，可能是页面UI元素。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/wangli2/zh_CN/tzysd/149684/list/index.htm",
+      "anchor_text": "同专业硕导",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL包含导师姓名/ID和“同专业硕导”锚文本，指向其他导师列表。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "http://www.uestc.edu.cn/",
+      "anchor_text": "电子科技大学",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "大学主页，与具体导师个人信息或列表无关。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/wangli2/zh_CN/index.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL包含导师姓名/ID，是个人主页。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/__local/C/77/C5/91C2EAF3AECED944413B063D1D3_336FE1B6_2FA0.png",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "图片URL，位于导师主域，通常是头像或页面图片。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://faculty.uestc.edu.cn/",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "faculty域根目录，通常是导师名录或入口页面。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/wangli2/zh_CN/index/149684/list/index.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL包含导师姓名/ID和首页路径，是个人主页。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/wangli2/zh_CN/zhym/149685/list/index.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL包含导师姓名/ID和科研路径，是个人信息页下属栏目。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/wangli2/zh_CN/kyxm/149686/list/index.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL包含导师姓名/ID和科研项目路径，是个人信息页下属栏目。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/wangli2/zh_CN/zzcg/149687/list/index.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL包含导师姓名/ID和著作成果路径，是个人信息页下属栏目。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/wangli2/zh_CN/zlcg/149688/list/index.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL包含导师姓名/ID和专利路径，是个人信息页下属栏目。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/wangli2/zh_CN/lwcg/149689/list/index.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL包含导师姓名/ID和论文成果路径，是个人信息页下属栏目。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/wangli2/zh_CN/yjgk/149690/list/index.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL包含导师姓名/ID和研究领域路径，是个人信息页下属栏目。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/wangli2/zh_CN/zhym/149691/list/index.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL包含导师姓名/ID和教学研究路径，是个人信息页下属栏目。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/wangli2/zh_CN/jxcg/149692/list/index.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL包含导师姓名/ID和教学成果路径，是个人信息页下属栏目。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/wangli2/zh_CN/skxx/149693/list/index.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL包含导师姓名/ID和授课信息路径，是个人信息页下属栏目。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/wangli2/zh_CN/jxzy/149694/list/index.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL包含导师姓名/ID和教学资源路径，是个人信息页下属栏目。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/wangli2/zh_CN/hjxx/149695/list/index.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL包含导师姓名/ID和获奖信息路径，是个人信息页下属栏目。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/wangli2/zh_CN/zsxx/149696/list/index.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL包含导师姓名/ID和招生信息路径，是个人信息页下属栏目。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/wangli2/zh_CN/xsxx/149697/list/index.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL包含导师姓名/ID和学生信息路径，是个人信息页下属栏目。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/wangli2/zh_CN/img/149698/list/index.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL包含导师姓名/ID和相册路径，是个人信息页下属栏目。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/wangli2/zh_CN/article/149699/list/index.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "URL包含导师姓名/ID和文章/博客路径，可能包含多篇文章，属于导师信息扩展。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "http://faculty.uestc.edu.cn/wangli2/en/index.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL包含导师姓名/ID和英文路径，是英文版个人主页。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/wangli2/zh_CN/tzysd/149684/list/index.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL包含导师姓名/ID和同专业硕导路径，指向其他导师列表。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "http://www.uestc.edu.cn/",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "大学主页，与具体导师个人信息或列表无关。",
+      "guessed_target_content": "无关网页或低相关页面"
+    }
+  ]
+}

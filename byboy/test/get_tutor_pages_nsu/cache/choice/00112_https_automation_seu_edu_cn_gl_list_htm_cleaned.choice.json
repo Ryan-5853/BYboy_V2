@@ -1,0 +1,84 @@
+{
+  "clickable_links": [
+    {
+      "url": "https://automation.seu.edu.cn/gl/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL包含'list.htm'且属于本学院",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://shi.buaa.edu.cn/guolei/zh_CN/yjfx/3576/content/4923.htm#yjfx",
+      "anchor_text": "飞行器复合自主抗干扰姿态估计、控制与测试技术",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部链接，内容为个人研究方向",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://shi.buaa.edu.cn/guolei/zh_CN/yjfx/3576/content/4922.htm#yjfx",
+      "anchor_text": "非高斯随机分布系统抗干扰控制",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部链接，内容为个人研究方向",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://shi.buaa.edu.cn/guolei/zh_CN/yjfx/3576/content/4921.htm#yjfx",
+      "anchor_text": "多源干扰系统的建模、分析与控制",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部链接，内容为个人研究方向",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_visitcount?siteId=338&type=2&columnId=44896",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL为访问计数器，非内容页",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://shi.buaa.edu.cn/guolei/zh_CN/yjfx/3576/content/4923.htm#yjfx",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部链接，内容为个人研究方向",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://shi.buaa.edu.cn/guolei/zh_CN/yjfx/3576/content/4922.htm#yjfx",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部链接，内容为个人研究方向",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://shi.buaa.edu.cn/guolei/zh_CN/yjfx/3576/content/4921.htm#yjfx",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部链接，内容为个人研究方向",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    }
+  ]
+}

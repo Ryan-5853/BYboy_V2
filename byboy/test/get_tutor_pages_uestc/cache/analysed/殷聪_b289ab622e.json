@@ -1,0 +1,175 @@
+{
+  "meta": {
+    "tutor_name_cn": "殷聪",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1174/4409.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1174/4409.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/7d8405396890ad73362c30c8e1fa2afc6309901d31a6c0ac90c3bf5ebbe68be6.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "source_url": "https://www.auto.uestc.edu.cn/info/1174/4409.htm",
+    "site_chrome": {
+      "breadcrumbs": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "Y",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/Y.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "navigation_links": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ]
+    },
+    "professor_info": {
+      "name": "殷聪",
+      "image_url": "https://www.auto.uestc.edu.cn/__local/D/4E/C6/1C203A10DA71EC69CBE747C98EC_6839FE87_61772.jpg",
+      "highest_degree": "博士",
+      "contact_phone": null,
+      "title_and_position": "副研究员",
+      "email": "yincong@uestc.edu.cn",
+      "advisor_status": "硕士导师",
+      "personal_homepage": {
+        "url": "https://www.researchgate.net/profile/Cong-Yin",
+        "anchor_text": "https://www.researchgate.net/profile/Cong-Yin"
+      },
+      "research_team": {
+        "name": "系统工程与智能装备研究团队",
+        "leader": "汤浩"
+      },
+      "main_research_directions": [
+        "氢能燃料电池与液流储能电池电堆设计",
+        "多物理场耦合仿真建模",
+        "电池高分辨原位检测技术",
+        "电池智能诊断与预测技术"
+      ],
+      "academic_titles_and_part_time_positions": [
+        "任Applied Energy、Energy Conversion and Management、Energy、 Fuel、Journal of Power Sources、Journal of Energy Storage、Journal of Cleaner Production等SCI期刊审稿人",
+        "Applied Sciences期刊专刊客座编辑"
+      ],
+      "education_and_work_experience": [
+        {
+          "period": "2017.12-至今",
+          "institution": "电子科技大学",
+          "department": "自动化工程学院",
+          "role": "副研究员",
+          "type": "work_experience"
+        },
+        {
+          "period": "2010.07-2017.11",
+          "institution": "东方电气集团",
+          "department": "中央研究院",
+          "role": "工程师、高级工程师",
+          "type": "work_experience"
+        },
+        {
+          "period": "2012.09-2015.06",
+          "institution": "四川大学",
+          "degree": "工学博士",
+          "type": "education_experience"
+        },
+        {
+          "period": "2007.09-2010.06",
+          "institution": "复旦大学",
+          "degree": "理学硕士",
+          "type": "education_experience"
+        },
+        {
+          "period": "2003.09-2007.06",
+          "institution": "复旦大学",
+          "degree": "理学学士",
+          "type": "education_experience"
+        }
+      ],
+      "scientific_research": {
+        "overview": "针对氢能燃料电池与液流储能电池领域，开展高性能电堆设计、多物理场耦合仿真建模、高分辨原位检测技术、数据驱动的智能诊断与预测技术等方面研究，技术成果应用于长续航无人机、新能源汽车、清洁发电等多个领域。",
+        "achievements_since_2018": {
+          "projects": [
+            {
+              "name": "国家重点研发计划子课题",
+              "count": 1,
+              "category": "national"
+            },
+            {
+              "name": "国家自然科学基金面上项目",
+              "count": 1,
+              "category": "national"
+            },
+            {
+              "name": "省部级课题",
+              "count": 4,
+              "category": "provincial_ministerial"
+            },
+            {
+              "name": "企业联合攻关项目",
+              "count": "十余项",
+              "collaborators": [
+                "中国汽研",
+                "东方电气",
+                "广汽集团"
+              ],
+              "category": "industry_collaboration"
+            }
+          ],
+          "publications": {
+            "count": 45,
+            "type": "SCI期刊论文",
+            "example_journals": [
+              "Applied Energy",
+              "Energy Conversion and Management",
+              "Energy",
+              "Journal of Power Sources"
+            ]
+          },
+          "patents": {
+            "applied_count": "一百余项",
+            "authorized_chinese_invention_patents": 93,
+            "authorized_us_patents": 1
+          }
+        }
+      },
+      "courses_taught": [
+        {
+          "level": "本科生课程",
+          "name": "新能源系统导论"
+        },
+        {
+          "level": "研究生课程",
+          "name": "创新实践课程"
+        }
+      ],
+      "recruitment_majors": {
+        "master": [
+          "081100控制科学与工程",
+          "085406控制工程"
+        ],
+        "doctor": []
+      }
+    }
+  }
+}

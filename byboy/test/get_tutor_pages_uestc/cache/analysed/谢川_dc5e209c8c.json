@@ -1,0 +1,176 @@
+{
+  "meta": {
+    "tutor_name_cn": "谢川",
+    "request_url": "http://faculty.uestc.edu.cn/cxi/zh_CN/index.htm",
+    "declared_source_url": "http://faculty.uestc.edu.cn/cxi/zh_CN/index.htm",
+    "page_host": "faculty.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/5ceb009dada3e873b80324f8ee3f6a46da0d868509645b6dade4f3bd52376e7f.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "target_name": "谢川",
+    "profile_photo_url": "https://faculty.uestc.edu.cn/__local/5/C1/7E/EFA08B4422F81D41790BA912E45_22F79090_4286.jpg",
+    "praise_count": 245,
+    "basic_information": {
+      "titles": [
+        "副教授",
+        "硕士生导师"
+      ],
+      "gender": "男",
+      "education_level": "博士研究生毕业",
+      "degree": "工学博士学位",
+      "email": "c.xie@uestc.edu.cn"
+    },
+    "personal_profile": {
+      "bio_summary": "谢川，1984年出生于四川成都。2007年毕业于电子科技大学自动化工程学院获得自动化专业学士学位，2012年获得浙江大学电气工程学院电力电子与电力传动专业博士学位。2012年9月起就职于电子科技大学自动化工程学院，并于2015年至2016年期间在丹麦奥尔堡大学能源系担任访问学者。主要从事先进控制方法在电能变换与控制、电能质量控制、新能源发电等领域的应用研究。",
+      "birth_year": 1984,
+      "origin": "四川 成都",
+      "achievements_summary": {
+        "projects_summary": "主持国家自然科学基金青年项目1项、四川省科技计划项目1项、企业横向项目3项；参研“国家重点研发计划”子课题2项、国家自然科学基金面上项目2项、国家自然科学基金青年项目1项、四川省科技计划项目3项、企业横向合作项目10余项。",
+        "publications_summary": "发表SCI期刊论文12篇，高水平国际会议论文30余篇。",
+        "patents_summary": "申请国家发明专利20余项，其中10余项已获授权。",
+        "professional_roles_summary": "现为IEEE高级会员，担任IEEE Trans. Power Electron., IEEE Trans. Ind. Electron., IEEE Trans. Sustain. Energy, IET Power Electron., IEEE Trans. Ind. Appl.等行业顶级期刊审稿人。曾任2017年43届IECON（Annual Conference of the IEEE Industrial Electronics Society）Session Chair和2019年第六届国际先进计算智能与智能信息学研讨会（IWACIII 2019）分会场主席。"
+      }
+    },
+    "education_experience": [
+      {
+        "start_date": "2007年9月",
+        "end_date": "2012年8月",
+        "degree": "博士学位",
+        "major": "电力电子与电力传动",
+        "institution": "浙江大学",
+        "college": "电气工程学院"
+      },
+      {
+        "end_date": "2007年",
+        "degree": "学士学位",
+        "major": "自动化",
+        "institution": "电子科技大学",
+        "college": "自动化工程学院"
+      }
+    ],
+    "work_experience": [
+      {
+        "start_date": "2019.8",
+        "end_date": "至今",
+        "position": "副教授",
+        "institution": "电子科技大学",
+        "college": "自动化工程学院"
+      },
+      {
+        "start_date": "2012年9月",
+        "end_date": "至今",
+        "position": "教师",
+        "institution": "电子科技大学",
+        "college": "自动化工程学院",
+        "note": "此信息在个人简介中，具体职务信息以工作经历为准"
+      },
+      {
+        "start_date": "2012.8",
+        "end_date": "2019.8",
+        "position": "讲师",
+        "institution": "电子科技大学",
+        "college": "自动化工程学院"
+      }
+    ],
+    "visiting_experience": [
+      {
+        "start_date": "2015年5月",
+        "end_date": "2016年6月",
+        "role": "访问学者",
+        "institution": "丹麦奥尔堡大学",
+        "department": "能源系"
+      }
+    ],
+    "teaching_courses": [
+      "电力电子技术",
+      "运动控制系统（含电拖基础）",
+      "自动控制原理实验",
+      "综合（专题）课程设计"
+    ],
+    "projects": {
+      "led_projects": [
+        {
+          "type": "国家自然科学基金青年项目",
+          "count": 1
+        },
+        {
+          "type": "四川省科技计划项目",
+          "count": 1
+        },
+        {
+          "type": "企业横向项目",
+          "count": 3
+        }
+      ],
+      "participated_projects": [
+        {
+          "type": "“国家重点研发计划”子课题",
+          "count": 2
+        },
+        {
+          "type": "国家自然科学基金面上项目",
+          "count": 2
+        },
+        {
+          "type": "国家自然科学基金青年项目",
+          "count": 1
+        },
+        {
+          "type": "四川省科技计划项目",
+          "count": 3
+        },
+        {
+          "type": "企业横向合作项目",
+          "count_approx": "10余项"
+        }
+      ]
+    },
+    "research_directions": [
+      "电力电子装置数字控制技术",
+      "新能源发电与微电网技术",
+      "电能质量控制",
+      "燃料电池发电系统"
+    ],
+    "professional_service": [
+      {
+        "role": "高级会员",
+        "organization": "IEEE"
+      },
+      {
+        "role": "审稿人",
+        "journals": [
+          "IEEE Trans. Power Electron.",
+          "IEEE Trans. Ind. Electron.",
+          "IEEE Trans. Sustain. Energy",
+          "IET Power Electron.",
+          "IEEE Trans. Ind. Appl."
+        ],
+        "note": "等行业顶级期刊"
+      },
+      {
+        "role": "Session Chair",
+        "event": "2017年43届IECON（Annual Conference of the IEEE Industrial Electronics Society）"
+      },
+      {
+        "role": "分会场主席",
+        "event": "2019年第六届国际先进计算智能与智能信息学研讨会（IWACIII 2019）"
+      }
+    ],
+    "site_metadata": {
+      "source_url": "http://faculty.uestc.edu.cn/cxi/zh_CN/index.htm",
+      "page_views": "0000028905",
+      "opening_date": "2018.4.2",
+      "last_updated": "2026.1.29"
+    },
+    "related_links": [
+      {
+        "anchor_text": "同专业硕导",
+        "url": "https://faculty.uestc.edu.cn/cxi/zh_CN/tzysd/259518/list/index.htm"
+      }
+    ]
+  }
+}

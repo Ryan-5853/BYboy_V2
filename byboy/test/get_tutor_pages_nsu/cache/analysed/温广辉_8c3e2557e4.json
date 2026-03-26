@@ -1,0 +1,348 @@
+{
+  "meta": {
+    "tutor_name_cn": "温广辉",
+    "request_url": "http://automation.seu.edu.cn/wgh/list.htm",
+    "declared_source_url": "http://automation.seu.edu.cn/wgh/list.htm",
+    "page_host": "automation.seu.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/1e7466580f2bb3c8dc65d1e658b41d8bb52b8b748a134c4f51285aad9805cfd3.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": "内容包含导师详细的个人简介、学术成就、研究方向、招生信息及大量论文列表，信息丰富。"
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "name": "温广辉",
+    "source_url": "http://automation.seu.edu.cn/wgh/list.htm",
+    "personal_info": {
+      "full_name": "温广辉",
+      "origin": "河南平顶山人",
+      "description": "东南大学首席教授(二级教授)，博士生导师，硕士生导师，IET Fellow，中国青年科技奖获得者，国家杰出青年科学基金获得者，教育部国家级青年人才入选者，国家优秀青年科学基金获得者，江苏国家应用数学中心副主任。长期从事分布式控制理论与控制工程、网络群体智能理论与技术等领域的研究工作。在Nature子刊、Research、The Innovation、IEEE汇刊等领域顶刊和CCF-A类顶级会议（AAAI、IJCAI等）发表学术论文300余篇，出版学术专著5部，SCI他人引用过万次，获国际学术期刊最佳论文奖2次、国内外学术会议最佳论文奖6次。",
+      "overall_publication_stats": {
+        "academic_papers_count": "300余篇",
+        "academic_monographs_count": "5部",
+        "sci_citations": "过万次",
+        "international_journal_best_paper_awards": "2次",
+        "domestic_international_conference_best_paper_awards": "6次"
+      }
+    },
+    "affiliations": [
+      "东南大学"
+    ],
+    "titles_and_positions": [
+      "东南大学首席教授(二级教授)",
+      "博士生导师",
+      "硕士生导师",
+      "IET Fellow"
+    ],
+    "honors_and_awards": [
+      "中国青年科技奖获得者",
+      "国家杰出青年科学基金获得者",
+      "教育部国家级青年人才入选者",
+      "国家优秀青年科学基金获得者",
+      "国家一级学会技术发明一等奖1项（排名第1）",
+      "国家一级学会科学技术奖一等奖1项（排名第1）",
+      "省部级奖项4项",
+      "日内瓦国际发明展金奖1项（排名第1）",
+      "ARC DECRA Fellow",
+      "亚太神经网络学会青年杰出研究奖",
+      "Asian J. Control杰出编委奖",
+      "IEEE Trans. Industrial Informatics杰出编委奖"
+    ],
+    "administrative_roles": [
+      "江苏国家应用数学中心副主任"
+    ],
+    "social_and_editorial_roles": {
+      "international_journal_editorial_boards": [
+        "IEEE/ASME Trans. Mechatronics",
+        "IEEE Trans. Control of Network Systems",
+        "IEEE Trans. Neural Networks and Learning Systems",
+        "IEEE Trans. Industrial Informatics",
+        "IEEE Trans. Fuzzy Systems",
+        "IEEE J. Emerging and Selected Topics in Industrial Electronics",
+        "IEEE Trans. Intelligent Vehicles",
+        "Asian J. Control"
+      ],
+      "domestic_journal_editorial_boards": [
+        "《自动化学报》",
+        "《控制理论与应用》",
+        "《系统工程与电子技术》"
+      ],
+      "academic_societies_roles": [
+        "中国指挥与控制学会副秘书长",
+        "中国指挥与控制学会教育培训工作委员会主任委员",
+        "中国指挥与控制学会具身智能专委会副主任委员"
+      ]
+    },
+    "research_overview": {
+      "fields": [
+        "分布式控制理论与控制工程",
+        "网络群体智能理论与技术"
+      ],
+      "team_mission": "面向国家“新一代人工智能”发展战略，以构筑我国群体智能研究的先发优势为使命责任，围绕智能感知、智能决策与智能控制开展科学研究与技术攻关。"
+    },
+    "research_directions": {
+      "智能感知": [
+        "网络化协同感知",
+        "具身感知与目标识别",
+        "分布式信息融合"
+      ],
+      "智能决策": [
+        "安全运动规划",
+        "分布式优化与博弈对抗",
+        "强化学习及其在智能决策中的应用"
+      ],
+      "智能控制": [
+        "具身智能体控制",
+        "AI驱动的协同控制",
+        "安全协同控制",
+        "具身群体系统涌现行为调控"
+      ]
+    },
+    "research_projects": {
+      "count": "30余项",
+      "examples": [
+        "国家杰青项目",
+        "优青项目",
+        "国自然企业联合重点项目",
+        "“叶企孙”科学基金重点项目",
+        "科技部重点研发计划项目课题"
+      ]
+    },
+    "patents": {
+      "national_invention_patents": {
+        "applied": "90余项",
+        "granted": "72项"
+      },
+      "international_pct_patents": {
+        "granted": "1项 (美国发明专利)"
+      }
+    },
+    "talent_cultivation": {
+      "team_faculty_cultivation": {
+        "national_young_talent_program_recipients": "2人"
+      },
+      "graduate_student_cultivation_achievements": [
+        {
+          "achievement": "中国科协青年人才托举工程",
+          "count": "1人",
+          "names": [
+            "赵丹"
+          ]
+        },
+        {
+          "achievement": "国家一级学会青年人才托举工程",
+          "count": "1人",
+          "names": [
+            "周艳"
+          ]
+        },
+        {
+          "achievement": "中国科协青年托举工程博士生专项计划",
+          "count": "3人",
+          "names": [
+            "栾萌",
+            "沈涵",
+            "付雨亮"
+          ]
+        },
+        {
+          "achievement": "国家一级学会优秀博士论文奖",
+          "count": "3人",
+          "names": [
+            "赵丹",
+            "周艳",
+            "雷旭强"
+          ]
+        },
+        {
+          "achievement": "中国自动化学会优秀硕士论文奖",
+          "count": "1人",
+          "names": [
+            "沈涵"
+          ]
+        },
+        {
+          "achievement": "东南大学优秀硕士论文奖",
+          "count": "1人",
+          "names": [
+            "俞佳慧"
+          ]
+        },
+        {
+          "achievement": "国自然青年学生基础研究项目",
+          "count": "1人",
+          "names": [
+            "沈涵"
+          ]
+        },
+        {
+          "achievement": "硕士毕业生赴澳大利亚皇家墨尔本理工大学攻读博士（全奖）",
+          "count": "2名"
+        },
+        {
+          "achievement": "在读研究生赴澳大利亚、新加坡、日本和香港特别行政区进行学术交流",
+          "count": "10余名"
+        }
+      ],
+      "undergraduate_student_cultivation_achievements": [
+        {
+          "achievement": "江苏省普通高等学校本科优秀毕业设计",
+          "count": "2名"
+        },
+        {
+          "achievement": "本科生SRTP项目成员留学世界排名前100高校",
+          "examples": [
+            "美国哥伦比亚大学",
+            "新加坡国立大学"
+          ]
+        }
+      ]
+    },
+    "teaching_courses": {
+      "undergraduate_courses": [
+        {
+          "name": "几何与代数",
+          "hours": "48学时",
+          "years": "2013-2016",
+          "instructors": [
+            "温广辉"
+          ]
+        },
+        {
+          "name": "概率论与数理统计（A）",
+          "hours": "48学时",
+          "years": "2016-2020",
+          "instructors": [
+            "温广辉"
+          ]
+        },
+        {
+          "name": "人工智能技术数学基础",
+          "hours": "48学时",
+          "years": "2023-至今",
+          "instructors": [
+            "温广辉",
+            "万颖"
+          ]
+        },
+        {
+          "name": "网络群体智能理论与技术选讲（本科生通识课）",
+          "hours": "33学时",
+          "years": "2020-至今",
+          "instructors": [
+            "温广辉"
+          ]
+        }
+      ],
+      "graduate_courses": [
+        {
+          "name": "混杂系统理论",
+          "hours": "48学时",
+          "years": "2013-2016",
+          "instructors": [
+            "温广辉"
+          ]
+        },
+        {
+          "name": "复杂系统与网络科学选讲",
+          "hours": "16学时",
+          "years": "2017-至今",
+          "instructors": [
+            "温广辉"
+          ]
+        },
+        {
+          "name": "深度强化学习数学基础及算法",
+          "hours": "48学时",
+          "years": "2021-至今",
+          "instructors": [
+            "付俊杰",
+            "温广辉"
+          ]
+        },
+        {
+          "name": "无人系统指挥与控制原理",
+          "hours": "16学时",
+          "years": "2026-至今",
+          "instructors": [
+            "温广辉"
+          ]
+        }
+      ]
+    },
+    "publications": {
+      "representative_papers": [
+        "G. Wen, Y. Zhao, Z. Duan, W. Yu, and G. Chen, Containment of higher-order multi-leader multi-agent systems: A dynamic output approach, **IEEE Transactions on Automatic Control**, vol. 61, no. 4, pp. 1135-1140, 2016.",
+        "G. Wen and W. X. Zheng, On constructing multiple Lyapunov functions for tracking control of multiple agents with switching topologies, **IEEE Transactions on Automatic Control**, vol. 64, no. 9, pp. 3796-3803, 2019.",
+        "G. Wen, X. Yu, J. Fu, H. Wang, and W. Yu, Fast distributed average tracking in multi-agent networks: The case with general linear agent dynamics, **IEEE Transactions on Control of Network Systems**, vol. 8, no. 2, pp. 997-1009, 2021.",
+        "G. Wen, W. X. Zheng, and Y. Wan, Distributed robust optimization for networked agent systems with unknown nonlinearities, **IEEE Transactions on Automatic Control**, Full Paper, vol. 68, no. 9, pp. 5230-5244, 2023.",
+        "G. Wen, Y. Lv, W. X. Zheng, J. Zhou, and J. Fu, Joint robustness of time-varying networks and its applications to resilient consensus, **IEEE Transactions on Automatic Control**, Full Paper, vol. 68, no. 11, pp. 6466-6480, 2023.",
+        "Y. Li, Y. Ding, S. He, F. Hu, J. Duan, G. Wen*, H. Geng, Z. Wu, H. B. Gooi*, Y. Zhao, C. Zhang, S. Mei, and Z. Zeng*, Artificial intelligence-based methods for renewable power system operation, **Nature Reviews Electrical Engineering**, [https://doi.org/10.1038/s44287-024-00018-9](https://doi.org/10.1038/s44287-024-00018-9).",
+        "G. Wen, J. Fu, H. Lu, J. Sun, and H. Shen, Robust collision avoidance and path-following of USVs with reduced conservativeness: A control barrier function-based approach, **Journal of Field Robotics**, doi: 10.1002/rob.22456.",
+        "D. Zhao(学生), D. W. C. Ho, and G. Wen, Generalized graph-dependent isolation of collusive attacks for interconnected systems, **IEEE Transactions on Automatic Control**, Full Paper, doi: 10.1109/TAC.2024.3474055.",
+        "M. Luan(学生), G. Wen, Y. Lv, J. Zhou, and C. L. Philip Chen, Distributed constrained optimization over unbalanced time-varying digraphs: A randomized constraint solving algorithm, **IEEE Transactions on Automatic Control**, Full Paper, doi: 10.1109/TAC.2023.3347328.",
+        "Y. Zhou(学生), G. Wen, Y. Wan, and J. Fu, Consensus tracking control for a class of general linear hybrid multi-agent Systems: A model-free approach, **Automatica**, Regular Paper, vol. 156, art. no.: 111198, 2023."
+      ],
+      "review_papers": [
+        "G. Wen, X. Yu, W. Yu, and J. Lu, Coordination and control of complex network systems with switching topologies: A survey, **IEEE Transactions on Systems, Man and Cybernetics, Systems**, vol. 51, no. 10, pp. 6342-6357, 2021. [IEEE-TSMCS-WYYL-2020.pdf](https://automation.seu.edu.cn/_upload/article/files/56/b4/74bbd12d4636a8339330da6588ab/6c753ae1-b627-493f-b3de-981268b4486c.pdf)",
+        "G. Wen, X. Yu, and Z.-W. Liu, Recent progress on the study of distributed economic dispatch in smart grid: An overview, **Frontiers of Information Technology & Electronic Engineering**, vol. 22, pp. 25-39, 2021. [Wen-2021-Recent progress on the study of distributed economic dispatch in smart grid an overview.pdf](https://automation.seu.edu.cn/_upload/article/files/56/b4/74bbd12d4636a8339330da6588ab/ef10cc8e-82b1-4702-a9cc-b8b7849f00f3.pdf)",
+        "温广辉，杨涛，周佳玲，付俊杰，徐磊，强化学习与自适应动态规划：从基础理论到多智能体系统中的应用进展综述，**控制与决策**，卷：38，期：5，页码：1200-1230，2023. [强化学习与自适应动态规划_...智能体系统中的应用进展综述_温广辉.pdf](https://automation.seu.edu.cn/_upload/article/files/56/b4/74bbd12d4636a8339330da6588ab/4a3939b2-b963-444c-a84c-7ad632ffca69.pdf)"
+      ]
+    },
+    "recruitment_info": {
+      "motto": "“得天下英才而育之”，是每位教师一生最大的心愿！热忱欢迎对相关科研方向感兴趣的有志青年加入团队！",
+      "contact_email": "ghwen@seu.edu.cn",
+      "doctoral_programs": [
+        {
+          "college": "自动化学院",
+          "majors": [
+            "控制科学与工程（学术学位）",
+            "电子信息（专业学位）"
+          ]
+        },
+        {
+          "college": "数学学院",
+          "majors": [
+            "系统科学（学术学位）"
+          ]
+        }
+      ],
+      "master_programs": [
+        {
+          "college": "自动化学院",
+          "majors": [
+            "控制科学与工程（学术学位）",
+            "电子信息（专业学位）"
+          ]
+        },
+        {
+          "college": "数学学院",
+          "majors": [
+            "系统科学（学术学位）"
+          ]
+        }
+      ],
+      "recruitment_quotas": {
+        "doctoral_students_per_year": "3名",
+        "master_students_per_year": "3-5名",
+        "postdoctoral_fellows": "不限"
+      }
+    },
+    "site_chrome": {
+      "source_url_marker": "抓取来源：http://automation.seu.edu.cn/wgh/list.htm",
+      "image_artifacts": [
+        "![](https://automation.seu.edu.cn/wgh/list.htm)",
+        "![](https://automation.seu.edu.cn/_visitcount?siteId=338&type=2&columnId=57380)"
+      ]
+    },
+    "sections_with_no_content": [
+      "教育背景",
+      "工作经历",
+      "学术兼职",
+      "所获奖励",
+      "学生培养",
+      "研究兴趣",
+      "科研项目"
+    ]
+  }
+}

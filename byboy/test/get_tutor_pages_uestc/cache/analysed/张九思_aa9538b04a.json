@@ -1,0 +1,764 @@
+{
+  "meta": {
+    "tutor_name_cn": "张九思",
+    "request_url": "http://faculty.uestc.edu.cn/zhangjiusi/zh_CN/index.htm",
+    "declared_source_url": "http://faculty.uestc.edu.cn/zhangjiusi/zh_CN/index.htm",
+    "page_host": "faculty.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/5efc2da38a4428c2cb239bf0c3a4b473a4de82d97e21f78b7f60b9df3076e693.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "target_professor_name": "张九思",
+    "page_source_url": "http://faculty.uestc.edu.cn/zhangjiusi/zh_CN/index.htm",
+    "profile_header": {
+      "profile_picture_url": "https://faculty.uestc.edu.cn/__local/0/52/EF/18FBFA74ED138B2B195CFD1B615_EF60B002_1A310.png",
+      "name": "张九思",
+      "likes_count": 986,
+      "likes_icon_url": "https://faculty.uestc.edu.cn/_ts/mb1/images/ico-heart-i.png"
+    },
+    "personal_information": {
+      "titles": [
+        "副教授（特聘）",
+        "硕士生导师"
+      ],
+      "gender": "男",
+      "education_level": "博士研究生毕业",
+      "degree": "工学博士学位",
+      "discipline": "仪器科学与技术",
+      "office_location": "电子科技大学清水河校区成电国际创新中心D311"
+    },
+    "contact_information": {
+      "postal_code": "611731",
+      "email": "jiusi.zhang@uestc.edu.cn",
+      "scan_to_follow": "扫描关注"
+    },
+    "personal_profile": {
+      "biography_summary": "张九思，工学博士，电子科技大学自动化工程学院特聘副教授，硕士生导师，爱思唯尔全球前2%顶尖科学家，中国博士后创新人才支持计划（国家博新）入选者，获宝钢教育奖特等奖、哈尔滨工业大学优秀博士学位论文、哈尔滨工业大学“十佳英才”、哈尔滨工业大学李昌奖。研究兴趣包括智能故障诊断/预测/容错、工业大数据与人工智能、数据驱动的监测与优化、复杂工业系统智能运维、电子测试仪器精密测量等。主持中国博士后创新人才支持计划项目、国家自然科学基金青年科学基金项目、四川省自然科学基金青年科学基金项目、中国博士后科学基金面上项目等科研项目，发表中科院一区期刊/IEEE Transactions系列汇刊论文30余篇，谷歌学术引用量超过2500次，授权国家发明专利10余项。担任Protection and Control of Modern Power Systems （PCMP，IF = 11.9）等多个国际SCI期刊编委会委员/青年编委会委员，多个国际/国内学术会议分会主席。",
+      "recruitment_message": "诚邀控制科学与工程（自动化）、仪器科学与技术（测控技术与仪器）、计算机（人工智能）、数学等相关专业优秀同学保送、报考课题组硕士、博士，欢迎本科生同学开展毕业设计、参与课题研究。",
+      "external_academic_profiles": [
+        {
+          "platform": "谷歌学术",
+          "url": "https://scholar.google.com/citations?hl=en&user=M78xFhcAAAAJ",
+          "image_url": "https://faculty.uestc.edu.cn/__local/1/39/A1/020CA3504A9FB214A943369D5F1_1E6714B7_91D7.jpg"
+        },
+        {
+          "platform": "Web of Science",
+          "url": "https://www.webofscience.com/wos/author/record/AAC-6464-2021",
+          "image_url": "https://library.ait.ac.th/wp-content/uploads/sites/45/2019/04/Web-of-Science-800x445.jpg"
+        }
+      ]
+    },
+    "hosted_research_projects": [
+      "中国博士后创新人才支持计划项目",
+      "国家自然科学基金青年科学基金项目",
+      "四川省自然科学基金青年科学基金项目",
+      "中国博士后科学基金面上项目"
+    ],
+    "representative_publications": [
+      {
+        "authors": [
+          {
+            "name": "J. Zhang",
+            "is_target_professor": true
+          },
+          {
+            "name": "K. Chen"
+          },
+          {
+            "name": "R. He"
+          },
+          {
+            "name": "T. Huang"
+          },
+          {
+            "name": "J. Tian"
+          },
+          {
+            "name": "S. Wu"
+          },
+          {
+            "name": "P. Yan"
+          },
+          {
+            "name": "Y. Cheng"
+          }
+        ],
+        "title": "Remaining Useful Life Prediction Based on Interpretable Serialized Variational Autoencoder: A Drift-Diffusion Stochastic Equation Perspective",
+        "journal": "IEEE Transactions on Industrial Informatics",
+        "year": 2026,
+        "url": "https://ieeexplore.ieee.org/document/11398369"
+      },
+      {
+        "authors": [
+          {
+            "name": "J. Zhang",
+            "is_target_professor": true
+          },
+          {
+            "name": "C. Wang"
+          },
+          {
+            "name": "Q. Qian"
+          },
+          {
+            "name": "S. Yin"
+          }
+        ],
+        "title": "Source-free domain adaptation for cross-domain remaining useful life prediction: A distributed federated learning perspective",
+        "journal": "Reliability Engineering & System Safety",
+        "year": 2026,
+        "volume_issue_pages": "271: 112271",
+        "url": "https://doi.org/10.1016/j.ress.2026.112271"
+      },
+      {
+        "authors": [
+          {
+            "name": "J. Zhang",
+            "is_target_professor": true
+          },
+          {
+            "name": "K. Chen"
+          },
+          {
+            "name": "F. Wu"
+          },
+          {
+            "name": "Q. Qian"
+          },
+          {
+            "name": "T. Huang"
+          },
+          {
+            "name": "Y. Cheng"
+          },
+          {
+            "name": "S. Yin"
+          }
+        ],
+        "title": "Remaining useful life prediction based on self-attention mechanism-sequential variational autoencoder: From a semi-supervised perspective",
+        "journal": "Advanced Engineering Informatics",
+        "year": 2026,
+        "volume_issue_pages": "71: 104242",
+        "url": "https://doi.org/10.1016/j.aei.2025.104242"
+      },
+      {
+        "authors": [
+          {
+            "name": "J. Zhang",
+            "is_target_professor": true,
+            "is_co_first_author": true
+          },
+          {
+            "name": "H. Luo",
+            "is_co_first_author": true
+          },
+          {
+            "name": "J. Hu"
+          },
+          {
+            "name": "C. Cheng"
+          },
+          {
+            "name": "S. Wu"
+          },
+          {
+            "name": "P. Yan"
+          },
+          {
+            "name": "J. Tian"
+          }
+        ],
+        "title": "A Transferable Topology-Aware Graph Pooling Network for Remaining Useful Life Prediction Under Cross-Domain Conditions",
+        "journal": "IEEE Transactions on Reliability",
+        "year": 2025,
+        "url": "https://ieeexplore.ieee.org/document/11313664/"
+      },
+      {
+        "authors": [
+          {
+            "name": "J. Zhang",
+            "is_target_professor": true
+          },
+          {
+            "name": "K. Qian"
+          },
+          {
+            "name": "H. Luo"
+          },
+          {
+            "name": "Y. Liu"
+          },
+          {
+            "name": "X. Qiao"
+          },
+          {
+            "name": "X. Xu"
+          },
+          {
+            "name": "J. Tian"
+          }
+        ],
+        "title": "Process monitoring for tower pumping units under variable operational conditions: From an integrated multitasking perspective",
+        "journal": "Control Engineering Practice",
+        "year": 2025,
+        "volume_issue_pages": "156: 106229",
+        "url": "https://doi.org/10.1016/j.conengprac.2024.106229"
+      },
+      {
+        "authors": [
+          {
+            "name": "J. Zhang",
+            "is_target_professor": true
+          },
+          {
+            "name": "K. Zhang"
+          },
+          {
+            "name": "Y. An"
+          },
+          {
+            "name": "H. Luo"
+          },
+          {
+            "name": "S. Yin"
+          }
+        ],
+        "title": "An Integrated Multitasking Intelligent Bearing Fault Diagnosis Scheme Based on Representation Learning Under Imbalanced Sample Condition",
+        "journal": "IEEE Transactions on Neural Networks and Learning Systems",
+        "year": 2024,
+        "volume_issue_pages": "35(5): 6231-6242",
+        "url": "https://ieeexplore.ieee.org/document/10008204"
+      },
+      {
+        "authors": [
+          {
+            "name": "J. Zhang",
+            "is_target_professor": true
+          },
+          {
+            "name": "C. Huang"
+          },
+          {
+            "name": "M. Y. Chow"
+          },
+          {
+            "name": "X. Li"
+          },
+          {
+            "name": "J. Tian"
+          },
+          {
+            "name": "H. Luo"
+          },
+          {
+            "name": "S. Yin"
+          }
+        ],
+        "title": "A Data-model Interactive Remaining Useful Life Prediction Approach of Lithium-ion Batteries Based on PF-BiGRU-TSAM",
+        "journal": "IEEE Transactions on Industrial Informatics",
+        "year": 2024,
+        "volume_issue_pages": "20(2): 1144-1154",
+        "url": "https://ieeexplore.ieee.org/document/10098908"
+      },
+      {
+        "authors": [
+          {
+            "name": "J. Zhang",
+            "is_target_professor": true
+          },
+          {
+            "name": "J. Tian"
+          },
+          {
+            "name": "H. Luo"
+          },
+          {
+            "name": "S. Wu"
+          },
+          {
+            "name": "S. Yin"
+          },
+          {
+            "name": "O. Kaynak"
+          }
+        ],
+        "title": "Prognostics for the Sustainability of Industrial Cyber-Physical Systems: From an Artificial Intelligence Perspective",
+        "journal": "IEEE Transactions on Industrial Cyber-Physical Systems",
+        "year": 2024,
+        "volume_issue_pages": "2: 495-507",
+        "url": "https://ieeexplore.ieee.org/document/10609542"
+      },
+      {
+        "authors": [
+          {
+            "name": "J. Zhang",
+            "is_target_professor": true
+          },
+          {
+            "name": "J. Tian"
+          },
+          {
+            "name": "P. Yan"
+          },
+          {
+            "name": "S. Wu"
+          },
+          {
+            "name": "H. Luo"
+          },
+          {
+            "name": "S. Yin"
+          }
+        ],
+        "title": "Multi-hop graph pooling adversarial network for cross-domain remaining useful life prediction: A distributed federated learning perspective",
+        "journal": "Reliability Engineering & System Safety",
+        "year": 2024,
+        "volume_issue_pages": "244: 109950",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0951832024000255"
+      },
+      {
+        "authors": [
+          {
+            "name": "J. Zhang",
+            "is_target_professor": true
+          },
+          {
+            "name": "J. Tian"
+          },
+          {
+            "name": "A. M. Alcaide"
+          },
+          {
+            "name": "J. I. Leon"
+          },
+          {
+            "name": "S. Vazquez"
+          },
+          {
+            "name": "L. G. Franquelo"
+          },
+          {
+            "name": "H. Luo"
+          },
+          {
+            "name": "S. Yin"
+          }
+        ],
+        "title": "Lifetime Extension Approach Based on Levenberg-arquardt Neural Network and Power Routing of DC-DC Converters",
+        "journal": "IEEE Transactions on Power Electronics",
+        "year": 2023,
+        "volume_issue_pages": "38(3): 10280-10291",
+        "url": "https://ieeexplore.ieee.org/document/10124028"
+      },
+      {
+        "authors": [
+          {
+            "name": "J. Zhang",
+            "is_target_professor": true
+          },
+          {
+            "name": "X. Li"
+          },
+          {
+            "name": "J. Tian"
+          },
+          {
+            "name": "H. Luo"
+          },
+          {
+            "name": "S. Yin"
+          }
+        ],
+        "title": "An integrated multi-head dual sparse self-attention network for remaining useful life prediction",
+        "journal": "Reliability Engineering & System Safety",
+        "year": 2023,
+        "volume_issue_pages": "233: 109096",
+        "url": "https://www.sciencedirect.com/science/article/pii/S095183202300011X"
+      },
+      {
+        "authors": [
+          {
+            "name": "J. Zhang",
+            "is_target_professor": true
+          },
+          {
+            "name": "X. Li"
+          },
+          {
+            "name": "J. Tian"
+          },
+          {
+            "name": "Y. Jiang"
+          },
+          {
+            "name": "H. Luo"
+          },
+          {
+            "name": "S. Yin"
+          }
+        ],
+        "title": "A variational local weighted deep sub-domain adaptation network for remaining useful life prediction facing cross-domain condition",
+        "journal": "Reliability Engineering & System Safety",
+        "year": 2023,
+        "volume_issue_pages": "231: 108986",
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S0951832022006019"
+      },
+      {
+        "authors": [
+          {
+            "name": "J. Zhang",
+            "is_target_professor": true
+          },
+          {
+            "name": "J. Tian"
+          },
+          {
+            "name": "M. Li"
+          },
+          {
+            "name": "J. I. Leon"
+          },
+          {
+            "name": "L. G. Franquelo"
+          },
+          {
+            "name": "H. Luo"
+          },
+          {
+            "name": "S. Yin"
+          }
+        ],
+        "title": "A Parallel Hybrid Neural Network with Integration of Spatial and Temporal Features for Remaining Useful Life Prediction in Prognostics",
+        "journal": "IEEE Transactions on Instrumentation and Measurement",
+        "year": 2023,
+        "volume_issue_pages": "72: 1-12",
+        "url": "https://ieeexplore.ieee.org/document/9992207"
+      },
+      {
+        "authors": [
+          {
+            "name": "J. Zhang",
+            "is_target_professor": true
+          },
+          {
+            "name": "Y. Jiang"
+          },
+          {
+            "name": "X. Li"
+          },
+          {
+            "name": "H. Luo"
+          },
+          {
+            "name": "S. Yin"
+          },
+          {
+            "name": "O. Kaynak"
+          }
+        ],
+        "title": "Remaining Useful Life Prediction of Lithium-ion Battery with Adaptive Noise Estimation and Capacity Regeneration Detection",
+        "journal": "IEEE/ASME Transactions on Mechatronics",
+        "year": 2023,
+        "volume_issue_pages": "28(2): 632-643",
+        "url": "https://ieeexplore.ieee.org/document/9882974"
+      },
+      {
+        "authors": [
+          {
+            "name": "J. Zhang",
+            "is_target_professor": true
+          },
+          {
+            "name": "Y. Jiang"
+          },
+          {
+            "name": "X. Li"
+          },
+          {
+            "name": "M. Huo"
+          },
+          {
+            "name": "H. Luo"
+          },
+          {
+            "name": "S. Yin"
+          }
+        ],
+        "title": "An adaptive remaining useful life prediction approach for single battery with unlabeled small sample data and parameter uncertainty",
+        "journal": "Reliability Engineering & System Safety",
+        "year": 2022,
+        "volume_issue_pages": "222: 108357",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0951832022000369"
+      },
+      {
+        "authors": [
+          {
+            "name": "J. Zhang",
+            "is_target_professor": true
+          },
+          {
+            "name": "Y. Jiang"
+          },
+          {
+            "name": "S. Wu"
+          },
+          {
+            "name": "X. Li"
+          },
+          {
+            "name": "H. Luo"
+          },
+          {
+            "name": "S. Yin"
+          }
+        ],
+        "title": "Prediction of remaining useful life based on bidirectional gated recurrent unit with temporal self-attention mechanism",
+        "journal": "Reliability Engineering & System Safety",
+        "year": 2022,
+        "volume_issue_pages": "221: 108297",
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S0951832021007687"
+      }
+    ],
+    "representative_patents": [
+      {
+        "inventors": [
+          {
+            "name": "张九思",
+            "is_target_professor": true
+          },
+          {
+            "name": "罗浩"
+          },
+          {
+            "name": "李翔"
+          },
+          {
+            "name": "王豪"
+          },
+          {
+            "name": "吴诗梦"
+          },
+          {
+            "name": "田纪伦"
+          },
+          {
+            "name": "尹珅"
+          }
+        ],
+        "title": "基于变分局部加权子域自适应网络的剩余使用寿命预测方法",
+        "patent_number": "ZL202211085781.X"
+      },
+      {
+        "inventors": [
+          {
+            "name": "张九思",
+            "is_target_professor": true
+          },
+          {
+            "name": "李翔"
+          },
+          {
+            "name": "罗浩"
+          },
+          {
+            "name": "田纪伦"
+          },
+          {
+            "name": "李明磊"
+          },
+          {
+            "name": "蒋宇辰"
+          },
+          {
+            "name": "尹珅"
+          }
+        ],
+        "title": "一种基于数模联动的锂离子电池剩余使用寿命预测方法",
+        "patent_number": "ZL202210729394.9"
+      },
+      {
+        "inventors": [
+          {
+            "name": "张九思",
+            "is_target_professor": true
+          },
+          {
+            "name": "李翔"
+          },
+          {
+            "name": "罗浩"
+          },
+          {
+            "name": "张可"
+          },
+          {
+            "name": "安翼尧"
+          },
+          {
+            "name": "田纪伦"
+          },
+          {
+            "name": "尹珅"
+          }
+        ],
+        "title": "一种基于表示学习的轴承故障检测和分类的一体化方法",
+        "patent_number": "ZL202210416390.5"
+      },
+      {
+        "inventors": [
+          {
+            "name": "张九思",
+            "is_target_professor": true
+          },
+          {
+            "name": "李翔"
+          },
+          {
+            "name": "罗浩"
+          },
+          {
+            "name": "蒋宇辰"
+          },
+          {
+            "name": "吴诗梦"
+          },
+          {
+            "name": "田纪伦"
+          },
+          {
+            "name": "尹珅"
+          }
+        ],
+        "title": "基于最大期望-无迹粒子滤波的电池剩余使用寿命预测方法",
+        "patent_number": "ZL202210415333.5"
+      },
+      {
+        "inventors": [
+          {
+            "name": "张九思",
+            "is_target_professor": true
+          },
+          {
+            "name": "李翔"
+          },
+          {
+            "name": "罗浩"
+          },
+          {
+            "name": "蒋宇辰"
+          },
+          {
+            "name": "霍明夷"
+          },
+          {
+            "name": "田纪伦"
+          },
+          {
+            "name": "尹珅"
+          }
+        ],
+        "title": "一种面向单个锂离子电池的自适应在线剩余使用寿命预测方法",
+        "patent_number": "ZL202210065461.1"
+      },
+      {
+        "inventors": [
+          {
+            "name": "张九思",
+            "is_target_professor": true
+          },
+          {
+            "name": "罗浩"
+          },
+          {
+            "name": "田纪伦"
+          },
+          {
+            "name": "李翔"
+          },
+          {
+            "name": "李明磊"
+          },
+          {
+            "name": "尹珅"
+          }
+        ],
+        "title": "一种并联直流-直流变换器的寿命延长方法",
+        "patent_number": "ZL202110976680.0"
+      },
+      {
+        "inventors": [
+          {
+            "name": "张九思",
+            "is_target_professor": true
+          },
+          {
+            "name": "蒋宇辰"
+          },
+          {
+            "name": "罗浩"
+          },
+          {
+            "name": "吴诗梦"
+          },
+          {
+            "name": "尹珅"
+          }
+        ],
+        "title": "飞机涡扇发动机的剩余使用寿命预测方法及系统",
+        "patent_number": "ZL202110522956.8"
+      }
+    ],
+    "education_experience": [
+      {
+        "start_date": "2021.09",
+        "end_date": "2024.12",
+        "institution": "哈尔滨工业大学"
+      },
+      {
+        "start_date": "2019.09",
+        "end_date": "2021.07",
+        "institution": "哈尔滨工业大学"
+      },
+      {
+        "start_date": "2015.09",
+        "end_date": "2019.07",
+        "institution": "哈尔滨工程大学"
+      }
+    ],
+    "work_experience": [
+      {
+        "start_date": "2025.03",
+        "end_date": "present",
+        "institution": "电子科技大学",
+        "department": "自动化工程学院",
+        "role": "硕士生导师"
+      },
+      {
+        "start_date": "2025.02",
+        "end_date": "present",
+        "institution": "电子科技大学",
+        "department": "自动化工程学院",
+        "role": "特聘副教授"
+      }
+    ],
+    "research_focus": [
+      "智能故障诊断/预测/容错",
+      "工业大数据与人工智能",
+      "数据驱动的监测与优化",
+      "复杂工业系统智能运维",
+      "电子测试仪器精密测量"
+    ],
+    "social_affiliations": "暂无内容",
+    "site_chrome": {
+      "navigation_links": [
+        {
+          "anchor_text": "同专业硕导",
+          "url": "https://faculty.uestc.edu.cn/zhangjiusi/zh_CN/tzysd/557071/list/index.htm"
+        }
+      ]
+    }
+  }
+}

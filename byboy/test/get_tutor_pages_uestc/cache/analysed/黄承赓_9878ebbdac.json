@@ -1,0 +1,168 @@
+{
+  "meta": {
+    "tutor_name_cn": "黄承赓",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1157/7714.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1157/7714.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/b44d678a35594d676ebcc14c8728b984732ed30d66a6d7026e24d38eda37dce9.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "site_info": {
+      "source_url": "https://www.auto.uestc.edu.cn/info/1157/7714.htm",
+      "navigation": {
+        "breadcrumbs": [
+          {
+            "text": "首页",
+            "url": "https://www.auto.uestc.edu.cn/index.htm"
+          },
+          {
+            "text": "师资队伍",
+            "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+          },
+          {
+            "text": "教师名录总览页",
+            "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+          },
+          {
+            "text": "H",
+            "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/H.htm"
+          },
+          {
+            "text": "正文",
+            "url": null
+          }
+        ],
+        "side_menu": [
+          {
+            "text": "教师名录",
+            "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+          },
+          {
+            "text": "教师名录总览页",
+            "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+          }
+        ]
+      },
+      "section_title": "师资队伍"
+    },
+    "faculty_member": {
+      "name": "黄承赓",
+      "image_url": "https://www.auto.uestc.edu.cn/__local/1/FF/E5/344F486187BB0C55F2E8ED03385_A0DF311B_B078.jpg",
+      "basic_info": {
+        "highest_degree": "博士",
+        "contact_phone": null,
+        "title_position": "副教授",
+        "email": "cheng-geng.huang@uestc.edu.cn",
+        "supervisor_status": "硕士生导师",
+        "personal_homepage": null,
+        "research_team": "自动化前沿与交叉中心"
+      },
+      "research_directions": [
+        "故障诊断预测与健康管理（DPHM）",
+        "工业大数据与人工智能",
+        "大语言模型与智能体及其在DPHM领域的工程化应用",
+        "柔性电子失效物理分析等"
+      ],
+      "academic_titles_and_affiliations": [
+        "担任SCI期刊Proceedings of the Institution of Mechanical Engineers, Part B: Journal of Engineering Manufacture有关“数字孪生等先进技术赋能制造系统健康管理”特刊客座主编",
+        "担任SCI期刊Applied Sciences有关“海工装备结构设计、分析、运维”特刊客座主编",
+        "担任IEEE International Conference on Computer Science and Education, International Conference on System Reliability and Safety Engineering, International Conference on Quality, Reliability, Risk, Maintenance, and Safety Engineering等多个国际会议分会场主席",
+        "担任2022年航空航天工程与系统国际研讨会技术委员会委员、2021QR2MSE&ICRSE国际学术会议组织委员会委员",
+        "担任广东海装海上风电研究中心有限公司专家顾问职位",
+        "担任多个中科院一区期刊审稿人，例如IEEE T IND ELECTRON、IEEE T IND INFORM、MECH SYST SIGNAL PR等"
+      ],
+      "education_and_work_experience": [
+        {
+          "start_date": "2025-05",
+          "end_date": "至今",
+          "country": "中国",
+          "institution": "电子科技大学",
+          "department": "自动化工程学院",
+          "role": "副教授"
+        },
+        {
+          "start_date": "2023-09",
+          "end_date": "至今",
+          "country": "中国",
+          "institution": "电子科技大学",
+          "department": "自动化工程学院",
+          "role": "讲师"
+        },
+        {
+          "start_date": "2022-09",
+          "end_date": "2023-09",
+          "country": "新加坡",
+          "institution": "新加坡国立大学",
+          "department": "工业系统工程与管理系",
+          "role": "Research Fellow",
+          "supervisor": "董润桢 教授(新加坡工程院院士)"
+        },
+        {
+          "start_date": "2020-03",
+          "end_date": "2022-09",
+          "country": "中国",
+          "institution": "中山大学",
+          "department": "智能工程学院",
+          "role": "博士后",
+          "supervisor": "韩瑜 教授"
+        },
+        {
+          "start_date": "2017-09",
+          "end_date": "2019-09",
+          "country": "新加坡",
+          "institution": "新加坡国立大学",
+          "department": "工业系统工程与管理系",
+          "role": "联合培养博士研究生",
+          "supervisor": "董润桢 教授(新加坡工程院院士)"
+        },
+        {
+          "start_date": "2013-09",
+          "end_date": "2019-12",
+          "country": "中国",
+          "institution": "电子科技大学",
+          "department": "机械与电气工程学院",
+          "degree": "工学博士 (硕博连读)",
+          "supervisor": "黄洪钟 教授"
+        },
+        {
+          "start_date": "2009-09",
+          "end_date": "2013-07",
+          "country": "中国",
+          "institution": "电子科技大学",
+          "department": "光电科学与工程学院",
+          "degree": "工学学士"
+        }
+      ],
+      "scientific_research": {
+        "summary": "近年来共发表学术论文45篇，ESI热点论文1篇，ESI高被引论文5篇，其中第一作者（通讯作者）发表SCI检索论文12篇 （中科院1区或Top期刊合计9篇，Google学术引用2115次，Web of Science严格他引1511次），授权发明专利10项。主持了国家自然科学基金青年基金、国家重点研发计划子课题和中国博士后面上基金。",
+        "awards": [
+          "中国机械工程学会工业工程分会最佳学术论文奖",
+          "第十四届质量、可靠性、风险、维修性及安全性工程国际学术会议最佳论文奖",
+          "第四届系统可靠性与安全性国际学术会议最佳汇报奖"
+        ],
+        "academic_service": {
+          "recognitions": [
+            "2023年度IEEE仪表测量学会杰出审稿人"
+          ],
+          "editorial_roles": [
+            "《Journal of Reliability Science and Engineering》期刊青年编委"
+          ],
+          "invited_talks": [
+            "第八届机械电子和工业工程国际学术会议 (MEIE 2025)",
+            "2025年智能运维/损伤评估与故障诊断创新发展会议",
+            "第三届复杂装备可靠性工程与科学研讨会暨第十二届模型验证与确认专题研讨会"
+          ]
+        }
+      },
+      "courses_and_teaching": null,
+      "admission_majors": {
+        "master": null,
+        "phd": null
+      }
+    }
+  }
+}

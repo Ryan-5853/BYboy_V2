@@ -37,6 +37,9 @@ class WebCleanPayload:
     url: str
     output_dir: str | Path
     output_filename: str
+    #: 可选：由编排层填入，便于日志展示 ``[i/n]`` 批次进度。
+    progress_index: int | None = None
+    progress_total: int | None = None
 
 
 def firecrawl_api_key_from_env() -> str:
@@ -163,18 +166,21 @@ class WebCleanAgent:
         dispatcher: LLMDispatcher,
     ) -> Path:
         log = AgentLogger("WebCleanAgent")
-        log.start("开始清洗网页", detail=inv.llm_part.url.strip())
-        dispatcher.resolve(inv.model.token)
         p = inv.llm_part
+        prog = ""
+        if p.progress_index is not None and p.progress_total is not None:
+            prog = f"[{p.progress_index}/{p.progress_total}] "
+        log.start("网页清洗", detail=f"{prog}{p.url.strip()}")
+        dispatcher.resolve(inv.model.token)
         _validate_http_url(p.url)
-        log.step("调用 Firecrawl 抓取 markdown")
+        log.step("Firecrawl 抓取", detail=f"{prog}{p.url.strip()[:120]}")
         # 这个站点详情页往往是空壳 HTML + JS 动态加载正文，等待后可提高命中率。
         raw = scrape_url_to_markdown(p.url, wait_for_ms=2500)
         md = _markdown_with_source_declaration(p.url, raw)
         out = _output_path(p)
         out.parent.mkdir(parents=True, exist_ok=True)
         out.write_text(md, encoding="utf-8", newline="\n")
-        log.done("写入清洗结果", detail=str(out))
+        log.done("网页清洗完成", detail=f"{prog}{out.name}")
         return out
 
     async def arun(

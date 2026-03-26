@@ -58,6 +58,23 @@ def main(argv: list[str] | None = None) -> int:
         help="link_choose 仅对规则低置信链接调 LLM（默认每条链接都过 LLM）",
     )
     p.add_argument(
+        "--academy-name",
+        default="",
+        help="学院/单位名称（传入链接分类 task_context，防串院；建议始终填写）",
+    )
+    p.add_argument(
+        "--listing-pagination-max-passes",
+        type=int,
+        default=80,
+        help="同一大轮内名录「下一页」最多追加清洗次数（不占 --depth）；0 关闭专道",
+    )
+    p.add_argument(
+        "--link-choose-refine-batch-parallel-workers",
+        type=int,
+        default=1,
+        help="单页 link_choose 内多批 LLM 并行数（默认 1 串行）；总并发约「本值 × 链接分类页级并行」",
+    )
+    p.add_argument(
         "--resume-state",
         type=Path,
         default=None,
@@ -88,6 +105,10 @@ def main(argv: list[str] | None = None) -> int:
     args = p.parse_args(argv)
     if args.depth <= 0:
         raise SystemExit("--depth 必须为正整数")
+    if args.listing_pagination_max_passes > 500:
+        raise SystemExit("--listing-pagination-max-passes 建议不超过 500")
+    if args.link_choose_refine_batch_parallel_workers <= 0:
+        raise SystemExit("--link-choose-refine-batch-parallel-workers 必须为正整数")
     if args.max_tokens <= 0:
         raise SystemExit("--max-tokens 必须为正整数")
     if args.transient_retry_initial_sec <= 0 or args.transient_retry_max_sec <= 0:
@@ -106,6 +127,11 @@ def main(argv: list[str] | None = None) -> int:
             max_depth=args.depth,
             resume_state_path=args.resume_state,
             link_choose_refine_all_links=not args.link_choose_uncertain_only_llm,
+            academy_scope_hint=(args.academy_name or "").strip() or None,
+            listing_pagination_max_passes=int(args.listing_pagination_max_passes),
+            link_choose_refine_batch_parallel_workers=int(
+                args.link_choose_refine_batch_parallel_workers
+            ),
         ),
     )
     result = agent.run(

@@ -1,0 +1,163 @@
+{
+  "meta": {
+    "tutor_name_cn": "邵晋梁",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1168/4337.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1168/4337.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/f62a0e009bef675a249367b190cad4b0a46089400082719791f3008e19aa2040.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "query_name": "邵晋梁",
+    "source_url": "https://www.auto.uestc.edu.cn/info/1168/4337.htm",
+    "site_chrome": {
+      "source_capture_url": "https://www.auto.uestc.edu.cn/info/1168/4337.htm",
+      "breadcrumbs": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "S",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/S.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "navigation_links": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ]
+    },
+    "tutor_info": {
+      "name": "邵晋梁",
+      "image_url": "https://www.auto.uestc.edu.cn/__local/1/6C/88/D8D04FAC838C9BB8C899605B116_53E758AA_8E518.png",
+      "highest_degree": "博士",
+      "contact_phone": null,
+      "title_position": "教授",
+      "email": "jinliangshao@uestc.edu.cn",
+      "supervisor_status": "博士导师",
+      "personal_homepage": null,
+      "research_team": "感知计算与智能网联汽车研究中心"
+    },
+    "sections": {
+      "main_research_directions": "群体智能涌现机理、集群智能感知与自主控制，无人机\\\\车智能协同控制技术等",
+      "academic_titles_and_part_time_positions": [
+        "美国数学评论评论员",
+        "全国智能物联系统建模与仿真专业委员会委员"
+      ],
+      "education_and_work_experience": [
+        {
+          "period": "2003.09-2009.06",
+          "institution": "电子科技大学数学科学学院",
+          "role": "留校师资生"
+        },
+        {
+          "period": "2009.07-2022.02",
+          "institution": "电子科技大学",
+          "role": "讲师、副教授"
+        },
+        {
+          "period": "2022.05至今",
+          "institution": "电子科技大学",
+          "role": "教授"
+        }
+      ],
+      "scientific_research": {
+        "summary": "长期从事群体智能机理，多智能体系统协同控制，无人集群系统智能感知、协同定位等方面的研究。",
+        "publications": {
+          "papers": {
+            "count_approx": "100余篇",
+            "journals": [
+              "IEEE Transactions on Automatic Control",
+              "Automatica",
+              "SIAM Journal on Control And Optimation",
+              "IEEE Transactions on cybernetics",
+              "IEEE Transactions on Knowledge and Data Engineering",
+              "IEEE Transactions on Industrial Informatics"
+            ]
+          },
+          "patents": {
+            "count_approx": "30余项",
+            "type": "中国发明专利"
+          }
+        },
+        "projects": {
+          "national_level": {
+            "count": 8,
+            "examples": [
+              "国家自然基金面上基金"
+            ]
+          },
+          "provincial_level": [
+            {
+              "name": "四川省杰出青年基金项目",
+              "count": 1
+            },
+            {
+              "name": "四川省国际合作项目",
+              "count": 1
+            }
+          ]
+        },
+        "awards_and_recognitions": [
+          "四川省优秀博士论文",
+          "四川省科技进步一等奖",
+          "入选四川省学术和技术带头人后备人才"
+        ],
+        "other_roles_mentioned": [
+          "美国数学评论评论员",
+          "全国智能物联系统建模与仿真专业委员会委员"
+        ]
+      },
+      "taught_courses_and_teaching_research": {
+        "undergraduate_courses": [
+          "数值计算方法",
+          "专业写作基础"
+        ],
+        "graduate_courses": [
+          "智能控制理论及应用",
+          "研究生论文写作指导"
+        ]
+      },
+      "admission_majors": {
+        "masters": [
+          "081100控制科学与工程",
+          "085400电子信息"
+        ],
+        "doctorate": [
+          "081100控制科学与工程",
+          "085400电子信息",
+          "086100 交通运输"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "meta": {
+    "tutor_name_cn": "刘科",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1161/4365.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1161/4365.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/5b4b7c1d6b9631231ee86bdcd1b3b4876ea1c8424907214c09a0a9cb5469882c.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "source_url": "https://www.auto.uestc.edu.cn/info/1161/4365.htm",
+    "site_chrome": {
+      "section_title": "师资队伍",
+      "breadcrumbs": [
+        {
+          "text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "text": "L",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/L.htm"
+        },
+        {
+          "text": "正文",
+          "url": null
+        }
+      ],
+      "side_navigation": [
+        {
+          "text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ]
+    },
+    "personal_info": {
+      "name": "刘科",
+      "degree": "博士",
+      "phone": null,
+      "title": "研究员",
+      "email": "liuke@uestc.edu.cn",
+      "supervisory_role": "博士生导师",
+      "homepage": null,
+      "research_team": "测试技术与仪器研究所"
+    },
+    "image": {
+      "url": "https://www.auto.uestc.edu.cn/__local/F/01/4E/1AF11FE106DD2BD6437C2A14D1A_FAC43E5B_3CE4.jpg",
+      "alt_text": "刘科"
+    },
+    "research_directions": [
+      "频率合成技术、波形数字化合成方法",
+      "测试仪器仪表、系统设计"
+    ],
+    "academic_titles_affiliations": null,
+    "experience": [
+      "2006.01- 2011.05 电子科技大学，自动化工程学院，讲师",
+      "2011.06- 2017.07 电子科技大学，自动化工程学院，副教授",
+      "2015.08- 2016.08 美国圣地亚哥州立大学，访问学者",
+      "2017.08至今 电子科技大学，自动化工程学院，研究员"
+    ],
+    "scientific_research": {
+      "summary": "近五年，主持省部级重点基金、项目以及横向合作项目10余项。",
+      "awards": [
+        "2013年获国家技术发明二等奖1项",
+        "2012年获教育部发明一等奖1项"
+      ],
+      "publications": [
+        "发表SCI/EI检索学术论文20余篇"
+      ],
+      "patents": {
+        "applied": "20多项",
+        "authorized": "15项"
+      },
+      "software_copyrights": "2项",
+      "books": [
+        "编著“十二五”国家重点出版物出版规划项目《宽带信号实时捕获与合成技术》"
+      ]
+    },
+    "teaching": {
+      "undergraduate_courses": [
+        "信号与系统",
+        "电子测量原理",
+        "魅力自动化：入门与创新",
+        "综合（专题）课程设计"
+      ],
+      "graduate_courses": [
+        "信号处理方法及应用"
+      ],
+      "teaching_appointments": [
+        "虚拟仿真实验创新联盟机械领域工作委员会委员",
+        "学院本科教学指导委员会委员",
+        "学院本科教学质量监督小组副组长"
+      ],
+      "teaching_research_projects": [
+        "主持四川省2018-2020年高等教育人才培养质量和教学改革项目（重点）项目1项",
+        "主持教育部产学合作协同育人项目1项",
+        "主持校级“科研育人”新工程教育改革专项1项（基于电子测试仪器设计的新工程教育改革）",
+        "主持校级“基于项目的新工科课程体系建设计划”项目1项",
+        "主持校级“《数字信号处理方法及应用》研究生精品课程建设”项目1项",
+        "主持校级“教学方法与考核方式改革”、“探究式小班研讨课”各1项"
+      ]
+    },
+    "admission_info": {
+      "masters": [
+        "080400仪器科学与技术",
+        "085400电子信息"
+      ],
+      "phd": null
+    }
+  }
+}

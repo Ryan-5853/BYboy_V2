@@ -1,0 +1,146 @@
+{
+  "meta": {
+    "tutor_name_cn": "陈聪",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1092/5492.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1092/5492.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/935dce27cb96d2ee7b786b030ae65ff4c73b6404a15daf28f90e75b538e350a2.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "site_chrome": {
+      "source_url": "https://www.auto.uestc.edu.cn/info/1092/5492.htm",
+      "section_title": "师资队伍",
+      "breadcrumbs": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "副高级",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/fgj.htm"
+        },
+        {
+          "anchor_text": "正文"
+        }
+      ],
+      "sidebar_navigation": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ]
+    },
+    "person_info": {
+      "name": "陈聪",
+      "image_url": "https://www.auto.uestc.edu.cn/__local/E/BF/3C/57591055C4521813D658E0B47E1_823FEDFD_22B23F.jpg",
+      "highest_degree": "博士",
+      "contact_phone": null,
+      "title_position": "副研究员",
+      "email": "cong_chen@uestc.edu.cn",
+      "supervisor_status": "硕士生导师",
+      "personal_homepage": "https://faculty.uestc.edu.cn/chencong1/zh_CN/index.htm",
+      "research_team": "测试技术与仪器研究所（非电量）"
+    },
+    "sections": {
+      "main_research_directions": "长期从事新型传感与精密测量方向前沿技术研究，包括微纳体声波谐振式传感、功率器件热机可靠性检测等方面。",
+      "academic_titles_and_concurrent_posts": {
+        "description": "担任多个国际期刊审稿人。",
+        "reviewer_roles": [
+          "IEEE Transactions on Instrumentation and Measurement",
+          "IEEE Transactions on Power Electronics",
+          "Journal of Ambient Intelligence and Humanized Computing"
+        ]
+      },
+      "education_and_work_experience": [
+        {
+          "start_date": "2023.05",
+          "end_date": "至今",
+          "institution": "电子科技大学",
+          "department": "自动化工程学院",
+          "role": "副研究员",
+          "type": "work"
+        },
+        {
+          "start_date": "2020.09",
+          "end_date": "2023.05",
+          "institution": "电子科技大学",
+          "department": "自动化工程学院",
+          "role": "助理研究员",
+          "type": "work"
+        },
+        {
+          "start_date": "2019.03",
+          "end_date": "2020.09",
+          "institution": "电子科技大学",
+          "department": "仪器科学与技术",
+          "role": "博士后",
+          "type": "work"
+        },
+        {
+          "start_date": "2013.09",
+          "end_date": "2018.12",
+          "institution": "重庆大学",
+          "department": "仪器科学与技术",
+          "degree": "直博研究生",
+          "type": "education"
+        },
+        {
+          "start_date": "2009.09",
+          "end_date": "2013.06",
+          "institution": "重庆大学",
+          "department": "电子科学与技术",
+          "degree": "本科",
+          "type": "education"
+        }
+      ],
+      "scientific_research": {
+        "description": "秉承基础研究特色鲜明，科技攻关能力突出的发展定位，开展新型传感与精密测量前沿技术研究。",
+        "projects": [
+          {
+            "role": "项目负责人",
+            "details": "主持国家自然科学基金青年基金项目1项、四川省重点研发计划项目1项，中央高校基本科研业务费面向基础前沿类项目1项、技术开发类横向项目3项"
+          },
+          {
+            "role": "项目核心技术骨干",
+            "details": "先后承担国家重点研发计划、国家自然科学基金联合基金重点项目等10余项"
+          }
+        ],
+        "publications": "发表一作及通讯SCI期刊论文及高水平国际学术会议论文9篇，包含中科院一区Top 2篇，二区2篇。",
+        "patents": "作为第一发明人，申请国家发明专利5项，并获授权4项。"
+      },
+      "courses_taught_and_teaching_research": null,
+      "admission_specialties": {
+        "masters": [
+          "080400仪器科学与技术",
+          "085400电子信息",
+          "085407仪器仪表工程"
+        ],
+        "phd": []
+      }
+    }
+  }
+}

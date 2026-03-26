@@ -1,0 +1,233 @@
+{
+  "meta": {
+    "tutor_name_cn": "夏侯士戟",
+    "request_url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/X.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/X.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/2507381bcb32e54c2dbf514a3df99d687aaede219bb7a3c9ae00fcd9fecfc772.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "target_mentor_name": "夏侯士戟",
+    "target_mentor_info": {
+      "name": "夏侯士戟",
+      "image_url": "https://www.auto.uestc.edu.cn/__local/B/F0/2B/F1E3B65651F4EBF7C9C8ADA4F06_86404267_2898D.jpg",
+      "job_title": "副教授",
+      "supervisor_status": "硕士导师",
+      "email": "xiahousj@uestc.edu.cn",
+      "details_page_url": "https://www.auto.uestc.edu.cn/info/1173/4432.htm"
+    },
+    "other_faculty_on_page": [
+      {
+        "name": "肖寅东",
+        "image_url": "https://www.auto.uestc.edu.cn/__local/C/DE/76/223DE50B92684202B02431783B7_FB27AEE0_78B08.jpg",
+        "job_title": "教授",
+        "supervisor_status": "硕士导师",
+        "email": "xydarcher@uestc.edu.cn",
+        "details_page_url": "https://www.auto.uestc.edu.cn/info/1173/6034.htm"
+      },
+      {
+        "name": "谢川",
+        "image_url": "https://www.auto.uestc.edu.cn/__local/D/5D/B9/260669FF68108FB82495080FCCA_CF9F098C_61D75.jpg",
+        "job_title": "副教授",
+        "supervisor_status": "硕士导师",
+        "email": "c.xie@uestc.edu.cn",
+        "details_page_url": "https://www.auto.uestc.edu.cn/info/1173/4428.htm"
+      },
+      {
+        "name": "谢永乐",
+        "image_url": "https://www.auto.uestc.edu.cn/__local/E/A5/A3/45F302A3CABE94C82344AAB9E2C_ED1C3EFD_254FC.png",
+        "job_title": "教授",
+        "supervisor_status": "博士导师",
+        "email": "ylxie@uestc.edu.cn",
+        "details_page_url": "https://www.auto.uestc.edu.cn/info/1173/4319.htm"
+      },
+      {
+        "name": "辛晓帅",
+        "image_url": "https://www.auto.uestc.edu.cn/__local/6/DF/8F/2C95CA3286A270738857050822B_19D68B13_21A631.jpg",
+        "job_title": "讲师",
+        "supervisor_status": null,
+        "email": "xinxiaoshuai@uestc.edu.cn",
+        "details_page_url": "https://www.auto.uestc.edu.cn/info/1173/4108.htm"
+      },
+      {
+        "name": "邢珅",
+        "image_url": "https://www.auto.uestc.edu.cn/__local/F/0D/DE/0D2DB7C90F2679A669A4BF0061D_5DC560B9_4E8C0.jpg",
+        "job_title": "特聘研究员",
+        "supervisor_status": "博士导师",
+        "email": "shen.xing@uestc.edu.cn",
+        "details_page_url": "https://www.auto.uestc.edu.cn/info/1173/8001.htm"
+      },
+      {
+        "name": "熊文军",
+        "image_url": "https://www.auto.uestc.edu.cn/__local/2/8F/81/E4DFBA4D494B00CE0C6B98DD3A8_5141CDBB_4C7D1.jpg",
+        "job_title": "特聘教授",
+        "supervisor_status": "博士生导师",
+        "email": "xwenjun2@uestc.edu.cn",
+        "details_page_url": "https://www.auto.uestc.edu.cn/info/1173/7482.htm"
+      },
+      {
+        "name": "徐红兵",
+        "image_url": "https://www.auto.uestc.edu.cn/__local/7/15/AF/122BC926BEE3118A4E2B61E77F5_337D284C_47319.jpg",
+        "job_title": "教授",
+        "supervisor_status": "博士导师",
+        "email": "hbxu@uestc.edu.cn",
+        "details_page_url": "https://www.auto.uestc.edu.cn/info/1173/4317.htm"
+      },
+      {
+        "name": "薛笑杰",
+        "image_url": "https://www.auto.uestc.edu.cn/__local/B/72/BC/ACE5E3312E3A8675EC4705ED027_21368D9B_33D7A.jpg",
+        "job_title": "助理研究员",
+        "supervisor_status": "硕士导师",
+        "email": "xiaojie.xue1@gmail.com",
+        "details_page_url": "https://www.auto.uestc.edu.cn/info/1173/4424.htm"
+      }
+    ],
+    "site_chrome": {
+      "source_url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/X.htm",
+      "page_title": "师资队伍",
+      "breadcrumbs": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "X",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/X.htm"
+        }
+      ],
+      "sidebar_navigation": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ],
+      "alphabetical_index": [
+        {
+          "anchor_text": "全部",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "A",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/A.htm"
+        },
+        {
+          "anchor_text": "B",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/B.htm"
+        },
+        {
+          "anchor_text": "C",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/C.htm"
+        },
+        {
+          "anchor_text": "D",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/D.htm"
+        },
+        {
+          "anchor_text": "E",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/E.htm"
+        },
+        {
+          "anchor_text": "F",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/F.htm"
+        },
+        {
+          "anchor_text": "G",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/G.htm"
+        },
+        {
+          "anchor_text": "H",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/H.htm"
+        },
+        {
+          "anchor_text": "I",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/I.htm"
+        },
+        {
+          "anchor_text": "J",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/J.htm"
+        },
+        {
+          "anchor_text": "K",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/K.htm"
+        },
+        {
+          "anchor_text": "L",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/L.htm"
+        },
+        {
+          "anchor_text": "M",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/M.htm"
+        },
+        {
+          "anchor_text": "N",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/N.htm"
+        },
+        {
+          "anchor_text": "O",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/O.htm"
+        },
+        {
+          "anchor_text": "P",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/P.htm"
+        },
+        {
+          "anchor_text": "Q",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/Q.htm"
+        },
+        {
+          "anchor_text": "R",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/R.htm"
+        },
+        {
+          "anchor_text": "S",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/S.htm"
+        },
+        {
+          "anchor_text": "T",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/T.htm"
+        },
+        {
+          "anchor_text": "U",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/U.htm"
+        },
+        {
+          "anchor_text": "V",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/V.htm"
+        },
+        {
+          "anchor_text": "W",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/W.htm"
+        },
+        {
+          "anchor_text": "X",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/X.htm"
+        },
+        {
+          "anchor_text": "Y",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/Y.htm"
+        },
+        {
+          "anchor_text": "Z",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/Z.htm"
+        }
+      ],
+      "pagination_info": "首页上页1下页尾页"
+    }
+  }
+}

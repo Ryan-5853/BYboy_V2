@@ -1,0 +1,282 @@
+{
+  "meta": {
+    "tutor_name_cn": "路小波",
+    "request_url": "http://automation.seu.edu.cn/lxb/list.htm",
+    "declared_source_url": "http://automation.seu.edu.cn/lxb/list.htm",
+    "page_host": "automation.seu.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/05bac2e800a095bba5b7eaa830d51b503c6a82abc5916f7e94a487b9d55cd45c.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "name": "路小波",
+    "titles": [
+      "博士",
+      "二级教授",
+      "博士生导师"
+    ],
+    "contact_info": {
+      "phone": "13951815919",
+      "emails": [
+        "xblu@seu.edu.cn",
+        "xblu2013@163.com"
+      ]
+    },
+    "education": [
+      {
+        "degree": "学士",
+        "institution": "上海交通大学"
+      },
+      {
+        "degree": "硕士",
+        "institution": "东南大学"
+      },
+      {
+        "degree": "博士",
+        "institution": "南京航空航天大学"
+      },
+      {
+        "degree": "博士后",
+        "institution": "东南大学电子学与通信博士后流动站"
+      }
+    ],
+    "work_experience": [
+      {
+        "description": "在东南大学电子学与通信博士后流动站做博士后研究。"
+      }
+    ],
+    "research_interests": [
+      "图像处理与模式识别",
+      "智能监控技术",
+      "检测技术与智能系统"
+    ],
+    "projects": {
+      "summary": "近年来主持完成国家、部省级项目及企业项目10多项，目前正在主持多项国家、省部级科研项目及企业委托项目。",
+      "ongoing": [
+        {
+          "title": "面向驾驶员人脸复原的风格迁移超分辨率方法",
+          "type": "国家自然科学基金项目"
+        },
+        {
+          "title": "基于多模态大模型的森林火灾检测与三维重建技术研究",
+          "type": "江苏省科技项目"
+        },
+        {
+          "title": "基于图像识别的跌倒行为检测技术研究",
+          "type": "企业委托项目"
+        },
+        {
+          "title": "基于视频图像的抽烟行为识别技术研究",
+          "type": "企业委托项目"
+        }
+      ],
+      "completed": [
+        {
+          "title": "交通监控环境下面向驾驶员辨识的人脸识别关键技术研究",
+          "type": "国家自然科学基金项目"
+        },
+        {
+          "title": "面向交通监控的行驶车辆超分辨率重建方法研究",
+          "type": "国家自然科学基金项目"
+        },
+        {
+          "title": "基于虚拟信息融合的车辆跟踪模型及在交通事件检测中的应用",
+          "type": "国家自然科学基金项目"
+        },
+        {
+          "title": "交通行为空地一体化监测技术及装备研制",
+          "type": "国家科技支撑计划项目子课题"
+        },
+        {
+          "title": "道路交通图像多维理解技术研究",
+          "type": "国家科技支撑计划项目子课题"
+        },
+        {
+          "title": "时空信息融合的交通图像增强技术及应用",
+          "type": "国家科技支撑计划项目子课题"
+        },
+        {
+          "title": "基于运动图像分析的交通事故检测技术研究",
+          "type": "国家科技支撑计划项目子课题"
+        },
+        {
+          "title": "森林烟火探测关键技术研究",
+          "type": "江苏省重点研发计划项目"
+        },
+        {
+          "title": "视频隧道异常事件监测技术研究",
+          "type": "江苏省六大人才高峰计划"
+        },
+        {
+          "title": "视频隧道交通事件监测关键技术研究",
+          "type": "江苏省交通科技计划项目"
+        },
+        {
+          "title": "基于多传感器的交通信息采集设备",
+          "type": "江苏省科技型企业技术创新资金项目"
+        },
+        {
+          "title": "基于成像控制的通行车辆违法违规行为高清取证技术研究",
+          "type": "公安部重点实验室开放课题"
+        },
+        {
+          "title": "基于视频分析的森林烟火识别算法与软件开发",
+          "type": "企业委托项目"
+        },
+        {
+          "title": "基于智能视频分析的烟火探测系统",
+          "type": "企业委托项目"
+        },
+        {
+          "title": "基于视频分析的黑烟车检测算法与软件研发",
+          "type": "企业委托项目"
+        },
+        {
+          "title": "基于计算机视觉的手势识别软件开发",
+          "type": "企业委托项目"
+        },
+        {
+          "title": "手机相机图像处理算法研究",
+          "type": "企业委托项目"
+        },
+        {
+          "title": "视频公共安全监控技术研究",
+          "type": "企业委托项目"
+        },
+        {
+          "title": "动车组车下关键部件故障图像智能识别技术深化研究",
+          "type": "企业委托项目"
+        },
+        {
+          "title": "视频交通信息采集软件开发",
+          "type": "企业委托项目"
+        }
+      ]
+    },
+    "publications": {
+      "summary": "在IEEE TPAMI、IEEE TIP、IEEE TCSVT、IEEE TITS、IEEE TII、PR及CVPR、ICCV、AAAI等国际顶级期刊及会议上发表多篇论文。",
+      "books": [
+        {
+          "title": "智能运输系统（ITS）概论（第二版）",
+          "authors": "与黄卫院士合编",
+          "publisher": "人民交通出版社"
+        }
+      ]
+    },
+    "patents": [
+      {
+        "type": "发明专利",
+        "count": 35
+      }
+    ],
+    "software_copyrights": [
+      {
+        "count": 2
+      }
+    ],
+    "awards": [
+      {
+        "name": "国家科技进步奖二等奖",
+        "quantity": 1,
+        "category": "国家级"
+      },
+      {
+        "name": "教育部自然科学奖一等奖",
+        "quantity": 1,
+        "category": "部级"
+      },
+      {
+        "name": "江苏省科学技术奖二等奖",
+        "quantity": 1,
+        "category": "省级"
+      },
+      {
+        "name": "公安部科技成果二等奖",
+        "quantity": 1,
+        "category": "部级"
+      },
+      {
+        "name": "中国发明协会发明创新一等奖",
+        "quantity": 1,
+        "category": "学会/协会"
+      },
+      {
+        "name": "中国产学研合作创新成果一等奖",
+        "quantity": 1,
+        "category": "产学研"
+      }
+    ],
+    "courses_taught": [
+      {
+        "level": "本科",
+        "name": "自动检测技术"
+      },
+      {
+        "level": "硕士",
+        "name": "信号检测理论与技术"
+      },
+      {
+        "level": "博士",
+        "name": "随机信号处理"
+      }
+    ],
+    "student_supervision": {
+      "admission_quota": {
+        "master_students_per_year": "4-5名",
+        "doctoral_students_per_year": "1-2名"
+      },
+      "student_awards_supervised": [
+        {
+          "year": "2022年度",
+          "award": "吴文俊人工智能优秀博士论文奖提名"
+        },
+        {
+          "year": "2017年度",
+          "award": "智能交通领域全国优秀博士论文奖"
+        },
+        {
+          "year": "2014年度",
+          "award": "江苏省优秀博士论文奖"
+        },
+        {
+          "year": "2021年度",
+          "award": "东南大学优秀博士论文奖"
+        },
+        {
+          "year": "2020年度",
+          "award": "东南大学优秀硕士论文奖"
+        },
+        {
+          "year": "2015年度",
+          "award": "东南大学优秀硕士论文奖"
+        },
+        {
+          "year": "2014年度",
+          "award": "东南大学优秀博士论文奖"
+        },
+        {
+          "year": "2019年度",
+          "award": "全国研究生数模竞赛一等奖、华为专项奖"
+        },
+        {
+          "award": "历年多名研究生获国家奖学金"
+        }
+      ]
+    },
+    "site_chrome": {
+      "source_url": "http://automation.seu.edu.cn/lxb/list.htm",
+      "images": [
+        {
+          "url": "https://automation.seu.edu.cn/lxb/list.htm",
+          "description": "Possibly broken image or visit counter (from markdown: ![](https://automation.seu.edu.cn/lxb/list.htm))"
+        },
+        {
+          "url": "https://automation.seu.edu.cn/_visitcount?siteId=338&type=2&columnId=50552",
+          "description": "Visit counter image"
+        }
+      ]
+    }
+  }
+}

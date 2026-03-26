@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "tutor_name_cn": "黄方剑",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1157/4064.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1157/4064.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/55abe71747b25d2ec31be320fd486f6f23f9536e8902880a28863095158df426.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "query_name": "黄方剑",
+    "source_url": "https://www.auto.uestc.edu.cn/info/1157/4064.htm",
+    "site_chrome": {
+      "header_bar_elements": [
+        {
+          "anchor_text": "学校首页",
+          "url": "https://www.uestc.edu.cn/",
+          "image_src": "https://www.auto.uestc.edu.cn/images/h-cio.png"
+        },
+        {
+          "anchor_text": "EN",
+          "url": "https://www.auto.uestc.edu.cn/en/",
+          "image_src": "https://www.auto.uestc.edu.cn/images/h-cio.png"
+        },
+        {
+          "text": "搜索",
+          "image_src": "https://www.auto.uestc.edu.cn/images/ser.png"
+        }
+      ],
+      "left_sidebar_navigation": [
+        {
+          "main_item": {
+            "anchor_text": "学院概况",
+            "url": "https://www.auto.uestc.edu.cn/xygk/xyjj.htm"
+          },
+          "sub_items": [
+            {
+              "anchor_text": "学院简介",
+              "url": "https://www.auto.uestc.edu.cn/xygk/xyjj.htm"
+            },
+            {
+              "anchor_text": "现任领导",
+              "url": "https://www.auto.uestc.edu.cn/xygk/xrld.htm"
+            },
+            {
+              "anchor_text": "科室设置",
+              "url": "https://www.auto.uestc.edu.cn/xygk/kssz.htm"
+            },
+            {
+              "anchor_text": "院长信箱",
+              "url": "https://www.auto.uestc.edu.cn/xygk/yzxx.htm"
+            },
+            {
+              "anchor_text": "书记信箱",
+              "url": "https://www.auto.uestc.edu.cn/xygk/sjxx.htm"
+            }
+          ]
+        },
+        {
+          "main_item": {
+            "anchor_text": "师资队伍",
+            "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+          },
+          "sub_items": [
+            {
+              "anchor_text": "教师名录",
+              "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm",
+              "sub_": null
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

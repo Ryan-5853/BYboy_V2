@@ -1,0 +1,374 @@
+{
+  "clickable_links": [
+    {
+      "url": "https://automation.seu.edu.cn/jysxdtl/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL是列表页且后续有分页，暗示其为导师列表入口",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/main.htm",
+      "anchor_text": "首页",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "锚文本明确指出是网站首页",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/jysxdtl/list.htm",
+      "anchor_text": "学术年专栏",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "锚文本“学术年专栏”指向非导师相关内容",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/2025/0220/c42767a519088/page.htm",
+      "anchor_text": "自动化学院“六朝松∙智控论坛”—名家讲坛系列报告",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL结构和锚文本表明是新闻/活动报告页面",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/2025/0106/c42767a516759/page.htm",
+      "anchor_text": "自动化学院“六朝松∙智控论坛”—名家讲坛系列报告",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL结构和锚文本表明是新闻/活动报告页面",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/2024/1226/c42767a515873/page.htm",
+      "anchor_text": "自动化学院“六朝松∙智控论坛”—名家讲坛系列报告",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL结构和锚文本表明是新闻/活动报告页面",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/2024/1224/c42767a515745/page.htm",
+      "anchor_text": "自动化学院“六朝松∙智控论坛”—名家讲坛系列报告",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL结构和锚文本表明是新闻/活动报告页面",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/2024/1219/c42767a515256/page.htm",
+      "anchor_text": "自动化学院“六朝松∙智控论坛”—名家讲坛系列报告",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL结构和锚文本表明是新闻/活动报告页面",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/2024/1204/c42767a513556/page.htm",
+      "anchor_text": "自动化学院“六朝松∙智控论坛”—名家讲坛系列报告",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL结构和锚文本表明是新闻/活动报告页面",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/2024/1119/c42767a511850/page.htm",
+      "anchor_text": "自动化学院“六朝松∙智控论坛” —名家讲坛系列报告",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL结构和锚文本表明是新闻/活动报告页面",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/2024/1104/c42767a509083/page.htm",
+      "anchor_text": "自动化学院“六朝松∙智控论坛”—名家讲坛系列报告",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL结构和锚文本表明是新闻/活动报告页面",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/2024/1025/c42767a507947/page.htm",
+      "anchor_text": "东南大学“卓越引智计划 2.0” 海外专家学术报告",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL结构和锚文本表明是新闻/活动报告页面",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/2024/1025/c42767a507946/page.htm",
+      "anchor_text": "自动化学院“六朝松∙智控论坛”—名家讲坛系列报告",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL结构和锚文本表明是新闻/活动报告页面",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/2024/1023/c42767a507610/page.htm",
+      "anchor_text": "自动化学院“六朝松∙智控论坛”—名家讲坛系列报告",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/2024/1021/c42767a507340/page.htm",
+      "anchor_text": "自动化学院“六朝松·智控论坛”一名家讲坛系列报告",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/2024/1020/c42767a507236/page.htm",
+      "anchor_text": "东南大学“卓越引智计划 2.0” 海外专家学术报告",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/2024/1017/c42767a506933/page.htm",
+      "anchor_text": "自动化学院“六朝松∙智控论坛”—名家讲坛系列报告",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/jysxdtl/list2.htm",
+      "anchor_text": "下一页>>",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/jysxdtl/list3.htm",
+      "anchor_text": "尾页",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_visitcount?siteId=338&type=2&columnId=42767",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/main.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/2025/0220/c42767a519088/page.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/2025/0106/c42767a516759/page.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/2024/1226/c42767a515873/page.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/2024/1224/c42767a515745/page.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/2024/1219/c42767a515256/page.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/2024/1204/c42767a513556/page.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/2024/1119/c42767a511850/page.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/2024/1104/c42767a509083/page.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/2024/1025/c42767a507947/page.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/2024/1025/c42767a507946/page.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/2024/1023/c42767a507610/page.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/2024/1021/c42767a507340/page.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/2024/1020/c42767a507236/page.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/2024/1017/c42767a506933/page.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/jysxdtl/list2.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/jysxdtl/list3.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    }
+  ]
+}

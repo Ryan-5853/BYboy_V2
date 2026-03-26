@@ -1,0 +1,129 @@
+{
+  "meta": {
+    "tutor_name_cn": "黄敏",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1157/4066.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1157/4066.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/34afd04b21181a6584f221f78d7c84c9aa1f15881114f59bfe10e3c880e323a5.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "site_chrome": {
+      "source_url": "https://www.auto.uestc.edu.cn/info/1157/4066.htm",
+      "page_title_context": "师资队伍",
+      "breadcrumbs": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "H",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/H.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "side_navigation": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ]
+    },
+    "basic_info": {
+      "name": "黄敏",
+      "image_url": "https://www.auto.uestc.edu.cn/__local/B/39/BF/B9626C325E1F513AD6908968112_486CB122_315EE.jpg",
+      "highest_degree": "硕士",
+      "contact_phone": null,
+      "position_title": "高级实验师",
+      "email": "hmin112@uestc.edu.cn",
+      "supervisor_status": null,
+      "personal_homepage": null,
+      "research_team": "测试技术教学团队"
+    },
+    "main_research_directions": [
+      "测控技术与仪器"
+    ],
+    "academic_titles_and_concurrent_posts": null,
+    "education_work_experience": [
+      {
+        "period": "2008.06-2015.08",
+        "description": "华为技术有限公司，网络芯片验证工程师"
+      },
+      {
+        "period": "2015.08-2016.12",
+        "description": "电子科技大学，自动化工程学院，助理实验师"
+      },
+      {
+        "period": "2017.01-2024.01",
+        "description": "电子科技大学自动化工程学院 实验师"
+      },
+      {
+        "period": "2024.02-2024.04",
+        "description": "电子科技大学自动化工程学院 特聘高级实验师"
+      },
+      {
+        "period": "2024.05-至今",
+        "description": "电子科技大学自动化工程学院 高级实验师"
+      }
+    ],
+    "scientific_research": null,
+    "courses_and_teaching_research": {
+      "undergraduate_courses": [
+        "微处理器系统结构与嵌入式系统设计",
+        "课程设计基础",
+        "综合课程设计（初阶）",
+        "基于ATE的芯片测试设计与实现"
+      ],
+      "graduate_courses": [
+        "混合集成电路测试技术实验",
+        "时域测试技术综合实验"
+      ],
+      "teaching_research_projects": [
+        "主持教育部产学合作协同育人项目4项",
+        "主持校级“挑战性课程建设”项目2项，基于“新生的项目课程建设”项目1项",
+        "参与国家级一流线上课程建设1门（排名：3）；省级一流课程建设2项",
+        "参与四川省高等学校创新性实验项目2项（排名：2）",
+        "参与校级实验室建设项目4项"
+      ]
+    },
+    "recruitment_majors": {
+      "masters": [
+        {
+          "code": "080400",
+          "major": "仪器科学与技术"
+        },
+        {
+          "code": "085407",
+          "major": "仪器仪表工程"
+        }
+      ],
+      "phd": null
+    }
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "clickable_links": [
+    {
+      "url": "https://automation.seu.edu.cn/wgh/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "URL是列表页，可能是教师名录。",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://doi.org/10.1038/s44287-024-00018-9",
+      "anchor_text": "https://doi.org/10.1038/s44287-024-00018-9",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "DOI链接，指向学术出版物。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_upload/article/files/56/b4/74bbd12d4636a8339330da6588ab/6c753ae1-b627-493f-b3de-981268b4486c.pdf",
+      "anchor_text": "IEEE-TSMCS-WYYL-2020.pdf",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "PDF文件链接，内容是学术论文。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_upload/article/files/56/b4/74bbd12d4636a8339330da6588ab/ef10cc8e-82b1-4702-a9cc-b8b7849f00f3.pdf",
+      "anchor_text": "Wen-2021-Recent progress on the study of distributed economic dispatch in smart grid an overview.pdf",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "PDF文件链接，内容是学术论文。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_upload/article/files/56/b4/74bbd12d4636a8339330da6588ab/4a3939b2-b963-444c-a84c-7ad632ffca69.pdf",
+      "anchor_text": "强化学习与自适应动态规划\\_...智能体系统中的应用进展综述\\_温广辉.pdf",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "PDF文件链接，内容是学术论文。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_visitcount?siteId=338&type=2&columnId=57380",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL为内部计数或统计链接。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://automation.seu.edu.cn/wgh/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "URL是列表页，可能是教师名录。",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://doi.org/10.1038/s44287-024-00018-9",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "DOI链接，指向学术出版物。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_upload/article/files/56/b4/74bbd12d4636a8339330da6588ab/6c753ae1-b627-493f-b3de-981268b4486c.pdf",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "PDF文件链接，内容是学术论文。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_upload/article/files/56/b4/74bbd12d4636a8339330da6588ab/ef10cc8e-82b1-4702-a9cc-b8b7849f00f3.pdf",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "PDF文件链接，内容是学术论文。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_upload/article/files/56/b4/74bbd12d4636a8339330da6588ab/4a3939b2-b963-444c-a84c-7ad632ffca69.pdf",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "PDF文件链接，内容是学术论文。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    }
+  ]
+}

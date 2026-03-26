@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "tutor_name_cn": "柴琳",
+    "request_url": "http://automation.seu.edu.cn/cl/list.htm",
+    "declared_source_url": "http://automation.seu.edu.cn/cl/list.htm",
+    "page_host": "automation.seu.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/6d4faf4788b8fafc931a1337a0fce2868de22655cb350c765f02361b92234b8b.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "site_chrome": {
+      "source_url": "http://automation.seu.edu.cn/cl/list.htm",
+      "image_at_top": "https://automation.seu.edu.cn/cl/list.htm",
+      "visit_counter_image": "https://automation.seu.edu.cn/_visitcount?siteId=338&type=2&columnId=32797"
+    },
+    "general_info": {
+      "name": "柴琳",
+      "poetic_introduction": {
+        "title": "《陪我变老》",
+        "lines": [
+          "梧桐絮飘过桃李年华的梦想",
+          "一个转身，粉笔灰落成了六朝松新的年轮",
+          "陪我变老的东大，爱你无声"
+        ],
+        "publication_context": "发表于青春三行诗《我在东南大学的日子》，南京出版社，2025"
+      },
+      "birth_year": 1978,
+      "birth_month": 9,
+      "origin": "江苏南京人",
+      "degrees": "博士",
+      "current_affiliation": "东南大学自动化学院",
+      "current_titles": [
+        "教授 (自动化学院2000年以来首位女教授)",
+        "博士生导师"
+      ],
+      "visiting_scholar_experience": {
+        "institution": "美国德克萨斯大学圣安东尼奥分校",
+        "role": "访问学者"
+      },
+      "personal_label": "诗人",
+      "professional_memberships": [
+        "中国自动化学会会员、青工委委员",
+        "中国人工智能学会自然计算专委会委员",
+        "中国系统工程学会会员",
+        "江苏省自动化学会会员",
+        "江苏省信息技术应用学会具身智能专业委员会委员"
+      ],
+      "project_summary": "主持国家自然科学基金、省自然科学基金等4项科研项目，作为主要成员参加多项国家自然科学基金以及省部级科研项目的研究工作",
+      "publication_summary": "发表论文90余篇，其中被SCI收录30余篇，EI收录60余篇",
+      "talent_programs": [
+        "2017年入选“六大人才高峰”高层次人才培养对象",
+        "2020年入选江苏省、盐城市“科技副总”人才培养对象"
+      ],
+      "reviewer_status": {
+        "organization": "美国《数学评论》",
+        "url": "https://www.baidu.com/link?url=P7166rVcxKTWy719IHRdmrQVgHa9Bk_e3A32Xmk9g9sp"
+      }
+    }
+  }
+}

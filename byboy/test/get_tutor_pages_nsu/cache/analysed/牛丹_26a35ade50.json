@@ -1,0 +1,521 @@
+{
+  "meta": {
+    "tutor_name_cn": "牛丹",
+    "request_url": "http://automation.seu.edu.cn/nd/list.htm",
+    "declared_source_url": "http://automation.seu.edu.cn/nd/list.htm",
+    "page_host": "automation.seu.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/31cfd498e31642b932f653e96ea839a72b875ae6235dbb367d8619ef1ac12956.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "site_metadata": {
+      "source_url": "http://automation.seu.edu.cn/nd/list.htm",
+      "page_elements": [
+        {
+          "type": "image",
+          "url": "https://automation.seu.edu.cn/nd/list.htm",
+          "description": "Likely a placeholder or site-level image/counter, not a personal photo."
+        },
+        {
+          "type": "image",
+          "url": "https://automation.seu.edu.cn/_visitcount?siteId=338&type=2&columnId=51260",
+          "description": "Website visit counter."
+        }
+      ]
+    },
+    "personal_info": {
+      "name": "牛丹",
+      "gender": "男",
+      "birth_year": 1986,
+      "current_positions": [
+        "东南大学青年首席教授",
+        "副院长",
+        "博士生导师",
+        "硕士生导师"
+      ],
+      "education_summary": "日本早稻田大学博士，美国里海大学、德州大学访问学者"
+    },
+    "research_profile": {
+      "research_interests_summary": "主要从事人工智能与集成电路EDA（卡脖子）、无人智能装备系统、气象时序大数据预测交叉方向的研究。",
+      "publications_summary": "在国内外学术期刊和会议以第一或通讯作者发表论文60余篇，包括近5年发表自动化/人工智能领域JCR1区或CCF-A/B顶会顶刊30余篇（包括EDA领域唯一CCF-A顶刊IEEE TCAD，唯一CCF-A顶会DAC，CCF-B会议ICCAD、DATE，人工智能顶会CVPR、ICCV、AAAI等）。",
+      "academic_affiliations": [
+        "IEEE会员",
+        "中国计算机学会（CCF）集成电路设计专委会执委",
+        "中国自动化学会会员",
+        "中国人工智能学会会员",
+        "中国计算机学会（CCF）科普工委会委员",
+        "江苏省自动化学会副秘书长",
+        "江苏省电子学会理事",
+        "江苏农业大数据产业技术创新联盟理事"
+      ]
+    },
+    "project_experience": {
+      "projects_summary": "先后主持国家自然科学基金青年和面上项目，军事科研重点实验室开放基金（军科委项目），工信部工业互联网创新发展项目课题，国家重点研发子课题、江苏省自然科学基金青年基金（优秀结题）、江苏省产学研合作项目、教育部产学合作协同育人项目、以及校方主持江苏省重大科技成果转化、江苏省重点研发计划、江苏省国际科技合作等国家或省部级项目十余项；此外主持与腾讯、科远、沙钢集团、中车、赛摩、霍尼韦尔honeywell、华大九天（国产EDA龙头）等上市公司产学研合作10余项。",
+      "vertical_projects": [
+        {
+          "id": "0",
+          "name": "国家级青年人才项目",
+          "year": "2025",
+          "role": "主持",
+          "status": "在研"
+        },
+        {
+          "id": "1",
+          "name": "江苏省优秀青年基金：先进工艺节点下大规模电路瞬态后仿真加速机理和策略研究",
+          "start_date": "2024.7",
+          "end_date": "2027.6",
+          "role": "主持",
+          "status": "在研",
+          "notes": "卡脖子EDA方向"
+        },
+        {
+          "id": "2",
+          "name": "国家自然科学基金面上项目：基于图卷积和强化学习的大规模电路后仿真瞬态分析加速技术研究",
+          "start_date": "2024.1",
+          "end_date": "2027.12",
+          "role": "主持",
+          "status": "在研",
+          "notes": "卡脖子EDA方向"
+        },
+        {
+          "id": "3",
+          "name": "xxx项目：人工智能气象预报",
+          "start_date": "2024",
+          "end_date": "2025",
+          "role": "主持",
+          "status": "在研"
+        },
+        {
+          "id": "4",
+          "name": "中国气象局重点实验室重点课题：融合卫星、雷达等多源大数据短临降水预测",
+          "start_date": "2024",
+          "end_date": "2025",
+          "role": "主持",
+          "status": "在研"
+        },
+        {
+          "id": "5",
+          "name": "“北极阁”基金：基于多源数据融合的人工智能短临降水预测",
+          "start_date": "2023",
+          "end_date": "2025",
+          "role": "主持",
+          "status": "在研"
+        },
+        {
+          "id": "6",
+          "name": "市级重大成果转化，融合机器视觉智能热浸镀成套装备研发及成果转化",
+          "start_date": "2023",
+          "end_date": "2025",
+          "role": "校方主持",
+          "status": "在研"
+        },
+        {
+          "id": "7",
+          "name": "市级重大成果转化，制药精密微小流量调节阀研发及成果转化",
+          "start_date": "2023",
+          "end_date": "2025",
+          "role": "校方主持",
+          "status": "在研"
+        },
+        {
+          "id": "8",
+          "name": "工信部2022年工业互联网创新发展项目课题：基于云边融合的智能工厂生产管控项目",
+          "total_funding": "4500万",
+          "start_date": "2022",
+          "end_date": "2024",
+          "role": "主持",
+          "status": "在研"
+        },
+        {
+          "id": "9",
+          "name": "市级重大成果转化，基于机器视觉的矿井钢丝绳安全检测",
+          "start_date": "2022",
+          "end_date": "2024",
+          "role": "校方主持",
+          "status": "在研"
+        },
+        {
+          "id": "10",
+          "name": "省重大科技成果转化项目课题，重载无人行车装备研发（防摇定位、三维点云定位识别等）",
+          "total_funding": "1200万",
+          "start_date": "2021",
+          "end_date": "2024",
+          "role": "主持",
+          "status": "在研"
+        },
+        {
+          "id": "11",
+          "name": "市级重大成果转化：智能型大直径海上风电桩钻机（云端监控）",
+          "start_date": "2021",
+          "end_date": "2023",
+          "role": "校方主持",
+          "status": "结题"
+        },
+        {
+          "id": "12",
+          "name": "市级重点研发计划项目：智慧电梯（基于视觉识别的摔倒、戴口罩、电动车入梯、挡门行为识别）",
+          "start_date": "2021",
+          "end_date": "2024",
+          "role": "校方主持",
+          "status": "在研"
+        },
+        {
+          "id": "13",
+          "name": "市级重点研发计划项目：无人值守智慧立体车库（车库区域视觉行人识别）",
+          "start_date": "2021",
+          "end_date": "2024",
+          "role": "校方主持",
+          "status": "在研"
+        },
+        {
+          "id": "14",
+          "name": "江苏省产学研项目-智慧电梯",
+          "start_date": "2020",
+          "end_date": "2021",
+          "role": "主持",
+          "status": "结题"
+        },
+        {
+          "id": "15",
+          "name": "教育部产教融合项目：物联设备",
+          "start_date": "2020",
+          "end_date": "2021",
+          "role": "主持",
+          "status": "结题"
+        },
+        {
+          "id": "16",
+          "name": "教育部产教融合项目：云计算平台",
+          "start_date": "2020",
+          "end_date": "2021",
+          "role": "主持",
+          "status": "结题"
+        },
+        {
+          "id": "17",
+          "name": "教育部产教融合项目：云门户UI设计",
+          "start_date": "2020",
+          "end_date": "2021",
+          "role": "主持",
+          "status": "结题"
+        },
+        {
+          "id": "18",
+          "name": "江苏省六大人才高峰A类",
+          "start_date": "2019",
+          "end_date": "2021",
+          "role": "主持",
+          "status": "结题"
+        },
+        {
+          "id": "19",
+          "name": "江苏省重点研发计划：智慧电梯（智能装备与云计算、大数据及人工智能交叉方向）",
+          "start_date": "2019",
+          "end_date": "2022",
+          "role": "校方主持",
+          "status": "结题"
+        },
+        {
+          "id": "20",
+          "name": "江苏省经信委产业升级项目：智慧电梯（智能装备与云计算、大数据及人工智能交叉方向）",
+          "start_date": "2018",
+          "end_date": "2021",
+          "role": "校方主持",
+          "status": "结题"
+        },
+        {
+          "id": "21",
+          "name": "江苏省科技厅国际合作项目：工控网络安全",
+          "start_date": "2018",
+          "end_date": "2020",
+          "role": "校方主持",
+          "status": "结题"
+        },
+        {
+          "id": "22",
+          "name": "2018年东南大学“至善青年学者”支持计划",
+          "year": "2018",
+          "role": "主持",
+          "status": "结题"
+        },
+        {
+          "id": "23",
+          "name": "国家重点研发计划项目子课题：深度学习用于天气预报",
+          "total_funding": "1300万",
+          "start_date": "2018",
+          "end_date": "2021",
+          "role": "东大方主持",
+          "status": "结题"
+        },
+        {
+          "id": "24",
+          "name": "江苏省重点研发计划项目：智慧立体车库（智能装备与云计算、大数据及人工智能交叉方向）",
+          "start_date": "2017",
+          "end_date": "2020",
+          "role": "校方主持",
+          "status": "结题"
+        },
+        {
+          "id": "25",
+          "name": "2017年江苏省科协“青年科技人才托举工程“",
+          "year": "2017",
+          "role": "主持",
+          "status": "结题"
+        },
+        {
+          "id": "26",
+          "name": "国家自然基金项目：芯片级电路设计与仿真方向",
+          "start_date": "2015",
+          "end_date": "2018",
+          "role": "主持",
+          "status": "结题"
+        },
+        {
+          "id": "27",
+          "name": "江苏省自然基金项目：芯片级电路设计与仿真方向",
+          "start_date": "2014",
+          "end_date": "2017",
+          "role": "主持",
+          "status": "优秀结题"
+        },
+        {
+          "id": "28",
+          "name": "教育部重点实验室基金项目：芯片级电路设计与仿真方向",
+          "start_date": "2014",
+          "end_date": "2016",
+          "role": "主持",
+          "status": "结题"
+        }
+      ],
+      "industry_collaboration_projects": [
+        {
+          "partner": "腾讯",
+          "description": "高速高精度采集设备"
+        },
+        {
+          "partner": "华大九天（国产EDA龙头）",
+          "description": "后仿真瞬态、直流加速（卡脖子）"
+        },
+        {
+          "partner": "科远/沙钢集团",
+          "description": "第三代重载无人行车"
+        },
+        {
+          "partner": "霍尼韦尔honeywell",
+          "description": "物联设备"
+        },
+        {
+          "partner": "赛摩",
+          "description": "云平台"
+        },
+        {
+          "partner": "景安重工",
+          "description": "海上盾构机（云端监控）"
+        },
+        {
+          "partner": "瑞马科宝",
+          "description": "机器视觉热镀锌装备"
+        },
+        {
+          "partner": "三森",
+          "description": "矿井钢丝绳视觉识别"
+        },
+        {
+          "partner": "聚力",
+          "description": "智慧立体车库（底层控制器、云平台、云门户、人工智能视频处理）"
+        },
+        {
+          "partner": "中车(申龙)",
+          "description": "智慧电梯（底层控制器、云平台、云门户、人工智能视频处理和故障诊断）"
+        },
+        {
+          "partner": "博智",
+          "description": "工控网络安全"
+        },
+        {
+          "partner": "台菱",
+          "description": "视频人工智能挖掘"
+        },
+        {
+          "partner": "国防科大",
+          "description": "人工智能气象预报"
+        }
+      ]
+    },
+    "awards_and_honors": {
+      "awards_summary_from_bio": "2017年入选江苏省“青年科技人才托举工程”、2018年入选东南大学“至善青年学者”，2019年入选江苏省“六大人才高峰”高层次人才A类（东大当年唯二A类）、“玄武人才”、“暨阳英才”，2020年获CAA科学技术进步奖一等奖，2021获江苏省科学技术奖三等奖、“金龙湖菁英”，2022年度安徽省教学成果奖一等奖，2023年入选江苏省首席科技传播专家、获ISEDA国际会议优秀论文，2024年入选江苏省优青，2025年获江苏省自动化学会青年科技奖、2024年度江苏省行业领域（装备制造领域）十大科技进展（排1）、入选国家级青年人才项目，2026年获2025年度江苏省自动化学会科学技术奖一等奖（排1）。",
+      "detailed_awards": [
+        {
+          "year": "2026",
+          "name": "2025年度江苏省自动化学会科学技术奖一等奖",
+          "notes": "排1"
+        },
+        {
+          "year": "2025",
+          "name": "国家级青年人才项目",
+          "notes": null
+        },
+        {
+          "year": "2025",
+          "name": "2024年度江苏省行业领域（装备制造领域）十大科技进展",
+          "notes": "排1, 学院首个"
+        },
+        {
+          "year": "2025",
+          "name": "江苏省自动化学会青年科技奖",
+          "notes": "学院首个"
+        },
+        {
+          "year": "2024",
+          "name": "入选江苏省优青",
+          "notes": null
+        },
+        {
+          "year": "2023",
+          "name": "入选江苏省首席科技传播专家",
+          "notes": null
+        },
+        {
+          "year": "2023",
+          "name": "集成电路国际会议（ISIC2023）暑期学校优秀教师",
+          "notes": null
+        },
+        {
+          "year": "2022",
+          "name": "入选江苏省第六期“333高层次人才培养工程”",
+          "notes": null
+        },
+        {
+          "year": "2022",
+          "name": "安徽省教学成果奖一等奖",
+          "notes": null
+        },
+        {
+          "year": "2021",
+          "name": "江苏省科学技术奖三等奖",
+          "notes": null
+        },
+        {
+          "year": "2021",
+          "name": "东南大学优秀本科生导师",
+          "notes": null
+        },
+        {
+          "year": "2020",
+          "name": "CAA科学技术进步奖一等奖",
+          "notes": null
+        },
+        {
+          "year": "2020",
+          "name": "无锡市“暨阳英才”",
+          "notes": null
+        },
+        {
+          "year": "2020",
+          "name": "华为奖教金",
+          "notes": "每个学院1-2个名额"
+        },
+        {
+          "year": "2019",
+          "name": "江苏省优秀科技镇长团团员",
+          "notes": "中共江苏省委组织部"
+        },
+        {
+          "year": "2019",
+          "name": "南京市“玄武人才”",
+          "notes": null
+        },
+        {
+          "year": "2019",
+          "name": "江苏省“六大人才高峰”A类",
+          "notes": "东大2019年唯二A类"
+        },
+        {
+          "year": "2019",
+          "name": "东南大学“吾爱吾师”自动化学院我最喜欢的老师",
+          "notes": null
+        },
+        {
+          "year": "2019",
+          "name": "江苏省科协青年会员创新创业大赛三等奖",
+          "notes": "总决赛第4名/300+项目"
+        },
+        {
+          "year": "2019",
+          "name": "实验室团队获第14届研究生电子设计大赛华东区和全国总决赛一等奖",
+          "notes": "优秀指导教师"
+        },
+        {
+          "year": "2019",
+          "name": "2019阿里天池大数据“追风少年”人工智能比赛决赛第3名",
+          "notes": null
+        },
+        {
+          "year": "2019",
+          "name": "指导本科毕业设计入选省优秀本科毕业设计",
+          "notes": "全院150多人只有1个名额"
+        },
+        {
+          "year": "2018",
+          "name": "入选东南大学“至善青年学者”",
+          "notes": null
+        },
+        {
+          "year": "2018",
+          "name": "实验室团队参赛获2018全球AI挑战赛决赛第4名",
+          "notes": null
+        },
+        {
+          "year": "2018",
+          "name": "江苏省优秀科技镇长团团员",
+          "notes": "中共江苏省委组织部"
+        },
+        {
+          "year": "2017",
+          "name": "入选江苏省青年科技人才“托举工程”",
+          "notes": null
+        },
+        {
+          "year": "2017",
+          "name": "江苏省科协青年会员创新创业大赛三等奖",
+          "notes": "总决赛第4名/300+项目"
+        },
+        {
+          "year": "2015",
+          "name": "“常州校友会龙城奖教金”",
+          "notes": null
+        }
+      ]
+    },
+    "student_supervision": {
+      "student_achievements_summary": "指导学生连续3年获得集成电路EDA设计精英挑战赛全国一等奖（2022、2023、2024）、“兆易创新杯”中国研究生电子设计竞赛全国一等奖、中国大学生计算机设计大赛江苏省特等奖等，以及江苏省普通高校本科优秀毕业设计（论文）、东南大学优秀硕士学位论文等。",
+      "recruitment_info": {
+        "phd_students_per_year": "1-2名",
+        "master_students_per_year": "4-5名（包括无锡、苏州）",
+        "preferred_research_areas_for_students": [
+          "人工智能（深度学习、强化学习）",
+          "卡脖子集成电路EDA",
+          "气象预报",
+          "智能装备交叉"
+        ]
+      }
+    },
+    "page_structure_notes": {
+      "headers_without_dedicated_content_blocks": [
+        "教育背景",
+        "工作经历",
+        "学术兼职",
+        "所获奖励",
+        "讲授课程",
+        "学生培养",
+        "研究兴趣",
+        "科研项目",
+        "论文发表"
+      ],
+      "notes": "Though these headers exist on the page, their detailed content might be absent or integrated into other sections (e.g., '学术兼职' is covered by 'Academic Affiliations' in personal_info, '所获奖励' by 'awards_and_honors', etc.)."
+    }
+  }
+}

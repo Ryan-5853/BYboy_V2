@@ -1,0 +1,238 @@
+{
+  "clickable_links": [
+    {
+      "url": "https://faculty.uestc.edu.cn/__local/2/7A/59/AC5E1C83C9C1C629FF8CAC0420A_8BDE5354_3081.png",
+      "anchor_text": "![",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL指向图片文件，与导师信息无关。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/__local/0/1F/31/BAF885236CFF41F6578C56385E1_DED76DCD_1D60C.png",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL指向图片文件，与导师信息无关。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/_ts/zw3/images/zan.png",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL指向图片文件，与导师信息无关。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "http://www.brunel.ac.uk/~csstzzw/",
+      "anchor_text": "王子栋",
+      "scope": "external",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL指向外部个人主页，锚文本为人名。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://www.springer.com/journal/13042",
+      "anchor_text": "_International Journal of Machine Learning and Cybernetics_",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL指向期刊主页，与导师信息无关。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://www.springer.com/journal/12559",
+      "anchor_text": "_Cognitive Computation_",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL指向期刊主页，与导师信息无关。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://www.springer.com/journal/40747",
+      "anchor_text": "_Complex & Intelligent Systems_",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL指向期刊主页，与导师信息无关。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://mc.manuscriptcentral.com/tii",
+      "anchor_text": "_IEEE Transactions on Industrial Informatics_",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL指向期刊投稿系统，与导师信息无关。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://scholar.google.com/citations?hl=zh-CN&user=zp7POX8AAAAJ&view_op=list_works",
+      "anchor_text": "https://scholar.google.com/citations?hl=zh-CN&user=zp7POX8AAAAJ&view\\_op=list\\_works",
+      "scope": "external",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL指向谷歌学术个人主页，提供导师学术信息。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/dsgrjj/20713?yxsh=06",
+      "anchor_text": "**https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/dsgrjj/20713?yxsh=06**",
+      "scope": "external",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL路径包含“导师个人简介”，明确指向导师个人页。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://www.uestc.edu.cn/",
+      "anchor_text": "电子科技大学",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL指向学校官网首页，与导师信息无关。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "http://faculty.uestc.edu.cn/tianlulu1/zh_CN/index.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL路径包含教师姓名拼音，明确指向导师个人主页。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/__local/2/7A/59/AC5E1C83C9C1C629FF8CAC0420A_8BDE5354_3081.png",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL指向图片文件，与导师信息无关。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "http://faculty.uestc.edu.cn/",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "URL是教师主页根目录，可能包含导师名录或导航。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "http://www.brunel.ac.uk/~csstzzw/",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL指向外部个人主页。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://www.springer.com/journal/13042",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL指向期刊主页，与导师信息无关。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://doi.org/10.1007/s13042-021-01440-3.**",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL指向具体的学术论文，与导师信息无关。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://www.springer.com/journal/12559",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL指向期刊主页，与导师信息无关。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://doi.org/10.1007/s12559-021-09922-w.**",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL指向具体的学术论文，与导师信息无关。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://www.springer.com/journal/40747",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL指向期刊主页，与导师信息无关。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://doi.org/10.1007/s40747-021-00477-9**",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL指向具体的学术论文，与导师信息无关。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://mc.manuscriptcentral.com/tii",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL指向期刊投稿系统，与导师信息无关。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://scholar.google.com/citations?hl=zh-CN&user=zp7POX8AAAAJ&view_op=list_works",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL指向谷歌学术个人主页，提供导师学术信息。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/dsgrjj/20713?yxsh=06**",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL路径包含“导师个人简介”，明确指向导师个人页。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/dsgrjj/20713?yxsh=06",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL路径包含“导师个人简介”，明确指向导师个人页。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "http://www.uestc.edu.cn/",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL指向学校官网首页，与导师信息无关。",
+      "guessed_target_content": "无关网页或低相关页面"
+    }
+  ]
+}

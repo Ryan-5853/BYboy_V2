@@ -1,0 +1,367 @@
+{
+  "meta": {
+    "tutor_name_cn": "葛健",
+    "request_url": "http://automation.seu.edu.cn/gj/list.htm",
+    "declared_source_url": "http://automation.seu.edu.cn/gj/list.htm",
+    "page_host": "automation.seu.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/92448a7f591480fd0695cea987af9f4029d60b1b7f19f2e064a5746ce9dcbefc.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": "包含导师葛健的详细基本信息、教育"
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "professor_name": "葛健",
+    "source_url": "http://automation.seu.edu.cn/gj/list.htm",
+    "main_content": {
+      "personal_details": {
+        "name": "葛健",
+        "gender": "男",
+        "titles": [
+          "工学硕士",
+          "全体教师",
+          "实验专业技术岗"
+        ],
+        "birth_date": "1988年10月生",
+        "ethnicity": "汉族",
+        "birthplace": "江苏盐城人",
+        "contact_info": {
+          "location": null,
+          "phone": "15950505636",
+          "homepage": null,
+          "email": "gejian@seu.edu.cn"
+        },
+        "biography_summary": "葛健：男，1988年10月生，汉族，江苏盐城人。2010年6月毕业于东南大学自动化学院获学士学位，之后留校任助教两年；2014年5月获东南大学工学硕士学位，主要研究方向为工业过程优化控制、控制系统设计与集成、模式识别与智能算法研究等。现任自动化学院实验专业技术岗，参与国家重点研发项目“分布式光伏统智慧运维技术”，2018年入选国家第35次南极科学考察队，乘坐雪龙号考察船远赴南极，承担泰山站远程遥控能源供应装置的现场调测工作，圆满完成考察任务。",
+        "images": [
+          {
+            "url": "https://automation.seu.edu.cn/_upload/article/images/f6/31/e6f1d10a44c4acde4d2569c7c6c9/a0f83e79-5ac5-4ea3-a6dd-54459e679df2_s_s.jpg",
+            "description": null
+          }
+        ]
+      },
+      "education": [
+        {
+          "period": "2006.09-2010.06",
+          "institution": "东南大学自动化学院",
+          "major": "自动化专业",
+          "degree": "工学学士"
+        },
+        {
+          "period": "2012.09-2014.06",
+          "institution": "东南大学自动化学院",
+          "major": "控制理论与控制工程专业",
+          "degree": "工学硕士"
+        }
+      ],
+      "work_experience": [
+        {
+          "period": "2010.06-2012.06",
+          "institution": "东南大学自动化学院",
+          "position": "助教",
+          "description": "留校任助教两年"
+        },
+        {
+          "period": "2014.07-2015.02",
+          "institution": "南京康尼机电技术有限公司",
+          "position": null
+        },
+        {
+          "period": "2015.03-2015.08",
+          "institution": "南京国睿科技股份有限公司",
+          "position": null
+        },
+        {
+          "period": "2015.09-至今",
+          "institution": "东南大学自动化学院",
+          "position": "实验专技岗"
+        }
+      ],
+      "academic_affiliations": null,
+      "awards": null,
+      "courses_taught": [
+        {
+          "name": "微机实验及课程设计研讨",
+          "type": "本科生专业基础课"
+        },
+        {
+          "name": "自动控制原理实验课",
+          "type": "本科生专业必修课"
+        }
+      ],
+      "student_supervision": null,
+      "research_interests": [
+        "工业过程优化控制",
+        "控制系统设计与集成",
+        "模式识别与智能算法研究"
+      ],
+      "research_projects": {
+        "group_affiliation": "魏海坤教授课题组",
+        "projects": [
+          {
+            "id": 1,
+            "year": "2016",
+            "name": "冷轧生产辊系空间位置测量系统研制",
+            "type": "横向"
+          },
+          {
+            "id": 2,
+            "year": "2017",
+            "name": "基于图像处理的机器人焊接质量监控与分析系统",
+            "type": "横向"
+          },
+          {
+            "id": 3,
+            "year": "2018",
+            "name": "南极伊丽莎白公主地考察站（泰山站）项目远程遥控能源供应模块开发",
+            "type": null
+          },
+          {
+            "id": 4,
+            "year": "2019",
+            "name": "光伏组件热斑、隐裂等缺陷诊断分析技术",
+            "type": null
+          },
+          {
+            "id": 5,
+            "year": "2019",
+            "name": "分布式光伏系统智慧运维技术",
+            "type": "国家重点研发计划"
+          },
+          {
+            "id": 6,
+            "year": "2020",
+            "name": "基于Matlab仿真算法的过程控制设备与PLC系统的集成关键技术研发",
+            "type": null
+          },
+          {
+            "id": 7,
+            "year": "2020",
+            "name": "南极无人智能化科学观测站自主运行技术研究",
+            "type": null
+          },
+          {
+            "id": 8,
+            "year": "2020",
+            "name": "非常规气集输站安全生产智能巡检系统研究 及应用服务",
+            "type": null
+          }
+        ]
+      },
+      "publications": null
+    },
+    "site_chrome": {
+      "header": {
+        "logo": {
+          "url": "https://automation.seu.edu.cn/_upload/tpl/0a/4c/2636/template2636/images/logo.png",
+          "alt_text": "返回自动化学院首页",
+          "link": "https://automation.seu.edu.cn/main.htm"
+        },
+        "top_navigation": [
+          {
+            "anchor_text": "学校主页",
+            "url": "https://www.seu.edu.cn/"
+          },
+          {
+            "anchor_text": "ENGLISH",
+            "url": "https://automation.seu.edu.cn/gj/list.htm#"
+          }
+        ]
+      },
+      "left_sidebar_navigation": [
+        {
+          "category": "学院概况",
+          "url": "https://automation.seu.edu.cn/24451/list.htm",
+          "sub_items": [
+            {
+              "anchor_text": "学院简介",
+              "url": "https://automation.seu.edu.cn/24498/list.htm"
+            },
+            {
+              "anchor_text": "发展历程",
+              "url": "https://automation.seu.edu.cn/24499/list.htm"
+            },
+            {
+              "anchor_text": "组织架构",
+              "url": "https://automation.seu.edu.cn/32602/list.htm"
+            },
+            {
+              "anchor_text": "现任领导",
+              "url": "https://automation.seu.edu.cn/32603/list.htm"
+            },
+            {
+              "anchor_text": "历任领导",
+              "url": "https://automation.seu.edu.cn/32604/list.htm"
+            },
+            {
+              "anchor_text": "院庆专栏",
+              "url": "https://automation.seu.edu.cn/yq/list.htm"
+            },
+            {
+              "anchor_text": "标识系统",
+              "url": "https://automation.seu.edu.cn/bsxt/list.htm"
+            },
+            {
+              "anchor_text": "联系我们",
+              "url": "https://automation.seu.edu.cn/24500/list.htm"
+            }
+          ]
+        },
+        {
+          "category": "师资力量",
+          "url": "https://automation.seu.edu.cn/szdw_32667/list.htm",
+          "sub_items": [
+            {
+              "anchor_text": "全体教师",
+              "url": "https://automation.seu.edu.cn/32668/list.htm"
+            },
+            {
+              "anchor_text": "院士",
+              "url": "https://automation.seu.edu.cn/32669/list.htm"
+            },
+            {
+              "anchor_text": "国家级人才",
+              "url": "https://automation.seu.edu.cn/gjjrc_51587/list.htm"
+            },
+            {
+              "anchor_text": "博士生导师",
+              "url": "https://automation.seu.edu.cn/32670/list.htm"
+            },
+            {
+              "anchor_text": "硕士生导师",
+              "url": "https://automation.seu.edu.cn/32671/list.htm"
+            }
+          ]
+        },
+        {
+          "category": "科学研究",
+          "url": "https://automation.seu.edu.cn/kxyj/list.htm",
+          "sub_items": [
+            {
+              "anchor_text": "科研通知",
+              "url": "https://automation.seu.edu.cn/32607/list.htm"
+            },
+            {
+              "anchor_text": "学术交流",
+              "url": "https://automation.seu.edu.cn/32608/list.htm"
+            },
+            {
+              "anchor_text": "科研基地",
+              "url": "https://automation.seu.edu.cn/32609/list.htm"
+            },
+            {
+              "anchor_text": "科技成果",
+              "url": "https://automation.seu.edu.cn/32610/list.htm"
+            }
+          ]
+        },
+        {
+          "category": "人才培养",
+          "url": "https://automation.seu.edu.cn/24454/list.htm",
+          "sub_items": [
+            {
+              "anchor_text": "本科生培养",
+              "url": "https://automation.seu.edu.cn/24509/list.htm"
+            },
+            {
+              "anchor_text": "研究生培养",
+              "url": "https://automation.seu.edu.cn/24510/list.htm"
+            }
+          ]
+        },
+        {
+          "category": "党群工作",
+          "url": "https://automation.seu.edu.cn/32612/list.htm",
+          "sub_items": [
+            {
+              "anchor_text": "党务工作",
+              "url": "https://automation.seu.edu.cn/32614/list.htm"
+            },
+            {
+              "anchor_text": "党建风采",
+              "url": "https://automation.seu.edu.cn/24535/list.htm"
+            },
+            {
+              "anchor_text": "工会工作",
+              "url": "https://automation.seu.edu.cn/32616/list.htm"
+            },
+            {
+              "anchor_text": "关工委",
+              "url": "https://automation.seu.edu.cn/ggw/list.htm"
+            }
+          ]
+        },
+        {
+          "category": "学生工作",
+          "url": "https://automation.seu.edu.cn/32613/list.htm",
+          "sub_items": [
+            {
+              "anchor_text": "就业服务",
+              "url": "https://automation.seu.edu.cn/24519/list.htm"
+            },
+            {
+              "anchor_text": "通知公告",
+              "url": "https://automation.seu.edu.cn/32617/list.htm"
+            },
+            {
+              "anchor_text": "榜样力量",
+              "url": "https://automation.seu.edu.cn/24522/list.htm"
+            },
+            {
+              "anchor_text": "学工动态",
+              "url": "https://automation.seu.edu.cn/24524/list.htm"
+            }
+          ]
+        },
+        {
+          "category": "校友工作",
+          "url": "https://automation.seu.edu.cn/24458/list.htm",
+          "sub_items": [
+            {
+              "anchor_text": "校友风采",
+              "url": "https://automation.seu.edu.cn/24537/list.htm"
+            },
+            {
+              "anchor_text": "校友活动",
+              "url": "https://automation.seu.edu.cn/24538/list.htm"
+            }
+          ]
+        },
+        {
+          "category": "人才招聘",
+          "url": "https://automation.seu.edu.cn/rczp/list.htm",
+          "sub_items": []
+        },
+        {
+          "category": "学术年专栏",
+          "url": "https://automation.seu.edu.cn/jysxdtl/list.htm",
+          "sub_items": []
+        }
+      ],
+      "footer": {
+        "contact_info": {
+          "address": "江苏省南京市四牌楼2号中心楼 东南大学自动化学院",
+          "phone": "025-83792724",
+          "email": "jupiter@seu.edu.cn"
+        },
+        "logo": {
+          "url": "https://automation.seu.edu.cn/_upload/tpl/0a/4c/2636/template2636/images/logo_s.png",
+          "alt_text": null
+        },
+        "images": [
+          {
+            "url": "https://automation.seu.edu.cn/_upload/article/images/49/80/cc90f70945d99437aeb29c598629/b39cc810-2b19-45e6-bcb5-145efb62c5f5_s.jpg",
+            "description": null
+          },
+          {
+            "url": "https://automation.seu.edu.cn/_upload/article/images/84/ab/53097bbf440198ff1519fabe1da5/b1c7ed74-ed3e-4287-aec5-526ade294570_s.jpg",
+            "description": null
+          }
+        ],
+        "visit_counter": {
+          "url": "https://automation.seu.edu.cn/_visitcount?siteId=338&type=2&columnId=32890",
+          "description": null
+        }
+      }
+    }
+  }
+}

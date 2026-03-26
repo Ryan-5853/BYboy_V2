@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "tutor_name_cn": "季然",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1159/7365.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1159/7365.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/70a5c8ab6e09f98c3e4ff2c3ad6d2ae3229d63381ac153202cf4b74df036d480.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "name": "季然",
+    "personal_info": {
+      "highest_degree": "博士",
+      "phone": null,
+      "position_title": "教授",
+      "email": "ran.ji@uestc.edu.cn",
+      "supervisor_status": "博士生导师",
+      "personal_homepage": null,
+      "research_team": "自动化前沿与交叉中心"
+    },
+    "image": {
+      "url": "https://www.auto.uestc.edu.cn/__local/A/C0/69/39F535BA809DD10DDD28C85B1F0_27EE8235_428AB.jpg",
+      "alt_text": "季然"
+    },
+    "research_directions": [
+      "异质结型半导体器件",
+      "新型光电传感技术"
+    ],
+    "academic_titles_and_affiliations": [
+      "国家级青年人才",
+      "任Nat. Energy以及Adv. Mater., Adv. Energy Mater.系列期刊审稿人"
+    ],
+    "experience": {
+      "education_and_work": [
+        {
+          "time_range": "03/2025 – 至今",
+          "type": "work",
+          "role": "教授",
+          "institution": "电子科技大学",
+          "description": null
+        },
+        {
+          "time_range": "04/2024 – 02/2025",
+          "type": "work",
+          "role": "研究员",
+          "institution": "德国莱布尼茨固体与材料研究所",
+          "description": null
+        },
+        {
+          "time_range": "10/2018 – 04/2024",
+          "type": "education",
+          "degree": "博士",
+          "institution": "德国德累斯顿工业大学",
+          "major": "物理学"
+        },
+        {
+          "time_range": "09/2015 – 07/2018",
+          "type": "education",
+          "degree": "硕士",
+          "institution": "电子科技大学",
+          "major": "光学工程"
+        },
+        {
+          "time_range": "09/2015 – 07/2018",
+          "type": "education",
+          "degree": "学士",
+          "institution": "电子科技大学",
+          "major": "光电显示与信息技术博士"
+        }
+      ]
+    },
+    "scientific_research": [
+      "主要从事新型光电传感器件的研发。",
+      "近年来以第一作者发表SCI论文6篇，包括Nat. Energy, Adv. Mater., Adv. Energy Mater.等。",
+      "其成果得到德国官方媒体MDR、以及十余家专业媒体的深入报道；",
+      "在德国期间作为主研人员参与气相沉积技术、新型光电子器件等多个欧洲研究委员会（ERC）、德国科学基金会（DFG）项目。"
+    ],
+    "courses_and_teaching_research": [
+      "传感器原理与应用"
+    ],
+    "admission_majors": {
+      "master": [
+        "080400仪器科学与技术",
+        "085407仪器仪表工程"
+      ],
+      "doctor": [
+        "080400仪器科学与技术"
+      ]
+    },
+    "site_chrome": {
+      "source_url": "https://www.auto.uestc.edu.cn/info/1159/7365.htm",
+      "navigation_path": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "J",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/J.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "sidebar_links": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ],
+      "main_section_title": "师资队伍"
+    }
+  }
+}

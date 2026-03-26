@@ -1,0 +1,122 @@
+{
+  "meta": {
+    "tutor_name_cn": "邹朝彬",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1175/4142.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1175/4142.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/64bc54858fef21611c04abdcbc61a70542d335b2960c80aeedb014969784500d.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": "包含丰富的导师个人信息、研究方向、学术兼职、教育工作经历和"
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "query_name": "邹朝彬",
+    "source_url": "https://www.auto.uestc.edu.cn/info/1175/4142.htm",
+    "site_chrome": {
+      "breadcrumbs": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "Z",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/Z.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "sidebar_navigation": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ]
+    },
+    "general_info": {
+      "name": "邹朝彬",
+      "image_url": "https://www.auto.uestc.edu.cn/__local/C/EA/C1/70CD28394233FE41922F6501D8A_6962BD00_2980D6.jpg",
+      "highest_degree": "博士",
+      "contact_phone": null,
+      "job_title": "博士后",
+      "academic_rank": "特聘副研究员",
+      "email": "chaobinzou@uestc.edu.cn",
+      "supervision_status": null,
+      "personal_homepage": "https://chauby.github.io/cv/",
+      "research_team": "人机智能技术与系统教育部工程研究中心"
+    },
+    "research_directions": [
+      "机器学习",
+      "机器人感知规划及控制",
+      "康复机器人"
+    ],
+    "academic_titles_and_affiliations": [
+      "中国标准化协会机器人专业委员会副秘书长",
+      "中国自动化学会智能自动化专业委员会委员",
+      "IEEE TSMC、TASE、TNSRE、TNNLS、TIE、TII、RAM、RAS、RAL、ICRA、IROS、ROBIO 等智能机器人和康复工程领域国际主流期刊及顶级会议特约审稿人"
+    ],
+    "experience": {
+      "education_and_work": [
+        {
+          "period": "2022.07至今",
+          "institution": "电子科技大学",
+          "role": "博士后（特聘副研究员）"
+        },
+        {
+          "period": "2015.09-2022.06",
+          "institution": "电子科技大学",
+          "degree": "工学博士"
+        },
+        {
+          "period": "2021.03-2022.03",
+          "institution": "德国汉堡大学",
+          "role": "CSC联合培养博士"
+        },
+        {
+          "period": "2011.09-2015.06",
+          "institution": "电子科技大学",
+          "degree": "工学学士"
+        }
+      ]
+    },
+    "scientific_research": {
+      "summary": "申请人专注于智能机器人的建模、运动规划及控制方法的研究。",
+      "achievements": [
+        "近五年共发表论文30余篇",
+        "以第一/通讯作者在IEEE Trans、ESWA等国际权威期刊及机器人领域顶级国际会议ICRA/IROS等上发表论文14篇",
+        "论文引用超过120次",
+        "授权国家发明专利2项"
+      ],
+      "projects": [
+        "主持国家自然科学青年基金项目1项",
+        "主持四川省博士后特别资助项目1项",
+        "参与国家/省部级项目3项"
+      ],
+      "awards": [
+        "2023年电子科技大学优秀博士后",
+        "2024年《机器人》期刊优秀论文（全国仅4篇）",
+        "2024年机器人领域国际会议ROBIO最佳会议论文奖",
+        "2022年ICCSIP最佳会议论文提名"
+      ]
+    },
+    "courses_and_teaching": null,
+    "admission_majors": {
+      "masters": null,
+      "phd": null
+    }
+  }
+}

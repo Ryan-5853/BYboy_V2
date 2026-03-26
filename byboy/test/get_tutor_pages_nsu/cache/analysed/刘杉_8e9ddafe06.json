@@ -1,0 +1,629 @@
+{
+  "meta": {
+    "tutor_name_cn": "刘杉",
+    "request_url": "http://automation.seu.edu.cn/ls/list.htm",
+    "declared_source_url": "http://automation.seu.edu.cn/ls/list.htm",
+    "page_host": "automation.seu.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/530071117597ffea765fc76b022bf45a512b9d8ecb7b0a18b0990ca63ae5fb6f.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": "内容包含详细的导师基本信息、教育工作经历、学术兼职、科研项目、论文发表和所获奖励等，信息丰富有价值。"
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "query_name": "刘杉",
+    "name": "刘杉",
+    "site_info": {
+      "source_url": "http://automation.seu.edu.cn/ls/list.htm",
+      "profile_image_url": "https://automation.seu.edu.cn/ls/list.htm",
+      "visit_counter_image_url": "https://automation.seu.edu.cn/_visitcount?siteId=338&type=2&columnId=47353"
+    },
+    "basic_info": {
+      "name": "刘杉",
+      "titles": [
+        "讲师",
+        "硕士生导师"
+      ],
+      "affiliation": "东南大学",
+      "birth_year": 1996,
+      "education_summary": "1996年出生，2018年本科毕业于北京航空航天大学，2022年博士毕业于清华大学。",
+      "research_fields": [
+        "交通建模与优化",
+        "逆向强化学习"
+      ],
+      "research_interests_detail": "对即时配送、道路交通、轨道交通等多种模式的时空预测、车辆调度、路径规划等任务有持续研究。",
+      "research_achievements_summary": [
+        "入选中国科协青年人才托举工程",
+        "江苏省双创博士",
+        "东南大学至善青年学者",
+        "主持国家自然科学青年基金",
+        "主持江苏省自然科学青年基金",
+        "一作/通讯发表SCI论文十余篇",
+        "多项研究成果发表在Transportation Research Part C, Transportation Research Part E等国际知名期刊上"
+      ],
+      "teaching_achievements_summary": [
+        "获评全国高校自动化类专业青年教师讲课（说课）大赛二等奖",
+        "江苏省高校教师教学创新大赛二等奖",
+        "东南大学吾爱吾师-院系最受欢迎老师",
+        "东南大学优秀本科生导师"
+      ]
+    },
+    "recruitment_plan": {
+      "master_students": "每年招收硕士研究生1-2名，欢迎相关专业的同学联系报考。",
+      "undergraduate_students": "欢迎本科生参与科研训练，指导数学建模、SRTP、本科毕设、论文专利撰写。"
+    },
+    "group_style": [
+      "师生尊重，教学相长，轻松活泼，严谨求实",
+      "希望研途充实精彩，助力学生未来成长"
+    ],
+    "education_background": [
+      {
+        "start_date": "2014.09",
+        "end_date": "2018.06",
+        "university": "北京航空航天大学",
+        "college": "自动化科学与电气工程学院",
+        "degree": "学士"
+      },
+      {
+        "start_date": "2018.09",
+        "end_date": "2022.06",
+        "university": "清华大学",
+        "department": "工业工程系",
+        "degree": "博士"
+      }
+    ],
+    "work_experience": [
+      {
+        "start_date": "2022.09",
+        "end_date": "今",
+        "university": "东南大学",
+        "college": "自动化学院",
+        "position": "讲师"
+      }
+    ],
+    "academic_appointments": [
+      {
+        "organization": "中国仿真学会",
+        "committee": "环境建模仿真专业委员会",
+        "role": "委员"
+      },
+      {
+        "organization": "中国运筹学会",
+        "committee": "行为运筹与管理分会",
+        "role": "青年理事"
+      },
+      {
+        "organization": "中国公路学会",
+        "role": "会员"
+      }
+    ],
+    "awards": [
+      {
+        "id": 12,
+        "year": 2025,
+        "name": "第二届全国高校自动化类专业青年教师讲课（说课）大赛二等奖"
+      },
+      {
+        "id": 11,
+        "year": 2025,
+        "name": "中国科协青年人才托举工程"
+      },
+      {
+        "id": 10,
+        "year": 2025,
+        "name": "第五届江苏省高校教师教学创新大赛二等奖"
+      },
+      {
+        "id": 9,
+        "year": 2025,
+        "name": "江苏省高校微课教学比赛三等奖"
+      },
+      {
+        "id": 8,
+        "year": 2025,
+        "name": "东南大学学习优秀生优秀导师"
+      },
+      {
+        "id": 7,
+        "year": 2025,
+        "name": "东南大学青年教师授课竞赛三等奖"
+      },
+      {
+        "id": 6,
+        "year": 2024,
+        "name": "东南大学至善青年学者"
+      },
+      {
+        "id": 5,
+        "year": 2024,
+        "name": "Best paper award & best presenter award of the 6th International Symposium on Multimodal Transportation (ISMT, 2024)"
+      },
+      {
+        "id": 4,
+        "year": 2024,
+        "name": "Best paper award of the 15th International Workshop on Computational Transportation Science (CTS, 2024)"
+      },
+      {
+        "id": 3,
+        "year": 2024,
+        "name": "东南大学第20届吾爱吾师-院系最受欢迎老师"
+      },
+      {
+        "id": 2,
+        "year": 2023,
+        "name": "东南大学优秀本科生导师"
+      },
+      {
+        "id": 1,
+        "year": 2023,
+        "name": "江苏省双创博士"
+      }
+    ],
+    "courses_taught": [
+      {
+        "name": "计算机控制系统",
+        "target_audience": "自动化学院大三年级",
+        "type": "专业主干课程"
+      },
+      {
+        "name": "强化学习",
+        "target_audience": "未来技术学院大三年级",
+        "type": "专业选修课程"
+      }
+    ],
+    "empty_sections_present_as_headers": [
+      "学生培养",
+      "研究兴趣"
+    ],
+    "research_projects": [
+      {
+        "id": 9,
+        "name": "江苏省自动化学会高等教育教学改革研究课题",
+        "role": "主持",
+        "start_year": 2026,
+        "end_year": 2027
+      },
+      {
+        "id": 8,
+        "name": "东南大学未来技术学院“未来机器人及人工智能联合研发实验中心”揭榜挂帅重点项目",
+        "role": "主持",
+        "start_year": 2025,
+        "end_year": 2026
+      },
+      {
+        "id": 7,
+        "name": "校课程思政教育教学改革与研究实践项目",
+        "role": "主持",
+        "start_year": 2025,
+        "end_year": 2026
+      },
+      {
+        "id": 6,
+        "name": "国家自然科学基金青年基金项目",
+        "role": "主持",
+        "start_year": 2025,
+        "end_year": 2027
+      },
+      {
+        "id": 5,
+        "name": "江苏省自然科学基金青年基金项目",
+        "role": "主持",
+        "start_year": 2024,
+        "end_year": 2027
+      },
+      {
+        "id": 4,
+        "name": "中药制药过程控制与智能制造技术全国重点实验室开放课题",
+        "role": "主持",
+        "start_year": 2024,
+        "end_year": 2025
+      },
+      {
+        "id": 3,
+        "name": "浙江省智能交通工程技术研究中心开放课题",
+        "role": "主持",
+        "start_year": 2023,
+        "end_year": 2024
+      },
+      {
+        "id": 2,
+        "name": "科技创新2030-“新一代人工智能”重大项目",
+        "role": "参与",
+        "start_year": 2021,
+        "end_year": 2024
+      },
+      {
+        "id": 1,
+        "name": "国家自然科学基金面上项目",
+        "role": "参与",
+        "start_year": 2024,
+        "end_year": 2027
+      }
+    ],
+    "publications": [
+      {
+        "id": 18,
+        "authors": [
+          {
+            "name": "Shan Liu",
+            "is_corresponding": false
+          },
+          {
+            "name": "Ya Zhang",
+            "is_corresponding": false
+          },
+          {
+            "name": "Zhengli Wang",
+            "is_corresponding": false
+          },
+          {
+            "name": "Xiqun Chen",
+            "is_corresponding": false
+          },
+          {
+            "name": "Hai Yang",
+            "is_corresponding": false
+          }
+        ],
+        "year": 2026,
+        "title": "Knowledge-informed dynamic graph neural network for restaurant-level demand prediction in online food delivery",
+        "journal": "Transportation Research Part C",
+        "volume": "186",
+        "pages": "105634",
+        "notes": null
+      },
+      {
+        "id": 17,
+        "authors": [
+          {
+            "name": "Shan Liu",
+            "is_corresponding": false
+          },
+          {
+            "name": "Zhenhao Meng",
+            "is_corresponding": false
+          },
+          {
+            "name": "Rui Jiang",
+            "is_corresponding": false
+          },
+          {
+            "name": "Zhengli Wang",
+            "is_corresponding": false
+          },
+          {
+            "name": "Ya Zhang",
+            "is_corresponding": false
+          },
+          {
+            "name": "Ying-En Ge",
+            "is_corresponding": false
+          }
+        ],
+        "year": 2026,
+        "title": "Dynamic recovery sequence optimization of subway-bus network with constrained reinforcement learning",
+        "journal": "Transportation Research Part D",
+        "volume": "154",
+        "pages": "105238",
+        "notes": null
+      },
+      {
+        "id": 16,
+        "authors": [
+          {
+            "name": "Nu Chen",
+            "is_corresponding": false
+          },
+          {
+            "name": "Shan Liu",
+            "is_corresponding": true
+          },
+          {
+            "name": "Xi Shen",
+            "is_corresponding": false
+          },
+          {
+            "name": "Ya Zhang",
+            "is_corresponding": false
+          }
+        ],
+        "year": 2026,
+        "title": "CSDETR: a lightweight and efficient real-time traffic light detection model based on improved RT-DETR",
+        "journal": "Journal of Real-Time Image Processing",
+        "volume": "23",
+        "pages": "67",
+        "notes": "本科生一作，导师通讯"
+      },
+      {
+        "id": 15,
+        "authors": [
+          {
+            "name": "Shan Liu",
+            "is_corresponding": false
+          },
+          {
+            "name": "Yanshan Li",
+            "is_corresponding": false
+          },
+          {
+            "name": "Ya Zhang",
+            "is_corresponding": false
+          },
+          {
+            "name": "Yangyang Chen",
+            "is_corresponding": false
+          },
+          {
+            "name": "Jiajia Ma",
+            "is_corresponding": false
+          }
+        ],
+        "year": 2026,
+        "title": "An ensemble graph and series decomposition model for water level prediction at both real and virtual stations in the Yangtze river",
+        "journal": "IEEE Transactions on Instrumentation and Measurement",
+        "volume": "75",
+        "pages": "2500615",
+        "notes": null
+      },
+      {
+        "id": 14,
+        "authors": [
+          {
+            "name": "Shan Liu",
+            "is_corresponding": false
+          },
+          {
+            "name": "Xi Shen",
+            "is_corresponding": false
+          },
+          {
+            "name": "Zhenhao Meng",
+            "is_corresponding": false
+          },
+          {
+            "name": "Zhengli Wang",
+            "is_corresponding": false
+          },
+          {
+            "name": "Zhenjie Zheng",
+            "is_corresponding": false
+          }
+        ],
+        "year": 2025,
+        "title": "Subway passenger flow prediction considering subway-bus transfer: A dynamic spatiotemporal decomposition and gate fusion network",
+        "journal": "Transportmetrica A",
+        "volume": null,
+        "pages": "1-25",
+        "notes": null
+      },
+      {
+        "id": 13,
+        "authors": [
+          {
+            "name": "Zhenhao Meng",
+            "is_corresponding": false
+          },
+          {
+            "name": "Zhengli Wang",
+            "is_corresponding": false
+          },
+          {
+            "name": "Xiang Liu",
+            "is_corresponding": false
+          },
+          {
+            "name": "Shan Liu",
+            "is_corresponding": true
+          },
+          {
+            "name": "Ya Zhang",
+            "is_corresponding": false
+          }
+        ],
+        "year": 2025,
+        "title": "Real-time individual subway destination prediction: An AdaBoost graph neural network",
+        "journal": "Engineering Applications of Artificial Intelligence",
+        "volume": "160",
+        "pages": "111830",
+        "notes": "研究生一作，导师通讯"
+      },
+      {
+        "id": 12,
+        "authors": [
+          {
+            "name": "Jinyan Hou",
+            "is_corresponding": false
+          },
+          {
+            "name": "Shan Liu",
+            "is_corresponding": true
+          },
+          {
+            "name": "Ya Zhang",
+            "is_corresponding": false
+          },
+          {
+            "name": "Haotong Qin",
+            "is_corresponding": false
+          }
+        ],
+        "year": 2025,
+        "title": "Hierarchical graph construction for station-free traffic demand prediction",
+        "journal": "Transportation Research Part E",
+        "volume": "199",
+        "pages": "104151",
+        "notes": "本科生一作，导师通讯"
+      },
+      {
+        "id": 11,
+        "authors": [
+          {
+            "name": "Shan Liu",
+            "is_corresponding": false
+          },
+          {
+            "name": "Ya Zhang",
+            "is_corresponding": false
+          },
+          {
+            "name": "Zhengli Wang",
+            "is_corresponding": false
+          },
+          {
+            "name": "Xiang Liu",
+            "is_corresponding": false
+          },
+          {
+            "name": "Hai Yang",
+            "is_corresponding": false
+          }
+        ],
+        "year": 2025,
+        "title": "Personalized origin–destination travel time estimation with active adversarial inverse reinforcement learning and Transformer",
+        "journal": "Transportation Research Part E",
+        "volume": "193",
+        "pages": "103839",
+        "notes": null
+      },
+      {
+        "id": 10,
+        "authors": [
+          {
+            "name": "Yanshan Li",
+            "is_corresponding": false
+          },
+          {
+            "name": "Shan Liu",
+            "is_corresponding": true
+          },
+          {
+            "name": "Ya Zhang",
+            "is_corresponding": false
+          },
+          {
+            "name": "Xiang Liu",
+            "is_corresponding": false
+          },
+          {
+            "name": "Mingyan Xia",
+            "is_corresponding": false
+          }
+        ],
+        "year": 2024,
+        "title": "A ladder water level prediction model for the Yangtze river based on transfer learning and Transformer",
+        "journal": "IEEE Transactions on Geoscience and Remote Sensing",
+        "volume": "62",
+        "pages": "4211511",
+        "notes": "研究生一作，导师通讯"
+      },
+      {
+        "id": 9,
+        "authors": [
+          {
+            "name": "Pujun Zhang",
+            "is_corresponding": false
+          },
+          {
+            "name": "Dazhou Lei",
+            "is_corresponding": false
+          },
+          {
+            "name": "Shan Liu",
+            "is_corresponding": false
+          },
+          {
+            "name": "Hai Jiang",
+            "is_corresponding": false
+          }
+        ],
+        "year": 2024,
+        "title": "Recursive logit-based meta-inverse reinforcement learning for driver-preferred route planning",
+        "journal": "Transportation Research Part E",
+        "volume": "185",
+        "pages": "103485",
+        "notes": null
+      },
+      {
+        "id": 8,
+        "authors": [
+          {
+            "name": "Shan Liu",
+            "is_corresponding": false
+          },
+          {
+            "name": "Ya Zhang",
+            "is_corresponding": false
+          },
+          {
+            "name": "Zhengli Wang",
+            "is_corresponding": false
+          },
+          {
+            "name": "Hai Yang",
+            "is_corresponding": false
+          }
+        ],
+        "year": 2024,
+        "title": "Anomalous ride-hailing driver detection with deep transfer inverse reinforcement learning",
+        "journal": "Transportation Research Part C",
+        "volume": "159",
+        "pages": "104466",
+        "notes": null
+      },
+      {
+        "id": 7,
+        "authors": [
+          {
+            "name": "Zhenjie Zheng",
+            "is_corresponding": false
+          },
+          {
+            "name": "Zhengli Wang",
+            "is_corresponding": false
+          },
+          {
+            "name": "Shan Liu",
+            "is_corresponding": false
+          },
+          {
+            "name": "Wei Ma",
+            "is_corresponding": false
+          }
+        ],
+        "year": 2024,
+        "title": "Exploring the spatial effects on the level of congestion caused by traffic accidents in urban road networks: A case study of Beijing",
+        "journal": "Travel Behaviour and Society",
+        "volume": "35",
+        "pages": "100728",
+        "notes": null
+      },
+      {
+        "id": 6,
+        "authors": [
+          {
+            "name": "Shan Liu",
+            "is_corresponding": false
+          },
+          {
+            "name": "Ya Zhang",
+            "is_corresponding": false
+          },
+          {
+            "name": "Zhengli Wang",
+            "is_corresponding": false
+          },
+          {
+            "name": "Shiyi Gu",
+            "is_corresponding": false
+          }
+        ],
+        "year": 2023,
+        "title": "AdaBoost-Bagging deep inverse reinforcement learning for autonomous taxi cruising route and speed planning",
+        "journal": "Transportation Research Part E",
+        "volume": null,
+        "pages": null,
+        "notes": null
+      }
+    ]
+  }
+}

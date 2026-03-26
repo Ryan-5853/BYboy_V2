@@ -1,0 +1,183 @@
+{
+  "meta": {
+    "tutor_name_cn": "李焱骏",
+    "request_url": "https://faculty.uestc.edu.cn/liyanjun/zh_CN/index.htm",
+    "declared_source_url": "https://faculty.uestc.edu.cn/liyanjun/zh_CN/index.htm",
+    "page_host": "faculty.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/bd96e1daf75173f45046e3a7d8e18638b2517587424a1dab75064a9d352840d4.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "name": "李焱骏",
+    "source_url": "https://faculty.uestc.edu.cn/liyanjun/zh_CN/index.htm",
+    "personal_details": {
+      "profile_picture_url": "https://faculty.uestc.edu.cn/__local/4/1F/3B/FBA7706E97140075D95960E4F81_E9D6F36D_15937.png",
+      "praise_count": 27,
+      "titles_and_positions": [
+        "享受正高级待遇的高级工程师",
+        "博士生导师"
+      ],
+      "gender": "男",
+      "highest_education_level": "博士研究生毕业",
+      "degree": "工学博士学位",
+      "entry_date": "2003-04-01",
+      "discipline": "仪器科学与技术",
+      "born_year": 1978
+    },
+    "contact_info": {
+      "email": "yjli@uestc.edu.cn"
+    },
+    "profile_summary": "1978年出生，2009 年获电子科技大学测试计量技术及仪器专业工学博士学位，2007年和2015年分别赴美国圣母大学和亚利桑那州立大学做访问学者。长期从事声、电、核相关的测井技术与方法应用研究，以及集成电路测试相关的理论与应用研究。",
+    "education_experience": [
+      {
+        "year": "2009",
+        "degree": "工学博士学位",
+        "university": "电子科技大学",
+        "major": "测试计量技术及仪器专业"
+      }
+    ],
+    "work_experience": [
+      {
+        "dates": "2015.8 -- 2016.7",
+        "institution": "Arizona State University",
+        "role": "访问学者"
+      },
+      {
+        "dates": "2007.5 -- 2007.11",
+        "institution": "University of Notre Dame",
+        "role": "访问学者"
+      }
+    ],
+    "research_directions": [
+      "测井技术及仪器",
+      "集成电路测试",
+      "测试信号处理",
+      "可靠性测试"
+    ],
+    "awards": [
+      "省部级科技进步二等奖1项",
+      "省部级科技进步三等奖1 项"
+    ],
+    "related_links": [
+      {
+        "anchor_text": "招生信息",
+        "url": "https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/dsgrjj/10975?yxsh=06"
+      },
+      {
+        "anchor_text": "近年科研信息",
+        "url": "https://faculty.uestc.edu.cn/liyanjun/zh_CN/kyxm/142481/list/index.htm"
+      },
+      {
+        "anchor_text": "同专业博导",
+        "url": "https://faculty.uestc.edu.cn/liyanjun/zh_CN/tzybd/142479/list/index.htm"
+      }
+    ],
+    "page_metadata": {
+      "visit_count": 11060,
+      "page_creation_date": "2017.7.20",
+      "last_updated_date": "2026.1.29"
+    },
+    "site_chrome": {
+      "logo_link": {
+        "url": "http://faculty.uestc.edu.cn/",
+        "image_url": "https://faculty.uestc.edu.cn/__local/C/77/C5/91C2EAF3AECED944413B063D1D3_336FE1B6_2FA0.png"
+      },
+      "navigation_menu": [
+        {
+          "anchor_text": "首页",
+          "url": "https://faculty.uestc.edu.cn/liyanjun/zh_CN/index/142479/list/index.htm"
+        },
+        {
+          "anchor_text": "科学研究",
+          "url": "https://faculty.uestc.edu.cn/liyanjun/zh_CN/zhym/142480/list/index.htm"
+        },
+        {
+          "anchor_text": "科研项目",
+          "url": "https://faculty.uestc.edu.cn/liyanjun/zh_CN/kyxm/142481/list/index.htm"
+        },
+        {
+          "anchor_text": "著作成果",
+          "url": "https://faculty.uestc.edu.cn/liyanjun/zh_CN/zzcg/142482/list/index.htm"
+        },
+        {
+          "anchor_text": "专利",
+          "url": "https://faculty.uestc.edu.cn/liyanjun/zh_CN/zlcg/142483/list/index.htm"
+        },
+        {
+          "anchor_text": "论文成果",
+          "url": "https://faculty.uestc.edu.cn/liyanjun/zh_CN/lwcg/142484/list/index.htm"
+        },
+        {
+          "anchor_text": "研究领域",
+          "url": "https://faculty.uestc.edu.cn/liyanjun/zh_CN/yjgk/142485/list/index.htm"
+        },
+        {
+          "anchor_text": "教学研究",
+          "url": "https://faculty.uestc.edu.cn/liyanjun/zh_CN/zhym/142486/list/index.htm"
+        },
+        {
+          "anchor_text": "教学成果",
+          "url": "https://faculty.uestc.edu.cn/liyanjun/zh_CN/jxcg/142487/list/index.htm"
+        },
+        {
+          "anchor_text": "授课信息",
+          "url": "https://faculty.uestc.edu.cn/liyanjun/zh_CN/skxx/142488/list/index.htm"
+        },
+        {
+          "anchor_text": "教学资源",
+          "url": "https://faculty.uestc.edu.cn/liyanjun/zh_CN/jxzy/142489/list/index.htm"
+        },
+        {
+          "anchor_text": "获奖信息",
+          "url": "https://faculty.uestc.edu.cn/liyanjun/zh_CN/hjxx/142490/list/index.htm"
+        },
+        {
+          "anchor_text": "招生信息",
+          "url": "https://faculty.uestc.edu.cn/liyanjun/zh_CN/zsxx/142491/list/index.htm"
+        },
+        {
+          "anchor_text": "学生信息",
+          "url": "https://faculty.uestc.edu.cn/liyanjun/zh_CN/xsxx/142492/list/index.htm"
+        },
+        {
+          "anchor_text": "我的相册",
+          "url": "https://faculty.uestc.edu.cn/liyanjun/zh_CN/img/142493/list/index.htm"
+        },
+        {
+          "anchor_text": "教师博客",
+          "url": "https://faculty.uestc.edu.cn/liyanjun/zh_CN/article/142494/list/index.htm"
+        }
+      ],
+      "language_options": [
+        {
+          "anchor_text": "English",
+          "url": "http://faculty.uestc.edu.cn/liyanjun/en/index.htm"
+        }
+      ],
+      "footer_info": {
+        "campus_addresses": [
+          {
+            "campus": "清水河校区",
+            "address": "成都市高新区（西区）西源大道2006号",
+            "postcode": "611731"
+          },
+          {
+            "campus": "沙河校区",
+            "address": "成都市建设北路二段四号",
+            "postcode": "610054"
+          }
+        ],
+        "icp_beian": "蜀ICP备 05006379 号",
+        "gongan_beian": "川公网安备 51019002000280 号",
+        "mobile_version_link_text": "手机版",
+        "university_homepage_link": {
+          "anchor_text": "电子科技大学",
+          "url": "http://www.uestc.edu.cn/"
+        }
+      }
+    }
+  }
+}

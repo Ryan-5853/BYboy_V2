@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "tutor_name_cn": "孟劲松",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1162/4083.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1162/4083.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/0f9cb3822f9b87b67037186cc7e369bb725cbbae5e5e28702a3a7f544a55a88c.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "mentor_profile": {
+      "name": "孟劲松",
+      "image_url": "https://www.auto.uestc.edu.cn/__local/1/CD/9F/0EBE3B8E9B9455E6AFB3D67FDD0_54C74202_3685E.jpg",
+      "highest_degree": "博士",
+      "contact_phone": null,
+      "position_title": "讲师",
+      "email": "mengjinsong@uestc.edu.cn",
+      "advisor_status": null,
+      "personal_homepage": null,
+      "research_team": "移动计算中心",
+      "research_interests": [
+        "微弱信号检测",
+        "合成仪器",
+        "高速存储",
+        "视觉心理物理学"
+      ],
+      "academic_titles_and_affiliations": null,
+      "experience": [
+        "2017.1~至今 电子科技大学自动化工程学院，讲师",
+        "2016.1~2017.1 澳大利亚科廷大学，访问学者",
+        "2008.3~2016.1 电子科技大学自动化工程学院，讲师",
+        "2004.3~2008.2 西南交通大学牵引动力国家重点实验室载运工具运用工程专业，博士",
+        "2000.7~2004.2 中国电子科技集团第十研究所，工程师",
+        "1998.9~2000.6 西南交通大学机械工程学院测试计量技术及仪器专业，硕士"
+      ],
+      "scientific_research_summary": "主持主研省部级科研项目和企业科技合作项目十余项，在国内外期刊、会议上发表学术论文10余篇，授权发明专利4项。",
+      "courses_and_teaching_research": {
+        "undergraduate_courses": [
+          "复变函数与积分变换",
+          "数据采集与处理",
+          "数字系统EDA技术"
+        ]
+      },
+      "admission_specialties": {
+        "masters": null,
+        "doctorate": null
+      }
+    },
+    "site_chrome": {
+      "source_url": "https://www.auto.uestc.edu.cn/info/1162/4083.htm",
+      "header": {
+        "home_link": {
+          "anchor_text": "学校首页",
+          "url": "https://www.uestc.edu.cn/"
+        },
+        "language_switch": {
+          "anchor_text": "EN",
+          "url": "https://www.auto.uestc.edu.cn/"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "clickable_links": [
+    {
+      "url": "https://faculty.uestc.edu.cn/__local/5/99/E5/03780CD60DBA809AC2D02E0F691_FA4EC3EE_5652.png",
+      "anchor_text": "![",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL是图片文件，非网页内容。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/__local/E/C9/97/5BBE4759C8DB111AA5BEC819F74_40244623_19CB6.png",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL是图片文件，非网页内容。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/_ts/dzzw02/img/icon_good.png",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL是图片文件（图标），非网页内容。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/_ts/dzzw02/img/icon_ds.png",
+      "anchor_text": "_![",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL是图片文件（图标），非网页内容。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/_ts/dzzw02/img/icon_home.png",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL是图片文件（图标），非网页内容。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/chencong1/zh_CN/index.htm",
+      "anchor_text": "中文主页",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL含人名且锚文本为主页。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/chencong1/zh_CN/index/396100/list/index.htm",
+      "anchor_text": "首页",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL含人名，指向导师个人主页。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/_ts/dzzw02/images/logodb.png",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL是图片文件（logo），非网页内容。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/chencong1/zh_CN/index.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL含人名，指向导师个人主页。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/__local/5/99/E5/03780CD60DBA809AC2D02E0F691_FA4EC3EE_5652.png",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL是图片文件，非网页内容。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "http://faculty.uestc.edu.cn/",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "根域名，可能是导师名录或总览页。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/_ts/dzzw02/img/icon_ds.png",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL是图片文件（图标），非网页内容。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/chencong1/zh_CN/tzysd/396100/list/index.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL含人名，指向导师个人页内。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/chencong1/zh_CN/index/396100/list/index.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL含人名，指向导师个人主页。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    }
+  ]
+}

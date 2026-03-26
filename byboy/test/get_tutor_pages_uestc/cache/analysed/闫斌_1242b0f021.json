@@ -1,0 +1,730 @@
+{
+  "meta": {
+    "tutor_name_cn": "闫斌",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1174/4422.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1174/4422.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/d3c3638072c10a7b94e9706ab21c107a6f903a3268625436842db7dacba8b26a.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "mentor_profile": {
+      "name": "闫斌",
+      "image_url": "https://www.auto.uestc.edu.cn/__local/F/BE/12/83F902047D0EC8C1A33D55B50BE_9BA249C4_61B56.jpg",
+      "highest_degree": "博士",
+      "phone": null,
+      "title_position": "高级工程师",
+      "email": "uestyan@uestc.edu.cn",
+      "supervisor_role": "硕士导师",
+      "personal_homepage": null,
+      "research_team": "传感网络及智能信息处理研究室",
+      "research_directions": [
+        "无人机导航与控制",
+        "无线通信",
+        "模式识别技术研究"
+      ],
+      "academic_titles_affiliations": [],
+      "experience": [
+        {
+          "period": "2021.05至今",
+          "institution": "电子科技大学自动化工程学院",
+          "position": "高级工程师"
+        },
+        {
+          "period": "2009.06-2021.05",
+          "institution": "电子科技大学自动化工程学院",
+          "position": "讲师"
+        },
+        {
+          "period": "1998.07-2002.07",
+          "institution": "西南石油大学自动化学院",
+          "position": "教师"
+        }
+      ],
+      "scientific_research": {
+        "description": "长期从事无人机导航与控制、无线通信、模式识别技术研究",
+        "projects": {
+          "longitudinal": 2,
+          "horizontal": 10
+        },
+        "publications_count": "40余篇",
+        "patents_count": "2项"
+      },
+      "courses_teaching_research": {
+        "undergraduate_courses": [
+          "人工智能导论",
+          "传感器原理及应用",
+          "人工智能与专家系统"
+        ],
+        "graduate_courses": [],
+        "teaching_positions": [],
+        "teaching_research": [
+          "参与《传感器原理》在线开放课程"
+        ]
+      },
+      "admission_specialties": {
+        "master": [],
+        "phd": []
+      }
+    },
+    "site_chrome": {
+      "source_url": "https://www.auto.uestc.edu.cn/info/1174/4422.htm",
+      "header_links": [
+        {
+          "anchor_text": "学校首页",
+          "url": "https://www.uestc.edu.cn/",
+          "image_url": "https://www.auto.uestc.edu.cn/images/h-cio.png"
+        },
+        {
+          "anchor_text": "EN",
+          "url": "https://www.auto.uestc.edu.cn/en/",
+          "image_url": "https://www.auto.uestc.edu.cn/images/h-cio.png"
+        }
+      ],
+      "search_icon_url": "https://www.auto.uestc.edu.cn/images/ser.png",
+      "left_sidebar_navigation": [
+        {
+          "title": "学院概况",
+          "url": "https://www.auto.uestc.edu.cn/xygk/xyjj.htm",
+          "sub_items": [
+            {
+              "anchor_text": "学院简介",
+              "url": "https://www.auto.uestc.edu.cn/xygk/xyjj.htm"
+            },
+            {
+              "anchor_text": "现任领导",
+              "url": "https://www.auto.uestc.edu.cn/xygk/xrld.htm"
+            },
+            {
+              "anchor_text": "科室设置",
+              "url": "https://www.auto.uestc.edu.cn/xygk/kssz.htm"
+            },
+            {
+              "anchor_text": "院长信箱",
+              "url": "https://www.auto.uestc.edu.cn/xygk/yzxx.htm"
+            },
+            {
+              "anchor_text": "书记信箱",
+              "url": "https://www.auto.uestc.edu.cn/xygk/sjxx.htm"
+            }
+          ]
+        },
+        {
+          "title": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm",
+          "sub_items": [
+            {
+              "anchor_text": "教师名录",
+              "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm",
+              "children": [
+                {
+                  "anchor_text": "正高级",
+                  "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+                },
+                {
+                  "anchor_text": "副高级",
+                  "url": "https://www.auto.uestc.edu.cn/szdw/jsml/fgj.htm"
+                },
+                {
+                  "anchor_text": "中级",
+                  "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zj.htm"
+                },
+                {
+                  "anchor_text": "初级",
+                  "url": "https://www.auto.uestc.edu.cn/szdw/jsml/cj.htm"
+                },
+                {
+                  "anchor_text": "博士后",
+                  "url": "https://www.auto.uestc.edu.cn/szdw/jsml/bsh.htm"
+                },
+                {
+                  "anchor_text": "博士生导师",
+                  "url": "https://www.auto.uestc.edu.cn/szdw/jsml/bssds.htm"
+                },
+                {
+                  "anchor_text": "硕士生导师",
+                  "url": "https://www.auto.uestc.edu.cn/szdw/jsml/sssds.htm"
+                }
+              ]
+            },
+            {
+              "anchor_text": "教师名录总览页",
+              "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm",
+              "children": [
+                {
+                  "anchor_text": "A",
+                  "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/A.htm"
+                },
+                {
+                  "anchor_text": "B",
+                  "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/B.htm"
+                },
+                {
+                  "anchor_text": "C",
+                  "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/C.htm"
+                },
+                {
+                  "anchor_text": "D",
+                  "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/D.htm"
+                },
+                {
+                  "anchor_text": "E",
+                  "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/E.htm"
+                },
+                {
+                  "anchor_text": "F",
+                  "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/F.htm"
+                },
+                {
+                  "anchor_text": "G",
+                  "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/G.htm"
+                },
+                {
+                  "anchor_text": "H",
+                  "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/H.htm"
+                },
+                {
+                  "anchor_text": "I",
+                  "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/I.htm"
+                },
+                {
+                  "anchor_text": "J",
+                  "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/J.htm"
+                },
+                {
+                  "anchor_text": "K",
+                  "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/K.htm"
+                },
+                {
+                  "anchor_text": "L",
+                  "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/L.htm"
+                },
+                {
+                  "anchor_text": "M",
+                  "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/M.htm"
+                },
+                {
+                  "anchor_text": "N",
+                  "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/N.htm"
+                },
+                {
+                  "anchor_text": "O",
+                  "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/O.htm"
+                },
+                {
+                  "anchor_text": "P",
+                  "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/P.htm"
+                },
+                {
+                  "anchor_text": "Q",
+                  "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/Q.htm"
+                },
+                {
+                  "anchor_text": "R",
+                  "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/R.htm"
+                },
+                {
+                  "anchor_text": "S",
+                  "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/S.htm"
+                },
+                {
+                  "anchor_text": "T",
+                  "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/T.htm"
+                },
+                {
+                  "anchor_text": "U",
+                  "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/U.htm"
+                },
+                {
+                  "anchor_text": "V",
+                  "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/V.htm"
+                },
+                {
+                  "anchor_text": "W",
+                  "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/W.htm"
+                },
+                {
+                  "anchor_text": "X",
+                  "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/X.htm"
+                },
+                {
+                  "anchor_text": "Y",
+                  "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/Y.htm"
+                },
+                {
+                  "anchor_text": "Z",
+                  "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/Z.htm"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "科学研究",
+          "url": "https://www.auto.uestc.edu.cn/kxyj/kytd/yqkxyjsx.htm",
+          "sub_items": [
+            {
+              "anchor_text": "科研团队",
+              "url": "https://www.auto.uestc.edu.cn/kxyj/kytd/yqkxyjsx.htm"
+            },
+            {
+              "anchor_text": "科研平台",
+              "url": "https://www.auto.uestc.edu.cn/kxyj/kypt/yqkxyjs.htm"
+            },
+            {
+              "anchor_text": "科研成果",
+              "url": "https://www.auto.uestc.edu.cn/kxyj/kycg.htm"
+            }
+          ]
+        },
+        {
+          "title": "人才培养",
+          "url": "https://www.auto.uestc.edu.cn/rcpy/bksjy/jxgl.htm",
+          "sub_items": [
+            {
+              "anchor_text": "本科生教育",
+              "url": "https://www.auto.uestc.edu.cn/rcpy/bksjy/jxgl.htm",
+              "children": [
+                {
+                  "anchor_text": "教学管理",
+                  "url": "https://www.auto.uestc.edu.cn/rcpy/bksjy/jxgl.htm"
+                },
+                {
+                  "anchor_text": "规章制度",
+                  "url": "https://www.auto.uestc.edu.cn/rcpy/bksjy/gzzd.htm"
+                }
+              ]
+            },
+            {
+              "anchor_text": "研究生教育",
+              "url": "https://www.auto.uestc.edu.cn/rcpy/yjsjy/yjspy.htm",
+              "children": [
+                {
+                  "anchor_text": "研究生培养",
+                  "url": "https://www.auto.uestc.edu.cn/rcpy/yjsjy/yjspy.htm"
+                },
+                {
+                  "anchor_text": "研究生教学",
+                  "url": "https://www.auto.uestc.edu.cn/rcpy/yjsjy/yjsjx.htm"
+                }
+              ]
+            },
+            {
+              "anchor_text": "中法硕士项目",
+              "url": "https://www.auto.uestc.edu.cn/rcpy/zfssxm/zsjz.htm",
+              "children": [
+                {
+                  "anchor_text": "招生简章",
+                  "url": "https://www.auto.uestc.edu.cn/rcpy/zfssxm/zsjz.htm"
+                }
+              ]
+            },
+            {
+              "anchor_text": "招生工作",
+              "url": "https://www.auto.uestc.edu.cn/rcpy/zsgz.htm"
+            },
+            {
+              "anchor_text": "本科生就业",
+              "url": "https://jiuye.uestc.edu.cn/career/"
+            },
+            {
+              "anchor_text": "研究生就业",
+              "url": "https://yjsjob.uestc.edu.cn/"
+            },
+            {
+              "anchor_text": "培训中心",
+              "url": "https://www.auto.uestc.edu.cn/rcpy/pxzx/zxgk/zxjj.htm",
+              "children": [
+                {
+                  "anchor_text": "中心概况",
+                  "url": "https://www.auto.uestc.edu.cn/rcpy/pxzx/zxgk/zxjj.htm"
+                },
+                {
+                  "anchor_text": "培训业务",
+                  "url": "https://www.auto.uestc.edu.cn/rcpy/pxzx/pxyw/dzpx.htm"
+                },
+                {
+                  "anchor_text": "师资力量",
+                  "url": "https://www.auto.uestc.edu.cn/rcpy/pxzx/szll.htm"
+                },
+                {
+                  "anchor_text": "新闻资讯",
+                  "url": "https://www.auto.uestc.edu.cn/rcpy/pxzx/xwzx.htm"
+                },
+                {
+                  "anchor_text": "联系我们",
+                  "url": "https://www.auto.uestc.edu.cn/rcpy/pxzx/lxwm.htm"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "合作交流",
+          "url": "https://www.auto.uestc.edu.cn/hzjl/xsjl.htm",
+          "sub_items": [
+            {
+              "anchor_text": "学术交流",
+              "url": "https://www.auto.uestc.edu.cn/hzjl/xsjl.htm"
+            },
+            {
+              "anchor_text": "教师出境",
+              "url": "https://www.auto.uestc.edu.cn/hzjl/jscj.htm"
+            },
+            {
+              "anchor_text": "学生出境",
+              "url": "https://www.auto.uestc.edu.cn/hzjl/xscj.htm"
+            },
+            {
+              "anchor_text": "留学生工作",
+              "url": "https://www.auto.uestc.edu.cn/hzjl/lxsgz.htm"
+            },
+            {
+              "anchor_text": "出访公示",
+              "url": "https://www.auto.uestc.edu.cn/hzjl/cfgs.htm"
+            }
+          ]
+        },
+        {
+          "title": "党群工作",
+          "url": "https://www.auto.uestc.edu.cn/dqgz/ghgz.htm",
+          "sub_items": [
+            {
+              "anchor_text": "党建工作",
+              "url": "https://www.auto.uestc.edu.cn/dqgz/djgz.htm"
+            },
+            {
+              "anchor_text": "工会工作",
+              "url": "https://www.auto.uestc.edu.cn/dqgz/ghgz.htm"
+            },
+            {
+              "anchor_text": "教代会工作",
+              "url": "https://www.auto.uestc.edu.cn/dqgz/jdhgz.htm"
+            }
+          ]
+        },
+        {
+          "title": "校友园地",
+          "url": "https://www.auto.uestc.edu.cn/xyyd.htm",
+          "sub_items": [
+            {
+              "anchor_text": "校友风采",
+              "url": "https://www.auto.uestc.edu.cn/xyyd.htm"
+            },
+            {
+              "anchor_text": "校友动态",
+              "url": "https://www.auto.uestc.edu.cn/xyyd/xydt.htm"
+            },
+            {
+              "anchor_text": "40周年院（系）庆",
+              "url": "https://www.auto.uestc.edu.cn/yq40th/"
+            }
+          ]
+        },
+        {
+          "title": "办事指南",
+          "url": "https://www.auto.uestc.edu.cn/bszn/xsb.htm",
+          "sub_items": [
+            {
+              "anchor_text": "学生版",
+              "url": "https://www.auto.uestc.edu.cn/bszn/xsb.htm",
+              "children": [
+                {
+                  "anchor_text": "本科生",
+                  "url": "https://www.auto.uestc.edu.cn/bszn/xsb/bks.htm"
+                },
+                {
+                  "anchor_text": "研究生",
+                  "url": "https://www.auto.uestc.edu.cn/bszn/xsb/yjs.htm"
+                }
+              ]
+            },
+            {
+              "anchor_text": "教师版",
+              "url": "https://www.auto.uestc.edu.cn/bszn/jsb.htm",
+              "children": [
+                {
+                  "anchor_text": "党建工作",
+                  "url": "https://www.auto.uestc.edu.cn/bszn/jsb/djgz.htm"
+                },
+                {
+                  "anchor_text": "国际交流",
+                  "url": "https://www.auto.uestc.edu.cn/bszn/jsb/gjjl.htm"
+                },
+                {
+                  "anchor_text": "师资队伍",
+                  "url": "https://www.auto.uestc.edu.cn/bszn/jsb/szdw.htm"
+                },
+                {
+                  "anchor_text": "科学研究",
+                  "url": "https://www.auto.uestc.edu.cn/bszn/jsb/kxyj.htm"
+                },
+                {
+                  "anchor_text": "国资管理",
+                  "url": "https://www.auto.uestc.edu.cn/bszn/jsb/gzgl.htm"
+                },
+                {
+                  "anchor_text": "行政事务",
+                  "url": "https://www.auto.uestc.edu.cn/bszn/jsb/xzsw.htm"
+                },
+                {
+                  "anchor_text": "本科生培养",
+                  "url": "https://www.auto.uestc.edu.cn/bszn/jsb/bkspy.htm"
+                },
+                {
+                  "anchor_text": "研究生培养",
+                  "url": "https://www.auto.uestc.edu.cn/bszn/jsb/yjspy.htm"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "header_logo": {
+        "image_url_1": "https://www.auto.uestc.edu.cn/images/logo2241010.png",
+        "image_url_2": "https://www.auto.uestc.edu.cn/images/logo320241010.png",
+        "alt_text": "自动化工程学院2023",
+        "url": "https://www.auto.uestc.edu.cn/index.htm"
+      },
+      "main_navigation_bar": [
+        {
+          "title": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm",
+          "sub_items": [
+            {
+              "anchor_text": "学术动态",
+              "url": "https://www.auto.uestc.edu.cn/index/xsdt.htm"
+            }
+          ]
+        },
+        {
+          "title": "学院概况",
+          "url": "https://www.auto.uestc.edu.cn/xygk/xyjj.htm",
+          "sub_items": [
+            {
+              "anchor_text": "学院简介",
+              "url": "https://www.auto.uestc.edu.cn/xygk/xyjj.htm"
+            },
+            {
+              "anchor_text": "现任领导",
+              "url": "https://www.auto.uestc.edu.cn/xygk/xrld.htm"
+            },
+            {
+              "anchor_text": "科室设置",
+              "url": "https://www.auto.uestc.edu.cn/xygk/kssz.htm"
+            },
+            {
+              "anchor_text": "院长信箱",
+              "url": "https://www.auto.uestc.edu.cn/xygk/yzxx.htm"
+            },
+            {
+              "anchor_text": "书记信箱",
+              "url": "https://www.auto.uestc.edu.cn/xygk/sjxx.htm"
+            }
+          ]
+        },
+        {
+          "title": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm",
+          "sub_items": [
+            {
+              "anchor_text": "教师名录",
+              "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+            },
+            {
+              "anchor_text": "教师名录总览页",
+              "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+            }
+          ]
+        },
+        {
+          "title": "科学研究",
+          "url": "https://www.auto.uestc.edu.cn/kxyj/kytd/yqkxyjsx.htm",
+          "sub_items": [
+            {
+              "anchor_text": "科研团队",
+              "url": "https://www.auto.uestc.edu.cn/kxyj/kytd/yqkxyjsx.htm"
+            },
+            {
+              "anchor_text": "科研平台",
+              "url": "https://www.auto.uestc.edu.cn/kxyj/kypt/yqkxyjs.htm"
+            },
+            {
+              "anchor_text": "科研成果",
+              "url": "https://www.auto.uestc.edu.cn/kxyj/kycg.htm"
+            }
+          ]
+        },
+        {
+          "title": "人才培养",
+          "url": "https://www.auto.uestc.edu.cn/rcpy/bksjy/jxgl.htm",
+          "sub_items": [
+            {
+              "anchor_text": "本科生教育",
+              "url": "https://www.auto.uestc.edu.cn/rcpy/bksjy/jxgl.htm"
+            },
+            {
+              "anchor_text": "研究生教育",
+              "url": "https://www.auto.uestc.edu.cn/rcpy/yjsjy/yjspy.htm"
+            },
+            {
+              "anchor_text": "中法硕士项目",
+              "url": "https://www.auto.uestc.edu.cn/rcpy/zfssxm/zsjz.htm"
+            },
+            {
+              "anchor_text": "招生工作",
+              "url": "https://www.auto.uestc.edu.cn/rcpy/zsgz.htm"
+            },
+            {
+              "anchor_text": "本科生就业",
+              "url": "https://jiuye.uestc.edu.cn/career/"
+            },
+            {
+              "anchor_text": "研究生就业",
+              "url": "https://yjsjob.uestc.edu.cn/"
+            },
+            {
+              "anchor_text": "培训中心",
+              "url": "https://www.auto.uestc.edu.cn/rcpy/pxzx/zxgk/zxjj.htm"
+            }
+          ]
+        },
+        {
+          "title": "合作交流",
+          "url": "https://www.auto.uestc.edu.cn/hzjl/xsjl.htm",
+          "sub_items": [
+            {
+              "anchor_text": "学术交流",
+              "url": "https://www.auto.uestc.edu.cn/hzjl/xsjl.htm"
+            },
+            {
+              "anchor_text": "教师出境",
+              "url": "https://www.auto.uestc.edu.cn/hzjl/jscj.htm"
+            },
+            {
+              "anchor_text": "学生出境",
+              "url": "https://www.auto.uestc.edu.cn/hzjl/xscj.htm"
+            },
+            {
+              "anchor_text": "留学生工作",
+              "url": "https://www.auto.uestc.edu.cn/hzjl/lxsgz.htm"
+            },
+            {
+              "anchor_text": "出访公示",
+              "url": "https://www.auto.uestc.edu.cn/hzjl/cfgs.htm"
+            }
+          ]
+        },
+        {
+          "title": "党群工作",
+          "url": "https://www.auto.uestc.edu.cn/dqgz/ghgz.htm",
+          "sub_items": [
+            {
+              "anchor_text": "党建工作",
+              "url": "https://www.auto.uestc.edu.cn/dqgz/djgz.htm"
+            },
+            {
+              "anchor_text": "工会工作",
+              "url": "https://www.auto.uestc.edu.cn/dqgz/ghgz.htm"
+            },
+            {
+              "anchor_text": "教代会工作",
+              "url": "https://www.auto.uestc.edu.cn/dqgz/jdhgz.htm"
+            }
+          ]
+        },
+        {
+          "title": "校友园地",
+          "url": "https://www.auto.uestc.edu.cn/xyyd.htm",
+          "sub_items": [
+            {
+              "anchor_text": "校友园地",
+              "url": "https://www.auto.uestc.edu.cn/xyyd.htm"
+            },
+            {
+              "anchor_text": "校友动态",
+              "url": "https://www.auto.uestc.edu.cn/xyyd/xydt.htm"
+            },
+            {
+              "anchor_text": "40周年院（系）庆",
+              "url": "https://www.auto.uestc.edu.cn/yq40th/"
+            }
+          ]
+        },
+        {
+          "title": "办事指南",
+          "url": "https://www.auto.uestc.edu.cn/bszn/xsb.htm",
+          "sub_items": [
+            {
+              "anchor_text": "学生版",
+              "url": "https://www.auto.uestc.edu.cn/bszn/xsb.htm"
+            },
+            {
+              "anchor_text": "教师版",
+              "url": "https://www.auto.uestc.edu.cn/bszn/jsb.htm"
+            }
+          ]
+        }
+      ],
+      "breadcrumb": {
+        "title": "师资队伍",
+        "path": [
+          {
+            "anchor_text": "首页",
+            "url": "https://www.auto.uestc.edu.cn/index.htm"
+          },
+          {
+            "anchor_text": "师资队伍",
+            "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+          },
+          {
+            "anchor_text": "教师名录总览页",
+            "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+          },
+          {
+            "anchor_text": "Y",
+            "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/Y.htm"
+          },
+          {
+            "anchor_text": "正文",
+            "url": null
+          }
+        ]
+      },
+      "related_links": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ],
+      "footer": {
+        "logo": {
+          "image_url": "https://www.auto.uestc.edu.cn/images/logo220241010.png",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        "copyright": "电子科技大学自动化工程学院  Copyright All Right Reserved",
+        "links": [
+          {
+            "anchor_text": "VI系统",
+            "url": "https://vi.uestc.edu.cn/"
+          },
+          {
+            "anchor_text": "校园图库",
+            "url": "http://www.photo.uestc.edu.cn/home"
+          },
+          {
+            "anchor_text": "校友邮箱",
+            "url": null
+          }
+        ]
+      }
+    }
+  }
+}

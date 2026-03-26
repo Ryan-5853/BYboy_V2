@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "tutor_name_cn": "李西峰",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1161/4482.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1161/4482.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/f02c1e76f9b059760543a9c04d1b8c52e695220ed4ac47e0662ad65bd2359755.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "query_name": "李西峰",
+    "source_url": "https://www.auto.uestc.edu.cn/info/1161/4482.htm",
+    "site_chrome": {
+      "breadcrumbs": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "L",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/L.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "navigation_links": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ]
+    },
+    "personal_info": {
+      "name": "李西峰",
+      "photo_url": "https://www.auto.uestc.edu.cn/__local/A/75/30/F79DCD277D6921C7BF32F2392F4_1EE4C29E_33F12.jpg",
+      "highest_degree": "博士",
+      "phone_number": null,
+      "position_title": "副教授",
+      "email": "xifengli@uestc.edu.cn",
+      "supervisor_status": "硕士导师",
+      "personal_homepage": {
+        "anchor_text": "个人主页",
+        "url": "https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/dsgrjj/12531?yxsh=06"
+      },
+      "research_team": "电磁与声波测量团队"
+    },
+    "research_directions": [
+      "近场毫米波雷达成像",
+      "机器学习",
+      "大模型及应用",
+      "统计信号处理"
+    ],
+    "academic_affiliations_and_concurrent_posts": [
+      "IEEE会员",
+      "中国自动化学会会员",
+      "担任IEEE Transactions on Industrial Electronics 、IEEE Signal Processing Letters、 IEEE Transactions on Signal processing等杂志的编委、审稿人"
+    ],
+    "experience": {
+      "work_and_study_history": [
+        {
+          "start_date": "2019.08",
+          "end_date": "至今",
+          "organization": "电子科技大学",
+          "department": "自动化工程学院",
+          "position": "副教授"
+        },
+        {
+          "start_date": "2016.03",
+          "end_date": "2017.03",
+          "organization": "美国亚利桑那州立大学",
+          "position": "访问学者"
+        },
+        {
+          "start_date": "2014.10",
+          "end_date": "2016.03",
+          "organization": "电子科技大学",
+          "department": "自动化工程学院",
+          "position": "讲师"
+        },
+        {
+          "start_date": "2008.06",
+          "end_date": "2009.08",
+          "organization": "华为技术有限公司上海研究所",
+          "position": "算法工程师"
+        }
+      ]
+    },
+    "scientific_research": {
+      "overview": "从事统计信号处理与机器学习、近场毫米波成像雷达设计。",
+      "projects": "主持和承担国家自然科学基金项目6项",
+      "publications": "在IEEE Transactions on Circuits and Systems, IEEE Transactions on Microwave Theory and Techniques, IEEE Signal Processing letters, IEEE Transaction on Measurement and Instrument等行业专业期刊发表学术论文40多篇"
+    },
+    "teaching_info": {
+      "undergraduate_courses": [
+        "数字信号处理",
+        "单片机原理与接口技术",
+        "计算机软件基础",
+        "自动控制原理"
+      ],
+      "graduate_courses": [
+        "机器学习",
+        "小波与稀疏表示"
+      ],
+      "student_supervision": "指导多名本科生、硕士生在IEEE Signal Processing Letters，Neural networks, Mechanical Systems and Signal Processing等期刊发表SCI论文多篇，其中一名本科生获“成电杰出学生”称号，多名研究生获“学术青苗奖”等荣誉称号，获新华社官方微信、科学网和电子科大官方报道",
+      "teaching_positions": [
+        "研究生精品课程《机器学习》主讲教师"
+      ],
+      "teaching_research": [
+        "参与教学方法与考核方法改革示范课“软件技术基础”建设"
+      ]
+    },
+    "admission_majors": {
+      "masters": [
+        "081100控制科学与工程",
+        "085406控制工程",
+        "085400电子信息"
+      ],
+      "phd": []
+    }
+  }
+}

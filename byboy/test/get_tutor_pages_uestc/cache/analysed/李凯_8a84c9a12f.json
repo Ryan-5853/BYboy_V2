@@ -1,0 +1,188 @@
+{
+  "meta": {
+    "tutor_name_cn": "李凯",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1161/4488.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1161/4488.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/e72efd0886d40e40dad58419728c90c19285580d1acd8af75c88f244ffdc745d.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "site_chrome": {
+      "source_url": "https://www.auto.uestc.edu.cn/info/1161/4488.htm",
+      "breadcrumbs": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "L",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/L.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "side_navigation_links": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ]
+    },
+    "personal_info": {
+      "name": "李凯",
+      "image_url": "https://www.auto.uestc.edu.cn/__local/5/53/2A/C98B1F625CDF4F4B4E4758F49EC_E728185A_2C88F.jpg",
+      "highest_degree": "博士",
+      "contact_phone": null,
+      "position_title": "副研究员",
+      "email": "kaili@uestc.edu.cn",
+      "supervisor_status": "硕士导师",
+      "personal_homepage": null,
+      "research_team": "系统工程与智能装备团队"
+    },
+    "main_research_directions": [
+      "新能源系统建模、控制及优化技术研究"
+    ],
+    "academic_titles_and_part_time_positions": [
+      "IEEE Member",
+      "IEEE Trans. Power Electron.等顶级期刊审稿人"
+    ],
+    "education_experience": [
+      {
+        "start_date": "2002.09",
+        "end_date": "2006.07",
+        "institution": "电子科技大学",
+        "major": "自动化专业",
+        "degree": "学士"
+      },
+      {
+        "start_date": "2006.09",
+        "end_date": "2009.07",
+        "institution": "电子科技大学",
+        "major": "控制理论与控制工程",
+        "degree": "硕士"
+      },
+      {
+        "start_date": "2010.09",
+        "end_date": "2014.12",
+        "institution": "电子科技大学",
+        "major": "检测技术与自动化装置",
+        "degree": "博士"
+      }
+    ],
+    "work_experience": [
+      {
+        "start_date": "2009.07",
+        "end_date": "2011.07",
+        "institution": "电子科技大学",
+        "position": "助教"
+      },
+      {
+        "start_date": "2011.07",
+        "end_date": "2016.07",
+        "institution": "电子科技大学",
+        "position": "讲师"
+      },
+      {
+        "start_date": "2016.02",
+        "end_date": "2017.02",
+        "institution": "丹麦奥尔堡大学能源技术系",
+        "position": "访问学者"
+      },
+      {
+        "start_date": "2016.08",
+        "end_date": "至今",
+        "institution": "电子科技大学",
+        "position": "副研究员"
+      },
+      {
+        "start_date": "2019.01",
+        "end_date": "至今",
+        "institution": "电子科技大学",
+        "department": "氢能与燃料电池研究院",
+        "position": "系统集成与控制研究中心主任"
+      }
+    ],
+    "scientific_research": {
+      "overview": "从事新能源发电/储能系统集成与控制相关的产品开发与基础研究13年，取得如下成果：",
+      "achievements_details": [
+        {
+          "category": "新能源发电系统集成控制",
+          "description_points": [
+            "2019年研发了65kW燃料电池发动机，产品的功率等级和系统综合效率达到国内领先，目前已通过上海机动车检测中心的认证，搭载该型发动机的燃料电池客车已经实现商业化运营。",
+            "2009年研发的2MW风力发电控制系统，通过企业实现了产业化，已装备数十个风电场，创造经济价值数亿元，所研发的《风力发电有功功率控制系统》获2012年四川省科技进步三等奖。"
+          ]
+        },
+        {
+          "category": "多功能智能化测试系统",
+          "description_points": [
+            "2017年至今研发了多款燃料电池测试平台，功率等级覆盖0.1kW~150kW，测试对象覆盖电堆、附属部件和发动机系统。",
+            "研发的3kW及30kW燃料电池电堆测试平台成为某公司的主打产品，并实现市场销售。",
+            "2010研发的某系列型号空压机测控系统已稳定运行10年，为国家新型飞行器动力系统的研发与测试持续服务。"
+          ]
+        },
+        {
+          "category": "多能源集成功率控制与能量管理",
+          "description_points": [
+            "2015年研发的10kW燃料电池多能互补备用电源系统，在四川德阳已稳定运行五年。",
+            "2009-2014年研发的200kW电动汽车直流充电系统、户用风光储一体化供电系统、100kW储能逆变器等产品在大型中央企业实现了产品化，创造了良好的经济效益。"
+          ]
+        },
+        {
+          "category": "基础研究与应用方面",
+          "description_points": [
+            "作为负责人/科研骨干先后承担了20余项科研项目，包括国家重点研发计划《MW 级固体聚合物电解质电解水制氢技术》和《高环境适应性的公路客车燃料电池动力系统和整车集成技术》、国家自然科学基金《基于阻抗无源性重塑的变流器与电网交互谐振抑制理论与方法研究》、国家863计划《长寿命交流燃料电池备用电源电堆及系统研发》、省科技支撑计划《车用高性能燃料电池技术开发》等项目，累计承担科研项目超过2000万元。",
+            "发表SCI/EI收录学术论文40多篇，获得国家发明专利60多项。"
+          ],
+          "research_funding_summary": "累计承担科研项目超过2000万元",
+          "publications_summary": "发表SCI/EI收录学术论文40多篇",
+          "patents_summary": "获得国家发明专利60多项"
+        }
+      ]
+    },
+    "taught_courses": {
+      "undergraduate_courses": [
+        "电力电子技术基础",
+        "综合课程设计",
+        "魅力自动化"
+      ],
+      "postgraduate_courses": [
+        "电网基础及新能源发电并网技术",
+        "创新实践课程"
+      ]
+    },
+    "admission_specialties": {
+      "masters_programs": [
+        "081100控制科学与工程",
+        "085400电子信息",
+        "085406控制工程"
+      ],
+      "doctoral_programs": []
+    }
+  }
+}

@@ -1,0 +1,608 @@
+{
+  "meta": {
+    "tutor_name_cn": "沈泽微",
+    "request_url": "https://faculty.uestc.edu.cn/shenzewei1/zh_CN/index.htm",
+    "declared_source_url": "https://faculty.uestc.edu.cn/shenzewei1/zh_CN/index.htm",
+    "page_host": "faculty.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/8c961b3fdc9210735adfe9dd1aa2dd9619f1dff43fecd117af8bbe6b41d47a15.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "query_key_name": "沈泽微",
+    "source_url": "https://faculty.uestc.edu.cn/shenzewei1/zh_CN/index.htm",
+    "name": "沈泽微",
+    "image": {
+      "url": "https://faculty.uestc.edu.cn/__local/2/3C/BC/D816C2AD9B60356E16FD8CBE0FE_E4CD3A84_2311E.png",
+      "alt_text": "沈泽微"
+    },
+    "page_interaction_data": {
+      "icon": "https://faculty.uestc.edu.cn/_ts/mb1/images/ico-heart-i.png",
+      "count": 609
+    },
+    "personal_information": {
+      "titles": [
+        "副教授",
+        "硕士生导师"
+      ],
+      "gender": "男",
+      "education_level": "博士研究生毕业",
+      "degree": "工学博士学位",
+      "onboarding_date": "2022-09-19",
+      "office_location": "电子科技大学清水河校区主楼C2 201",
+      "awards": [
+        "IEEE ECCE2016 Best paper Award",
+        "IEEE IAS-IPCC Thrid Prize Paper Award"
+      ]
+    },
+    "contact_information": {
+      "postal_code": "611731",
+      "correspondence_office_address": "清水河校区主楼 C2-109",
+      "mobile_phone": "13886087727",
+      "email": "shenzw@uestc.edu.cn",
+      "other_contact_prompt": "扫描关注"
+    },
+    "personal_profile": {
+      "full_name": "沈泽微",
+      "birth_year": 1990,
+      "hometown": "湖北武汉",
+      "education_history": [
+        {
+          "period": "2008年-2012年",
+          "institution": "华中科技大学",
+          "major": "自动化",
+          "degree": "学士"
+        },
+        {
+          "period": "2015年-2020年",
+          "institution": "华中科技大学",
+          "college": "电气与电子工程学院",
+          "degree": "博士"
+        }
+      ],
+      "work_experience_history": [
+        {
+          "period": "2020年-2022年",
+          "institution": "电子科技大学（深圳）高等研究院",
+          "position": "博士后"
+        },
+        {
+          "period": "2022年-2024年",
+          "institution": "电子科技大学",
+          "college": "自动化工程学院",
+          "position": "讲师"
+        },
+        {
+          "period": "2024年-至今",
+          "institution": "电子科技大学",
+          "college": "自动化工程学院",
+          "position": "副教授"
+        }
+      ],
+      "lab_vr": {
+        "anchor_text": "电子科技大学电力电子与智慧能源实验室",
+        "url": "https://vr.justeasy.cn/view/16y8745xh5t45214-1690510097.html"
+      },
+      "team_led_construction": [
+        "广东省智能装备自主感知与控制工程技术研究中心",
+        "深圳市通感一体与智能无人系统XX重点实验室",
+        "深圳市龙华区高端装备智能感知与先进控制重点实验室"
+      ],
+      "honors_and_distinctions": [
+        "四川省青年人才",
+        "深圳市优秀博士后"
+      ],
+      "memberships": [
+        "IEEE会员",
+        "中国自动化学会会员",
+        "中国电工技术学会高级会员",
+        "中国电源学会会员兼电磁兼容专委会委员"
+      ],
+      "reviewer_for_journals": [
+        "IEEE Transactions on Industrial Electronics",
+        "IEEE Transactions on Power Electronics",
+        "IEEE Transactions on Industry Applications",
+        "《中国电机工程学报》"
+      ],
+      "research_achievements_summary": [
+        "博士学习期间以第一作者发表中科院一区论文6篇，申请发明专利6项，并协助导师申请各类项目。有非常良好的学术论文写作经验和技巧，可以指导本科或硕士生完成一区论文的写作",
+        "申报获批国家自然科学基金青年项目（NSFC:52107181,基于碳化硅电机驱动器的共模主动抑制统一理论及其性能优化方法研究），并先后获得博士后面上资助（一等）和博士后特别资助（站）基金等，在项目申报上具有丰富的经验，欢迎有志向的学生加入到课题组共同发展，本人将提供全方位支撑以及完整的训练与专业指导",
+        "在企业项目方面，本团队已经与某电源设备公司，新能源发电公司，xx微电子公司开展了长期合作，每年横向课题经费超过500万，课题组有丰富锻炼和动手机会，在学生阶段便可加入产品研发，积累经验",
+        "累计发表学术论文40余篇，第一/通讯作者发表中科院一区论文8篇（包括IEEE Transaction on Industrial Electronics，IEEE Transaction on Power Electronics等)，申请/授权中国发明专利20余项"
+      ],
+      "student_cultivation_note": "已培养多届学生，其中多人获电子科技大学优秀硕士学位论文和四川省优秀毕业生荣誉，且大部分赴业界知名公司、研究所等开展工作，详情可以转至学生信息一栏查看。",
+      "recruitment_information": {
+        "master_students": {
+          "annual_recruitment_quota": "3-5名",
+          "research_directions": [
+            "电力电子技术",
+            "特种电机驱动控制",
+            "新能源"
+          ],
+          "contact_email": "shenzw@uestc.edu.cn"
+        },
+        "postdoctoral_fellows": {
+          "note": "欢迎优秀博士毕业生加入课题组做博士后",
+          "salary_starting": "36万起",
+          "support": "支持申报各类国家级、省部级课题，支撑其平台与团队建设"
+        }
+      }
+    },
+    "research_projects": [
+      {
+        "id": "1",
+        "title": "基于碳化硅电机驱动器的共模主动抑制统一理论及其性能优化方法研究",
+        "type": "国家自然科学基金青年项目，纵向课题",
+        "role": "主持",
+        "period": "2022-2024",
+        "funding": "30 万"
+      },
+      {
+        "id": "2",
+        "title": "双三相电机驱动系统交直流多物理性能的协同优化关键技术研究",
+        "type": "中国博士后科学基金会面上（一等资助）项目，纵向课题",
+        "role": "主持",
+        "period": "2021-2023",
+        "funding": "12万"
+      },
+      {
+        "id": "3",
+        "title": "基于脉冲对消统一理论的多电平多相电机驱动系统交直流协同优化拓展研究",
+        "type": "中国博士后科学基金会特别资助（站中）项目，纵向课题",
+        "role": "主持",
+        "period": "2022-2024",
+        "funding": "18万"
+      },
+      {
+        "id": "4",
+        "title": "机载xxxx数据处理及特性分析",
+        "type": "xx预研项目，纵向课题",
+        "role": "主持",
+        "period": "2021-2022",
+        "funding": "48.5万"
+      },
+      {
+        "id": "5",
+        "title": "基于拓展自由度的开绕组电机驱动系统的综合性能优化技术研究",
+        "type": "四川省自然科学基金青年项目，纵向课题",
+        "role": "主持",
+        "period": "2023-2024",
+        "funding": "10万"
+      },
+      {
+        "id": "6",
+        "title": "多能集成单级式多端口电机驱动拓扑衍生及控制方法研究",
+        "type": "国家自然科学基金面上项目，纵向课题",
+        "role": "参与",
+        "period": "2022-2025",
+        "funding": "60 万"
+      },
+      {
+        "id": "7",
+        "title": "面向航空航天装备的混合集成高功率密度电源关键技术研发",
+        "type": "深圳市技术攻关重点项目，纵向课题",
+        "role": "参与",
+        "period": "2023-2025",
+        "funding": "200万"
+      },
+      {
+        "id": "8",
+        "title": "多三相电机驱动控制中的振动与电磁噪声抑制研究",
+        "type": "国家自然科学基金面上项目，纵向课题",
+        "role": "参与",
+        "period": "2021-2024",
+        "funding": "60万"
+      },
+      {
+        "id": "9",
+        "title": "基于碳化硅器件的高功率密度电机驱动器关键技术研究",
+        "type": "国家自然科学基金青年项目，纵向课题",
+        "role": "参与",
+        "period": "2017-2019",
+        "funding": "20万"
+      },
+      {
+        "id": "10",
+        "title": "高效率模块电源与车载综合电源研究与开发",
+        "type": "企业委托项目",
+        "role": "联合主持",
+        "period": "2021-2022",
+        "funding": "308万"
+      },
+      {
+        "id": "11",
+        "title": "1.5kW直流开关电源研究",
+        "type": "企业委托项目",
+        "role": "主持",
+        "period": "2022-2023",
+        "funding": "50万"
+      },
+      {
+        "id": "12",
+        "title": "LIBS系统控制板开发",
+        "type": "企业委托项目",
+        "role": "主持",
+        "period": "2021-2022",
+        "funding": "22万"
+      }
+    ],
+    "monographs": [
+      {
+        "id": "1",
+        "authors": "D. Jiang, Z. Shen, Q. Li, J. Chen and Z. Liu",
+        "title": "Advanced Pulse-Width-Modulation：With Freedom to Optimize Power Electronics Converters",
+        "publisher": "Springer",
+        "publication_date": "2021.02",
+        "isbn": "978-981-334-384-9"
+      }
+    ],
+    "selected_journal_papers": [
+      {
+        "year": 2024,
+        "id": "1",
+        "authors": "Z. Shen, Z. Li, D. Zhou, J. Zou and D. Jiang",
+        "title": "A Computationally Efficient Carrier-Based PWM Strategy for Asymmetrical Six-Phase Motor Drive of Electric Vehicle with Unified Zero-Sequence Signal",
+        "journal": "IEEE Transactions on Transportation Electrification",
+        "doi": "10.1109/TTE.2023.3339976"
+      },
+      {
+        "year": 2023,
+        "id": "1",
+        "authors": "Z. Huang, D. Zhou, L. Wang, Z. Shen and Y. Li",
+        "title": "A Review of Single-Stage Multiport Inverters for Multisource Applications",
+        "journal": "IEEE Transactions on Power Electronics",
+        "volume": "38",
+        "issue": "5",
+        "pages": "6566-6584",
+        "month": "May",
+        "doi": "10.1109/TPEL.2023.3234358"
+      },
+      {
+        "year": 2022,
+        "id": "1",
+        "authors": "Z. Shen, D. Jiang, J. Zou, Z. Liu and C. Ma",
+        "title": "Current-Balance Mode-Based Unified Common-Mode Voltage Elimination Scheme for Dual Three-Phase Motor Drive System",
+        "journal": "IEEE Transactions on Industrial Electronics",
+        "volume": "69",
+        "issue": "12",
+        "pages": "12575-12586",
+        "month": "Dec.",
+        "doi": "10.1109/TIE.2021.3139140"
+      },
+      {
+        "year": 2021,
+        "id": "1",
+        "authors": "Z. Liu, P. Wang, W. Sun, Z. Shen and D. Jiang",
+        "title": "Sawtooth Carrier-Based PWM Methods With Common-Mode Voltage Reduction for Symmetrical Multiphase Two-Level Inverters With Odd Phase Number",
+        "journal": "IEEE Transactions on Power Electronics",
+        "volume": "36",
+        "issue": "1",
+        "pages": "1171-1183",
+        "month": "Jan.",
+        "doi": "10.1109/TPEL.2020.3003159"
+      },
+      {
+        "year": 2021,
+        "id": "2",
+        "authors": "X. Zhao, D. Jiang, J. Chen, Z. Shen and Q. Li",
+        "title": "Leakage Current Suppression With Capacitor Voltage Control of Three-Level Flying Capacitor Grid-Connected Inverters",
+        "journal": "IEEE Transactions on Industrial Electronics",
+        "volume": "69",
+        "issue": "3",
+        "pages": "2191-2201",
+        "month": "March",
+        "doi": "10.1109/TIE.2021.3065596"
+      },
+      {
+        "year": 2021,
+        "id": "3",
+        "authors": "Y. Zhang, Z. Shen and D. Jiang",
+        "title": "An Integrated EMI Filter Scheme for Paralleled Inverter With Zero-CM PWM Algorithm",
+        "journal": "IEEE Journal of Emerging and Selected Topics in Power Electronics",
+        "volume": "9",
+        "issue": "1",
+        "pages": "716-726",
+        "month": "Feb.",
+        "doi": "10.1109/JESTPE.2019.2962918"
+      },
+      {
+        "year": 2021,
+        "id": "4",
+        "authors": "沈泽微,蒋栋,陈嘉楠",
+        "title": "一种通用的PWM变流器开关脉冲延时补偿策略",
+        "journal": "中国电机工程学报",
+        "volume": "41",
+        "issue": "09",
+        "pages": "2990-2999",
+        "doi": "10.13334/j.0258-8013.pcsee.200912"
+      },
+      {
+        "year": 2020,
+        "id": "1",
+        "authors": "Z. Shen, D. Jiang, Z. Liu, D. Ye and J. Li",
+        "title": "Common-Mode Voltage Elimination for Dual Two-Level Inverter-Fed Asymmetrical Six-Phase PMSM",
+        "journal": "IEEE Transactions on Power Electronics",
+        "volume": "35",
+        "issue": "4",
+        "pages": "3828-3840",
+        "month": "April",
+        "doi": "10.1109/TPEL.2019.2933446"
+      },
+      {
+        "year": 2020,
+        "id": "2",
+        "authors": "J. Chen, D. Jiang, W. Sun, Z. Shen and Y. Zhang",
+        "title": "A Family of Spread-Spectrum Modulation Schemes Based on Distribution Characteristics to Reduce Conducted EMI for Power Electronics Converters",
+        "journal": "IEEE Transactions on Industry Applications",
+        "volume": "56",
+        "issue": "5",
+        "pages": "5142-5157",
+        "month": "Sept.-Oct.",
+        "doi": "10.1109/TIA.2020.3002472"
+      },
+      {
+        "year": 2020,
+        "id": "3",
+        "authors": "Q. Li, D. Jiang, Z. Liu, Z. Shen and Y. Zhang",
+        "title": "A Phase-Shifted Zero-CM PWM for Circulating Current Reduction in Two Paralleled Inverters With Coupled Inductors",
+        "journal": "IEEE Transactions on Transportation Electrification",
+        "volume": "6",
+        "issue": "1",
+        "pages": "95-104",
+        "month": "March",
+        "doi": "10.1109/TTE.2019.2960160"
+      },
+      {
+        "year": 2020,
+        "id": "4",
+        "authors": "Q. Li, D. Jiang, Z. Shen, Y. Zhang and Z. Liu",
+        "title": "Variable Switching Frequency PWM Strategy for High-Frequency Circulating Current Control in Paralleled Inverters With Coupled Inductors",
+        "journal": "IEEE Transactions on Power Electronics",
+        "volume": "35",
+        "issue": "5",
+        "pages": "5366-5380",
+        "month": "May",
+        "doi": "10.1109/TPEL.2019.2942187"
+      },
+      {
+        "year": 2020,
+        "id": "5",
+        "authors": "J. Chen, D. Jiang, Z. Shen, W. Sun and Z. Fang",
+        "title": "Uniform Distribution Pulsewidth Modulation Strategy for Three-Phase Converters to Reduce Conducted EMI and Switching Loss",
+        "journal": "IEEE Transactions on Industrial Electronics",
+        "volume": "67",
+        "issue": "8",
+        "pages": "6215-6226",
+        "month": "Aug.",
+        "doi": "10.1109/TIE.2019.2939974"
+      },
+      {
+        "year": 2020,
+        "id": "6",
+        "authors": "蒋栋,沈泽微,刘自程等",
+        "title": "电力推进系统电力电子噪声的主动抑制技术进展",
+        "journal": "中国电机工程学报",
+        "volume": "40",
+        "issue": "16",
+        "pages": "5291-5302",
+        "doi": "10.13334/j.0258-8013.pcsee.191433"
+      },
+      {
+        "year": 2019,
+        "id": "1",
+        "authors": "Z. Shen and D. Jiang",
+        "title": "Dead-Time Effect Compensation Method Based on Current Ripple Prediction for Voltage-Source Inverters",
+        "journal": "IEEE Transactions on Power Electronics",
+        "volume": "34",
+        "issue": "1",
+        "pages": "971-983",
+        "month": "Jan.",
+        "doi": "10.1109/TPEL.2018.2820727"
+      },
+      {
+        "year": 2019,
+        "id": "2",
+        "authors": "Z. Shen, D. Jiang, T. Zou and R. Qu",
+        "title": "Dual-Segment Three-Phase PMSM With Dual Inverters for Leakage Current and Common-Mode EMI Reduction",
+        "journal": "IEEE Transactions on Power Electronics",
+        "volume": "34",
+        "issue": "6",
+        "pages": "5606-5619",
+        "month": "June",
+        "doi": "10.1109/TPEL.2018.2866338"
+      },
+      {
+        "year": 2019,
+        "id": "3",
+        "authors": "Z. Shen et al.",
+        "title": "A Novel Zero-Sequence Current Elimination PWM Scheme for an Open-Winding PMSM With Common DC Bus",
+        "journal": "IEEE Transactions on Power Electronics",
+        "volume": "34",
+        "issue": "12",
+        "pages": "12476-12490",
+        "month": "Dec.",
+        "doi": "10.1109/TPEL.2019.2906975"
+      },
+      {
+        "year": 2019,
+        "id": "4",
+        "authors": "D. Jiang, J. Chen and Z. Shen",
+        "title": "Common mode EMI reduction through PWM methods for three-phase motor controller",
+        "journal": "CES Transactions on Electrical Machines and Systems",
+        "volume": "3",
+        "issue": "2",
+        "pages": "133-142",
+        "month": "June",
+        "doi": "10.30941/CESTEMS.2019.00019"
+      },
+      {
+        "year": 2018,
+        "id": "1",
+        "authors": "Z. Shen, D. Jiang, J. Chen and R. Qu",
+        "title": "Circulating Current Reduction for Paralleled Inverters With Modified Zero-CM PWM Algorithm",
+        "journal": "IEEE Transactions on Industry Applications",
+        "volume": "54",
+        "issue": "4",
+        "pages": "3518-3528",
+        "month": "July-Aug.",
+        "doi": "10.1109/TIA.2018.2821653"
+      },
+      {
+        "year": 2018,
+        "id": "2",
+        "authors": "D. Jiang, Z. Shen and F. Wang",
+        "title": "Common-Mode Voltage Reduction for Paralleled Inverters",
+        "journal": "IEEE Transactions on Power Electronics",
+        "volume": "33",
+        "issue": "5",
+        "pages": "3961-3974",
+        "month": "May",
+        "doi": "10.1109/TPEL.2017.2712369"
+      }
+    ],
+    "selected_conference_papers": [
+      {
+        "id": "1",
+        "authors": "X. Fu, Z. Shen, D. Zhou and J. Zou",
+        "title": "Accurate Analytical Calculation of the DC-link Capacitor Current for Three-phase Motor Drive under the Full Working Range",
+        "conference": "IECON 2022 – 48th Annual Conference of the IEEE Industrial Electronics Society",
+        "location": "Brussels, Belgium",
+        "year": 2022,
+        "pages": "1-6",
+        "doi": "10.1109/IECON49645.2022.9968808"
+      },
+      {
+        "id": "2",
+        "authors": "S. Lin, Z. Shen, D. Zhou and J. Zou",
+        "title": "Characteristic Analysis and Comparison of the Modulation Schemes for Three-phase Open Winding Motor Drive",
+        "conference": "IECON 2022 – 48th Annual Conference of the IEEE Industrial Electronics Society",
+        "location": "Brussels, Belgium",
+        "year": 2022,
+        "pages": "1-6",
+        "doi": "10.1109/IECON49645.2022.9968595"
+      },
+      {
+        "id": "3",
+        "authors": "M. Li, D. Zhou, J. Zou, Z. Shen, L. Liu and X. Fu",
+        "title": "A Hybrid Si/GaN-Based Quasi-Single-Stage Converter for Microgrid Applications with Simplified Space-Vector Modulation",
+        "conference": "IECON 2022 – 48th Annual Conference of the IEEE Industrial Electronics Society",
+        "location": "Brussels, Belgium",
+        "year": 2022,
+        "pages": "1-6",
+        "doi": "10.1109/IECON49645.2022.9968646"
+      },
+      {
+        "id": "4",
+        "authors": "Z. Shen, D. Jiang, J. Chen and Z. Liu",
+        "title": "A General Dead Time Compensation Method Based on Current Ripple Prediction and Pulse Delay Measurement for Voltage Source Inverter",
+        "conference": "2020 IEEE Energy Conversion Congress and Exposition (ECCE)",
+        "location": "Detroit, MI, USA",
+        "year": 2020,
+        "pages": "1927-1931",
+        "doi": "10.1109/ECCE44975.2020.9235966"
+      },
+      {
+        "id": "5",
+        "authors": "J. Chen, D. Jiang, W. Sun, Z. Shen and Y. Zhang",
+        "title": "An Improved Variable Switching Frequency Modulation Strategy for Three-Level converters with Reduced Conducted EMI",
+        "conference": "2019 IEEE Energy Conversion Congress and Exposition (ECCE)",
+        "location": "Baltimore, MD, USA",
+        "year": 2019,
+        "pages": "6937-6942",
+        "doi": "10.1109/ECCE.2019.8913252"
+      },
+      {
+        "id": "6",
+        "authors": "Z. Shen, D. Jiang, Z. Liu and D. Li",
+        "title": "Current Ripple Reduction for Dual-Segment Threephase PMSM with ZCMV PWM Scheme through Neutral Point Separation",
+        "conference": "2019 IEEE Energy Conversion Congress and Exposition (ECCE)",
+        "location": "Baltimore, MD, USA",
+        "year": 2019,
+        "pages": "1790-1796",
+        "doi": "10.1109/ECCE.2019.8913133"
+      },
+      {
+        "id": "7",
+        "authors": "Q. Li, D. Jiang, Z. Shen, Y. Zhang, X. Zhao and Y. Ma",
+        "title": "Variable Switching Frequency Strategy based on Circulating Current Analysis in Paralleled Inverters with Interleaved PWM",
+        "conference": "2019 IEEE Applied Power Electronics Conference and Exposition (APEC)",
+        "location": "Anaheim, CA, USA",
+        "year": 2019,
+        "pages": "916-920",
+        "doi": "10.1109/APEC.2019.8721814"
+      },
+      {
+        "id": "8",
+        "authors": "Z. Shen, D. Jiang and Y. Zhang",
+        "title": "Analysis of CM EMI reduction with zero CM modulation scheme utilizing paralleled inverters",
+        "conference": "2018 IEEE International Symposium on Electromagnetic Compatibility and 2018 IEEE Asia-Pacific Symposium on Electromagnetic Compatibility (EMC/APEMC)",
+        "location": "Suntec City, Singapore",
+        "year": 2018,
+        "pages": "135-140",
+        "doi": "10.1109/ISEMC.2018.8393754"
+      },
+      {
+        "id": "9",
+        "authors": "Z. Shen, D. Jiang, J. Chen and R. Qu",
+        "title": "A novel zero-sequence current elimination PWM scheme for an open-end winding motor drive with dual two-level inverter",
+        "conference": "2018 IEEE Applied Power Electronics Conference and Exposition (APEC)",
+        "location": "San Antonio, TX, USA",
+        "year": 2018,
+        "pages": "1679-1686",
+        "doi": "10.1109/APEC.2018.8341243"
+      },
+      {
+        "id": "10",
+        "authors": "Z. Shen, D. Jiang, H. Wang, R. Qu and X. Pei",
+        "title": "Paralleled three-phase four-leg inverters for reduction of common mode current and common mode EMI",
+        "conference": "IECON 2017 - 43rd Annual Conference of the IEEE Industrial Electronics Society",
+        "location": "Beijing, China",
+        "year": 2017,
+        "pages": "7028-7033",
+        "doi": "10.1109/IECON.2017.8217229"
+      },
+      {
+        "id": "11",
+        "authors": "Z. Shen, D. Jiang, J. Chen and R. Qu",
+        "title": "Differential-mode and zero sequence circulating current reduction for paralleled inverters with modified zero-CM PWM algorithm",
+        "conference": "2017 IEEE Energy Conversion Congress and Exposition (ECCE)",
+        "location": "Cincinnati, OH, USA",
+        "year": 2017,
+        "pages": "183-190",
+        "doi": "10.1109/ECCE.2017.8095779",
+        "awards": [
+          "IEEE IAS-IPCC Thrid Prize Paper Award"
+        ]
+      },
+      {
+        "id": "12",
+        "authors": "Z. Fang, D. Jiang, Z. Shen and R. Qu",
+        "title": "Impact of application of SiC devices in motor drive on EMI",
+        "conference": "2017 IEEE Applied Power Electronics Conference and Exposition (APEC)",
+        "location": "Tampa, FL, USA",
+        "year": 2017,
+        "pages": "652-658",
+        "doi": "10.1109/APEC.2017.7930763"
+      },
+      {
+        "id": "13",
+        "authors": "D. Jiang and Z. Shen",
+        "title": "Paralleled inverters with zero common-mode voltage",
+        "conference": "2016 IEEE Energy Conversion Congress and Exposition (ECCE)",
+        "location": "Milwaukee, WI, USA",
+        "year": 2016,
+        "pages": "1-8",
+        "doi": "10.1109/ECCE.2016.7855330",
+        "awards": [
+          "IEEE ECCE Best Paper Award"
+        ]
+      },
+      {
+        "id": "14",
+        "authors": "D. Jiang, Z. Shen and R"
+      }
+    ]
+  }
+}

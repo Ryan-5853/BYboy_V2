@@ -1,0 +1,173 @@
+{
+  "meta": {
+    "tutor_name_cn": "王锂",
+    "request_url": "https://faculty.uestc.edu.cn/wangli2/zh_CN/index.htm",
+    "declared_source_url": "https://faculty.uestc.edu.cn/wangli2/zh_CN/index.htm",
+    "page_host": "faculty.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/ab3c584376ee90dfa7c1cc218b2e06a6973921e9fe85799c14191020e13e7d79.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "target_faculty_name": "王锂",
+    "personal_info": {
+      "name": "王锂",
+      "profile_picture_url": "https://faculty.uestc.edu.cn/__local/1/21/08/AE9986A0EC249484A97EB5885D6_608FBC5C_58E8.jpg",
+      "praise_count": 29,
+      "titles": [
+        "高级工程师",
+        "硕士生导师"
+      ],
+      "gender": "男",
+      "education_status": "博士研究生毕业",
+      "degree": "工程博士专业学位",
+      "discipline": "仪器科学与技术",
+      "office_location": "清水河校区成电国际创新中心D305"
+    },
+    "contact_info": {
+      "phone": "02861830301",
+      "email": "colorsky@uestc.edu.cn"
+    },
+    "work_experience": [
+      {
+        "period": "2023.5 -- 至今",
+        "department": "自动化工程学院",
+        "position": "高级工程师"
+      }
+    ],
+    "research_directions": [
+      "高精度电量、非电量测量",
+      "微弱电流电压测量",
+      "微弱信号处理"
+    ],
+    "page_metadata": {
+      "views": "0000009027",
+      "opened_date": "2017.7.25",
+      "last_updated_date": "2026.1.29",
+      "related_links": [
+        {
+          "anchor_text": "同专业硕导",
+          "url": "https://faculty.uestc.edu.cn/wangli2/zh_CN/tzysd/149684/list/index.htm"
+        }
+      ]
+    },
+    "site_chrome": {
+      "header_logo": {
+        "image_url": "https://faculty.uestc.edu.cn/__local/C/77/C5/91C2EAF3AECED944413B063D1D3_336FE1B6_2FA0.png",
+        "link_url": "http://faculty.uestc.edu.cn/"
+      },
+      "navigation_menu": [
+        {
+          "anchor_text": "首页",
+          "url": "https://faculty.uestc.edu.cn/wangli2/zh_CN/index/149684/list/index.htm"
+        },
+        {
+          "anchor_text": "其他栏目",
+          "sub_items": [
+            {
+              "anchor_text": "科学研究",
+              "url": "https://faculty.uestc.edu.cn/wangli2/zh_CN/zhym/149685/list/index.htm",
+              "sub_items": [
+                {
+                  "anchor_text": "科研项目",
+                  "url": "https://faculty.uestc.edu.cn/wangli2/zh_CN/kyxm/149686/list/index.htm"
+                },
+                {
+                  "anchor_text": "著作成果",
+                  "url": "https://faculty.uestc.edu.cn/wangli2/zh_CN/zzcg/149687/list/index.htm"
+                },
+                {
+                  "anchor_text": "专利",
+                  "url": "https://faculty.uestc.edu.cn/wangli2/zh_CN/zlcg/149688/list/index.htm"
+                },
+                {
+                  "anchor_text": "论文成果",
+                  "url": "https://faculty.uestc.edu.cn/wangli2/zh_CN/lwcg/149689/list/index.htm"
+                },
+                {
+                  "anchor_text": "研究领域",
+                  "url": "https://faculty.uestc.edu.cn/wangli2/zh_CN/yjgk/149690/list/index.htm"
+                }
+              ]
+            },
+            {
+              "anchor_text": "教学研究",
+              "url": "https://faculty.uestc.edu.cn/wangli2/zh_CN/zhym/149691/list/index.htm",
+              "sub_items": [
+                {
+                  "anchor_text": "教学成果",
+                  "url": "https://faculty.uestc.edu.cn/wangli2/zh_CN/jxcg/149692/list/index.htm"
+                },
+                {
+                  "anchor_text": "授课信息",
+                  "url": "https://faculty.uestc.edu.cn/wangli2/zh_CN/skxx/149693/list/index.htm"
+                },
+                {
+                  "anchor_text": "教学资源",
+                  "url": "https://faculty.uestc.edu.cn/wangli2/zh_CN/jxzy/149694/list/index.htm"
+                }
+              ]
+            },
+            {
+              "anchor_text": "获奖信息",
+              "url": "https://faculty.uestc.edu.cn/wangli2/zh_CN/hjxx/149695/list/index.htm"
+            },
+            {
+              "anchor_text": "招生信息",
+              "url": "https://faculty.uestc.edu.cn/wangli2/zh_CN/zsxx/149696/list/index.htm"
+            },
+            {
+              "anchor_text": "学生信息",
+              "url": "https://faculty.uestc.edu.cn/wangli2/zh_CN/xsxx/149697/list/index.htm"
+            },
+            {
+              "anchor_text": "我的相册",
+              "url": "https://faculty.uestc.edu.cn/wangli2/zh_CN/img/149698/list/index.htm"
+            },
+            {
+              "anchor_text": "教师博客",
+              "url": "https://faculty.uestc.edu.cn/wangli2/zh_CN/article/149699/list/index.htm"
+            }
+          ]
+        },
+        {
+          "anchor_text": "语种",
+          "sub_items": [
+            {
+              "anchor_text": "English",
+              "url": "http://faculty.uestc.edu.cn/wangli2/en/index.htm"
+            }
+          ]
+        }
+      ],
+      "footer": {
+        "campus_addresses": [
+          {
+            "name": "清水河校区",
+            "address": "成都市高新区（西区）西源大道2006号",
+            "zip_code": "611731"
+          },
+          {
+            "name": "沙河校区",
+            "address": "成都市建设北路二段四号",
+            "zip_code": "610054"
+          }
+        ],
+        "legal_info": [
+          "蜀ICP备 05006379 号",
+          "川公网安备 51019002000280 号"
+        ],
+        "mobile_version_link": {
+          "anchor_text": "手机版",
+          "url": null
+        },
+        "university_link": {
+          "anchor_text": "电子科技大学",
+          "url": "http://www.uestc.edu.cn/"
+        }
+      }
+    }
+  }
+}

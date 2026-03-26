@@ -1,0 +1,332 @@
+{
+  "meta": {
+    "tutor_name_cn": "黄灵莹",
+    "request_url": "http://automation.seu.edu.cn/hly/list.htm",
+    "declared_source_url": "http://automation.seu.edu.cn/hly/list.htm",
+    "page_host": "automation.seu.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/da6a0bfc7e5e50e1424992e45dd492fbff1c525a2fe72c256543abb04b9ff143.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "personal_info": {
+      "name": "黄灵莹",
+      "gender": "女",
+      "bio_summary": "黄灵莹，女，博士毕业于香港科技大学，后在新加坡南洋理工从事博士后研究员。于2024年12月入职东南大学，国家级青年人才，东南大学青年首席教授，博士硕士生导师。博士期间获得香港科技大学理工学院2019-20年度在读博士卓越研究成果奖。多项研究成果的发表涵盖了控制领域顶级期刊，如 Automatica，IEEE TAC, 信号处理领域顶级期刊 IEEE TSP, 计算机网络领域顶级期刊及会议 IEEE/ACM TON等。担任中国自动化学会故障诊断与安全性专业委员会委员，江苏省自动化学会委员智能优化与应用专委会委员，IEEE PRECEDE 2025宣传主席，Automatica，IEEE TAC等多个国际高水平期刊审稿人。东南大学吴健雄学院校友联络人、东南大学未来技术学院导师。",
+      "student_recruitment_message": "欢迎优秀的东南本科参与科研训练，指导SRTP（学有余力）、本科毕设（本实验室保研者优先）、论文和专利撰写。欢迎硕博士研究生、博士后（学校优先支持至善博士后）加入机电系统控制实验室。每年计划招收博士研究生2名，硕士研究生3名（2026级保研生拿到东南夏令营入营资格后联系，课题组从优营学员中选拔，东南本校生线下沟通)。"
+    },
+    "current_position": {
+      "organization": "东南大学",
+      "start_date": "2024年12月",
+      "roles": [
+        "国家级青年人才",
+        "东南大学青年首席教授",
+        "博士硕士生导师"
+      ]
+    },
+    "education": [
+      {
+        "degree": "博士",
+        "university": "香港科技大学",
+        "achievement": "博士期间获得香港科技大学理工学院2019-20年度在读博士卓越研究成果奖"
+      },
+      {
+        "degree": "博士后",
+        "institution": "新加坡南洋理工",
+        "role": "博士后研究员"
+      }
+    ],
+    "experience": [
+      {
+        "type": "博士后研究",
+        "institution": "新加坡南洋理工",
+        "role": "博士后研究员"
+      },
+      {
+        "type": "高校任职",
+        "institution": "东南大学",
+        "start_date": "2024年12月",
+        "roles": [
+          "国家级青年人才",
+          "东南大学青年首席教授",
+          "博士硕士生导师"
+        ]
+      }
+    ],
+    "awards": [
+      {
+        "name": "香港科技大学理工学院2019-20年度在读博士卓越研究成果奖",
+        "period": "博士期间"
+      }
+    ],
+    "academic_services_and_affiliations": {
+      "academic_committees": [
+        "中国自动化学会故障诊断与安全性专业委员会委员",
+        "江苏省自动化学会委员智能优化与应用专委会委员"
+      ],
+      "conference_roles": [
+        {
+          "role": "宣传主席",
+          "conference": "IEEE PRECEDE 2025"
+        }
+      ],
+      "journal_reviewer": "Automatica，IEEE TAC等多个国际高水平期刊审稿人",
+      "university_roles": [
+        "东南大学吴健雄学院校友联络人",
+        "东南大学未来技术学院导师"
+      ]
+    },
+    "research_directions": [
+      "信息物理系统的隐私安全问题",
+      "事件驱动的能源调度和实时重规划",
+      "多智能体协同控制",
+      "水下机器人"
+    ],
+    "research_area_highlights_from_publications": [
+      "控制领域顶级期刊 (如 Automatica，IEEE TAC)",
+      "信号处理领域顶级期刊 (IEEE TSP)",
+      "计算机网络领域顶级期刊及会议 (IEEE/ACM TON)"
+    ],
+    "courses_taught": [
+      {
+        "level": "本科",
+        "course_name": "自动检测技术",
+        "department": "自动化学院",
+        "type": "专业基础课"
+      },
+      {
+        "level": "研究生",
+        "course_name": "随机过程",
+        "course_code": "DB008121",
+        "related_discipline": "控制科学与工程"
+      }
+    ],
+    "student_supervision": {
+      "lab_name": "机电系统控制实验室",
+      "current_team_members": {
+        "doctoral_students": [
+          "隋吉航",
+          "左航"
+        ],
+        "master_students": [
+          "王泽扬",
+          "李文",
+          "杨志伟"
+        ]
+      },
+      "recruitment_plan": {
+        "doctoral_students_per_year": 2,
+        "master_students_per_year": 3
+      },
+      "undergraduate_guidance_areas": [
+        "科研训练",
+        "SRTP（学有余力）",
+        "本科毕设（本实验室保研者优先）",
+        "论文和专利撰写"
+      ],
+      "postdoc_support": "学校优先支持至善博士后",
+      "admission_notes_2026_master": "2026级保研生拿到东南夏令营入营资格后联系，课题组从优营学员中选拔，东南本校生线下沟通。"
+    },
+    "research_projects": [
+      {
+        "name": "国家级青年人才基金项目",
+        "type": "国家级",
+        "period": "2025-2027",
+        "funding_amount": "200万",
+        "role": "主持"
+      },
+      {
+        "name": "水下无人集群动态拓扑智能协同控制研究",
+        "type": "国家自然科学基金项目",
+        "period": "2026-2028",
+        "funding_amount": "30万",
+        "role": "主持"
+      },
+      {
+        "name": "东南大学启动经费",
+        "type": "校级",
+        "period": "2025-2030",
+        "funding_amount": "200万",
+        "role": "主持"
+      }
+    ],
+    "publications": {
+      "section_title": "代表性论著",
+      "notes": "*表示通讯作者",
+      "papers": [
+        {
+          "authors": [
+            "L. Huang",
+            "J. Wu",
+            "D. Shi",
+            "S. Dey",
+            "L. Shi"
+          ],
+          "title": "Differential Privacy in Distributed Optimization with Gradient Tracking",
+          "journal": "IEEE Transactions on Automatic Control",
+          "volume": "69",
+          "issue": "9",
+          "pages": "5727-5742",
+          "year": "2024",
+          "url": "https://ieeexplore.ieee.org/document/10387777",
+          "notes": [
+            "Full paper",
+            "控制领域顶刊"
+          ],
+          "is_corresponding_author": false
+        },
+        {
+          "authors": [
+            "L. Huang",
+            "J. Wu",
+            "Y. Mo",
+            "L. Shi"
+          ],
+          "title": "Joint Sensor and Actuator Placement for Infinite-Horizon LQG Control",
+          "journal": "IEEE Transactions on Automatic Control",
+          "volume": "67",
+          "issue": "1",
+          "pages": "398-405",
+          "year": "2022",
+          "url": "https://ieeexplore.ieee.org/document/9337903",
+          "notes": [
+            "控制领域顶刊"
+          ],
+          "is_corresponding_author": false
+        },
+        {
+          "authors": [
+            "L. Huang",
+            "J. Wang",
+            "E. Kung",
+            "Y. Mo",
+            "J. Wu",
+            "L. Shi"
+          ],
+          "title": "Stochastic Event-based Sensor Schedules for Remote State Estimation in Cognitive Radio Sensor Networks",
+          "journal": "IEEE Transactions on Automatic Control",
+          "volume": "66",
+          "issue": "5",
+          "pages": "2407-2414",
+          "year": "2021",
+          "url": "https://ieeexplore.ieee.org/document/9134874",
+          "notes": [
+            "控制领域顶刊"
+          ],
+          "is_corresponding_author": false
+        },
+        {
+          "authors": [
+            "L. Huang",
+            "K. Ding",
+            "A. Leong",
+            "D. Quevedo",
+            "L. Shi"
+          ],
+          "title": "Encryption Schedules for Remote State Estimation under an Operation Constraint",
+          "journal": "Automatica",
+          "volume": "127",
+          "article_id": "109537",
+          "year": "2021",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/S0005109821000571",
+          "notes": [
+            "控制领域顶刊"
+          ],
+          "is_corresponding_author": false
+        },
+        {
+          "authors": [
+            "L. Huang",
+            "R. Su",
+            "M. Ma",
+            "Y. Lu",
+            "P. Duan"
+          ],
+          "title": "Privacy-Preserving Constrained Cooperative-Tracking Control via Switching Heterogeneous Directed Graphs",
+          "journal": "IEEE Intelligent Transportation Systems Transactions",
+          "status": "accepted",
+          "year": "2025",
+          "notes": [
+            "Full paper"
+          ],
+          "is_corresponding_author": false
+        },
+        {
+          "authors": [
+            "Y. Zhong",
+            "L. Huang*",
+            "D. Shi",
+            "Y. Mo",
+            "L. Shi"
+          ],
+          "corresponding_author_notes": [
+            "L. Huang"
+          ],
+          "title": "Event-Triggered Multi-Sensor Scheduling for Remote State Estimation over Packet-Dropping Networks",
+          "journal": "IEEE Transactions on Signal Processing",
+          "volume": "72",
+          "pages": "5036-5047",
+          "year": "2024",
+          "url": "https://ieeexplore.ieee.org/abstract/document/10705413",
+          "notes": [
+            "Full paper"
+          ],
+          "is_corresponding_author": true
+        },
+        {
+          "authors": [
+            "Y. Zhong",
+            "N. Yang",
+            "L. Huang*",
+            "G. Shi",
+            "L. Shi"
+          ],
+          "corresponding_author_notes": [
+            "L. Huang"
+          ],
+          "title": "Sparse Sensor Placement for Distributed Systems: An l1-Relaxation Approach",
+          "journal": "Automatica",
+          "volume": "165",
+          "article_id": "111670",
+          "year": "2024",
+          "url": "https://www.sciencedirect.com/science/article/pii/S0005109824001638",
+          "notes": [
+            "控制领域顶刊"
+          ],
+          "is_corresponding_author": true
+        },
+        {
+          "authors": [
+            "H. Yang",
+            "L. Huang*",
+            "C. Yang",
+            "Y. Mo",
+            "L. Shi"
+          ],
+          "corresponding_author_notes": [
+            "L. Huang"
+          ],
+          "title": "Sensor Selection for Remote State Estimation with QoS Requirement Constraints",
+          "journal": "Automatica",
+          "volume": "157",
+          "article_id": "111241",
+          "year": "2023",
+          "url": "https://www.sciencedirect.com/science/article/pii/S0005109823004028",
+          "notes": [
+            "控制领域顶刊"
+          ],
+          "is_corresponding_author": true
+        }
+      ]
+    },
+    "site_chrome": {
+      "source_url": "http://automation.seu.edu.cn/hly/list.htm",
+      "tracking_pixels": [
+        "https://automation.seu.edu.cn/hly/list.htm",
+        "https://automation.seu.edu.cn/_visitcount?siteId=338&type=2&columnId=56745"
+      ]
+    }
+  }
+}

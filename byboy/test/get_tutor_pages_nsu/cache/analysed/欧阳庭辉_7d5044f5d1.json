@@ -1,0 +1,164 @@
+{
+  "meta": {
+    "tutor_name_cn": "欧阳庭辉",
+    "request_url": "http://automation.seu.edu.cn/oyth/list.htm",
+    "declared_source_url": "http://automation.seu.edu.cn/oyth/list.htm",
+    "page_host": "automation.seu.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/5a35871fd726f085874673f5a0831b984d256529fdab151819b28c6817d2c8a6.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": "内容包含丰富的导师基本信息、教育背景、工作经历、学术兼职及研究方向等，信息量充足。"
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "target_name": "欧阳庭辉",
+    "basic_info": {
+      "name": "欧阳庭辉",
+      "current_titles_and_affiliations": [
+        "东南大学青年首席教授",
+        "博导/硕导",
+        "国家高层次青年人才"
+      ],
+      "previous_role_summary": "回国前担任日本筑波大学助理教授",
+      "global_recognitions": [
+        "全球前2%顶尖科学家",
+        "2022-2024连续多年入选斯坦福大学全球前2%顶尖科学家名单"
+      ],
+      "education_summary": "2012年和2017年分别于武汉大学取得学士和博士学位",
+      "international_experience_summary": "具有美国、加拿大、新加坡、日本多国留学和工作经历",
+      "research_focus_summary": "长期从事大数据挖掘、异常检测、故障诊断、工业互联网和能源系统质量评估研究",
+      "publication_summary": "在TCYBS、TNNLS、TIM、TETCI、ECM、Energy等计算机和能源领域国际高水平期刊发表论文80余篇",
+      "research_impact_and_citation": "研究成果得到国内外著名专家学者（如院士、IEEE Fellow等）的积极评价与引用",
+      "project_summary": "主持并参与过多个国内外国家级科研项目，如中国“973”、加拿大NSFEC，新加坡CRP、日本JSPS、NEDO和CREST项目等",
+      "academic_service_summary": "目前担任IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IET Renewable Power Generation (IET RPG)等5个SCI期刊副编辑，以及多个SCI期刊客座编辑。担任日本学术振兴委员会（JSPS）项目评审专家。担任多个学术会议TPC成员和国际SCI期刊审稿专家。"
+    },
+    "contact_info": {
+      "email": "thouyang@seu.edu.cn"
+    },
+    "recruitment_info": {
+      "call_for_students": "欢迎具有数学、自动化和电气工程相关专业背景的同学加入我们团队攻读硕士和博士学位。"
+    },
+    "education_background": [
+      {
+        "period": "2012.09--2017.06",
+        "degree": "工学博士",
+        "institution": "武汉大学",
+        "supervisor": "查晓明教授"
+      },
+      {
+        "period": "2015.09--2017.02",
+        "type": "联合培养",
+        "institution": "美国爱荷华大学（University of Iowa）",
+        "supervisor": "Andrew Kusiak教授"
+      },
+      {
+        "period": "2008.09--2012.06",
+        "degree": "工学学士",
+        "institution": "武汉大学"
+      }
+    ],
+    "work_experience": [
+      {
+        "period": "2025.03-至今",
+        "institution": "东南大学",
+        "position": "教授"
+      },
+      {
+        "period": "2024.04-2025.02",
+        "institution": "日本筑波大学（University of Tsukuba）",
+        "position": "助理教授"
+      },
+      {
+        "period": "2023.04-2024.03",
+        "institution": "日本国立情报学研究所（NII）",
+        "position": "研究员（Researcher）"
+      },
+      {
+        "period": "2019.12-2023.03",
+        "institution": "日本国立产业与技术综合研究所（AIST）",
+        "position": "研究员（Researcher）"
+      },
+      {
+        "period": "2018.12-2019.12",
+        "institution": "新加坡南洋理工大学（Nanyang Technological University）",
+        "position": "博士后",
+        "collaborating_supervisor": "Guang-Bin Huang教授"
+      },
+      {
+        "period": "2017.09-2018.09",
+        "institution": "加拿大阿尔伯塔大学（University of Alberta）",
+        "position": "博士后",
+        "collaborating_supervisor": "Witold Pedrycz教授"
+      }
+    ],
+    "academic_services": [
+      {
+        "role": "项目评审专家",
+        "organization": "日本学术振兴委员会（JSPS）"
+      },
+      {
+        "role": "副编辑",
+        "journal": "IEEE Transactions on Neural Networks and Learning Systems (TNNLS)"
+      },
+      {
+        "role": "副编辑",
+        "journal": "IET Renewable Power Generation (IET RPG)"
+      },
+      {
+        "role": "副编辑",
+        "journal": "IET Digital Twins and Applications (IET DTA)"
+      },
+      {
+        "role": "副编辑",
+        "journal": "Data Technologies and Applications (DTAA)"
+      },
+      {
+        "role": "副编辑",
+        "journal": "Frontier in Energy Research"
+      },
+      {
+        "role": "副编辑",
+        "journal": "Embodied Intelligence and Robotics"
+      },
+      {
+        "role": "编辑",
+        "journal": "Journal of Sensors"
+      },
+      {
+        "role": "编辑",
+        "journal": "Scientific Report"
+      },
+      {
+        "role": "编辑咨询委员会成员",
+        "journal": "Journal of Renewable and Sustainable Energy"
+      }
+    ],
+    "research_directions": "长期从事大数据挖掘、异常检测、故障诊断、工业互联网和能源系统质量评估研究，与美国、加拿大、新加坡、日本等多国高校和科研院所紧密合作。",
+    "images": [
+      {
+        "url": "https://automation.seu.edu.cn/_upload/article/images/54/de/add2af9c4244a3ed0be0e233ce1e/f5672753-7903-4ffd-938e-72f180b55ed6.png",
+        "description": "No caption provided"
+      }
+    ],
+    "site_chrome": {
+      "source_url": "http://automation.seu.edu.cn/oyth/list.htm",
+      "page_section_titles_mentioned_but_no_content": [
+        "所获奖励",
+        "讲授课程",
+        "学生培养",
+        "科研项目",
+        "论文发表"
+      ],
+      "misc_images": [
+        {
+          "url": "https://automation.seu.edu.cn/oyth/list.htm",
+          "description": "Likely a placeholder or broken image link from the source URL"
+        },
+        {
+          "url": "https://automation.seu.edu.cn/_visitcount?siteId=338&type=2&columnId=57806",
+          "description": "Page visit counter image"
+        }
+      ]
+    }
+  }
+}

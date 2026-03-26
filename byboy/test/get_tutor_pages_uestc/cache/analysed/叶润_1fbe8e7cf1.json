@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "tutor_name_cn": "叶润",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1174/4410.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1174/4410.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/4db8900cf02e62d4609d08da00a020bb7b8ec9261d13b63896f384469f5aaf69.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": "包含导师的详细个人信息、研究方向、工作经历、科研成果、教学课程和招生专业，文本信息量充足且有价值。"
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "site_chrome": {
+      "source_url": "https://www.auto.uestc.edu.cn/info/1174/4410.htm",
+      "navigation_path": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "Y",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/Y.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "sidebar_links": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ],
+      "page_title": "师资队伍"
+    },
+    "professor_profile": {
+      "name": "叶润",
+      "image_url": "https://www.auto.uestc.edu.cn/__local/8/C3/D7/7EB6171A3B94BF998DE09F1891D_6FACDA98_33608.png",
+      "basic_info": {
+        "highest_degree": "博士",
+        "contact_phone": null,
+        "title_and_position": "高级工程师",
+        "email": "rye@uestc.edu.cn",
+        "supervision_status": "硕士导师",
+        "personal_homepage": null,
+        "research_team": "传感网络及智能信息处理研究室"
+      },
+      "research_directions": [
+        "智能传感",
+        "机器视觉与智能控制",
+        "无人系统",
+        "定位技术"
+      ],
+      "academic_titles_and_part_time_positions": null,
+      "education_and_work_experience": [
+        {
+          "time_range": "2022.05至今",
+          "institution": "电子科技大学",
+          "position": "高级工程师"
+        },
+        {
+          "time_range": "2017.06-2022.05",
+          "institution": "电子科技大学",
+          "position": "助理研究员"
+        },
+        {
+          "time_range": "2013.09-2017.06",
+          "institution": "电子科技大学",
+          "degree": "博士"
+        },
+        {
+          "time_range": "2010.09-2013.06",
+          "institution": "电子科技大学",
+          "degree": "硕士"
+        }
+      ],
+      "scientific_research": {
+        "projects": [
+          "国家自然科学基金2项 (负责人或主研人员)",
+          "四川省科技计划项目2项 (负责人或主研人员)",
+          "中央高校科研项目1项 (负责人或主研人员)",
+          "横向科研项目30余项 (负责人或主研人员)"
+        ],
+        "publications": "在Wireless Networks，Computer Networks等国际期刊会议共发表论文30余篇，其中SCI期刊论文10余篇",
+        "patents": [
+          "申请国内发明专利10余项，其中已授权10余项",
+          "已授权美国专利1项"
+        ],
+        "awards": [
+          "2016年加拿大渥太华大学PARADISE杰出研究奖",
+          "2019年国网四川省电力公司科学技术进步奖二等奖",
+          "2021年国网四川省电力公司科学技术进步奖一等奖",
+          "2021年中国电力企业联合会电力科技创新奖二等奖"
+        ],
+        "mentorship_achievements": "指导全国飞思卡尔智能车竞赛获全国总决赛一等奖1项、西部赛区一等奖1项",
+        "other_roles": "多个国内外知名期刊同行评议人"
+      },
+      "courses_and_teaching_research": {
+        "undergraduate_courses": [
+          "电路与模拟电子技术",
+          "传感器原理及应用",
+          "物联网技术导论",
+          "物联网与传感技术",
+          "工业网络与现场总线技术",
+          "无线传感器网络",
+          "研究生论文写作指导"
+        ]
+      },
+      "admission_majors": {
+        "master": [
+          "081100控制科学与工程",
+          "085400电子信息",
+          "085406控制工程"
+        ],
+        "doctoral": null
+      }
+    }
+  }
+}

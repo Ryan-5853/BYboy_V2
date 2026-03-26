@@ -1,0 +1,696 @@
+{
+  "meta": {
+    "tutor_name_cn": "博士",
+    "request_url": "http://automation.seu.edu.cn/chc/list.htm",
+    "declared_source_url": "http://automation.seu.edu.cn/chc/list.htm",
+    "page_host": "automation.seu.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/943ccb26b07010c9e71a0583488c52f316fe04781924fd95401c738b3cb98340.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "person_name": "陈泓材",
+    "target_query_key_relevance": {
+      "query_key": "博士",
+      "relevance": "页面主要介绍的导师是陈泓材。他于2018年博士毕业，职称包括博士生导师，每年招收博士生，并在2026年和2027年均有博士招生名额。他获得过“江苏省双创博士”荣誉。其指导的学生中也提及有“博士生”。因此，页面中所有提及“博士”之处均与陈泓材的个人经历、教学职务、招生计划或其指导的学生相关联。"
+    },
+    "url_source": "http://automation.seu.edu.cn/chc/list.htm",
+    "site_chrome": {
+      "page_capture_source": "http://automation.seu.edu.cn/chc/list.htm",
+      "images": [
+        {
+          "url": "https://automation.seu.edu.cn/chc/list.htm",
+          "description": "页面顶部图片，无具体文字说明，可能为页面标识或跟踪像素"
+        },
+        {
+          "url": "https://automation.seu.edu.cn/_visitcount?siteId=338&type=2&columnId=51263",
+          "description": "页面访问计数器"
+        }
+      ]
+    },
+    "personal_info": {
+      "name": "陈泓材",
+      "titles_positions": [
+        "副研究员",
+        "博士生导师"
+      ],
+      "brief_introduction": "陈泓材，副研究员，博士生导师。2018年博士毕业；2017年为杜克大学访问学者；2018年赴南方科技大学任副研究员；2021年11月从南方科技大学离职，加入东南大学自动化学院任副研究员，隶属于复杂工程系统测量与控制教育部重点实验室。申请人主要从事电磁环境、故障诊断、机器学习相关交叉领域的研究。近五年，在电磁环境仿真、电气故障识别、EDA优化设计等领域已发表第一作者和通讯作者SCI论文四十多篇，大多数为IEEE Trans会刊。主持国家级、省部级和产学研项目多项。",
+      "research_summary": "近五年，在电磁环境仿真、电气故障识别、EDA优化设计等领域已发表第一作者和通讯作者SCI论文四十多篇，大多数为IEEE Trans会刊。主持国家级、省部级和产学研项目多项。",
+      "motto": "Make Electromagnetic Design Intellegent!"
+    },
+    "education_experience": [
+      {
+        "degree": "博士",
+        "graduation_year": "2018"
+      }
+    ],
+    "work_experience": [
+      {
+        "year": "2017",
+        "institution": "杜克大学",
+        "position": "访问学者"
+      },
+      {
+        "year": "2018",
+        "institution": "南方科技大学",
+        "position": "副研究员"
+      },
+      {
+        "year": "2021年11月至今",
+        "institution": "东南大学自动化学院",
+        "position": "副研究员",
+        "affiliation": "复杂工程系统测量与控制教育部重点实验室"
+      }
+    ],
+    "student_recruitment": {
+      "annual_quota": {
+        "masters": "3-4名",
+        "doctors": "1-2名"
+      },
+      "international_phd_quota": "不限名额",
+      "current_recruitment_status": "2026年入年硕士、博士仍有名额。",
+      "international_phd_focus": "International Students are Welcome for PhD degree. The topics focus on AI applications for electrical/electronic designs.",
+      "research_group_recruitment": "课题组常年招收实习生、研究助理，支持学生联合培养、课题合作等，从事智能体（Agent）在垂直领域的研究工作，详情邮件联系。",
+      "doctoral_recruitment_2027_info": {
+        "contact_advise": "可提前联系",
+        "welcome_majors": [
+          "电子",
+          "信息",
+          "自动化",
+          "相关专业"
+        ],
+        "requirements": [
+          "211硕士以上学位",
+          "有SCI学术论文 (IEEE Trans为佳)"
+        ]
+      }
+    },
+    "research_directions": [
+      {
+        "title": "微波设计智能体",
+        "description": "通过融合多模态感知、跨尺度协同优化、强化学习及生成式大模型等前沿技术，构建具备自主认知与决策能力的微波设计智能体（Agent）。打造从“需求定义”到“成品生成”的自动化闭环新范式，提升设计效率与创新维度。"
+      },
+      {
+        "title": "电磁对抗仿真软件",
+        "description": "自研电磁/半导体/环境全链条软件工具，融合AI智能决策算法攻克智能博弈决策算法，打造复杂电磁环境下系统设计与评估的自主可控一体化方案。"
+      },
+      {
+        "title": "云边协同计算",
+        "description": "构建高效能端侧AI架构与云边混合计算体系，突破边缘侧算力与存储的资源瓶颈；建立“云侧大模型推理 + 端侧小模型执行”的协同机制，实现分布式智能诊断与敏捷部署，赋能垂直领域的云边联动物联网应用。"
+      }
+    ],
+    "awards_honors": [
+      "火花奖",
+      "东南大学至善学者A类",
+      "东南大学优秀本科生导师",
+      "江苏省双创博士",
+      "深圳市海外高层次人才"
+    ],
+    "courses_taught": [
+      {
+        "type": "本科课程",
+        "name": "电路基础"
+      },
+      {
+        "type": "本科课程",
+        "name": "工程设计导论"
+      }
+    ],
+    "research_projects": [
+      {
+        "id": 14,
+        "name": "x元国家实验室, \"xxx\"",
+        "duration": "2026-2028",
+        "role": "主持"
+      },
+      {
+        "id": 13,
+        "name": "天津先进技术研究院, \"基于多模态信息的射频材料三维结构重建模型\"",
+        "duration": "2025-2026",
+        "role": "主持"
+      },
+      {
+        "id": 12,
+        "name": "X为技术有限公司, \"高速传输线技术合作项目\"",
+        "duration": "2025-2026",
+        "role": "主持"
+      },
+      {
+        "id": 11,
+        "name": "中科院XX所, \"微波电磁XX仿真模块\"",
+        "duration": "2025-2026",
+        "role": "主持"
+      },
+      {
+        "id": 10,
+        "name": "XXX卫星有限公司, \"电磁仿真XXX系统\"",
+        "duration": "2024-2025",
+        "role": "主持"
+      },
+      {
+        "id": 9,
+        "name": "国家自然科学基金委员会, 青年项目, \"基于不完整数据挖掘的变压器在线诊断方法研究\"",
+        "duration": "2023-2025",
+        "role": "主持"
+      },
+      {
+        "id": 8,
+        "name": "X为技术有限公司, \"电路图功能相似检索技术研究\"",
+        "duration": "2024-2025",
+        "role": "主持"
+      },
+      {
+        "id": 7,
+        "name": "中央高校基础科研业务费, \"南极极端环境可再生能源微网稳定控制技术研究\"",
+        "duration": "2023-2025",
+        "role": "主持"
+      },
+      {
+        "id": 6,
+        "name": "国网上海能源互联网研究院有限公司,\"铅碳电池全景分析与预警诊断服务\"",
+        "duration": "2023.7-2024.7",
+        "role": "主持"
+      },
+      {
+        "id": 5,
+        "name": "国网上海能源互联网研究院有限公司,\"海量电压数据分析和处理技术研究\"",
+        "duration": "2023.10-2024.10",
+        "role": "主持"
+      },
+      {
+        "id": 4,
+        "name": "广东省基础与应用基础研究基金委员会,\"5G通信基站雷电防护研究\"",
+        "duration": "2020.1-2022.12",
+        "role": "主持"
+      },
+      {
+        "id": 3,
+        "name": "中兴通讯公司合作项目,\"直流TOV机理与模式研究\"",
+        "duration": "2022.3-2022.12",
+        "role": "主持"
+      },
+      {
+        "id": 2,
+        "name": "中兴通讯公司合作项目,\"通信基站在中低压电网故障模式下的损伤机理研究\"",
+        "duration": "2021.3-2021.12",
+        "role": "主持"
+      },
+      {
+        "id": 1,
+        "name": "中国极地研究中心,\"南极电源技术\"",
+        "duration": "2022.7-2023.10",
+        "role": "参与"
+      }
+    ],
+    "publications": [
+      {
+        "category": "电磁仿真与EDA设计",
+        "papers": [
+          {
+            "id": 25,
+            "authors": [
+              {
+                "name": "H. Tan",
+                "annotation": "博士生"
+              },
+              {
+                "name": "Z. H. Chang"
+              },
+              {
+                "name": "H. C. Chen",
+                "annotation": "通讯作者"
+              }
+            ],
+            "title": "Low-Complexity State Space Behavioral Modeling for Digital Predistortion in RF Power Amplifiers",
+            "publication_status": "Submitted to IEEE."
+          },
+          {
+            "id": 24,
+            "authors": [
+              {
+                "name": "H. C. Chen"
+              },
+              {
+                "name": "Y. P. Xu"
+              }
+            ],
+            "title": "Advanced Chain-of-Thought Reasoning for Parameter Extraction from Documents Using Large Language Models",
+            "publication_status": "Submitted to IEEE."
+          },
+          {
+            "id": 23,
+            "authors": [
+              {
+                "name": "Yang"
+              },
+              {
+                "name": "Z. H. Chang",
+                "annotation": "本科生"
+              },
+              {
+                "name": "H. C. Chen",
+                "annotation": "通讯作者"
+              }
+            ],
+            "title": "Nonlinear Behavior Modeling of PIN Diode Under High-Power Microwave Using Multi-Head Self-Attention BiLSTM",
+            "publication_status": "Submitted to IEEE."
+          },
+          {
+            "id": 22,
+            "authors": [
+              {
+                "name": "L. Shen",
+                "annotation": "硕士生"
+              },
+              {
+                "name": "Y. Zhang"
+              },
+              {
+                "name": "H. C. Chen"
+              }
+            ],
+            "title": "Automated Microwave Amplifier Synthesis Design via Dynamic Bayesian Optimization and Tuning Space Mapping",
+            "publication_venue": "IEEE Transactions on Microwave Theory and Techniques",
+            "publication_details": "pp. 1-14, 2026",
+            "doi": "10.1109/tmtt.2026.3661569"
+          },
+          {
+            "id": 21,
+            "authors": [
+              {
+                "name": "Z. H. Chang",
+                "annotation": "本科生"
+              },
+              {
+                "name": "H. C. Chen",
+                "annotation": "通讯作者"
+              }
+            ],
+            "title": "Dynamic LSTM for 5G Signal Power Amplifier Behavioral Model",
+            "publication_venue": "IEEE Microwave and Wireless Technology Letters",
+            "publication_details": "vol. 34, no. 6, pp. 683-686, June 2024."
+          },
+          {
+            "id": 20,
+            "authors": [
+              {
+                "name": "M. Gao",
+                "annotation": "博士生"
+              },
+              {
+                "name": "R. Qiu"
+              },
+              {
+                "name": "H. C. Chen",
+                "annotation": "通讯作者"
+              },
+              {
+                "name": "K. Zhang"
+              },
+              {
+                "name": "H. Wei"
+              }
+            ],
+            "title": "Circuit schematic retrieval algorithm based on graph neural network",
+            "publication_status": "Revision Round 1."
+          },
+          {
+            "id": 19,
+            "authors": [
+              {
+                "name": "Yang"
+              },
+              {
+                "name": "H. C. Chen",
+                "annotation": "通讯作者"
+              },
+              {
+                "name": "Q. S. Cheng"
+              },
+              {
+                "name": "Y. Du"
+              }
+            ],
+            "title": "Rapid Design of Litz Wire Using Surrogate Assisted Optimization Embedding Adjacent Trust Region",
+            "publication_venue": "IEEE Transactions on Components, Packaging and Manufacturing Technology",
+            "publication_details": "vol. 14, no. 12, pp. 2211-2219, December 2024."
+          },
+          {
+            "id": 18,
+            "authors": [
+              {
+                "name": "Yang"
+              },
+              {
+                "name": "H. C. Chen",
+                "annotation": "通讯作者"
+              },
+              {
+                "name": "Y. P. Du"
+              },
+              {
+                "name": "Q. S. Cheng"
+              }
+            ],
+            "title": "LitzImp: A Fast Impedance Extraction Algorithm for Litz Wire Coil",
+            "publication_venue": "IEEE Transactions on Industrial Electronics",
+            "publication_details": "vol. 70, no. 9, pp. 9326-9335, Sep 2023."
+          },
+          {
+            "id": 17,
+            "authors": [
+              {
+                "name": "Yang"
+              },
+              {
+                "name": "H. Chen",
+                "annotation": "通讯作者"
+              },
+              {
+                "name": "Y. Du"
+              }
+            ],
+            "title": "Transients in solar photovoltaic systems during lightning strikes to a transmission line",
+            "publication_venue": "International Journal of Electrical Power & Energy Systems",
+            "publication_details": "vol. 134, pp. 106885, 2022."
+          },
+          {
+            "id": 16,
+            "authors": [
+              {
+                "name": "Yang"
+              },
+              {
+                "name": "H. C. Chen",
+                "annotation": "通讯作者"
+              },
+              {
+                "name": "Y. P. Du"
+              },
+              {
+                "name": "Q. S. Cheng"
+              }
+            ],
+            "title": "Litz Wire and Uninsulated Twisted Wire Assessment Using a Multilevel PEEC Method",
+            "publication_venue": "IEEE Transactions on Power Electronics",
+            "publication_details": "vol. 37, no. 2, pp. 2372-2381, 2022."
+          },
+          {
+            "id": 15,
+            "authors": [
+              {
+                "name": "Z. Zhang"
+              },
+              {
+                "name": "H. C. Chen",
+                "annotation": "通讯作者"
+              },
+              {
+                "name": "Q. S. Cheng"
+              }
+            ],
+            "title": "Surrogate-Assisted Quasi-Newton Enhanced Global Optimization of Antennas Based on a Heuristic Hypersphere Sampling",
+            "publication_venue": "IEEE Transactions on Antenna and Propagation",
+            "publication_details": "vol. 69, no. 5, pp. 2993-2998, 2021."
+          },
+          {
+            "id": 14,
+            "authors": [
+              {
+                "name": "Z. Zhang"
+              },
+              {
+                "name": "H. Chen",
+                "annotation": "通讯作者"
+              },
+              {
+                "name": "F. Jiang"
+              },
+              {
+                "name": "Y. Yu"
+              },
+              {
+                "name": "Q. S. Cheng"
+              }
+            ],
+            "title": "A Benchmark Test Suite for Antenna S-Parameter Optimization",
+            "publication_venue": "IEEE Transactions on Antenna and Propagation",
+            "publication_details": "vol. 69, no. 10, pp. 6635-6650, 2021."
+          },
+          {
+            "id": 13,
+            "authors": [
+              {
+                "name": "Yang"
+              },
+              {
+                "name": "H. C. Chen",
+                "annotation": "通讯作者"
+              },
+              {
+                "name": "Y. P. Du"
+              },
+              {
+                "name": "Z. Li"
+              },
+              {
+                "name": "Y. Wu"
+              }
+            ],
+            "title": "Lightning Transient Analysis of Main and Submain Circuits in Commercial Buildings Using PEEC Method",
+            "publication_venue": "IEEE Transactions on Industry Applications",
+            "publication_details": "vol. 56, no. 1, pp. 106-116, 2020."
+          },
+          {
+            "id": 12,
+            "authors": [
+              {
+                "name": "Yang"
+              },
+              {
+                "name": "H. C. Chen",
+                "annotation": "通讯作者"
+              },
+              {
+                "name": "Y. P. Du"
+              }
+            ],
+            "title": "Considerations of Photovoltaic System Structure Design for Effective Lightning Protection",
+            "publication_venue": "IEEE Transactions on Electromagnetic Compatibility",
+            "publication_details": "vol. 62, no. 4, pp. 1333-1341, Aug 2020."
+          },
+          {
+            "id": 11,
+            "authors": [
+              {
+                "name": "Yang"
+              },
+              {
+                "name": "H. Chen",
+                "annotation": "通讯作者"
+              },
+              {
+                "name": "Y. Du"
+              },
+              {
+                "name": "Q. S. Cheng"
+              }
+            ],
+            "title": "Fast Simulation of Litz Wire Using Multilevel PEEC Method",
+            "publication_venue": "IEEE Transactions on Power Electronics",
+            "publication_details": "vol. 35, no. 12, pp. 12612-12616, 2020."
+          },
+          {
+            "id": 10,
+            "authors": [
+              {
+                "name": "H. C. Chen"
+              },
+              {
+                "name": "Y. P. Du"
+              },
+              {
+                "name": "Q. S. Cheng"
+              }
+            ],
+            "title": "Comprehensive transient analysis for low-voltage system in a wind turbine under direct lightning",
+            "publication_venue": "International Journal of Electrical Power & Energy Systems",
+            "publication_details": "vol. 121, p. 106131, Oct 2020."
+          },
+          {
+            "id": 9,
+            "authors": [
+              {
+                "name": "H. Chen"
+              },
+              {
+                "name": "Y. Du"
+              },
+              {
+                "name": "Q. S. Cheng"
+              }
+            ],
+            "title": "Fast Design of Multilayered Shields Using Surrogate Model and Space Mapping",
+            "publication_venue": "IEEE Transactions on Electromagnetic Compatibility",
+            "publication_details": "vol. 62, no. 3, pp. 698-706, 2020."
+          },
+          {
+            "id": 8,
+            "authors": [
+              {
+                "name": "Yang"
+              },
+              {
+                "name": "H. C. Chen",
+                "annotation": "通讯作者"
+              },
+              {
+                "name": "Y. P. Du"
+              }
+            ],
+            "title": "Lightning protection design of solar photovoltaic systems: methodology and guidelines",
+            "publication_venue": "Electric Power Systems Research",
+            "publication_details": "vol. 174, p. 105877, Sep 2019."
+          },
+          {
+            "id": 7,
+            "authors": [
+              {
+                "name": "H. Chen"
+              },
+              {
+                "name": "Y. Du"
+              },
+              {
+                "name": "Q. S. Cheng"
+              }
+            ],
+            "title": "Lightning Propagation Analysis on Telecommunication Towers Above the Perfect Ground Using Full-Wave Time Domain PEEC Method",
+            "publication_venue": "IEEE Transactions on Electromagnetic Compatibility",
+            "publication_details": "vol. 61, no. 3, pp. 697-704, 2019."
+          },
+          {
+            "id": 6,
+            "authors": [
+              {
+                "name": "H. Chen"
+              },
+              {
+                "name": "Y. Du"
+              }
+            ],
+            "title": "Lightning Grounding Grid Model Considering Both the Frequency-Dependent Behavior and Ionization Phenomenon",
+            "publication_venue": "IEEE Transactions on Electromagnetic Compatibility",
+            "publication_details": "vol. 61, no. 1, pp. 157-165, 2019."
+          },
+          {
+            "id": 5,
+            "authors": [
+              {
+                "name": "H. Chen"
+              },
+              {
+                "name": "Y. Du"
+              },
+              {
+                "name": "M. Yuan"
+              },
+              {
+                "name": "Q. H. Liu"
+              }
+            ],
+            "title": "Analysis of the Grounding for the Substation Under Very Fast Transient Using Improved Lossy Thin-Wire Model for FDTD",
+            "publication_venue": "IEEE Transactions on Electromagnetic Compatibility",
+            "publication_details": "vol. 60, no. 6, pp. 1833 - 1841, 2018."
+          },
+          {
+            "id": 4,
+            "authors": [
+              {
+                "name": "H. Chen"
+              },
+              {
+                "name": "Y. Du"
+              },
+              {
+                "name": "M. Yuan"
+              },
+              {
+                "name": "Q. H. Liu"
+              }
+            ],
+            "title": "Lightning-Induced Voltages on a Distribution Line With Surge Arresters Using a Hybrid FDTD–SPICE Method",
+            "publication_venue": "IEEE Transactions on Power Delivery",
+            "publication_details": "vol. 33, no. 5, pp. 2354-2363, 2018."
+          },
+          {
+            "id": 3,
+            "authors": [
+              {
+                "name": "H. Chen"
+              },
+              {
+                "name": "Y. Du"
+              },
+              {
+                "name": "M. Chen"
+              }
+            ],
+            "title": "Lightning Transient Analysis of Radio Base Stations",
+            "publication_venue": "IEEE Transactions on Power Delivery",
+            "publication_details": "vol. 33, no. 5, pp. 2187-2197, 2018."
+          },
+          {
+            "id": 2,
+            "authors": [
+              {
+                "name": "H. Chen"
+              },
+              {
+                "name": "Y. Du"
+              }
+            ],
+            "title": "Proximity effect modelling for cables of finite length using the hybrid partial element equivalent circuit and artificial neural network method",
+            "publication_venue": "IET Generation, Transmission & Distribution",
+            "publication_details": "vol. 12, no. 16, pp. 3876-3882, 2018."
+          },
+          {
+            "id": 1,
+            "authors": [
+              {
+                "name": "H. Chen"
+              },
+              {
+                "name": "Y. Du"
+              }
+            ],
+            "title": "Model of ferromagnetic steels for lightning transient analysis",
+            "publication_venue": "IET Science, Measurement & Technology",
+            "publication_details": "vol. 12, no. 3, pp. 301-307, 2018."
+          }
+        ]
+      },
+      {
+        "category": "能源系统设计与故障诊断",
+        "papers": [
+          {
+            "id": 12,
+            "authors": [
+              {
+                "name": "H. C. Chen"
+              },
+              {
+                "name": "Z. Zhang"
+              },
+              {
+                "name": "M. Xu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

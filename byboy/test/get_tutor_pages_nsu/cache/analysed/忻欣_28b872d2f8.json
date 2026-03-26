@@ -1,0 +1,200 @@
+{
+  "meta": {
+    "tutor_name_cn": "忻欣",
+    "request_url": "http://automation.seu.edu.cn/xx/list.htm",
+    "declared_source_url": "http://automation.seu.edu.cn/xx/list.htm",
+    "page_host": "automation.seu.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/46dcb9aa543f23c2dab8eec4340cb559c391aa4a637e925c10b68b31ec76d315.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "mentor_name": "忻欣",
+    "source_url": "http://automation.seu.edu.cn/xx/list.htm",
+    "profile": {
+      "summary_paragraph": "忻欣，国家级高层次人才，东南大学首席教授，博士生导师，东南大学复杂工程系统测量与控制教育部重点实验室主任，东南大学智能无人系统研究院执行院长。1987年以自动化系第2名的成绩毕业于中国科学技术大学，获得工学学士学位。1987年硕士生免试推荐至东南大学，师从中国科学院冯纯伯院士。1989年提前直接攻博，1991-1993年，获得日本文部省奖学金，作为中日联合培养博士生（师从冯纯伯院士和Hidenori Kimura教授）在日本大阪大学进行研究，1993年获得东南大学工学博士学位。2000年又获得日本东京工业大学博士(工学)学位。1993-1995年在东南大学从事博士后研究，1995-1996年任东南大学副教授，1996-1997年任日本新能源产业技术综合开发机构（NEDO）最先端领域技术研究员，1997-2000年任东京工业大学助理教授，2000-2007年任冈山县立大学副教授，2008-2023年任冈山县立大学教授，曾任该校计算机和系统工程学院长助理、校国际交流中心副主任、系统工程系主任。正在组建有关机器人与智能系统的研究团队和实验室。",
+      "current_positions": [
+        "国家级高层次人才",
+        "东南大学首席教授",
+        "博士生导师",
+        "东南大学复杂工程系统测量与控制教育部重点实验室主任",
+        "东南大学智能无人系统研究院执行院长"
+      ],
+      "recruitment_call": {
+        "message": "热烈欢迎优秀学生来我们实验室攻读硕士和博士学位，诚挚邀请优秀青年人才加入我们的团队。",
+        "plan": "每年计划招收硕士研究生 4-5 名、博士研究生 2 名、博士后 1-2 名"
+      }
+    },
+    "contact_information": {
+      "email": {
+        "display": "xxin100@seu.edu.cn",
+        "link": "mailto:101012606@seu.edu.cn"
+      }
+    },
+    "education_history": [
+      {
+        "period": "1987年",
+        "institution": "中国科学技术大学",
+        "degree": "工学学士学位",
+        "notes": "自动化系第2名的成绩毕业"
+      },
+      {
+        "period": "1987年",
+        "institution": "东南大学",
+        "degree": "硕士生",
+        "notes": "免试推荐, 师从中国科学院冯纯伯院士"
+      },
+      {
+        "period": "1989年",
+        "institution": "东南大学",
+        "degree": "博士生",
+        "notes": "提前直接攻博"
+      },
+      {
+        "period": "1991-1993年",
+        "institution": "日本大阪大学",
+        "degree": "中日联合培养博士生",
+        "notes": "获得日本文部省奖学金, 师从冯纯伯院士和Hidenori Kimura教授"
+      },
+      {
+        "period": "1993年",
+        "institution": "东南大学",
+        "degree": "工学博士学位"
+      },
+      {
+        "period": "2000年",
+        "institution": "日本东京工业大学",
+        "degree": "博士(工学)学位"
+      }
+    ],
+    "work_experience": [
+      {
+        "period": "1993-1995年",
+        "institution": "东南大学",
+        "role": "博士后研究"
+      },
+      {
+        "period": "1995-1996年",
+        "institution": "东南大学",
+        "role": "副教授"
+      },
+      {
+        "period": "1996-1997年",
+        "institution": "日本新能源产业技术综合开发机构（NEDO）",
+        "role": "最先端领域技术研究员"
+      },
+      {
+        "period": "1997-2000年",
+        "institution": "东京工业大学",
+        "role": "助理教授"
+      },
+      {
+        "period": "2000-2007年",
+        "institution": "冈山县立大学",
+        "role": "副教授"
+      },
+      {
+        "period": "2008-2023年",
+        "institution": "冈山县立大学",
+        "role": "教授"
+      },
+      {
+        "period": "曾任",
+        "institution": "冈山县立大学",
+        "role": "计算机和系统工程学院长助理、校国际交流中心副主任、系统工程系主任"
+      },
+      {
+        "period": "正在",
+        "institution": null,
+        "role": "组建有关机器人与智能系统的研究团队和实验室"
+      }
+    ],
+    "research_interests": [
+      "仿生智能机器人",
+      "人形机器人",
+      "四足机器人",
+      "机器人系统的智能和非线性控制理论和实验验证"
+    ],
+    "publications_overview": {
+      "total_papers": "240多篇",
+      "top_journals_mentioned": [
+        "IEEE Transactions on Automatic Control",
+        "IEEE Transactions on Robotics",
+        "Automatica"
+      ],
+      "total_monographs": "6部",
+      "specific_monograph_2014": "2014 年由Springer出版的有关欠驱动机器人系统的非线性控制理论和实验验证成果的专著"
+    },
+    "awards_and_honors": [
+      {
+        "year": 1988,
+        "name": "第二届全国机器人学术会议优秀论文奖"
+      },
+      {
+        "year": 2004,
+        "name": "日本计测与自动控制学会（SICE）控制部门大会奖"
+      }
+    ],
+    "research_projects": {
+      "japan_projects": {
+        "national_key_projects_participated": 3,
+        "national_science_research_foundation_projects_chaired": 6,
+        "research_foundation_projects_chaired": 5
+      },
+      "china_projects": {
+        "past_chaired": [
+          "中国博士后基金项目",
+          "中国国家自然科学基金青年项目"
+        ],
+        "current_chaired": [
+          "中国国家自然科学基金面上项目",
+          "国家高层次人才项目",
+          "省双创人才项目"
+        ]
+      }
+    },
+    "academic_service_and_affiliations": {
+      "past_roles": [
+        "国家973 专家组成员",
+        "日本计测与自动控制学会控制理论委员会委员"
+      ],
+      "current_roles": [
+        "中国自动化学会控制理论专业委员会委员",
+        "IFAC 的Large Scale Complex Systems的技术委员会委员",
+        "IEEE高级会员",
+        "Automatica编委"
+      ],
+      "past_editorial_and_program_committee_roles": [
+        "IEEE Control Systems Letters编委",
+        "日本计测与自动控制学会论文杂志编委",
+        "日本机器人学会论文杂志编委",
+        "50多个国际学术会议的程序委员会委员"
+      ]
+    },
+    "publications_detailed": {
+      "underactuated_robotic_systems_work": {
+        "monographs": [
+          {
+            "id": 1,
+            "title": "Control Design and Analysis for Underactuated Robotic Systems",
+            "authors": "X. Xin, Y. Liu",
+            "publisher": "Springer",
+            "year": 2014,
+            "notes": "Monograph of 319 pages"
+          }
+        ],
+        "representative_papers": [
+          "1. X. Xin; Y. Yan, Global analysis of energy-based swing-up control for soft robot, Automatica, vol. 161, p.111471, 2024.",
+          "2. X. Xin, Y. Wang, Analysis and control of three-link planar robot with active last link: property and energy-based approach, Nonlinear Dynamics, vol. 112, pp. 5269–5289, 2024.",
+          "3. X. Xin, Z. Wang, Y. Liu, Parameterization of minimal order strongly stabilizing controllers for wo-link underactuated planar robot with single sensor, Automatica, vol. 158, p.11280, 2023.",
+          "4. X. Xin, Y. Liu, S. Izumi, T. Yamasaki, and J. She, Nonlinear swing-down control of the Acrobot: Analysis and optimal gain design, ISA Transactions, vol.140, pp. 109-120, 2023.",
+          "5. X. Xin, Y. Liu, and K. Zhang, Linear controllability of two multi-link robotic systems with multiple unactuated joints, ISA Transactions, vol. 131, pp. 264-273, 2022.",
+          "6. X. Xin, Y. Liu, S. Hara, and Y. Muraoka, Analysis of synchronization of multiple identical metronomes on a cart via describing function approach, Asian Journal of Control, vol. 24, no. 6, pp. 2931-2951, 2022.",
+          "7. X. Xin, K"
+        ]
+      }
+    }
+  }
+}

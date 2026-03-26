@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "tutor_name_cn": "姜书艳",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1159/4357.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1159/4357.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/584c87cc8441543a2065bc9188f2e8299e5c62e42a63082f44bd3a2c70e9da0f.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "site_chrome": {
+      "source_url": "https://www.auto.uestc.edu.cn/info/1159/4357.htm",
+      "breadcrumb": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "J",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/J.htm"
+        },
+        {
+          "anchor_text": "正文"
+        }
+      ],
+      "navigation_links": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ],
+      "page_title": "师资队伍"
+    },
+    "personal_info": {
+      "name": "姜书艳",
+      "highest_degree": "硕士",
+      "contact_phone": null,
+      "title_and_position": "教授",
+      "email": "jshuy@uestc.edu.cn",
+      "advisor_status": "硕士导师",
+      "personal_homepage": null,
+      "research_team": "电力电子与先进控制中心",
+      "photo_url": "https://www.auto.uestc.edu.cn/__local/E/C5/C3/FCD3163AF37B2237C13B7875CAD_30FE5257_5842.jpg"
+    },
+    "research_directions": [
+      "复杂系统与智能信息处理",
+      "模式识别与智能系统",
+      "检测技术与自动化装置"
+    ],
+    "academic_titles_and_affiliations": [
+      "西南地区高校电子技术、电子线路课程教学研究会 副理事长",
+      "中国高校电工电子在线开放课程联盟四川省工作委员会 副主任委员"
+    ],
+    "education_and_work_experience": [
+      "1991年7月获长春理工大学工学学士学位",
+      "1991年8月至1993年7月，在重庆明佳光电仪器厂担任技术工作",
+      "1996年4月获得电子科技大学工学硕士学位并留校参加工作",
+      "2003年11月至2004年12月以及2014年1月到6月，先后在美国斯坦福大学(Stanford University)电子工程与计算机系可靠性计算中心和美国加州大学圣地亚哥分校担任客座研究员",
+      "2012年至今任电子科技大学首席教授（数字电路）"
+    ],
+    "scientific_research": {
+      "overview": "长期从事芯片与计算机系统硬件的故障自动化/智能化检测、故障特征分析与智能化识别、容错设计等相关方向算法及装置的研究。",
+      "projects": "先后主持国家自然科学基金项目两项、国家重大项目一项、四川省应用基础研究项目两项，主研多项国家自然科学基金和省部级项目。",
+      "publications": "先后在国内外刊物上发表学术论文60余篇，其中被SCI、EI收录40余篇。",
+      "patents": "授权国家发明专利6项。",
+      "awards": "获得校级优秀主讲教师、先进工作者、德育先进个人、优秀共产党员、省级优秀党支部书记，多次获得多项校级优秀教师奖、优秀教学成果奖、学校及学院年终考核优秀奖。"
+    },
+    "teaching_and_courses": {
+      "undergraduate_courses": [
+        "数字逻辑设计及应用",
+        "电子技术基础"
+      ],
+      "graduate_courses": [
+        "工程伦理与学术道德"
+      ],
+      "teaching_positions": [
+        "学校本科核心课程“数字逻辑设计及应用”首席教授",
+        "第八届学位与研究生教育督导专家",
+        "学院本科教学指导委员会委员",
+        "学院本科教学质量监督小组副组长"
+      ],
+      "teaching_research_projects": [
+        "主持《数字逻辑设计及应用》国家级在线开放课程",
+        "主持《基于“雨课堂+雷实验”数电平台》教育部高等教育司2018年第一批产学合作协同育人项目",
+        "主持《数字逻辑设计及应用》探究式小班课程",
+        "主持 挑战性课程“数字逻辑设计及应用”建设",
+        "主持教学方法与考核方法改革示范课“数字逻辑设计及应用”建设",
+        "主持《FPGA 创新设计竞赛 》竞赛类在线开放课程",
+        "参与挑战性学习课程“数字设计FPGA应用”建设",
+        "参与《嵌入式系统设计——基于STM32及μC/OS 》在线开放课程",
+        "参与《数字设计FPGA应用》在线开放性课程"
+      ]
+    },
+    "enrollment_majors": {
+      "masters": [
+        "081100控制科学与工程",
+        "085400电子信息"
+      ],
+      "doctors": []
+    }
+  }
+}

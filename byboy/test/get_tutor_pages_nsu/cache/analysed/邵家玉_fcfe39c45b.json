@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "tutor_name_cn": "邵家玉",
+    "request_url": "http://automation.seu.edu.cn/sjy/list.htm",
+    "declared_source_url": "http://automation.seu.edu.cn/sjy/list.htm",
+    "page_host": "automation.seu.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/5da10eb20cf9b7e1178fbe5251f341b129f1f4df5c5392c7e45ce53bde5961c2.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "site_chrome": {
+      "source_url": "http://automation.seu.edu.cn/sjy/list.htm",
+      "header_image_url": "https://automation.seu.edu.cn/sjy/list.htm",
+      "footer_image_url": "https://automation.seu.edu.cn/_visitcount?siteId=338&type=2&columnId=32728"
+    },
+    "邵家玉": {
+      "personal_info": {
+        "name": "邵家玉",
+        "gender": "男",
+        "birth_year": 1971,
+        "political_affiliation": "民盟&中共党员",
+        "titles_and_positions": [
+          "副教授",
+          "硕士生导师"
+        ],
+        "current_affiliation": "东南大学自动化学院（原自动控制系）教师",
+        "primary_research_directions": [
+          "深度学习",
+          "地铁人工智能（城轨智能）",
+          "企业信息化"
+        ]
+      },
+      "education_experience": [
+        {
+          "start_date": "1989年",
+          "end_date": "1993年",
+          "university": "东南大学",
+          "department": "自动控制系",
+          "major": "自控理论及应用",
+          "degree": "工学学士"
+        },
+        {
+          "start_date": "1993年",
+          "end_date": "1996年",
+          "university": "东南大学",
+          "department": "自动控制系",
+          "major": "自控理论及应用",
+          "degree": "工学硕士"
+        },
+        {
+          "start_date": "1996年",
+          "end_date": "1999年",
+          "university": "东南大学",
+          "major": "系统工程",
+          "degree": "工学博士"
+        }
+      ],
+      "work_experience": [
+        {
+          "start_date": "1996年",
+          "end_date": "至今",
+          "institution": "东南大学自动化学院（原自动控制系）",
+          "position": "教师"
+        }
+      ],
+      "academic_affiliations": [],
+      "awards_and_honors": [
+        {
+          "name": "凡科优秀评审专家",
+          "year": null,
+          "notes": null
+        },
+        {
+          "name": "东南大学优秀本科生导师",
+          "years": [
+            "21-22学年",
+            "22-23学年"
+          ],
+          "notes": null
+        },
+        {
+          "name": "中国科技论文在线（教育部主办）优秀评审专家",
+          "years": [
+            2018,
+            2020,
+            2021
+          ],
+          "notes": null
+        },
+        {
+          "name": "中国民主同盟江苏省优秀盟员",
+          "year": 2003,
+          "notes": null
+        }
+      ],
+      "courses_taught": {
+        "graduate_courses": [
+          "《数据库原理与设计方法》",
+          "《现代软件工程中的方法与工具》"
+        ],
+        "undergraduate_courses": [
+          "《数据库原理及设计》",
+          "《ERP系统设计》"
+        ]
+      },
+      "student_supervision": {
+        "graduated_statistics": {
+          "master_students": "四十多人",
+          "undergraduate_theses": "一百多人"
+        },
+        "master_admission_plan": {
+          "nanjing_headquarters_campus": "1-2名",
+          "wuxi_campus": "1名",
+          "suzhou_campus_dongmeng": "1名"
+        },
+        "welcomed_research_directions": [
+          "深度学习",
+          "目标检测",
+          "计算机视觉",
+          "城轨智能"
+        ],
+        "supervised_master_theses_recent": [
+          {
+            "student_name": "陈贝佳",
+            "grade": "22级",
+            "title": "城市轨道交通客流拥堵时空传播机理及其控制策略研究",
+            "expected_completion_date": "2025年5月"
+          },
+          {
+            "student_name": "王俊杭",
+            "grade": "22级",
+            "title": "考虑动态客流的城市轨道交通网络韧性评估与提升方法研究",
+            "expected_completion_date": "2025年5月"
+          },
+          {
+            "student_name": "冯子昂",
+            "grade": "21级",
+            "title": "基于机器学习的火焰识别算法研究",
+            "expected_completion_date": "2024年5月"
+          },
+          {
+            "student_name": "蔡航",
+            "grade": "21级",
+            "title": "基于SLAM的城市轨道交通供电系统巡检机器人研究",
+            "expected_completion_date": "2024年5月"
+          },
+          {
+            "student_name": "殷智伟",
+            "grade": "21级",
+            "title": "基于深度学习的车辆检测算法研究",
+            "expected_completion_date": "2024年5月"
+          },
+          {
+            "student_name": "林文杰",
+            "grade": "20级",
+            "title": "基于深度学习的人群跨线计数算法研究",
+            "expected_completion_date": "2023年5月"
+          },
+          {
+            "student_name": "宁新匡",
+            "grade": "19级",
+            "title": "基于深度学习的行人重识别研究",
+            "expected_completion_date": "2022年5月"
+          },
+          {
+            "student_name": "石宁",
+            "grade": "18级",
+            "title": "基于卷积神经网络和迁移学习的地铁站台人群密度检测研究",
+            "expected_completion_date": "2021年5月"
+          },
+          {
+            "student_name": "徐炜",
+            "grade": "17级",
+            "title": "基于人体行为检测及识别的闸机通行控制研究",
+            "expected_completion_date": "2020年6月"
+          },
+          {
+            "student_name": "韩松",
+            "grade": "17级",
+            "title": "基于机器学习的城市轨道交通OD估计方法研究",
+            "expected_completion_date": "2020年6月"
+          }
+        ]
+      },
+      "research_interests": [
+        "深度学习",
+        "地铁人工智能（城轨智能）",
+        "企业信息化"
+      ],
+      "research_projects": [
+        {
+          "title": "国家自然科学基金面上项目“存在返工的定点装配车间生产计划与调度的集成优化研究及应用”",
+          "role": "参加",
+          "start_date": "2017年1月",
+          "end_date": "2020年12月",
+          "award": null,
+          "notes": null
+        },
+        {
+          "title": "常州市轨道交通线网AFC技术规程项目",
+          "role": "负责",
+          "start_date": "2014年8月",
+          "end_date": "至今",
+          "award": null,
+          "notes": null
+        },
+        {
+          "title": "无锡市轨道交通线网自动售检票系统技术标准咨询项目",
+          "role": "参加",
+          "start_date": "2010年4月",
+          "end_date": "2017年12月",
+          "award": null,
+          "notes": null
+        },
+        {
+          "title": "国家自然科学基金重点项目“知识化制造系统优化方法研究与应用”",
+          "role": "参加",
+          "start_date": "2010年1月",
+          "end_date": "2013年12月",
+          "award": null,
+          "notes": null
+        },
+        {
+          "title": "国家自然科学基金面上项目“制造系统成品需求短期预测模型研究及应用”",
+          "role": "参加",
+          "start_date": "2009年1月",
+          "end_date": "2011年12月",
+          "award": null,
+          "notes": null
+        },
+        {
+          "title": "苏州轨道交通线网AFC（自动售检票）技术规程项目",
+          "role": "负责",
+          "start_date": "2008年12月",
+          "end_date": "2012年7月",
+          "award": null,
+          "notes": null
+        },
+        {
+          "title": "国家自然科学基金面上项目“基于知识网的知识化制造系统自重构优化研究”",
+          "role": "参加",
+          "start_date": "2006年1月",
+          "end_date": "2008年12月",
+          "award": null,
+          "notes": null
+        }
+      ]
+    }
+  }
+}

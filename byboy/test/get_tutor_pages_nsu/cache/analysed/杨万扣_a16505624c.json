@@ -1,0 +1,425 @@
+{
+  "meta": {
+    "tutor_name_cn": "杨万扣",
+    "request_url": "https://dblp.org/pid/99/3602.html",
+    "declared_source_url": "https://dblp.org/pid/99/3602.html",
+    "page_host": "dblp.org",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/501097279071ddeceefa6e35e020b06657995e106a5d304619ca7f9ebfb2d198.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "target_person_name_zh": "杨万扣",
+    "target_person_name_en": "Wankou Yang",
+    "source_url": "https://dblp.org/pid/99/3602.html",
+    "summary": {
+      "total_records_shown": 283,
+      "publication_counts_by_year": {
+        "2005": 1,
+        "2006": 1,
+        "2008": 5,
+        "2009": 3,
+        "2010": 4,
+        "2011": 11,
+        "2012": 11,
+        "2013": 9,
+        "2014": 5,
+        "2015": 18,
+        "2016": 17,
+        "2017": 17,
+        "2018": 12,
+        "2019": 15,
+        "2020": 16,
+        "2021": 23,
+        "2022": 17,
+        "2023": 33,
+        "2024": 29,
+        "2025": 27,
+        "2026": 9
+      }
+    },
+    "refinement_options": {
+      "search_term_refinement": {
+        "description": "refine by search term",
+        "status": ""
+      },
+      "type_refinement": {
+        "description": "refine by type",
+        "options": [
+          {
+            "name": "Journal Articles",
+            "status": "checkbox"
+          },
+          {
+            "name": "Conference and Workshop Papers",
+            "status": "checkbox"
+          },
+          {
+            "name": "Editorship",
+            "status": "checkbox"
+          },
+          {
+            "name": "Informal and Other Publications",
+            "status": "checkbox"
+          }
+        ],
+        "actions": [
+          "select all",
+          "deselect all"
+        ],
+        "status": "_no options_, waiting..., _temporarily not available_"
+      },
+      "coauthor_refinement": {
+        "description": "refine by coauthor",
+        "options": [
+          {
+            "name": "Changyin Sun 0001",
+            "dblp_url": "https://dblp.org/pid/64/221.html",
+            "count": 64
+          },
+          {
+            "name": "Jifeng Shen",
+            "dblp_url": "https://dblp.org/pid/23/8615.html",
+            "count": 36
+          },
+          {
+            "name": "Jun Li 0033",
+            "dblp_url": "https://dblp.org/pid/116/1011-33.html",
+            "count": 26
+          },
+          {
+            "name": "Xin Zuo",
+            "dblp_url": "https://dblp.org/pid/15/2278.html",
+            "count": 24
+          },
+          {
+            "name": "Sen Yang",
+            "dblp_url": "https://dblp.org/pid/90/4655.html",
+            "count": 23
+          },
+          {
+            "name": "Baochang Zhang 0001",
+            "dblp_url": "https://dblp.org/pid/80/3887-1.html",
+            "count": 16
+          },
+          {
+            "name": "Ming Dai",
+            "dblp_url": "https://dblp.org/pid/61/6981.html",
+            "count": 16
+          },
+          {
+            "name": "Fei Xie",
+            "dblp_url": "https://dblp.org/pid/51/1316.html",
+            "count": 14
+          },
+          {
+            "name": "Jing-Yu Yang 0001",
+            "dblp_url": "https://dblp.org/pid/65/2850-1.html",
+            "count": 14
+          },
+          {
+            "name": "Zhenhua Feng 0001",
+            "dblp_url": "https://dblp.org/pid/348/7584-1.html",
+            "count": 13
+          }
+        ],
+        "more_options_summary": "590 more options",
+        "status": "_no options_, waiting..., _temporarily not available_"
+      },
+      "orcid_refinement": {
+        "description": "refine by orcid",
+        "options": [
+          {
+            "id": "no orcid",
+            "count": 239
+          },
+          {
+            "id": "0000-0002-6385-6776",
+            "count": 44
+          }
+        ],
+        "more_options_summary": "_more options_",
+        "status": "_no options_, waiting..., _temporarily not available_"
+      },
+      "venue_refinement": {
+        "description": "refine by venue",
+        "options": [
+          {
+            "name": "Comput. Res. Repos.",
+            "count": 47
+          },
+          {
+            "name": "Lect. Notes Comput. Sci.",
+            "count": 39
+          },
+          {
+            "name": "Neurocomputing",
+            "count": 27
+          },
+          {
+            "name": "Pattern Recognit.",
+            "count": 24
+          },
+          {
+            "name": "IScIDE",
+            "count": 18
+          },
+          {
+            "name": "J. Vis. Commun. Image Represent.",
+            "count": 9
+          },
+          {
+            "name": "CCBR",
+            "count": 8
+          },
+          {
+            "name": "CCIS",
+            "count": 8
+          },
+          {
+            "name": "ICCV",
+            "count": 7
+          },
+          {
+            "name": "Neural Comput. Appl.",
+            "count": 6
+          },
+          {
+            "name": "ICPR",
+            "count": 6
+          }
+        ],
+        "more_options_summary": "67 more options",
+        "status": "_no options_, waiting..., _temporarily not available_"
+      },
+      "access_refinement": {
+        "description": "refine by access",
+        "options": [
+          {
+            "type": "closed",
+            "count": 220
+          },
+          {
+            "type": "open",
+            "count": 61
+          },
+          {
+            "type": "unavailable",
+            "count": 1
+          }
+        ],
+        "more_options_summary": "_more options_",
+        "status": "_no options_, waiting..., _temporarily not available_"
+      }
+    },
+    "publications": [
+      {
+        "year": 2026,
+        "ref_id": "j149",
+        "type": "Journal Article",
+        "authors": [
+          {
+            "name": "Jifeng Shen",
+            "dblp_url": "https://dblp.org/pid/23/8615.html"
+          },
+          {
+            "name": "Haibo Zhan",
+            "dblp_url": "https://dblp.org/pid/413/3286.html",
+            "orcid_present": true
+          },
+          {
+            "name": "Shaohua Dong",
+            "dblp_url": "https://dblp.org/pid/188/4523.html"
+          },
+          {
+            "name": "Xin Zuo",
+            "dblp_url": "https://dblp.org/pid/15/2278.html"
+          },
+          {
+            "name": "Wankou Yang",
+            "is_target_person": true,
+            "orcid_present": true
+          },
+          {
+            "name": "Haibin Ling",
+            "dblp_url": "https://dblp.org/pid/93/3488.html",
+            "orcid_present": true
+          }
+        ],
+        "title": "Multispectral state-space feature fusion: Bridging shared and cross-parametric interactions for object detection.",
+        "venue": {
+          "name": "Inf. Fusion",
+          "volume_issue": "127",
+          "pages": "103895",
+          "dblp_url": "https://dblp.org/db/journals/inffus/inffus127.html#journals/inffus/ShenZDZYL26"
+        }
+      },
+      {
+        "year": 2026,
+        "ref_id": "j148",
+        "type": "Journal Article",
+        "authors": [
+          {
+            "name": "Wenkang Zhang",
+            "dblp_url": "https://dblp.org/pid/340/0966.html",
+            "orcid_present": true
+          },
+          {
+            "name": "Tianyang Xu",
+            "dblp_url": "https://dblp.org/pid/169/4627.html"
+          },
+          {
+            "name": "Fei Xie",
+            "dblp_url": "https://dblp.org/pid/51/1316.html",
+            "orcid_present": true
+          },
+          {
+            "name": "Jinhui Wu",
+            "dblp_url": "https://dblp.org/pid/36/6077.html"
+          },
+          {
+            "name": "Wankou Yang",
+            "is_target_person": true
+          }
+        ],
+        "title": "TATrack: Target-oriented adaptive vision transformer for UAV tracking.",
+        "venue": {
+          "name": "Neural Networks",
+          "volume_issue": "193",
+          "pages": "108067",
+          "dblp_url": "https://dblp.org/db/journals/nn/nn193.html#journals/nn/ZhangXXWY26"
+        }
+      },
+      {
+        "year": 2026,
+        "ref_id": "j147",
+        "type": "Journal Article",
+        "authors": [
+          {
+            "name": "Yunfei Ma",
+            "dblp_url": "https://dblp.org/pid/80/7673.html",
+            "orcid_present": true
+          },
+          {
+            "name": "Jie Li",
+            "dblp_url": "https://dblp.org/pid/17/2703-40.html",
+            "orcid_present": true
+          },
+          {
+            "name": "Lingfeng Yang",
+            "dblp_url": "https://dblp.org/pid/45/7593.html"
+          },
+          {
+            "name": "Yifei Su",
+            "dblp_url": "https://dblp.org/pid/237/4153.html",
+            "orcid_present": true
+          },
+          {
+            "name": "Yingpeng Li",
+            "dblp_url": "https://dblp.org/pid/388/6664.html",
+            "orcid_present": true
+          },
+          {
+            "name": "Wankou Yang",
+            "is_target_person": true,
+            "orcid_present": true
+          }
+        ],
+        "title": "Shadow-DETR: Alleviating matching conflicts through shadow queries.",
+        "venue": {
+          "name": "Neural Networks",
+          "volume_issue": "197",
+          "pages": "108524",
+          "dblp_url": "https://dblp.org/db/journals/nn/nn197.html#journals/nn/MaLYSLY26"
+        }
+      },
+      {
+        "year": 2026,
+        "ref_id": "j146",
+        "type": "Journal Article",
+        "authors": [
+          {
+            "name": "Ming Dai",
+            "dblp_url": "https://dblp.org/pid/61/6981.html",
+            "orcid_present": true
+          },
+          {
+            "name": "Wenxuan Cheng",
+            "dblp_url": "https://dblp.org/pid/370/2615.html",
+            "orcid_present": true
+          },
+          {
+            "name": "Jiang-Jiang Liu",
+            "dblp_url": "https://dblp.org/pid/18/2542-1.html",
+            "orcid_present": true
+          },
+          {
+            "name": "Lingfeng Yang",
+            "dblp_url": "https://dblp.org/pid/45/7593.html",
+            "orcid_present": true
+          },
+          {
+            "name": "Zhenhua Feng",
+            "dblp_url": "https://dblp.org/pid/348/7584-1.html",
+            "orcid_present": true
+          },
+          {
+            "name": "Wankou Yang",
+            "is_target_person": true,
+            "orcid_present": true
+          },
+          {
+            "name": "Jingdong Wang",
+            "dblp_url": "https://dblp.org/pid/49/3441.html",
+            "orcid_present": true
+          }
+        ],
+        "title": "Improving Generalized Visual Grounding With Instance-Aware Joint Learning.",
+        "venue": {
+          "name": "IEEE Trans. Pattern Anal. Mach. Intell.",
+          "volume_issue": "48(1)",
+          "pages": "448-465",
+          "dblp_url": "https://dblp.org/db/journals/pami/pami48.html#journals/pami/DaiCLYFYW26"
+        }
+      },
+      {
+        "year": 2026,
+        "ref_id": "j145",
+        "type": "Journal Article",
+        "authors": [
+          {
+            "name": "Yihao Xu",
+            "dblp_url": "https://dblp.org/pid/254/1616.html"
+          },
+          {
+            "name": "Ming Dai",
+            "dblp_url": "https://dblp.org/pid/61/6981.html"
+          },
+          {
+            "name": "Xiang Li",
+            "dblp_url": "https://dblp.org/pid/40/1491-41.html",
+            "orcid_present": true
+          },
+          {
+            "name": "Yuncong Yao",
+            "dblp_url": "https://dblp.org/pid/17/5361.html"
+          },
+          {
+            "name": "Wankou Yang",
+            "is_target_person": true,
+            "orcid_present": true
+          }
+        ],
+        "title": "DTSI: Towards faster convergence of query-based detectors for rotated dense aerial images.",
+        "venue": {
+          "name": "Pattern Recognit.",
+          "volume_issue": "172",
+          "pages": "112729",
+          "dblp_url": "https://dblp.org/db/journals/pr/pr172.html#journals/pr"
+        }
+      }
+    ]
+  }
+}

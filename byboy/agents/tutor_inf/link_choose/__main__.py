@@ -38,7 +38,25 @@ def main(argv: list[str] | None = None) -> int:
         action="store_true",
         help="仅对规则低置信链接调 LLM（默认：每条链接都过 LLM）",
     )
+    p.add_argument(
+        "--task-root-url",
+        default="",
+        help="抓取任务根 URL（写入 LLM task_context，并参与跨注册域名录降级）",
+    )
+    p.add_argument(
+        "--scope-hint",
+        default="",
+        help="院系/单位名称（写入 LLM task_context；与编排任务传入方式一致）",
+    )
+    p.add_argument(
+        "--refine-batch-parallel-workers",
+        type=int,
+        default=1,
+        help="单页内多批 LLM（每批约 50 条）并行 worker 数，默认 1 串行",
+    )
     args = p.parse_args(argv)
+    if args.refine_batch_parallel_workers <= 0:
+        raise SystemExit("--refine-batch-parallel-workers 必须为正整数")
 
     dispatcher = LLMDispatcher.from_env()
     agent = LinkChooseAgent()
@@ -49,6 +67,9 @@ def main(argv: list[str] | None = None) -> int:
             output_dir=args.output_dir,
             output_filename=args.output_filename,
             refine_all_links=not args.uncertain_only_llm,
+            task_root_url=(args.task_root_url or "").strip() or None,
+            scope_hint=(args.scope_hint or "").strip() or None,
+            refine_batch_parallel_workers=int(args.refine_batch_parallel_workers),
         ),
     )
     out = agent.run(inv, dispatcher, max_tokens=args.max_tokens)

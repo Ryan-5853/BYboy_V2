@@ -24,14 +24,14 @@ class PackyAPIClient:
             raise ValueError(
                 "缺少 API Key：请设置 PACKY_API_KEY、PACKYAPI_API_KEY、OPENAI_API_KEY 等"
             )
-        self._sync = OpenAI(
-            api_key=self._config.api_key,
-            base_url=self._config.base_url,
-        )
-        self._async = AsyncOpenAI(
-            api_key=self._config.api_key,
-            base_url=self._config.base_url,
-        )
+        _client_kw: dict[str, object] = {
+            "api_key": self._config.api_key,
+            "base_url": self._config.base_url,
+        }
+        if self._config.http_timeout_sec is not None:
+            _client_kw["timeout"] = float(self._config.http_timeout_sec)
+        self._sync = OpenAI(**_client_kw)
+        self._async = AsyncOpenAI(**_client_kw)
 
     @property
     def config(self) -> PackyConfig:

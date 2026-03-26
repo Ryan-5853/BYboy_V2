@@ -1,0 +1,189 @@
+{
+  "meta": {
+    "tutor_name_cn": "王敏",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1172/8027.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1172/8027.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/e439ba6d4a3724c8934d2afde65717527dadd116cdfccdcf52b09c7ac6b8a09f.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "source_url": "https://www.auto.uestc.edu.cn/info/1172/8027.htm",
+    "site_chrome": {
+      "source_note": "抓取来源：https://www.auto.uestc.edu.cn/info/1172/8027.htm",
+      "section_titles": [
+        "师资队伍",
+        "师资队伍"
+      ],
+      "navigation_breadcrumbs": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "W",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/W.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "sidebar_links": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ]
+    },
+    "personal_info": {
+      "name": "王敏",
+      "image": {
+        "url": "https://www.auto.uestc.edu.cn/__local/1/13/82/33212CBDB07CD7074D7337FBE8D_0B1D2301_161E2B.jpg",
+        "alt_text": "导师照片"
+      },
+      "highest_degree": "博士",
+      "contact_phone": null,
+      "titles_positions": [
+        "特聘研究员"
+      ],
+      "email": "mwang@uestc.edu.cn",
+      "supervision_status": "博士导师",
+      "personal_homepage": null,
+      "research_team": "测试技术与仪器研究所"
+    },
+    "research_interests": [
+      "机器学习和深度学习",
+      "数据分析和人工智能",
+      "异常检测和故障诊断",
+      "智能监测和健康管理"
+    ],
+    "academic_titles_affiliations": {
+      "titles": [
+        "四川省高层次青年人才入选者",
+        "中国仪器仪表学会金国藩青年学子奖学金获得者",
+        "电子科技大学“百人计划”入选者"
+      ],
+      "memberships": [
+        "中国自动化学会高级会员",
+        "中国仪器仪表学会高级会员",
+        "中国指挥与控制学会高级会员",
+        "IEEE会员"
+      ],
+      "committee_roles": [
+        "中国自动化学会技术过程的故障诊断与安全性专业委员会委员",
+        "中国指挥与控制学会具身智能专业委员会委员",
+        "中国机电装备维修与改造技术协会智能运维专业委员会委员",
+        "中国人工智能学会青年工作委员会委员"
+      ]
+    },
+    "education_work_experience": [
+      {
+        "time_range": "2026.03-至今",
+        "institution": "电子科技大学",
+        "department": "自动化工程学院",
+        "role": "特聘研究员",
+        "type": "work"
+      },
+      {
+        "time_range": "2024.05-2026.02",
+        "institution": "电子科技大学",
+        "department": "自动化工程学院",
+        "role": "副教授",
+        "type": "work"
+      },
+      {
+        "time_range": "2022.08-2024.04",
+        "institution": "电子科技大学",
+        "department": "自动化工程学院",
+        "role": "讲师",
+        "type": "work"
+      },
+      {
+        "time_range": "2022.07-2023.01",
+        "institution": "香港城市大学",
+        "department": "先进设计与系统工程系",
+        "role": "博士后（访学）",
+        "type": "work_visit"
+      },
+      {
+        "time_range": "2018.09-2022.06",
+        "institution": "清华大学",
+        "department": "自动化系",
+        "degree": "博士",
+        "type": "education"
+      },
+      {
+        "time_range": "2015.09-2018.03",
+        "institution": "北京航空航天大学",
+        "department": "可靠性与系统工程学院",
+        "degree": "硕士",
+        "type": "education"
+      },
+      {
+        "time_range": "2011.09-2015.07",
+        "institution": "长安大学",
+        "department": "信息工程学院",
+        "degree": "学士",
+        "type": "education"
+      }
+    ],
+    "research_summary": {
+      "overview": "长期从事复杂系统/装备的过程监测与智能诊断研究。",
+      "projects": "主持国自然面上、国自然青年、博士后面上、四川省青年等，主研ZF型号项目、国自然联合重点、智能制造专项等。",
+      "publications": "发表高水平论文30余篇（其中以第一/通信作者在Automatica、IEEE JAS、IEEE TSMCA、IEEE TC、IEEE TII、IEEE TPE、IEEE TNNLS、IEEE TMECH、IEEE TVT、IEEE TIM等发表多篇）。",
+      "patents": "申请发明专利20余项。",
+      "standards": "参编已发布国家标准4项。",
+      "awards": [
+        "四川省科技进步二等奖（第一完成人）",
+        "中国仪器仪表学会发明一等奖（第二完成人）",
+        "中国自动化学会优秀博士学位论文奖",
+        "ICRMS最佳论文",
+        "ICAIS&ISAS最佳论文"
+      ],
+      "student_supervision_achievements": "基于自身研究指导学生获大学生“挑战杯”（主体赛自然科学论文赛道）全国二等奖、大学生智能车竞赛全国一等奖、大学生“创新创业训练计划”优秀结题（国家级立项）、大学生“挑战杯”四川省特等奖、国家奖学金、中国仪器仪表学会二等奖学金、电子科技大学优秀毕业论文等。"
+    },
+    "teaching_courses": {
+      "undergraduate_courses": [
+        "《模式识别》"
+      ],
+      "graduate_courses": [
+        "《创新实践课程：异常检测与可靠性技术方向》"
+      ]
+    },
+    "admissions_info": {
+      "masters_programs": [
+        "081100 控制科学与工程",
+        "085406 控制工程"
+      ],
+      "doctoral_programs": [
+        "081100 控制科学与工程",
+        "085400 电子信息",
+        "086100 交通运输"
+      ]
+    }
+  }
+}

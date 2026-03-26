@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "tutor_name_cn": "侯晓荣",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1157/4349.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1157/4349.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/9a3f25cfbefed50573de9c7368e4bac64f0117369fe0468774133d3620f01f3c.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "source_url": "https://www.auto.uestc.edu.cn/info/1157/4349.htm",
+    "site_navigation": {
+      "main_title": "师资队伍",
+      "breadcrumbs": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "H",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/H.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "side_menu": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ]
+    },
+    "personal_info": {
+      "name": "侯晓荣",
+      "image_url": "https://www.auto.uestc.edu.cn/__local/8/E3/24/63180DB0BA879447107E109BBA4_8DCE6248_361C.jpg",
+      "highest_degree": "硕士",
+      "contact_phone": null,
+      "title_position": "教授",
+      "email": "houxr@uestc.edu.cn",
+      "supervisor_status": "博士导师",
+      "personal_homepage": null,
+      "research_team": "控制科学与智能系统研究中心"
+    },
+    "research_directions": [
+      "控制理论",
+      "智能科学理论与应用等"
+    ],
+    "academic_titles_and_concurrent_posts": null,
+    "experience": {
+      "work_education_history": [
+        "1985.8-1988.12任中国科技大学少年班助教",
+        "1989.1-1989.10任中国科学院教学研究所助研、研究员",
+        "1989.11-2000.12任中国科学院成都计算机所助研",
+        "2001.1-2006.6任宁波大学理学院副院长",
+        "2006.7-2017.11任电子科技大学教师",
+        "2017.12至今任电子科技大学自动化工程学院教师"
+      ]
+    },
+    "scientific_research": {
+      "completed_projects": [
+        "国家自然科学基金项目2项",
+        "国家级项目4项",
+        "教育部科技重点项目1项",
+        "科学院重点项目1项",
+        "省自然科学基金项目1项"
+      ],
+      "ongoing_projects": [
+        "国家自然科学基金项目2项",
+        "能源行业横向课题3项"
+      ]
+    },
+    "teaching": {
+      "undergraduate_courses": [
+        "复变函数"
+      ],
+      "graduate_courses": [
+        "现代信号处理",
+        "非线性系统理论",
+        "学科前沿知识专题讲座"
+      ],
+      "teaching_appointments": null,
+      "teaching_research": null
+    },
+    "admission": {
+      "master_programs": [
+        "081100控制科学与工程",
+        "085400电子信息"
+      ],
+      "doctoral_programs": [
+        "081100控制科学与工程",
+        "085400电子信息",
+        "086100交通运输"
+      ]
+    }
+  }
+}

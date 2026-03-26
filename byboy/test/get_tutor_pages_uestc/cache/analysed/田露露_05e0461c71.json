@@ -1,0 +1,326 @@
+{
+  "meta": {
+    "tutor_name_cn": "田露露",
+    "request_url": "http://faculty.uestc.edu.cn/tianlulu1/zh_CN/index.htm",
+    "declared_source_url": "http://faculty.uestc.edu.cn/tianlulu1/zh_CN/index.htm",
+    "page_host": "faculty.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/7cc807d19769a0a2381b72ccf45bd930140c59cc0d4fe063c36dcc7da27dc1fb.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "source_meta": {
+      "query_key_name": "田露露",
+      "source_url": "http://faculty.uestc.edu.cn/tianlulu1/zh_CN/index.htm",
+      "scrape_source_declaration": "抓取来源：http://faculty.uestc.edu.cn/tianlulu1/zh_CN/index.htm"
+    },
+    "personal_info": {
+      "name": "田露露",
+      "title": "副教授",
+      "additional_titles": [
+        "硕士生导师"
+      ],
+      "main_appointment": "专任教师",
+      "gender": "男",
+      "education": {
+        "degree_type": "博士研究生毕业",
+        "degree_name": "工学博士学位"
+      },
+      "entry_date": "2020-04-08",
+      "office_location": "电子科技大学国际创新中心D栋自动化工程学院D302-1",
+      "contact": {
+        "qq": "773809122",
+        "email": "lulutian@uestc.edu.cn"
+      },
+      "honors_awards": [
+        "2015 I2MTC 国际会议最佳论文奖"
+      ],
+      "metrics": {
+        "likes_count": 96,
+        "visits_count": 14929,
+        "last_updated": "2026.1.30"
+      },
+      "images": [
+        {
+          "url": "https://faculty.uestc.edu.cn/__local/2/7A/59/AC5E1C83C9C1C629FF8CAC0420A_8BDE5354_3081.png",
+          "link_target": "http://faculty.uestc.edu.cn/"
+        },
+        {
+          "url": "https://faculty.uestc.edu.cn/__local/0/1F/31/BAF885236CFF41F6578C56385E1_DED76DCD_1D60C.png"
+        }
+      ]
+    },
+    "sections": {
+      "personal_profile": {
+        "title": "个人简介",
+        "text": "博士，研究方向：智能电磁无损检测技术。长期从事电、磁、热等多场无损检测技术研究，博士后期间在英国伦敦布鲁奈尔大学（Brunel University London） 王子栋教授团队进行一年的研究工作，在人工智能与电磁无损检测技术方向进行了深入研究，发表了多项人工智能电磁无损检测技术相关研究成果，在多层异质板材、薄膜等特种材料的结构健康完整性应用研究方面具有多年经验。在电磁热物理机理研究上提出了电磁逐层迭代检测模型、小样本电磁热图像神经网络训练方法等，实现了异构、异形、多层材料的缺陷高清检测。主持国家自然科学基金、中国博士后基金各1项，参与国家自然基金重点项目、国防项目等项目10余项，担任Neurocomputing、IEEE Transactions on Instrumentation and Measurement 、IEEE Transactions on Neural Networks and Learning Systems 、Journal of Ambient Intelligence and Humanized Computing等多个国际期刊审稿人。公开发表论文20余篇，其中SCI收录13篇，获授权专利12项，以第一作者身份获得2015年在意大利召开的测试领域顶级会议I2MTC唯一最佳论文奖。",
+        "referenced_person": {
+          "name": "王子栋",
+          "url": "http://www.brunel.ac.uk/~csstzzw/",
+          "institution": "Brunel University London"
+        }
+      },
+      "representative_achievements": {
+        "title": "代表成果",
+        "publications": [
+          {
+            "id": 1,
+            "authors": "L. Tian, Z. Wang*, W. Liu, Y. Cheng, F. E. Alsaadi and X. Liu",
+            "title": "Empower parameterized generative adversarial networks using a novel particle swarm optimizer: algorithms and applications",
+            "journal": {
+              "name": "International Journal of Machine Learning and Cybernetics",
+              "url": "https://www.springer.com/journal/13042"
+            },
+            "details": "13(4), 1145-1155(2021)",
+            "issn": "1868-8071",
+            "doi": {
+              "text": "https://doi.org/10.1007/s13042-021-01440-3",
+              "url": "https://doi.org/10.1007/s13042-021-01440-3"
+            }
+          },
+          {
+            "id": 2,
+            "authors": "L. Tian, Z. Wang*, W. Liu, Y. Cheng, F. E. Alsaadi and X. Liu",
+            "title": "A new GAN-based approach to data augmentation and image segmentation for crack detection in thermal imaging tests",
+            "journal": {
+              "name": "Cognitive Computation",
+              "url": "https://www.springer.com/journal/12559"
+            },
+            "details": "13(5), 1263-1273(2021)",
+            "issn": "1866-9956",
+            "doi": {
+              "text": "https://doi.org/10.1007/s12559-021-09922-w",
+              "url": "https://doi.org/10.1007/s12559-021-09922-w"
+            }
+          },
+          {
+            "id": 3,
+            "authors": "L. Tian, Z. Wang*, W. Liu, Y. Cheng, F. E. Alsaadi and X. Liu",
+            "title": "An improved generative adversarial network with modified loss function for crack detection in electromagnetic nondestructive testing",
+            "journal": {
+              "name": "Complex & Intelligent Systems",
+              "url": "https://www.springer.com/journal/40747"
+            },
+            "details": "8(1), 467-476(2022)",
+            "issn": "2198-6053",
+            "doi": {
+              "text": "https://doi.org/10.1007/s40747-021-00477-9",
+              "url": "https://doi.org/10.1007/s40747-021-00477-9"
+            }
+          },
+          {
+            "id": 4,
+            "authors": "Y. Liang, L. Bai, L. Tian*, X. Zhang, Y. Gao",
+            "title": "Thermal Parameter Reconstruction Imaging for Interlayer Defect Detection in ECPT",
+            "journal": {
+              "name": "IEEE Transactions on Industrial Informatics",
+              "url": "https://mc.manuscriptcentral.com/tii"
+            },
+            "details": "Early Access (22 Nov,2024)",
+            "issn": "1551-3203",
+            "doi": "10.1109/TII.2024.3495784"
+          }
+        ]
+      },
+      "related_links": {
+        "title": "相关链接",
+        "links": [
+          {
+            "anchor_text": "谷歌学术主页",
+            "url": "https://scholar.google.com/citations?hl=zh-CN&user=zp7POX8AAAAJ&view_op=list_works"
+          }
+        ]
+      },
+      "academic_activities": {
+        "title": "学术活动",
+        "activities": [
+          "第十二届全国技术过程故障诊断与安全性学术会议(CAA SAFEPROCESS 2021)， 分会场主席， 出版委员会联合主席；"
+        ]
+      },
+      "courses_taught": {
+        "title": "课程教学",
+        "undergraduate": [
+          "《自动检测技术》",
+          "《高级语言程序设计（Python）》"
+        ],
+        "graduate": [
+          "《现代测试技术》"
+        ]
+      },
+      "graduate_admissions": {
+        "title": "研究生招生",
+        "link": {
+          "anchor_text": "研究生招生",
+          "url": "https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/dsgrjj/20713?yxsh=06"
+        }
+      },
+      "main_research_projects": {
+        "title": "主要科研项目",
+        "projects": [
+          {
+            "id": 1,
+            "name": "《基于多模式XXXX》",
+            "funding_amount": "100",
+            "type": "国家级",
+            "role": "主持",
+            "period": "2024-2025"
+          },
+          {
+            "id": 2,
+            "name": "《柔性涡流阵列中的远近场信息融合成像检测方法研究》",
+            "funding_amount": "23",
+            "type": "国家自然科学基金",
+            "role": "主持",
+            "period": "2020-2022"
+          },
+          {
+            "id": 3,
+            "name": "《汽车涂层厚度测量仪应用与技术开发》",
+            "funding_amount": "30",
+            "type": "技术应用",
+            "role": "主持",
+            "period": "2021-2022"
+          },
+          {
+            "id": 4,
+            "name": "《固体火箭发动机旋压筒体高效自动检测技术研究》",
+            "funding_amount": "30",
+            "type": "技术应用",
+            "role": "主持",
+            "period": "2020-2020"
+          },
+          {
+            "id": 5,
+            "name": "《基于XXX单场》",
+            "funding_amount": "265",
+            "type": "国家级",
+            "role": "2/14",
+            "period": "2022-2024"
+          },
+          {
+            "id": 6,
+            "name": "《输油气管道控制系统硬件可靠性和剩余寿命预测研究》",
+            "funding_amount": "293",
+            "role": "3/10",
+            "period": "2021-2022"
+          },
+          {
+            "id": 7,
+            "name": "《通信协议影响下受限运动建模与估计问题研究》",
+            "funding_amount": "58",
+            "type": "国家自然科学基金",
+            "role": "2/10",
+            "period": "2022-2025"
+          },
+          {
+            "id": 8,
+            "name": "《涡流XX仪》",
+            "funding_amount": "350",
+            "type": "国家级",
+            "role": "3/14",
+            "period": "2020-2022"
+          },
+          {
+            "id": 9,
+            "name": "《XX记录仪》",
+            "funding_amount": "334",
+            "type": "国家级",
+            "role": "3/16",
+            "period": "2020-2022"
+          },
+          {
+            "id": 10,
+            "name": "《多层复杂结构电磁热多参数层析成像检测方法研究》",
+            "funding_amount": "320",
+            "type": "国家自然科学基金",
+            "role": "6/10",
+            "period": "2021-2024"
+          }
+        ]
+      },
+      "authorized_patents": {
+        "title": "授权专利",
+        "patents": [
+          {
+            "id": 1,
+            "title": "一种基于涡流稳态特性的磁性金属材料厚度检测方法",
+            "patent_number": "ZL201910129231.5",
+            "date": "2020-03-24"
+          },
+          {
+            "id": 2,
+            "title": "一种通过改进GAN增强裂纹磁光图像的方法",
+            "patent_number": "ZL202011304362.1",
+            "date": "2022-03-25"
+          },
+          {
+            "id": 3,
+            "title": "一种通过改进GAN增强红外热图像的方法",
+            "patent_number": "ZL202011300158.2",
+            "date": "2022-04-19"
+          },
+          {
+            "id": 4,
+            "title": "一种基于相位特征自适应提取红外热图像缺陷的方法",
+            "patent_number": "ZL202111370343.3",
+            "date": "2023-03-10"
+          }
+        ]
+      },
+      "work_experience": {
+        "title": "工作经历",
+        "entries": [
+          {
+            "period": "2019.2-2020.2",
+            "institution": "Brunel University London",
+            "department": "Computer Science",
+            "position": "Academic Visitor"
+          }
+        ]
+      },
+      "research_directions": {
+        "title": "研究方向",
+        "directions": [
+          "电涡流及其衍生场物理建模无损检测技术",
+          "脉冲涡流无损检测技术",
+          "涡流热成像无损检测技术",
+          "磁光成像无损检测技术",
+          "人工智能算法研究，包括：无损检测+深度学习（GNN，GAN等）；深度学习理论研究，深度学习优化算法研究。"
+        ]
+      },
+      "other_contact_info": {
+        "title": "其他联系方式",
+        "postal_code": "611731",
+        "fax": null,
+        "address": "四川省成都市高新区西区西源大道2006号",
+        "office_phone": null,
+        "mobile_phone": null,
+        "email": "lulutian@uestc.edu.cn"
+      }
+    },
+    "site_chrome": {
+      "campus_addresses": [
+        {
+          "name": "清水河校区",
+          "address": "成都市高新区（西区）西源大道2006号",
+          "postal_code": "611731"
+        },
+        {
+          "name": "沙河校区",
+          "address": "成都市建设北路二段四号",
+          "postal_code": "610054"
+        }
+      ],
+      "legal_info": [
+        "蜀ICP备 05006379 号",
+        "川公网安备 51019002000280 号"
+      ],
+      "mobile_version_link": {
+        "anchor_text": "电子科技大学",
+        "url": "http://www.uestc.edu.cn/"
+      }
+    }
+  }
+}

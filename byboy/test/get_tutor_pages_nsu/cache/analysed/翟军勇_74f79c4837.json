@@ -1,0 +1,974 @@
+{
+  "meta": {
+    "tutor_name_cn": "翟军勇",
+    "request_url": "http://automation.seu.edu.cn/zjy/list.htm",
+    "declared_source_url": "http://automation.seu.edu.cn/zjy/list.htm",
+    "page_host": "automation.seu.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/983883a5e256593818f330637951c00a595b6d9c6249ddb9f9072bfeacbeb141.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "profile": {
+      "name": "翟军勇",
+      "titles": [
+        "博士",
+        "教授",
+        "博士生导师"
+      ],
+      "bio_summary": "翟军勇，博士，教授，博士生导师。2006年6月毕业于东南大学控制理论与控制工程专业，获工学博士学位。2025年入选“全球前2%顶尖科学家”榜单和“终身科学影响力排行榜”。2022年入选江苏省“333高层次人才培养工程”，2017年入选江苏高校“青蓝工程”中青年学术带头人，2014年入选江苏省“六大人才高峰”资助计划。近年来，主持国家自然科学基金4项，江苏省自然科学基金2项，教育部博士点专项基金，中国博士后基金，以及企业委托课题等项目。现为IEEE高级会员，中国人工智能学会智能空天系统专业委员会委员，中国自动化学会控制理论专业委员会随机系统控制分组委员。目前，担任本科生主干课程《自动控制原理》和研究生学位课程《线性系统理论》的教学工作。在国内外学术期刊和会议上发表论文200余篇，其中SCI收录120多篇；获国家发明专利授权11件。",
+      "affiliation": "东南大学 自动化学院"
+    },
+    "education_background": [
+      {
+        "period": "2006年6月",
+        "institution": "东南大学",
+        "major": "控制理论与控制工程",
+        "degree": "工学博士"
+      }
+    ],
+    "work_experience": [
+      {
+        "period": "2014.04-至今",
+        "institution": "东南大学",
+        "department": "自动化学院",
+        "position": "教授"
+      },
+      {
+        "period": "2009.04-2014.04",
+        "institution": "东南大学",
+        "department": "自动化学院",
+        "position": "副教授"
+      },
+      {
+        "period": "2006.06-2009.04",
+        "institution": "东南大学",
+        "department": "自动化学院",
+        "position": "讲师"
+      }
+    ],
+    "academic_appointments": [
+      "IEEE 高级会员",
+      "中国人工智能学会智能空天系统专业委员会 委员",
+      "中国自动化学会控制理论专业委员会随机系统控制分组 委员",
+      "Journal of Machines 编委",
+      "Journal of Mathematics 编委",
+      "Complex Engineering Systems 编委"
+    ],
+    "awards_and_honors": [
+      {
+        "year": "2025年",
+        "award": "入选“全球前2%顶尖科学家”榜单和“终身科学影响力排行榜”"
+      },
+      {
+        "year": "2024年",
+        "award": "指导论文获江苏省优秀博士学位论文",
+        "recipient": "舒烽"
+      },
+      {
+        "year": "2024年",
+        "award": "获陶行知教学质量管理奖教金"
+      },
+      {
+        "year": "2023年",
+        "award": "指导论文获东南大学优秀硕士学位论文",
+        "recipient": "沈英鹰"
+      },
+      {
+        "year": "2023年",
+        "award": "获陶行知教学质量管理奖教金"
+      },
+      {
+        "year": "2023年",
+        "award": "指导论文获东南大学本科优秀毕业设计",
+        "recipient": "周鹤翔"
+      },
+      {
+        "year": "2022年",
+        "award": "获陶行知教学质量管理奖教金"
+      },
+      {
+        "year": "2022年",
+        "award": "入选江苏省“333高层次人才培养工程”"
+      },
+      {
+        "year": "2021年",
+        "award": "获陶行知教学质量管理奖教金"
+      },
+      {
+        "year": "2021年",
+        "award": "指导论文获东南大学优秀硕士学位论文",
+        "recipient": "周罕琦"
+      },
+      {
+        "year": "2020年",
+        "award": "获陶行知教学质量管理奖教金"
+      },
+      {
+        "year": "2017年",
+        "award": "入选江苏高校“青蓝工程”中青年学术带头人"
+      },
+      {
+        "year": "2017年",
+        "award": "获东南大学青年授课竞赛二等奖"
+      },
+      {
+        "year": "2017年",
+        "award": "指导论文获江苏省优秀博士学位论文",
+        "recipient": "查雯婷"
+      },
+      {
+        "year": "2017年",
+        "award": "指导论文获东南大学优秀硕士学位论文",
+        "recipient": "黄大伟"
+      },
+      {
+        "year": "2016年",
+        "award": "指导论文获江苏省优秀硕士学位论文",
+        "recipient": "王智慧"
+      },
+      {
+        "year": "2016年",
+        "award": "被聘为东南大学青年特聘教授"
+      },
+      {
+        "year": "2015年",
+        "award": "获ISA Transactions最佳论文奖"
+      },
+      {
+        "year": "2014年",
+        "award": "入选江苏省“六大人才高峰”资助计划"
+      },
+      {
+        "year": "2012年",
+        "award": "入选东南大学优秀青年教师教学科研资助计划"
+      }
+    ],
+    "courses_taught": [
+      {
+        "level": "本科生主干课程",
+        "name": "自动控制原理"
+      },
+      {
+        "level": "研究生学位课程",
+        "name": "线性系统理论"
+      }
+    ],
+    "student_supervision": {
+      "recruitment_majors": [
+        "自动化",
+        "机器人工程",
+        "电气工程",
+        "测控技术",
+        "计算机",
+        "数学"
+      ],
+      "recruitment_plan": {
+        "masters_per_year": "4～5名",
+        "phds_per_year": "1～2名",
+        "postdocs": "不限"
+      },
+      "graduated_students": {
+        "phds": 10,
+        "masters": 58
+      },
+      "current_students": {
+        "phds": 6,
+        "masters": 16
+      },
+      "phd_placement": [
+        "国内高校",
+        "科研院所"
+      ],
+      "master_placement": [
+        "华为",
+        "网易",
+        "中兴",
+        "阿里",
+        "海康威视",
+        "中国电信",
+        "中国移动",
+        "招商银行",
+        "南京银行",
+        "华泰证券",
+        "事业单位",
+        "公务员"
+      ]
+    },
+    "research_interests": [
+      "图像处理与模式识别",
+      "机器人感知与控制",
+      "非线性系统分析与综合"
+    ],
+    "research_projects": [
+      {
+        "id": 26,
+        "type": "国家自然科学基金面上项目",
+        "title": "不确定非线性系统的事件触发控制研究",
+        "grant_number": "62373096",
+        "period": "2024.01-2027.12",
+        "role": "项目负责人"
+      },
+      {
+        "id": 25,
+        "type": "企业委托项目",
+        "title": "AI数智应用事件二次识别算法开发",
+        "period": "2025.04-2026.04",
+        "role": "项目负责人"
+      },
+      {
+        "id": 24,
+        "type": "企业委托项目",
+        "title": "工业无人车协同电力系统建模与控制",
+        "period": "2025.06-2025.12",
+        "role": "项目负责人"
+      },
+      {
+        "id": 23,
+        "type": "企业委托项目",
+        "title": "公路高清视频云端技术应用研究",
+        "period": "2024.09-2024.12",
+        "role": "项目负责人",
+        "status": "已结题"
+      },
+      {
+        "id": 22,
+        "type": "企业委托项目",
+        "title": "数字孪生雷视融合算法研究",
+        "period": "2024.07-2024.11",
+        "role": "项目负责人",
+        "status": "已结题"
+      },
+      {
+        "id": 21,
+        "type": "企业委托项目",
+        "title": "高速公路建养全生命周期数字化专项",
+        "period": "2024.01-2024.06",
+        "role": "项目负责人",
+        "status": "已结题"
+      },
+      {
+        "id": 20,
+        "type": "企业委托项目",
+        "title": "AI平方视频智能分析平台业务事件优化研究",
+        "period": "2023.07-2023.11",
+        "role": "项目负责人",
+        "status": "已结题"
+      },
+      {
+        "id": 19,
+        "type": "企业委托项目",
+        "title": "高速公路异常事件视频检测算法研究",
+        "period": "2022.12-2023.04",
+        "role": "项目负责人",
+        "status": "已结题"
+      },
+      {
+        "id": 18,
+        "type": "江苏省“333高层次人才培养工程”",
+        "period": "2022.01-2026.12",
+        "role": "项目负责人"
+      },
+      {
+        "id": 17,
+        "type": "企业委托项目",
+        "title": "低码流视频综合环境下车流量检测算法研究",
+        "period": "2022.01-2022.04",
+        "role": "项目负责人",
+        "status": "已结题"
+      },
+      {
+        "id": 16,
+        "type": "江苏省自然科学基金面上项目",
+        "title": "工业机器人系统自适应滑模控制研究",
+        "grant_number": "BK20211162",
+        "period": "2021.07-2024.06",
+        "role": "项目负责人",
+        "status": "已结题"
+      },
+      {
+        "id": 15,
+        "type": "国家自然科学基金面上项目",
+        "title": "非线性切换系统的输出反馈控制",
+        "grant_number": "61873061",
+        "period": "2019.01-2022.12",
+        "role": "项目负责人",
+        "status": "已结题"
+      },
+      {
+        "id": 14,
+        "type": "企业委托项目",
+        "title": "车辆前脸特征识别算法研究",
+        "period": "2020.11-2021.04",
+        "role": "项目负责人",
+        "status": "已结题"
+      },
+      {
+        "id": 13,
+        "type": "企业委托项目",
+        "title": "果品分拣机械臂研发",
+        "period": "2019.08-2020.08",
+        "role": "项目负责人",
+        "status": "已结题"
+      },
+      {
+        "id": 12,
+        "type": "江苏高校“青蓝工程”中青年学术带头人",
+        "period": "2018.01-2020.12",
+        "role": "项目负责人",
+        "status": "已结题"
+      },
+      {
+        "id": 11,
+        "type": "国家自然科学基金面上项目",
+        "title": "随机非线性系统镇定、跟踪及采样控制",
+        "grant_number": "61473082",
+        "period": "2015.01-2018.12",
+        "role": "项目负责人",
+        "status": "已结题"
+      },
+      {
+        "id": 10,
+        "type": "江苏省六大人才高峰资助计划(第11批)",
+        "period": "2015.01-2017.12",
+        "role": "项目负责人",
+        "status": "已结题"
+      },
+      {
+        "id": 9,
+        "type": "企业委托项目",
+        "title": "机车空气制动安全监测系统研发",
+        "period": "2015.07-2016.06",
+        "role": "项目负责人",
+        "status": "已结题"
+      },
+      {
+        "id": 8,
+        "type": "东南大学优秀青年教师教学科研资助计划",
+        "period": "2013.01-2015.12",
+        "role": "项目负责人",
+        "status": "已结题"
+      },
+      {
+        "id": 7,
+        "type": "国家自然科学基金青年项目",
+        "title": "不确定非线性系统的鲁棒H∞控制与输出反馈控制",
+        "grant_number": "61104068",
+        "period": "2012.01-2014.12",
+        "role": "项目负责人",
+        "status": "已结题"
+      },
+      {
+        "id": 6,
+        "type": "广东省部产学研项目",
+        "title": "18斗智能电脑双开门组合秤的关键技术开发及产业化",
+        "period": "2012.01-2013.12",
+        "role": "第三",
+        "status": "已结题"
+      },
+      {
+        "id": 5,
+        "type": "中国博士后基金",
+        "title": "几类不确定非线性系统的输出反馈控制设计",
+        "grant_number": "2012M511176",
+        "period": "2012.06-2013.12",
+        "role": "项目负责人",
+        "status": "已结题"
+      },
+      {
+        "id": 4,
+        "type": "江苏省自然科学基金面上项目",
+        "title": "非线性系统的多模型建模、分析与控制",
+        "grant_number": "BK2010200",
+        "period": "2010.07-2013.07",
+        "role": "项目负责人",
+        "status": "已结题"
+      },
+      {
+        "id": 3,
+        "type": "教育部高校博士点基金",
+        "title": "复杂系统的混杂动态建模与鲁棒切换控制",
+        "grant_number": "20090092120027",
+        "period": "2010.01-2012.12",
+        "role": "项目负责人",
+        "status": "已结题"
+      },
+      {
+        "id": 2,
+        "type": "国家自然科学基金面上项目",
+        "title": "基于多模型的切换控制系统分析与控制",
+        "grant_number": "60574006",
+        "period": "2006.01-2008.12",
+        "role": "第三",
+        "status": "已结题"
+      },
+      {
+        "id": 1,
+        "type": "企业委托项目",
+        "title": "集装箱码头岸边桥吊防揺切换控制研究",
+        "period": "2006.04-2006.09",
+        "role": "项目负责人",
+        "status": "已结题"
+      }
+    ],
+    "publications": {
+      "journal_papers": [
+        {
+          "id": 40,
+          "authors": "Meng Yang, Junyong Zhai*",
+          "title": "Estimate-based adaptive neural secure control for nonminimum-phase nonlinear systems with hybrid attacks via dynamic event-triggered scheme",
+          "journal": "IEEE Transactions on Network Science and Engineering",
+          "details": "12(2): 859-869",
+          "year": 2025
+        },
+        {
+          "id": 39,
+          "authors": "Bin Wei, Junyong Zhai*",
+          "title": "Remote state estimation under strategic dos attack policy: tackling joint constraints",
+          "journal": "IEEE Transactions on Information Forensics and Security",
+          "details": "20(1): 6252-6262",
+          "year": 2025
+        },
+        {
+          "id": 38,
+          "authors": "Meng Yang, Junyong Zhai*",
+          "title": "Output-based dual dynamic periodic event-triggered control for nonlinear interconnected cyber-physical systems under deception attacks",
+          "journal": "International Journal of Robust and Nonlinear Control",
+          "details": "35(8): 3083-3093",
+          "year": 2025
+        },
+        {
+          "id": 37,
+          "authors": "Bin Wei, Junyong Zhai*, Engang Tian",
+          "title": "Quasi-bipartite consensus control of cooperation-competition multiagent systems: when privacy preservation meets energy harvesting protocols",
+          "journal": "IEEE Transactions on Systems, Man, and Cybernetics: Systems",
+          "details": "54(12): 7697-7709",
+          "year": 2024
+        },
+        {
+          "id": 36,
+          "authors": "Zeyu Li, Junyong Zhai*",
+          "title": "Event-triggered-based sliding mode asymptotic tracking control of robotic manipulators",
+          "journal": "IEEE Transactions on Circuits and Systems II: Express Briefs",
+          "details": "71(3): 1266-1270",
+          "year": 2024
+        },
+        {
+          "id": 35,
+          "authors": "Meng Yang, Junyong Zhai*",
+          "title": "Predictor-based decentralized event-triggered secure control for nonlinear cyber-physical systems under replay attacks and time delay",
+          "journal": "IEEE Transactions on Control of Network Systems",
+          "details": "11(1): 150-160",
+          "year": 2024
+        },
+        {
+          "id": 34,
+          "authors": "Ce Liu, Junyong Zhai*",
+          "title": "Adaptive event‐triggered output‐feedback control for p‐normal stochastic nonlinear systems with uncertain output function and time-varying delays",
+          "journal": "International Journal of Robust and Nonlinear Control",
+          "details": "34(9): 5791-5812",
+          "year": 2024
+        },
+        {
+          "id": 33,
+          "authors": "Feng Shu, Junyong Zhai*",
+          "title": "Observer-based global event-triggered control for a class of switched nonlinear systems",
+          "journal": "IEEE Transactions on Systems, Man, and Cybernetics: Systems",
+          "details": "53(9): 5505-5515",
+          "year": 2023
+        },
+        {
+          "id": 32,
+          "authors": "Feng Shu, Junyong Zhai*",
+          "title": "Event-triggered prescribed-time tracking control for nonlinear systems with asynchronous switching",
+          "journal": "IEEE Transactions on Circuits and Systems I: Regular Papers",
+          "details": "70(10): 4159-4168",
+          "year": 2023
+        },
+        {
+          "id": 31,
+          "authors": "Junyong Zhai*",
+          "title": "Adaptive finite-time control for a class of p-normal nonlinear systems",
+          "journal": "IEEE Transactions on Circuits and Systems II: Express Briefs",
+          "details": "70(2): 705-709",
+          "year": 2023
+        },
+        {
+          "id": 30,
+          "authors": "Feng Shu, Junyong Zhai*",
+          "title": "Adaptive event-triggered control for switched p-normal nonlinear systems via output feedback",
+          "journal": "IEEE Transactions on Cybernetics",
+          "details": "52(7): 7060-7068",
+          "year": 2022
+        },
+        {
+          "id": 29,
+          "authors": "Junyong Zhai*, Ce Liu",
+          "title": "Global dynamic output feedback stabilization for a class of high-order nonlinear systems",
+          "journal": "International Journal of Robust and Nonlinear Control",
+          "details": "32(3): 1828-1843",
+          "year": 2022
+        },
+        {
+          "id": 28,
+          "authors": "Meng Yang, Junyong Zhai*",
+          "title": "Observer-based switching-like event-triggered control of nonlinear networked systems against DoS attacks",
+          "journal": "IEEE Transactions on Control of Network Systems",
+          "details": "9(3): 1375-1384",
+          "year": 2022
+        },
+        {
+          "id": 27,
+          "authors": "Zeyu Li, Junyong Zhai*",
+          "title": "Super-twisting sliding mode trajectory tracking adaptive control of wheeled mobile robots with disturbance observer",
+          "journal": "International Journal of Robust and Nonlinear Control",
+          "details": "32(18): 9869-9881",
+          "year": 2022
+        },
+        {
+          "id": 26,
+          "authors": "Junyong Zhai*, Zeyu Li",
+          "title": "Fast-exponential sliding mode control of robotic manipulator with super-twisting method",
+          "journal": "IEEE Transactions on Circuits and Systems II: Express Briefs",
+          "details": "69(2): 489-493",
+          "year": 2022
+        },
+        {
+          "id": 25,
+          "authors": "Feng Shu, Junyong Zhai*",
+          "title": "Global event-triggered output feedback stabilization for a class of nonlinear time-delay systems",
+          "journal": "IEEE Transactions on Circuits and Systems I: Regular Papers",
+          "details": "68(10): 4371-4380",
+          "year": 2021
+        },
+        {
+          "id": 24,
+          "authors": "Feng Shu, Junyong Zhai*",
+          "title": "Dynamic event-triggered output feedback control for a class of nonlinear systems with time-varying delays",
+          "journal": "Information Sciences",
+          "details": "569: 205-216",
+          "year": 2021
+        },
+        {
+          "id": 23,
+          "authors": "Yingying Shen, Junyong Zhai*",
+          "title": "Global dynamic output feedback for high-order nonlinear systems with uncertain output function",
+          "journal": "Nonlinear Dynamics",
+          "details": "104: 2389-2409",
+          "year": 2021
+        },
+        {
+          "id": 22,
+          "authors": "Feng Shu, Junyong Zhai*",
+          "title": "Adaptive output feedback stabilization for switched p-normal nonlinear systems with unknown homogeneous growth rate",
+          "journal": "Nonlinear Analysis: Hybrid Systems",
+          "details": "39: 100985",
+          "year": 2021
+        },
+        {
+          "id": 21,
+          "authors": "Zeyu Li, Junyong Zhai*, H. Karimi",
+          "title": "Adaptive finite-time super-twisting sliding mode control for robotic manipulators with control backlash",
+          "journal": "International Journal of Robust and Nonlinear Control",
+          "details": "31(17): 8537-8550",
+          "year": 2021
+        },
+        {
+          "id": 20,
+          "authors": "Feng Shu, Junyong Zhai*",
+          "title": "Dynamic event-triggered tracking control for a class of p-normal nonlinear systems",
+          "journal": "IEEE Transactions on Circuits and Systems I: Regular Papers",
+          "details": "68(2): 808-817",
+          "year": 2021
+        },
+        {
+          "id": 19,
+          "authors": "Junyong Zhai*, Gui Xu",
+          "title": "A novel non-singular terminal sliding mode trajectory tracking control for robotic manipulators",
+          "journal": "IEEE Transactions on Circuits and Systems II: Express Briefs",
+          "details": "68(1): 391-395",
+          "year": 2021
+        },
+        {
+          "id": 18,
+          "authors": "Junyong Zhai*, Feng Shu, H. Karimi",
+          "title": "Global output feedback control for a class of uncertain nonlinear systems using dynamic gain method",
+          "journal": "International Journal of Robust and Nonlinear Control",
+          "details": "30(17): 7690-7705",
+          "year": 2020
+        },
+        {
+          "id": 17,
+          "authors": "Junyong Zhai*",
+          "title": "Adaptive control for nonlinear systems with uncertain output function and unknown homogenous growth rate",
+          "journal": "IEEE Transactions on Circuits and Systems II: Express Briefs",
+          "details": "67(10): 1974-1978",
+          "year": 2020
+        },
+        {
+          "id": 16,
+          "authors": "Feng Shu, Junyong Zhai*",
+          "title": "Event-triggered practical finite-time output feedback stabilisation for switched non-linear time-delay systems",
+          "journal": "IET Control Theory and Applications",
+          "details": "14(6): 824-833",
+          "year": 2020
+        },
+        {
+          "id": 15,
+          "authors": "Yan Jiang, Junyong Zhai*",
+          "title": "Global finite-time stabilization for a class of high-order switched nonlinear systems via sampled-data control",
+          "journal": "International Journal of Robust and Nonlinear Control",
+          "details": "30(1): 302-320",
+          "year": 2020
+        },
+        {
+          "id": 14,
+          "authors": "Junyong Zhai*, H. Karimi",
+          "title": "Global output feedback control for a class of nonlinear systems with unknown homogenous growth condition",
+          "journal": "International Journal of Robust and Nonlinear Control",
+          "details": "29(7): 2082-2095",
+          "year": 2019
+        },
+        {
+          "id": 13,
+          "authors": "Zhibao Song, Junyong Zhai*",
+          "title": "Global finite-time stabilization for switched stochastic nonlinear systems via output feedback",
+          "journal": "Journal of the Franklin Institute",
+          "details": "356(3): 1379-1395",
+          "year": 2019
+        },
+        {
+          "id": 12,
+          "authors": "Junyong Zhai*",
+          "title": "Dynamic output-feedback control for nonlinear time-delay systems and applications to chemical reactor systems",
+          "journal": "IEEE Transactions on Circuits and Systems II: Express Briefs",
+          "details": "66(11): 1845-1849",
+          "year": 2019
+        },
+        {
+          "id": 11,
+          "authors": "Haibo Du*, Junyong Zhai, Michael Z.Q. Chen, Wenwu Zhu",
+          "title": "Robustness analysis of a continuous higher order finite-time control system under sampled-data control",
+          "journal": "IEEE Transactions on Automatic Control",
+          "details": "64(6): 2488-2494",
+          "year": 2019
+        },
+        {
+          "id": 10,
+          "authors": "Zhibao Song, Junyong Zhai*",
+          "title": "Practical output tracking control for switched nonlinear systems: A dynamic gain based approach",
+          "journal": "Nonlinear Analysis: Hybrid Systems",
+          "details": "30: 147-162",
+          "year": 2018
+        },
+        {
+          "id": 9,
+          "authors": "Zhibao Song, Junyong Zhai*",
+          "title": "Finite-time adaptive control for a class of switched uncertain nonlinear systems",
+          "journal": "Journal of the Franklin Institute",
+          "details": "354(12): 4637-4655",
+          "year": 2017
+        },
+        {
+          "id": 8,
+          "authors": "Wenting Zha, Chunjiang Qian*, Junyong Zhai, Shumin Fei",
+          "title": "Robust control for a class of nonlinear systems with unknown measurement drifts",
+          "journal": "Automatica",
+          "details": "71: 33-37",
+          "year": 2016
+        },
+        {
+          "id": 7,
+          "authors": "Junyong Zhai*, Bin Wang, Shumin Fei",
+          "title": "Tracking control for switched nonlinear systems with multiple time-varying delays",
+          "journal": "Nonlinear Analysis: Hybrid Systems",
+          "details": "17: 44-55",
+          "year": 2015
+        },
+        {
+          "id": 6,
+          "authors": "Wenting Zha, Junyong Zhai*, Shumin Fei",
+          "title": "Output feedback control for a class of stochastic high-order nonlinear systems with time-varying delays",
+          "journal": "International Journal of Robust and Nonlinear Control",
+          "details": "24(16): 2243-2260",
+          "year": 2014
+        },
+        {
+          "id": 5,
+          "authors": "Junyong Zhai*, Haibo Du",
+          "title": "Global output feedback stabilisation for a class of upper triangular stochastic nonlinear systems",
+          "journal": "International Journal of Control",
+          "details": "87(10): 2106-2117",
+          "year": 2014
+        },
+        {
+          "id": 4,
+          "authors": "Junyong Zhai*",
+          "title": "Decentralised output-feedback control for a class of stochastic non-linear systems using homogeneous domination approach",
+          "journal": "IET Control Theory and Applications",
+          "details": "7(8): 1098-1109",
+          "year": 2013
+        },
+        {
+          "id": 3,
+          "authors": "Junyong Zhai*, Weiqing Ai, Shumin Fei",
+          "title": "Global output feedback stabilisation for a class of uncertain non-linear systems",
+          "journal": "IET Control Theory and Applications",
+          "details": "7(2): 305-313",
+          "year": 2013
+        },
+        {
+          "id": 2,
+          "authors": "Junyong Zhai, Chunjiang Qian*",
+          "title": "Global control of nonlinear systems with uncertain output function using homogeneous domination approach",
+          "journal": "International Journal of Robust and Nonlinear Control",
+          "details": "22(14): 1543-1561",
+          "year": 2012
+        },
+        {
+          "id": 1,
+          "authors": "Junyong Zhai*, Shumin Fei",
+          "title": "Global practical tracking control for a class of uncertain nonlinear systems",
+          "journal": "IET Control Theory and Applications",
+          "details": "5(11): 1343-1351",
+          "year": 2011
+        }
+      ],
+      "image_processing_and_pattern_recognition_papers": [
+        {
+          "id": 16,
+          "authors": "Weiya Ling, Weifeng Yin, Junyong Zhai*",
+          "title": "Improvement of small object detection for road vehicles based on DINO",
+          "journal": "Proceedings of 2024 Chinese Intelligent Systems",
+          "details": "pp. 253-261",
+          "year": 2024
+        },
+        {
+          "id": 15,
+          "authors": "Zhiwei Yan, Weifeng Yin, Junyong Zhai*",
+          "title": "Highway anomaly detection based on deep learning",
+          "journal": "Proceedings of 2024 Chinese Intelligent Systems",
+          "details": "pp. 327-336",
+          "year": 2024
+        },
+        {
+          "id": 14,
+          "authors": "Xinyang Zhang, Junyong Zhai*",
+          "title": "Real-time detection of domestic waste based on deep learning",
+          "journal": "Proceedings of 2024 Chinese Intelligent Systems",
+          "details": "pp. 462-470",
+          "year": 2024
+        },
+        {
+          "id": 13,
+          "authors": "Mohammed Shaker Abdulatef, Junyong Zhai*",
+          "title": "GL-YOLO: pedestrian detection algorithm for small objects in long distances",
+          "journal": "Proceedings of 2024 Chinese Intelligent Systems",
+          "details": "pp. 318-336",
+          "year": 2024
+        },
+        {
+          "id": 12,
+          "authors": "Hengwei Liu, Weifeng Yin, Junyong Zhai*",
+          "title": "Highway vehicle object detection system based on RepViT and YOLOv8",
+          "journal": "Proceedings of 2024 Chinese Intelligent Systems",
+          "details": "pp. 131-139",
+          "year": 2024
+        },
+        {
+          "id": 11,
+          "authors": "Ziyan Li, Junyong Zhai*",
+          "title": "Robotic arm grasping based on deep reinforcement learning",
+          "journal": "Proceedings of 2023 Chinese Intelligent Systems",
+          "details": "pp. 37-46",
+          "year": 2023
+        },
+        {
+          "id": 10,
+          "authors": "Yubin Wang, Junyong Zhai*",
+          "title": "Highway abandoned object detection based on foreground extraction",
+          "journal": "Proceedings of 2023 Chinese Intelligent Systems",
+          "details": "pp. 367-376",
+          "year": 2023
+        },
+        {
+          "id": 9,
+          "authors": "Haichao Sun, Junyong Zhai*",
+          "title": "Nighttime vehicle object detection based on improved YOLOv7",
+          "journal": "Proceedings of 2023 Chinese Intelligent Systems",
+          "details": "pp. 667-676",
+          "year": 2023
+        },
+        {
+          "id": 8,
+          "authors": "Zijian Lin, Junyong Zhai*",
+          "title": "DETR with recursive gated convolution encoder",
+          "journal": "Proceedings of 2023 Chinese Intelligent Systems",
+          "details": "pp. 785-794",
+          "year": 2023
+        },
+        {
+          "id": 7,
+          "authors": "Wei Dai, Junyong Zhai*",
+          "title": "Fetal head circumference detection based on dlink-net model",
+          "journal": "Proceedings of 2023 Chinese Intelligent Systems",
+          "details": "pp. 25-34",
+          "year": 2023
+        },
+        {
+          "id": 6,
+          "authors": "Hongshen Zhao, Junyong Zhai*",
+          "title": "A cascade matching algorithm for multi-object tracking systems based on detection box scores",
+          "journal": "Proceedings of 2022 Chinese Intelligent Systems",
+          "details": "pp. 854-862",
+          "year": 2022
+        },
+        {
+          "id": 5,
+          "authors": "Yusong Min, Junyong Zhai*",
+          "title": "A vehicle counting and road condition analysis system based on multiple object tracking",
+          "journal": "Proceedings of 2022 Chinese Intelligent Systems Conference",
+          "details": "pp. 435-442",
+          "year": 2022
+        },
+        {
+          "id": 4,
+          "authors": "Xingyan Xia, Junyong Zhai*",
+          "title": "Study on small target detection of construction site helmet based on YOLOv5",
+          "journal": "Proceedings of 2022 Chinese Intelligent Systems Conference",
+          "details": "pp. 18-27",
+          "year": 2022
+        },
+        {
+          "id": 3,
+          "authors": "Jian Li, Junyong Zhai*",
+          "title": "A low-resolution vehicle detection solution by using super-resolution recovery",
+          "journal": "Proceedings of 2022 Chinese Intelligent Systems Conference",
+          "details": "pp. 727-735",
+          "year": 2022
+        },
+        {
+          "id": 2,
+          "authors": "Dongyang Li, Junyong Zhai*",
+          "title": "A real-time vehicle window positioning system based on Nanodet",
+          "journal": "Proceedings of 2022 Chinese Intelligent Systems Conference",
+          "details": "pp. 697-705",
+          "year": 2022
+        },
+        {
+          "id": 1,
+          "authors": "Xi Liu, Junyong Zhai*",
+          "title": "Domestic waste sorting system based on deep learning",
+          "journal": "Proceedings of 2021 Chinese Intelligent Systems Conference",
+          "details": "pp. 38-47",
+          "year": 2021
+        }
+      ]
+    },
+    "patents": [
+      {
+        "id": 11,
+        "inventors": "尹蔚峰, 翟军勇, 盛奔宇",
+        "title": "基于物联网的高速路旁落地式智能液晶大屏",
+        "date_granted": "2024-05-03",
+        "country": "中国",
+        "patent_number": "ZL202210806958.4"
+      },
+      {
+        "id": 10,
+        "inventors": "翟军勇, 李泽宇",
+        "title": "一种轮式移动机器人超螺旋滑模轨迹跟踪方法",
+        "date_granted": "2023-10-27",
+        "country": "中国",
+        "patent_number": "ZL202110864722.1"
+      },
+      {
+        "id": 9,
+        "inventors": "翟军勇, 徐贵",
+        "title": "一种基于自适应终端滑模控制器的机械臂轨迹跟踪控制方法",
+        "date_granted": "2022-06-14",
+        "country": "中国",
+        "patent_number": "ZL201910638439.X"
+      },
+      {
+        "id": 8,
+        "inventors": "翟军勇, 金菲",
+        "title": "一种基于切换SCAPSO的六自由度机械臂逆解方法",
+        "date_granted": "2022-03-15",
+        "country": "中国",
+        "patent_number": "ZL202010128000.5"
+      },
+      {
+        "id": 7,
+        "inventors": "翟军勇, 易善超",
+        "title": "一种基于高阶滑模观测器的机械臂轨迹跟踪控制方法",
+        "date_granted": "2022-02-11",
+        "country": "中国",
+        "patent_number": "ZL201910245066.X"
+      },
+      {
+        "id": 6,
+        "inventors": "翟军勇, 王帅",
+        "title": "一种基于扰动观测器的轮式移动机器人轨迹跟踪方法",
+        "date_granted": "2021-09-07",
+        "country": "中国",
+        "patent_number": "ZL201910104925.3"
+      },
+      {
+        "id": 5,
+        "inventors": "翟军勇, 宋志宝, 费树岷",
+        "title": "一种移动机器人的变结构自适应轨迹跟踪控制方法",
+        "date_granted": "2020-12-11",
+        "country": "中国",
+        "patent_number": "ZL201710425150.0"
+      },
+      {
+        "id": 4,
+        "inventors": "翟军勇, 肖大伟",
+        "title": "一种基于点镇定的轮式移动机器人目标跟踪控制方法",
+        "date_granted": "2018-10-23",
+        "country": "中国",
+        "patent_number": "ZL201610272043.4"
+      },
+      {
+        "id": 3,
+        "inventors": "翟军勇, 肖大伟",
+        "title": "一种基于视觉的轮式移动机器人快速目标跟踪方法",
+        "date_granted": "2018-07-17",
+        "country": "中国",
+        "patent_number": "ZL201510646820.2"
+      },
+      {
+        "id": 2,
+        "inventors": "翟军勇, 黄大伟, 王智慧",
+        "title": "基于快速终端滑模的轮式移动机器人轨迹跟踪方法",
+        "date_granted": "2017-09-19",
+        "country": "中国",
+        "patent_number": "ZL201510312675.4"
+      },
+      {
+        "id": 1,
+        "inventors": "翟军勇, 黄大伟, 艾伟清, 费树岷",
+        "title": "一种基于轮式移动机器人轨迹跟踪的混合控制方法",
+        "date_granted": "2017-01-25",
+        "country": "中国",
+        "patent_number": "ZL201410631147.0"
+      }
+    ],
+    "site_chrome": {
+      "source_url": "http://automation.seu.edu.cn/zjy/list.htm",
+      "images": [
+        {
+          "url": "https://automation.seu.edu.cn/zjy/list.htm",
+          "description": "Placeholder or broken image from original HTML (parsed as an image tag with source pointing to the page URL itself)"
+        },
+        {
+          "url": "https://automation.seu.edu.cn/_visitcount?siteId=338&type=2&columnId=50555",
+          "description": "Visit counter image"
+        }
+      ]
+    }
+  }
+}

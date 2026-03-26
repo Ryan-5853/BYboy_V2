@@ -1,0 +1,140 @@
+{
+  "meta": {
+    "tutor_name_cn": "霍鑫",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1157/7226.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1157/7226.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/781871ab7ba92b950e832b2f1b439b11dec106cbf7825cc7645ee1fa6839f301.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "query_key_name": "霍鑫",
+    "source_url": "https://www.auto.uestc.edu.cn/info/1157/7226.htm",
+    "site_chrome": {
+      "source_capture_note": "抓取来源：https://www.auto.uestc.edu.cn/info/1157/7226.htm",
+      "page_context_header": "师资队伍",
+      "breadcrumbs": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "H",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/H.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "side_navigation_menu": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ],
+      "content_main_title": "师资队伍"
+    },
+    "personal_info": {
+      "name": "霍鑫",
+      "image_url": "https://www.auto.uestc.edu.cn/__local/6/84/65/DB50682706E10CC3B859BFB49AA_1B95594D_3F7F.jpg",
+      "highest_degree": "博士",
+      "contact_phone": null,
+      "current_title_positions": [
+        "博士后"
+      ],
+      "email": "aixiaoxin09@gmail.com",
+      "is_supervisor": null,
+      "personal_homepage_url": null,
+      "research_team": "自动化前沿与交叉中心"
+    },
+    "research": {
+      "main_research_directions": [
+        "多智能体博弈",
+        "任务规划",
+        "智能决策"
+      ],
+      "research_achievements_overview": "针对智能系统决策与控制的研究成果。近五年在国际权威期刊发表论文17余篇，第一作者及通讯作者SCI论文8篇（JCR一区8篇，包括：控制领域顶级期刊IEEE TC. 2篇、IEEE TASE. 1篇、IEEE TNSE. 1篇、IEEE TVT. 1篇），其中SCI他引300余次。"
+    },
+    "academic_titles_and_concurrent_posts": [
+      {
+        "role": "审稿人",
+        "organization": "IEEE Transactions on Cybernetics",
+        "description": "任控制领域顶级期刊《IEEE Transactions on Cybernetics》审稿人"
+      },
+      {
+        "role": "审稿人",
+        "organization": "IEEE Transactions on Systems, Man, and Cybernetics: Systems",
+        "description": "任控制领域顶级期刊《IEEE Transactions on Systems, Man, and Cybernetics: Systems》审稿人"
+      }
+    ],
+    "experience": {
+      "work_history": [
+        {
+          "start_date": "2024-11",
+          "end_date": "至今",
+          "country": "中国",
+          "institution": "电子科技大学",
+          "college_department": "自动化工程学院",
+          "position": "博士后"
+        }
+      ],
+      "education_history": [
+        {
+          "start_date": "2020-09",
+          "end_date": "2024-10",
+          "country": "中国",
+          "institution": "同济大学",
+          "college_department": "电子与信息工程学院",
+          "degree": "博士"
+        },
+        {
+          "start_date": "2017-09",
+          "end_date": "2020-06",
+          "country": "中国",
+          "institution": "渤海大学",
+          "college_department": "工学院",
+          "degree": "硕士"
+        },
+        {
+          "start_date": "2013-09",
+          "end_date": "2017-06",
+          "country": "中国",
+          "institution": "渤海大学",
+          "college_department": "工学院",
+          "degree": "学士"
+        }
+      ]
+    },
+    "teaching_and_admission": {
+      "courses_taught": null,
+      "admission_information": {
+        "masters_admission": null,
+        "phd_admission": null
+      }
+    }
+  }
+}

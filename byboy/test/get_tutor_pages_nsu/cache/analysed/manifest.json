@@ -1,0 +1,115 @@
+{
+  "workspace_dir": "byboy/test/get_tutor_pages_nsu",
+  "state_path": "byboy/test/get_tutor_pages_nsu/cache/state.json",
+  "analysed_dir": "byboy/test/get_tutor_pages_nsu/cache/analysed",
+  "success_count": 10,
+  "skipped_count": 11,
+  "success_items": [
+    {
+      "url": "http://automation.seu.edu.cn/hj/list.htm",
+      "tutor_name_cn": "韩杰",
+      "cleaned_markdown": "byboy/test/get_tutor_pages_nsu/cache/cleaned/00042_http_automation_seu_edu_cn_hj_list_htm_cleaned.md",
+      "analysed_json": "byboy/test/get_tutor_pages_nsu/cache/analysed/韩杰_9c47b4d8a6.json"
+    },
+    {
+      "url": "http://automation.seu.edu.cn/lj1/list.htm",
+      "tutor_name_cn": "刘剑",
+      "cleaned_markdown": "byboy/test/get_tutor_pages_nsu/cache/cleaned/00085_http_automation_seu_edu_cn_lj1_list_htm_cleaned.md",
+      "analysed_json": "byboy/test/get_tutor_pages_nsu/cache/analysed/刘剑_e86e30f354.json"
+    },
+    {
+      "url": "http://automation.seu.edu.cn/gj/list.htm",
+      "tutor_name_cn": "葛健",
+      "cleaned_markdown": "byboy/test/get_tutor_pages_nsu/cache/cleaned/00009_http_automation_seu_edu_cn_gj_list_htm_cleaned.md",
+      "analysed_json": "byboy/test/get_tutor_pages_nsu/cache/analysed/葛健_978866d677.json"
+    },
+    {
+      "url": "http://automation.seu.edu.cn/lq3/list.htm",
+      "tutor_name_cn": "李奇",
+      "cleaned_markdown": "byboy/test/get_tutor_pages_nsu/cache/cleaned/00097_http_automation_seu_edu_cn_lq3_list_htm_cleaned.md",
+      "analysed_json": "byboy/test/get_tutor_pages_nsu/cache/analysed/李奇_d1b875215e.json"
+    },
+    {
+      "url": "http://automation.seu.edu.cn/zgb/list.htm",
+      "tutor_name_cn": "章国宝",
+      "cleaned_markdown": "byboy/test/get_tutor_pages_nsu/cache/cleaned/00102_http_automation_seu_edu_cn_zgb_list_htm_cleaned.md",
+      "analysed_json": "byboy/test/get_tutor_pages_nsu/cache/analysed/章国宝_3be5424094.json"
+    },
+    {
+      "url": "http://automation.seu.edu.cn/xl/list.htm",
+      "tutor_name_cn": "薛磊",
+      "cleaned_markdown": "byboy/test/get_tutor_pages_nsu/cache/cleaned/00056_http_automation_seu_edu_cn_xl_list_htm_cleaned.md",
+      "analysed_json": "byboy/test/get_tutor_pages_nsu/cache/analysed/薛磊_520f6274dd.json"
+    },
+    {
+      "url": "https://jinxiazhang99.github.io/",
+      "tutor_name_cn": "张金霞",
+      "cleaned_markdown": "byboy/test/get_tutor_pages_nsu/cache/cleaned/00131_https_jinxiazhang99_github_io_cleaned.md",
+      "analysed_json": "byboy/test/get_tutor_pages_nsu/cache/analysed/张金霞_7e63775823.json"
+    },
+    {
+      "url": "https://www.ln.edu.hk/chs/po/people/professor-xin-yao",
+      "tutor_name_cn": "姚新",
+      "cleaned_markdown": "byboy/test/get_tutor_pages_nsu/cache/cleaned/00168_https_www_ln_edu_hk_chs_po_people_professor_xin_yao_cleaned.md",
+      "analysed_json": "byboy/test/get_tutor_pages_nsu/cache/analysed/姚新_66915630f9.json"
+    },
+    {
+      "url": "https://orcid.org/0000-0002-9779-4577",
+      "tutor_name_cn": "赵雨辰",
+      "cleaned_markdown": "byboy/test/get_tutor_pages_nsu/cache/cleaned/00128_https_orcid_org_0000_0002_9779_4577_cleaned.md",
+      "analysed_json": "byboy/test/get_tutor_pages_nsu/cache/analysed/赵雨辰_498a459192.json"
+    },
+    {
+      "url": "https://dblp.org/pid/99/3602.html",
+      "tutor_name_cn": "杨万扣",
+      "cleaned_markdown": "byboy/test/get_tutor_pages_nsu/cache/cleaned/00126_https_dblp_org_pid_99_3602_html_cleaned.md",
+      "analysed_json": "byboy/test/get_tutor_pages_nsu/cache/analysed/杨万扣_a16505624c.json"
+    }
+  ],
+  "skipped_items": [
+    {
+      "url": "http://automation.seu.edu.cn/article.asp",
+      "reason": "cannot_resolve_unique_name"
+    },
+    {
+      "url": "http://automation.seu.edu.cn/hw/list.htm",
+      "reason": "cannot_resolve_unique_name"
+    },
+    {
+      "url": "http://automation.seu.edu.cn/cxh2/list.htm",
+      "reason": "cannot_resolve_unique_name"
+    },
+    {
+      "url": "http://automation.seu.edu.cn/lhm/list.htm",
+      "reason": "cannot_resolve_unique_name"
+    },
+    {
+      "url": "http://automation.seu.edu.cn/lkl/list.htm",
+      "reason": "cannot_resolve_unique_name"
+    },
+    {
+      "url": "http://automation.seu.edu.cn/lsh/list.htm",
+      "reason": "cannot_resolve_unique_name"
+    },
+    {
+      "url": "http://automation.seu.edu.cn/wt/list.htm",
+      "reason": "cannot_resolve_unique_name"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/lsh/list.htm",
+      "reason": "cannot_resolve_unique_name"
+    },
+    {
+      "url": "https://leria-info.univ-angers.fr/~jinkao.hao/",
+      "reason": "cannot_resolve_unique_name"
+    },
+    {
+      "url": "https://scholar.google.com/citations",
+      "reason": "cannot_resolve_unique_name"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Kun-Qian-3",
+      "reason": "cannot_resolve_unique_name"
+    }
+  ]
+}

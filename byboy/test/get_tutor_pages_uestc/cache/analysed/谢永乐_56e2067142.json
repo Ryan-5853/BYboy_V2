@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "tutor_name_cn": "谢永乐",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1173/4319.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1173/4319.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/1c2cc9b8ea93c54edb0d148d04ebb26273bebb9fb2db022f309415b6822bc0ec.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "site_chrome": {
+      "source_url": "https://www.auto.uestc.edu.cn/info/1173/4319.htm",
+      "main_title": "师资队伍",
+      "breadcrumbs": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "X",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/X.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "navigation_links": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ]
+    },
+    "personal_info": {
+      "name": "谢永乐",
+      "image": {
+        "url": "https://www.auto.uestc.edu.cn/__local/E/A5/A3/45F302A3CABE94C82344AAB9E2C_ED1C3EFD_254FC.png",
+        "alt_text": "个人照片"
+      },
+      "highest_degree": "博士",
+      "contact_phone": null,
+      "title_and_position": "教授",
+      "email": "ylxie@uestc.edu.cn",
+      "supervisor_status": "博士导师",
+      "personal_homepage": null,
+      "research_team": "电磁与声波测量团队"
+    },
+    "main_research_directions": [
+      "毫米波近场合成孔径成像技术",
+      "电磁环境监测（ESD、EMI等）技术",
+      "高维与自适应信号处理技术",
+      "高可靠电子系统理论与设计技术"
+    ],
+    "academic_titles_and_concurrent_posts": [
+      "新世纪优秀人才计划"
+    ],
+    "education_and_work_experience": [
+      {
+        "period": "2008.08-至今",
+        "institution": "电子科技大学",
+        "college_department": "自动化工程学院",
+        "position": "教授"
+      },
+      {
+        "period": "2003.06-2008.07",
+        "institution": "电子科技大学",
+        "college_department": "自动化工程学院",
+        "position": "副教授"
+      },
+      {
+        "period": "1995.04-2003.05",
+        "institution": "四川联合大学",
+        "college_department": "制造科学与工程学院",
+        "position": "助教/讲师"
+      }
+    ],
+    "scientific_research": {
+      "summary": "长期从事电路与电子系统测试与可测性设计、电子系统故障诊断与预测、可信电子系统方面的研究。主持国家计划、国家自然科学基金、省科技攻关项目和其他部级项目近20项，发表学术论文近30篇，出版教材1部。讲授信号与系统等课程2门，培养硕士、博士研究生在读14名，离校50名。",
+      "projects_supervised": {
+        "category": "国家计划、国家自然科学基金、省科技攻关项目和其他部级项目",
+        "count": "近20项"
+      },
+      "academic_papers_published": "近30篇",
+      "textbooks_published": "1部",
+      "courses_taught_count": "2门",
+      "students_supervised_details": {
+        "masters_phds_currently_enrolled": 14,
+        "graduated_total": 50
+      }
+    },
+    "courses_taught": {
+      "undergraduate_courses": [
+        "人类文明经典赏析",
+        "魅力自动化：入门与创新"
+      ],
+      "postgraduate_courses": [
+        "集成电路诊断测试与可测性设计技术",
+        "中国古代文史哲学选讲",
+        "学科前沿知识专题讲座"
+      ]
+    },
+    "admission_majors": {
+      "masters": [
+        "080400仪器科学与技术",
+        "085400电子信息"
+      ],
+      "doctors": [
+        "080400仪器科学与技术",
+        "085400电子信息",
+        "086100交通运输"
+      ]
+    }
+  }
+}

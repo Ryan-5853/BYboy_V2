@@ -1,0 +1,345 @@
+{
+  "meta": {
+    "tutor_name_cn": "陈从颜",
+    "request_url": "http://automation.seu.edu.cn/ccy/list.htm",
+    "declared_source_url": "http://automation.seu.edu.cn/ccy/list.htm",
+    "page_host": "automation.seu.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/0d42b63ce930726e70b1d6beddd1a08cb85df46950625e73457ebe7da278621a.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "professor_info": {
+      "name": "陈从颜",
+      "gender": "男",
+      "birth_date": "1969.10",
+      "titles": [
+        "博士",
+        "教授",
+        "博士生导师",
+        "硕士生导师"
+      ],
+      "affiliation_summary": "东南大学自动化学院教授、博士生导师",
+      "contact": {
+        "email": "chency@seu.edu.cn",
+        "location": null,
+        "phone": null,
+        "personal_homepage": null
+      },
+      "biography_summary": "陈从颜，男，1969.10出生，东南大学自动化学院教授、博士生导师。1987年至1992年就读于清华大学，毕业后在马钢公司工作，1996年至2002年在东南大学自动控制系攻读研究生，先后获得硕士学位和博士学位，博士期间曾获得南瑞继保—东南大学优秀论文基金资助。2002.4年留校工作。近年来，先后有几十篇论文发表在包括美国核物理学报、先进机器人、控制理论与应用、电路与系统学报、中国激光等国内外核心刊物上，其中被SCI、EI收录50余篇。已获发明专利授权或受理30余项。曾以国家留学基金委访问学者身份赴意大利核物理研究院从事空间探测器研发与数据实时处理方面的科学研究。目前主要从事机器视觉与智能系统、大数据分析与故障诊断、检测技术与自动化装置、先进控制理论、智能制造、信号处理等领域研究工作。",
+      "education": [
+        {
+          "period": "1987-1992",
+          "institution": "清华大学",
+          "degree": null,
+          "description": "就读"
+        },
+        {
+          "period": "1996-2002",
+          "institution": "东南大学自动控制系",
+          "degree": [
+            "硕士学位",
+            "博士学位"
+          ],
+          "description": "攻读研究生，先后获得硕士学位和博士学位"
+        }
+      ],
+      "work_experience": [
+        {
+          "period": "1992年毕业后",
+          "organization": "马钢公司",
+          "role": null,
+          "description": "在马钢公司工作"
+        },
+        {
+          "period": "2002.4年起",
+          "organization": "东南大学",
+          "role": "教师",
+          "description": "留校工作"
+        },
+        {
+          "period": null,
+          "organization": "意大利核物理研究院",
+          "role": "国家留学基金委访问学者",
+          "description": "从事空间探测器研发与数据实时处理方面的科学研究"
+        }
+      ],
+      "academic_appointments": [
+        "国家自然科学基金网评专家",
+        "江苏省等多省自然科学基金网评专家",
+        "江苏省科技成果转化评审专家",
+        "江苏省高新技术企业评审专家",
+        "多家期刊审稿人"
+      ],
+      "awards": [
+        {
+          "name": "南瑞继保—东南大学优秀论文基金资助",
+          "period": "博士期间",
+          "description": null
+        }
+      ],
+      "courses_taught": {
+        "graduate_courses": [
+          "数字信号处理"
+        ],
+        "undergraduate_courses": [
+          "信号与系统",
+          "精密机械设计基础",
+          "系统辨识与建模"
+        ]
+      },
+      "student_supervision": {
+        "summary": "已指导研究生毕业数十人。",
+        "recruitment_info": "每年招生博士1-2人、硕士3-5人，博士后1人，欢迎联系和报考。"
+      },
+      "research_interests": [
+        "机器视觉与智能系统",
+        "大数据分析与故障诊断",
+        "检测技术与自动化装置",
+        "先进控制理论",
+        "智能制造",
+        "信号处理",
+        "大数据分析与设备故障诊断"
+      ],
+      "research_projects": null,
+      "publications_summary": {
+        "papers_count_description": "几十篇论文发表在包括美国核物理学报、先进机器人、控制理论与应用、电路与系统学报、中国激光等国内外核心刊物上",
+        "indexed_papers_count": "50余篇",
+        "indexed_by": [
+          "SCI",
+          "EI"
+        ],
+        "full_list_url": null
+      },
+      "patents_summary": {
+        "invention_patents": "已获发明专利授权或受理30余项。",
+        "full_list_url": null
+      },
+      "images": [
+        {
+          "url": "https://automation.seu.edu.cn/_upload/article/images/12/af/4b2b10e246159ca6f0cf43e698e2/0791d269-ffae-4411-982b-ec953fe73395_s.jpg",
+          "description": "导师个人照片"
+        }
+      ]
+    },
+    "site_chrome": {
+      "source_url": "http://automation.seu.edu.cn/ccy/list.htm",
+      "header": {
+        "logo": {
+          "url": "https://automation.seu.edu.cn/_upload/tpl/0a/4c/2636/template2636/images/logo.png",
+          "alt_text": "返回自动化学院首页",
+          "link": "https://automation.seu.edu.cn/main.htm"
+        },
+        "global_navigation": [
+          {
+            "anchor_text": "学校主页",
+            "url": "https://www.seu.edu.cn/"
+          },
+          {
+            "anchor_text": "ENGLISH",
+            "url": "https://automation.seu.edu.cn/ccy/list.htm#"
+          }
+        ]
+      },
+      "sidebar_navigation": [
+        {
+          "category": "学院概况",
+          "links": [
+            {
+              "anchor_text": "学院简介",
+              "url": "https://automation.seu.edu.cn/24498/list.htm"
+            },
+            {
+              "anchor_text": "发展历程",
+              "url": "https://automation.seu.edu.cn/24499/list.htm"
+            },
+            {
+              "anchor_text": "组织架构",
+              "url": "https://automation.seu.edu.cn/32602/list.htm"
+            },
+            {
+              "anchor_text": "现任领导",
+              "url": "https://automation.seu.edu.cn/32603/list.htm"
+            },
+            {
+              "anchor_text": "历任领导",
+              "url": "https://automation.seu.edu.cn/32604/list.htm"
+            },
+            {
+              "anchor_text": "院庆专栏",
+              "url": "https://automation.seu.edu.cn/yq/list.htm"
+            },
+            {
+              "anchor_text": "标识系统",
+              "url": "https://automation.seu.edu.cn/bsxt/list.htm"
+            },
+            {
+              "anchor_text": "联系我们",
+              "url": "https://automation.seu.edu.cn/24500/list.htm"
+            }
+          ]
+        },
+        {
+          "category": "师资力量",
+          "links": [
+            {
+              "anchor_text": "全体教师",
+              "url": "https://automation.seu.edu.cn/32668/list.htm"
+            },
+            {
+              "anchor_text": "院士",
+              "url": "https://automation.seu.edu.cn/32669/list.htm"
+            },
+            {
+              "anchor_text": "国家级人才",
+              "url": "https://automation.seu.edu.cn/gjjrc_51587/list.htm"
+            },
+            {
+              "anchor_text": "博士生导师",
+              "url": "https://automation.seu.edu.cn/32670/list.htm"
+            },
+            {
+              "anchor_text": "硕士生导师",
+              "url": "https://automation.seu.edu.cn/32671/list.htm"
+            }
+          ]
+        },
+        {
+          "category": "科学研究",
+          "links": [
+            {
+              "anchor_text": "科研通知",
+              "url": "https://automation.seu.edu.cn/32607/list.htm"
+            },
+            {
+              "anchor_text": "学术交流",
+              "url": "https://automation.seu.edu.cn/32608/list.htm"
+            },
+            {
+              "anchor_text": "科研基地",
+              "url": "https://automation.seu.edu.cn/32609/list.htm"
+            },
+            {
+              "anchor_text": "科技成果",
+              "url": "https://automation.seu.edu.cn/32610/list.htm"
+            }
+          ]
+        },
+        {
+          "category": "人才培养",
+          "links": [
+            {
+              "anchor_text": "本科生培养",
+              "url": "https://automation.seu.edu.cn/24509/list.htm"
+            },
+            {
+              "anchor_text": "研究生培养",
+              "url": "https://automation.seu.edu.cn/24510/list.htm"
+            }
+          ]
+        },
+        {
+          "category": "党群工作",
+          "links": [
+            {
+              "anchor_text": "党务工作",
+              "url": "https://automation.seu.edu.cn/32614/list.htm"
+            },
+            {
+              "anchor_text": "党建风采",
+              "url": "https://automation.seu.edu.cn/24535/list.htm"
+            },
+            {
+              "anchor_text": "工会工作",
+              "url": "https://automation.seu.edu.cn/32616/list.htm"
+            },
+            {
+              "anchor_text": "关工委",
+              "url": "https://automation.seu.edu.cn/ggw/list.htm"
+            }
+          ]
+        },
+        {
+          "category": "学生工作",
+          "links": [
+            {
+              "anchor_text": "就业服务",
+              "url": "https://automation.seu.edu.cn/24519/list.htm"
+            },
+            {
+              "anchor_text": "通知公告",
+              "url": "https://automation.seu.edu.cn/32617/list.htm"
+            },
+            {
+              "anchor_text": "榜样力量",
+              "url": "https://automation.seu.edu.cn/24522/list.htm"
+            },
+            {
+              "anchor_text": "学工动态",
+              "url": "https://automation.seu.edu.cn/24524/list.htm"
+            }
+          ]
+        },
+        {
+          "category": "校友工作",
+          "links": [
+            {
+              "anchor_text": "校友风采",
+              "url": "https://automation.seu.edu.cn/24537/list.htm"
+            },
+            {
+              "anchor_text": "校友活动",
+              "url": "https://automation.seu.edu.cn/24538/list.htm"
+            }
+          ]
+        },
+        {
+          "category": "其他",
+          "links": [
+            {
+              "anchor_text": "人才招聘",
+              "url": "https://automation.seu.edu.cn/rczp/list.htm"
+            },
+            {
+              "anchor_text": "学术年专栏",
+              "url": "https://automation.seu.edu.cn/jysxdtl/list.htm"
+            }
+          ]
+        }
+      ],
+      "footer": {
+        "contact_info": {
+          "address": "江苏省南京市四牌楼2号中心楼 东南大学自动化学院",
+          "phone": "025-83792724",
+          "email": "jupiter@seu.edu.cn"
+        },
+        "images": [
+          {
+            "url": "https://automation.seu.edu.cn/_upload/tpl/0a/4c/2636/template2636/images/logo_s.png",
+            "description": "页脚小logo"
+          },
+          {
+            "url": "https://automation.seu.edu.cn/_upload/article/images/49/80/cc90f70945d99437aeb29c598629/b39cc810-2b19-45e6-bcb5-145efb62c5f5_s.jpg",
+            "description": null
+          },
+          {
+            "url": "https://automation.seu.edu.cn/_upload/article/images/84/ab/53097bbf440198ff1519fabe1da5/b1c7ed74-ed3e-4287-aec5-526ade294570_s.jpg",
+            "description": null
+          }
+        ],
+        "visit_counter": {
+          "image_url": "https://automation.seu.edu.cn/_visitcount?siteId=338&type=2&columnId=32758",
+          "description": "网站访问计数器"
+        }
+      },
+      "miscellaneous_images": [
+        {
+          "url": "https://automation.seu.edu.cn/ccy/list.htm",
+          "description": "页面内容中的空白图片占位符"
+        }
+      ]
+    }
+  }
+}

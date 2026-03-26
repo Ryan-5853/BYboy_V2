@@ -1,0 +1,148 @@
+{
+  "meta": {
+    "tutor_name_cn": "龙跃",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1161/4382.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1161/4382.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/9a51ee8e74c114fe8166c056c7e0319822b70dcc950cc1f7850e37881ebe9c2c.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "source_metadata": {
+      "url": "https://www.auto.uestc.edu.cn/info/1161/4382.htm"
+    },
+    "site_chrome": {
+      "section_title": "师资队伍",
+      "breadcrumbs": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "L",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/L.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "sidebar_links": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ]
+    },
+    "faculty_profile": {
+      "name": "龙跃",
+      "image": {
+        "url": "https://www.auto.uestc.edu.cn/__local/D/9F/4D/C372F38EFAD3D7E3D705055D70E_09A5EC52_74F8.jpg",
+        "alt_text": "龙跃"
+      },
+      "basic_info": {
+        "highest_degree": "博士",
+        "contact_phone": null,
+        "position_title": "副教授",
+        "email": "longyue@uestc.edu.cn",
+        "supervision_status": "硕士导师",
+        "personal_homepage": "http://faculty.uestc.edu.cn/longyue/zh_CN/index.htm",
+        "research_team": "自动化前沿与交叉中心"
+      },
+      "research_directions": [
+        "故障诊断与容错控制",
+        "无人集群智能协同与安全控制"
+      ],
+      "academic_titles_and_concurrent_posts": [
+        "四川省特聘专家",
+        "辽宁省百千万人才工程入选者",
+        "中国自动化学会TCCT物流系统智能优化与控制学组副秘书长、委员",
+        "多个权威SCI期刊审稿人"
+      ],
+      "education_and_work_experience": [
+        {
+          "period": "2020.06-至今",
+          "role": "副教授",
+          "institution": "电子科技大学"
+        },
+        {
+          "period": "2013.10-2020.05",
+          "role": "副教授",
+          "institution": "辽宁大学"
+        },
+        {
+          "period": "2017.03-2018.03",
+          "role": "博士后",
+          "institution": "岭南大学"
+        },
+        {
+          "period": "2008.09-2013.01",
+          "degree": "工学博士",
+          "institution": "东北大学"
+        }
+      ],
+      "scientific_research": {
+        "overview": "主要从事故障诊断与容错控制，网络化系统，无人集群智能协同优化与控制等方面的研究。",
+        "projects_summary": "近年来主持国家自然科学基金项目3项、省部级自然科学基金2项，主研国家自然科学基金、智能制造综合标准化项目、工业互联网创新发展工程项目及省市级科研项目多项。",
+        "publications": {
+          "description": "在领域权威期刊和会议发表学术论文50余篇",
+          "count_approx": "50+"
+        },
+        "patents": {
+          "description": "授权发明专利8项",
+          "count": 8
+        },
+        "monographs": [
+          {
+            "description": "参编Springer出版社英文专著1部",
+            "publisher": "Springer",
+            "language": "英文",
+            "type": "专著",
+            "count": 1
+          }
+        ],
+        "awards": [
+          "辽宁省自然科学学术成果奖一等奖1项",
+          "辽宁省自然科学学术成果奖二等奖1项",
+          "沈阳市自然科学学术成果奖一等奖1项",
+          "沈阳市自然科学学术成果奖二等奖1项"
+        ]
+      },
+      "courses_and_teaching_research": {
+        "undergraduate_courses": [
+          "《自动控制原理》",
+          "《控制工程基础》",
+          "《现代控制理论》",
+          "《魅力自动化》"
+        ],
+        "graduate_courses": [
+          "《线性系统理论》",
+          "《智能控制理论及应用》",
+          "《工程伦理及学术道德》"
+        ]
+      },
+      "admission_majors": {
+        "master": [
+          "081100控制科学与工程",
+          "085406控制工程"
+        ],
+        "doctor": []
+      }
+    }
+  }
+}

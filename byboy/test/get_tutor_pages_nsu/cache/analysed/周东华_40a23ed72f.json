@@ -1,0 +1,306 @@
+{
+  "meta": {
+    "tutor_name_cn": "周东华",
+    "request_url": "http://automation.seu.edu.cn/zdh/list.htm",
+    "declared_source_url": "http://automation.seu.edu.cn/zdh/list.htm",
+    "page_host": "automation.seu.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/e49eb4019de2962a39b5c99afc1eb551def341a5c49349306eb9ea52e475890b.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "query_name": "周东华",
+    "source_url": "http://automation.seu.edu.cn/zdh/list.htm",
+    "site_chrome": {
+      "header_logo": {
+        "url": "https://automation.seu.edu.cn/_upload/tpl/0a/4c/2636/template2636/images/logo.png",
+        "alt_text": "返回自动化学院首页",
+        "link": "https://automation.seu.edu.cn/main.htm"
+      },
+      "global_navigation": [
+        {
+          "anchor_text": "学校主页",
+          "url": "https://www.seu.edu.cn/"
+        },
+        {
+          "anchor_text": "ENGLISH",
+          "url": "https://automation.seu.edu.cn/zdh/list.htm#"
+        },
+        {
+          "anchor_text": "学院概况",
+          "url": "https://automation.seu.edu.cn/24451/list.htm",
+          "sub_items": [
+            {
+              "anchor_text": "学院简介",
+              "url": "https://automation.seu.edu.cn/24498/list.htm"
+            },
+            {
+              "anchor_text": "发展历程",
+              "url": "https://automation.seu.edu.cn/24499/list.htm"
+            },
+            {
+              "anchor_text": "组织架构",
+              "url": "https://automation.seu.edu.cn/32602/list.htm"
+            },
+            {
+              "anchor_text": "现任领导",
+              "url": "https://automation.seu.edu.cn/32603/list.htm"
+            },
+            {
+              "anchor_text": "历任领导",
+              "url": "https://automation.seu.edu.cn/32604/list.htm"
+            },
+            {
+              "anchor_text": "院庆专栏",
+              "url": "https://automation.seu.edu.cn/yq/list.htm"
+            },
+            {
+              "anchor_text": "标识系统",
+              "url": "https://automation.seu.edu.cn/bsxt/list.htm"
+            },
+            {
+              "anchor_text": "联系我们",
+              "url": "https://automation.seu.edu.cn/24500/list.htm"
+            }
+          ]
+        },
+        {
+          "anchor_text": "师资力量",
+          "url": "https://automation.seu.edu.cn/szdw_32667/list.htm",
+          "sub_items": [
+            {
+              "anchor_text": "全体教师",
+              "url": "https://automation.seu.edu.cn/32668/list.htm"
+            },
+            {
+              "anchor_text": "院士",
+              "url": "https://automation.seu.edu.cn/32669/list.htm"
+            },
+            {
+              "anchor_text": "国家级人才",
+              "url": "https://automation.seu.edu.cn/gjjrc_51587/list.htm"
+            },
+            {
+              "anchor_text": "博士生导师",
+              "url": "https://automation.seu.edu.cn/32670/list.htm"
+            },
+            {
+              "anchor_text": "硕士生导师",
+              "url": "https://automation.seu.edu.cn/32671/list.htm"
+            }
+          ]
+        },
+        {
+          "anchor_text": "科学研究",
+          "url": "https://automation.seu.edu.cn/kxyj/list.htm",
+          "sub_items": [
+            {
+              "anchor_text": "科研通知",
+              "url": "https://automation.seu.edu.cn/32607/list.htm"
+            },
+            {
+              "anchor_text": "学术交流",
+              "url": "https://automation.seu.edu.cn/32608/list.htm"
+            },
+            {
+              "anchor_text": "科研基地",
+              "url": "https://automation.seu.edu.cn/32609/list.htm"
+            },
+            {
+              "anchor_text": "科技成果",
+              "url": "https://automation.seu.edu.cn/32610/list.htm"
+            }
+          ]
+        },
+        {
+          "anchor_text": "人才培养",
+          "url": "https://automation.seu.edu.cn/24454/list.htm",
+          "sub_items": [
+            {
+              "anchor_text": "本科生培养",
+              "url": "https://automation.seu.edu.cn/24509/list.htm"
+            },
+            {
+              "anchor_text": "研究生培养",
+              "url": "https://automation.seu.edu.cn/24510/list.htm"
+            }
+          ]
+        },
+        {
+          "anchor_text": "党群工作",
+          "url": "https://automation.seu.edu.cn/32612/list.htm",
+          "sub_items": [
+            {
+              "anchor_text": "党务工作",
+              "url": "https://automation.seu.edu.cn/32614/list.htm"
+            },
+            {
+              "anchor_text": "党建风采",
+              "url": "https://automation.seu.edu.cn/24535/list.htm"
+            },
+            {
+              "anchor_text": "工会工作",
+              "url": "https://automation.seu.edu.cn/32616/list.htm"
+            },
+            {
+              "anchor_text": "关工委",
+              "url": "https://automation.seu.edu.cn/ggw/list.htm"
+            }
+          ]
+        },
+        {
+          "anchor_text": "学生工作",
+          "url": "https://automation.seu.edu.cn/32613/list.htm",
+          "sub_items": [
+            {
+              "anchor_text": "就业服务",
+              "url": "https://automation.seu.edu.cn/24519/list.htm"
+            },
+            {
+              "anchor_text": "通知公告",
+              "url": "https://automation.seu.edu.cn/32617/list.htm"
+            },
+            {
+              "anchor_text": "榜样力量",
+              "url": "https://automation.seu.edu.cn/24522/list.htm"
+            },
+            {
+              "anchor_text": "学工动态",
+              "url": "https://automation.seu.edu.cn/24524/list.htm"
+            }
+          ]
+        },
+        {
+          "anchor_text": "校友工作",
+          "url": "https://automation.seu.edu.cn/24458/list.htm",
+          "sub_items": [
+            {
+              "anchor_text": "校友风采",
+              "url": "https://automation.seu.edu.cn/24537/list.htm"
+            },
+            {
+              "anchor_text": "校友活动",
+              "url": "https://automation.seu.edu.cn/24538/list.htm"
+            }
+          ]
+        },
+        {
+          "anchor_text": "人才招聘",
+          "url": "https://automation.seu.edu.cn/rczp/list.htm"
+        },
+        {
+          "anchor_text": "学术年专栏",
+          "url": "https://automation.seu.edu.cn/jysxdtl/list.htm"
+        }
+      ],
+      "footer_logo": {
+        "url": "https://automation.seu.edu.cn/_upload/tpl/0a/4c/2636/template2636/images/logo_s.png"
+      },
+      "visit_counter_image": {
+        "url": "https://automation.seu.edu.cn/_visitcount?siteId=338&type=2&columnId=57078"
+      }
+    },
+    "professor_info": {
+      "name": "周东华",
+      "gender": "男",
+      "degree": "博士",
+      "profile_picture": {
+        "url": "https://automation.seu.edu.cn/_upload/article/images/e5/ee/c01cd7584ee88263515559aa1bd5/63f29ed6-eef2-42ba-8951-3c7a2c13566c_s.jpg",
+        "description": "周东华头像"
+      },
+      "titles_and_roles": [
+        "全体教师",
+        "国家级人才",
+        "博士生导师",
+        "硕士生导师"
+      ],
+      "contact": {
+        "office_location": "四牌楼校区中心楼202-2",
+        "phone": null,
+        "personal_homepage": null,
+        "email": "zdh@mail.tsinghua.edu.cn"
+      },
+      "basic_information": "东南大学教授、博导，智能无人系统研究院首席科学家，矿山安全检测技术与自动化装备国家地方联合工程研究中心主任。上海交通大学博士、浙江大学博士后。曾任清华大学自动化系主任，山东科技大学副校长，教育部高等学校自动化类专业教指委主任，第六、七届国务院控制科学与工程学科评议组成员，第三、四、五届中国自动化学会故障诊断与安全性专委会主任。为国家杰青、长江学者特聘教授、“万人计划”领军人才、国家基金委创新研究群体带头人、全国高校黄大年式教师团队负责人，享受国务院政府特殊津贴。兼任IFAC 技术过程故障诊断与安全性技术委员会委员、中国自动化学会副理事长等。主要研究动态系统故障诊断与容错控制、运行安全性评估理论等。以第一完成人获国家级奖励3项（含国家自然科学二等奖2项、国家级教学成果二等奖1项）、省部级和全国学会科技一等奖5项。曾获霍英东教育基金会青年教师奖、全国优秀博士后奖、第六届中国青年科技奖、国家新世纪百千万人才、全国优秀科技工作者等荣誉称号。为山东省泰山学者优势特色学科人才团队领军人才、山东省泰山学者攀登计划专家。入选全球高被引科学家、全球前2 %顶尖科学家名录，当选IEEE/ AAIA/ IET/ CAA Fellow。",
+      "education_background": [
+        "1981-1990：获上海交通大学学士、硕士、博士学位"
+      ],
+      "work_experience": [
+        "1991-1992：浙江大学博士后",
+        "1993-1994：北京理工大学副研究员",
+        "1994-1996：德国杜伊斯堡大学洪堡学者",
+        "1997-2014：清华大学 副教授、教授、自动化系主任等",
+        "2015-2024：山东科技大学 副校长",
+        "2025 至今：东南大学 首席科学家"
+      ],
+      "academic_appointments": [
+        "教育部高等学校自动化类专业教指委主任 (曾任)",
+        "第六届国务院控制科学与工程学科评议组成员 (曾任)",
+        "第七届国务院控制科学与工程学科评议组成员 (曾任)",
+        "第三届中国自动化学会故障诊断与安全性专委会主任 (曾任)",
+        "第四届中国自动化学会故障诊断与安全性专委会主任 (曾任)",
+        "第五届中国自动化学会故障诊断与安全性专委会主任 (曾任)",
+        "IFAC 技术过程故障诊断与安全性技术委员会委员 (兼任)",
+        "中国自动化学会副理事长 (兼任)"
+      ],
+      "honors_and_awards": [
+        "国家级奖励3项 (第一完成人，含国家自然科学二等奖2项、国家级教学成果二等奖1项)",
+        "省部级和全国学会科技一等奖5项 (第一完成人)",
+        "霍英东教育基金会青年教师奖",
+        "全国优秀博士后奖",
+        "第六届中国青年科技奖",
+        "国家新世纪百千万人才",
+        "全国优秀科技工作者",
+        "国家杰青",
+        "长江学者特聘教授",
+        "“万人计划”领军人才",
+        "国家基金委创新研究群体带头人",
+        "全国高校黄大年式教师团队负责人",
+        "享受国务院政府特殊津贴",
+        "山东省泰山学者优势特色学科人才团队领军人才",
+        "山东省泰山学者攀登计划专家",
+        "全球高被引科学家",
+        "全球前2 %顶尖科学家名录",
+        "IEEE Fellow",
+        "AAIA Fellow",
+        "IET Fellow",
+        "CAA Fellow"
+      ],
+      "research_interests": [
+        "动态系统故障诊断与容错控制",
+        "运行安全性评估理论"
+      ],
+      "student_recruitment": {
+        "welcome_message": "热烈欢迎优秀学生来我们实验室攻读硕士和博士学位，诚挚邀请优秀青年人才加入团队。",
+        "annual_plan": {
+          "master_students": "4-5 名",
+          "phd_students": "2-3 名",
+          "postdocs": "1-2 名"
+        }
+      },
+      "courses_taught": [],
+      "research_projects": [],
+      "publications": []
+    },
+    "department_contact_info": {
+      "address": "江苏省南京市四牌楼2号中心楼 东南大学自动化学院",
+      "phone": "025-83792724",
+      "email": "jupiter@seu.edu.cn"
+    },
+    "other_images": [
+      {
+        "url": "https://automation.seu.edu.cn/zdh/list.htm",
+        "description": "可能是页面本身的图片，显示为断图"
+      },
+      {
+        "url": "https://automation.seu.edu.cn/_upload/article/images/49/80/cc90f70945d99437aeb29c598629/b39cc810-2b19-45e6-bcb5-145efb62c5f5_s.jpg",
+        "description": "页脚相关图片"
+      },
+      {
+        "url": "https://automation.seu.edu.cn/_upload/article/images/84/ab/53097bbf440198ff1519fabe1da5/b1c7ed74-ed3e-4287-aec5-526ade294570_s.jpg",
+        "description": "页脚相关图片"
+      }
+    ]
+  }
+}

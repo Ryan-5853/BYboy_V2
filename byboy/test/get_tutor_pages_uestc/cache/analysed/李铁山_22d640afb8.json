@@ -1,0 +1,144 @@
+{
+  "meta": {
+    "tutor_name_cn": "李铁山",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1161/4369.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1161/4369.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/5a80c0a5c6ce61550c5d8baa1bef27386ed59a0272951e5131bfe6d4c2cedf2a.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "site_metadata": {
+      "source_url": "https://www.auto.uestc.edu.cn/info/1161/4369.htm",
+      "navigation": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "L",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/L.htm"
+        }
+      ],
+      "sidebar_navigation": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ]
+    },
+    "professor_profile": {
+      "name": "李铁山",
+      "image_url": "https://www.auto.uestc.edu.cn/__local/D/70/6A/A75B83EC280C20FB174B53898EB_FF6BEA76_31D9D.jpg",
+      "personal_info": {
+        "highest_degree": "博士",
+        "contact_phone": null,
+        "title_and_position": "教授",
+        "email": "litieshan073@uestc.edu.cn",
+        "supervision_status": "博士导师",
+        "personal_homepage": null,
+        "research_team": "自动化前沿与交叉中心"
+      },
+      "research_interests": [
+        "智能船舶控制理论与技术",
+        "非线性系统智能控制理论与应用研究"
+      ],
+      "academic_appointments_and_affiliations": [
+        "四川省领军人才",
+        "全球高被引科学家",
+        "科技部科技创新 2030“新一代人工智能”重大项目会评专家",
+        "2017-2018 两个年度国家自然科学基金工材部水利科学与海洋工程学科会评专家",
+        "中国造船学会第九、十届船舶力学学术委员会委员（第十届船舶操纵与控制学组副组长）",
+        "中国人工智能学会“认知系统与信息处理”专委会委员",
+        "中国自动化学会“自适应动态规划与强化学习”专委会委员",
+        "中国自动化学会“信息物理系统(CPS)”专委会委员",
+        "中国自动化学会“TCCT非线性系统与控制”专委会委员",
+        "《IEEE Transactions on Systems, Man, Cybernetics: Systems》 (担任)"
+      ],
+      "experience": {
+        "education_history": [
+          {
+            "period": "1988.09-1992.07",
+            "institution": "中国海洋大学",
+            "degree": "学士"
+          },
+          {
+            "period": "2002.09-2005.09",
+            "institution": "大连海事大学",
+            "degree": "博士"
+          }
+        ],
+        "work_history": [
+          {
+            "period": "1992.07-2000.07",
+            "institution": "辽宁省大连海洋渔业集团总公司",
+            "position": "干部，技术员等"
+          },
+          {
+            "period": "2005.09-2019.12",
+            "institution": "大连海事大学",
+            "position": "讲师，副教授，教授"
+          },
+          {
+            "period": "2019.12-至今",
+            "institution": "电子科技大学",
+            "position": "教授"
+          }
+        ]
+      },
+      "research_achievements": {
+        "projects": [
+          "主持国家自然科学基金重点项目1项",
+          "主持国家自然科学基金面上项目3项",
+          "主持大连市重点项目1项",
+          "主持省部级基金10余项",
+          "参与国家和省部级基金课题20余项"
+        ],
+        "awards": [
+          "辽宁省自然科学奖二等奖2项",
+          "辽宁省科技进步奖二等奖1项",
+          "中国航海科技奖二等奖1项"
+        ],
+        "publications_summary": [
+          "在国际主流学术期刊和重要国际会议上发表论文200余篇",
+          "其中SCI收录72篇",
+          "ESI高被引15篇"
+        ]
+      },
+      "teaching_and_curriculum_development": "主讲课程与教学研究 (无具体内容列出)",
+      "admission_information": {
+        "masters_programs": [
+          "081100控制科学与工程",
+          "086100交通运输"
+        ],
+        "doctoral_programs": [
+          "081100控制科学与工程",
+          "085400电子信息"
+        ]
+      }
+    }
+  }
+}

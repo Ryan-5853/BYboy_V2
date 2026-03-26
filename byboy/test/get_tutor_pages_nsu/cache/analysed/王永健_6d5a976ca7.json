@@ -1,0 +1,466 @@
+{
+  "meta": {
+    "tutor_name_cn": "王永健",
+    "request_url": "http://automation.seu.edu.cn/wyj/list.htm",
+    "declared_source_url": "http://automation.seu.edu.cn/wyj/list.htm",
+    "page_host": "automation.seu.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/186e90470f0db16d58c2b6924d0930ebbc588c12cc3be3ef07bd37eddb8db551.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "site_metadata": {
+      "source_url": "http://automation.seu.edu.cn/wyj/list.htm",
+      "image_placeholders": [
+        {
+          "url": "https://automation.seu.edu.cn/wyj/list.htm",
+          "description": "可能是一个页面截图或占位符，与抓取来源URL相同"
+        }
+      ],
+      "page_navigation_links": [
+        "教育背景",
+        "工作经历",
+        "学术兼职",
+        "所获奖励",
+        "讲授课程",
+        "学生培养",
+        "研究兴趣",
+        "科研项目",
+        "论文发表"
+      ],
+      "visitor_count_image": {
+        "url": "https://automation.seu.edu.cn/_visitcount?siteId=338&type=2&columnId=40382"
+      }
+    },
+    "person_info": {
+      "name": "王永健",
+      "origin": "山东莱州人",
+      "titles_and_positions": [
+        "东南大学副研究员",
+        "硕士生导师",
+        "洪堡学者"
+      ],
+      "overview": "围绕聚焦故障诊断领域，进行从故障检测与诊断、故障溯源、故障预测、故障可视化、容错控制及自愈到性能评估等的闭环研究，将机理模型、机器学习等数据驱动模型以及工艺知识相融合，不断丰富工业大数据建模的可解释性工作，并利用大模型建立起故障诊断小模型，实现多源异构复杂信息的处理。主要面向流程工业与机械、机电系统的信号处理、设备的智能运维。致力于理论结合实际。",
+      "publication_summary": {
+        "sci_papers": "30余篇",
+        "ei_papers": "若干"
+      }
+    },
+    "education_background": [
+      {
+        "start_date": "2011年9月",
+        "end_date": "2015年6月",
+        "degree": "本科",
+        "institution": "北京化工大学"
+      },
+      {
+        "start_date": "2015年9月",
+        "end_date": "2020年11月",
+        "degree": "硕博连读",
+        "institution": "北京化工大学&美国加州大学洛杉矶分校"
+      }
+    ],
+    "work_experience": [
+      {
+        "start_date": "2022年1月",
+        "end_date": "至今",
+        "position": "副研究员",
+        "institution": "东南大学，自动化学院"
+      },
+      {
+        "start_date": "2022年8月",
+        "end_date": "2024年7月",
+        "position": "洪堡学者",
+        "institution": "德国杜伊斯堡-埃森大学",
+        "supervisor": "Steven X. Ding"
+      },
+      {
+        "start_date": "2021年1月",
+        "end_date": "2021年12月",
+        "position": null,
+        "institution": "香港城市大学数据科学学院",
+        "supervisor": "秦泗钊, Fellow of IEEE, AIChE, IFAC, NAI"
+      }
+    ],
+    "academic_affiliations_and_memberships": [
+      {
+        "role": "Member",
+        "organization": "IEEE"
+      },
+      {
+        "role": "副主任兼秘书长",
+        "organization": "江苏省自动化学会普及与咨询工作委员会"
+      },
+      {
+        "role": "Member",
+        "organization": "中国人工智能学会"
+      },
+      {
+        "role": "Member",
+        "organization": "中国电子教育学会"
+      }
+    ],
+    "reviewer_for_journals": [
+      "IEEE Trans",
+      "JPC",
+      "CEP",
+      "IECR"
+    ],
+    "awards_and_honors": [
+      "校优秀博士学位论文",
+      "香港博士后奖学金",
+      "德国洪堡学者基金",
+      "江苏省钢铁行业协会科学技术奖二等奖"
+    ],
+    "courses_taught": [
+      "《控制系统建模与分析综合设计Ⅱ》",
+      "《复杂系统与过程控制》（全英文）"
+    ],
+    "research_interests": {
+      "philosophy": "从兴趣出发引导，将理论与实际相结合。",
+      "focus_areas": [
+        "故障诊断领域（故障检测与诊断、故障溯源、故障预测、故障可视化、容错控制及自愈到性能评估等的闭环研究）",
+        "将机理模型、机器学习等数据驱动模型、AI大模型以及工艺知识相融合",
+        "工业大数据建模的可解释性工作",
+        "流程工业与机械、机电系统的信号处理与设备智能运维"
+      ]
+    },
+    "student_supervision": {
+      "masters_quota": {
+        "sipailei_campus": "2名/年",
+        "suzhou_wuxi_campus": "1名/年"
+      },
+      "invitation": "感兴趣的可以联系我，我们共同成长O(∩_∩)O。"
+    },
+    "research_projects": [
+      {
+        "name": "烧结工序能效优化算法开发",
+        "status": "在研",
+        "type": "横向",
+        "role": "主持"
+      },
+      {
+        "name": "环保系统能效优化算法开发",
+        "status": "在研",
+        "type": "横向",
+        "role": "主持"
+      },
+      {
+        "name": "国家自然科学基金青年项目",
+        "status": "在研",
+        "type": "纵向",
+        "role": "主持"
+      },
+      {
+        "name": "教育部重点实验室基金",
+        "status": "结题",
+        "type": "横向",
+        "role": "主持"
+      },
+      {
+        "name": "新进教师科研启动基金",
+        "status": "结题",
+        "type": "横向",
+        "role": "主持"
+      },
+      {
+        "name": "江苏省自然科学基金",
+        "status": "结题",
+        "type": "纵向",
+        "role": "主持"
+      },
+      {
+        "name": "三维桥式智能转载教学训练系统",
+        "status": "结题",
+        "type": "横向",
+        "role": "主持"
+      },
+      {
+        "name": "算力统筹调度平台的数据安全",
+        "status": "在研",
+        "type": "横向",
+        "role": "主持"
+      },
+      {
+        "name": "国家自然科学基金面上项目",
+        "status": "结题",
+        "type": "纵向",
+        "role": "参与"
+      }
+    ],
+    "publications": [
+      {
+        "id": 1,
+        "authors": "Wang Y, Bao D, Qin S J.",
+        "title": "A novel bidirectional DiPLS based LSTM algorithm and its application in industrial process time series prediction",
+        "journal_conference": "Chemometrics and Intelligent Laboratory Systems",
+        "year": 2023,
+        "details": "240: 104878."
+      },
+      {
+        "id": 2,
+        "authors": "Wang Y, Li S, Chen X, et al.",
+        "title": "A novel operational modality classification method based on image joint contrast",
+        "journal_conference": "Chemical Engineering Science",
+        "year": 2023,
+        "details": "277: 118864."
+      },
+      {
+        "id": 3,
+        "authors": "Luo Y, Gopaluni B, Cao L, Wang Y, et al.",
+        "title": "Adaptive online optimization of alarm thresholds using multilayer Bayesian networks and active transfer entropy",
+        "journal_conference": "Control Engineering Practice",
+        "year": 2023,
+        "details": "137: 105534."
+      },
+      {
+        "id": 4,
+        "authors": "Wang Y, Qian C, Qin S J.",
+        "title": "Attention-mechanism based DiPLS-LSTM and its application in industrial process time series big data prediction",
+        "journal_conference": "Computers & Chemical Engineering",
+        "year": 2023,
+        "details": "176: 108296."
+      },
+      {
+        "id": 5,
+        "authors": "Bao D, Li S, Wang Y*.",
+        "title": "Optimized utilization and interpretability of process data with data-driven model",
+        "journal_conference": "2023 6th International Symposium on Autonomous Systems (ISAS)",
+        "year": 2023,
+        "details": "IEEE, 2023: 1-5."
+      },
+      {
+        "id": 6,
+        "authors": "Wang Z, Yang F, Xu Q, Wang Y*, et al.",
+        "title": "Capacity estimation of lithium-ion batteries based on data aggregation and feature fusion via graph neural network",
+        "journal_conference": "Applied Energy",
+        "year": 2023,
+        "details": "336: 120808."
+      },
+      {
+        "id": 7,
+        "authors": "Li M, Zheng K, Zhao Y, Wang Y, et al.",
+        "title": "LSTnet-GRU-A: Traffic Flow Forecasting Based on Attention Mechanism",
+        "journal_conference": "2022 China Automation Congress (CAC)",
+        "year": 2022,
+        "details": "IEEE, 2022: 6487-6492."
+      },
+      {
+        "id": 8,
+        "authors": "Qian C, Wang Y*, Li S.",
+        "title": "A Novel CVA Fault Detection Method Based on Abnormal Data Elimination",
+        "journal_conference": "2022 China Automation Congress (CAC)",
+        "year": 2022,
+        "details": "IEEE, 2022: 2409-2414."
+      },
+      {
+        "id": 9,
+        "authors": "Wang Y, Yu Z, Wang Z.",
+        "title": "A temporal clustering method fusing deep convolutional autoencoders and dimensionality reduction methods and its application in air quality visualization",
+        "journal_conference": "Chemometrics and Intelligent Laboratory Systems",
+        "year": 2022,
+        "details": "227: 104607."
+      },
+      {
+        "id": 10,
+        "authors": "Qi C, Zeng X, Wang Y*, et al.",
+        "title": "Adaptive time window convolutional neural networks concerning multiple operation modes with applications in energy efficiency predictions",
+        "journal_conference": "Energy",
+        "year": 2022,
+        "details": "240: 122506."
+      },
+      {
+        "id": 11,
+        "authors": "Wang Y, Yang K, Li H.",
+        "title": "Industrial time-series modeling via adapted receptive field temporal convolution networks integrating regularly updated multi-region operations based on PCA",
+        "journal_conference": "Chemical Engineering Science",
+        "year": 2020,
+        "details": "228: 115956.",
+        "notes": "领域TOP"
+      },
+      {
+        "id": 12,
+        "authors": "Wang Y, Zhang Y, Wu Z, et al.",
+        "title": "Operational trend prediction and classification for chemical processes: A novel convolutional neural network method based on symbolic hierarchical clustering",
+        "journal_conference": "Chemical Engineering Science",
+        "year": 2020,
+        "details": "225: 115796.",
+        "notes": "领域TOP"
+      },
+      {
+        "id": 13,
+        "authors": "Wang Y, Li H, Yang B.",
+        "title": "Modeling of furnace operation with a new adaptive data echo state network method integrating block recursive partial least squares",
+        "journal_conference": "Applied Thermal Engineering",
+        "year": 2020,
+        "details": "171: 115088.",
+        "notes": "领域TOP"
+      },
+      {
+        "id": 14,
+        "authors": "Wang Y, Huang J, Su C, et al.",
+        "title": "Furnace thermal efficiency modeling using an improved convolution neural network based on parameter-adaptive mnemonic enhancement optimization",
+        "journal_conference": "Applied Thermal Engineering",
+        "year": 2019,
+        "details": "149: 332-343.",
+        "notes": "领域TOP"
+      },
+      {
+        "id": 15,
+        "authors": "Wang Y, Li H.",
+        "title": "Industrial process time-series modeling based on adapted receptive field temporal convolution networks concerning multi-region operations",
+        "journal_conference": "Computers & Chemical Engineering",
+        "year": 2020,
+        "details": "139: 106877.",
+        "notes": "领域TOP"
+      },
+      {
+        "id": 16,
+        "authors": "Wang Y, Ren Y M, Li H.",
+        "title": "Symbolic Multivariable Hierarchical Clustering Based Convolutional Neural Networks with Applications in Industrial Process Operating Trend Predictions",
+        "journal_conference": "Industrial & Engineering Chemistry Research",
+        "year": 2020,
+        "details": "59(34): 15133-15145.",
+        "notes": "领域TOP"
+      },
+      {
+        "id": 17,
+        "authors": "Wang Y, Zhang Y, Li H.",
+        "title": "Adapted Receptive Field Temporal Convolutional Networks with Bar-Shaped Structures Tailored to Industrial Process Operation Models",
+        "journal_conference": "Industrial & Engineering Chemistry Research",
+        "year": 2020,
+        "details": "59(13): 5482-5490.",
+        "notes": "领域TOP"
+      },
+      {
+        "id": 18,
+        "authors": "Wang Y, Li H.",
+        "title": "Complex Chemical Process Evaluation Methods Using a New Analytic Hierarchy Process Model Integrating Deep Residual Network with Multiway Principal Component Analysis",
+        "journal_conference": "Industrial & Engineering Chemistry Research",
+        "year": 2019,
+        "details": "58(31): 13889-13899.",
+        "notes": "领域TOP"
+      },
+      {
+        "id": 19,
+        "authors": "Wang Y, Li H, Huang J, et al.",
+        "title": "An improved bar-shaped sliding window CNN tailored to industrial process historical data with applications in chemical operational optimizations",
+        "journal_conference": "Industrial & Engineering Chemistry Research",
+        "year": 2019,
+        "details": "58(47): 21219-21232.",
+        "notes": "领域TOP"
+      },
+      {
+        "id": 20,
+        "authors": "Wang Y, Li H, Qi C.",
+        "title": "An adaptive mode convolutional neural network based on bar-shaped structures and its operation modeling to complex industrial processes",
+        "journal_conference": "Chemometrics and Intelligent Laboratory Systems",
+        "year": 2020,
+        "details": "199: 103932.",
+        "notes": "JCR 1区"
+      },
+      {
+        "id": 21,
+        "authors": "Wang Y, Li H.",
+        "title": "Complex chemical process operation evaluations using a novel analytic hierarchy process model integrating deep residual network with principal component analysis",
+        "journal_conference": "Chemometrics and Intelligent Laboratory Systems",
+        "year": 2019,
+        "details": "191: 118-128.",
+        "notes": "JCR 1区"
+      },
+      {
+        "id": 22,
+        "authors": "Wang Y, Li H.",
+        "title": "A novel intelligent modeling framework integrating convolutional neural network with an adaptive time-series window and its application to industrial process operational optimization",
+        "journal_conference": "Chemometrics and Intelligent Laboratory Systems",
+        "year": 2018,
+        "details": "179: 64-72.",
+        "notes": "JCR 1 区"
+      },
+      {
+        "id": 23,
+        "authors": "Li J, Li H, Wang Y, et al.",
+        "title": "Hybrid cycle reservoir with jumps for multivariate time series prediction: An industrial application in oil drilling process",
+        "journal_conference": "Measurement Science and Technology",
+        "year": 2019,
+        "details": null
+      },
+      {
+        "id": 24,
+        "authors": "Li J, Yang B, Li H, Wang Y, et al.",
+        "title": "DTDR–ALSTM: Extracting dynamic time-delays to reconstruct multivariate data for improving attention-based LSTM industrial time series prediction models",
+        "journal_conference": "Knowledge-Based Systems",
+        "year": 2021,
+        "details": "211: 106508.",
+        "notes": "JCR 1 区"
+      },
+      {
+        "id": 25,
+        "authors": "Li J, Wang Y, Li H, et al.",
+        "title": "An Adaptive Optimization Approach Based on the Human factors and Its Application to Process Alarm Thresholds",
+        "journal_conference": "2019 12th Asian Control Conference (ASCC)",
+        "year": 2019,
+        "details": "IEEE, 2019: 823-828."
+      },
+      {
+        "id": 26,
+        "authors": "Yang K, Wang Y, Yao Y, et al.",
+        "title": "Remaining useful life prediction via long‐short time memory neural network with novel partial least squares and genetic algorithm",
+        "journal_conference": "Quality and Reliability Engineering International",
+        "year": 2020,
+        "details": "37 (3), 1080-1098."
+      },
+      {
+        "id": 27,
+        "authors": "Ren K, Wang Y, Yang B, et al.",
+        "title": "A Novel Multivariable Nonlinear Time Series Prediction Method for APSO-Elman Network",
+        "journal_conference": "2019 IEEE 8th Data Driven Control and Learning Systems Conference (DDCLS)",
+        "year": 2019,
+        "details": "IEEE, 2019: 218-224."
+      },
+      {
+        "id": 28,
+        "authors": "Qiao L, Li H, Wang Y.",
+        "title": "Nonlinear Dynamic System Predictions Based on Neural Networks with Fruit Fly Optimization Algorithms",
+        "journal_conference": "2019 IEEE 8th Data Driven Control and Learning Systems Conference (DDCLS)",
+        "year": 2019,
+        "details": "IEEE, 2019: 123-128."
+      },
+      {
+        "id": 29,
+        "authors": "Tian S, Li H, Wang Y.",
+        "title": "Brain Emotional Learning Networks with Applications",
+        "journal_conference": "2019 IEEE 8th Data Driven Control and Learning Systems Conference (DDCLS)",
+        "year": 2019,
+        "details": "IEEE, 2019: 37-41."
+      },
+      {
+        "id": 30,
+        "authors": "Ren Y M, Zhang Y, Ding Y, Wang Y, et al.",
+        "title": "Computational fluid dynamics-based in-situ sensor analytics of direct metal laser solidification process using machine learning",
+        "journal_conference": "Computers & Chemical Engineering",
+        "year": 2020,
+        "details": "143: 107069.",
+        "notes": "领域TOP"
+      },
+      {
+        "id": 31,
+        "authors": "Yang K, Wang Y, Fan S, Ali M.",
+        "title": "Multi-Criteria Spare Parts Classification Using the Deep Convolutional Neural Network Method",
+        "journal_conference": "Applied Science",
+        "year": 2021,
+        "details": "11(15), 7088"
+      },
+      {
+        "id": 32,
+        "authors": "朱坚，杨博， 王永健，唐晓婕，李宏光.",
+        "title": "一种新型的基于Levenshtein距离层次聚类的时序操作优化方法",
+        "journal_conference": "化工学报",
+        "year": 2019,
+        "details": "70(2): 581-589."
+      }
+    ]
+  }
+}

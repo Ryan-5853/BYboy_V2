@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "tutor_name_cn": "张九思",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1175/7542.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1175/7542.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/508115db1ce454516dca6e93e4d2ec20bb8c5e40c136cdfbd86af923cc335d93.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "source_url": "https://www.auto.uestc.edu.cn/info/1175/7542.htm",
+    "site_chrome": {
+      "breadcrumbs": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "Z",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/Z.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "navigation_links": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ]
+    },
+    "faculty_member": {
+      "name": "张九思",
+      "photo": {
+        "url": "https://www.auto.uestc.edu.cn/__local/2/A9/47/5C1BC7962CC0B57ED06211A622C_891BC0AD_5A623.jpg",
+        "description": null
+      },
+      "personal_info": {
+        "highest_degree": "博士",
+        "contact_phone": null,
+        "job_title": "特聘副教授",
+        "email": "jiusi.zhang@uestc.edu.cn",
+        "supervisor_status": "硕士导师",
+        "personal_homepage": {
+          "anchor_text": "个人主页",
+          "url": "http://faculty.uestc.edu.cn/zhangjiusi/zh_CN/index.htm"
+        },
+        "research_team": "测试技术与仪器研究所（精密测试）"
+      },
+      "research_directions": [
+        "智能故障诊断/预测/容错",
+        "工业大数据与人工智能",
+        "数据驱动的监测与优化",
+        "复杂工业系统智能运维",
+        "电子测试仪器精密测量"
+      ],
+      "academic_titles_and_affiliations": [
+        "博士后创新人才支持计划入选者（国家博新）",
+        "爱思唯尔（Elsevier）全球前2％顶尖科学家",
+        "Protection and Control of Modern Power Systems青年编委"
+      ],
+      "experience": {
+        "academic_career_path": [
+          {
+            "period": "2025.02至今",
+            "institution": "电子科技大学",
+            "role": "特聘副教授",
+            "type": "work"
+          },
+          {
+            "period": "2021.09至2024.12",
+            "institution": "哈尔滨工业大学",
+            "degree": "博士",
+            "type": "education"
+          },
+          {
+            "period": "2019.09至2021.07",
+            "institution": "哈尔滨工业大学",
+            "degree": "硕士",
+            "type": "education"
+          },
+          {
+            "period": "2015.08至2019.06",
+            "institution": "哈尔滨工程大学",
+            "degree": "学士",
+            "type": "education"
+          }
+        ]
+      },
+      "scientific_research": {
+        "summary": "研究兴趣包括智能故障诊断/预测/容错、工业大数据与人工智能、数据驱动的监测与优化、复杂工业系统智能运维、电子测试仪器精密测量等。主持国家自然科学基金青年科学基金项目、中国博士后创新人才支持计划项目、中国博士后科学基金面上项目等科研项目，发表中科院一区期刊/IEEE Transactions系列汇刊论文30余篇，谷歌学术引用量超过2500次，授权国家发明专利10余项。入选博士后创新人才支持计划（国家博新）、爱思唯尔全球前2%顶尖科学家，获宝钢教育奖特等奖、哈尔滨工业大学优秀博士学位论文、哈尔滨工业大学“十佳英才”、哈尔滨工业大学李昌奖。"
+      },
+      "teaching": {
+        "courses_taught": [
+          {
+            "course_name": "深度学习导论",
+            "level": "本科生课程"
+          }
+        ]
+      },
+      "admissions": {
+        "master_programs": [
+          "080400仪器科学与技术",
+          "085400电子信息"
+        ],
+        "phd_programs": []
+      }
+    }
+  }
+}

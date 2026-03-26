@@ -7,9 +7,11 @@
 from __future__ import annotations
 
 import os
+from dataclasses import replace
 
 from byboy.env_loader import ensure_dotenv_loaded
 from byboy.llm.dispatcher import LLMDispatcher
+from byboy.llm.local_deadline_retry import llm_local_deadline_config_from_env
 from byboy.llm.model_ref import parse_route_spec_token
 from byboy.llm.registry import ModelSlotRegistry
 from byboy.llm.route_spec import RouteSpec
@@ -202,6 +204,7 @@ def slot_routes_from_env() -> dict[str, RouteSpec]:
             or tail.endswith("_PACKY_API_KEY")
             or tail.endswith("_PACKY_BASE_URL")
             or tail.endswith("_PACKY_ANTHROPIC_BASE_URL")
+            or tail.endswith("_HTTP_TIMEOUT")
         ):
             continue
         raw = str(v).strip()
@@ -256,6 +259,56 @@ def _anthropic_root(raw: str) -> str:
     return r[:-3].rstrip("/") if r.endswith("/v1") else r
 
 
+def _slot_http_timeout_sec(slot_name: str) -> float | None:
+    """
+    槽位 HTTP 请求超时（秒）。环境变量：BYBOY_SLOT_<NAME>_HTTP_TIMEOUT
+
+    单次 LLM 的墙钟控制见 ``BYBOY_LLM_LOCAL_DEADLINE_SEC``（``byboy.llm.local_deadline_retry``）。
+    """
+    prefix = _slot_env_prefix(slot_name)
+    raw = (os.environ.get(prefix + "HTTP_TIMEOUT") or "").strip()
+    if raw:
+        v = float(raw)
+        if v <= 0:
+            raise ValueError(f"{prefix}HTTP_TIMEOUT 必须为正数秒，当前为 {raw!r}")
+        return v
+    return None
+
+
+def _packy_floor_http_timeout_for_local(
+    p: PackyConfig,
+    local_deadline_sec: float | None,
+) -> PackyConfig:
+    """保证 httpx 读超时大于本地 deadline，由本地计时先触发放弃当前请求。"""
+    if local_deadline_sec is None:
+        return p
+    floor = float(local_deadline_sec) + 90.0
+    cur = p.http_timeout_sec
+    if cur is not None and cur >= floor:
+        return p
+    return replace(p, http_timeout_sec=floor)
+
+
+def _slot_route_packy_config(slot_name: str, fallback: PackyConfig) -> PackyConfig | None:
+    """
+    若槽位配置了独立 API Key，和/或需要独立 HTTP 超时，则返回专用 ``PackyConfig``。
+    """
+    key_cfg = _slot_specific_config(slot_name, fallback)
+    timeout = _slot_http_timeout_sec(slot_name)
+    if key_cfg is None:
+        if timeout is None:
+            return None
+        return PackyConfig(
+            api_key=fallback.api_key,
+            base_url=fallback.base_url,
+            anthropic_base_url=fallback.anthropic_base_url,
+            http_timeout_sec=timeout,
+        )
+    if timeout is not None:
+        return replace(key_cfg, http_timeout_sec=timeout)
+    return key_cfg
+
+
 def _slot_specific_config(slot_name: str, fallback: PackyConfig) -> PackyConfig | None:
     """
     每个 slot 独立 API Key（base 统一走全局 PACKY_BASE_URL）：
@@ -288,6 +341,9 @@ def llm_dispatcher_from_env(
     """构造分发器；支持 slot 独立 PACKY key/base，默认路由键为槽位 ``default``。"""
     cfg = packy_config or PackyConfig.from_env()
     vision_cfg = PackyConfig.from_vision_env()
+    ldc = llm_local_deadline_config_from_env()
+    cfg = _packy_floor_http_timeout_for_local(cfg, ldc.deadline_sec)
+    vision_cfg = _packy_floor_http_timeout_for_local(vision_cfg, ldc.deadline_sec)
     routes, registry = _merged_slots_and_routes()
     slot_specs = registry.all_slots()
 
@@ -298,9 +354,10 @@ def llm_dispatcher_from_env(
 
     for slot_name, spec in slot_specs.items():
         fallback = vision_cfg if spec.backend in ("openai_vision", "claude_vision") else cfg
-        slot_cfg = _slot_specific_config(slot_name, fallback)
+        slot_cfg = _slot_route_packy_config(slot_name, fallback)
         if slot_cfg is None:
             continue
+        slot_cfg = _packy_floor_http_timeout_for_local(slot_cfg, ldc.deadline_sec)
         if spec.backend == "openai":
             route_openai_clients[slot_name] = PackyAPIClient(slot_cfg)
         elif spec.backend == "claude":
@@ -322,4 +379,5 @@ def llm_dispatcher_from_env(
         route_claude_clients=route_claude_clients,
         route_vision_openai_clients=route_vision_openai_clients,
         route_vision_claude_clients=route_vision_claude_clients,
+        llm_local_deadline=ldc,
     )

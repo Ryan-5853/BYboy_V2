@@ -1,0 +1,749 @@
+{
+  "meta": {
+    "tutor_name_cn": "具体面议",
+    "request_url": "http://automation.seu.edu.cn/ywk/list.htm",
+    "declared_source_url": "http://automation.seu.edu.cn/ywk/list.htm",
+    "page_host": "automation.seu.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/fdcad93cad354553fb273da0c42b534439f62e2fdf1de190858d6a4dee8d886f.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "mentor_name": "杨万扣",
+    "source_url": "http://automation.seu.edu.cn/ywk/list.htm",
+    "basic_information": {
+      "name": "杨万扣",
+      "birth_year": 1979,
+      "birthplace": "江苏盐城",
+      "degrees": "博士",
+      "titles": [
+        "教授",
+        "博士生导师",
+        "硕士生导师"
+      ],
+      "specialty": "人工智能专业",
+      "education_summary": "分别于2002年、2004年和2009年在南京理工大学获得学士、硕士和博士学位。",
+      "past_research_engagements": [
+        "香港理工大学",
+        "美国北卡大学威明顿分校",
+        "悉尼科技大学"
+      ],
+      "current_affiliation_start": "2011年9月加入东南大学自动化学院"
+    },
+    "research_directions": [
+      {
+        "category": "模式识别与计算机视觉",
+        "sub_directions": [
+          "多模态大模型",
+          "模式识别",
+          "计算机视觉",
+          "目标检测跟踪定位",
+          "人体姿态估计与生成"
+        ]
+      },
+      {
+        "category": "机器人与智能无人系统",
+        "sub_directions": [
+          "无人系统“感知-预测-决策-控制”",
+          "无人机+AI",
+          "多机多源协同"
+        ]
+      },
+      {
+        "category": "能力与应用",
+        "description": "具备搭建国产自主可控智能系统的能力，涵盖无人机平台、AI计算平台与AI算法全链路研发与集成。相关模型与算法已适配并部署于华为、瑞芯微等国产芯片平台，可提供定制化的AI计算平台与算法解决方案。系统已实际应用于XX无人机、无人车及无人艇等多类无人平台。"
+      }
+    ],
+    "education_background": [
+      {
+        "start_date": "2005.09",
+        "end_date": "2009.04",
+        "institution": "南京理工大学",
+        "department": "计算机科学与技术学院",
+        "degree": "博士"
+      },
+      {
+        "start_date": "2002.09",
+        "end_date": "2004.07",
+        "institution": "南京理工大学",
+        "department": "计算机科学与技术学院",
+        "degree": "硕士"
+      },
+      {
+        "start_date": "1998.09",
+        "end_date": "2002.07",
+        "institution": "南京理工大学",
+        "department": "计算机科学与技术学院",
+        "degree": "学士"
+      }
+    ],
+    "work_experience": [
+      {
+        "start_date": "2021.04",
+        "end_date": "至今",
+        "institution": "东南大学自动化学院",
+        "position": "教授"
+      },
+      {
+        "start_date": "2015.04",
+        "end_date": "2021.04",
+        "institution": "东南大学自动化学院",
+        "position": "副研究员"
+      },
+      {
+        "start_date": "2015.01",
+        "end_date": "2015.12",
+        "institution": "澳大利亚悉尼科技大学",
+        "position": "访问学者"
+      },
+      {
+        "start_date": "2011.09",
+        "end_date": "2015.04",
+        "institution": "东南大学自动化学院",
+        "position": "讲师"
+      },
+      {
+        "start_date": "2010.08",
+        "end_date": "2011.08",
+        "institution": "美国北卡罗纳大学威尔明顿分校计算机系",
+        "position": "博士后"
+      },
+      {
+        "start_date": "2009.07",
+        "end_date": "2011.09",
+        "institution": "东南大学自动化学院",
+        "position": "博士后"
+      },
+      {
+        "start_date": "2008.10",
+        "end_date": "2009.06",
+        "institution": "香港理工大学计算机系",
+        "position": "研究助理"
+      },
+      {
+        "start_date": "2004.08",
+        "end_date": "2005.08",
+        "institution": "北京京天威科技发展有限公司",
+        "position": "工程师"
+      }
+    ],
+    "academic_affiliations": {
+      "committee_roles": [
+        "江苏省人工智能学会模式识别专委会主任"
+      ],
+      "journal_editorial_boards": [
+        "Pattern Recognition",
+        "Neural Processing Letters",
+        "兵工学报",
+        "水下无人系统学报"
+      ]
+    },
+    "awards": [
+      {
+        "year": 2025,
+        "award_name": "《水下无人系统学报》2025年度“最具传播力论文奖”",
+        "recipient": "魏楠",
+        "direction": "水下目标检测"
+      },
+      {
+        "year": 2025,
+        "award_name": "江苏省人工智能学会优秀硕士学位论文",
+        "recipient": "肖凌宇",
+        "direction": "自动驾驶"
+      },
+      {
+        "year": 2025,
+        "award_name": "CCF第六届中国智能机器人学术年会A类论文",
+        "recipient": "顾睿文",
+        "direction": "视觉SLAM"
+      },
+      {
+        "year": 2025,
+        "award_name": "东南大学优秀博士学位论文",
+        "recipient": "李子煜",
+        "direction": "激光点云目标检测"
+      },
+      {
+        "year": 2025,
+        "award_name": "东南大学优秀硕士学位论文",
+        "recipient": "徐宜豪",
+        "direction": "遥感图像旋转目标检测"
+      },
+      {
+        "year": 2024,
+        "award_name": "第三届全国信息融合挑战赛，赛道一：海面RGB-T目标跟踪竞赛三等奖（精度第一）"
+      },
+      {
+        "year": 2023,
+        "award_name": "东南大学优秀硕士学位论文",
+        "recipient": "谢斐",
+        "direction": "视觉目标跟踪"
+      },
+      {
+        "year": 2023,
+        "award_name": "第四届“空天杯”全国创新创意大赛一等奖（命题3-基于多模态图像的地面时敏目标识别，第一名）",
+        "direction": "无人机对地面目标检测跟踪"
+      },
+      {
+        "year": 2022,
+        "award_name": "XX艇群竞优第一名"
+      },
+      {
+        "year": 2022,
+        "award_name": "XX立体跨域协同挑战赛第二名"
+      },
+      {
+        "year": 2022,
+        "award_name": "第二届全国信息融合挑战赛-“杰瑞杯”海面目标检测与跟踪竞赛一等奖（第二名），优秀部署奖",
+        "direction": "空海协同视觉目标检测跟踪"
+      },
+      {
+        "year": 2022,
+        "award_name": "VOT2022 目标跟踪比赛，RGBD赛道第五名",
+        "direction": "视觉目标跟踪"
+      },
+      {
+        "year": 2021,
+        "award_name": "VOT2021 目标跟踪比赛，实时赛道第三名",
+        "direction": "视觉目标跟踪"
+      },
+      {
+        "year": 2021,
+        "award_name": "海上争锋2021，一等奖",
+        "direction": "海面目标检测"
+      },
+      {
+        "year": 2020,
+        "award_name": "海上争锋2020，二等奖",
+        "direction": "海面目标检测"
+      },
+      {
+        "year": 2018,
+        "award_name": "江苏省教育厅教学一等奖",
+        "ranking": "排名第四"
+      },
+      {
+        "year": 2017,
+        "award_name": "江苏省教学一等奖",
+        "ranking": "排名第十一"
+      },
+      {
+        "year": 2015,
+        "award_name": "教育部自然科学二等奖",
+        "ranking": "排名第三"
+      }
+    ],
+    "taught_courses": {
+      "undergraduate_courses": [
+        "C++程序设计"
+      ],
+      "graduate_courses": [
+        "模式识别原理"
+      ]
+    },
+    "student_recruitment": {
+      "general_invitation": "热忱欢迎对AI充满好奇心、激情和热情的朋友加入本实验室！欢迎自动化、计算机、信息、数学、物理以及相关专业背景的同学报考。",
+      "master_phd_recruitment_directions": [
+        {
+          "direction_name": "应用基础研究",
+          "cultivation_focus": "聚焦多模态大模型、模式识别、计算机视觉、无人系统“感知-预测-决策-控制”等前沿方向，开展基础理论及关键技术研究。",
+          "cultivation_requirements": "重点开展高水平学术探索与创新，以发表高质量学术论文为主要成果目标。"
+        },
+        {
+          "direction_name": "研究工程应用",
+          "cultivation_focus": "围绕多模态大模型、模式识别、计算机视觉、无人系统“感知-预测-决策-控制”等方向，推动前沿技术向实际应用的转化。",
+          "cultivation_requirements": "在参与基础研究的同时，重点负责团队科研项目的工程开发与系统实现。"
+        }
+      ],
+      "recruitment_scope": {
+        "colleges": [
+          "自动化学院",
+          "网络安全学院"
+        ],
+        "campuses": [
+          "南京校区",
+          "苏州校区",
+          "无锡校区"
+        ]
+      },
+      "postdoc_recruitment": {
+        "status": "长期诚聘",
+        "research_directions": [
+          "机器人",
+          "无人系统",
+          "人工智能"
+        ],
+        "talent_programs_encouraged": [
+          "至善博士后"
+        ],
+        "compensation_and_development": "提供极具竞争力的薪酬待遇与广阔的发展空间，具体面议。"
+      }
+    },
+    "seu_onecolab_alumni": {
+      "postdocs": [
+        {
+          "id": 1,
+          "name": "全志斌",
+          "destination": "东南大学南通海洋高等研究院",
+          "email": "quan.zhibin@foxmail.com"
+        }
+      ],
+      "phd_students": [
+        {
+          "id": 5,
+          "name": "张弦",
+          "destination": "南京中医药大学",
+          "email": "230218200@seu.edu.cn"
+        },
+        {
+          "id": 4,
+          "name": "李子煜",
+          "destination": "比亚迪深圳",
+          "email": "1105654653@qq.com"
+        },
+        {
+          "id": 3,
+          "name": "王强",
+          "destination": "天府绛溪实验室",
+          "email": "axiaoiru@163.com"
+        },
+        {
+          "id": 2,
+          "name": "杨森",
+          "destination": "百度上海",
+          "email": "yangsenius@gmail.com"
+        },
+        {
+          "id": 1,
+          "name": "聂牧",
+          "destination": "安徽工程大学",
+          "email": "niemu@ahpu.edu.cn"
+        }
+      ],
+      "master_students": [
+        {
+          "id": 31,
+          "name": "魏楠",
+          "destination": "中电14所",
+          "email": "nan.goolge@gmail.com"
+        },
+        {
+          "id": 30,
+          "name": "许乘浩",
+          "destination": "比亚迪深圳",
+          "email": "1337205372@qq.com"
+        },
+        {
+          "id": 29,
+          "name": "付冲",
+          "destination": "中船716所北京",
+          "email": "c_fu_eoz@163.com"
+        },
+        {
+          "id": 28,
+          "name": "许溢鑫",
+          "destination": "华为上海",
+          "email": "xu.onestar@qq.com"
+        },
+        {
+          "id": 27,
+          "name": "吕琪",
+          "destination": "南京水务集团",
+          "email": "ryuukq@163.com"
+        },
+        {
+          "id": 26,
+          "name": "马云飞",
+          "destination": "轻舟智航苏州",
+          "email": "1812468695@qq.com"
+        },
+        {
+          "id": 25,
+          "name": "肖凌宇",
+          "destination": "香港大学读博",
+          "email": "lingyu.xiao@connect.hku.hk"
+        },
+        {
+          "id": 24,
+          "name": "张浩然",
+          "destination": "四川省电信",
+          "email": "personal@hrzhang.cn"
+        },
+        {
+          "id": 23,
+          "name": "钟泺泠",
+          "destination": "四川6912通信技术股份有限公司",
+          "email": "luoling.zhong@foxmail.com"
+        },
+        {
+          "id": 22,
+          "name": "冀春旺",
+          "destination": "哈工大卫星",
+          "email": "2469912698@qq.com"
+        },
+        {
+          "id": 21,
+          "name": "张文康",
+          "destination": "转硕博连读",
+          "email": "wk_zhang@seu.edu.cn"
+        },
+        {
+          "id": 20,
+          "name": "翟江",
+          "destination": "阿里杭州",
+          "email": "zj_1793@163.com"
+        },
+        {
+          "id": 19,
+          "name": "陆开",
+          "destination": "虹软杭州",
+          "email": "996929843@qq.com"
+        },
+        {
+          "id": 18,
+          "name": "徐宜豪",
+          "destination": "睿魔智能杭州",
+          "email": "xuyihaoby@163.com"
+        },
+        {
+          "id": 17,
+          "name": "封泽",
+          "destination": "转硕博连读",
+          "email": "feng_ze@foxmail.com"
+        },
+        {
+          "id": 16,
+          "name": "吴乐天",
+          "destination": "理想上海",
+          "email": "353542123@qq.com"
+        },
+        {
+          "id": 15,
+          "name": "蒋俊波",
+          "destination": "苏州电信",
+          "email": "jiangjunbo@aa.seu.edu.cn"
+        },
+        {
+          "id": 14,
+          "name": "王浩",
+          "destination": "苏州公务员",
+          "email": "wanghao971217@gmail.com"
+        },
+        {
+          "id": 13,
+          "name": "孙小楼",
+          "destination": "紫金山实验室",
+          "email": "xlsun20160225@gmail.com"
+        },
+        {
+          "id": 12,
+          "name": "陈子威",
+          "destination": "香港理工大学读博",
+          "email": "ziwei.chen@connect.polyu.hk"
+        },
+        {
+          "id": 11,
+          "name": "麦济仁",
+          "destination": "阿里杭州",
+          "email": "maijiren@qq.com"
+        },
+        {
+          "id": 10,
+          "name": "姚云聪",
+          "destination": "转硕博连读",
+          "email": "maijiren@qq.com"
+        },
+        {
+          "id": 9,
+          "name": "金双平",
+          "destination": "拼多多上海",
+          "email": "643683905@qq.com"
+        },
+        {
+          "id": 8,
+          "name": "谢斐",
+          "destination": "上海交大读博",
+          "email": "372998044@qq.com"
+        },
+        {
+          "id": 7,
+          "name": "李红",
+          "destination": "小米南京",
+          "email": "secured@foxmail.com"
+        },
+        {
+          "id": 6,
+          "name": "张弦",
+          "destination": "转硕博连读",
+          "email": "230218200@seu.edu.cn"
+        },
+        {
+          "id": 5,
+          "name": "李子煜",
+          "destination": "转硕博连读",
+          "email": "1105654653@qq.com"
+        },
+        {
+          "id": 4,
+          "name": "周路宽",
+          "destination": "拼多多上海",
+          "email": "zhoulukuan@qq.com"
+        },
+        {
+          "id": 3,
+          "name": "葛涌涛",
+          "destination": "阿德莱德大学读博",
+          "email": "yongtaoge@foxmail.com"
+        },
+        {
+          "id": 2,
+          "name": "杨森",
+          "destination": "转硕博连读",
+          "email": "yangsenius@gmail.com"
+        },
+        {
+          "id": 1,
+          "name": "王超",
+          "destination": "南京华泰证券",
+          "email": "522426690@qq.com"
+        }
+      ],
+      "undergraduate_students": [
+        {
+          "id": 2,
+          "name": "蔡闻骁",
+          "destination": "斯坦福大学",
+          "email": "wxcai@stanford.edu"
+        },
+        {
+          "id": 1,
+          "name": "吕逸飞",
+          "destination": "加州伯克利分校",
+          "email": "yifei_lyu@berkeley.edu"
+        }
+      ]
+    },
+    "research_interests": {
+      "specialty": "人工智能专业",
+      "areas": [
+        {
+          "category": "模式识别与计算机视觉",
+          "topics": [
+            "多模态大模型",
+            "目标检测跟踪定位",
+            "人体姿态估计与动作生成"
+          ]
+        },
+        {
+          "category": "机器人与智能无人系统",
+          "topics": [
+            "无人机+AI",
+            "多机多源协同"
+          ]
+        }
+      ]
+    },
+    "research_projects": {
+      "longitudinal_projects": [
+        {
+          "year": 2023,
+          "title": "深圳市自然科学基金面上项目"
+        },
+        {
+          "year": 2022,
+          "title": "国家自然科学基金面上项目，非限制环境下高性能人体姿态估计方法研究",
+          "project_number": "62276061"
+        },
+        {
+          "year": 2021,
+          "title": "国家重点研发计划课题"
+        },
+        {
+          "year": 2018,
+          "title": "ZF领域基金"
+        },
+        {
+          "year": 2017,
+          "title": "国家自然科学基金面上项目，面向静态图像行为识别的混合特征学习方法研究",
+          "project_number": "61773117"
+        },
+        {
+          "year": 2014,
+          "title": "国家自然科学基金面上项目，基于可变拓扑模型的多姿态行人检测研究",
+          "project_number": "61473086"
+        },
+        {
+          "year": 2010,
+          "title": "国家自然科学基金青年项目，稀疏表示在图像特征抽取中的应用研究",
+          "project_number": "61005008"
+        }
+      ]
+    },
+    "publications": {
+      "mode_recognition_computer_vision": [
+        {
+          "id": 15,
+          "authors": "Ming Dai, Wenxuan Cheng, Jiang-Jiang Liu, Lingfeng Yang, Zhenhua Feng, Wankou Yang, Jingdong Wang",
+          "title": "Improving Generalized Visual Grounding with Instance-aware Joint Learning",
+          "journal_conference": "IEEE T-PAMI",
+          "year": 2026,
+          "volume_issue_pages": "48(1): 448-465"
+        },
+        {
+          "id": 14,
+          "authors": "Wenkang Zhang, Kaifeng Yang, Xiang An, Qiang Li, Ziyong Feng, Wankou Yang, Jiankang Deng",
+          "title": "Towards Streaming Referring Video Segmentation via Large Language Model",
+          "journal_conference": "CVPR2026"
+        },
+        {
+          "id": 13,
+          "authors": "Wenxuan Chen, Ming Dai, Huimin Lu, Wankou Yang",
+          "title": "DeRVOS: Decoupling Consistent Trajectory Generation and Multimodal Understanding for Referring Video Object Segmentation",
+          "journal_conference": "CVPR2026"
+        },
+        {
+          "id": 12,
+          "authors": "Ze Feng, Sen Yang, Boqiang Duan, Wankou Yang, Jingdong Wang",
+          "title": "EM-KD: Distilling Efficient Multimodal Large Language Model with Unbalanced Vision Tokens",
+          "journal_conference": "AAAI2026"
+        },
+        {
+          "id": 11,
+          "authors": "Ming Dai, Wenxuan Cheng, Jiang-Jiang Liu, Sen Yang, Wenxiao Cai, Yanpeng Sun, Wankou Yang",
+          "title": "DeRIS: Decoupling Perception and Cognition for Enhanced Referring lmage Segmentation through Loopback Synergy",
+          "journal_conference": "ICCV2025"
+        },
+        {
+          "id": 10,
+          "authors": "Ming Dai, Wenxuan Cheng, Jiedong Zhuang, Jiang-Jiang Liu, Hongshen Zhao, Zhenhua Feng, Wankou Yang",
+          "title": "PropVG: End-to-End Proposal-Driven Visual Grounding withMulti-Granularity Discrimination",
+          "journal_conference": "ICCV2025"
+        },
+        {
+          "id": 9,
+          "authors": "Ming Dai, Jian Li, Jiedong Zhuang, Xian Zhang, Wankou Yang",
+          "title": "Multi-task Visual Grounding with Coarse-to-Fine Consistency Constraints",
+          "journal_conference": "AAAI2025"
+        },
+        {
+          "id": 8,
+          "authors": "Wenxiao Cai, Wankou Yang",
+          "title": "Object-level Geometric Structure Preserving for Natural Image Stitching",
+          "journal_conference": "AAAI2025"
+        },
+        {
+          "id": 7,
+          "authors": "Ming Dai, Lingfeng Yang, Yihao Xu, Zhenhua Feng, Wankou Yang",
+          "title": "SimVG: A Simple Framework for Visual Grounding with Decoupled Multi-modal Fusion",
+          "journal_conference": "NeurIPS2024"
+        },
+        {
+          "id": 6,
+          "authors": "Lingyu Xiao, Xiang Li, Sen Yang, Wankou Yang",
+          "title": "ADNet: Lane Shape Prediction via Anchor Decomposition",
+          "journal_conference": "ICCV2023"
+        },
+        {
+          "id": 5,
+          "authors": "Ziyu Li, Jingming Guo, Tongtong Cao, Liu Bingbing, Wankou Yang",
+          "title": "GPA-3D: Geometry-aware prototype alignment for unsupervised domain adaptive 3D object detection from point clouds",
+          "journal_conference": "ICCV2023"
+        },
+        {
+          "id": 4,
+          "authors": "Sen Yang, Wen Heng, Gang Liu, Guozhong Luo, Wankou Yang, Gang Yu",
+          "title": "Capturing the motion of every joint: 3D human pose and shape estimation with independent tokens",
+          "journal_conference": "ICLR2023"
+        },
+        {
+          "id": 3,
+          "authors": "Ziwei Chen, Qiang Li, Xiaofeng Wang, Wankou Yang",
+          "title": "LiftedCL: Lifting Contrastive Learning for Human-Centric Perception",
+          "journal_conference": "ICLR2023"
+        },
+        {
+          "id": 2,
+          "authors": "Fei Xie, Chunyu Wang, Guangting Wang, Yue Cao, Wankou Yang, Wenjun Zeng",
+          "title": "Correlation-aware deep tracking",
+          "journal_conference": "CVPR2022"
+        },
+        {
+          "id": 1,
+          "authors": "Sen Yang, Zhibin Quan, Mu Nie, Wankou Yang",
+          "title": "TransPose: Keypoint localization via Transformer",
+          "journal_conference": "ICCV2021"
+        }
+      ],
+      "robotics_intelligent_unmanned_systems": [
+        {
+          "id": 2,
+          "authors": "Qingxiao Zou, Hui Kong, Wankou Yang",
+          "title": "REACTER: Perception-Informed Adaptive Tracker in Cluttered Environments",
+          "journal_conference": "IEEE RA-L",
+          "year": 2025,
+          "volume_issue_pages": "10(9): 9422-9429"
+        },
+        {
+          "id": 1,
+          "authors": "Lingyu Xiao, Jiang-jiang Liu, Sen Yang, Xiaofan Li, Xiaoqing Ye, Wankou Yang, Jingdong Wang",
+          "title": "Learning Multiple Probabilistic Decisions from Latent World Model in Autonomous Driving",
+          "journal_conference": "ICRA2025"
+        }
+      ],
+      "dblp_link": {
+        "url": "https://dblp.org/pid/99/3602.html",
+        "anchor_text": "dblp: Wankou Yang"
+      }
+    },
+    "patents": [
+      {
+        "id": 6,
+        "title": "一种少样本二维人体姿态估计方法",
+        "type": "国家发明专利",
+        "patent_number": "ZL202411936623.X"
+      },
+      {
+        "id": 5,
+        "title": "一种基于互相关优化网络的通用单目标跟踪方法",
+        "type": "国家发明专利",
+        "patent_number": "ZL2023106066948.0"
+      },
+      {
+        "id": 4,
+        "title": "人体实例感知的多人姿态估计方法",
+        "type": "国家发明专利",
+        "patent_number": "ZL202310819458.9"
+      },
+      {
+        "id": 3,
+        "title": "一种基于不平衡局部Fisher判别分析的尿沉渣检测方法",
+        "type": "国家发明专利",
+        "patent_number": "ZL201910782936.7"
+      },
+      {
+        "id": 2,
+        "title": "基于迁移学习的人脸和人脸关键点联合检测方法",
+        "type": "国家发明专利",
+        "patent_number": "ZL201910867602.X"
+      },
+      {
+        "id": 1,
+        "title": "一种基于几何条件限制的三维车辆检测方法",
+        "type": "国家发明专利",
+        "patent_number": "ZL201910452418.9"
+      }
+    ],
+    "site_chrome": {
+      "header_image": {
+        "url": "https://automation.seu.edu.cn/ywk/list.htm",
+        "description": "Image from source URL, possibly a broken image or a header image for the page itself"
+      },
+      "footer_image": {
+        "url": "https://automation.seu.edu.cn/_visitcount?siteId=338&type=2&columnId=32818",
+        "description": "Visit counter image"
+      }
+    }
+  }
+}

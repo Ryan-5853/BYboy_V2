@@ -1,0 +1,552 @@
+{
+  "meta": {
+    "tutor_name_cn": "谢利萍",
+    "request_url": "http://automation.seu.edu.cn/xlp/list.htm",
+    "declared_source_url": "http://automation.seu.edu.cn/xlp/list.htm",
+    "page_host": "automation.seu.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/da9fd1ba3e128a0d1d161113e57e13f548864541cb97d5a5266f715cca7a8c9f.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "personal_info": {
+      "name": "谢利萍",
+      "gender": "女",
+      "origin": "江苏常州人",
+      "titles": [
+        "副教授",
+        "博士生导师",
+        "硕士生导师",
+        "东南大学“至善青年学者”"
+      ],
+      "current_affiliation": "东南大学自动化学院",
+      "bio_summary": "2011年本科毕业于东南大学自动化学院，同年本科保研直博，师从魏海坤教授。2015年至2017年在悉尼科技大学QCIS中心联合培养，师从陶大程教授。2017年6月博士毕业并留校工作。",
+      "publications_count_summary": "30余篇",
+      "publications_venues_summary": [
+        "TNNLS",
+        "TCYB",
+        "TII",
+        "TFS",
+        "ACM TIST",
+        "IJCAI"
+      ],
+      "patents_applied_count": "20余项"
+    },
+    "education": [
+      {
+        "start_date": "2011.08",
+        "end_date": "2017.06",
+        "degree": "博士",
+        "institution": "东南大学",
+        "notes": "本科直博",
+        "advisor_during_phd_track": "魏海坤教授"
+      },
+      {
+        "start_date": "2015.01",
+        "end_date": "2017.01",
+        "program": "联合培养",
+        "institution": "悉尼科技大学",
+        "department_center": "QCIS中心",
+        "notes": "CSC公派",
+        "advisor_during_joint_program": "陶大程教授"
+      },
+      {
+        "start_date": "2007.08",
+        "end_date": "2011.06",
+        "degree": "学士",
+        "institution": "东南大学",
+        "department": "自动化学院"
+      }
+    ],
+    "work_experience": [
+      {
+        "start_date": "2020.04",
+        "end_date": "至今",
+        "position": "副教授",
+        "institution": "东南大学",
+        "department": "自动化学院",
+        "notes": "破格"
+      },
+      {
+        "start_date": "2017.06",
+        "end_date": "2020.03",
+        "position": "讲师",
+        "institution": "东南大学",
+        "department": "自动化学院"
+      }
+    ],
+    "awards": [
+      {
+        "year": 2022,
+        "name": "江苏高校“青蓝工程”优秀教学团队"
+      },
+      {
+        "name": "第二十四届中国机器人及人工智能大赛（短跑比赛项目）",
+        "rank_province": "省级一等奖",
+        "rank_national": "国家级优秀奖"
+      },
+      {
+        "name": "第二十四届中国机器人及人工智能大赛（点球比赛项目）",
+        "rank_province": "省级二等奖",
+        "rank_national": "国家级三等奖"
+      },
+      {
+        "year": 2021,
+        "name": "《工程设计导论（研讨）》获江苏省首批一流本科课程"
+      },
+      {
+        "year": 2021,
+        "name": "RoboCup机器人世界杯中国赛一等奖"
+      },
+      {
+        "year": 2020,
+        "name": "东南大学课程思政校级示范课项目",
+        "notes": "结题优秀"
+      },
+      {
+        "year": 2020,
+        "name": "东南大学校级课程思政教育教学改革项目"
+      },
+      {
+        "year": 2020,
+        "name": "RoboCup机器人世界杯中国赛二等奖"
+      },
+      {
+        "year": 2019,
+        "name": "入选东南大学“至善青年学者”"
+      },
+      {
+        "year": 2019,
+        "name": "南京市留学回国人员择优资助计划"
+      },
+      {
+        "year": 2018,
+        "name": "东南大学优秀博士学位论文"
+      }
+    ],
+    "courses_taught": [
+      "《计算机程序设计（上）》",
+      "《工程设计导论（研讨）》",
+      "《数字信号处理》"
+    ],
+    "projects": [
+      {
+        "id": 1,
+        "name": "南通海洋研究院基金重点项目",
+        "role": "主持"
+      },
+      {
+        "id": 2,
+        "name": "国家自然科学基金面上项目，跨视角在线动作检测方法研究及其应用",
+        "role": "主持"
+      },
+      {
+        "id": 3,
+        "name": "纵向课题，数据流场景下***的动作全状态在线预测研究",
+        "role": "主持"
+      },
+      {
+        "id": 4,
+        "name": "某项目，***",
+        "role": "主持"
+      },
+      {
+        "id": 5,
+        "name": "国家自然科学基金青年项目，基于在线学习的人脸表情预检测研究",
+        "role": "主持"
+      },
+      {
+        "id": 6,
+        "name": "江苏省自然科学基金青年项目，数据流场景下的表情预检测研究",
+        "role": "主持"
+      },
+      {
+        "id": 7,
+        "name": "国家重点研发计划，分布式光伏系统智慧运维技术",
+        "role": "项目骨干"
+      },
+      {
+        "id": 8,
+        "name": "南极泰山站远程遥控能源供应模块",
+        "role": "项目骨干"
+      },
+      {
+        "id": 9,
+        "name": "国家自然科学基金面上项目，基于地基云图和深度学习的光伏功率超短期预测研究",
+        "role": "第二合作人"
+      },
+      {
+        "id": 10,
+        "name": "国家自然科学基金面上项目，欠驱动吊环机器人系统的控制设计和分析",
+        "role": "第二合作人"
+      },
+      {
+        "id": 11,
+        "name": "国家自然科学基金面上项目，非线性切换系统的输出反馈控制研究",
+        "role": "第二合作人"
+      },
+      {
+        "id": 12,
+        "name": "江苏省自然科学基金青年项目，基于视觉认知特性的复杂图像显著目标检测研究",
+        "role": "第二合作人"
+      },
+      {
+        "id": 13,
+        "name": "国家自然科学基金青年项目，结合感知分组和视觉注意特性的显著目标检测研究",
+        "role": "第三合作人"
+      }
+    ],
+    "publications": [
+      {
+        "id": 1,
+        "authors": "Liping Xie*",
+        "title": "Probabilistic Temporal Masked Attention for Cross-view Online Action Detection",
+        "journal": "IEEE Transactions on Multimedia",
+        "year": 2025,
+        "rank": "中科院一区TOP"
+      },
+      {
+        "id": 2,
+        "authors": "Liping Xie*",
+        "title": "Fuzzy Adaptive Event-Driven Control Strategy and Its Application in Ship Maneuvering System with Input Delay and Full-State Constraints",
+        "journal": "IEEE Transactions on Systems, Man and Cybernetics: Systems",
+        "year": 2025,
+        "doi": "10.1109/TSMC.2025.3579537",
+        "rank": "中科院一区TOP"
+      },
+      {
+        "id": 3,
+        "authors": "Jiahui Zhu, Liping Xie*",
+        "title": "Distributed Adaptive Stabilization for Stochastic Nonlinear Systems with Unknown Boundaries: A Novel Fixed-time Stability in Probability",
+        "journal": "Nonlinear Dynamics",
+        "year": 2025,
+        "doi": "10.1007/s11071-025-11486-5",
+        "rank": "中科院二区",
+        "notes": "朱嘉辉：23级硕士研究生"
+      },
+      {
+        "id": 4,
+        "authors": "Kun Wang, Liping Xie*",
+        "title": "Fixed-time adaptive tracking event-based control for uncertain stochastic nonlinear systemswith output constraints",
+        "journal": "International Journal of Robust and Nonlinear Control",
+        "year": 2025,
+        "doi": "10.1002/rnc.7955",
+        "notes": "汪坤：23级硕士研究生"
+      },
+      {
+        "id": 5,
+        "authors": "Yixuan Yuan, Liping Xie*",
+        "title": "Fast Finite-Time Stabilizing for Pure-Feedback Stochastic Nonlinear Systems: A Neural Network Dynamic Event-Triggered Strategy",
+        "journal": "Nonlinear Dynamics",
+        "year": 2025,
+        "volume_issue_pages": "113(9): 9915-9929",
+        "rank": "中科院二区TOP",
+        "notes": "袁艺璇：23级博士研究生"
+      },
+      {
+        "id": 6,
+        "authors": "Liping Xie*",
+        "title": "Enhancing Denoising Probability Neural Network (EDPNet) for Mitigating Cumulative Errors and Complex Pattern Separation in Time Series Forecasting",
+        "journal": "Measurement Science and Technology",
+        "year": 2025,
+        "doi": "10.1088/1361-6501/adfc8a",
+        "rank": "JCR Q1"
+      },
+      {
+        "id": 7,
+        "authors": "Yang Tan, Liping Xie*",
+        "title": "Annealing Temporal-Spatial Contrastive Learning for Multi-view Online Action Detection",
+        "journal": "Knowledge-Based Systems",
+        "year": 2024,
+        "volume_issue_pages": "304: 112523",
+        "rank": "中科院一区TOP",
+        "notes": "谭阳：22级硕士研究生"
+      },
+      {
+        "id": 8,
+        "authors": "Yixuan Yuan, Liping Xie*",
+        "title": "Fast finite time stability in probability of p-norm stochastic nonlinear systems with Mismatched uncertainties and dead-zone",
+        "journal": "IEEE Transactions on Automation Science and Engineering",
+        "year": 2024,
+        "volume_issue_pages": "22: 4937-4946",
+        "rank": "中科院二区TOP",
+        "notes": "袁艺璇：23级博士研究生"
+      },
+      {
+        "id": 9,
+        "authors": "Yihao Zhang, Liping Xie*",
+        "title": "Asymptotic Tracking Control of Stochastic Nonstrict Feedback Systems with Multiple Time-Delays: A Novel Lyapunov-Krasovskii Method",
+        "journal": "IEEE Transactions on Fuzzy Systems",
+        "year": 2024,
+        "volume_issue_pages": "32(6):3815-3824",
+        "rank": "中科院一区TOP",
+        "impact_factor": 11.9,
+        "notes": "张壹浩：21级硕士研究生"
+      },
+      {
+        "id": 10,
+        "authors": "Hanjin Zhang, Liping Xie*",
+        "title": "A Novel Hybrid Transformer-based Framework for Solar Irradiance Forecasting Under Incomplete Data Scenarios",
+        "journal": "IEEE Transactions on Industrial Informatics",
+        "year": 2024,
+        "volume_issue_pages": "20(6):8605 - 8615",
+        "rank": "中科院一区TOP",
+        "impact_factor": 12.3,
+        "notes": "张晗津：21级硕士研究生"
+      },
+      {
+        "id": 11,
+        "authors": "Yefeng Xu, Liping Xie*",
+        "title": "Adaptive Fuzzy Tracking Control for Stochastic Nonlinear Systems with Full-State Constraints",
+        "journal": "International Journal of Fuzzy Systems",
+        "year": 2024,
+        "volume_issue_pages": "26(6): 1840-1851",
+        "rank": "中科院二区",
+        "notes": "徐烨枫：22级硕士研究生"
+      },
+      {
+        "id": 12,
+        "authors": "Sijia Chen, Liping Xie*",
+        "title": "Adaptive Output Feedback Control of Stochastic Systems with Mismatched Uncertainties Input-Output Quantization",
+        "journal": "Journal of the Franklin Institute",
+        "year": 2024,
+        "volume_issue_pages": "361(9): 106867",
+        "notes": "陈斯佳：22级硕士研究生"
+      },
+      {
+        "id": 13,
+        "authors": "Junlong Tong, Liping Xie*",
+        "title": "Enhancing Time Series Forecasting: A Hierarchical Transformer with Probabilistic Decomposition Representation",
+        "journal": "Information Sciences",
+        "year": 2023,
+        "volume_issue_pages": "119410",
+        "rank": "中科院一区TOP",
+        "impact_factor": 8.1,
+        "notes": "童俊龙：20级硕士研究生"
+      },
+      {
+        "id": 14,
+        "authors": "Yihao Zhang, Liping Xie*",
+        "title": "Fast Finite-Time Fuzzy Control for a class of Nonstrict Feedback Systems with InputQuantization",
+        "journal": "International Journal of Fuzzy Systems",
+        "year": 2023,
+        "volume_issue_pages": "25(3),1213-1226",
+        "rank": "中科院二区",
+        "notes": "张壹浩：21级硕士研究生"
+      },
+      {
+        "id": 15,
+        "authors": "Junlong Tong, Liping Xie*",
+        "title": "Probabilistic Decomposition Transformer for Time Series Forecasting",
+        "conference": "SIAM International Conference on Data Mining(SDM23)",
+        "volume_issue_pages": "478-486",
+        "notes": "数据挖掘三大国际顶级会议"
+      },
+      {
+        "id": 16,
+        "authors": "Liping Xie",
+        "title": "Graph Regularized Structured Output SVM for Early Expression Detection with Online Extension",
+        "journal": "IEEE Transactions on Cybernetics (TCYB)",
+        "year": 2023,
+        "volume_issue_pages": "53(3):1419-1431",
+        "rank": "中科院一区TOP",
+        "impact_factor": 11.8
+      },
+      {
+        "id": 17,
+        "authors": "Junlong Tong, Liping Xie*",
+        "title": "Hourly solar irradiance forecasting based on encoder-decoder model using series decomposition and dynamic error compensation",
+        "journal": "Energy Conversion and Management",
+        "year": 2022,
+        "volume_issue_pages": "270: 116049",
+        "rank": "中科院一区TOP",
+        "impact_factor": 10.4,
+        "notes": "童俊龙：20级硕士研究生"
+      },
+      {
+        "id": 18,
+        "authors": "Liping Xie",
+        "title": "Early Expression Detection via Online Multi-instance Learning with Nonlinear Extension",
+        "journal": "IEEE Transactions on Neural Networks and Learning Systems (TNNLS)",
+        "year": 2019,
+        "volume_issue_pages": "30(5):1486-1496",
+        "rank": "中科院一区TOP",
+        "impact_factor": 10.4
+      },
+      {
+        "id": 19,
+        "authors": "Liping Xie",
+        "title": "Efficient Unsupervised Dimension Reduction for Streaming Multi-view Data",
+        "journal": "IEEE Transactions on Cybernetics (TCYB)",
+        "year": 2022,
+        "volume_issue_pages": "52(3):1772-1784",
+        "rank": "中科院一区TOP",
+        "impact_factor": 11.8
+      },
+      {
+        "id": 20,
+        "authors": "Liping Xie",
+        "title": "Joint Structured Sparsity Regularized Multi-view Dimension Reduction for Video-based Facial Expression Recognition",
+        "journal": "ACM Transactions on Intelligent Systems and Technology (ACM TIST)",
+        "year": 2017,
+        "volume_issue_pages": "8(2):28"
+      },
+      {
+        "id": 21,
+        "authors": "Liping Xie",
+        "title": "Multi-view Exclusive Unsupervised Dimension Reduction for Video-based Facial Expression Recognition",
+        "conference": "25th International Joint Conference on Artificial Intelligence IJCAI-16",
+        "volume_issue_pages": "2217-2223"
+      },
+      {
+        "id": 22,
+        "authors": "Liping Xie",
+        "title": "Online Kernel-based Structured Output SVM for Early Expression Detection",
+        "journal": "IEEE Signal Processing Letters",
+        "year": 2019,
+        "volume_issue_pages": "26(9):1305-1309"
+      },
+      {
+        "id": 23,
+        "authors": "Liping Xie",
+        "title": "Behavioral Modeling of Nonlinear RF Power Amplifiers Using Cascade-Correlation Networks",
+        "journal": "Neurocomputing",
+        "year": 2015,
+        "volume_issue_pages": "154:24-32"
+      },
+      {
+        "id": 24,
+        "authors": "Liping Xie",
+        "title": "Automatic Feature Extraction Based Structure Decomposition Method for Multi-classification",
+        "journal": "Neurocomputing",
+        "year": 2016,
+        "volume_issue_pages": "173:744-750"
+      }
+    ],
+    "research_interests": [
+      {
+        "category": "计算机视觉与机器学习",
+        "sub_areas": [
+          "目标检测",
+          "深度补全"
+        ]
+      },
+      {
+        "category": "无人系统群体智能",
+        "sub_areas": [
+          "智能决策",
+          "强化学习"
+        ]
+      }
+    ],
+    "student_supervision": [
+      {
+        "name": "童俊龙",
+        "degree_level": "硕士研究生",
+        "enrollment_year": 2020,
+        "notes": "第一届硕士生",
+        "achievements": [
+          "获2024年江苏省优秀硕士学位论文荣誉（20级唯一）"
+        ]
+      },
+      {
+        "name": "张壹浩",
+        "degree_level": "硕士研究生",
+        "enrollment_year": 2021,
+        "achievements": [
+          "推荐参评2025年度东南大学优秀硕士学位论文"
+        ]
+      },
+      {
+        "name": "谭阳",
+        "degree_level": "硕士研究生",
+        "enrollment_year": 2022,
+        "achievements": [
+          "获国家奖学金",
+          "推荐参评2026年度江苏省优秀硕士学位论文"
+        ]
+      },
+      {
+        "name": "袁艺璇",
+        "degree_level": "博士研究生",
+        "enrollment_year": 2023,
+        "achievements": [
+          "获评2024年度东南大学博士研究生创新能力提升计划",
+          "2025年度江苏省研究生科研与实践创新计划"
+        ]
+      }
+    ],
+    "recruitment": {
+      "welcome_majors": [
+        "自动化",
+        "计算机",
+        "数学",
+        "相关专业"
+      ],
+      "annual_quota": {
+        "本部": {
+          "doctoral_students": "1～2人/每年",
+          "master_students": "2～4人/每年"
+        },
+        "无锡校区": {
+          "master_students": "1～2人/每年"
+        },
+        "苏州校区": {
+          "master_students": "1～2人/每年"
+        }
+      }
+    },
+    "contact_info": {
+      "email": "lpxie@seu.edu.cn"
+    },
+    "affiliations_and_roles": {
+      "reviewer_for_journals": [
+        "IEEE TNNLS",
+        "IEEE TCYB",
+        "IEEE TBD",
+        "IEEE-TIP",
+        "NEUCOM"
+      ],
+      "pc_member_for_conferences": [
+        "NIPS",
+        "ICML",
+        "ICLR",
+        "ICDM2023",
+        "IJCAI-PRICAI2020",
+        "IscIDE2019"
+      ],
+      "memberships": [
+        "江苏省人工智能学会模式识别专委会委员",
+        "江苏省自动化学会会员",
+        "中国计算机学会会员",
+        "电气电子工程师学会会员"
+      ]
+    },
+    "site_metadata": {
+      "source_url": "http://automation.seu.edu.cn/xlp/list.htm",
+      "images": [
+        {
+          "url": "https://automation.seu.edu.cn/xlp/list.htm",
+          "description": "Image from the webpage (URL is same as page, potentially a placeholder/broken image)"
+        },
+        {
+          "url": "https://automation.seu.edu.cn/_visitcount?siteId=338&type=2&columnId=32848",
+          "description": "Visit counter image"
+        }
+      ],
+      "page_navigation_links": [
+        "教育背景",
+        "工作经历",
+        "学术兼职",
+        "所获奖励",
+        "讲授课程",
+        "学生培养",
+        "研究兴趣",
+        "科研项目",
+        "论文发表"
+      ]
+    }
+  }
+}

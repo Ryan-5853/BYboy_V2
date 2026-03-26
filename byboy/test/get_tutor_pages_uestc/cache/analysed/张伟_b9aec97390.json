@@ -1,0 +1,181 @@
+{
+  "meta": {
+    "tutor_name_cn": "张伟",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1175/4400.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1175/4400.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/b34b51ce91e5916f09fcb38bbc7a9d4fee5c521a3230fabfcc84e34d97a09182.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "source_url": "https://www.auto.uestc.edu.cn/info/1175/4400.htm",
+    "target_professor_name": "张伟",
+    "site_chrome": {
+      "title": "师资队伍",
+      "breadcrumbs": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "Z",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/Z.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "navigation_links": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ]
+    },
+    "professor_info": {
+      "name": "张伟",
+      "image_url": "https://www.auto.uestc.edu.cn/__local/E/4C/A7/39001C84803BB7F2F4382FE6456_ADB8B14B_20E7.jpg",
+      "basic_details": {
+        "highest_degree": "博士",
+        "contact_phone": null,
+        "position_title": "副教授",
+        "email": "weizhang@uestc.edu.cn",
+        "supervisor_status": "硕士导师",
+        "personal_homepage": null,
+        "research_team": "地球信息智能探测团队"
+      },
+      "main_research_directions": [
+        "声电磁核测井方法及仪器设计",
+        "无损检测与成像",
+        "微弱信号高精度采集与处理",
+        "智能信息处理",
+        "通信导航雷达与声呐技术"
+      ],
+      "academic_titles_and_affiliations": [
+        "The Society of Petrophysicists and Well Log Analysts (SPWLA)中国西南分会执行委员",
+        "IEEE Geoscience and Remote Sensing Society(GRSS)中国成都分会执行委员",
+        "IEEE Instrumentation and Measurement Society Membership",
+        "中国仪器仪表学会地质仪器分会会员",
+        "中国人工智能学会终身高级会员",
+        "《测井技术》青年编委会委员（2022-2023 年度杰出青年编委、突出贡献审稿专家）"
+      ],
+      "reviewer_roles": [
+        "IEEE Transactions on Geoscience and Remote Sensing",
+        "Engineering Applications of Artificial Intelligence",
+        "Mechanical Systems and Signal Processing",
+        "IEEE Transactions on Instrumentation and Measurement (2021, 2024 year Outstanding Reviewer)",
+        "Petroleum Science",
+        "Journal of Applied Geophysics",
+        "Measurement",
+        "《仪器仪表学报》（2022, 2024年杰出评审专家）"
+      ],
+      "education_and_work_experience": [
+        {
+          "start_date": "2012-08",
+          "end_date": "至今",
+          "institution": "电子科技大学",
+          "country": "中国",
+          "department": "自动化工程学院",
+          "position": "副教授",
+          "type": "work"
+        },
+        {
+          "start_date": "2010-07",
+          "end_date": "2012-07",
+          "institution": "电子科技大学",
+          "country": "中国",
+          "department": "自动化工程学院",
+          "position": "讲师",
+          "type": "work"
+        },
+        {
+          "start_date": "2005-09",
+          "end_date": "2010-06",
+          "institution": "电子科技大学",
+          "country": "中国",
+          "department": "自动化工程学院",
+          "degree": "博士",
+          "type": "education"
+        },
+        {
+          "start_date": "2002-09",
+          "end_date": "2005-06",
+          "institution": "电子科技大学",
+          "country": "中国",
+          "department": "自动化工程学院",
+          "degree": "硕士",
+          "type": "education"
+        },
+        {
+          "start_date": "1998-09",
+          "end_date": "2002-07",
+          "institution": "电子科技大学",
+          "country": "中国",
+          "department": "自动化工程学院",
+          "degree": "本科",
+          "type": "education"
+        }
+      ],
+      "scientific_research": {
+        "projects": [
+          "国家自然科学基金重点项目1项",
+          "国家自然科学基金青年项目1项",
+          "“十二五”国家科技重大专项子课题2项",
+          "“十三五”国家科技重大专项子课题1项",
+          "中科院A类战略性先导科技专项子课题1项",
+          "中央高校基本科研业务费专项资金2项",
+          "企业合作项目40余项"
+        ],
+        "funding_amount": "科研经费累计超五千万元",
+        "collaborating_institutions": [
+          "中海油",
+          "中国科学院",
+          "中电集团",
+          "民用航空航天等知名企业和科研机构"
+        ],
+        "achievements": [
+          "牵头研制的系列化电缆/随钻声波测井仪井下电路系统实现批量生产并在油田推广应用"
+        ],
+        "publications": {
+          "recent_five_years": "近五年以第一作者/通讯作者在国际权威期刊/顶级会议发表论文30余篇（其中中科院一区3篇，中科院二区5篇）"
+        },
+        "patents": {
+          "us_invention_patents": "1项",
+          "china_invention_patents": "20项（均为第一发明人）"
+        }
+      },
+      "courses_and_teaching_research": {
+        "undergraduate_courses": [
+          "电路分析与电子线路"
+        ],
+        "graduate_courses": [
+          "射频电路设计"
+        ]
+      },
+      "student_recruitment": {
+        "masters_majors": [
+          "080400仪器科学与技术",
+          "085400电子信息",
+          "086100交通运输"
+        ],
+        "phd_majors": []
+      }
+    }
+  }
+}

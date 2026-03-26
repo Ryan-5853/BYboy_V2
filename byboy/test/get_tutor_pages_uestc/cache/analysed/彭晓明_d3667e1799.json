@@ -1,0 +1,181 @@
+{
+  "meta": {
+    "tutor_name_cn": "彭晓明",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1165/4454.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1165/4454.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/83f6ce6b0d9b9f71dbccfef92bf83d465aaece24255758556ba5b2345d139a47.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "source_url": "https://www.auto.uestc.edu.cn/info/1165/4454.htm",
+    "site_chrome": {
+      "page_title_heading": "师资队伍",
+      "breadcrumbs": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "P",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/P.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "side_navigation": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ],
+      "secondary_navigation": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ]
+    },
+    "basic_info": {
+      "name": "彭晓明",
+      "image_url": "https://www.auto.uestc.edu.cn/__local/5/C2/86/C4E196FFA0A76D38078C6FC5210_7C4FBCE5_2D40A0.jpg",
+      "highest_degree": "博士",
+      "contact_phone": null,
+      "title_position": "副教授",
+      "email": "pengxm@uestc.edu.cn",
+      "supervisor_status": "硕士导师",
+      "personal_homepage": "https://faculty.uestc.edu.cn/XiaomingPeng/zh_CN/index.htm",
+      "research_team": "测试技术与仪器研究所"
+    },
+    "main_research_directions": [
+      "图像/视频处理",
+      "模式识别",
+      "深度学习"
+    ],
+    "academic_titles_and_affiliations": [],
+    "experience": {
+      "education": [
+        {
+          "period": "1993.9 - 1997.7",
+          "institution": "湖北工学院",
+          "major": "电气技术",
+          "degree_status": "大学本科毕业",
+          "degree": "工学学士学位"
+        },
+        {
+          "period": "1997.9 - 2000.7",
+          "institution": "中科院光电技术研究所",
+          "major": "物理电子学",
+          "degree_status": "硕士研究生毕业",
+          "degree": "工学硕士学位"
+        },
+        {
+          "period": "2000.9 - 2005.6",
+          "institution": "华中科技大学",
+          "major": "模式识别与智能系统",
+          "degree_status": "博士研究生毕业",
+          "degree": "工学博士学位"
+        },
+        {
+          "period": "2016.7 - 2020.3",
+          "institution": "University of Wollongong, Australia",
+          "major": "Computer Engineering",
+          "degree": "Doctor of Philosophy"
+        }
+      ],
+      "work": [
+        {
+          "period": "2008.8 - 至今",
+          "institution": "电子科技大学自动化工程学院",
+          "position": "副教授"
+        },
+        {
+          "period": "2007.1 - 2008.07",
+          "institution": "电子科技大学自动化工程学院",
+          "position": "讲师"
+        },
+        {
+          "period": "2005.2 - 2006.12",
+          "institution": "电子科技大学计算机科学与技术博士后流动站",
+          "position": "博士后"
+        }
+      ],
+      "other_experience": [
+        {
+          "period": "2010.9 - 2016.10",
+          "institution": "University of Western Australia School of Computer Sciene and Software Engineering",
+          "position": "Adjunct Lecturer"
+        },
+        {
+          "period": "2009.9 - 2010.9",
+          "institution": "University of Western Australia School of Computer Sciene and Software Engineering",
+          "position": "Visiting scholar"
+        }
+      ]
+    },
+    "scientific_research": {
+      "publications_summary": "以第一作者身份发表了29篇论文，包括10篇国外期刊论文，11篇国际会议论文和8篇国内期刊论文。",
+      "projects_summary": "先后主持过“弹性图像配准方法研究”（973子项目）、某航空基金项目、若干横向项目以及校级科研项目。参与过包括国家自然科学基金在内的多个科研项目。"
+    },
+    "teaching_activities": {
+      "experience_summary": "超过10年的教学经验。",
+      "courses_taught": [
+        {
+          "name": "数字图像处理",
+          "level": "本科"
+        },
+        {
+          "name": "最优化方法理论与应用",
+          "level": "研究生"
+        },
+        {
+          "name": "数值分析",
+          "level": "本科"
+        },
+        {
+          "name": "模式识别",
+          "level": "本科、研究生"
+        },
+        {
+          "name": "C语言",
+          "level": "本科"
+        },
+        {
+          "name": "工程硕士英语",
+          "level": null
+        }
+      ],
+      "other_teaching_roles": [
+        "在University of Wollongong担任过一学期“数字信号处理”课程的助教(Lab demonstration & marking) 工作。"
+      ]
+    },
+    "enrollment_information": {
+      "master_programs": [
+        "081100控制科学与工程",
+        "085400电子信息"
+      ],
+      "phd_programs": []
+    }
+  }
+}

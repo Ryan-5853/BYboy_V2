@@ -1,0 +1,164 @@
+{
+  "meta": {
+    "tutor_name_cn": "汤浩",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1169/4331.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1169/4331.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/a445101833d5c91af8519c6823a10d8da41f699f965369593e7f6870f75dc679.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "site_chrome": {
+      "source_url": "https://www.auto.uestc.edu.cn/info/1169/4331.htm",
+      "navigation_breadcrumb": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "T",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/T.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "sidebar_navigation": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ]
+    },
+    "basic_info": {
+      "name": "汤浩",
+      "image_url": "https://www.auto.uestc.edu.cn/__local/F/1F/32/E3111E0FC5B8F949A9BD344779E_7E37D3A1_4CF3.jpg",
+      "highest_degree": "博士",
+      "contact_phone": null,
+      "position_title": "教授（外籍）",
+      "email": "tanghao@uestc.edu.cn",
+      "advisor_status": "博士导师",
+      "personal_homepage": null,
+      "research_team": "系统工程与智能装备团队"
+    },
+    "main_research_directions": [
+      "新能源系统及控制技术",
+      "复杂系统及智能信息处理",
+      "系统工程与智能装备",
+      "故障诊断与容错控制"
+    ],
+    "academic_titles_and_concurrent_posts": [
+      "国家领军人才",
+      "全国“讲理想、比贡献”优秀创新团队带头人",
+      "四川省外籍专家最高荣誉“天府友谊奖”获得者",
+      "四川省“RP计划”创新人才",
+      "海外高层次人才新能源领域专家组召集人",
+      "全国“互联网+”大赛评审专家",
+      "青山科技奖、国家科学技术奖励评审专家库专家",
+      "能源行业液流电池标准化技术委员会观察员"
+    ],
+    "experience": {
+      "education_and_work_history": [
+        {
+          "time_range": "2018.8 至今",
+          "institution": "电子科技大学",
+          "department": "自动化工程学院",
+          "position": "教授，博士生导师"
+        },
+        {
+          "time_range": "2010.8-2017.11",
+          "institution": "中国东方电气集团",
+          "position": "特聘专家、能量转换研发中心主任"
+        },
+        {
+          "time_range": "2005.4-2010.7",
+          "institution": "加拿大Hyteon公司",
+          "position": "技术总监、首席科学家"
+        },
+        {
+          "time_range": "2000.5-2005.3",
+          "institution": "美国Plug Power公司",
+          "position": "基础研究部负责人"
+        },
+        {
+          "time_range": "1999.3-2000.4",
+          "institution": "美国Worcester Polytechnic Institute大学",
+          "position": "访问科学家"
+        },
+        {
+          "time_range": "1996.9-1999.2",
+          "institution": "美国Tulane大学",
+          "position": "访问学者"
+        },
+        {
+          "time_range": "1995.8-1996.8",
+          "institution": "加拿大Laval大学",
+          "position": "访问学者"
+        },
+        {
+          "time_range": "1993.1-1995.7",
+          "institution": "中科院长春应用化学研究所",
+          "position": "博士后"
+        },
+        {
+          "time_range": "1982.9-1992.12",
+          "institution": "吉林大学",
+          "degree": "学士、硕士、博士"
+        }
+      ]
+    },
+    "scientific_research": {
+      "overview": "针对新能源系统的多参数、非线性、多维度、强耦合、大滞后特点，解析功能模块间耦合规律，开展复杂系统与控制、智能信息检测与处理、系统工程与智能装备、故障诊断与容错控制技术研究。",
+      "projects": "2018年以来团队先后承担/参与国家重点研发项目7个，省部级科技支撑项目4个，中国汽研、哈电集团、东方电气等中央企业联合攻关项目6个。",
+      "publications": "近5年作为通讯作者发表SCI论文40余篇",
+      "patents": "授权国内外发明专利70余项",
+      "achievements": "主持开发出新能源领域核心模块、动力系统、大功率测试装备等系列产品，实现了批量生产及商业化应用。"
+    },
+    "courses": {
+      "undergraduate_courses": [
+        "新能源系统导论",
+        "魅力自动化：入门与创新",
+        "智能控制：构建低碳可持续未来"
+      ],
+      "graduate_courses": [
+        "学科前沿知识专题讲座",
+        "创新实践课程"
+      ]
+    },
+    "admission_majors": {
+      "masters": [
+        "081100控制科学与工程",
+        "085406控制工程"
+      ],
+      "doctors": [
+        "081100控制科学与工程",
+        "085400电子信息",
+        "086100交通运输"
+      ]
+    }
+  }
+}

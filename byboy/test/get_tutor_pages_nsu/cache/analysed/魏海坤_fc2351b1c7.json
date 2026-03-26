@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "tutor_name_cn": "魏海坤",
+    "request_url": "http://automation.seu.edu.cn/whk/list.htm",
+    "declared_source_url": "http://automation.seu.edu.cn/whk/list.htm",
+    "page_host": "automation.seu.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/bb4aca7be48cace10a31ea61557f1ca044997a692d9464308cc3af2f66e5d43b.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "site_chrome": {
+      "source_url": "http://automation.seu.edu.cn/whk/list.htm",
+      "visit_count_image_url": "https://automation.seu.edu.cn/_visitcount?siteId=338&type=2&columnId=32749"
+    },
+    "basic_info": {
+      "name": "魏海坤",
+      "titles_and_positions": [
+        "东南大学自动化学院教授",
+        "博士生导师",
+        "院学术委员会主任",
+        "复杂工程系统测量与控制教育部重点实验室副主任"
+      ],
+      "social_appointments": [
+        "中国自动化学会教育工作委员会副主任",
+        "江苏省自动化学会副理事长",
+        "江苏省自动化学会教育工作委员会主任"
+      ],
+      "education_summary": "2000年于东南大学自动化所获博士学位",
+      "postdoctoral_research": {
+        "period": "2005 年至2007 年",
+        "institution": "日本理化学研究所（RIKEN）",
+        "supervisor": "Shun-ich Amari（甘利俊一）教授"
+      },
+      "main_research_directions": [
+        "极端环境和复杂场景下自主无人系统的分析和设计",
+        "基于神经网络的机器学习理论及应用"
+      ],
+      "achievements_and_contributions": [
+        "作为专业负责人创建了我国首个机器人工程本科专业",
+        "负责研制了我国首套南极无人值守能源供应装置，并于2010年赴南极内陆科考"
+      ],
+      "projects_summary": "主持和参与了自动化与无人系统设计、机器学习等领域的国家重点研发计划、国家自然科学基金、校企合作课题50余项",
+      "publications_summary": "在人工智能和新能源领域的国际知名刊物和会议发表论文数十篇",
+      "application_scenarios": [
+        "南极科考",
+        "电力系统巡检",
+        "新能源预测"
+      ],
+      "commercialization_note": "项目组现有多项成果可转化，详见“科研项目”，欢迎联系。"
+    },
+    "education_background": [
+      {
+        "period": "1989 - 1994",
+        "institution": "北方工业大学自动化系",
+        "degree": "工学学士学位",
+        "year_awarded": 1994
+      },
+      {
+        "period": "1994 - 1997",
+        "institution": "东南大学自动化研究所",
+        "major": "控制理论与控制工程专业",
+        "degree": "工学硕士学位",
+        "year_awarded": 1997
+      }
+    ]
+  }
+}

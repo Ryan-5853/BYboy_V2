@@ -1,0 +1,186 @@
+{
+  "meta": {
+    "tutor_name_cn": "黄显核",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1157/4355.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1157/4355.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/b678e199cd2d3ff1eabb2d43b42ba855e9606c3949269071837c475d0391bda3.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "professor_name": "黄显核",
+    "source_url": "https://www.auto.uestc.edu.cn/info/1157/4355.htm",
+    "site_chrome": {
+      "breadcrumb_navigation": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "H",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/H.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "sidebar_navigation": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ]
+    },
+    "personal_details": {
+      "name": "黄显核",
+      "image_url": "https://www.auto.uestc.edu.cn/__local/6/61/1C/903ABAE82D1546A21FAFBB07D35_A4347E93_3F52E.jpg",
+      "highest_degree": "硕士",
+      "title_position": "教授",
+      "supervisor_status": "博士导师",
+      "personal_homepage": null,
+      "research_team": "时频检测与控制技术团队"
+    },
+    "contact_info": {
+      "phone": null,
+      "email": "xianhehuang@uestc.edu.cn"
+    },
+    "research_directions": [
+      "高精度时间频率检测、控制和传感技术"
+    ],
+    "academic_titles_and_affiliations": [
+      {
+        "title": "四川省声学学会常务理事",
+        "type": "academic_affiliation"
+      },
+      {
+        "title": "四川省电子学会时间频率专委会副主任",
+        "type": "academic_affiliation"
+      },
+      {
+        "title": "APL 审稿人",
+        "type": "reviewer"
+      },
+      {
+        "title": "IEEE T ON CAS Ⅰ/Ⅱ 审稿人",
+        "type": "reviewer"
+      },
+      {
+        "title": "IEEE T ON UFFC 审稿人",
+        "type": "reviewer"
+      },
+      {
+        "title": "IEEE Sensors Journal 审稿人",
+        "type": "reviewer"
+      },
+      {
+        "title": "Measurement 审稿人",
+        "type": "reviewer"
+      },
+      {
+        "title": "中国科学 审稿人",
+        "type": "reviewer"
+      },
+      {
+        "title": "中国物理快报 审稿人",
+        "type": "reviewer"
+      },
+      {
+        "title": "中国光学快报 审稿人",
+        "type": "reviewer"
+      },
+      {
+        "title": "中国电子学报 审稿人",
+        "type": "reviewer"
+      },
+      {
+        "title": "IEEE senior member",
+        "type": "academic_title"
+      },
+      {
+        "title": "IEEE FREQUENCY CONTROL SYMPOSIUM TPC成员",
+        "type": "academic_affiliation"
+      }
+    ],
+    "experience": {
+      "work_experience": [
+        {
+          "period": "1988.3-2001.9",
+          "description": "任电子十所九部部副主任、书记"
+        },
+        {
+          "period": "2001.10-2002.3",
+          "description": "任天奥电子公司书记、研究员"
+        },
+        {
+          "period": "2002.4至今",
+          "description": "任电子科技大学自动化工程学院教授"
+        }
+      ]
+    },
+    "scientific_research": {
+      "description": "长期从事高精度时间频率检测、控制和传感技术方面的研究。",
+      "projects": "主持部级和横向科研项目数十项。",
+      "awards": [
+        "省部级科技进步奖2项"
+      ],
+      "patents": [
+        "申请发明专利6项"
+      ],
+      "publications": {
+        "total_papers": "60余篇",
+        "sci_indexed_papers": "20篇以上",
+        "journals": "IEEE T 系列等刊物"
+      },
+      "teaching_contributions": "分别为研究生和本科生教授《非线性系统理论》和《锁相与频率合成》课程。",
+      "student_supervision": {
+        "doctoral_students_count": "10余名",
+        "master_students_count": "50余名"
+      }
+    },
+    "courses_taught": {
+      "undergraduate_courses": [
+        "锁相与频率合成",
+        "魅力自动化：入门与创新"
+      ],
+      "graduate_courses": [
+        "时间频率的检测与控制技术",
+        "非线性系统理论"
+      ]
+    },
+    "admission_specialties": {
+      "master": [
+        "081100控制科学与工程",
+        "085400电子信息"
+      ],
+      "doctoral": [
+        "081100控制科学与工程",
+        "085400电子信息",
+        "086100交通运输"
+      ]
+    }
+  }
+}

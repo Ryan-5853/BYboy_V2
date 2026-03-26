@@ -1,0 +1,469 @@
+{
+  "meta": {
+    "tutor_name_cn": "甘亚辉",
+    "request_url": "http://automation.seu.edu.cn/gyh/list.htm",
+    "declared_source_url": "http://automation.seu.edu.cn/gyh/list.htm",
+    "page_host": "automation.seu.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/cc07508800eb0f11d2f7887a9ed9057e09b3411646c6eebadd36ffbe6a89625e.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": "页面包含大量导师的教育、工作、获奖、课程、科研项目、论文和专利等详细信息，有效文字内容丰富。"
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "target_person_name": "甘亚辉",
+    "source_url": "http://automation.seu.edu.cn/gyh/list.htm",
+    "site_chrome": {
+      "extracted_from_source": "抓取来源：http://automation.seu.edu.cn/gyh/list.htm",
+      "images_on_page": [
+        {
+          "url": "https://automation.seu.edu.cn/gyh/list.htm",
+          "alt_text": ""
+        },
+        {
+          "url": "https://automation.seu.edu.cn/_upload/article/images/ad/b0/1f3bc810401c86097bf61592fbf2/abc6333d-b9ee-46b6-a79b-be7aa4bd0a67.jpg",
+          "alt_text": ""
+        },
+        {
+          "url": "https://automation.seu.edu.cn/_visitcount?siteId=338&type=2&columnId=32833",
+          "alt_text": ""
+        }
+      ]
+    },
+    "profile_sections": {
+      "basic_info": {
+        "name": "甘亚辉",
+        "gender": "男",
+        "birth_year": 1985,
+        "birth_month": 6,
+        "birthplace": "山东滕州",
+        "current_affiliation": "东南大学自动化学院",
+        "titles_and_positions": [
+          "副教授",
+          "硕士生导师"
+        ],
+        "education_summary": [
+          "2007年本科毕业于山东大学自动化专业",
+          "2014年博士毕业于东南大学控制理论与控制工程专业（硕博连读）",
+          "博士论文被评为东南大学优秀博士学位论文"
+        ],
+        "main_research_areas": [
+          "工业机器人控制器设计",
+          "多机械臂协作控制",
+          "双臂协作机器人的研究工作"
+        ],
+        "awards_and_honors_summary": [
+          "江苏省科学技术一等奖",
+          "CAA高等教育教学成果特等奖",
+          "南京市科技新锐力量"
+        ],
+        "project_involvement_summary": {
+          "hosting": [
+            "国家自然科学基金项目1项",
+            "江苏省自然科学基金项目1项",
+            "企业委托项目多项"
+          ],
+          "participating": [
+            "多项国家自然科学基金项目",
+            "国家重点研发计划",
+            "江苏省科技成果转化项目"
+          ]
+        }
+      },
+      "education_background": [
+        {
+          "start_date": "2007-08",
+          "end_date": "2014-03",
+          "institution": "东南大学",
+          "major": "控制理论与控制工程",
+          "degree": "博士"
+        },
+        {
+          "start_date": "2003-09",
+          "end_date": "2007-07",
+          "institution": "山东大学",
+          "major": "自动化",
+          "degree": "学士"
+        }
+      ],
+      "work_experience": [
+        {
+          "start_date": "2020/04",
+          "end_date": "现在",
+          "institution": "东南大学",
+          "department": "自动化学院",
+          "position": "副教授"
+        },
+        {
+          "start_date": "2014/04",
+          "end_date": "2020/03",
+          "institution": "东南大学",
+          "department": "自动化学院",
+          "position": "讲师"
+        }
+      ],
+      "academic_affiliations": [],
+      "awards": [
+        {
+          "id": 1,
+          "name": "CAA高等教育教学成果奖",
+          "level": "特等奖",
+          "awarding_body": "中国自动化学会",
+          "year": 2017
+        },
+        {
+          "id": 2,
+          "name": "南京市科技新锐力量",
+          "awarding_body": "南京市科学技术协会",
+          "year": 2016
+        },
+        {
+          "id": 3,
+          "name": "东南大学优秀博士学位论文",
+          "awarding_body": "东南大学",
+          "year": 2015
+        },
+        {
+          "id": 4,
+          "name": "江苏省科学技术奖",
+          "level": "一等奖",
+          "awarding_body": "江苏省人民政府",
+          "year": 2011
+        }
+      ],
+      "taught_courses": [
+        {
+          "id": 1,
+          "name": "计算机控制技术",
+          "category": "自动化类专业核心主干课程",
+          "credits": 3,
+          "hours": 48
+        },
+        {
+          "id": 2,
+          "name": "机器人动力学与控制",
+          "category": "机器人工程专业核心课程",
+          "credits": 2,
+          "hours": 32
+        },
+        {
+          "id": 3,
+          "name": "智能机器人综合课程设计I/II",
+          "category": "机器人工程专业核心课程",
+          "credits": 2,
+          "hours": 32
+        }
+      ],
+      "student_cultivation": {
+        "recruitment_plan": "每年计划招收硕士研究生2名。"
+      },
+      "research_interests": [
+        "工业机器人控制器设计",
+        "多机械臂协作控制",
+        "双臂协作机器人的研究工作"
+      ],
+      "research_projects": [
+        {
+          "id": 1,
+          "type": "国家自然科学基金面上项目",
+          "project_number": "61873308",
+          "title": "面向人机混合生产线的机器人行为机制与安全问题研究",
+          "start_date": "2019/01",
+          "end_date": "2022/12",
+          "funding": "63万元",
+          "status": "在研",
+          "role": "第二参与人"
+        },
+        {
+          "id": 2,
+          "type": "国家自然科学基金青年基金项目",
+          "project_number": "61503076",
+          "title": "多机器人协作焊接系统中的轨迹规划与位置力协调控制研究",
+          "start_date": "2016/01",
+          "end_date": "2018/12",
+          "funding": "22.2万元",
+          "status": "已结题",
+          "role": "主持"
+        },
+        {
+          "id": 3,
+          "type": "江苏省自然科学基金青年基金项目",
+          "project_number": "BK20150624",
+          "title": "无夹具焊接中的多机器人轨迹规划与力协调控制研究",
+          "start_date": "2015/07",
+          "end_date": "2018/06",
+          "funding": "20万元",
+          "status": "已结题",
+          "role": "主持"
+        },
+        {
+          "id": 4,
+          "type": "企业委托项目",
+          "client": "江苏鑫华半导体材料科技有限公司",
+          "project_number": "8508006003",
+          "title": "还原炉清理智能装备研发",
+          "start_date": "2019/06",
+          "end_date": "2020.12",
+          "funding": "230万",
+          "status": "在研",
+          "role": "主持"
+        },
+        {
+          "id": 5,
+          "type": "江苏省科技成果转化专项资金项目",
+          "project_number": "BA2015004",
+          "title": "高速重载（500kg）工业机器人核心技术研发及产业化",
+          "start_date": "2015/01",
+          "end_date": "2017/12",
+          "funding": "200万元",
+          "status": "已结题",
+          "role": "参与"
+        },
+        {
+          "id": 6,
+          "type": "江苏省科技成果转化专项资金项目",
+          "project_number": "BA2014044",
+          "title": "基于装配和搬运移动机器人的自动化车间关键技术研发及产业化",
+          "start_date": "2014/07",
+          "end_date": "2017/12",
+          "funding": "120万元",
+          "status": "已结题",
+          "role": "参与"
+        },
+        {
+          "id": 7,
+          "type": "国家自然科学基金面上项目",
+          "project_number": "61175113",
+          "title": "多机器人无夹具焊接系统中的协作控制研究",
+          "start_date": "2012/01",
+          "end_date": "2015/12",
+          "funding": "60万元",
+          "status": "已结题",
+          "role": "第二参与人"
+        },
+        {
+          "id": 8,
+          "type": "企业委托项目",
+          "client": "苏州博众精工科技有限公司",
+          "project_number": "8508000214",
+          "title": "七关节机械手研发",
+          "start_date": "2017/05",
+          "end_date": "2018/12",
+          "funding": "20万",
+          "status": "已结题",
+          "role": "主持"
+        },
+        {
+          "id": 9,
+          "type": "企业委托项目",
+          "client": "天津小瞳科技有限公司",
+          "project_number": "8508000182",
+          "title": "双臂机器人控制系统研发",
+          "start_date": "2015/06",
+          "end_date": "2017.12",
+          "funding": "30万",
+          "status": "已结题",
+          "role": "主持"
+        }
+      ],
+      "publications": {
+        "journal_conference_papers": [
+          {
+            "id": 1,
+            "authors": "Gan, Yahui*, Duan Jinjun, Chen Ming, Dai Xianzhong",
+            "title": "Multi-Robot Trajectory Planning and Position/Force oordination Control in Complex Welding Tasks",
+            "journal_conference": "APPLIED SCIENCES-BASEL",
+            "year": 2019,
+            "volume_issue_pages": "9(5): 1-24"
+          },
+          {
+            "id": 2,
+            "authors": "Gan Yahui*, Duan Jinjun, Dai Xianzhong",
+            "title": "A calibration method of robot kinematic parameters by drawstring displacement sensor",
+            "journal_conference": "INTERNATIONAL JOURNAL OF ADVANCED ROBOTIC SYSTEMS",
+            "year": 2019,
+            "volume_issue_pages": "16(5): 1-17"
+          },
+          {
+            "id": 3,
+            "authors": "甘亚辉*, 曹鹏飞, 戴先中",
+            "title": "基于快速动力学辨识的免外部传感器机器人碰撞检测",
+            "journal_conference": "控制理论与应用",
+            "year": 2019,
+            "volume_issue_pages": "(09): 1509-1519"
+          },
+          {
+            "id": 4,
+            "authors": "甘亚辉*, 段晋军, 戴先中",
+            "title": "非结构环境下的机器人自适应变阻抗力跟踪控制方法",
+            "journal_conference": "控制与决策",
+            "year": 2019,
+            "volume_issue_pages": "34(10): 2134-2142"
+          },
+          {
+            "id": 5,
+            "authors": "GAN Yahui*, DAI Xianzhong",
+            "title": "Human-like Manipulation Planning for Articulated Manipulator",
+            "journal_conference": "Journal of Bionic Engineering",
+            "year": 2012,
+            "volume_issue_pages": "9(4): 434-445"
+          },
+          {
+            "id": 6,
+            "authors": "GAN Yahui*, DAI Xianzhong, DONG Donghui",
+            "title": "Robot Calibration for Cooperative Process under Typical Installation",
+            "journal_conference": "Journal of Applied Mathematics",
+            "year": 2014,
+            "volume_issue_pages": "Volume 2014, Article ID 576420, pages 1-12"
+          },
+          {
+            "id": 7,
+            "authors": "GAN Yahui*, DAI Xianzhong, LI Dongwei",
+            "title": "Off-line programming techniques for multirobot cooperation system",
+            "journal_conference": "International Journal of Advanced Robotic Systems",
+            "year": 2013,
+            "volume_issue_pages": "Volume 10:282, Pages 1-17"
+          },
+          {
+            "id": 8,
+            "authors": "GAN Yahui*, DAI Xianzhong",
+            "title": "Human-like Manipulation Planning for Articulated Manipulator",
+            "journal_conference": "Journal of Bionic Engineering",
+            "year": 2012,
+            "volume_issue_pages": "9(4): 434-445"
+          },
+          {
+            "id": 9,
+            "authors": "GAN Yahui*, DAI Xianzhong, LI Jun",
+            "title": "Cooperative Path Planning and Constraints Analysis for Master-Slave Industrial Robots",
+            "journal_conference": "International Journal of Advanced Robotic Systems",
+            "year": 2012,
+            "volume_issue_pages": "Volume 9:88, Pages 1-13"
+          },
+          {
+            "id": 10,
+            "authors": "GAN Yahui*, DAI Xianzhong",
+            "title": "Base Frame Calibration for Coordinated Industrial Robots",
+            "journal_conference": "Robotics and Autonomous Systems",
+            "year": 2011,
+            "volume_issue_pages": "59(7-8): 563-570"
+          },
+          {
+            "id": 11,
+            "authors": "甘亚辉*, 戴先中, 陆志远",
+            "title": "关节型机器人的似人操作构型规划",
+            "journal_conference": "控制理论与应用",
+            "year": 2013,
+            "volume_issue_pages": "30(5): 549-557"
+          },
+          {
+            "id": 12,
+            "authors": "甘亚辉*, 戴先中",
+            "title": "多机械臂协调控制研究综述",
+            "journal_conference": "控制与决策",
+            "year": 2013,
+            "volume_issue_pages": "28(3): 321-333"
+          },
+          {
+            "id": 13,
+            "authors": "甘亚辉*, 戴先中",
+            "title": "一种高效的开放式机器人3D 仿真环境构建方法",
+            "journal_conference": "机器人",
+            "year": 2012,
+            "volume_issue_pages": "34(5): 628-633"
+          },
+          {
+            "id": 14,
+            "authors": "甘亚辉*, 戴先中",
+            "title": "基于遗传算法的多机器人系统最优轨迹规划",
+            "journal_conference": "控制理论与应用",
+            "year": 2010,
+            "volume_issue_pages": "27(9): 1245-1252"
+          },
+          {
+            "id": 15,
+            "authors": "甘亚辉*, 戴先中",
+            "title": "正弦摆动电弧传感偏差信息提取",
+            "journal_conference": "焊接学报",
+            "year": 2009,
+            "volume_issue_pages": "30(9): 89-92"
+          },
+          {
+            "id": 16,
+            "authors": "甘亚辉*, 戴先中, 李新德, 龚烨飞",
+            "title": "小波边缘检测在焊缝图像处理中的应用",
+            "journal_conference": "华中科技大学学报(自然科学版)",
+            "year": 2008,
+            "volume_issue_pages": "36(S1): 65-67"
+          },
+          {
+            "id": 17,
+            "authors": "Yahui GAN*, Xianzhong DAI, Qi DA",
+            "title": "Emulating manual welding process by two cooperative robots",
+            "journal_conference": "Proceeding of the 33th Chinese Control Conference (CCC-2014)",
+            "year": 2014,
+            "volume_issue_pages": "Pages 8414-8420, Nanjing, China, 2014.7.27-30"
+          },
+          {
+            "id": 18,
+            "authors": "GAN Yahui*, Xianzhong DAI",
+            "title": "Kinematic Cooperation Analysis and Trajectory Teaching in Multiple Robots System for Welding",
+            "journal_conference": "Proceedings of the 16th IEEE International Conference on Emerging Technologies and Factory Automation (ETFA2011)",
+            "year": 2011,
+            "volume_issue_pages": "Pages:1-8, Toulouse, France, 2011.9.5-9"
+          },
+          {
+            "id": 19,
+            "authors": "甘亚辉*, 戴先中",
+            "title": "多机器人协作无夹具焊接系统设计",
+            "journal_conference": "第二届中国自动化大会论文集（CAC2011）",
+            "year": 2011,
+            "volume_issue_pages": "中国, 北京, 2011.11.26-29"
+          }
+        ],
+        "patents": [
+          {
+            "id": 1,
+            "inventors": "甘亚辉, 戴先中, 邢继生，王政伟，郭哲",
+            "title": "一种基于工件模型的机器人作业任务生成方法",
+            "date": "2016.10.26",
+            "country": "中国",
+            "patent_number": "ZL201610473462.4"
+          },
+          {
+            "id": 2,
+            "inventors": "甘亚辉, 戴先中, 罗灿威",
+            "title": "一种机器人点动操作的速度控制方法",
+            "date": "2015.9.11",
+            "country": "中国",
+            "patent_number": "ZL201510579765X"
+          },
+          {
+            "id": 3,
+            "inventors": "甘亚辉, 戴先中, 陆志远",
+            "title": "主从式多机器人协作系统的轨迹示教与规划方法",
+            "date": "2013.11.27",
+            "country": "中国",
+            "patent_number": "ZL201210177971.4"
+          },
+          {
+            "id": 4,
+            "inventors": "甘亚辉, 戴先中",
+            "title": "具有协作关系的多机器人系统的基坐标系标定方法",
+            "date": "2013.1.16",
+            "country": "中国",
+            "patent_number": "ZL201110027080.6"
+          },
+          {
+            "id": 5,
+            "inventors": "甘亚辉, 戴先中",
+            "title": "电弧传感器焊枪位置偏差信息提取方法",
+            "date": "2010.9.15",
+            "country": "中国",
+            "patent_number": "ZL 200910025826.2"
+          }
+        ]
+      }
+    }
+  }
+}

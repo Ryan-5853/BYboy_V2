@@ -1,0 +1,74 @@
+{
+  "clickable_links": [
+    {
+      "url": "https://automation.seu.edu.cn/lsh/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "URL路径list.htm可能为列表页，与学院相关。",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://www.seumscl.com/index.asp%EF%BC%8C%E9%87%8C%E9%9D%A2%E4%B9%9F%E6%9C%89%E7%9B%B8%E5%85%B3%E7%A7%91%E7%A0%94%E4%BF%A1%E6%81%AF%E5%8C%85%E6%8B%AC%E9%A1%B9%E7%9B%AE%E8%A7%86%E9%A2%91%E4%BB%8B%E7%BB%8D%E7%AD%89%E3%80%82",
+      "anchor_text": "http://www.seumscl.com/index.asp，里面也有相关科研信息包括项目视频介绍等。",
+      "scope": "external",
+      "category": "tutor_expansion",
+      "category_confidence": "low",
+      "category_reason": "外部链接，锚文本提及科研信息，可能包含导师信息。",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_visitcount?siteId=338&type=2&columnId=32677",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL为_visitcount，是访问计数器，非内容页。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://automation.seu.edu.cn/lsh/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "URL路径list.htm可能为列表页，与学院相关。",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://www.seumscl.com/index.asp，里面也有相关科研信息包括项目视频介绍等。",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "tutor_expansion",
+      "category_confidence": "low",
+      "category_reason": "外部链接，URL描述提及科研信息，可能包含导师信息。",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://www.seumscl.com/index.asp%EF%BC%8C%E9%87%8C%E9%9D%A2%E4%B9%9F%E6%9C%89%E7%9B%B8%E5%85%B3%E7%A7%91%E7%A0%94%E4%BF%A1%E6%81%AF%E5%8C%85%E6%8B%AC%E9%A1%B9%E7%9B%AE%E8%A7%86%E9%A2%91%E4%BB%8B%E7%BB%8D%E7%AD%89%E3%80%82",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "tutor_expansion",
+      "category_confidence": "low",
+      "category_reason": "外部链接，URL描述提及科研信息，可能包含导师信息。",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://scholar.google.com/citations?user=Gg2jy5MAAAAJ&hl=zh-CN",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "Google Scholar个人主页，明确指向特定教师。",
+      "guessed_target_content": "教师/导师个人信息页面",
+      "listing_pagination_next": "0"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "main_task_meta": {
+    "schema": "get_tutor_inf_main_state",
+    "version": 1,
+    "created_at": "2026-03-25T17:25:07+00:00",
+    "updated_at": "2026-03-25T17:25:07+00:00"
+  },
+  "main_task_params": {
+    "academy_url": "http://faculty.neu.edu.cn/xyjslb.jsp?urltype=tree.TreeTempUrl&wbtreeid=1019&id=1146",
+    "academy_scope_hint": "机械工程与自动化学院",
+    "listing_pagination_max_passes": 80,
+    "workdir": "/home/ryan/BYboy_V2/byboy/test/get_tutor_pages_neu",
+    "slot": "BYBOY_SLOT_FAST",
+    "max_depth": 5,
+    "pages_resume_state_path": null,
+    "analysed_subdir": "cache/analysed",
+    "csv_path": null,
+    "csv_resume_state_path": null,
+    "csv_run_log_path": null,
+    "link_choose_refine_all_links": true
+  },
+  "main_task_progress": {
+    "requested_start_stage": "pages",
+    "requested_start_round": null,
+    "status": "running",
+    "stages": {
+      "pages": {
+        "status": "running",
+        "updated_at": "2026-03-25T17:29:40+00:00"
+      },
+      "analyse": {
+        "status": "skipped",
+        "updated_at": "2026-03-25T17:29:40+00:00",
+        "detail": {
+          "note": "no_cleaned_tutor_profiles_yet"
+        }
+      }
+    },
+    "last_round": 3,
+    "last_stage": "pages",
+    "updated_at": "2026-03-25T17:29:40+00:00"
+  },
+  "main_task_rounds": [
+    {
+      "round": 1,
+      "stages": {
+        "pages": {
+          "status": "done",
+          "updated_at": "2026-03-25T17:25:53+00:00",
+          "detail": {
+            "state_path": "byboy/test/get_tutor_pages_neu/cache/state.json"
+          }
+        },
+        "analyse": {
+          "status": "skipped",
+          "updated_at": "2026-03-25T17:25:53+00:00",
+          "detail": {
+            "note": "no_cleaned_tutor_profiles_yet"
+          }
+        }
+      }
+    },
+    {
+      "round": 2,
+      "stages": {
+        "pages": {
+          "status": "done",
+          "updated_at": "2026-03-25T17:29:40+00:00",
+          "detail": {
+            "state_path": "byboy/test/get_tutor_pages_neu/cache/state.json"
+          }
+        },
+        "analyse": {
+          "status": "skipped",
+          "updated_at": "2026-03-25T17:29:40+00:00",
+          "detail": {
+            "note": "no_cleaned_tutor_profiles_yet"
+          }
+        }
+      }
+    },
+    {
+      "round": 3,
+      "stages": {
+        "pages": {
+          "status": "running",
+          "updated_at": "2026-03-25T17:29:40+00:00"
+        }
+      }
+    }
+  ],
+  "round": 2,
+  "seq": 3,
+  "list1_possible_pages": [],
+  "list2_tutor_profiles": [
+    "http://faculty.neu.edu.cn/SHHZHOU/zh_CN/index.htm",
+    "http://faculty.neu.edu.cn/chenjie/zh_CN/index.htm",
+    "http://faculty.neu.edu.cn/liangzc/zh_CN/index.htm",
+    "http://faculty.neu.edu.cn/yaoguo/zh_CN/index.htm",
+    "http://faculty.neu.edu.cn/zhanghz0/zh_CN/index.htm",
+    "http://faculty.neu.edu.cn/zhaobingfeng/zh_CN/index.htm"
+  ],
+  "list3_processed_pages": [
+    "http://faculty.neu.edu.cn/jcrc.jsp",
+    "http://faculty.neu.edu.cn/jscx.jsp",
+    "http://faculty.neu.edu.cn/xyjslb.jsp",
+    "http://faculty.neu.edu.cn/xyjslb.jsp?urltype=tree.TreeTempUrl&wbtreeid=1019&id=1146"
+  ],
+  "records": [
+    {
+      "url": "http://faculty.neu.edu.cn/xyjslb.jsp?urltype=tree.TreeTempUrl&wbtreeid=1019&id=1146",
+      "round": 1,
+      "cleaned_file": "cache/cleaned/00001_http_faculty_neu_edu_cn_xyjslb_jsp_urltype_tree_TreeTempUrl_wbtreeid_1019_id_114_cleaned.md",
+      "choice_file": "cache/choice/00001_http_faculty_neu_edu_cn_xyjslb_jsp_urltype_tree_TreeTempUrl_wbtreeid_1019_id_114_cleaned.choice.json"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/jcrc.jsp",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00002_http_faculty_neu_edu_cn_jcrc_jsp_cleaned.md",
+      "choice_file": "cache/choice/00002_http_faculty_neu_edu_cn_jcrc_jsp_cleaned.choice.json"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/jscx.jsp",
+      "round": 2,
+      "cleaned_file": "cache/cleaned/00003_http_faculty_neu_edu_cn_jscx_jsp_cleaned.md",
+      "choice_file": "cache/choice/00003_http_faculty_neu_edu_cn_jscx_jsp_cleaned.choice.json"
+    }
+  ]
+}

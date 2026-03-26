@@ -1,0 +1,209 @@
+{
+  "meta": {
+    "tutor_name_cn": "李焱骏",
+    "request_url": "https://faculty.uestc.edu.cn/liyanjun/zh_CN/kyxm/142481/list/index.htm",
+    "declared_source_url": "https://faculty.uestc.edu.cn/liyanjun/zh_CN/kyxm/142481/list/index.htm",
+    "page_host": "faculty.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/e0fc24caaa4f092614ba8cba6a3763696fca455ecc0b6b390b5aa31a737efadf.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": "包含导师个人基本"
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "target_name": "李焱骏",
+    "source_url": "https://faculty.uestc.edu.cn/liyanjun/zh_CN/kyxm/142481/list/index.htm",
+    "profile_picture": {
+      "url": "https://faculty.uestc.edu.cn/__local/4/1F/3B/FBA7706E97140075D95960E4F81_E9D6F36D_15937.png",
+      "alt_text": "李焱骏"
+    },
+    "personal_info": {
+      "name": "李焱骏",
+      "praise_count": 27,
+      "titles_and_roles": [
+        "享受正高级待遇的高级工程师",
+        "博士生导师"
+      ],
+      "gender": "男",
+      "education_level": "博士研究生毕业",
+      "degree": "工学博士学位",
+      "employment_start_date": "2003-04-01",
+      "discipline": "仪器科学与技术",
+      "email": "yjli@uestc.edu.cn"
+    },
+    "site_metadata": {
+      "page_views": "0000011057",
+      "page_opened_date": "2017.7.20",
+      "last_updated_date": "2026.1.29",
+      "related_links": [
+        {
+          "anchor_text": "同专业博导",
+          "url": "https://faculty.uestc.edu.cn/liyanjun/zh_CN/tzybd/142481/list/index.htm"
+        }
+      ]
+    },
+    "site_chrome": {
+      "breadcrumbs": [
+        {
+          "anchor_text": "中文主页",
+          "url": "https://faculty.uestc.edu.cn/liyanjun/zh_CN/index.htm"
+        },
+        {
+          "anchor_text": "科学研究",
+          "url": "https://faculty.uestc.edu.cn/liyanjun/zh_CN/zhym/142480/list/index.htm"
+        },
+        {
+          "anchor_text": "科研项目",
+          "url": "https://faculty.uestc.edu.cn/liyanjun/zh_CN/kyxm/142481/list/index.htm"
+        }
+      ],
+      "pagination_info": "共12条 1/1 首页上页下页尾页"
+    },
+    "research_projects": [
+      {
+        "id": 1,
+        "title": "井下工具电子系统国产化与可靠性测试技术研究",
+        "detail_link": {
+          "url": "https://faculty.uestc.edu.cn/liyanjun/zh_CN/kyxm/142481/content/4781.htm#kyxm",
+          "anchor_text": "井下工具电子系统国产化与可靠性测试技术研究"
+        },
+        "period": "2025/07/01-2030/12/31",
+        "status": "在研",
+        "funding": "600万元",
+        "role": "主持"
+      },
+      {
+        "id": 2,
+        "title": "随钻可控中子源孔隙度密度仪器井下电路设计与井下数据处理研究",
+        "detail_link": {
+          "url": "https://faculty.uestc.edu.cn/liyanjun/zh_CN/kyxm/142481/content/4328.htm#kyxm",
+          "anchor_text": "随钻可控中子源孔隙度密度仪器井下电路设计与井下数据处理研究"
+        },
+        "period": "2024/12/20-2026/03/31",
+        "status": "在研",
+        "funding": "348万元",
+        "role": "主持"
+      },
+      {
+        "id": 3,
+        "title": "随钻四条线测井仪器通用控制电路固件开发",
+        "detail_link": {
+          "url": "https://faculty.uestc.edu.cn/liyanjun/zh_CN/kyxm/142481/content/4718.htm#kyxm",
+          "anchor_text": "随钻四条线测井仪器通用控制电路固件开发"
+        },
+        "period": "2025/06/27",
+        "status": "验收",
+        "funding": "48万元",
+        "role": "主持"
+      },
+      {
+        "id": 4,
+        "title": "475型随钻中子密度高温电路设计与优化定型",
+        "detail_link": {
+          "url": "https://faculty.uestc.edu.cn/liyanjun/zh_CN/kyxm/142481/content/4512.htm#kyxm",
+          "anchor_text": "475型随钻中子密度高温电路设计与优化定型"
+        },
+        "period": "2024/07/19-2025/11/30",
+        "status": "验收",
+        "funding": "153万",
+        "role": "主持"
+      },
+      {
+        "id": 5,
+        "title": "高温高速脉冲器驱动控制电路与控制算法研制",
+        "detail_link": {
+          "url": "https://faculty.uestc.edu.cn/liyanjun/zh_CN/kyxm/142481/content/4438.htm#kyxm",
+          "anchor_text": "高温高速脉冲器驱动控制电路与控制算法研制"
+        },
+        "period": "2024/02/28-2025/06/30",
+        "status": "验收",
+        "funding": "308万元",
+        "role": "主持"
+      },
+      {
+        "id": 6,
+        "title": "高温能谱采集电路优化设计",
+        "detail_link": {
+          "url": "https://faculty.uestc.edu.cn/liyanjun/zh_CN/kyxm/142481/content/4115.htm#kyxm",
+          "anchor_text": "高温能谱采集电路优化设计"
+        },
+        "period": "2022/12/07-2023/10/15",
+        "status": "验收",
+        "funding": "82万元",
+        "role": "主持"
+      },
+      {
+        "id": 7,
+        "title": "Welleader-express脉冲器控制电路与控制算法研制",
+        "detail_link": {
+          "url": "https://faculty.uestc.edu.cn/liyanjun/zh_CN/kyxm/142481/content/4114.htm#kyxm",
+          "anchor_text": "Welleader-express脉冲器控制电路与控制算法研制"
+        },
+        "period": "2022/12/01-2023/11/30",
+        "status": "验收",
+        "funding": "188万元",
+        "role": "主持"
+      },
+      {
+        "id": 8,
+        "title": "205℃/140MPa核磁测井仪FPGA程序优化设计",
+        "detail_link": {
+          "url": "https://faculty.uestc.edu.cn/liyanjun/zh_CN/kyxm/142481/content/4116.htm#kyxm",
+          "anchor_text": "205℃/140MPa核磁测井仪FPGA程序优化设计"
+        },
+        "period": "2021/11/11-2022/10/31",
+        "status": "验收",
+        "funding": "145万元",
+        "role": "主持"
+      },
+      {
+        "id": 9,
+        "title": "核磁专用推靠短节高温通讯与控制电路系统设计与实现",
+        "detail_link": {
+          "url": "https://faculty.uestc.edu.cn/liyanjun/zh_CN/kyxm/142481/content/4117.htm#kyxm",
+          "anchor_text": "核磁专用推靠短节高温通讯与控制电路系统设计与实现"
+        },
+        "period": "2019/11/15-2021/06/30",
+        "status": "验收",
+        "funding": "145万元",
+        "role": "主持"
+      },
+      {
+        "id": 10,
+        "title": "高速脉冲信号解码算法及电机驱动控制算法研究",
+        "detail_link": {
+          "url": "https://faculty.uestc.edu.cn/liyanjun/zh_CN/kyxm/142481/content/4118.htm#kyxm",
+          "anchor_text": "高速脉冲信号解码算法及电机驱动控制算法研究"
+        },
+        "period": "2019/12/15-2021/06/30",
+        "status": "验收",
+        "funding": "385万元",
+        "role": "主持"
+      },
+      {
+        "id": 11,
+        "title": "800型随钻中子数字电路优化改进与定型",
+        "detail_link": {
+          "url": "https://faculty.uestc.edu.cn/liyanjun/zh_CN/kyxm/142481/content/4119.htm#kyxm",
+          "anchor_text": "800型随钻中子数字电路优化改进与定型"
+        },
+        "period": "2019/11/15-2021/06/30",
+        "status": "验收",
+        "funding": "130万元",
+        "role": "主持"
+      },
+      {
+        "id": 12,
+        "title": "800型随钻密度数字电路优化改进与定型",
+        "detail_link": {
+          "url": "https://faculty.uestc.edu.cn/liyanjun/zh_CN/kyxm/142481/content/4120.htm#kyxm",
+          "anchor_text": "800型随钻密度数字电路优化改进与定型"
+        },
+        "period": "2019/11/15-2021/06/30",
+        "status": "验收",
+        "funding": "130万元",
+        "role": "主持"
+      }
+    ]
+  }
+}

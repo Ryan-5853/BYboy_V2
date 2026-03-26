@@ -1,0 +1,173 @@
+{
+  "meta": {
+    "tutor_name_cn": "陈云坪",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1091/7726.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1091/7726.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/9eab208ed7ed17da93bcec5b68b1c0ea51c25e1211848f87510c2b549bbaff80.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "site_chrome": {
+      "source_url": "https://www.auto.uestc.edu.cn/info/1091/7726.htm",
+      "page_title_context": "师资队伍",
+      "breadcrumbs": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "正高级",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "正文"
+        }
+      ],
+      "navigation_links": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ]
+    },
+    "professor_info": {
+      "name": "陈云坪",
+      "profile_image_url": "https://www.auto.uestc.edu.cn/__local/6/BA/86/759D401A4EE1BE7E9AA1BF7F7D0_A5BEA3C2_129A5.jpg",
+      "highest_degree": "博士",
+      "contact_phone": null,
+      "title_positions": "教授",
+      "email": "chenyp@uestc.edu.cn",
+      "supervisor_status": "博士导师",
+      "personal_homepage": null,
+      "research_team": "遥感技术与人工智能研究中心"
+    },
+    "sections": {
+      "main_research_directions": {
+        "title": "主要研究方向",
+        "items": [
+          "遥感影像分析与模式识别",
+          "遥感产品真实性检验",
+          "生态遥感及大气遥感",
+          "空间统计与空间数据挖掘"
+        ]
+      },
+      "academic_titles_and_concurrent_posts": {
+        "title": "学术头衔及兼职",
+        "items": [
+          "IEEE会员",
+          "中国计算机学会会员",
+          "中国宇航学会会员"
+        ]
+      },
+      "education_and_work_experience": {
+        "title": "学习、工作经历",
+        "items": [
+          {
+            "start_date": "2025-05",
+            "end_date": "至今",
+            "institution": "电子科技大学",
+            "department": "自动化工程学院",
+            "role": "教授"
+          },
+          {
+            "start_date": "2011-07",
+            "end_date": "2025-05",
+            "institution": "电子科技大学",
+            "department": "自动化工程学院",
+            "role": "副教授"
+          },
+          {
+            "start_date": "2024-03",
+            "end_date": "2025-02",
+            "institution": "加拿大麦吉尔大学",
+            "role": "高级访问学者"
+          },
+          {
+            "start_date": "2013-01",
+            "end_date": "2014-01",
+            "institution": "美国哥伦比亚大学",
+            "role": "访问学者"
+          },
+          {
+            "start_date": "2007-07",
+            "end_date": "2011-07",
+            "institution": "电子科技大学",
+            "department": "自动化工程学院",
+            "role": "讲师"
+          },
+          {
+            "start_date": "1998-07",
+            "end_date": "2004-06",
+            "institution": "西南大学",
+            "role": "助教"
+          }
+        ]
+      },
+      "scientific_research": {
+        "title": "科学研究",
+        "projects_and_funding": "主持国家自然基金、科技部重点项目子课题、四川省科技支撑计划项目及企业合作项目10余项，总经费近1000万，其中国家级项目经费500余万。",
+        "achievements": "获省级科技进步奖二等奖1项、校级教学成果奖1项，发表学术论文100余篇，多数被SCI/EI检索，合作出版教材2部，获授权专利30余项。"
+      },
+      "courses_and_teaching_research": {
+        "title": "主讲课程与教学研究",
+        "undergraduate_courses": [
+          "全球气候变化与工程化应对方法",
+          "C语言"
+        ],
+        "graduate_courses": [
+          "高光谱遥感",
+          "面向对象技术与工具"
+        ],
+        "teaching_roles": null,
+        "teaching_research": null
+      },
+      "admission_majors": {
+        "title": "招生专业",
+        "masters": [
+          {
+            "code": "081100",
+            "name": "控制科学与工程"
+          },
+          {
+            "code": "085400",
+            "name": "电子信息"
+          }
+        ],
+        "phd": [
+          {
+            "code": "081100",
+            "name": "控制科学与工程"
+          },
+          {
+            "code": "085400",
+            "name": "电子信息"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "meta": {
+    "tutor_name_cn": "耿航",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1156/7409.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1156/7409.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/c1760014db05131c4b03e9635ca39e742082747a8cba7614f7126674ce57d61d.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "target_tutor_name": "耿航",
+    "site_metadata": {
+      "source_url": "https://www.auto.uestc.edu.cn/info/1156/7409.htm",
+      "breadcrumb": [
+        {
+          "text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "text": "G",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/G.htm"
+        },
+        {
+          "text": "正文",
+          "url": null
+        }
+      ],
+      "side_navigation": [
+        {
+          "text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ],
+      "page_title": "师资队伍"
+    },
+    "personal_info": {
+      "name": "耿航",
+      "image_url": "https://www.auto.uestc.edu.cn/__local/8/F4/72/A2EA74ED02873413435A4DD3BBF_3D2F1D8D_60F00.jpg",
+      "highest_degree": "博士",
+      "contact_phone": null,
+      "job_title": "教授",
+      "email": "Hang.Geng@uestc.edu.cn",
+      "advisor_status": "博士导师",
+      "personal_homepage": null,
+      "research_team": "测试技术与仪器研究所（精密测试）"
+    },
+    "research_directions": [
+      "多源信息捕获与融合",
+      "微弱信号检测与估计",
+      "装备智能测试与评估",
+      "复杂系统综合自动化"
+    ],
+    "academic_titles_and_memberships": [
+      "中国科协青年人才托举工程项目入选者",
+      "中国自动化学会青年人才托举工程项目入选者",
+      "中国仪器仪表学会金国藩青年学子奖获得者",
+      "电子科技大学“百人计划”入选者",
+      "Instrumentation（仪器仪表学报）编委",
+      "Computer modeling in Engineering & Sciences副编辑",
+      "International Journal of Network Dynamics and Intelligence副编辑",
+      "中国自动化学会高级会员",
+      "中国仪器仪表学会高级会员",
+      "四川省科技青年联合会理事",
+      "中国自动化学会青年工作委员会委员",
+      "中国自动化学会智能传感器与检测技术专业委员会委员",
+      "IEEE Senior Member"
+    ],
+    "experience": {
+      "work_experience": [
+        {
+          "start_date": "2024.05",
+          "end_date": "至今",
+          "organization": "电子科技大学",
+          "position": "教授"
+        },
+        {
+          "start_date": "2019.04",
+          "end_date": "2024.04",
+          "organization": "电子科技大学",
+          "position": "副教授"
+        },
+        {
+          "start_date": "2018.04",
+          "end_date": "2019.03",
+          "organization": "美国堪萨斯大学",
+          "position": "博士后"
+        },
+        {
+          "start_date": "2017.04",
+          "end_date": "2018.03",
+          "organization": "电子科技大学",
+          "position": "博士后"
+        }
+      ],
+      "education_experience": [
+        {
+          "start_date": "2015.11",
+          "end_date": "2016.10",
+          "organization": "英国布鲁奈尔大学",
+          "degree_type": "博士联合培养",
+          "major": null
+        },
+        {
+          "start_date": "2011.09",
+          "end_date": "2017.03",
+          "organization": "西北工业大学",
+          "degree_type": "博士",
+          "major": null
+        },
+        {
+          "start_date": "2007.09",
+          "end_date": "2011.07",
+          "organization": "中国民用航空飞行学院",
+          "degree_type": "学士",
+          "major": null
+        }
+      ]
+    },
+    "scientific_research_summary": {
+      "description": "近五年主持国家自然科学基金、部委基金和四川省自然科学基金等国家级/省部级科研项目近10项，相关科研成果获省部级科技成果一等奖1项，获中国仪器仪表学会科技成果一等奖1项，发表一作/通讯SCI论文30余篇，授权发明专利10余项，出版英文专著1部。",
+      "projects": {
+        "quantity": "近10项",
+        "types": "国家自然科学基金、部委基金和四川省自然科学基金等国家级/省部级科研项目"
+      },
+      "awards": [
+        "省部级科技成果一等奖1项",
+        "中国仪器仪表学会科技成果一等奖1项"
+      ],
+      "publications": {
+        "sci_papers": "30余篇 (一作/通讯)"
+      },
+      "patents": {
+        "invent_patents": "10余项"
+      },
+      "books": {
+        "english_monographs": "1部"
+      }
+    },
+    "teaching_courses": {
+      "undergraduate_courses": [
+        "信号与系统",
+        "数字信号处理",
+        "自动控制原理"
+      ],
+      "graduate_courses": [
+        "最优化理论与应用",
+        "自适应控制",
+        "学科前沿知识讲座"
+      ]
+    },
+    "admission_majors": {
+      "masters": [
+        "081100控制科学与工程",
+        "086100交通运输"
+      ],
+      "doctoral": [
+        "081100控制科学与工程",
+        "086100交通运输"
+      ]
+    }
+  }
+}

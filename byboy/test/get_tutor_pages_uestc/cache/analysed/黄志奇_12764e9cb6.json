@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "tutor_name_cn": "黄志奇",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1157/4498.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1157/4498.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/212c1d5a0aad4e3d6acf8bd909dcaf06aaa94851e4fd30a35304bc0d6889e507.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "source_info": {
+      "query_name": "黄志奇",
+      "source_url": "https://www.auto.uestc.edu.cn/info/1157/4498.htm"
+    },
+    "site_chrome": {
+      "breadcrumbs": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "H",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/H.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "navigation_links": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ]
+    },
+    "person_profile": {
+      "name": "黄志奇",
+      "image_url": "https://www.auto.uestc.edu.cn/__local/7/AB/4D/A07B44AB2F04151D5D99D1E96ED_66A22736_2597E.jpg",
+      "highest_degree": "博士",
+      "contact_info": {
+        "phone": null,
+        "email": "zhiqih@uestc.edu.cn",
+        "personal_homepage": null
+      },
+      "roles_affiliations": {
+        "position_title": "副教授",
+        "advisor_status": "硕士导师",
+        "research_team": "移动计算中心"
+      },
+      "research_directions": [
+        "可穿戴计算机系统结构",
+        "人机交互",
+        "可穿戴性",
+        "系统可靠性",
+        "AR/VR研究"
+      ],
+      "academic_titles_appointments": null,
+      "experience": [
+        "1999.07-2001.07任深圳市中电照明股份有限公司工作人员",
+        "2009.12至今任电子科技大学自动化工程学院讲师",
+        "2013.01-2014.01赴加拿大McGill University做访问学者"
+      ],
+      "research_overview": "作为主要人员申请和承担了中加国际合作项目、自然科学基金中德基金项目、国家自然科学基金面上项目以及其他国家级项目10余项。2013-2014年在McGill University的ECE学院访学一年。近年来累计申请承担国家、省部、横向等科研项目9项。以第一作者发表SCI、EI源刊论文多篇，申请国家发明专利5项，已授权三项。",
+      "teaching": {
+        "undergraduate_courses": [
+          "数字系统EDA设计",
+          "机械工程基础",
+          "数字设计FPGA应用实验",
+          "数字逻辑设计及应用",
+          "光学工程与精密仪器",
+          "精密仪器设计基础",
+          "综合（专题）课程设计"
+        ],
+        "graduate_courses": null,
+        "teaching_appointments": null,
+        "teaching_research": [
+          "参与《光学工程与精密仪器》探究式小班课",
+          "参与教学方法与考核方法改革示范课“精密仪器设计基础”建设"
+        ]
+      },
+      "admission_majors": {
+        "master": [
+          "081100控制科学与工程",
+          "086100交通运输"
+        ],
+        "phd": null
+      }
+    }
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "meta": {
+    "tutor_name_cn": "陈勇",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1091/4145.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1091/4145.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/cd88fc4706c981f7b8f61bde25f81672f10b24eebb24c1281e5fa4a540d06757.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "site_chrome": {
+      "source_url": "https://www.auto.uestc.edu.cn/info/1091/4145.htm",
+      "navigation_path": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "正高级",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "sidebar_links": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ]
+    },
+    "personal_info": {
+      "name": "陈勇",
+      "image_url": "https://www.auto.uestc.edu.cn/__local/A/84/BC/43B54894B79C9FBA93D16E3FEBD_310F729C_E98F.jpg",
+      "highest_degree": "博士",
+      "contact_phone": null,
+      "position_title": "教授",
+      "email": "ychencd@uestc.edu.cn",
+      "supervisor_status": "博士导师",
+      "personal_homepage": null,
+      "research_team": "电力电子与先进控制中心"
+    },
+    "research_directions": [
+      "先进控制理论与技术",
+      "电力电子与电机控制",
+      "工业数字化与过程控制",
+      "跨域系统与网络控制",
+      "故障检测与容错冗余控制",
+      "新能源汽车安全控制及智能交通"
+    ],
+    "academic_roles_and_concurrent_posts": [
+      "IEEE Senior Member",
+      "校级电动汽车动力系统与安全研究所所长",
+      "四川省工程技术中心主任",
+      "科技部项目答辩专家",
+      "科技厅领域专家组长",
+      "中国自动化学会技术过程的故障诊断及安全性专业委会委员",
+      "中国自动化学会数据驱动控制、学习与优化专委会委员",
+      "中国电机工程学会会员"
+    ],
+    "experience": {
+      "work_experience": [
+        {
+          "start_date": "2007.07",
+          "end_date": "至今",
+          "institution": "电子科技大学",
+          "description": "2009.08副教授，2013.12博导，2015.08教授",
+          "sub_periods": [
+            {
+              "start_date": "2013.02",
+              "end_date": "2014.01",
+              "institution": "澳大利亚阿德莱德大学",
+              "description": "访问学者"
+            },
+            {
+              "start_date": "2015.07",
+              "end_date": "2015.08",
+              "institution": "德国柏林工业大学",
+              "description": "访问学者"
+            }
+          ]
+        }
+      ],
+      "education_experience": [
+        {
+          "start_date": "2004.09",
+          "end_date": "2007.06",
+          "institution": "重庆大学",
+          "major": "控制理论与控制工程",
+          "degree": "博士"
+        }
+      ]
+    },
+    "scientific_research_achievements": {
+      "projects": "近五年主持项目科技部重点研发项目、国家自然科学基金、重点基础项目，四川省科技支撑项目等20余项。企业横向项目40余项。",
+      "awards": [
+        "四川省科技进步二等奖1项（排名第一）",
+        "省学会科技进步一等奖1项（排名第三）"
+      ],
+      "publications": {
+        "total_papers": "120篇",
+        "sci_indexed": "60篇",
+        "ieee_journal_papers": "30余篇",
+        "top_journal_papers": "45篇",
+        "monographs": "4本（英文专著2本）"
+      },
+      "patents": {
+        "applied": "75项",
+        "authorized": "52项",
+        "transferred": "2项"
+      }
+    },
+    "courses_and_teaching_research": {
+      "undergraduate_courses": [
+        "现场总线技术"
+      ],
+      "graduate_courses": [
+        "线性系统理论",
+        "学科前沿知识专题讲座",
+        "研究生论文写作指导"
+      ]
+    },
+    "admission_majors": {
+      "master": [
+        "081100控制科学与工程",
+        "085400电子信息"
+      ],
+      "phd": [
+        "081100控制科学与工程",
+        "085400电子信息",
+        "086100交通运输"
+      ]
+    }
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "meta": {
+    "tutor_name_cn": "徐红兵",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1173/4317.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1173/4317.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/4bbb6c318fdec7225366ea07ce44ad0129f85807812b309d1b06b53fb7556e69.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": "包含导师姓名、职称、邮箱、研究方向、学习工作经历、科研成果、招生专业等丰富信息。"
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "site_chrome": {
+      "source_url": "https://www.auto.uestc.edu.cn/info/1173/4317.htm",
+      "breadcrumbs": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "X",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/X.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "sidebar_navigation": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ]
+    },
+    "personal_info": {
+      "name": "徐红兵",
+      "image_url": "https://www.auto.uestc.edu.cn/__local/7/15/AF/122BC926BEE3118A4E2B61E77F5_337D284C_47319.jpg",
+      "highest_degree": "博士",
+      "contact_phone": null,
+      "job_title": "教授",
+      "email": "hbxu@uestc.edu.cn",
+      "supervisor_status": "博士导师",
+      "personal_homepage": null,
+      "research_team": "自动化研究所"
+    },
+    "research_directions": [
+      "智能信息处理与控制",
+      "测控系统及信号处理技术",
+      "嵌入式控制技术与系统"
+    ],
+    "academic_titles_and_affiliations": [
+      "四川省学术和技术带头人",
+      "新世纪、四川省有突出贡献的专家",
+      "中国空气动力学会测控专委会委员"
+    ],
+    "experience": [
+      {
+        "start_date": "1984.09",
+        "end_date": "1988.07",
+        "description": "成都电讯工程学院自动化系自动控制专业学生"
+      },
+      {
+        "start_date": "1988.09",
+        "end_date": "1991.03",
+        "description": "东南大学自动控制工程系控制理论与应用专业硕士研究生"
+      },
+      {
+        "start_date": "1991.03",
+        "end_date": "1996.11",
+        "description": "电子科技大学自动化系教师",
+        "notes": [
+          "1991.09-1995.07 电子科技大学自动化系学生辅导员"
+        ]
+      },
+      {
+        "start_date": "1996.11",
+        "end_date": "2001.11",
+        "description": "电子科技大学自动化系党总支副书记、副主任",
+        "notes": [
+          "1998.07 晋升副教授",
+          "1995.09-2000.06 电子科技大学电路与系统专业博士研究生"
+        ]
+      },
+      {
+        "start_date": "2001.11",
+        "end_date": "2006.06",
+        "description": "电子科技大学自动化工程学院党总支书记",
+        "notes": [
+          "2003.06 晋升教授",
+          "2004.07聘为博士生导师",
+          "2004.4—2004.10，美国佐治亚理工学院访问教授"
+        ]
+      },
+      {
+        "start_date": "2006.06",
+        "end_date": "2010.04",
+        "description": "电子科技大学人事处处长"
+      },
+      {
+        "start_date": "2010.04",
+        "end_date": "2010.10",
+        "description": "电子科大校长助理、人事处处长"
+      },
+      {
+        "start_date": "2010.10",
+        "end_date": "2017.03",
+        "description": "电子科技大学校长助理、合作发展部部长"
+      },
+      {
+        "start_date": "2017.03",
+        "end_date": "2017.08",
+        "description": "宜宾市人民政府副市长（挂职）、党组成员，电子科技大学校长助理、合作发展部部长"
+      },
+      {
+        "start_date": "2017.08",
+        "end_date": null,
+        "description": "电子科技大学副校长（试用期一年）"
+      },
+      {
+        "start_date": "2017.03",
+        "end_date": "2018.12",
+        "description": "宜宾市人民政府副市长"
+      }
+    ],
+    "scientific_research": {
+      "projects_summary": "承担了30余项科研项目任务及横向合作项目。",
+      "awards": [
+        {
+          "year": "2006",
+          "name": "四川省科技进步二等奖"
+        },
+        {
+          "year": "2006",
+          "name": "四川省科技进步三等奖",
+          "count": "2项"
+        },
+        {
+          "year": "2007",
+          "name": "教育部科学技术进步奖二等奖",
+          "count": "1项"
+        }
+      ],
+      "publications_summary": "在国内外刊物上发表学术论文80余篇，其中被SCI、EI收录的论文近50篇。"
+    },
+    "courses_and_teaching": {
+      "undergraduate_courses": [
+        "魅力自动化：入门与创新"
+      ]
+    },
+    "recruitment": {
+      "masters": [
+        {
+          "code": "081100",
+          "major": "控制科学与工程"
+        },
+        {
+          "code": "085400",
+          "major": "电子信息"
+        }
+      ],
+      "phds": [
+        {
+          "code": "081100",
+          "major": "控制科学与工程"
+        },
+        {
+          "code": "085400",
+          "major": "电子信息"
+        }
+      ]
+    }
+  }
+}

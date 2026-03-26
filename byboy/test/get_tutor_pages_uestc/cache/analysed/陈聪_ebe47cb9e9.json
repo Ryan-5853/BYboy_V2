@@ -1,0 +1,167 @@
+{
+  "meta": {
+    "tutor_name_cn": "陈聪",
+    "request_url": "https://faculty.uestc.edu.cn/chencong1/zh_CN/index.htm",
+    "declared_source_url": "https://faculty.uestc.edu.cn/chencong1/zh_CN/index.htm",
+    "page_host": "faculty.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/2326d4fc6c69c252c6417f8e7aebfc123a7e3a135ef39f27cfffac91b18f7b6f.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "query_name": "陈聪",
+    "page_url": "https://faculty.uestc.edu.cn/chencong1/zh_CN/index.htm",
+    "site_chrome": {
+      "source_url_of_capture": "https://faculty.uestc.edu.cn/chencong1/zh_CN/index.htm",
+      "header_images": [
+        {
+          "url": "https://faculty.uestc.edu.cn/__local/5/99/E5/03780CD60DBA809AC2D02E0F691_FA4EC3EE_5652.png",
+          "link": "http://faculty.uestc.edu.cn/"
+        },
+        {
+          "url": "https://faculty.uestc.edu.cn/__local/E/C9/97/5BBE4759C8DB111AA5BEC819F74_40244623_19CB6.png"
+        }
+      ],
+      "navigation_breadcrumb": [
+        {
+          "text": "中文主页",
+          "url": "https://faculty.uestc.edu.cn/chencong1/zh_CN/index.htm"
+        },
+        {
+          "text": "首页",
+          "url": "https://faculty.uestc.edu.cn/chencong1/zh_CN/index/396100/list/index.htm"
+        }
+      ],
+      "footer": {
+        "logo_image_url": "https://faculty.uestc.edu.cn/_ts/dzzw02/images/logodb.png",
+        "campuses_info": [
+          "清水河校区：成都市高新区（西区）西源大道2006号　邮编： 611731",
+          "沙河校区：成都市建设北路二段四号　邮编：610054"
+        ],
+        "icp_beian": "蜀ICP备 05006379 号",
+        "gongan_beian": "川公网安备 51019002000280 号",
+        "footer_actions": [
+          "返回",
+          "顶部"
+        ]
+      }
+    },
+    "professor_data": {
+      "name": "陈聪",
+      "page_stats": {
+        "likes_or_score": 16,
+        "mentor_qualification_link": {
+          "text": "同专业硕导",
+          "url": "https://faculty.uestc.edu.cn/chencong1/zh_CN/tzysd/396100/list/index.htm"
+        },
+        "page_views": "00021275",
+        "last_updated": "2026.1.30"
+      },
+      "sections": {
+        "personal_information": {
+          "title": "个人信息",
+          "details": [
+            {
+              "item": "教师姓名",
+              "value": "陈聪"
+            },
+            {
+              "item": "教师拼音名称",
+              "value": "Chen Cong"
+            },
+            {
+              "item": "电子邮箱",
+              "value": "cong_chen@uestc.edu.cn"
+            },
+            {
+              "item": "入职时间",
+              "value": "2019-03-18"
+            },
+            {
+              "item": "学历",
+              "value": "博士研究生毕业"
+            },
+            {
+              "item": "办公地点",
+              "value": "成电国际创新中心D栋302室"
+            },
+            {
+              "item": "性别",
+              "value": "男"
+            },
+            {
+              "item": "联系方式",
+              "value": "cong_chen@uestc.edu.cn"
+            },
+            {
+              "item": "学位",
+              "value": "工学博士学位"
+            },
+            {
+              "item": "职称",
+              "value": "副研究员"
+            },
+            {
+              "item": "导师类型",
+              "value": "硕士生导师"
+            },
+            {
+              "item": "所属院系",
+              "value": "自动化工程学院"
+            },
+            {
+              "item": "学科",
+              "value": "测试计量技术及仪器"
+            }
+          ]
+        },
+        "other_contact_information": {
+          "title": "其他联系方式",
+          "details": [
+            {
+              "item": "邮箱",
+              "value": "cong_chen@uestc.edu.cn"
+            }
+          ]
+        },
+        "biography": {
+          "title": "个人简介",
+          "content": "陈聪，博士，长期从事新型传感与精密测量前沿技术研究，包括微纳体声波谐振式传感、功率器件热机可靠性检测等方面。作为项目负责人，主持国家自然科学基金青年基金项目1项、四川省重点研发计划项目1项，中央高校基本科研业务费面向基础前沿类项目1项、技术开发类横向项目3项；作为项目核心技术骨干，先后承担国家重点研发计划、国家自然科学基金联合基金重点项目等10余项。发表一作及通讯SCI期刊论文及高水平国际学术会议论文9篇，其中，中科院一区Top 2篇，二区2篇。作为第一发明人，申请国家发明专利5项，并获授权4项。学术兼职方面，担任 IEEE Transactions on Instrumentation and Measurement、IEEE Transactions on Power Electronics、Journal of Ambient Intelligence and Humanized Computing等多个国际期刊审稿人。"
+        },
+        "education_experience": {
+          "title": "教育经历",
+          "entries": null
+        },
+        "work_experience": {
+          "title": "工作经历",
+          "entries": [
+            {
+              "period": "2023.5 - 至今",
+              "institution": "电子科技大学",
+              "department": "自动化工程学院",
+              "position": "副研究员"
+            }
+          ]
+        },
+        "social_appointments": {
+          "title": "社会兼职",
+          "entries": null
+        },
+        "research_directions": {
+          "title": "研究方向",
+          "directions": [
+            "新型传感与精密测量",
+            "宽带时域测试技术及仪器",
+            "电子系统综合测试诊断与预测"
+          ]
+        },
+        "team_members": {
+          "title": "团队成员",
+          "members": null
+        }
+      }
+    }
+  }
+}

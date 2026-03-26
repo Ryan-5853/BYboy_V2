@@ -1,0 +1,140 @@
+{
+  "meta": {
+    "tutor_name_cn": "盛瀚民",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1168/4448.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1168/4448.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/6f96a7e0ccf69df098f14b8d0321d5cb3c4facaadeb56890cf60525b4f0cdfa3.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "target_name": "盛瀚民",
+    "personal_info": {
+      "name": "盛瀚民",
+      "highest_degree": "博士",
+      "phone": "028-67830301",
+      "title_position": "副教授",
+      "email": "hmsheng@uestc.edu.cn",
+      "supervisor_status": "硕士导师",
+      "personal_homepage": null,
+      "research_group": "基础研究中心",
+      "photo_url": "https://www.auto.uestc.edu.cn/__local/A/9D/25/4847259C87D2615A09E31E2CDF5_AA65668D_473E9.png"
+    },
+    "main_research_directions": [
+      "人工智能技术",
+      "智能检测技术"
+    ],
+    "academic_affiliations_and_roles": [
+      "任IEEE transactions on Industrial Electronics, Journal of Energy Storage, IEEE transactions on Sustainable Energy 等期刊审稿人"
+    ],
+    "experience": [
+      {
+        "start_date": "2021-06",
+        "end_date": "至今",
+        "country": "中国",
+        "institution": "电子科技大学",
+        "college_department": "自动化工程学院",
+        "role": "副教授",
+        "type": "work"
+      },
+      {
+        "start_date": "2017-06",
+        "end_date": "2021-06",
+        "country": "中国",
+        "institution": "电子科技大学",
+        "college_department": "自动化工程学院",
+        "role": "讲师",
+        "type": "work"
+      },
+      {
+        "start_date": "2015-01",
+        "end_date": "2016-01",
+        "country": "新加坡",
+        "institution": "南洋理工大学",
+        "role": "联合培养博士",
+        "type": "education"
+      },
+      {
+        "start_date": "2011-06",
+        "end_date": "2017-06",
+        "country": "中国",
+        "institution": "西南交通大学",
+        "college_department": "电气工程学院",
+        "role": "博士",
+        "type": "education"
+      }
+    ],
+    "scientific_research": {
+      "research_main_direction": "信号捕获与智能识别",
+      "projects": "主持自然科学基金面上、青年、四川省自然科学基金、重点研发计划专项课题等多个国家级、省部级以及企业横向课题",
+      "publications_summary": "在国际权威期刊发表SCI期刊25篇，其中以第一作者发表JCR Q1论文10篇（包括：检测与人工智能权威期刊IEEE transactions on Industrial Electronics、IEEE transactions on Wireless Communications，IEEE transactions on Power Electronics、Expert System with Applications，累计SCI他引1000余次）",
+      "patents": {
+        "applied_count": 13,
+        "authorized_count": 7
+      },
+      "awards": [
+        "中国仪器仪表学会科技进步一等奖",
+        "四川省科技进步三等奖"
+      ]
+    },
+    "courses_and_teaching_research": [
+      "机器学习",
+      "精密仪器设计基础",
+      "计量方法与误差理论"
+    ],
+    "admission_disciplines": {
+      "master": [
+        "控制科学与工程",
+        "控制工程"
+      ],
+      "phd": []
+    },
+    "site_chrome": {
+      "source_url": "https://www.auto.uestc.edu.cn/info/1168/4448.htm",
+      "page_title": "师资队伍",
+      "breadcrumbs": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "S",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/S.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "navigation_links": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ]
+    }
+  }
+}

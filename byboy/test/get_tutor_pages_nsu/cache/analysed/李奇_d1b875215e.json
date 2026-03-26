@@ -1,0 +1,291 @@
+{
+  "meta": {
+    "tutor_name_cn": "李奇",
+    "request_url": "http://automation.seu.edu.cn/lq3/list.htm",
+    "declared_source_url": "http://automation.seu.edu.cn/lq3/list.htm",
+    "page_host": "automation.seu.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/b5afcc2e3afa0a91781b45ce365d80ea8dc609203aa08de358968c301b36201a.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": "内容包含丰富的导师基本信息、教育背景、工作经历"
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "site_info": {
+      "source_url": "http://automation.seu.edu.cn/lq3/list.htm",
+      "visit_counter_image_url": "https://automation.seu.edu.cn/_visitcount?siteId=338&type=2&columnId=34494"
+    },
+    "personal_info": {
+      "name": "李奇",
+      "gender": "男",
+      "date_of_birth": "1963年8月",
+      "birthplace": "江苏苏州人",
+      "political_affiliation": {
+        "text": "九三学社",
+        "url": "https://baike.baidu.com/item/%E4%B9%9D%E4%B8%89%E5%AD%A6%E7%A4%BE/181146"
+      },
+      "start_work_date": "1986年3月",
+      "education_level": "研究生学历",
+      "degree": "博士学位",
+      "current_titles": [
+        {
+          "text": "东南大学",
+          "url": "https://baike.baidu.com/item/%E4%B8%9C%E5%8D%97%E5%AD%A6"
+        },
+        "教授",
+        "博士生导师"
+      ],
+      "academic_leadership": [
+        {
+          "text": "东南大学",
+          "url": "https://baike.baidu.com/item/%E4%B8%9C%E5%8D%97%E5%AD%A6"
+        },
+        {
+          "text": "控制科学与工程",
+          "url": "https://baike.baidu.com/item/%E6%8E%A7%E5%88%B6%E7%A7%91%E5%AD%A6%E4%B8%8E%E5%B7%A5%E7%A8%8B"
+        },
+        "一级学科学术带头人"
+      ],
+      "special_allowance": "享受国务院政府特殊津贴专家",
+      "current_political_positions": [
+        "南京市政协副主席",
+        "九三学社省委副主委",
+        "监督委主任",
+        "南京市委主委"
+      ]
+    },
+    "education_background": [
+      {
+        "year_month": "1979.09",
+        "description": "南京工学院（1988年更名 东南大学）自动控制系工业自动化专业学习"
+      },
+      {
+        "year_month": "1983.09",
+        "description": "南京工学院（现东南大学）自动化研究所自动控制专业硕士研究生学习"
+      },
+      {
+        "year_month": "1986.03",
+        "description": "同济大学热能系燃气教研室助教、讲师"
+      },
+      {
+        "year_month": "1989.03",
+        "description": "东南大学管理学院自动控制理论与应用专业博士研究生学习"
+      },
+      {
+        "year_month": "1992.07",
+        "description": "同济大学热能工程系博士后研究"
+      }
+    ],
+    "work_experience": [
+      {
+        "year_month": "1993.08",
+        "description": "东南大学自动化研究所教师(1994.12副教授)"
+      },
+      {
+        "year_month": "1996.02",
+        "description": "东南大学自动控制系副主任、自动化研究所副所长(1999.05 教授)",
+        "related_link": {
+          "text": "教授",
+          "url": "https://baike.baidu.com/item/%E6%95%99%E6%8E%88"
+        }
+      },
+      {
+        "year_month": "2000.05",
+        "description": "东南大学自动控制系主任、自动化研究所所长(2001.05博士生导师)"
+      },
+      {
+        "year_month": "2004.12",
+        "description": "江苏省科学技术厅副厅长(其间：2009.04—2010.03省中青年高级管理人才海外研修班美国马里兰大学学习，获公共管理硕士学位)"
+      },
+      {
+        "year_month": "2010.07",
+        "description": "九三学社南京市委主委，江苏省科学技术厅副厅长"
+      },
+      {
+        "year_month": "2012.06",
+        "description": "九三学社省委副主委、南京市委主委，江苏省科学技术厅副厅长"
+      },
+      {
+        "year_month": "2013.01",
+        "description": "九三学社省委副主委、南京市委主委，南京市人大常委会副主任"
+      },
+      {
+        "year_month": "2017.06",
+        "description": "九三学社省委副主委、监督委主任、南京市委主委，南京市人大常委会副主任"
+      },
+      {
+        "year_month": "2018.01",
+        "description": "第十四届南京市政协副主席、九三学社省委副主委、监督委主任、南京市委主委"
+      },
+      {
+        "description": "第十届江苏省政协委员"
+      },
+      {
+        "description": "第十一届江苏省政协常委"
+      },
+      {
+        "description": "九三学社第十四届中央委员会委员"
+      },
+      {
+        "year_range": "2003年8月－2004年8月",
+        "description": "应诺贝尔奖获得者 丁肇中 教授邀请，在美国 麻省理工学院（ MIT）进行高级访问研究，参与国际空间站阿尔法磁谱仪（AMS-02）研制。",
+        "related_links": [
+          {
+            "text": "丁肇中",
+            "url": "https://baike.baidu.com/item/%E4%B8%81%E8%82%87%E4%B8%AD"
+          },
+          {
+            "text": "麻省理工学院",
+            "url": "https://baike.baidu.com/item/%E9%BA%BB%E7%9C%81%E7%90%86%E5%B7%A5%E5%AD%A6%E9%99%A2"
+          },
+          {
+            "text": "MIT",
+            "url": "https://baike.baidu.com/item/MIT"
+          }
+        ]
+      }
+    ],
+    "academic_affiliations": [
+      "中国自动化学会应用专业委员会委员",
+      "江苏省自动化学会副理事长"
+    ],
+    "awards": [
+      {
+        "year": 2008,
+        "description": "入选第二批省333工程中青年科技领军人才"
+      },
+      {
+        "year": 2004,
+        "description": "获政府特殊津贴"
+      },
+      {
+        "year": 2000,
+        "description": "获高等学校优秀青年教师奖励计划资助"
+      },
+      {
+        "year": 2007,
+        "description": "获江苏省科技进步二等奖"
+      },
+      {
+        "year": 2005,
+        "description": "获江苏省科技进步一等奖"
+      },
+      {
+        "year": 2003,
+        "description": "获安徽省科技进步三等奖"
+      },
+      {
+        "year": 1999,
+        "description": "获航空工业总公司科技进步一等奖"
+      },
+      {
+        "year": 1995,
+        "description": "获上海市科技进步三等奖"
+      }
+    ],
+    "courses_taught": null,
+    "student_supervision": null,
+    "research_info": {
+      "interests": [
+        "智能控制",
+        "优化方法",
+        "流程工业综合自动化"
+      ],
+      "project_overview": "先后主持国家 863、国家自然科学基金 等省部级科研项目30余项",
+      "publication_overview": "发表论文 SCI 和 EI 论文收录40余篇"
+    },
+    "research_projects": {
+      "status": "部分已完成科研项目",
+      "projects": [
+        {
+          "title": "“面向节能降耗的大功率磨矿分级过程控制与优化”",
+          "category": {
+            "text": "863",
+            "url": "https://baike.baidu.com/item/863"
+          },
+          "category_detail": "高技术项目"
+        },
+        {
+          "title": "“前馈神经网络的奇异学习动态研究”",
+          "category": {
+            "text": "国家自然科学基金",
+            "url": "https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6%E8%87%AA%E7%84%B6%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91"
+          },
+          "category_detail": "项目"
+        },
+        {
+          "title": "“钢铁生产物料流程优化调度系统”",
+          "category": "江苏省现代服务业软件专项项目"
+        },
+        {
+          "title": "“复杂系统多模型切换控制的应用研究”",
+          "category": "高等学校博士学科点专项科研基金"
+        },
+        {
+          "title": "“高精度大离轴陀螺稳定平台误差分析与补偿控制技术研究”"
+        },
+        {
+          "title": "“高精度伺服稳定平台的研制”"
+        },
+        {
+          "title": "“AMS-02反物质研究系统的研制”"
+        },
+        {
+          "title": "“AMS-02快电子学和微处理器系统研究”"
+        },
+        {
+          "title": "“复杂选矿工艺流程的优化控制与综合自动化”"
+        },
+        {
+          "title": "“面向节能降耗的钢铁企业物料流程优化调度系统”"
+        },
+        {
+          "title": "“基于RFID的行车自动定位及物料全流程跟踪系统”"
+        },
+        {
+          "title": "“FMS-500物料贮运系统”"
+        },
+        {
+          "title": "“宽厚板行车无线调度系统”"
+        },
+        {
+          "title": "“炼钢转炉兑铁无线数传系统”"
+        },
+        {
+          "title": "“水厂加氯加矾自动化系统”"
+        },
+        {
+          "title": "“纸浆蒸煮、配浆自动化系统”"
+        },
+        {
+          "title": "“大型火电机组动态特性辨识研究”"
+        }
+      ]
+    },
+    "publications": {
+      "status": "部分已发表论文",
+      "papers": [
+        "Disturbance observer based multi-variable control of ball mill grinding circuits. Journal of Process Control, 2009, 19(7), 1025-1031.",
+        "Expert system based adaptive dynamic matrix control for ball mill grinding circuit. Expert Systems with Applications, 2009, 36(1), 716-723.",
+        "Supervisory expert control for ball mill grinding circuits. Expert Systems with Applications, 2008, 34(3), 1877-1885.",
+        "Constrained model predictive control for ball mill grinding process. Powder Technology, 2008, 186(1), 31-39.",
+        "Override and Predictive Control of Particle Size and Feed Rate in Grinding Process. Proceedings of the 26th Chinese control conference, 2007, (4), 704-708.",
+        "Fuzzy logic based on-line efficiency optimization control of a ball mill grinding circuit. Proceedings of the 4th international conference on fuzzy systems and knowledge discovery, 2007, 2, 575-580.",
+        "Application of model predictive control in ball mill grinding circuit. Minerals Engineering, 2007, 20(11), 1099-1108.",
+        "Disturbance rejection of ball mill grinding circuits using DOB and MPC. Powder Technology, 2010, 198 (2), 219-228.",
+        "Disturbance rejection of the dead-time processes using disturbance observer and model predictive control. Chemical Engineering Research and Design, 2011,89,125-135.",
+        "Global set stabilisation of the spacecraft attitude using finite-time control technique, International Journal of Control, 2009, 82(5), 822-836",
+        "Stability analysis for a second-order continuous finite-time control system subject to a disturbance, Journal of Control Theory and Applications, 2009, 7(3), 271-276",
+        "Global set stabilization of the spacecraft attitude control problem based on quaternion, International Journal of Robust and Nonlinear Control, 2010，20(1)，84-105",
+        "Global uniform asymptotical stability of a class of nonlinear cascaded systems, International Journal of Systems Science, 2010, 41(11), 1301-1312",
+        "Global stabilization of a class of upper-triangular systems with unbounded or uncontrollable linearizations. International Journal of Robust and Nonlinear Control, 2011, 21, 271-294",
+        "Adaptive set stabilization of the attitude of a rigid spacecraft without angular velocity measurements. Journal of Systems Science and Complexity, 2011, 24(1), 105-119",
+        "Adaptive Fuzzy PID Composite Control with Hysteresis-band Switching for Line of Sight Stabilization Servo System.Aerospace Science and Technology. 2011,15(1):25-32.",
+        "Maneuvering Targets State Prediction based on Robust H∞ Filtering in Opto-electronic Tracking System. Signal Processing 2010,90(6):2002-2008.",
+        "Compound Control with Hysteresis-band Switching for LOS Stabilization Servo System. Proceedings 2010 3rd IEEE International Conference on Computer Science and Information Technology（ICCSIT 2010）, 2010(2):183-188.",
+        "自适应模糊PID控制器在跟踪器瞄准线稳定系统中的应用. 控制理论与应用. 2008,25(2):278-282.",
+        "A novel method of infrared image denoising and edge enhancement. Signal Processing. 2008, 88(6):1606-1614."
+      ]
+    }
+  }
+}

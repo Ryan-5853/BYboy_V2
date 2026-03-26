@@ -1,0 +1,150 @@
+{
+  "meta": {
+    "tutor_name_cn": "肖寅东",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1173/6034.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1173/6034.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/89435441fe29c29ee069c43c801e953bb778397d8d50f9dff63ea5f73205c869.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "personal_info": {
+      "name": "肖寅东",
+      "highest_degree": "博士",
+      "image_url": "https://www.auto.uestc.edu.cn/__local/C/DE/76/223DE50B92684202B02431783B7_FB27AEE0_78B08.jpg"
+    },
+    "contact_info": {
+      "phone": null,
+      "email": "xydarcher@uestc.edu.cn",
+      "personal_homepage": null
+    },
+    "academic_roles": {
+      "title": "教授",
+      "supervisor_status": "硕士导师",
+      "research_team": "测试技术与仪器研究所",
+      "academic_titles_and_concurrent_posts": []
+    },
+    "experience": {
+      "work_experience": [
+        {
+          "start_date": "2023.07",
+          "end_date": "至今",
+          "institution": "电子科技大学",
+          "college": "自动化工程学院",
+          "position": "教授"
+        },
+        {
+          "start_date": "2015.08",
+          "end_date": "2023.06",
+          "institution": "电子科技大学",
+          "college": "自动化工程学院",
+          "position": "副教授"
+        },
+        {
+          "start_date": "2010.01",
+          "end_date": "2015.08",
+          "institution": "电子科技大学",
+          "college": "自动化工程学院",
+          "position": "讲师"
+        }
+      ],
+      "visiting_experience": [
+        {
+          "start_date": "2015.03",
+          "end_date": "2016.03",
+          "institution": "新西兰怀卡托大学",
+          "role": "访问学者"
+        }
+      ]
+    },
+    "research_info": {
+      "main_research_directions": [
+        "计算机网络测试技术",
+        "高速数据发生技术",
+        "计算机及其通信相关设备测试技术"
+      ],
+      "summary": "主要研究方向为计算机网络测试技术、高速数据发生技术、计算机及其通信相关设备测试技术。作为负责人或主研承担过省部级基础科研项目、国家自然科学基金青年基金等多项省部级和横向合作科研项目，累计科研经费超过2000万元；发表学术论文8篇，EI检索8篇；申请国家发明专利12项，已授权12项；获省部级科技进步一等奖1项；1项研究成果经四川省科技成果鉴定为国际先进水平。"
+    },
+    "achievements": {
+      "projects_description": "作为负责人或主研承担过省部级基础科研项目、国家自然科学基金青年基金等多项省部级和横向合作科研项目，累计科研经费超过2000万元",
+      "publications": {
+        "papers_count": 8,
+        "ei_indexed_count": 8
+      },
+      "patents": {
+        "applied_count": 12,
+        "granted_count": 12
+      },
+      "awards": [
+        "省部级科技进步一等奖1项",
+        "1项研究成果经四川省科技成果鉴定为国际先进水平"
+      ]
+    },
+    "teaching_info": {
+      "undergraduate_courses": [
+        "微处理器系统结构与嵌入式系统",
+        "电子测量原理与测试系统",
+        "微处理器系统结构与嵌入式系统"
+      ],
+      "graduate_courses": [
+        "测试系统集成技术"
+      ],
+      "teaching_positions": null,
+      "teaching_research_projects": [
+        "参与《全国大学生智能汽车竞赛基础与实践》竞赛类在线开放课程"
+      ]
+    },
+    "admissions": {
+      "master_programs": [
+        {
+          "code": "080400",
+          "name": "仪器科学与技术"
+        },
+        {
+          "code": "085400",
+          "name": "电子信息"
+        }
+      ],
+      "doctoral_programs": []
+    },
+    "site_chrome": {
+      "source_url": "https://www.auto.uestc.edu.cn/info/1173/6034.htm",
+      "page_context_title": "师资队伍",
+      "navigation_breadcrumb": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "X",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/X.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "navigation_sidebar_links": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ]
+    }
+  }
+}

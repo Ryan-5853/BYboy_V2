@@ -1,0 +1,219 @@
+{
+  "meta": {
+    "tutor_name_cn": "朱宏",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1175/4285.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1175/4285.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/5b591b0ed0ff21f888b5074c6868f3c7f64ff950bd9eb7a271826c1afb83236b.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "query_name": "朱宏",
+    "source_url": "https://www.auto.uestc.edu.cn/info/1175/4285.htm",
+    "site_chrome": {
+      "breadcrumbs": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "Z",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/Z.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "sidebar_navigation": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ],
+      "page_titles": [
+        "师资队伍",
+        "师资队伍"
+      ]
+    },
+    "personal_info": {
+      "name": "朱宏",
+      "image_url": "https://www.auto.uestc.edu.cn/__local/8/F1/BF/AA673E348CB4FA164741ED0AF7B_8301965D_8676B.jpg",
+      "highest_degree": "博士",
+      "contact_phone": null,
+      "current_positions": [
+        "教授"
+      ],
+      "email": "zhuhong@uestc.edu.cn",
+      "supervision_status": "博士导师",
+      "personal_homepage": null,
+      "research_team": "智能控制研究室"
+    },
+    "main_research_directions": [
+      "应用数学",
+      "信息处理",
+      "智能控制"
+    ],
+    "academic_titles_and_appointments": [
+      "享受国务院特殊津贴专家",
+      "中国高等教育学会理事",
+      "中国高等教育学会产教融合研究分会副理事长",
+      "四川省高等教育学会副会长",
+      "教育部高等学校实验室建设与实验教学指导委员会副主任委员",
+      "连续两届担任教育部教学指导委员会副主任委员",
+      "国务院教育督导委员会第十届“国家督学”",
+      "部（委）属大学本科教学评估专家组组长（3所）",
+      "高水平知名大学本科教育教学评估专家（20多所）",
+      "高等教育专家"
+    ],
+    "experience": {
+      "work_experience": [
+        {
+          "start_date": "2024-02",
+          "end_date": "至今",
+          "organization": "电子科技大学自动化工程学院",
+          "position": "教授",
+          "details": null
+        },
+        {
+          "start_date": "2007-01",
+          "end_date": "2024-02",
+          "organization": "电子科技大学",
+          "position": "副校长，自动化工程学院教授",
+          "details": "其间，2017年8月至2020年9月援疆，任新疆大学党委副书记、副校长"
+        },
+        {
+          "start_date": "2001-06",
+          "end_date": "2007-01",
+          "organization": "电子科技大学",
+          "position": "教务处副处长，继续教育学院副院长、院长，自动化工程学院教授",
+          "details": null
+        },
+        {
+          "start_date": "1984-07",
+          "end_date": "2001-06",
+          "organization": "电子科技大学应用数学系",
+          "position": "助教、讲师、副教授、教授",
+          "details": "历任系团总支书记、系主任助理、副系主任；其间，1994年5月起，挂职任四川省彭州市人民政府市长助理3年"
+        }
+      ],
+      "education_experience": [
+        {
+          "start_date": "1980-09",
+          "end_date": "1984-07",
+          "organization": "成都电讯工程学院（电子科技大学）",
+          "major": "应用数学专业",
+          "degree": "本科学"
+        },
+        {
+          "start_date": "1986-02",
+          "end_date": "1988-01",
+          "organization": "中国科技大学研究生院",
+          "major": "数理统计专业",
+          "degree": "脱产学习"
+        },
+        {
+          "start_date": "2000-09",
+          "end_date": "2003-09",
+          "organization": "四川大学",
+          "major": "运筹学与控制论专业",
+          "degree": "在职博士学位"
+        }
+      ]
+    },
+    "scientific_research": {
+      "research_areas": [
+        "控制科学与工程",
+        "应用数学"
+      ],
+      "publication_summary": {
+        "recent_five_years_high_level_papers": "40余篇",
+        "total_papers": "超过100篇",
+        "recent_five_years_esi_highly_cited_papers": "3篇",
+        "total_esi_highly_cited_papers": "12篇"
+      },
+      "project_summary": {
+        "recent_five_years_projects": "5项",
+        "project_types": [
+          "省部级项目",
+          "横向项目"
+        ]
+      },
+      "talent_cultivation_summary": {
+        "phd_students_graduated": "12人",
+        "phd_students_details": [
+          "省级优秀博士1人",
+          "留学生1人"
+        ],
+        "master_students_graduated": "30人"
+      }
+    },
+    "teaching_and_education_research": {
+      "courses_taught": [
+        {
+          "level": "本科生",
+          "name": "《新生研讨课程》"
+        }
+      ],
+      "education_research_focus": "“学科特色性研究型大学创新人才培养体系构建”",
+      "contributions": [
+        "推进人才培养模式改革",
+        "打造教学核心骨干队伍",
+        "为学校一流本科教育建设奠定重要基础"
+      ],
+      "teaching_awards": [
+        {
+          "name": "国家级教学成果二等奖",
+          "count": 1,
+          "rank": "第1"
+        },
+        {
+          "name": "四川省教学成果一等奖",
+          "count": 3,
+          "rank": null
+        }
+      ]
+    },
+    "recruitment": {
+      "master_programs": [
+        {
+          "code": "081100",
+          "name": "控制科学与工程"
+        },
+        {
+          "code": "085400",
+          "name": "电子信息"
+        }
+      ],
+      "phd_programs": [
+        {
+          "code": "081100",
+          "name": "控制科学与工程"
+        },
+        {
+          "code": "085400",
+          "name": "电子信息"
+        },
+        {
+          "code": "086100",
+          "name": "交通运输"
+        }
+      ]
+    }
+  }
+}

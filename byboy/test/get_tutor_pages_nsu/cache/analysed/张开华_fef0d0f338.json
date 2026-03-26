@@ -1,0 +1,533 @@
+{
+  "meta": {
+    "tutor_name_cn": "张开华",
+    "request_url": "http://automation.seu.edu.cn/zkh/list.htm",
+    "declared_source_url": "http://automation.seu.edu.cn/zkh/list.htm",
+    "page_host": "automation.seu.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/7bb53cf49a6331520bca24f806c53aa0593033f9e02f0d4f0d7e95f4a26609be.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "site_chrome": {
+      "source_url": "http://automation.seu.edu.cn/zkh/list.htm",
+      "image_urls": [
+        "https://automation.seu.edu.cn/zkh/list.htm",
+        "https://automation.seu.edu.cn/_visitcount?siteId=338&type=2&columnId=57193"
+      ]
+    },
+    "personal_info": {
+      "name": "张开华",
+      "gender": "男",
+      "title": "教授",
+      "unit": "东南大学 自动化学院",
+      "research_summary": "主要研究方向为资源受限的具身多模态智能感知，包含目标分割、跟踪、检测。重点围绕提升模型的精度、速度以及泛化性等方面，开展了系列较为深入的研究工作，并取得了一定的研究进展。",
+      "publications_overview": "发表IEEE T-PAMI、IJCV、IEEE T-IP、IEEE T-MM、IEEE T-CSVT、CVPR、ICCV、ECCV等国外顶级期刊与会议论文30余篇",
+      "google_scholar_citations": "11000余次"
+    },
+    "profile_picture_url": "https://automation.seu.edu.cn/_upload/article/images/e6/7b/84417d81422ba3147c1edcd02119/e64d4e7b-c196-4a00-957c-d05f19e2e7cb.jpg",
+    "recruitment_info": {
+      "team_spirit": "我为人人，人人为我",
+      "recruitment_description": "寻找同样对科研有深度热情的伙伴。",
+      "quotas": [
+        {
+          "role": "博士生",
+          "count_per_year": "1名/年"
+        },
+        {
+          "role": "硕士生",
+          "count_per_year": "1-2名/年"
+        },
+        {
+          "role": "本科生",
+          "note": "欢迎参与科研训练"
+        }
+      ],
+      "application_instructions": "欢迎附简历申请",
+      "email": "zhangkaihua@seu.edu.cn"
+    },
+    "education": [
+      {
+        "start_date": "2010.8",
+        "end_date": "2014.1",
+        "institution": "香港理工大学",
+        "major": "计算机应用技术",
+        "degree": "博士",
+        "supervisor": "张磊 教授"
+      },
+      {
+        "start_date": "2006.9",
+        "end_date": "2009.7",
+        "institution": "中国科学技术大学",
+        "major": "信号与信息处理",
+        "degree": "硕士",
+        "supervisor": "徐守时 教授"
+      },
+      {
+        "start_date": "2002.9",
+        "end_date": "2006.6",
+        "institution": "中国海洋大学",
+        "major": "电子信息科学与技术",
+        "degree": "学士"
+      },
+      {
+        "start_date": "1999.9",
+        "end_date": "2002.7",
+        "institution": "山东省日照市第一中学",
+        "degree": "高中"
+      }
+    ],
+    "work_experience": [
+      {
+        "start_date": "2025-01",
+        "end_date": "今",
+        "institution": "东南大学",
+        "department": "自动化学院",
+        "position": "教授"
+      }
+    ],
+    "academic_services": [
+      {
+        "start_date": "2026-",
+        "role": "Associate Editor",
+        "organization": "国际期刊Pattern Recognition"
+      },
+      {
+        "start_date": "2024-",
+        "role": "Area Chair",
+        "organization": "国际会议ICML"
+      },
+      {
+        "start_date": "2024-",
+        "role": "Senior PC Member",
+        "organization": "国际会议AAAI"
+      },
+      {
+        "start_date": "2018-",
+        "role": "Associate Editor",
+        "organization": "国际期刊IET Electronics Letters"
+      },
+      {
+        "start_date": null,
+        "role": "Area Chair",
+        "organization": "国际会议NeurIPS"
+      }
+    ],
+    "awards": [
+      {
+        "year": 2023,
+        "name": "多媒体领域旗舰国际会议ICME 最佳学生论文奖",
+        "role": "通信作者",
+        "award_work": "Yang Wu et al. Object-aware calibrated depth-guided transformer for RGB-D Co-Salient Object Detection, ICME, 2023."
+      },
+      {
+        "year": 2022,
+        "name": "CCF-CV持久影响力工作奖",
+        "award_work": "Kaihua Zhang et al. Real-Time Compressive Tracking, ECCV 2012."
+      },
+      {
+        "year": 2020,
+        "name": "CCF科学技术奖自然科学二等奖",
+        "ranking": "排名第一",
+        "award_project": "张开华，刘青山，高效视觉目标跟踪理论与方法",
+        "source_url": "https://www.ccf.org.cn/Awards/Awards/2020-10-20/709506.shtml"
+      },
+      {
+        "year": 2017,
+        "name": "教育部自然科学一等奖",
+        "ranking": "排名第三",
+        "award_project": "杨健，杨猛，张开华，徐勇，张磊，视觉信息的表示学习理论与方法"
+      },
+      {
+        "year": 2018,
+        "name": "江苏省教育科学研究成果奖（高校自然科学类）一等奖",
+        "ranking": "排名第四",
+        "award_project": "刘青山，刘光灿，袁晓彤，张开华，孙玉宝， 稀疏低秩学习理论及其应用研究"
+      },
+      {
+        "year": 2022,
+        "name": "入选AI2000 Index 排行榜",
+        "category": "计算机视觉领域",
+        "ranking": "全球排名96"
+      },
+      {
+        "start_year": 2020,
+        "end_year": 2025,
+        "name": "入选斯坦福大学评选的全球前2%顶尖科学家榜单"
+      },
+      {
+        "start_year": 2020,
+        "end_year": 2025,
+        "name": "入选爱思唯尔中国高被引学者榜单",
+        "category": "计算机科学与技术"
+      },
+      {
+        "year": 2016,
+        "name": "入选江苏省333高层次人才培养工程"
+      },
+      {
+        "year": 2022,
+        "name": "入选江苏省333高层次人才培养工程"
+      },
+      {
+        "year": 2017,
+        "name": "江苏省杰青"
+      },
+      {
+        "year": 2017,
+        "name": "国际人脸关键点定位竞赛冠军"
+      },
+      {
+        "year": 2017,
+        "name": "ImageNet竞赛冠军"
+      },
+      {
+        "year": 2022,
+        "name": "国际权威竞赛VOT-LT2022召回率评测冠军"
+      }
+    ],
+    "courses_taught": [],
+    "student_supervision": [],
+    "research_interests": [
+      "视觉目标分割",
+      "跟踪",
+      "检测"
+    ],
+    "research_projects": [
+      {
+        "id": "62276141",
+        "name": "面向开放复杂环境的长程目标跟踪关键技术研究",
+        "type": "国家自然科学基金面上项目",
+        "start_date": "2023/01",
+        "end_date": "2026/12",
+        "status": "在研"
+      },
+      {
+        "id": "61876088",
+        "name": "基于验证建模的深度视觉跟踪方法研究",
+        "type": "国家自然科学基金面上项目",
+        "start_date": "2019/01",
+        "end_date": "2022/12",
+        "status": "结题"
+      },
+      {
+        "id": "BK20170040",
+        "name": "基于深度学习的视频目标跟踪与分割",
+        "type": "江苏省自然科学基金杰青项目",
+        "start_date": "2017/07",
+        "end_date": "2020/06",
+        "status": "结题"
+      },
+      {
+        "id": "BK20151529",
+        "name": "基于上下文信息融合与分割的目标跟踪方法研究",
+        "type": "江苏省自然科学基金面上项目",
+        "start_date": "2015/07",
+        "end_date": "2018/06",
+        "status": "结题"
+      },
+      {
+        "id": "61402233",
+        "name": "目标跟踪中的时空上下文建模方法研究",
+        "type": "国家自然科学基金青年项目",
+        "start_date": "2015/01",
+        "end_date": "2017/12",
+        "status": "结题"
+      }
+    ],
+    "publications": {
+      "google_scholar_url": "https://scholar.google.com/citations?user=FYatMi8AAAAJ&hl=zh-CN",
+      "list": [
+        {
+          "id": 1,
+          "authors": "Yang Wu, Lingyan Liang, Yaqian Zhao, Kaihua Zhang",
+          "title": "Object-Aware Calibrated Depth-Guided Transformer for RGB-D Co-Salient Object Detection",
+          "venue": "ICME",
+          "year": 2023,
+          "notes": "Best student paper award, 通信作者, CCF B"
+        },
+        {
+          "id": 2,
+          "authors": "Yang Wu, Hao Zhang, Lingyan Liang, Yaqian Zhao, Kaihua Zhang",
+          "title": "Group-Wise Co-Salient Object Detection with Siamese Transformers Via Brownian Distance Covariance Matching",
+          "venue": "ICASSAP",
+          "year": 2023,
+          "notes": "通信作者, CCF B"
+        },
+        {
+          "id": 3,
+          "authors": "Yan Liu, Kaihua Zhang, Yaqian Zhao, Hu Chen, Qingshan Liu",
+          "title": "Bi-RRNet: Bi-level recurrent refinement network for camouflaged object detection",
+          "venue": "Pattern Recognition",
+          "year": 2023,
+          "notes": "通信作者, CCF B"
+        },
+        {
+          "id": 4,
+          "authors": "赵子成, 张开华, 樊佳庆, 刘青山",
+          "title": "基于运动引导的高效无监督视频目标分割网络",
+          "venue": "自动化学报",
+          "year": 2023,
+          "notes": "通信作者, CCF A"
+        },
+        {
+          "id": 5,
+          "authors": "Yang Wu, Huihui Song, Bo Liu, Kaihua Zhang, Dong Liu",
+          "title": "Co-Salient Object Detection With Uncertainty-Aware Group Exchange-Masking",
+          "venue": "CVPR",
+          "year": 2023,
+          "notes": "CCF A"
+        },
+        {
+          "id": 6,
+          "authors": "Jiaqing Fan, Tiankang Su, Kaihua Zhang, Qingshan Liu",
+          "title": "Bidirectionally Learning Dense Spatio-temporal Feature Propagation Network for Unsupervised Video Object Segmentation",
+          "venue": "ACM MM",
+          "year": 2022,
+          "notes": "CCF A"
+        },
+        {
+          "id": 7,
+          "authors": "Kaihua Zhang, Yang Wu, Mingliang Dong, Bo Liu, Dong Liu, Qingshan Liu",
+          "title": "Deep Object Co-segmentation and Co-saliency Detection via High-order Spatial-Semantic Network Modulation",
+          "venue": "IEEE Transactions on Multimedia",
+          "year": 2022,
+          "notes": "CCF B"
+        },
+        {
+          "id": 8,
+          "authors": "Junwen Pan, Pengfei Zhu, Kaihua Zhang, et al.",
+          "title": "Learning Self-Supervised Low-Rank Network for Single-Stage Weakly and Semi-Supervised Semantic Segmentation",
+          "venue": "IJCV",
+          "year": 2022,
+          "notes": "CCF A"
+        },
+        {
+          "id": 9,
+          "authors": "Hongtao Yu, Pengfei Zhu, Kaihua Zhang, Yu Wang, Shuai Zhao, Lei Wang, Tianzhu Zhang, Qinghua Hu",
+          "title": "Learning Dynamic Compact Memory Embedding for Deformable Visual Object Tracking",
+          "venue": "IEEE Transactions on Neural Networks and Learning Systems",
+          "year": 2022,
+          "notes": "CCF B"
+        },
+        {
+          "id": 10,
+          "authors": "Kaihua Zhang, Zicheng Zhao, Dong Liu, Bo Liu, Qingshan Liu",
+          "title": "Deep Transport Network for Unsupervised Video Object Segmentation",
+          "venue": "ICCV",
+          "year": 2021,
+          "notes": "CCF A"
+        },
+        {
+          "id": 11,
+          "authors": "Jiaqing Fan, Bo Liu, Kaihua Zhang, Qingshan Liu",
+          "title": "Semi-supervised Video Object Segmentation via Learning Object-aware Global-local Correspondence",
+          "venue": "IEEE Transactions on Circuits and Systems for Video Technology",
+          "year": 2021,
+          "notes": "CCF B"
+        },
+        {
+          "id": 12,
+          "authors": "Tengpeng Li, Kaihua Zhang, Shiwen Shen, Bo Liu, Qingshan Liu, Zhu Li",
+          "title": "Image Co-saliency Detection and Instance Co-segmentation using Attention Graph Clustering based Graph Convolutional Network",
+          "venue": "IEEE Transactions on Multimedia",
+          "year": 2021,
+          "notes": "CCF B"
+        },
+        {
+          "id": 13,
+          "authors": "Kaihua Zhang, Mingliang Dong, Bo Liu, Xiaotong Yuan, Qingshan Liu",
+          "title": "DeepACG: Co-Saliency Detection via Semantic-aware Contrast Gromov-Wasserstein Distance",
+          "venue": "CVPR",
+          "year": 2021,
+          "notes": "CCF A"
+        },
+        {
+          "id": 14,
+          "authors": "Jin Chen, Huihui Song, Kaihua Zhang, Bo Liu, Qingshan Liu",
+          "title": "Video saliency prediction using enhancedspatiotemporal alignment network",
+          "venue": "Pattern Recognition",
+          "year": 2021,
+          "notes": "CCF B"
+        },
+        {
+          "id": 15,
+          "authors": "Jiaqing Fan, Huihui Song, Kaihua Zhang, Qingshan Liu",
+          "title": "Feature Alignment and Aggregation Siamese Networks for Fast Visual Tracking",
+          "venue": "IEEE Transactions on Circuits and Systems for Video Technology",
+          "year": 2020,
+          "notes": "CCF B"
+        },
+        {
+          "id": 16,
+          "authors": "Tengpeng Li, Huihui Song, Kaihua Zhang, Qingshan Liu",
+          "title": "Learning residual refinement network with semantic context representation for real-time saliency object detection",
+          "venue": "Pattern Recognition",
+          "year": 2020,
+          "notes": "CCF B"
+        },
+        {
+          "id": 17,
+          "authors": "Kaihua Zhang, Long Wang, Dong Liu, Bo Liu, Qingshan Liu, Zhu Li",
+          "title": "Dual Temporal Memory Network for Efficient Video Object Segmentation",
+          "venue": "ACM MM",
+          "year": 2020,
+          "notes": "CCF A"
+        },
+        {
+          "id": 18,
+          "authors": "Kaihua Zhang, Tengpeng Li, Shiwen Shen, Bo Liu, et al.",
+          "title": "Adaptive Graph Convolutional Network with Attention Graph Clustering for Co-saliency Detection",
+          "venue": "CVPR",
+          "year": 2020,
+          "notes": "CCF A"
+        },
+        {
+          "id": 19,
+          "authors": "Kaihua Zhang, Jin Chen, Bo Liu, Qingshan Liu",
+          "title": "Deep Object Co-Segmentation via Spatial-Semantic Network Modulation",
+          "venue": "AAAI",
+          "year": 2020,
+          "notes": "CCF A"
+        },
+        {
+          "id": 20,
+          "authors": "Kaihua Zhang, Tengpeng Li, Bo Liu, Qingshan Liu",
+          "title": "Co-saliency detection via mask-guided fully convolutional networks with multi-scale label smoothing",
+          "venue": "CVPR",
+          "year": 2019,
+          "notes": "CCF A"
+        },
+        {
+          "id": 21,
+          "authors": "Kaihua Zhang, Jiaqing Fan, Qingshan Liu, Jian Yang, Wei Lian",
+          "title": "Parallel attentive correlation tracking",
+          "venue": "IEEE Transactions on Image Processing",
+          "year": 2019,
+          "notes": "CCF A"
+        },
+        {
+          "id": 22,
+          "authors": "Kaihua Zhang, Xuejun Li, Huihui Song, Qingshan Liu, Wei Lian",
+          "title": "Visual tracking using spatio-temporally nonlocally regularized correlation filter",
+          "venue": "Pattern Recognition",
+          "year": 2018,
+          "notes": "CCF B"
+        },
+        {
+          "id": 23,
+          "authors": "Kaihua Zhang, Qingshan Liu, Jian Yang, Ming-Hsuan Yang",
+          "title": "Visual tracking via Boolean map representations",
+          "venue": "Pattern Recognition",
+          "year": 2018,
+          "notes": "CCF B"
+        },
+        {
+          "id": 24,
+          "authors": "Qingshan Liu, Jing Yang, Jiankang Deng, Kaihua Zhang",
+          "title": "Robust facial landmark tracking via cascade regression",
+          "venue": "Pattern Recognition",
+          "year": 2017,
+          "notes": "CCF B"
+        },
+        {
+          "id": 25,
+          "authors": "Kaihua Zhang, Qingshan Liu, Yi Wu, Ming-Hsuan Yang",
+          "title": "Robust visual tracking via convolutional networks without training",
+          "venue": "IEEE Transactions on Image Processing",
+          "year": 2016,
+          "notes": "CCF A"
+        },
+        {
+          "id": 26,
+          "authors": "Kaihua Zhang, Lei Zhang, Kin-Man Lam, David Zhang",
+          "title": "A level set approach to image segmentation with intensity inhomogeneity",
+          "venue": "IEEE Transactions on Cybernetics",
+          "year": 2015,
+          "notes": "CCF B"
+        },
+        {
+          "id": 27,
+          "authors": "Kaihua Zhang, Lei Zhang, Ming-Hsuan Yang",
+          "title": "Fast Compressive Tracking",
+          "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+          "year": 2014,
+          "notes": "CCF A"
+        },
+        {
+          "id": 28,
+          "authors": "Kaihua Zhang, Lei Zhang, Qingshan Liu, David Zhang, Ming-Hsuan Yang",
+          "title": "Fast visual tracking via dense spatio-temporal context learning",
+          "venue": "ECCV",
+          "year": 2014,
+          "notes": "CCF B"
+        },
+        {
+          "id": 29,
+          "authors": "Kaihua Zhang, Qingshan Liu, Huihui Song, Xuelong Li",
+          "title": "A variational approach to simultaneous image segmentation and bias correction",
+          "venue": "IEEE Transactions on Cybernetics",
+          "year": 2014,
+          "notes": "CCF B"
+        },
+        {
+          "id": 30,
+          "authors": "Kaihua Zhang, Lei Zhang, Ming-Hsuan Yang",
+          "title": "Real-time object tracking via online discriminative feature selection",
+          "venue": "IEEE Transactions on Image Processing",
+          "year": 2013,
+          "notes": "CCF A"
+        },
+        {
+          "id": 31,
+          "authors": "Kaihua Zhang, Lei Zhang, Ming-Hsuan Yang, Qinghua Hu",
+          "title": "Robust object tracking via active feature selection",
+          "venue": "IEEE transactions on circuits and systems for video technology",
+          "year": 2013,
+          "notes": "CCF B"
+        },
+        {
+          "id": 32,
+          "authors": "Kaihua Zhang, Huihui Song",
+          "title": "Real-time visual tracking via online weighted multiple instance learning",
+          "venue": "Pattern Recognition",
+          "year": 2013,
+          "notes": "CCF B"
+        },
+        {
+          "id": 33,
+          "authors": "Kaihua Zhang, Lei Zhang, Huihui Song, David Zhang",
+          "title": "Reinitialization-free level set evolution via reaction diffusion",
+          "venue": "IEEE Transactions on Image Processing",
+          "year": 2013,
+          "notes": "CCF A"
+        },
+        {
+          "id": 34,
+          "authors": "Kaihua Zhang, Lei Zhang, Ming-Hsuan Yang",
+          "title": "Real-time Compressive Tracking",
+          "venue": "ECCV",
+          "year": 2012,
+          "notes": "CCF B"
+        },
+        {
+          "id": 35,
+          "authors": "Kaihua Zhang, Huihui Song",
+          "title": "Active contours driven by local image fitting energy",
+          "venue": "Pattern Recognition",
+          "year": 2010,
+          "notes": "CCF B"
+        },
+        {
+          "id": 36,
+          "authors": "Kaihua Zhang, Lei Zhang, Huihui Song, Wengang Zhou",
+          "title": "Active contours with selective local or global segmentation: a new formulation and level set method",
+          "venue": "Image and Vision Computing",
+          "year": 2010
+        }
+      ]
+    }
+  }
+}

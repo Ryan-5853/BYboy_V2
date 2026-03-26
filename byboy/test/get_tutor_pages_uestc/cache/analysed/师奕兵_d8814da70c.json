@@ -1,0 +1,204 @@
+{
+  "meta": {
+    "tutor_name_cn": "师奕兵",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1168/4335.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1168/4335.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/7964756eaf4cbe90a2578414bc1414846556bbeff5a264e11e128e1c5f9ccfa5.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "source_url": "https://www.auto.uestc.edu.cn/info/1168/4335.htm",
+    "site_chrome": {
+      "fetched_from": "https://www.auto.uestc.edu.cn/info/1168/4335.htm",
+      "page_context_titles": [
+        "师资队伍"
+      ],
+      "breadcrumbs": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "S",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/S.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "navigation_links": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm",
+          "title": "教师名录"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm",
+          "title": "教师名录总览页"
+        }
+      ]
+    },
+    "professor_info": {
+      "name": "师奕兵",
+      "image_url": "https://www.auto.uestc.edu.cn/__local/5/F9/E7/CB5411ED1EB13FFBD8836B93FE8_3EBCBB23_6A99A.png",
+      "highest_degree": "博士",
+      "contact_phone": null,
+      "title_and_position": "教授",
+      "email": "ybshi@uestc.edu.cn",
+      "supervisor_status": "博士导师",
+      "personal_homepage": null,
+      "research_team": "地球信息智能探测团队"
+    },
+    "research_directions": [
+      "现代测试理论与技术",
+      "测试信号获取与处理",
+      "电路及系统测试与可测性设计",
+      "测井技术及仪器"
+    ],
+    "academic_and_social_appointments": [
+      {
+        "type": "学术头衔",
+        "name": "新世纪优秀人才计划"
+      },
+      {
+        "type": "兼职",
+        "name": "四川省科技进步奖计量组评审专家"
+      },
+      {
+        "type": "兼职",
+        "name": "中国测试杂志编委"
+      },
+      {
+        "type": "兼职",
+        "name": "四川省自动化与仪器仪表学会副理事长"
+      }
+    ],
+    "experience": {
+      "work_history": [
+        {
+          "start_date": "2002.08",
+          "end_date": "至今",
+          "institution": "电子科技大学",
+          "department": "自动化工程学院",
+          "position": "教授"
+        },
+        {
+          "start_date": "1996.05",
+          "end_date": "2002.07",
+          "institution": "电子科技大学",
+          "department": "自动化工程学院",
+          "position": "副教授"
+        },
+        {
+          "start_date": "1990.05",
+          "end_date": "1996.04",
+          "institution": "电子科技大学",
+          "department": "自动化工程学院",
+          "position": "讲师"
+        }
+      ]
+    },
+    "scientific_research": {
+      "summary": "长期从事现代测试理论与技术、测试信号获取与处理、电路及系统测试与可测性设计、测井技术及仪器方面的研究。主持多项国家级、省部级和横向合作等科研项目20余项。发表学术论文150余篇；著作3部。",
+      "projects": "主持多项国家级、省部级和横向合作等科研项目20余项",
+      "publications": {
+        "papers_count": "150余篇",
+        "books_count": "3部"
+      }
+    },
+    "teaching": {
+      "undergraduate_courses": [
+        "射频电路与微波技术"
+      ],
+      "graduate_courses": [
+        "射频电路设计"
+      ],
+      "teaching_positions": null,
+      "teaching_research_projects": [
+        "参与《教学方法与考核方法改革示范课“射频电路与微波技术”建设》"
+      ]
+    },
+    "admissions": {
+      "masters_programs": [
+        {
+          "code": "080400",
+          "name": "仪器科学与技术"
+        },
+        {
+          "code": "085400",
+          "name": "电子信息"
+        }
+      ],
+      "doctoral_programs": [
+        {
+          "code": "080400",
+          "name": "仪器科学与技术"
+        },
+        {
+          "code": "085400",
+          "name": "电子信息"
+        },
+        {
+          "code": "086100",
+          "name": "交通运输"
+        }
+      ]
+    },
+    "awards": [
+      {
+        "name": "省部级科技进步一等奖",
+        "count": 2,
+        "category": "科研"
+      },
+      {
+        "name": "省部级科技进步二等奖",
+        "count": 1,
+        "category": "科研"
+      },
+      {
+        "name": "省部级科技进步三等奖",
+        "count": 4,
+        "category": "科研"
+      },
+      {
+        "name": "国家级科学技术二等奖",
+        "count": 2,
+        "category": "科研"
+      },
+      {
+        "name": "国家级科技进步三等奖",
+        "count": 1,
+        "category": "科研"
+      },
+      {
+        "name": "校级优秀教师二等奖",
+        "count": 2,
+        "category": "教学"
+      },
+      {
+        "name": "校级优秀教学成果二等奖",
+        "count": 1,
+        "category": "教学"
+      },
+      {
+        "name": "电子科技大学“三育人”先进个人",
+        "year": "2004",
+        "category": "教学"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "meta": {
+    "tutor_name_cn": "郑亚莉",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1175/4392.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1175/4392.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/002d62649a1a09c319b26e63b0bb454e12cbcb714479d0ef68309e6bb1e8f3b9.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "metadata": {
+      "source_url": "https://www.auto.uestc.edu.cn/info/1175/4392.htm",
+      "target_mentor_name_query": "郑亚莉"
+    },
+    "site_chrome": {
+      "navigation_breadcrumbs": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "Z",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/Z.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "sidebar_navigation_links": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ],
+      "page_section_titles": [
+        "师资队伍",
+        "师资队伍"
+      ]
+    },
+    "mentor_info": {
+      "name": "郑亚莉",
+      "image_url": "https://www.auto.uestc.edu.cn/__local/3/61/25/4EB73E4591A3B25FD7FE6A49B7D_DB14904D_4D050.jpg",
+      "highest_degree": "博士",
+      "contact_phone": null,
+      "position_title": "副教授",
+      "email": "zhengyl@uestc.edu.cn",
+      "mentoring_status": "硕士导师",
+      "personal_homepage": {
+        "anchor_text": "个人主页",
+        "url": "http://www.uestc-vml.net/"
+      },
+      "research_team": "测试技术与仪器研究所"
+    },
+    "research_directions": [
+      "计算机视觉",
+      "模式识别",
+      "机器学习"
+    ],
+    "academic_titles_and_affiliations": [
+      "IEEE 会员",
+      "中国图像图形学会会员"
+    ],
+    "education_work_experience": [
+      {
+        "period": "2012年12月",
+        "description": "博士毕业于重庆大学计算机视觉与模式识别方向"
+      },
+      {
+        "period": "2008年10月-2011年9月",
+        "description": "在美国卡内基梅隆大学进行博士生联合培养，从事三维视觉重建等方面的研究"
+      },
+      {
+        "period": "2013年7月至今",
+        "description": "电子科技大学自动化工程学院专任教师"
+      }
+    ],
+    "scientific_research": {
+      "projects_led": [
+        "国家自然科学基金青年项目1项",
+        "国家自然科学基金面上项目1项",
+        "中国博士后基金面上项目一等资助1项",
+        "中央高校资助1项"
+      ],
+      "publications_and_patents": {
+        "academic_papers": "10余篇 (包括SCI/EI收录，发表于CVPR, ICPR, Pattern Recognition, Neurocomputing等国际会议和知名期刊)",
+        "national_invention_patents": "10余项"
+      }
+    },
+    "courses_and_teaching_research": {
+      "undergraduate_courses": [
+        "人工智能",
+        "计算机软件基础",
+        "微机原理"
+      ],
+      "graduate_courses": [
+        "机器学习",
+        "计算机视觉"
+      ],
+      "teaching_research_projects": [
+        "参与教学方法与考核方法改革示范课“软件技术基础”建设",
+        "主持教育部产学合作协同育人“人工智能与创新创业课程教学改革”项目"
+      ]
+    },
+    "recruitment_information": {
+      "master_programs": [
+        "081100控制科学与工程",
+        "085400电子信息"
+      ],
+      "doctoral_programs": []
+    }
+  }
+}

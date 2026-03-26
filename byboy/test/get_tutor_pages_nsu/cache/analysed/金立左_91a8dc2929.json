@@ -1,0 +1,280 @@
+{
+  "meta": {
+    "tutor_name_cn": "金立左",
+    "request_url": "http://automation.seu.edu.cn/jlz/list.htm",
+    "declared_source_url": "http://automation.seu.edu.cn/jlz/list.htm",
+    "page_host": "automation.seu.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/569a907bff98a2c28b6d3a1eac8abdd66e3b6c60508b5b9f0c5c714e49f7728c.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "metadata": {
+      "target_name": "金立左",
+      "source_url": "http://automation.seu.edu.cn/jlz/list.htm"
+    },
+    "site_chrome": {
+      "header_logo": {
+        "url": "https://automation.seu.edu.cn/_upload/tpl/0a/4c/2636/template2636/images/logo.png",
+        "alt_text": "返回自动化学院首页",
+        "link": "https://automation.seu.edu.cn/main.htm"
+      },
+      "top_navigation": [
+        {
+          "anchor_text": "学校主页",
+          "url": "https://www.seu.edu.cn/"
+        },
+        {
+          "anchor_text": "ENGLISH",
+          "url": "https://automation.seu.edu.cn/jlz/list.htm#"
+        }
+      ],
+      "main_navigation": [
+        {
+          "anchor_text": "学院概况",
+          "url": "https://automation.seu.edu.cn/24451/list.htm",
+          "sub_items": [
+            {
+              "anchor_text": "学院简介",
+              "url": "https://automation.seu.edu.cn/24498/list.htm"
+            },
+            {
+              "anchor_text": "发展历程",
+              "url": "https://automation.seu.edu.cn/24499/list.htm"
+            },
+            {
+              "anchor_text": "组织架构",
+              "url": "https://automation.seu.edu.cn/32602/list.htm"
+            },
+            {
+              "anchor_text": "现任领导",
+              "url": "https://automation.seu.edu.cn/32603/list.htm"
+            },
+            {
+              "anchor_text": "历任领导",
+              "url": "https://automation.seu.edu.cn/32604/list.htm"
+            },
+            {
+              "anchor_text": "院庆专栏",
+              "url": "https://automation.seu.edu.cn/yq/list.htm"
+            },
+            {
+              "anchor_text": "标识系统",
+              "url": "https://automation.seu.edu.cn/bsxt/list.htm"
+            },
+            {
+              "anchor_text": "联系我们",
+              "url": "https://automation.seu.edu.cn/24500/list.htm"
+            }
+          ]
+        },
+        {
+          "anchor_text": "师资力量",
+          "url": "https://automation.seu.edu.cn/szdw_32667/list.htm",
+          "sub_items": [
+            {
+              "anchor_text": "全体教师",
+              "url": "https://automation.seu.edu.cn/32668/list.htm"
+            },
+            {
+              "anchor_text": "院士",
+              "url": "https://automation.seu.edu.cn/32669/list.htm"
+            },
+            {
+              "anchor_text": "国家级人才",
+              "url": "https://automation.seu.edu.cn/gjjrc_51587/list.htm"
+            },
+            {
+              "anchor_text": "博士生导师",
+              "url": "https://automation.seu.edu.cn/32670/list.htm"
+            },
+            {
+              "anchor_text": "硕士生导师",
+              "url": "https://automation.seu.edu.cn/32671/list.htm"
+            }
+          ]
+        },
+        {
+          "anchor_text": "科学研究",
+          "url": "https://automation.seu.edu.cn/kxyj/list.htm",
+          "sub_items": [
+            {
+              "anchor_text": "科研通知",
+              "url": "https://automation.seu.edu.cn/32607/list.htm"
+            },
+            {
+              "anchor_text": "学术交流",
+              "url": "https://automation.seu.edu.cn/32608/list.htm"
+            },
+            {
+              "anchor_text": "科研基地",
+              "url": "https://automation.seu.edu.cn/32609/list.htm"
+            },
+            {
+              "anchor_text": "科技成果",
+              "url": "https://automation.seu.edu.cn/32610/list.htm"
+            }
+          ]
+        },
+        {
+          "anchor_text": "人才培养",
+          "url": "https://automation.seu.edu.cn/24454/list.htm",
+          "sub_items": [
+            {
+              "anchor_text": "本科生培养",
+              "url": "https://automation.seu.edu.cn/24509/list.htm"
+            },
+            {
+              "anchor_text": "研究生培养",
+              "url": "https://automation.seu.edu.cn/24510/list.htm"
+            }
+          ]
+        },
+        {
+          "anchor_text": "党群工作",
+          "url": "https://automation.seu.edu.cn/32612/list.htm",
+          "sub_items": [
+            {
+              "anchor_text": "党务工作",
+              "url": "https://automation.seu.edu.cn/32614/list.htm"
+            },
+            {
+              "anchor_text": "党建风采",
+              "url": "https://automation.seu.edu.cn/24535/list.htm"
+            },
+            {
+              "anchor_text": "工会工作",
+              "url": "https://automation.seu.edu.cn/32616/list.htm"
+            },
+            {
+              "anchor_text": "关工委",
+              "url": "https://automation.seu.edu.cn/ggw/list.htm"
+            }
+          ]
+        },
+        {
+          "anchor_text": "学生工作",
+          "url": "https://automation.seu.edu.cn/32613/list.htm",
+          "sub_items": [
+            {
+              "anchor_text": "就业服务",
+              "url": "https://automation.seu.edu.cn/24519/list.htm"
+            },
+            {
+              "anchor_text": "通知公告",
+              "url": "https://automation.seu.edu.cn/32617/list.htm"
+            },
+            {
+              "anchor_text": "榜样力量",
+              "url": "https://automation.seu.edu.cn/24522/list.htm"
+            },
+            {
+              "anchor_text": "学工动态",
+              "url": "https://automation.seu.edu.cn/24524/list.htm"
+            }
+          ]
+        },
+        {
+          "anchor_text": "校友工作",
+          "url": "https://automation.seu.edu.cn/24458/list.htm",
+          "sub_items": [
+            {
+              "anchor_text": "校友风采",
+              "url": "https://automation.seu.edu.cn/24537/list.htm"
+            },
+            {
+              "anchor_text": "校友活动",
+              "url": "https://automation.seu.edu.cn/24538/list.htm"
+            }
+          ]
+        },
+        {
+          "anchor_text": "人才招聘",
+          "url": "https://automation.seu.edu.cn/rczp/list.htm"
+        },
+        {
+          "anchor_text": "学术年专栏",
+          "url": "https://automation.seu.edu.cn/jysxdtl/list.htm"
+        }
+      ],
+      "footer_logo": {
+        "url": "https://automation.seu.edu.cn/_upload/tpl/0a/4c/2636/template2636/images/logo_s.png"
+      },
+      "footer_images": [
+        {
+          "url": "https://automation.seu.edu.cn/_upload/article/images/49/80/cc90f70945d99437aeb29c598629/b39cc810-2b19-45e6-bcb5-145efb62c5f5_s.jpg"
+        },
+        {
+          "url": "https://automation.seu.edu.cn/_upload/article/images/84/ab/53097bbf440198ff1519fabe1da5/b1c7ed74-ed3e-4287-aec5-526ade294570_s.jpg"
+        }
+      ],
+      "visit_counter_image": {
+        "url": "https://automation.seu.edu.cn/_visitcount?siteId=338&type=2&columnId=32746"
+      }
+    },
+    "faculty_profile": {
+      "name": "金立左",
+      "gender": "男",
+      "degree": "博士",
+      "titles": [
+        "党委书记",
+        "硕士生导师"
+      ],
+      "category": "全体教师",
+      "personal_image_url": "https://automation.seu.edu.cn/_upload/article/images/a1/ec/9f95d2774cd3971cdb7893eeb4ae/678d7fb8-f014-462d-a66e-a13c379c_s_s.jpg",
+      "contact": {
+        "email": "jinlizuo@qq.com",
+        "phone": null,
+        "location": null,
+        "homepage": null
+      },
+      "biography_summary": {
+        "text": "中国航空学会信息融合专业委员会委员，IEEE、SPIE、ACM、中国自动化学会会员。2000年于东南大学获模式识别与智能系统博士学位，2002～2004年日本东京大学生产技术研究所博士后，其间赴日本国立情报学研究所做访问研究。主要从事图像处理、计算机视觉、机器学习、人工智能、信息融合、无人系统等领域理论、算法与应用研究。承担国家自然科学基金重点项目和面上项目、国防预研基金项目、总装预研基金项目、航空科学基金项目、江苏省科技成果转化项目、江苏省社会发展面上项目、中电集团高校合作项目、航天科技集团科技合作项目、中兴通讯产学研合作项目等40余项，在国内外核心期刊与国际会议上发表学术论文120余篇，SCI、EI收录论文50余篇，发明专利10余件。",
+        "details": {
+          "memberships": [
+            "中国航空学会信息融合专业委员会委员",
+            "IEEE 会员",
+            "SPIE 会员",
+            "ACM 会员",
+            "中国自动化学会会员"
+          ],
+          "education_summary": "2000年于东南大学获模式识别与智能系统博士学位，2002～2004年日本东京大学生产技术研究所博士后，其间赴日本国立情报学研究所做访问研究。",
+          "research_focus_summary": "图像处理、计算机视觉、机器学习、人工智能、信息融合、无人系统等领域理论、算法与应用研究。",
+          "projects_count_summary": "承担项目40余项",
+          "publications_count_summary": "发表学术论文120余篇，SCI、EI收录论文50余篇",
+          "patents_count_summary": "发明专利10余件"
+        }
+      },
+      "research_directions": [
+        "图像处理与计算机视觉",
+        "机器学习与人工智能",
+        "智能感知与边缘计算",
+        "多源信息融合",
+        "自主无人系统"
+      ],
+      "courses_taught": [
+        "机器视觉（本科生研讨课）",
+        "统计学习导论（研究生专业课）",
+        "计算机视觉（博士生专业课）"
+      ],
+      "sections": {
+        "教育背景": null,
+        "工作经历": null,
+        "学术兼职": null,
+        "所获奖励": null,
+        "学生培养": null,
+        "研究兴趣": null,
+        "科研项目": null,
+        "论文发表": null
+      }
+    },
+    "department_contact_info": {
+      "organization": "东南大学自动化学院",
+      "address": "江苏省南京市四牌楼2号中心楼",
+      "phone": "025-83792724",
+      "email": "jupiter@seu.edu.cn"
+    }
+  }
+}

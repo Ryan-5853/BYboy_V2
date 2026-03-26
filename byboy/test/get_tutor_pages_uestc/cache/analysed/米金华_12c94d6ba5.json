@@ -1,0 +1,201 @@
+{
+  "meta": {
+    "tutor_name_cn": "米金华",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1162/7733.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1162/7733.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/c598a51d18d065788b4130d9a36392db79f2bd1adb386681c3c3b054560739e1.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "query_name": "米金华",
+    "source_url": "https://www.auto.uestc.edu.cn/info/1162/7733.htm",
+    "site_chrome": {
+      "page_title_context": "师资队伍",
+      "breadcrumbs": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "M",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/M.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "sidebar_navigation": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ]
+    },
+    "professor_info": {
+      "name": "米金华",
+      "image_url": "https://www.auto.uestc.edu.cn/__local/2/78/6C/C29A409F060F9E0A5D85FE4C366_E1638C5E_AC862.jpg",
+      "highest_degree": "博士",
+      "contact_phone": null,
+      "job_title": "研究员",
+      "email": "jinhuami@uestc.edu.cn",
+      "supervisor_status": "硕士导师",
+      "personal_homepage": "http://faculty.uestc.edu.cn/mijinhua/zh_CN/index.htm",
+      "research_team": "测试技术与仪器研究所"
+    },
+    "major_research_directions": [
+      "复杂系统可靠性建模、分析与评估；",
+      "工程不确定信息处理、不确定性量化方法，多源不确定信息融合；",
+      "数据驱动的智能故障诊断、预测与健康管理的理论及其应用研究。"
+    ],
+    "academic_titles_and_affiliations": null,
+    "experience": {
+      "learning_and_work_history": [
+        {
+          "start_date": "2025.05",
+          "end_date": "至今",
+          "institution": "电子科技大学",
+          "college": "自动化工程学院",
+          "position": "研究员"
+        },
+        {
+          "start_date": "2019.08",
+          "end_date": "2025.05",
+          "institution": "电子科技大学",
+          "college": "自动化工程学院",
+          "position": "副研究员"
+        },
+        {
+          "start_date": "2018.10",
+          "end_date": "2019.10",
+          "institution": "德国 汉诺威莱布尼茨大学",
+          "department": "风险与可靠性研究所",
+          "position": "博士后"
+        },
+        {
+          "start_date": "2017.01",
+          "end_date": "2019.07",
+          "institution": "电子科技大学",
+          "college": "自动化工程学院",
+          "position": "助理研究员"
+        },
+        {
+          "start_date": "2012.08",
+          "end_date": "2013.01",
+          "institution": "伟创力制造(珠海)有限公司",
+          "department": "产品可靠性工程部",
+          "position": "实习生"
+        }
+      ]
+    },
+    "scientific_research": {
+      "summary": "成功申请并主持国家自然科学基金项目、中央高校基本科研业务费普通和重点项目等多项。同时以主要参研人身份参与国家重大专项子课题、国家自然科学基金重点联合项目等多项。以第一/通讯作者在可靠性工程领域国际著名期刊Reliability Engineering & System Safety，IEEE Transactions on Reliability等及著名国际会议ASME IDETC/CIE、QR2MSE、APARM、ESREL等共发表学术论文30余篇，1篇热点论文，2篇高被引论文；以第一申请人申请发明专利5项，授权3项；获四川省科学技术进步一等奖1项；科学技术进步三等奖1项；获电子科技大学第九届教学成果一等奖1项；获QR2MSE2016, IEEE PHM2019国际会议大会最佳论文奖2项。担任可靠性领域多个知名期刊（Reliability Engineering & System Safety；IEEE Transactions on Reliability；Quality and Reliability Engineering International; Journal of Industrial and Management Optimization等）同行评审人。",
+      "projects": [
+        {
+          "name": "国家自然科学基金项目",
+          "role": "主持"
+        },
+        {
+          "name": "中央高校基本科研业务费普通项目",
+          "role": "主持"
+        },
+        {
+          "name": "中央高校基本科研业务费重点项目",
+          "role": "主持"
+        },
+        {
+          "name": "国家重大专项子课题",
+          "role": "主要参研人"
+        },
+        {
+          "name": "国家自然科学基金重点联合项目",
+          "role": "主要参研人"
+        }
+      ],
+      "publications": {
+        "count_summary": "30余篇",
+        "author_roles": [
+          "第一作者",
+          "通讯作者"
+        ],
+        "types_and_mentions": [
+          "1篇热点论文",
+          "2篇高被引论文"
+        ],
+        "venues": [
+          "Reliability Engineering & System Safety",
+          "IEEE Transactions on Reliability",
+          "ASME IDETC/CIE",
+          "QR2MSE",
+          "APARM",
+          "ESREL"
+        ]
+      },
+      "patents": {
+        "applied_count": "5项",
+        "granted_count": "3项",
+        "applicant_role": "第一申请人"
+      },
+      "awards": [
+        {
+          "name": "四川省科学技术进步一等奖",
+          "count": "1项"
+        },
+        {
+          "name": "四川省科学技术进步三等奖",
+          "count": "1项"
+        },
+        {
+          "name": "电子科技大学第九届教学成果一等奖",
+          "count": "1项"
+        },
+        {
+          "name": "QR2MSE2016国际会议大会最佳论文奖",
+          "count": "1项"
+        },
+        {
+          "name": "IEEE PHM2019国际会议大会最佳论文奖",
+          "count": "1项"
+        }
+      ],
+      "peer_reviewer_for": [
+        "Reliability Engineering & System Safety",
+        "IEEE Transactions on Reliability",
+        "Quality and Reliability Engineering International",
+        "Journal of Industrial and Management Optimization"
+      ]
+    },
+    "teaching": {
+      "courses_taught": [
+        "精密仪器设计基础",
+        "机械工程基础"
+      ],
+      "teaching_research": [
+        "参与教学方法与考核方法改革示范课“精密仪器设计基础”建设"
+      ]
+    },
+    "admission_majors": {
+      "masters": [
+        "080400仪器科学与技术",
+        "085400电子信息"
+      ],
+      "doctors": []
+    }
+  }
+}

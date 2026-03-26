@@ -1,0 +1,128 @@
+{
+  "meta": {
+    "tutor_name_cn": "杨超群",
+    "request_url": "http://automation.seu.edu.cn/ycq/list.htm",
+    "declared_source_url": "http://automation.seu.edu.cn/ycq/list.htm",
+    "page_host": "automation.seu.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/a627e8609ed67ca99db06151b0c1020e72968244edaef59a633d8cdc8a7fffb4.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "personal_info": {
+      "name": "杨超群",
+      "origin": "江西抚州人",
+      "current_titles_and_affiliations": [
+        {
+          "title": "副教授",
+          "affiliation": "东南大学自动化学院"
+        },
+        {
+          "title": "至善青年学者（A类）",
+          "affiliation": "东南大学"
+        },
+        {
+          "title": "博士生导师",
+          "affiliation": "东南大学"
+        },
+        {
+          "title": "江苏省“双创”人才",
+          "affiliation": null
+        },
+        {
+          "title": "江苏省“科技副总”",
+          "affiliation": null
+        }
+      ],
+      "lab_director": {
+        "name": "智能跟踪与信息融合实验室",
+        "abbreviation": "STF Lab"
+      },
+      "summary_stats": {
+        "papers_count": "80余篇 (SCI、EI等)",
+        "patents_count": "20余项 (国防专利、发明专利)"
+      },
+      "expertise_description": "长期从事雷达信息与数据处理、多源数据融合的算法和工程应用研究，理论与工程经验丰富。",
+      "academic_memberships": [
+        "国际电气与电子工程师学会(IEEE)高级会员（Senior Member）",
+        "国际信息融合学会(ISIF)会员",
+        "中国航空学会信息融合分会无人系统专委会秘书长",
+        "定位与跟踪专委会委员",
+        "中国自动化学会青工委和工业物联网技术与应用专委会委员"
+      ]
+    },
+    "education_experience": [
+      {
+        "period": "2010-2014",
+        "degree": "学士",
+        "university": "厦门大学",
+        "college": "海洋与地球学院",
+        "major": "海洋技术"
+      },
+      {
+        "period": "2014-2019",
+        "degree": "博士",
+        "university": "浙江大学",
+        "college": "信息与电子工程学院",
+        "major": "电子与科学技术",
+        "notes": "网络传感与控制（NESC）课题组，导师史治国教授（长江学者）"
+      }
+    ],
+    "work_experience": [
+      {
+        "period": "2019-2022",
+        "position": "工程师",
+        "affiliation": "中国电子科技集团公司",
+        "responsibilities": "雷达装备及技术研发工作"
+      },
+      {
+        "period": "2022-至今",
+        "position": "副教授",
+        "affiliation": "东南大学自动化学院"
+      }
+    ],
+    "academic_service_and_roles": [
+      {
+        "role": "专题主席",
+        "event": "国际信息融合大会（Fusion2025）"
+      },
+      {
+        "role": "专题主席",
+        "event": "IEEE ICCC2024"
+      },
+      {
+        "role": "专题主席",
+        "event": "ICAUS2022"
+      },
+      {
+        "role": "专题主席",
+        "event": "ICSPS2024"
+      },
+      {
+        "role": "专题主席",
+        "event": "中国信息融合大会2025"
+      },
+      {
+        "role": "TPC Member",
+        "event": "多个会议"
+      },
+      {
+        "role": "受邀报告人",
+        "event": "无人系统高峰论坛2025"
+      },
+      {
+        "role": "受邀报告人",
+        "event": "ICSPS2025"
+      },
+      {
+        "role": "受邀报告人",
+        "event": "IET 国际雷达会议2025"
+      },
+      {
+        "role": "青年编委"
+      }
+    ]
+  }
+}

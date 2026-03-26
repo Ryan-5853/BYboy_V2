@@ -1,0 +1,134 @@
+{
+  "meta": {
+    "tutor_name_cn": "彭礼彪",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1165/7985.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1165/7985.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/0ba036250eb37887d685a5c130fbd41b986cd6b3d18e1bb08db43221dabb50b1.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "site_chrome": {
+      "source_url": "https://www.auto.uestc.edu.cn/info/1165/7985.htm",
+      "navigation_path": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "P",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/P.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "sidebar_links": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ]
+    },
+    "teacher_profile": {
+      "name": "彭礼彪",
+      "image_url": "https://www.auto.uestc.edu.cn/__local/2/CB/0E/DBE5F226AD3C12211C1CAC18EE9_B9222929_1E53F.jpg",
+      "highest_degree": "博士",
+      "contact_phone": null,
+      "title_position": "特聘副研究员",
+      "email": "plibiao@uestc.edu.cn",
+      "supervisor_status": "硕士生导师",
+      "personal_homepage": null,
+      "research_team": "电磁与声波测量团队",
+      "main_research_directions": [
+        "电磁与声波检测技术",
+        "设备状态监测"
+      ],
+      "academic_titles_and_concurrent_posts": "担任Engineering Applications of Artificial lntelligence；IEEE Internet of Things Journal；IEEE Signal Processing Letters等学术期刊审稿人",
+      "education_work_experience": [
+        {
+          "start_date": "2026.2",
+          "end_date": "至今",
+          "institution": "电子科技大学",
+          "role": "特聘副研究员",
+          "type": "work"
+        },
+        {
+          "start_date": "2022.9",
+          "end_date": "2026.1",
+          "institution": "电子科技大学",
+          "role": "博士后",
+          "type": "work"
+        },
+        {
+          "start_date": "2020.12",
+          "end_date": "2021.12",
+          "institution": "亚琛工业大学（德国）",
+          "role": "CSC博士联合培养",
+          "type": "education"
+        },
+        {
+          "start_date": "2017.9",
+          "end_date": "2022.6",
+          "institution": "电子科技大学",
+          "major": "仪器科学与技术",
+          "degree": "博士",
+          "type": "education"
+        },
+        {
+          "start_date": "2015.9",
+          "end_date": "2017.8",
+          "institution": "电子科技大学",
+          "major": "仪器科学与技术",
+          "degree": "硕士",
+          "type": "education"
+        },
+        {
+          "start_date": "2011.9",
+          "end_date": "2015.8",
+          "institution": "电子科技大学",
+          "major": "测控技术与仪器",
+          "degree": "学士",
+          "type": "education"
+        }
+      ],
+      "scientific_research": {
+        "projects": "作为项目负责人主持国家级重点项目1项，主持技术领域基金1项及四川省青年基金1项，作为项目技术骨干承担国家自然科学基金“国家重大科研仪器研制”项目、及其他国家级重点项目3项，主持或参与其他横向、省部级、国家级科研项目7项",
+        "publications": "发表学术论文30余篇，其中以第一作者或通讯作者发表SCI论文7篇",
+        "patents": "授权发明专利8项"
+      },
+      "courses_and_teaching_research": {
+        "main_courses": [],
+        "teaching_research": null
+      },
+      "admission_majors": {
+        "master_programs": [],
+        "doctoral_programs": []
+      }
+    }
+  }
+}

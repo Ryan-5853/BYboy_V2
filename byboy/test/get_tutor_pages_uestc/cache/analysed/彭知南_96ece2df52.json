@@ -1,0 +1,163 @@
+{
+  "meta": {
+    "tutor_name_cn": "彭知南",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1165/7730.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1165/7730.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/88031ac2bf84b4eca6ff325e48fdcacae6a1c93ddc2b3e2b44bb8824cf40f2ca.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "site_metadata": {
+      "source_url": "https://www.auto.uestc.edu.cn/info/1165/7730.htm",
+      "page_title_context": "师资队伍",
+      "breadcrumbs": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "P",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/P.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "sidebar_links": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ]
+    },
+    "personal_info": {
+      "name": "彭知南",
+      "highest_degree": "博士",
+      "contact_phone": null,
+      "position_title": "副教授",
+      "email": "zhinanpeng@uestc.edu.cn",
+      "supervisor_status": "硕士导师",
+      "personal_homepage": "https://faculty.uestc.edu.cn/pengzhinan1/zh_CN/index.htm",
+      "research_team": "机器人研究中心",
+      "profile_picture_url": "https://www.auto.uestc.edu.cn/__local/6/DF/FC/EFBC561480A1F7BDF4353E0CDEB_0220967A_37590.jpg"
+    },
+    "research_directions": [
+      "多智能体系统建模与协同控制",
+      "人机交互",
+      "强化学习",
+      "具身智能控制",
+      "人机集群协同决策",
+      "康复外骨骼机器人应用"
+    ],
+    "academic_titles_and_affiliations": [
+      "中国自动化学会“自适应动态规划与强化学习”专委会委员",
+      "《Robot Learning》期刊青年编委",
+      "《Mathematics》期刊专刊Guest Editor",
+      "《Fractal and Fractional》期刊专刊Guest Editor",
+      "2023 IFAC自控领域顶级会议分论坛主席",
+      "2023 ICUS大会分论坛联合主席",
+      "第二届动态系统机器学习会议大会组织主席",
+      "三届中国智能康复学术与产业大会分论坛秘书",
+      "2025电子科技大学控制学科研讨会大会组织主席",
+      "2021 ICICIP国际学术会议PC Member",
+      "2025 ICCCS国际学术会议程序委员会委员",
+      "IEEE-TAC、IEEE TCYB、IEEE SMCA、TII、TIE、TNNLS、TASE、JAS、R-AL等高水平期刊以及CDC、ACC、IROS、ICRA、IFAC等国际顶级会议审稿人"
+    ],
+    "experience": {
+      "work_experience": [
+        {
+          "period": "2025.05 至今",
+          "organization": "电子科技大学自动化工程学院",
+          "position": "副教授"
+        },
+        {
+          "period": "2023.01-2025.05",
+          "organization": "电子科技大学自动化工程学院",
+          "position": "讲师"
+        },
+        {
+          "period": "2021.01-2023.01",
+          "organization": "电子科技大学自动化工程学院",
+          "position": "博士后"
+        },
+        {
+          "period": "2019.08-2020.08",
+          "organization": "奥克兰大学电气计算机与软件工程系",
+          "position": "联合培养博士"
+        }
+      ],
+      "education_experience": [
+        {
+          "period": "2014.09-2020.12",
+          "organization": "电子科技大学",
+          "degree": "硕士、博士（硕博连读）"
+        }
+      ]
+    },
+    "scientific_research_summary": {
+      "publications": [
+        "共发表学术论文70余篇",
+        "近五年以第一/通讯作者发表学术论文36篇",
+        "包括TII、TNNLS、Sci. China Inf. Sci.等SCI期刊论文23篇",
+        "包括ACC、ICRA、CDC、IROS等机器人/控制领域顶级会议6篇",
+        "3篇论文入选ESI高被引论文和ESI热点论文",
+        "1篇期刊论文入选《Control Theory and Technology》期刊年度优秀论文（仅入选2篇）",
+        "1篇期刊论文入选《Mathematics》2022-2024年期刊高被引论文"
+      ],
+      "patents": [
+        "申请国家发明专利10余项"
+      ],
+      "awards": [
+        "2次获得国际会议最佳论文提名奖"
+      ],
+      "projects": [
+        "主持国家自然科学基金青年基金、国家自然科学基金面上项目、四川省自然科学基金、博士后面上等国家/省部级科研项目7项",
+        "主持产学合作协同育人项目1项",
+        "负责省科技计划项目课题1项",
+        "参与国自然面上、省重点研发计划、横向课题/项目等20余项"
+      ]
+    },
+    "teaching": {
+      "courses_taught": [
+        "机器人",
+        "智能控制",
+        "人工智能基础"
+      ],
+      "teaching_research_projects": [
+        "主持产学合作协同育人项目",
+        "主研参与教育部学位与研究生教育发展中心主题案例项目",
+        "主研参与四川省高校创新性实验项目",
+        "主研参与产学合作协同育人项目"
+      ]
+    },
+    "admissions": {
+      "master_programs": {
+        "academic_degree": [
+          "081100控制科学与工程"
+        ],
+        "professional_degree": [
+          "085400电子信息",
+          "085406控制工程"
+        ]
+      },
+      "phd_programs": null
+    }
+  }
+}

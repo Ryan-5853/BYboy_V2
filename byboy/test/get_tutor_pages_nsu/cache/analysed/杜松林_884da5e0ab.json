@@ -1,0 +1,482 @@
+{
+  "meta": {
+    "tutor_name_cn": "杜松林",
+    "request_url": "http://automation.seu.edu.cn/dsl/list.htm",
+    "declared_source_url": "http://automation.seu.edu.cn/dsl/list.htm",
+    "page_host": "automation.seu.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/337687c5b7f3874258c530d3ef27f0db85db7514df3e666e549479376421df79.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "target_professor_name": "杜松林",
+    "source_url": "http://automation.seu.edu.cn/dsl/list.htm",
+    "personal_info": {
+      "name": "杜松林",
+      "current_titles": [
+        "副教授",
+        "博士生导师"
+      ],
+      "academic_honors": [
+        "东南大学“至善青年学者”A层次",
+        "东南大学“小米青年学者”",
+        "江苏省科协青年科技人才托举工程",
+        "深圳市优秀科技创新人才培养项目"
+      ],
+      "teaching_evaluation": "东南大学本科生优秀导师",
+      "roles": [
+        "国家人工智能学院导师"
+      ],
+      "expert_reviewer_roles": [
+        "国家自然科学基金函评专家",
+        "教育部学位中心研究生学位论文评审专家",
+        "国家留学基金评审专家",
+        "广东省科技咨询专家",
+        "南京市科技咨询专家",
+        "航空科学基金评审专家"
+      ],
+      "industry_roles": [
+        "三星电子中国研发中心技术顾问"
+      ]
+    },
+    "honors_and_awards": [
+      {
+        "name": "ISPACS2017国际会议“最佳论文奖”",
+        "year": "2017"
+      },
+      {
+        "name": "ICISIP2018国际会议“最佳报告奖”",
+        "year": "2018"
+      },
+      {
+        "name": "ISIPS2018国际会议“杰出论文奖”",
+        "year": "2018"
+      },
+      {
+        "name": "AIVR2019国际会议计算机视觉分会场“最佳报告奖”",
+        "year": "2019"
+      }
+    ],
+    "research_projects": {
+      "principal_investigator": [
+        "国家自然科学基金项目",
+        "江苏省基础研究计划（自然科学基金）项目",
+        "广东省基础与应用基础研究基金项目",
+        "深圳市基础研究专项（自然科学基金）项目",
+        "南京市留学人员科技创新择优资助项目",
+        "东南大学优秀青年教师科学研究资助项目",
+        "中国航天科工集团***项目",
+        "三星电子技术研发项目"
+      ],
+      "core_member": [
+        "国家重点研发计划项目",
+        "江苏省前沿技术研发计划项目",
+        "国家电网公司总部科技项目",
+        "日本学术振兴会基础研究项目",
+        "早稻田大学特别研究课题"
+      ]
+    },
+    "publications": {
+      "books": [
+        {
+          "authors": "Songlin Du and Takeshi Ikenaga",
+          "title": "Human Pose Analysis",
+          "publisher": "Springer Nature",
+          "year": "2025",
+          "url": "https://link.springer.com/book/10.1007/978-981-97-9334-1"
+        }
+      ],
+      "papers": [
+        {
+          "title": "Towards Free-form Local Feature Matching",
+          "authors": "Xiaoyong Lu, Songlin Du*, Yaping Yan, Xiaobo Lu, Takeshi Ikenaga",
+          "journal_conference": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+          "volume": "48",
+          "issue": "2",
+          "pages": "1470-1484",
+          "year": "2026"
+        },
+        {
+          "title": "Interpretable and Robust Multimodal Remote Sensing Image Matching via Phase Cue Feature Learning",
+          "authors": "Peifu Lai, Yaping Yan, Na Zhang, Songlin Du*",
+          "journal_conference": "IEEE Transactions on Geoscience and Remote Sensing",
+          "year": "2026",
+          "doi": "10.1109/TGRS.2026.3665603"
+        },
+        {
+          "title": "JamMa: Ultra-lightweight Local Feature Matching with Joint Mamba",
+          "authors": "Xiaoyong Lu and Songlin Du*",
+          "journal_conference": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+          "pages": "14934-14943",
+          "year": "2025"
+        },
+        {
+          "title": "A Unified fNIRS Classification Framework Informed by Local Brain Activation Patterns",
+          "authors": "Zenghui Wang and Songlin Du*",
+          "journal_conference": "IEEE Transactions on Industrial Informatics",
+          "year": "2025",
+          "doi": "10.1109/TII.2025.3632147"
+        },
+        {
+          "title": "MambaMatch: Establishing Reliable Correspondences via Multi-Scale State Space Model",
+          "authors": "Xiangyang Miao, Shunxing Chen, Xinyu Liu, Shiping Wang, Songlin Du, Lianghua He, Guobao Xiao*",
+          "journal_conference": "IEEE Transactions on Image Processing",
+          "volume": "34",
+          "pages": "7528-7541",
+          "year": "2025"
+        },
+        {
+          "title": "Spatially-Aware Adaptive Diffusion: Unifying Low-Resolution Image Fusion and Super-Resolution",
+          "authors": "Jiajia Fu, Zhenni Yu, Haosheng Chen, Songlin Du, Changcai Yang, Lianghua He, Guobao Xiao*",
+          "journal_conference": "IEEE Transactions on Circuits and Systems for Video Technology",
+          "year": "2025",
+          "doi": "10.1109/TCSVT.2025.3638425"
+        },
+        {
+          "title": "Tex2Sem: Learning from Textures to Semantics for Robust Semantic Correspondence",
+          "authors": "Zenghui Wang, Songlin Du*, Yaping Yan, Guobao Xiao, Xiaobo Lu",
+          "journal_conference": "IEEE Transactions on Circuits and Systems for Video Technology",
+          "volume": "35",
+          "issue": "11",
+          "pages": "10875-10890",
+          "year": "2025"
+        },
+        {
+          "title": "Topology Learning for Two-view Correspondence Filtering",
+          "authors": "Ziwei Shi, Xiangyang Miao, Guobao Xiao*, Songlin Du, Zheng Wang, Heng Tao Shen",
+          "journal_conference": "IEEE Transactions on Multimedia",
+          "volume": "27",
+          "pages": "7533-7545",
+          "year": "2025"
+        },
+        {
+          "title": "Skeleton-Aware Representation of Spatio-Temporal Kinematics for 3D Human Motion Prediction",
+          "authors": "Songlin Du*, Zhihan Zhuang, Zenghui Wang, Yuan Li, Takeshi Ikenaga",
+          "journal_conference": "IEEE Transactions on Automation Science and Engineering",
+          "volume": "22",
+          "pages": "12884-12898",
+          "year": "2025"
+        },
+        {
+          "title": "Bi-Pose: Bidirectional 2D-3D Transformation for Human Pose Estimation from a Monocular Camera",
+          "authors": "Songlin Du*, Hao Wang, Zhiwei Yuan, Takeshi Ikenaga",
+          "journal_conference": "IEEE Transactions on Automation Science and Engineering",
+          "volume": "21",
+          "issue": "3",
+          "pages": "3483-3496",
+          "year": "2024"
+        },
+        {
+          "title": "ContextMatcher: Detector-Free Feature Matching with Cross-Modality Context",
+          "authors": "Dongyue Li and Songlin Du*",
+          "journal_conference": "IEEE Transactions on Circuits and Systems for Video Technology",
+          "volume": "34",
+          "issue": "9",
+          "pages": "7922-7934",
+          "year": "2024"
+        },
+        {
+          "title": "Raising the Ceiling: Conflict-Free Local Feature Matching with Dynamic View Switching",
+          "authors": "Xiaoyong Lu and Songlin Du*",
+          "journal_conference": "European Conference on Computer Vision (ECCV)",
+          "pages": "256-273",
+          "year": "2024"
+        },
+        {
+          "title": "Toward Better Generalization: Shape Feature-Enhanced Fastener Defect Detection with Diffusion Model",
+          "authors": "Shixiang Su, Songlin Du, Dezhou Wang, Xiaobo Lu*",
+          "journal_conference": "IEEE Transactions on Instrumentation and Measurement",
+          "volume": "73",
+          "pages": "1-13",
+          "year": "2024"
+        },
+        {
+          "title": "Straight-Line Detection within 1 Millisecond per Frame for Ultra-High-Speed Industrial Automation",
+          "authors": "Songlin Du*, Ziwei Dong, Yuan Li, Takeshi Ikenaga",
+          "journal_conference": "IEEE Transactions on Industrial Informatics",
+          "volume": "19",
+          "issue": "4",
+          "pages": "5965-5975",
+          "year": "2023"
+        },
+        {
+          "title": "RFS-Net: Railway Track Fastener Segmentation Network with Shape Guidance",
+          "authors": "Shixiang Su, Songlin Du, Xuan Wei, Xiaobo Lu*",
+          "journal_conference": "IEEE Transactions on Circuits and Systems for Video Technology",
+          "volume": "33",
+          "issue": "3",
+          "pages": "1398-1412",
+          "year": "2023"
+        },
+        {
+          "title": "Scene-aware Feature Matching",
+          "authors": "Xiaoyong Lu, Yaping Yan, Tong Wei, Songlin Du*",
+          "journal_conference": "IEEE/CVF International Conference on Computer Vision (ICCV)",
+          "pages": "3681-3690",
+          "year": "2023"
+        },
+        {
+          "title": "ParaFormer: Parallel Attention Transformer for Efficient Feature Match",
+          "authors": "Xiaoyong Lu, Yaping Yan, Bin Kang, Songlin Du*",
+          "journal_conference": "AAAI Conference on Artificial Intelligence (AAAI)",
+          "pages": "1853-1860",
+          "year": "2023"
+        },
+        {
+          "title": "Automatic Foreground Detection at 784 FPS for Ultra-High-Speed Human-Machine Interactions",
+          "authors": "Songlin Du*, Peikun Cai, Tingting Hu, Takeshi Ikenaga",
+          "journal_conference": "IEEE Transactions on Automation Science and Engineering",
+          "volume": "19",
+          "issue": "4",
+          "pages": "3587-3600",
+          "year": "2022"
+        },
+        {
+          "title": "Subpixel Displacement Measurement at 784 FPS: From Algorithm to Hardware System",
+          "authors": "Songlin Du*, Kaidong Gu, Takeshi Ikenaga",
+          "journal_conference": "IEEE Transactions on Instrumentation and Measurement",
+          "volume": "71",
+          "pages": "5008310:1-5008310:10",
+          "year": "2022"
+        },
+        {
+          "title": "Geometric Constraint and Image Inpainting Based Railway Track Fastener Sample Generation for Improving Defect Inspection",
+          "authors": "Shixiang Su, Songlin Du, Xiaobo Lu*",
+          "journal_conference": "IEEE Transactions on Intelligent Transportation Systems",
+          "volume": "23",
+          "issue": "12",
+          "pages": "23883-23895",
+          "year": "2022"
+        },
+        {
+          "title": "Highly-Parallel Hardwired Deep Convolutional Neural Network for 1-ms Dual-Hand Tracking",
+          "authors": "Peiqi Zhang, Tingting Hu, Dingli Luo, Songlin Du, Takeshi Ikenaga*",
+          "journal_conference": "IEEE Transactions on Circuits and Systems for Video Technology",
+          "volume": "32",
+          "issue": "12",
+          "pages": "8192-8203",
+          "year": "2022"
+        },
+        {
+          "title": "Parallel Consensus Transformer for Local Feature Matching",
+          "authors": "Xiaoyong Lu, Yuhan Chen, Bin Kang, Songlin Du*",
+          "journal_conference": "Pattern Recognition",
+          "volume": "173",
+          "pages": "112905:1-112905:11",
+          "year": "2026"
+        },
+        {
+          "title": "Robust Unsupervised Visual Tracking Via Image-to-Video Identity Knowledge Transferring",
+          "authors": "Bin Kang, Zongyu Wang, Dong Liang, Tianyu Ding, Songlin Du*",
+          "journal_conference": "Pattern Recognition",
+          "volume": "171",
+          "pages": "112109:1-112109:10",
+          "year": "2026"
+        },
+        {
+          "title": "HSENet: Hierarchical Semantic-Enriched Network for Multi-Modal Image Fusion",
+          "authors": "Xinyu Liu, Rui Ming, Songlin Du, Lianghua He, Haibo Luo*, Guobao Xiao",
+          "journal_conference": "Pattern Recognition",
+          "volume": "170",
+          "pages": "112043:1-112043:13",
+          "year": "2026"
+        },
+        {
+          "title": "AnatPose: Bidirectionally Learning Anatomy-Aware Heatmaps for Human Pose Estimation",
+          "authors": "Songlin Du*, Zhiwen Zhang, Takeshi Ikenaga",
+          "journal_conference": "Pattern Recognition",
+          "volume": "155",
+          "pages": "110654:1-110654:14",
+          "year": "2024"
+        },
+        {
+          "title": "Kinematics-Aware Spatial-Temporal Feature Transform for 3D Human Pose Estimation",
+          "authors": "Songlin Du*, Zhiwei Yuan, Takeshi Ikenaga",
+          "journal_conference": "Pattern Recognition",
+          "volume": "150",
+          "pages": "110316:1-110316:10",
+          "year": "2024"
+        },
+        {
+          "title": "JoyPose: Jointly Learning Evolutionary Data Augmentation and Anatomy-Aware Global-Local Representation for 3D Human Pose Estimation",
+          "authors": "Songlin Du*, Zhiwei Yuan, Takeshi Ikenaga",
+          "journal_conference": "Pattern Recognition",
+          "volume": "147",
+          "pages": "110116:1-110116:12",
+          "year": "2024"
+        },
+        {
+          "title": "Fine-grained Recognition via Submodular Optimization Regulated Progressive Training",
+          "authors": "Bin Kang, Songlin Du*, Dong Liang, Fan Wu, Xin Li",
+          "journal_conference": "Pattern Recognition",
+          "volume": "156",
+          "pages": "110849:1-110849:9",
+          "year": "2024"
+        }
+      ],
+      "reviewing_journals_conferences": [
+        "IEEE TPAMI",
+        "IEEE TIP",
+        "IEEE TII",
+        "IEEE TCSVT",
+        "IEEE TASE",
+        "IEEE TIM",
+        "IEEE TGRS",
+        "IEEE/CAA JAS",
+        "IEEE TCE",
+        "Pattern Recognition",
+        "CVPR",
+        "ICCV",
+        "AAAI"
+      ]
+    },
+    "patents": [
+      {
+        "title": "基于联合数据增强和网络训练模型的3D人体姿态估计方法",
+        "patent_number": "ZL202110569187.7",
+        "authorization_date": "2022年11月01日"
+      },
+      {
+        "title": "一种基于并联交互架构模型实现多维度特征融合的目标检测方法",
+        "patent_number": "ZL 2022 1 1420718.7",
+        "authorization_date": "2025年08月15日"
+      },
+      {
+        "title": "基于注意力机制和图像特征融合的3D点云目标检测方法",
+        "patent_number": "ZL 2022 1 0659670.9",
+        "authorization_date": "2024年11月26日"
+      },
+      {
+        "title": "联合混合尺度特征描述子与邻居一致性的图像匹配方法",
+        "patent_number": "ZL 2022 1 1500472.4",
+        "authorization_date": "2025年10月17日"
+      },
+      {
+        "title": "一种基于动态图卷积神经网络的点云分析方法",
+        "patent_number": "ZL 2021 1 0616319.7",
+        "authorization_date": "2024年11月26日"
+      },
+      {
+        "title": "一种基于并行注意力机制的高效特征匹配方法",
+        "patent_number": "ZL 2023 1 0146914.8",
+        "authorization_date": "2025年10月14日"
+      },
+      {
+        "title": "一种联合稀疏和稠密邻域一致性的图像匹配方法",
+        "patent_number": "ZL 2022 1 1382001.8",
+        "authorization_date": "2025年10月21日"
+      },
+      {
+        "title": "一种融合局部和全局特征的三维人体姿态估计方法",
+        "patent_number": "ZL 2022 1 0142459.X",
+        "authorization_date": "2024年11月26日"
+      },
+      {
+        "title": "一种基于注意力机制和邻域一致性的特征匹配方法",
+        "patent_number": "ZL 2022 1 0438479.1",
+        "authorization_date": "2024年11月26日"
+      },
+      {
+        "title": "一种融合点特征和网格特征的点云目标检测方法",
+        "patent_number": "ZL 2021 1 1398672.9",
+        "authorization_date": "2024年08月23日"
+      }
+    ],
+    "academic_affiliations": {
+      "editorial_roles": [
+        {
+          "role": "副编辑",
+          "organization": "Pattern Recognition"
+        }
+      ],
+      "committee_memberships": [
+        {
+          "role": "高级会员",
+          "organization": "电气与电子工程师协会（IEEE）"
+        },
+        {
+          "role": "委员",
+          "organization": "中国图象图形学学会机器视觉专委会"
+        },
+        {
+          "role": "委员",
+          "organization": "中国图象图形学学会视觉大数据专委会"
+        },
+        {
+          "role": "委员",
+          "organization": "中国图象图形学学会多媒体专委会"
+        },
+        {
+          "role": "委员",
+          "organization": "中国自动化学会模式识别与机器智能专委会"
+        },
+        {
+          "role": "委员",
+          "organization": "中国自动化学会机器人专委会"
+        },
+        {
+          "role": "学术工委会秘书长",
+          "organization": "江苏省自动化学会"
+        }
+      ]
+    },
+    "courses_taught": [
+      {
+        "name": "人工智能",
+        "level": "本科生"
+      },
+      {
+        "name": "模式识别与机器学习",
+        "level": "本科生",
+        "notes": "课程思政校级示范课、“AI+”建设课程",
+        "audience": "自动化/机器人工程专业"
+      },
+      {
+        "name": "数字图像处理",
+        "level": "本科生",
+        "notes": "“AI+”建设课程",
+        "audience": "自动化/机器人工程专业"
+      },
+      {
+        "name": "人工智能及其应用",
+        "level": "研究生",
+        "notes": "课程思政校级示范课、“AI+”建设课程",
+        "audience": "电子信息类专业"
+      }
+    ],
+    "student_recruitment": {
+      "doctoral_students_per_year": "1-2名",
+      "master_students_per_year": "3-4名",
+      "research_directions_summary": "三维机器视觉与具身空间智能",
+      "details_link": {
+        "url": "https://songlin.ac.cn/",
+        "anchor_text": "songlin.ac.cn"
+      },
+      "current_status": "当前2027级硕博名额开放，无更多2026级硕博名额。"
+    },
+    "research_interests": {
+      "overview": "在计算机视觉领域，常见的相机系统通常采用二维传感器，这意味着它们捕捉到的图像是以二维数据形式呈现的。然而诸多场景下的智能体需要感知其周围的真实三维环境并确定自身的位姿，如自动驾驶、机器人导航、增强现实等，因此从二维图像恢复三维空间结构是一类重要且有挑战性的问题。",
+      "specific_topics": [
+        "跨视角图像匹配",
+        "运动恢复结构",
+        "相机位姿估计",
+        "目标位姿估计",
+        "人体等非刚性姿态估计"
+      ]
+    },
+    "site_chrome": {
+      "images": [
+        {
+          "description": "Decorative image for list page",
+          "url": "https://automation.seu.edu.cn/dsl/list.htm"
+        },
+        {
+          "description": "Visit counter image",
+          "url": "https://automation.seu.edu.cn/_visitcount?siteId=338&type=2&columnId=32866"
+        }
+      ]
+    }
+  }
+}

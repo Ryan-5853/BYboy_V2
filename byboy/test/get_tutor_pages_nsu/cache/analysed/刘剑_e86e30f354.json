@@ -1,0 +1,173 @@
+{
+  "meta": {
+    "tutor_name_cn": "刘剑",
+    "request_url": "http://automation.seu.edu.cn/lj1/list.htm",
+    "declared_source_url": "http://automation.seu.edu.cn/lj1/list.htm",
+    "page_host": "automation.seu.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/07368bfe138dc8c6f205b66d9c9513b3a93bfb8471e5f1c9a24465fe2b6faf70.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "site_chrome": {
+      "source_url": "http://automation.seu.edu.cn/lj1/list.htm",
+      "images": [
+        "https://automation.seu.edu.cn/lj1/list.htm",
+        "https://automation.seu.edu.cn/_visitcount?siteId=338&type=2&columnId=38337"
+      ]
+    },
+    "personal_info": {
+      "name": "刘剑",
+      "title": "副教授",
+      "department": "自动化学院",
+      "affiliation": "东南大学",
+      "roles": [
+        "博士生导师"
+      ],
+      "general_description": "近年来，共发表或接收SCI/EI期刊论文70余篇，其中第一/通信作者SCI论文30余篇。申请与受理国家发明专利20余项。荣获2023年中国自动化学会自然科学一等奖，2021年中国自动化学会优秀博士学位论文奖，2021年吴文俊人工智能优秀博士学位论文奖，2020年北京市优秀毕业生等荣誉。主持多项国家级、省部级和其他各类基金项目，包括国家自然科学基金（青年基金、面上项目），江苏省基础研究计划青年基金，中国博士后创新人才支持计划，中国博士后科学基金面上资助等。担任IEEE/CAA Journal of Automatica Sinica青年编委、工程科学学报青年编委、智能科学与技术学报专题编委。"
+    },
+    "research_interests": [
+      "自主无人系统智能控制",
+      "多机器人系统协作控制",
+      "多智能体系统博弈优化",
+      "全驱动水下机器人建模与控制",
+      "水下图像目标检测"
+    ],
+    "courses_taught": [
+      {
+        "name": "人工智能",
+        "audience": "本科生"
+      },
+      {
+        "name": "人工智能导论",
+        "audience": "外院本科生"
+      },
+      {
+        "name": "非线性系统分析与控制",
+        "audience": "研究生"
+      }
+    ],
+    "other_statements": {
+      "recruitment_message": "欢迎自动化、计算机、机械、数学及相关专业学生报考！",
+      "research_philosophy": "科研四心：好奇心、是非（严谨）心、自信心、进取心！",
+      "student_cultivation_philosophy": "学生培养：追求质量、把控数量、见贤思齐、人人茁壮！",
+      "common_goal": "共同目标：克己勤勉、求真务实、不论出处、止于至善！"
+    },
+    "education_background": [
+      {
+        "start_date": "2015.09",
+        "end_date": "2020.01",
+        "institution": "北京科技大学",
+        "major": "控制科学与工程",
+        "degree": "工学博士（本科直博）",
+        "supervisors": [
+          "孙长银教授",
+          "忻欣教授"
+        ]
+      },
+      {
+        "start_date": "2017.09",
+        "end_date": "2018.09",
+        "institution": "美国达特茅斯学院",
+        "program_type": "CSC联合培养博士生"
+      },
+      {
+        "start_date": "2011.09",
+        "end_date": "2015.06",
+        "institution": "北京科技大学",
+        "major": "自动化",
+        "degree": "工学学士"
+      }
+    ],
+    "work_experience": [
+      {
+        "start_date": "2021.12",
+        "end_date": "至今",
+        "institution": "东南大学",
+        "department": "自动化学院",
+        "position": "副教授"
+      },
+      {
+        "start_date": "2020.01",
+        "end_date": "2021.12",
+        "institution": "东南大学",
+        "position": "博士后",
+        "cooperative_supervisor": "孙长银教授"
+      }
+    ],
+    "academic_appointments": [
+      "IEEE/CAA Journal of Automatica Sinica（自动化学报英文版）青年编委",
+      "工程科学学报青年编委",
+      "智能科学与技术学报专题编委",
+      "中国自动化学会青年工作委员会委员",
+      "中国人工智能学会青年工作委员会委员",
+      "中国指挥与控制学会青年工作委员会委员",
+      "中国自动化学会机器人智能专业委员会委员",
+      "中国仿真学会机器人系统仿真专业委员会委员"
+    ],
+    "honors_and_awards": [
+      "2023年中国自动化学会自然科学一等奖",
+      "2021年中国自动化学会优秀博士学位论文奖",
+      "2021年吴文俊人工智能优秀博士学位论文奖",
+      "2020年北京市优秀毕业生"
+    ],
+    "research_projects": [
+      {
+        "name": "国家自然科学基金面上项目, 非完整信息下的多自主体系统固定时间安全协同控制研究",
+        "status": "在研",
+        "role": "主持"
+      },
+      {
+        "name": "江苏省基础研究计划（自然科学基金）青年基金, 固定时间多自主体系统事件触发协同控制与博弈优化",
+        "status": "在研",
+        "role": "主持"
+      },
+      {
+        "name": "国家自然科学基金青年基金",
+        "status": "结题",
+        "role": "主持"
+      },
+      {
+        "name": "2020年度博士后创新人才支持计划",
+        "status": "结题",
+        "role": "主持"
+      },
+      {
+        "name": "中国博士后科学基金面上资助一等",
+        "status": "结题",
+        "role": "主持"
+      }
+    ],
+    "publications_and_patents": {
+      "journal_papers_count": {
+        "total_sci_ei": "70余篇",
+        "first_or_corresponding_author_sci": "30余篇"
+      },
+      "patent_applications_accepted": "20余项",
+      "list_of_publications": [
+        "J. Liu, Y. Zhang, Y. Yu, C. Sun. Fixed-time event-triggered consensus for nonlinear multiagent systems without continuous communications. IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2019.",
+        "J. Liu, Y. Zhang, Y. Yu, C. Sun. Fixed-time leader-follower consensus of networked nonlinear systems via event/self-triggered control. IEEE Transactions on Neural Networks and Learning Systems, 2020.",
+        "J. Liu, Y. Yu, H. He, C. Sun. Team-triggered practical fixed-time consensus of double-integrator agents with uncertain disturbance. IEEE Transactions on Cybernetics, 2021.",
+        "J. Liu, Y. Yu, Y. Xu, Y. Zhang, C. Sun. Fixed-time averageconsensus of nonlinear delayed MASs under switching topologies: Anevent-based triggering approach. IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2022.",
+        "J. Liu, G. Ran, Y. Huang, C. Han, Y. Yu, C. Sun. Adaptive event-triggeredfinite-time dissipative filtering for interval type-2 fuzzy Markovjump systems with asynchronous modes. IEEE Transactions on Cybernetics, 2022.",
+        "J. Liu, G. Ran, Y. Wu, L. Xue, C. Sun. Dynamic event-triggeredpractical fixed-time consensus for nonlinear multi-agent systems. IEEE Transactions on Circuits and Systems II: Express Briefs, 2022.",
+        "J. Liu, Y. Wu, M. Sun, C. Sun. Fixed-time cooperative tracking for delayed disturbed multi-agent systems under dynamic event-triggered control. IEEE/CAA Journal of Automatica Sinica, 2022.",
+        "J. Liu, Y. Zhang, Y. Yu, H. Liu, C. Sun. A Zeno-free self-triggered approach to practical fixed-time consensus tracking with input delay. IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2022.",
+        "J. Liu, J. Shi, Y. Wu, X. Wang, J. Sun, C. Sun. Event-based predefined-time second-order practical consensus with application to connected automated vehicles. IEEE Transactions on Intelligent Vehicles, 2023.",
+        "J. Liu, Y. Yang, Y. Wu, S. Al-Dabooni, L. Xue, D. C. Wunsch. Exponential synchronization of reaction-diffusion systems on networks via asynchronous intermittent control. IEEE Transactions on Signal and Information Processing over Networks, 2023.",
+        "J. Liu, J. Shi, X. Yuan, Y. Wu, C. Sun. Dynamic event-based nonsingular practical fixed-time second-order consensus. IEEE Transactions on Network Science and Engineering, 2024.",
+        "J. Liu, J. Liu, Y. Wu, C. Mu, C. Sun. Aperiodically intermittent event-based fixed-time consensus tracking and its applications. IEEE Transactions on Automation Science and Engineering, 2024.",
+        "J. Liu, Z. Lian, J. Shi, L. Dong, C. Sun. Intermittent fixed-time fuzzy consensus of nonlinear multiagent systems with unknown control directions and event-based communication. IEEE Transactions on Fuzzy Systems, 2024.",
+        "J. Liu, J. Shi, Y. Wu, X. Wang, C. Sun. Self-triggered predefined-time consensus tracking control of nonlinear multiple ground vehicles. IEEE Transactions on Vehicular Technology, 2024.",
+        "J. Liu, J. Liu, Y. Wu, C. Mu, C. Sun. Aperiodically intermittent fixed-time synchronization of coupled reaction-diffusion systems via average control rate. IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2024.",
+        "Y. Wu, Y. Wang, J. Liu*, Y. Xu. Exponential synchronization of complex networks: An intermittent adaptive event-triggered control strategy. IEEE Transactions on Circuits and Systems I: Regular Papers, 2021.",
+        "J. Liu, Y. Wu, L.Xue, J. Liu*. A new intermittent control approach to practical fixed-time consensus with input delay. IEEE Transactions on Circuits and Systems II: Express Briefs, 2023.",
+        "孙佳, 贾玉斌, 武永宝, 董璐, 刘剑*. 随机干扰下拓扑时变 Kuramoto网络事件触发固定时间同步. 控制理论与应用, 2024.",
+        "石井龙, 刘志杰, 郭皓晨, 刘剑*. 动态事件触发下的一阶非线性多智能体系统设定时间一致. 工程科学学报, 2024.",
+        "许一航, 刘剑, 孙长银. 基于四元数的全驱动碟形AUV单矢量反馈控制. 智能科学与技术学报, 2022."
+      ]
+    }
+  }
+}

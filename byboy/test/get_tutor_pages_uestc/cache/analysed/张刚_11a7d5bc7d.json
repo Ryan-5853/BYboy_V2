@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "tutor_name_cn": "张刚",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1175/4120.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1175/4120.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/3d03f10c6b37c9e56e73706ceb2c4d874c319d7d384bf9cc55bda58871c66d9d.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "tutor_profile": {
+      "name": "张刚",
+      "image": {
+        "url": "https://www.auto.uestc.edu.cn/__local/A/B9/AB/DEE4E42416C881B87F5C6D36AB6_854A8B5B_162D5.jpg",
+        "description": null
+      },
+      "personal_info": {
+        "highest_degree": "硕士",
+        "contact_phone": null,
+        "title_position": "实验师",
+        "email": "zhanggang@uestc.edu.cn",
+        "supervisor_status": null,
+        "personal_homepage": null,
+        "research_team": "自动化研究所"
+      },
+      "research_sections": [
+        {
+          "title": "主要研究方向",
+          "content": [
+            "新能源控制技术",
+            "电力电子技术",
+            "控制工程"
+          ]
+        },
+        {
+          "title": "科学研究",
+          "content": "长期致力于本科教学、控制工程和控制技术研究"
+        }
+      ],
+      "academic_titles_affiliations": null,
+      "education_work_experience": [
+        {
+          "period": "2001.9-2004.4",
+          "description": "电子科技大学 控制科学与工程专业 硕士研究生"
+        },
+        {
+          "period": "2016.2-2017.2",
+          "description": "丹麦奥尔堡大学能源系 访问学者"
+        },
+        {
+          "period": "2007.4-2017.2",
+          "description": "电子科技大学自动化工程学院 讲师"
+        },
+        {
+          "period": "2017.3-至今",
+          "description": "电子科技大学自动化工程学院 实验师"
+        }
+      ],
+      "teaching": {
+        "main_courses_undergraduate": [
+          "数字逻辑设计及应用",
+          "过程控制仪表和控制系统",
+          "自动控制原理实验",
+          "综合（专题）课程设计",
+          "人工智能技术基础"
+        ],
+        "main_courses_graduate": null,
+        "teaching_positions": null,
+        "teaching_research_projects": [
+          "参与教学方法与考核方法改革示范课“数字逻辑设计及应用”建设",
+          "参与《数字逻辑设计及应用》在线开放课程",
+          "参与“过程控制系统课程”建设",
+          "参与“控制类核心课程群”建设和“核心课程教学团队”建设",
+          "参与“控制类新实验”建设"
+        ]
+      }
+    }
+  }
+}

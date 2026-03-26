@@ -1,0 +1,1691 @@
+{
+  "meta": {
+    "tutor_name_cn": "陈杨杨",
+    "request_url": "http://automation.seu.edu.cn/cyy/list.htm",
+    "declared_source_url": "http://automation.seu.edu.cn/cyy/list.htm",
+    "page_host": "automation.seu.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/73d8eb66461ef51f082827fc0486d8ce1e39da461c74561adfc41c0c68e6363e.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "name": "陈杨杨",
+    "source_url": "http://automation.seu.edu.cn/cyy/list.htm",
+    "basic_info": {
+      "current_positions": [
+        "东南大学教授",
+        "博士生导师",
+        "IEEE高级会员"
+      ],
+      "publication_summary": "发表SCI/EI论文150多篇，其中SCI一区/二区50余篇。",
+      "patent_summary": "申请国家发明专利11项，授权9项，转化1项；",
+      "project_summary": "主持和参与国家“863”、军口“863”、总装、国家自然科学基金、省自然科学基金、教育部博士点基金、教育部产学合作协同育人项目、企业委托项目10多项。"
+    },
+    "education_background": [
+      {
+        "start_date": "2006-03",
+        "end_date": "2010-06",
+        "institution": "东南大学",
+        "department": "自动化学院",
+        "degree": "博士"
+      },
+      {
+        "start_date": "2003-09",
+        "end_date": "2006-03",
+        "institution": "合肥工业大学",
+        "department": "电气工程与自动化学院",
+        "degree": "硕士"
+      },
+      {
+        "start_date": "1999-09",
+        "end_date": "2003-07",
+        "institution": "合肥工业大学",
+        "department": "电气工程与自动化学院",
+        "degree": "学士"
+      }
+    ],
+    "work_experience": [
+      {
+        "start_date": "2020-01",
+        "end_date": "2021-04",
+        "institution": "帝国理工学院",
+        "department": "电气与电子工程学院",
+        "position": "访问学者",
+        "notes": "合作导师：Astolf Alessandro（TAC主编）"
+      },
+      {
+        "start_date": "2019-06",
+        "end_date": "2019-07",
+        "institution": "帝国理工学院",
+        "department": "电气与电子工程学院",
+        "position": "访问学者",
+        "notes": "合作导师：Astolf Alessandro"
+      },
+      {
+        "start_date": "2022-04",
+        "end_date": "现在",
+        "institution": "东南大学",
+        "department": "自动化学院",
+        "position": "教授"
+      },
+      {
+        "start_date": "2014-04",
+        "end_date": "2022-04",
+        "institution": "东南大学",
+        "department": "自动化学院",
+        "position": "副教授"
+      },
+      {
+        "start_date": "2010-06",
+        "end_date": "2014-04",
+        "institution": "东南大学",
+        "department": "自动化学院",
+        "position": "讲师"
+      }
+    ],
+    "academic_affiliations": [
+      "江苏省自动化学会理事",
+      "IEEE 高级会员",
+      "Assoicated Editor of CEB",
+      "Assoicated Editor of CDC",
+      "Assoicated Editor of ACC",
+      "中国人工智能学会智能空天系统专业委员会委员",
+      "中国指挥与控制CICC集群智能与协同控制专委会委员",
+      "中国自动化学会青年工作委员会委员",
+      "多自主体控制学组委员",
+      "CACRE会议程序委员",
+      "《Frontiers in Control Engineering》 副主编",
+      "中国控制会议CCC 2013/2014/2016/2017分组共同主席",
+      "中国控制与决策会议CCDC 2016分组主席",
+      "ICCA 2017, CISC 2017/2019分组主席",
+      "CACRE2020，2022分组主席"
+    ],
+    "awards": [
+      {
+        "year": 2024,
+        "name": "埃斯顿奖教金二等奖"
+      },
+      {
+        "year": 2019,
+        "name": "东南大学先进党务工作者"
+      },
+      {
+        "year": 2018,
+        "name": "东南大学中泰国立奖教金四等奖"
+      },
+      {
+        "year": 2017,
+        "name": "东南大学教学奖励金二等奖"
+      },
+      {
+        "year": 2016,
+        "name": "自动化学院优秀班主任"
+      },
+      {
+        "name": "杰出审稿人",
+        "issuer": "International Journal of Robust and Nonlinear Control"
+      },
+      {
+        "name": "杰出审稿人",
+        "issuer": "The Journal of the Franklin Institute"
+      }
+    ],
+    "taught_courses": [
+      "自动控制原理I",
+      "控制系统建模与分析综合设计"
+    ],
+    "student_supervision": {
+      "competition_awards": [
+        {
+          "year": 2025,
+          "name": "第二十七届中国机器人及人工智能大赛 （自主巡航） 二等奖",
+          "students": [
+            "李冬澍",
+            "王旭东",
+            "沈涵"
+          ],
+          "supervisors": [
+            "陈杨杨",
+            "温广辉"
+          ]
+        },
+        {
+          "year": 2025,
+          "name": "第二十七届中国机器人及人工智能大赛 （目标射击） 二等奖",
+          "students": [
+            "王旭东",
+            "李冬澍",
+            "沈涵"
+          ],
+          "supervisors": [
+            "温广辉",
+            "陈杨杨"
+          ]
+        },
+        {
+          "year": 2023,
+          "name": "第七届全国集群智能与协同控制会议，最佳张贴论文奖"
+        },
+        {
+          "year": 2021,
+          "name": "第五届全国集群智能与协同控制会议，最佳张贴论文奖，最佳学生论文提名奖"
+        },
+        {
+          "year": 2021,
+          "name": "“谋略方寸联合智能”联合作战智能博弈挑战赛, 季军",
+          "issuer": "中央军委装备发展部",
+          "students": [
+            "方星辰",
+            "陈士昱",
+            "沈子榛",
+            "张丽",
+            "徐航"
+          ],
+          "supervisors": [
+            "张亚",
+            "陈杨杨",
+            "王庆领"
+          ]
+        },
+        {
+          "year": 2018,
+          "name": "葛延腾全球（南京）人工智能应用大赛第3名",
+          "students": [
+            "葛延腾"
+          ]
+        },
+        {
+          "year": 2017,
+          "name": "东南大学第七届大学生学术报告会“优秀报告”",
+          "students": [
+            "孙豪 (本科生)"
+          ]
+        }
+      ],
+      "student_projects": [
+        {
+          "year": 2023,
+          "student": "刘天润博士",
+          "project": "江苏省研究生科研与实践创新计划项目"
+        },
+        {
+          "year": 2022,
+          "student": "杨怡泽博士",
+          "project": "江苏省研究生科研与实践创新计划项目"
+        }
+      ],
+      "general_achievements": [
+        "指导本科生发表EI论文7篇，国家发明专利授权3项",
+        "指导的本科生许义程、林泰来、王莹莹、王凯旋、张国熙、孙豪、冯源等进入国内外顶尖大学深造"
+      ],
+      "recruitment_information": {
+        "doctors": "每年招收自动化、网络安全学院博士1-2名",
+        "masters": "每年招收硕士自动化3名、自动化（无锡）1名、人工智能学院（苏州）1名、集成电路学院1名",
+        "postdocs": "博士后不限"
+      }
+    },
+    "research_interests": [
+      "群体智能（编队控制）",
+      "强化学习",
+      "规则挖掘",
+      "博弈对抗",
+      "智能电网",
+      "非线性系统与控制",
+      "自适应控制",
+      "智能防控"
+    ],
+    "research_projects": [
+      {
+        "id": 17,
+        "funding_body": "中国电子科技集团公司第二十八研究所",
+        "title": "********",
+        "type": "横向项目",
+        "role": "主持"
+      },
+      {
+        "id": 16,
+        "funding_body": "东南大学",
+        "title": "太湖创新基金",
+        "type": "重点基金",
+        "role": "主持"
+      },
+      {
+        "id": 15,
+        "funding_body": "东南大学南通海洋高等研究院",
+        "title": "重点基金",
+        "type": "重点基金",
+        "role": "主持"
+      },
+      {
+        "id": 14,
+        "funding_body": "中国电子科技集团公司第二十八研究所",
+        "title": "********",
+        "type": "横向项目",
+        "role": "主持"
+      },
+      {
+        "id": 13,
+        "funding_body": "十四五总装",
+        "title": "预研项目，********",
+        "type": "预研项目",
+        "role": "子课题负责人"
+      },
+      {
+        "id": 12,
+        "funding_body": "国家自然科学基金委员会",
+        "title": "面上项目，非完全合作网络下多无人机分组编队包围控制",
+        "type": "面上项目",
+        "role": "主持"
+      },
+      {
+        "id": 11,
+        "funding_body": "十四五总装",
+        "title": "预研项目，********",
+        "type": "预研项目",
+        "role": "子课题负责人"
+      },
+      {
+        "id": 10,
+        "funding_body": "中国船舶重工集团公司第七一六研究所",
+        "title": "*********",
+        "role": "主持"
+      },
+      {
+        "id": 9,
+        "funding_body": "教育部",
+        "title": "产学合作协同育人项目, 基于移动网络化机器人平台的编队系统建模、分析与控制综合设计",
+        "type": "产学合作协同育人项目",
+        "role": "主持"
+      },
+      {
+        "id": 8,
+        "funding_body": "中国船舶重工集团公司第七一六研究所",
+        "title": "********",
+        "role": "主持"
+      },
+      {
+        "id": 7,
+        "funding_body": "国家自然科学基金委员会",
+        "title": "面上项目，高阶非线性多智能体控制系数未知问题研究",
+        "type": "面上项目",
+        "role": "参与"
+      },
+      {
+        "id": 6,
+        "funding_body": "江苏省科技厅",
+        "title": "面上项目，基于局部测量的编队曲面包围控制的几何设计方法",
+        "type": "面上项目",
+        "role": "主持"
+      },
+      {
+        "id": 5,
+        "funding_body": "国家自然科学基金委员会",
+        "title": "面上项目，基于局部信息的广义编队包围控制、协作估计与避障",
+        "type": "面上项目",
+        "role": "主持"
+      },
+      {
+        "id": 4,
+        "funding_body": "国家自然科学基金委员会",
+        "title": "面上项目，通信受限下异构传感器网络的时间/事件驱动分布式估计算法研究",
+        "type": "面上项目",
+        "role": "参与"
+      },
+      {
+        "id": 3,
+        "funding_body": "国家自然科学基金委员会",
+        "title": "面上项目，作用域局部重叠的多机工程系统的优化调度与协调控制",
+        "type": "面上项目",
+        "role": "参与"
+      },
+      {
+        "id": 2,
+        "funding_body": "国家自然科学基金委员会",
+        "title": "椭球上基于几何扩张的欠驱动智能体协同路径跟踪控制",
+        "role": "主持"
+      },
+      {
+        "id": 1,
+        "funding_body": "教育部",
+        "title": "基于曲线扩张的欠驱动多自主体系统的协同路径跟踪与姿态同步控制",
+        "role": "主持"
+      }
+    ],
+    "publications": [
+      {
+        "id": 58,
+        "authors": [
+          {
+            "name": "Tianrun Liu"
+          },
+          {
+            "name": "Yang-Yang Chen",
+            "corresponding_author": true
+          },
+          {
+            "name": "Kaiwen Chen"
+          },
+          {
+            "name": "Alessandro Astrolfi"
+          }
+        ],
+        "title": "Hierarchical Adaptive Formation Tracking Control with Uncertain Time-Varying Exosystem",
+        "journal_conference": "IEEE Transactions on Automatic Control",
+        "doi": "10.1109/TAC.2026.3669444",
+        "year": 2026,
+        "notes": [
+          "长文"
+        ]
+      },
+      {
+        "id": 57,
+        "authors": [
+          {
+            "name": "Tianrun Liu"
+          },
+          {
+            "name": "Xiaohua Ge",
+            "corresponding_author": true
+          },
+          {
+            "name": "Yang-Yang Chen",
+            "corresponding_author": true
+          }
+        ],
+        "title": "Path Planning and Platooning Control of Connected Automated Vehicles on Curved Roads",
+        "journal_conference": "IEEE Transactions on Vehicular Technology",
+        "doi": "10.1109/TVT.2026.3665236",
+        "year": 2026
+      },
+      {
+        "id": 56,
+        "authors": [
+          {
+            "name": "Tianrun Liu"
+          },
+          {
+            "name": "Yang-Yang Chen",
+            "corresponding_author": true
+          },
+          {
+            "name": "Xiaohua Ge"
+          }
+        ],
+        "title": "Congealed Neural Network Design for Uncertain Nonlinear Spatiotemporal Control Systems",
+        "journal_conference": "Automatica",
+        "status": "Accepted",
+        "year": 2025
+      },
+      {
+        "id": 55,
+        "authors": [
+          {
+            "name": "X. Wang"
+          },
+          {
+            "name": "J. Wang"
+          },
+          {
+            "name": "Yang-Yang Chen"
+          },
+          {
+            "name": "Y. Ma"
+          },
+          {
+            "name": "S. Li"
+          }
+        ],
+        "title": "Hierarchical consensus of constrained second-order multi-agent systems with application to formation of multiple mobile robots",
+        "journal_conference": "IEEE Transactions on Automatic Control",
+        "status": "accepted",
+        "year": 2025
+      },
+      {
+        "id": 54,
+        "authors": [
+          {
+            "name": "R. Yu"
+          },
+          {
+            "name": "Yang-Yang Chen",
+            "corresponding_author": true
+          },
+          {
+            "name": "G. Wen"
+          }
+        ],
+        "title": "Two-Layer Identifier-Estimator-Actor-Critic for Spherical Formation-Containment Energy Optimization",
+        "journal_conference": "Journal of Guidance, Control, and Dynamics",
+        "url": "http://arc.aiaa.org/doi/abs/10.2514/1.G009166",
+        "year": 2025
+      },
+      {
+        "id": 53,
+        "authors": [
+          {
+            "name": "Y. Yang"
+          },
+          {
+            "name": "Yang-Yang Chen",
+            "corresponding_author": true
+          },
+          {
+            "name": "J. Zhang"
+          },
+          {
+            "name": "J. Yang"
+          }
+        ],
+        "title": "Differential Privacy Design for Eavesdroppers via Signed Networks",
+        "journal_conference": "IEEE Trans. Industrial Information",
+        "status": "accepted",
+        "year": 2025
+      },
+      {
+        "id": 52,
+        "authors": [
+          {
+            "name": "Q. Liu"
+          },
+          {
+            "name": "Yang-Yang Chen",
+            "corresponding_author": true
+          },
+          {
+            "name": "J. Zhang"
+          }
+        ],
+        "title": "Multi-strategy optimized marine predator algorithm for customized association rule mining",
+        "journal_conference": "IEEE Sensors Journal",
+        "doi": "10.1109/JSEN.2025.3568124",
+        "status": "accepted",
+        "year": 2025
+      },
+      {
+        "id": 51,
+        "authors": [
+          {
+            "name": "Y. Yang"
+          },
+          {
+            "name": "Yang-Yang Chen",
+            "corresponding_author": true
+          },
+          {
+            "name": "S.-H, Li"
+          }
+        ],
+        "title": "A Homomorphic Mapping Design for Multi-Group Consensus with Signed Networks",
+        "journal_conference": "IEEE Transactions on Automatic Control",
+        "doi": "10.1109/TAC.2025.3555476",
+        "status": "accepted",
+        "year": 2025
+      },
+      {
+        "id": 50,
+        "authors": [
+          {
+            "name": "---"
+          },
+          {
+            "name": "Yang-Yang Chen",
+            "corresponding_author": true
+          },
+          {
+            "name": "S.-H, Li"
+          }
+        ],
+        "title": "Adaptive Cooperative Estimation and Guidance against Unknown Maneuvering Target",
+        "journal_conference": "IEEE Transactions on Aerospace and Electronic Systems",
+        "doi": "10.1109/TAES.2025.3553459",
+        "status": "accepted",
+        "year": 2025
+      },
+      {
+        "id": 49,
+        "authors": [
+          {
+            "name": "R. Yu"
+          },
+          {
+            "name": "Y-Y. Chen",
+            "corresponding_author": true
+          },
+          {
+            "name": "G. Wen",
+            "corresponding_author": true
+          },
+          {
+            "name": "et al."
+          }
+        ],
+        "title": "Super-Ellipse Formation Tracking of Uncertain Vehicles: A Simplified Reinforcement Learning Energy Optimization Method (Digital Object Identifier or DOI: 10.1109/TSMC.2025.3548081)",
+        "journal_conference": "IEEE Transactions on Systems, Man, and Cybernetics: Systems",
+        "year": 2025
+      },
+      {
+        "id": 48,
+        "authors": [
+          {
+            "name": "Guoqing Liu"
+          },
+          {
+            "name": "Yang-Yang Chen",
+            "corresponding_author": true
+          }
+        ],
+        "title": "Compensation-Based Asymptotic Adaptive Stabilization for Time-Varying Nonlinear Systems",
+        "journal_conference": "American Control Conference (ACC)",
+        "year": 2025,
+        "notes": [
+          "控制三大顶会"
+        ]
+      },
+      {
+        "id": 47,
+        "authors": [
+          {
+            "name": "G, Liu"
+          },
+          {
+            "name": "K.Chen"
+          },
+          {
+            "name": "Yang-Yang Chen",
+            "corresponding_author": true
+          }
+        ],
+        "title": "Smooth adaptive finite-time tracking for uncertain time-varying systems",
+        "journal_conference": "Systems & Control Letter",
+        "doi": "10.1016/j.sysconle.2024.105963",
+        "year": 2024
+      },
+      {
+        "id": 46,
+        "authors": [
+          {
+            "name": "T, Liu"
+          },
+          {
+            "name": "Yang-Yang Chen",
+            "corresponding_author": true
+          },
+          {
+            "name": "G, Wen"
+          }
+        ],
+        "title": "Multilayer Fuzzy Supremum Approximation to Discrete-Time Synchronization",
+        "journal_conference": "IEEE Transactions on Fuzzy Systems",
+        "doi": "10.1109/TFUZZ.2024.3417907",
+        "year": 2024
+      },
+      {
+        "id": 45,
+        "authors": [
+          {
+            "name": "X,Xu"
+          },
+          {
+            "name": "Yang-Yang Chen",
+            "corresponding_author": true
+          },
+          {
+            "name": "T, Liu"
+          }
+        ],
+        "title": "TD3-BC-PPO: Twin Delayed DDPG-based and Behavior Cloning-enhanced Proximal Policy Optimization for Dynamic Optimization Affine Formation",
+        "journal_conference": "Journal of the Franklin Institute",
+        "url": "https://doi.org/10.1016/j.jfranklin.2024.107018",
+        "year": 2024
+      },
+      {
+        "id": 44,
+        "authors": [
+          {
+            "name": "T. Liu"
+          },
+          {
+            "name": "Yang-Yang Chen",
+            "corresponding_author": true
+          }
+        ],
+        "title": "Formation Tracking of Spatiotemporal MASs: A Decentralized Reinforcement Learning Approach",
+        "journal_conference": "IEEE Systems, Man, and Cybernetics Magazine",
+        "doi": "10.1109/MSMC.2024.3401404",
+        "year": 2024
+      },
+      {
+        "id": 43,
+        "authors": [
+          {
+            "name": "G. Liu"
+          },
+          {
+            "name": "Yang-Yang Chen",
+            "corresponding_author": true
+          }
+        ],
+        "title": "Adaptive tracking control of nonlinear systems with unknown time-varying parameters via a monotonically increasing function",
+        "journal_conference": "International Journal Of Robust And Nonlinear Control",
+        "url": "https://doi.org/10.1002/rnc.7361",
+        "year": 2024
+      },
+      {
+        "id": 42,
+        "authors": [
+          {
+            "name": "Y Li"
+          },
+          {
+            "name": "C Liu"
+          },
+          {
+            "name": "Y Zhang"
+          },
+          {
+            "name": "Yang-Yang Chen"
+          }
+        ],
+        "title": "Fixed-time Anti-disturbance Average-tracking for Heterogeneous Linear Multi-agent Systems",
+        "journal_conference": "IEEE Transactions on Systems, Man and Cybernetics, Systems",
+        "status": "Accepted",
+        "year": 2023,
+        "notes": [
+          "Q1"
+        ]
+      },
+      {
+        "id": 41,
+        "authors": [
+          {
+            "name": "Weibing Chen"
+          },
+          {
+            "name": "Yang-Yang Chen",
+            "corresponding_author": true
+          },
+          {
+            "name": "et. al."
+          }
+        ],
+        "title": "An Adaptive Neural Design for Planar Rigid Formation of Three Coleaders in Unknown Flowfields",
+        "journal_conference": "IET Control Theory & Application",
+        "status": "Accepted",
+        "year": 2023,
+        "notes": [
+          "Q2"
+        ]
+      },
+      {
+        "id": 40,
+        "authors": [
+          {
+            "name": "Xiang Ai"
+          },
+          {
+            "name": "Yang-Yang Chen",
+            "corresponding_author": true
+          },
+          {
+            "name": "et. al."
+          }
+        ],
+        "title": "Adaptive Fault-Tolerant Formation Tracking Control of Networked Mobile Robots with Input Delays",
+        "journal_conference": "Journal of the Franklin Institute",
+        "url": "https://doi.org/10.1016/j.jfranklin.2023.11.020.",
+        "status": "accepted",
+        "year": 2023,
+        "notes": [
+          "Q1"
+        ]
+      },
+      {
+        "id": 39,
+        "authors": [
+          {
+            "name": "Rui Yu"
+          },
+          {
+            "name": "Yang-Yang Chen",
+            "corresponding_author": true
+          },
+          {
+            "name": "Ya Zhang"
+          }
+        ],
+        "title": "Adaptive event-triggered actor–critic algorithm for optimal 3D formation circumnavigation with relative measurement and an unknown moving target",
+        "journal_conference": "Journal of the Franklin Institute",
+        "volume": "360",
+        "issue": "18",
+        "pages": "14309-14328",
+        "year": 2023,
+        "notes": [
+          "Q1"
+        ]
+      },
+      {
+        "id": 38,
+        "authors": [
+          {
+            "name": "Rui Yu"
+          },
+          {
+            "name": "Yang-Yang Chen",
+            "corresponding_author": true
+          },
+          {
+            "name": "Ya Zhang"
+          }
+        ],
+        "title": "Switching threshold event‐triggered critic algorithm for optimal orbit tracking and formation motion",
+        "journal_conference": "IET Control Theory & Application",
+        "url": "http://doi.org/10.1049/cth2.12584",
+        "year": 2023,
+        "notes": [
+          "Q2"
+        ]
+      },
+      {
+        "id": 37,
+        "authors": [
+          {
+            "name": "Tianrun Liu"
+          },
+          {
+            "name": "Yang-Yang Chen",
+            "corresponding_author": true
+          },
+          {
+            "name": "Ya Zhang"
+          },
+          {
+            "name": "Faxiang Zhang"
+          }
+        ],
+        "title": "A Novel Iterative Barrier Function Design for Discrete-Time Formation Tracking Control in Unknown Spatial Flowfields",
+        "journal_conference": "Nonlinear Dynamics",
+        "doi": "10.1007/s11071-023-08884-y",
+        "year": 2023,
+        "notes": [
+          "Q1"
+        ]
+      },
+      {
+        "id": 36,
+        "authors": [
+          {
+            "name": "Zhang,Faxiang"
+          },
+          {
+            "name": "Chen, Yang-Yang",
+            "corresponding_author": true
+          },
+          {
+            "name": "Li Shihua"
+          }
+        ],
+        "title": "Adaptive projection and fuzzy tracking design for unknown control coefficients and references",
+        "journal_conference": "IEEE Transacions on Cybernetics",
+        "doi": "10.1109/TCYB.2023.3234320",
+        "year": 2023,
+        "notes": [
+          "Regular paper",
+          "Q1"
+        ]
+      },
+      {
+        "id": 35,
+        "authors": [
+          {
+            "name": "Zhang,Faxiang"
+          },
+          {
+            "name": "Chen, Yang-Yang",
+            "corresponding_author": true
+          },
+          {
+            "name": "Zhang Ya"
+          }
+        ],
+        "title": "Finite-time event-triggered containment control of multiple Euler-Lagrange systems with unknown control coefficients",
+        "journal_conference": "Journal of the Franklin Institute",
+        "volume": "360",
+        "issue": "2",
+        "pages": "777-791",
+        "url": "https://authors.elsevier.com/a/1gHbh3euANFCQ",
+        "year": 2023,
+        "notes": [
+          "Q1"
+        ]
+      },
+      {
+        "id": 34,
+        "authors": [
+          {
+            "name": "Zhang,Faxiang"
+          },
+          {
+            "name": "Chen, Yang-Yang",
+            "corresponding_author": true
+          },
+          {
+            "name": "Zhang Ya"
+          }
+        ],
+        "title": "Neural network boundary approximation for uncertain nonlinear spatiotemporal systems and its application of tracking control",
+        "journal_conference": "IEEE Transactions on Neural Networks and Learning Systems",
+        "doi": "10.1109/TNNLS.2022.3212696",
+        "year": 2022,
+        "notes": [
+          "Q1"
+        ]
+      },
+      {
+        "id": 33,
+        "authors": [
+          {
+            "name": "Zhang,Faxiang"
+          },
+          {
+            "name": "Chen, Yang-Yang",
+            "corresponding_author": true
+          },
+          {
+            "name": "Zhang Ya"
+          }
+        ],
+        "title": "Projection-based containment control of multiple nonlinear systems with switching topologies",
+        "journal_conference": "IEEE Transactions on Control of Network Systems",
+        "volume": "9",
+        "issue": "4",
+        "pages": "1793-1803",
+        "year": 2022,
+        "notes": [
+          "Q2"
+        ]
+      },
+      {
+        "id": 32,
+        "authors": [
+          {
+            "name": "Yang, Yizhe"
+          },
+          {
+            "name": "Chen, Yang-Yang",
+            "corresponding_author": true
+          },
+          {
+            "name": "Yang, HY"
+          }
+        ],
+        "title": "Robust flocking of multiple intelligent agents with multiple disturbances",
+        "journal_conference": "INTERNATIONAL JOURNAL OF INTELLIGENT SYSTEMS",
+        "year": 2022,
+        "notes": [
+          "Q1"
+        ]
+      },
+      {
+        "id": 31,
+        "authors": [
+          {
+            "name": "Zhang,Faxiang"
+          },
+          {
+            "name": "Chen, Yang-Yang",
+            "corresponding_author": true
+          }
+        ],
+        "title": "Finite‐time tracking control for nonaffine nonlinear pure‐feedback systems with a prescribed performance",
+        "journal_conference": "International Journal of Robust and Nonlinear Control",
+        "volume": "32",
+        "issue": "4",
+        "pages": "2212-2232",
+        "year": 2022,
+        "notes": [
+          "Q1"
+        ]
+      },
+      {
+        "id": 30,
+        "authors": [
+          {
+            "name": "Chen, Weibing"
+          },
+          {
+            "name": "Chen, Yang-Yang",
+            "corresponding_author": true
+          },
+          {
+            "name": "Zhang, Ya"
+          }
+        ],
+        "title": "Finite-time coordinated path-following control of leader-following multi-agent systems",
+        "journal_conference": "Frontiers of Information Technology & Electronic Engineering",
+        "year": 2022,
+        "volume": "23",
+        "issue": "10",
+        "pages": "1511-1521",
+        "notes": [
+          "Q2"
+        ]
+      },
+      {
+        "id": 29,
+        "authors": [
+          {
+            "name": "Chen, Yang-Yang",
+            "corresponding_author": true
+          },
+          {
+            "name": "Ai, Xiang"
+          },
+          {
+            "name": "et. al."
+          }
+        ],
+        "title": "Spherical Orbit Tracking and Formation Flying for Non-Holonomic Aircraft-Like Vehicles with Directed Interactions and Unknown Disturbances",
+        "journal_conference": "IEEE Transactions on Systems, Man and Cybernetics, Systems",
+        "year": 2021,
+        "notes": [
+          "Q1"
+        ]
+      },
+      {
+        "id": 28,
+        "authors": [
+          {
+            "name": "Chen, Yang-Yang",
+            "corresponding_author": true
+          },
+          {
+            "name": "Chen, Kaiwen"
+          },
+          {
+            "name": "Astolfi, Alessandro"
+          }
+        ],
+        "title": "Adaptive formation tracking control for first-order agents in a time-varying flowfield",
+        "journal_conference": "IEEE Transactions on Automatic Control",
+        "volume": "67",
+        "issue": "5",
+        "pages": "2481-2488",
+        "year": 2022,
+        "notes": [
+          "Q1",
+          "控制类Top2期刊",
+          "ESI高倍引"
+        ]
+      },
+      {
+        "id": 27,
+        "authors": [
+          {
+            "name": "Chen, Yang-Yang",
+            "corresponding_author": true
+          },
+          {
+            "name": "Chen, Kaiwen"
+          },
+          {
+            "name": "Astolfi, Alessandro"
+          }
+        ],
+        "title": "Adaptive formation tracking control of directed networked vehicles in a time-varying flowfield",
+        "journal_conference": "Journal of Guidance, Control, and Dynamics",
+        "year": 2021,
+        "notes": [
+          "Q1",
+          "宇航类Top2期刊"
+        ]
+      },
+      {
+        "id": 26,
+        "authors": [
+          {
+            "name": "Xu, Lei-Xin"
+          },
+          {
+            "name": "Chen, Yang-Yang",
+            "corresponding_author": true
+          }
+        ],
+        "title": "Deep reinforcement learning algorithms for multiple arc-welding robots",
+        "journal_conference": "Frontiers in Control Engineering, section Nonlinear Control",
+        "doi": "10.3389/fcteg.2021.632417",
+        "year": 2021
+      },
+      {
+        "id": 25,
+        "authors": [
+          {
+            "name": "Chen, Yang-Yang",
+            "corresponding_author": true
+          },
+          {
+            "name": "Huang, Rong"
+          },
+          {
+            "name": "Ge, Yanteng"
+          },
+          {
+            "name": "Zhang, Ya"
+          }
+        ],
+        "title": "Spherical formation tracking control of nonlinear second-order agents with adaptive neural flow estimate",
+        "journal_conference": "IEEE Transactions on Neural Networks and Learning Systems",
+        "doi": "10.1109/TNNLS.2021.3071317",
+        "volume": "33",
+        "issue": "10",
+        "pages": "5716-5727",
+        "year": 2021,
+        "notes": [
+          "Regular paper",
+          "Q1",
+          "ESI高倍引"
+        ]
+      },
+      {
+        "id": 24,
+        "authors": [
+          {
+            "name": "Zhang, Faxiang"
+          },
+          {
+            "name": "Chen, Yang-Yang",
+            "corresponding_author": true
+          }
+        ],
+        "title": "Indirect adaptive fuzzy control for nonaffine nonlinear pure-feedback systems",
+        "journal_conference": "IEEE Transactions on Fuzzy Systems",
+        "volume": "28",
+        "issue": "11",
+        "pages": "2918-2929",
+        "year": 2020,
+        "notes": [
+          "Regular paper",
+          "Q1",
+          "Top"
+        ]
+      },
+      {
+        "id": 23,
+        "authors": [
+          {
+            "name": "Chen, Yangyang",
+            "corresponding_author": true
+          },
+          {
+            "name": "Yu,Rui"
+          },
+          {
+            "name": "Zhang,Ya"
+          },
+          {
+            "name": "Liu,Chenglin"
+          }
+        ],
+        "title": "Circular formation flight control for unmanned aerial vehicles with directed network and external disturbance",
+        "journal_conference": "IEEE/CAA Journal of Automatica Sinica",
+        "volume": "7",
+        "issue": "2",
+        "pages": "505-516",
+        "year": 2020,
+        "notes": [
+          "SCI",
+          "JCR Q1",
+          "Regular paper"
+        ]
+      },
+      {
+        "id": 22,
+        "authors": [
+          {
+            "name": "Chen, Yang-Yang",
+            "corresponding_author": true
+          },
+          {
+            "name": "Yu, Rui"
+          },
+          {
+            "name": "Zhang, Ya"
+          }
+        ],
+        "title": "Fully distributed spherical formation tracking control for nonlinear vehicles with spatiotemporal uncertainties and digraphs",
+        "journal_conference": "Nonlinear Dynamics",
+        "volume": "101",
+        "issue": "2",
+        "pages": "997-1013",
+        "year": 2020,
+        "notes": [
+          "SCI",
+          "JCR Q1"
+        ]
+      },
+      {
+        "id": 21,
+        "authors": [
+          {
+            "name": "Ai, Xiang"
+          },
+          {
+            "name": "Chen, Yang-Yang",
+            "corresponding_author": true
+          },
+          {
+            "name": "Zhang, Ya"
+          }
+        ],
+        "title": "Spherical formation tracking control of non-holonomic aircraft-like vehicles in a spatiotemporal flowfield",
+        "journal_conference": "Journal of the Franklin Institute",
+        "volume": "357",
+        "issue": "7",
+        "pages": "3924-3952",
+        "year": 2020,
+        "notes": [
+          "SCI",
+          "JCR Q1"
+        ]
+      },
+      {
+        "id": 20,
+        "authors": [
+          {
+            "name": "Zhang, Faxiang"
+          },
+          {
+            "name": "Chen, Yang-Yang",
+            "corresponding_author": true
+          }
+        ],
+        "title": "Fuzzy adaptive containment control for nonlinear non-affine pure-feedback multi-agent systems",
+        "journal_conference": "IEEE Transactions on Fuzzy Systems",
+        "doi": "10.1109/TFUZZ.2020.3008779",
+        "year": 2020,
+        "notes": [
+          "Regular paper",
+          "Q1",
+          "Top"
+        ]
+      },
+      {
+        "id": 19,
+        "authors": [
+          {
+            "name": "Chen, Yang-Yang",
+            "corresponding_author": true
+          },
+          {
+            "name": "Zhang, Ya"
+          },
+          {
+            "name": "Liu, Cheng-Lin"
+          },
+          {
+            "name": "Wang, Qin"
+          }
+        ],
+        "title": "Formation circumnavigation for unmanned aerial vehicles using relative measurements with an uncertain dynamic target",
+        "journal_conference": "Nonlinear Dynamics",
+        "volume": "97",
+        "issue": "4",
+        "pages": "2305-2321",
+        "year": 2019,
+        "notes": [
+          "SCI",
+          "JCR Q1",
+          "表现不俗论文"
+        ]
+      },
+      {
+        "id": 18,
+        "authors": [
+          {
+            "name": "Chen, Yang-Yang",
+            "corresponding_author": true
+          },
+          {
+            "name": "Ai, Xiang"
+          },
+          {
+            "name": "Zhang, Ya"
+          }
+        ],
+        "title": "Spherical formation tracking control for second-order agents with unknown general flowfields and strongly connected topologies",
+        "journal_conference": "International Journal of Robust and Nonlinear Control",
+        "volume": "29",
+        "issue": "11",
+        "pages": "3715-3736",
+        "year": 2019,
+        "notes": [
+          "SCI",
+          "JCR Q1",
+          "表现不俗论文"
+        ]
+      },
+      {
+        "id": 17,
+        "authors": [
+          {
+            "name": "Chen, Yang-Yang",
+            "corresponding_author": true
+          },
+          {
+            "name": "Wang, Zan-Zan"
+          },
+          {
+            "name": "Zhang, Ya"
+          }
+        ],
+        "title": "A geometric extension design for spherical formation tracking control of second-order agents in unknown spatiotemporal flowfields",
+        "journal_conference": "Nonlinear Dynamics",
+        "volume": "88",
+        "issue": "2",
+        "pages": "1173-1186",
+        "year": 2017,
+        "notes": [
+          "SCI",
+          "JCR Q1",
+          "表现不俗论文"
+        ]
+      },
+      {
+        "id": 16,
+        "authors": [
+          {
+            "name": "Chen, Yang-Yang",
+            "corresponding_author": true
+          },
+          {
+            "name": "Zhang, Ya"
+          },
+          {
+            "name": "Wang, Zan-Zan"
+          }
+        ],
+        "title": "An adaptive backstepping design for formation tracking motion in an unknown Eulerian specification flowfield",
+        "journal_conference": "Journal of the Franklin Institute",
+        "volume": "354",
+        "issue": "14",
+        "pages": "6217-6233",
+        "year": 2017,
+        "notes": [
+          "SCI",
+          "JCR Q1",
+          "表现不俗论文"
+        ]
+      },
+      {
+        "id": 15,
+        "authors": [
+          {
+            "name": "Chen, Yang-Yang",
+            "corresponding_author": true
+          },
+          {
+            "name": "Zhang, Ya"
+          },
+          {
+            "name": "Liu, Cheng-Lin"
+          },
+          {
+            "name": "Wei, Ping"
+          }
+        ],
+        "title": "Coordinated orbit-tracking control of second-order nonlinear agents with directed communication topologies",
+        "journal_conference": "International Journal of System Science",
+        "volume": "47",
+        "issue": "16",
+        "pages": "3929-3939",
+        "year": 2016,
+        "notes": [
+          "SCI",
+          "JCR Q2",
+          "表现不俗论文"
+        ]
+      },
+      {
+        "id": 14,
+        "authors": [
+          {
+            "name": "Chen, Yang-Yang",
+            "corresponding_author": true
+          },
+          {
+            "name": "Tian, Yu-Ping"
+          }
+        ],
+        "title": "Formation tracking and attitude synchronization control of underactuated ships along closed orbits",
+        "journal_conference": "International Journal of Robust and Nonlinear Control",
+        "volume": "25",
+        "issue": "16",
+        "pages": "3023-3044",
+        "year": 2015,
+        "notes": [
+          "SCI",
+          "JCR Q1",
+          "表现不俗论文"
+        ]
+      },
+      {
+        "id": 13,
+        "authors": [
+          {
+            "name": "Chen, Yang-Yang",
+            "corresponding_author": true
+          },
+          {
+            "name": "Tian, Yu-Ping"
+          }
+        ],
+        "title": "Coordinated path following control of multi-unicycle formation motion around closed curves in a time-invariant flow",
+        "journal_conference": "Nonlinear Dynamics",
+        "volume": "81",
+        "issue": "1",
+        "pages": "1005-1016",
+        "year": 2015,
+        "notes": [
+          "SCI",
+          "JCR Q1"
+        ]
+      },
+      {
+        "id": 12,
+        "authors": [
+          {
+            "name": "Chen, Yangyang",
+            "corresponding_author": true
+          },
+          {
+            "name": "Ping, Wei"
+          }
+        ],
+        "title": "Coordinated adaptive control for coordinated path-following surface vessels with a time-invariant orbital velocity",
+        "journal_conference": "IEEE/CAA Journal of Automatica Sinica",
+        "volume": "1",
+        "issue": "4",
+        "pages": "337-346",
+        "year": 2014,
+        "notes": [
+          "中国自动化学会推荐的A类学术期刊",
+          "2016年该期刊最受关注论文之一"
+        ]
+      },
+      {
+        "id": 11,
+        "authors": [
+          {
+            "name": "Chen Yang-Yang"
+          },
+          {
+            "name": "Tian Yu-Ping",
+            "corresponding_author": true
+          }
+        ],
+        "title": "Coordinated Patterns of Underactuated Ship Along Closed Orbits",
+        "journal_conference": "IEEE International Conference on Robotics & Automation, ICRA 2014",
+        "date": "2014.5.31-2014.6.7",
+        "year": 2014,
+        "notes": [
+          "机器人顶会"
+        ]
+      },
+      {
+        "id": 10,
+        "authors": [
+          {
+            "name": "Chen, Yang-Yang",
+            "corresponding_author": true
+          },
+          {
+            "name": "Tian, Yu-Ping"
+          }
+        ],
+        "title": "Coordinated adaptive control for three-dimensional formation tracking with a time-varying orbital velocity",
+        "journal_conference": "IET Control Theory & Applications",
+        "volume": "7",
+        "issue": "5",
+        "pages": "646-662",
+        "year": 2013,
+        "notes": [
+          "SCI",
+          "JCR Q2"
+        ]
+      },
+      {
+        "id": 9,
+        "authors": [
+          {
+            "name": "Chen, Yang-Yang"
+          },
+          {
+            "name": "Tian, Yu-Ping",
+            "corresponding_author": true
+          }
+        ],
+        "title": "A curve extension design for coordinated path following control of unicycles along given convex loops",
+        "journal_conference": "International Journal of Control",
+        "volume": "84",
+        "issue": "10",
+        "pages": "1729-1745",
+        "year": 2011,
+        "notes": [
+          "SCI",
+          "JCR Q2"
+        ]
+      },
+      {
+        "id": 8,
+        "authors": [
+          {
+            "name": "Chen, Yang-Yang"
+          },
+          {
+            "name": "Tian, Yu-Ping",
+            "corresponding_author": true
+          }
+        ],
+        "title": "Cooperative control of multi-agent moving along a set of given curves",
+        "journal_conference": "Journal of Systems Science & Complexity",
+        "volume": "24",
+        "issue": "4",
+        "pages": "631-646",
+        "year": 2011,
+        "notes": [
+          "SCI",
+          "JCR Q2",
+          "表现不俗论文"
+        ]
+      },
+      {
+        "id": 7,
+        "authors": [
+          {
+            "name": "Chen, Yang-Yang"
+          },
+          {
+            "name": "Tian, Yu-Ping",
+            "corresponding_author": true
+          }
+        ],
+        "title": "A backstepping design for directed formation control of three-coleader agents in the plane",
+        "journal_conference": "International Journal of Robust and Nonlinear Control",
+        "volume": "19",
+        "issue": "7",
+        "pages": "729-745",
+        "year": 2009,
+        "notes": [
+          "SCI",
+          "JCR Q1"
+        ]
+      },
+      {
+        "id": 6,
+        "authors": [
+          {
+            "name": "陈杨杨"
+          },
+          {
+            "name": "田玉平",
+            "corresponding_author": true
+          }
+        ],
+        "title": "多智能体沿多条给定路径编队运动的有向协同控制",
+        "journal_conference": "自动化学报",
+        "volume": "35",
+        "issue": "12",
+        "pages": "1541-1549",
+        "year": 2009,
+        "notes": [
+          "中国自动化学会推荐的A类学术期刊"
+        ]
+      },
+      {
+        "id": 5,
+        "authors": [
+          {
+            "name": "Chen, Yang-Yang",
+            "corresponding_author": true
+          },
+          {
+            "name": "Zhang, Guoxi"
+          },
+          {
+            "name": "Feng, Yuan"
+          },
+          {
+            "name": "Wei, Ping"
+          }
+        ],
+        "title": "A STK simulation design for satellite formation tracking mission with bidirectional communication",
+        "journal_conference": "Journal of Southeast University (English Edition)",
+        "volume": "31",
+        "issue": "3",
+        "pages": "358-362",
+        "year": 2015,
+        "notes": [
+          "EI"
+        ]
+      },
+      {
+        "id": 4,
+        "authors": [
+          {
+            "name": "Liu, Cheng-Lin",
+            "corresponding_author": true
+          },
+          {
+            "name": "Liu, Shuai"
+          },
+          {
+            "name": "Zhang, Ya"
+          },
+          {
+            "name": "Chen, Yang-Yang"
+          }
+        ],
+        "title": "Consensus seeking of multi-agent systems with intermittent communication: a persistent-hold control strategy",
+        "journal_conference": "International Journal of Control",
+        "volume": "93",
+        "issue": "9",
+        "pages": "2161-2167",
+        "year": 2020,
+        "notes": [
+          "SCI",
+          "JCR Q2"
+        ]
+      },
+      {
+        "id": 3,
+        "authors": [
+          {
+            "name": "Wang, Qingling"
+          },
+          {
+            "name": "Sun, Changyin",
+            "corresponding_author": true
+          },
+          {
+            "name": "Chen, Yangyang"
+          }
+        ],
+        "title": "Adaptive neural network control for course-keeping of ships with input constraints",
+        "journal_conference": "Transactions of the Institute of Measurement and Control",
+        "volume": "41",
+        "issue": "4",
+        "pages": "1010-1018",
+        "year": 2019,
+        "notes": [
+          "SCI"
+        ]
+      },
+      {
+        "id": 2,
+        "authors": [
+          {
+            "name": "Zhang, Ya",
+            "corresponding_author": true
+          },
+          {
+            "name": "Li, Feifei"
+          },
+          {
+            "name": "Chen, Yang-Yang"
+          }
+        ],
+        "title": "Leader-following-based distributed Kalman filtering in sensor networks with communication delay",
+        "journal_conference": "Journal of the Franklin Institute",
+        "volume": "354",
+        "issue": "16",
+        "pages": "7504-7520",
+        "year": 2017,
+        "notes": [
+          "SCI",
+          "JCR Q1"
+        ]
+      },
+      {
+        "id": 1,
+        "authors": [
+          {
+            "name": "Liu, Cheng-Lin",
+            "corresponding_author": true
+          },
+          {
+            "name": "Shan, Liang"
+          },
+          {
+            "name": "Chen, Yang-Yang"
+          },
+          {
+            "name": "Zhang, Ya"
+          }
+        ],
+        "title": "Average-consensus filter of first-order multi-agent systems with disturbances",
+        "journal_conference": "IEEE Transactions on Circuits and System II: Express Briefs",
+        "volume": "65",
+        "issue": "11",
+        "pages": "1763-1767",
+        "year": 2017,
+        "notes": [
+          "SCI"
+        ]
+      }
+    ],
+    "site_chrome": {
+      "grab_source_url": "http://automation.seu.edu.cn/cyy/list.htm",
+      "image_references": [
+        {
+          "url": "https://automation.seu.edu.cn/cyy/list.htm",
+          "description": "Likely a broken image link; points to the page URL itself."
+        },
+        {
+          "url": "https://automation.seu.edu.cn/_visitcount?siteId=338&type=2&columnId=32812",
+          "description": "Visit counter image"
+        }
+      ]
+    }
+  }
+}

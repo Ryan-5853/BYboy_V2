@@ -68,6 +68,41 @@ def is_transient_llm_unavailable(exc: BaseException) -> bool:
     except Exception:
         pass
 
+    try:
+        import anthropic
+
+        if isinstance(
+            exc,
+            (
+                anthropic.APIConnectionError,
+                anthropic.APITimeoutError,
+            ),
+        ):
+            return True
+        if hasattr(anthropic, "RateLimitError") and isinstance(
+            exc,
+            anthropic.RateLimitError,
+        ):
+            return True
+    except Exception:
+        pass
+
+    try:
+        import concurrent.futures
+
+        if isinstance(exc, concurrent.futures.TimeoutError):
+            return True
+    except Exception:
+        pass
+
+    try:
+        import httpx
+
+        if isinstance(exc, httpx.TimeoutException):
+            return True
+    except Exception:
+        pass
+
     return False
 
 

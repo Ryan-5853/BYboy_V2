@@ -1,0 +1,162 @@
+{
+  "meta": {
+    "tutor_name_cn": "李玉霞",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1161/4478.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1161/4478.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/fc1d8aa6c076d8a683123e82a16b725ba7120ab7181cf56839ebb2f439b27f55.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "site_info": {
+      "source_url": "https://www.auto.uestc.edu.cn/info/1161/4478.htm",
+      "breadcrumbs": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "L",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/L.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "navigation_links": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ]
+    },
+    "teacher_info": {
+      "name": "李玉霞",
+      "image_info": {
+        "url": "https://www.auto.uestc.edu.cn/__local/0/54/2E/089CB214246349640436E499D2B_AC7C90CC_54573.jpg",
+        "alt_text": null
+      },
+      "basic_info": {
+        "highest_degree": "博士",
+        "title": "副教授",
+        "supervisor_status": {
+          "master_supervisor": true,
+          "doctoral_supervisor": null
+        }
+      },
+      "contact_info": {
+        "phone": null,
+        "email": "liyuxia@uestc.edu.cn",
+        "personal_homepage_url": null
+      },
+      "research_group": "感知计算与智能网联汽车研究中心",
+      "research_directions": [
+        "多源图像处理",
+        "模式识别",
+        "图像信息智能提取"
+      ],
+      "academic_roles_and_affiliations": [
+        "IEEE Chengdu GRSS 协会副主席",
+        "ISPRS 、IEEE TGRS等多个国外高水平SCI期刊审稿人"
+      ],
+      "education_and_work_experience": {
+        "work_history": [
+          {
+            "start_date": "2010-08",
+            "end_date": "至今",
+            "institution": "电子科技大学，自动化工程学院",
+            "position": "副教授"
+          },
+          {
+            "start_date": "2007-07",
+            "end_date": "2010-07",
+            "institution": "电子科技大学，自动化工程学院",
+            "position": "讲师"
+          },
+          {
+            "start_date": "2007-09",
+            "end_date": "2009-12",
+            "institution": "电子科技大学，自动化工程学院",
+            "position": "博士后"
+          }
+        ],
+        "visiting_experience": [
+          {
+            "start_date": "2012-02",
+            "end_date": "2013-02",
+            "institution": "美国加州大学圣巴巴拉分校",
+            "position": "访问学者"
+          }
+        ]
+      },
+      "biography_and_scientific_research_summary": "李玉霞，博士（后），副教授，IEEE GRSS成都协会副主席，加州大学圣巴巴拉分校访问学者，国家自然科学基金和四川省青年人才培养计划项目获得者，多个国内外高水平SCI期刊的审稿人。主要研究方向：多源图像处理，模式识别，图像信息智能提取及应用等。\n\n近几年，作为项目第一负责人主持国家自然科学基金1项、四川省重点研发项目4项、四川省青年人才培养计划项目1项、企业应用项目等多个科研项目。作为主研人员负责科技部重点研发项目、国家自然科学基金等多项。作为第一负责人主持教育部新工科建设教改项目、教育部协同育人“图像处理与目标识别”实践基地建设项目等多项。\n\n获四川省科技进步二等奖、四川省计算机技术二等奖等4项。发表高水平学术论文50余篇，其中JCR一区/二区SCI论文20余篇。申请和授权专利20余项（其中美国专利1项），出版专著一部。长期主讲本科生和研究生课程“数字图像处理”，获得校级研究生教学优秀成果奖，并任学院本科教学质量监督组专家。",
+      "projects_summary": {
+        "as_principal_investigator": "国家自然科学基金1项、四川省重点研发项目4项、四川省青年人才培养计划项目1项、企业应用项目等多个科研项目",
+        "as_main_researcher": "科技部重点研发项目、国家自然科学基金等多项",
+        "teaching_projects_as_principal_investigator": "教育部新工科建设教改项目、教育部协同育人“图像处理与目标识别”实践基地建设项目等多项"
+      },
+      "awards_and_honors": [
+        "国家自然科学基金和四川省青年人才培养计划项目获得者",
+        "四川省科技进步二等奖",
+        "四川省计算机技术二等奖 (等4项奖项)",
+        "校级研究生教学优秀成果奖"
+      ],
+      "publications_and_patents": {
+        "academic_papers_summary": "发表高水平学术论文50余篇，其中JCR一区/二区SCI论文20余篇",
+        "patents_summary": "申请和授权专利20余项（其中美国专利1项）",
+        "monographs_count": "一部"
+      },
+      "courses_and_teaching_activities": {
+        "courses_taught": [
+          {
+            "name": "数字图像处理",
+            "target_students": "本科生和研究生"
+          }
+        ],
+        "teaching_awards": [
+          "校级研究生教学优秀成果奖"
+        ],
+        "academic_service_roles": [
+          "自动化工程学院本科教学质量监督组专家"
+        ]
+      },
+      "admission_information": {
+        "master_programs": [
+          {
+            "program_code": "081100",
+            "program_name": "控制科学与工程",
+            "research_directions": [
+              "01复杂系统与智能信息处理",
+              "03模式识别与智能系统"
+            ]
+          },
+          {
+            "program_code": "085406",
+            "program_name": "控制工程",
+            "research_directions": [
+              "01复杂系统与智能信息处理",
+              "03模式识别与智能系统"
+            ]
+          }
+        ],
+        "doctoral_programs": null
+      }
+    }
+  }
+}

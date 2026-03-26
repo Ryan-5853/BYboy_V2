@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "tutor_name_cn": "孙颖豪",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1168/7545.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1168/7545.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/9c713e23a2b3dd4f67677e25228acf2e322f0b42f5b634979e9f7f830c9eef93.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "site_chrome": {
+      "source_url": "https://www.auto.uestc.edu.cn/info/1168/7545.htm",
+      "breadcrumb": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "S",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/S.htm"
+        },
+        "正文"
+      ],
+      "sidebar_navigation": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ],
+      "page_title": "师资队伍"
+    },
+    "professor_info": {
+      "name": "孙颖豪",
+      "image": {
+        "url": "https://www.auto.uestc.edu.cn/__local/9/59/91/EC9E387719FCD7C8147667E20F4_930D3DC9_7E1A.jpg"
+      },
+      "highest_degree": "博士",
+      "contact": {
+        "phone": null,
+        "email": "sunyinghao@uestc.edu.cn",
+        "personal_homepage": "https://yinghao.info/about/"
+      },
+      "title_and_positions": [
+        "助理研究员"
+      ],
+      "research_group": "感知计算与智能网联汽车研究中心",
+      "research_directions": [
+        "多目标检测与跟踪",
+        "多传感器融合",
+        "雷达信号处理"
+      ],
+      "academic_titles_and_part_time_positions": [
+        "IEEE Transactions on Signal Processing审稿人",
+        "IEEE Signal Processing Letter审稿人",
+        "IET Radar, Sonar & Navigation审稿人",
+        "Electronics Letters审稿人",
+        "SCIENCE CHINA审稿人",
+        "Physical Communication等SCI期刊审稿人"
+      ],
+      "education_and_work_experience": [
+        {
+          "start_date": "2025.03",
+          "end_date": "至今",
+          "description": "电子科技大学，自动化工程学院，助理研究员"
+        },
+        {
+          "start_date": "2022.06",
+          "end_date": "2025.02",
+          "description": "深圳市大疆创新有限公司车载事业部（现独立为深圳卓驭科技有限公司），感知部动态感知组，高级计算机视觉算法工程师"
+        },
+        {
+          "start_date": "2016.09",
+          "end_date": "2022.06",
+          "description": "北京理工大学，信息与电子学院，信息与通信工程专业，博士（硕博连读）"
+        },
+        {
+          "start_date": "2012.09",
+          "end_date": "2016.07",
+          "description": "北京理工大学，信息与电子学院，电子科学与技术专业，本科"
+        }
+      ],
+      "scientific_research_summary": "共发表SCI论文6篇，其中以第1作者发表5篇，包括国际顶级期刊4篇；以第1作者已发表中文核心论文2篇，并有1篇受邀作口头汇报；以第1作者已发表EI收录国际会议论文3篇，并有1篇受邀作口头汇报；以合作发明人身份已授权发明专利5项，已受理发明专利1项。博士论文荣获2023年中国卫星导航定位协会优秀博士学位论文和2022年北京理工大学优秀博士学位论文。个人曾获2022年北京市优秀毕业生、2022年北京理工大学优秀毕业生、2020年博士研究生国家奖学金、2020年北京市三好学生等。在博士攻攻读期间协助导师团队参与完成了多项重点基金项目。大疆车载工作期间作为主要负责人完成了基于车辆运动学模型的多目标跟踪算法开发，相关算法在比亚迪仰望系列、五菱云朵/云海、奇瑞iCar等车型落地，有较丰富的自动驾驶感知算法量产落地经验。",
+      "courses_and_teaching": null,
+      "admission_information": {
+        "masters_programs": null,
+        "doctoral_programs": null
+      }
+    }
+  }
+}

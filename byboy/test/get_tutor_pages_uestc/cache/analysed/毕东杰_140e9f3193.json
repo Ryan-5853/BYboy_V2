@@ -1,0 +1,142 @@
+{
+  "meta": {
+    "tutor_name_cn": "毕东杰",
+    "request_url": "https://faculty.uestc.edu.cn/bidongjie/zh_CN/index/169592/list/index.htm",
+    "declared_source_url": "https://faculty.uestc.edu.cn/bidongjie/zh_CN/index/169592/list/index.htm",
+    "page_host": "faculty.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/7d8cffd84475c50958d2eb570abc15f84ce1ceeb73985c11f655ffa00f935c90.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "query_name": "毕东杰",
+    "source_url": "https://faculty.uestc.edu.cn/bidongjie/zh_CN/index/169592/list/index.htm",
+    "target_faculty_member_name": "毕东杰",
+    "personal_details": {
+      "profile_picture": {
+        "url": "https://faculty.uestc.edu.cn/__local/0/30/90/C83EA30BFE7109CBCADE2B8A196_8CE73D9A_22A55.png"
+      },
+      "title": "正高级工程师",
+      "supervisor_status": "硕士生导师",
+      "gender": "男",
+      "graduating_institution": "电子科技大学",
+      "education_level": "博士研究生毕业",
+      "degree_awarded": "工学博士学位",
+      "employment_start_date": "2016-01-01",
+      "office_location": "电子科技大学清水河校区主楼C2-209"
+    },
+    "contact_details": {
+      "phone": "13688396619",
+      "email": "bidongjie@uestc.edu.cn",
+      "other_contact_info": "暂无内容"
+    },
+    "education_experience": "暂无内容",
+    "work_experience": "暂无内容",
+    "honors_and_awards": [
+      "2016年测量控制与仪器仪表领域全国优秀博士学位论文, 中国仪器仪表学会,优秀博士论文提名。",
+      "2024年优秀硕士学位论文指导教师"
+    ],
+    "site_chrome": {
+      "top_links": [
+        {
+          "anchor_text": "电子科技大学",
+          "url": "http://www.uestc.edu.cn/"
+        },
+        {
+          "anchor_text": "中文版",
+          "url": "https://faculty.uestc.edu.cn/bidongjie/zh_CN/index/169592/list/index.htm"
+        }
+      ],
+      "language_toggle": {
+        "anchor_text": "English",
+        "url": "http://faculty.uestc.edu.cn/bidongjie/en/index.htm"
+      },
+      "header_logo": {
+        "image_url": "https://faculty.uestc.edu.cn/__local/E/03/6D/F54DF556BE955C0A33A986EC9F0_F98AA0B5_73F2.png",
+        "link_url": "http://faculty.uestc.edu.cn/"
+      },
+      "navigation_menu_icon": {
+        "image_url": "https://faculty.uestc.edu.cn/_ts/dzzw03/images/nav-menu.png",
+        "link_url": "https://faculty.uestc.edu.cn/bidongjie/zh_CN/index/169592/list/index.htm"
+      },
+      "main_navigation": [
+        {
+          "anchor_text": "首页",
+          "url": "https://faculty.uestc.edu.cn/bidongjie/zh_CN/index/169592/list/index.htm"
+        },
+        {
+          "anchor_text": "科学研究",
+          "url": "https://faculty.uestc.edu.cn/bidongjie/zh_CN/zhym/169593/list/index.htm",
+          "sub_items": [
+            {
+              "anchor_text": "科研项目",
+              "url": "https://faculty.uestc.edu.cn/bidongjie/zh_CN/kyxm/169594/list/index.htm"
+            },
+            {
+              "anchor_text": "著作成果",
+              "url": "https://faculty.uestc.edu.cn/bidongjie/zh_CN/zzcg/169595/list/index.htm"
+            },
+            {
+              "anchor_text": "专利",
+              "url": "https://faculty.uestc.edu.cn/bidongjie/zh_CN/zlcg/169596/list/index.htm"
+            },
+            {
+              "anchor_text": "论文成果",
+              "url": "https://faculty.uestc.edu.cn/bidongjie/zh_CN/lwcg/169597/list/index.htm"
+            },
+            {
+              "anchor_text": "研究领域",
+              "url": "https://faculty.uestc.edu.cn/bidongjie/zh_CN/yjgk/169598/list/index.htm"
+            }
+          ]
+        },
+        {
+          "anchor_text": "教学研究",
+          "url": "https://faculty.uestc.edu.cn/bidongjie/zh_CN/zhym/169599/list/index.htm",
+          "sub_items": [
+            {
+              "anchor_text": "教学成果",
+              "url": "https://faculty.uestc.edu.cn/bidongjie/zh_CN/jxcg/169600/list/index.htm"
+            },
+            {
+              "anchor_text": "授课信息",
+              "url": "https://faculty.uestc.edu.cn/bidongjie/zh_CN/skxx/169601/list/index.htm"
+            },
+            {
+              "anchor_text": "教学资源",
+              "url": "https://faculty.uestc.edu.cn/bidongjie/zh_CN/jxzy/169602/list/index.htm"
+            }
+          ]
+        },
+        {
+          "anchor_text": "获奖信息",
+          "url": "https://faculty.uestc.edu.cn/bidongjie/zh_CN/hjxx/169603/list/index.htm"
+        },
+        {
+          "anchor_text": "招生信息",
+          "url": "https://faculty.uestc.edu.cn/bidongjie/zh_CN/zsxx/169604/list/index.htm"
+        },
+        {
+          "anchor_text": "教师博客",
+          "url": "https://faculty.uestc.edu.cn/bidongjie/zh_CN/article/169607/list/index.htm"
+        }
+      ],
+      "footer": {
+        "mobile_access_count": "0000016961次",
+        "campus_addresses": [
+          "清水河校区：成都市高新区（西区）西源大道2006号　邮编： 611731",
+          "沙河校区：成都市建设北路二段四号　邮编：610054"
+        ],
+        "icp_filing_number": "蜀ICP备 05006379 号",
+        "public_security_record_number": "川公网安备 51019002000280 号",
+        "last_updated": "2026-1-29",
+        "scan_to_follow_text": "扫描关注"
+      }
+    },
+    "uncategorized_items": [
+      "+115"
+    ]
+  }
+}

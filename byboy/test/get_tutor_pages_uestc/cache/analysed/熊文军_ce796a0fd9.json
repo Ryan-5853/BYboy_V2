@@ -1,0 +1,181 @@
+{
+  "meta": {
+    "tutor_name_cn": "熊文军",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1173/7482.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1173/7482.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/b8d58ad0dc04e11531261f90a20481863e0afc72bb8d76a3b33bcc7fae72a026.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "site_metadata": {
+      "source_url": "https://www.auto.uestc.edu.cn/info/1173/7482.htm"
+    },
+    "site_chrome": {
+      "breadcrumbs": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "X",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/X.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "sidebar_navigation": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ]
+    },
+    "personal_info": {
+      "name": "熊文军",
+      "photo_url": "https://www.auto.uestc.edu.cn/__local/2/8F/81/E4DFBA4D494B00CE0C6B98DD3A8_5141CDBB_4C7D1.jpg",
+      "highest_degree": "博士",
+      "phone": null,
+      "title": "特聘教授",
+      "email": "xwenjun2@uestc.edu.cn",
+      "supervisor_status": "博士生导师",
+      "personal_homepage": {
+        "url": "https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/dsgrjj/21363?yxsh=06",
+        "anchor_text": "https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/dsgrjj/21363?yxsh=06"
+      },
+      "research_group": "自动化前沿与交叉中心"
+    },
+    "research_directions": [
+      "复杂系统与智能信息处理",
+      "新能源系统及控制技术",
+      "模式识别与智能系统"
+    ],
+    "academic_titles_and_affiliations": [
+      "任期刊Franklin Open的编委",
+      "任Asian Journal of Control、Neurocomputing等审稿人"
+    ],
+    "experience": [
+      {
+        "start_date": "2024-07",
+        "end_date": "至今",
+        "country": "中国",
+        "institution": "电子科技大学",
+        "department": "自动化工程学院",
+        "position": "特聘教授",
+        "type": "employment"
+      },
+      {
+        "start_date": "2016-06",
+        "end_date": "2024-05",
+        "country": "中国",
+        "institution": "西南财经大学",
+        "department": "计算机与人工智能学院",
+        "position": "教授",
+        "type": "employment"
+      },
+      {
+        "start_date": "2013-01",
+        "end_date": "2016-12",
+        "country": "中国",
+        "institution": "东南大学",
+        "department": "数学学院",
+        "position": "博士后",
+        "type": "postdoc"
+      },
+      {
+        "start_date": "2011-05",
+        "end_date": "2016-05",
+        "country": "中国",
+        "institution": "西南石油大学",
+        "department": "理学院",
+        "position": "副教授",
+        "type": "employment"
+      },
+      {
+        "start_date": "2008-01",
+        "end_date": "2010-12",
+        "country": "中国",
+        "institution": "香港城市大学",
+        "department": "数学系",
+        "degree": "博士研究生",
+        "type": "education"
+      },
+      {
+        "start_date": "2005-05",
+        "end_date": "2007-12",
+        "country": "中国",
+        "institution": "三峡大学",
+        "department": "数理学院",
+        "position": "讲师",
+        "type": "employment"
+      },
+      {
+        "start_date": "2002-09",
+        "end_date": "2005-05",
+        "country": "中国",
+        "institution": "东南大学",
+        "department": "数学学院",
+        "degree": "硕士研究生",
+        "type": "education"
+      },
+      {
+        "start_date": "1998-09",
+        "end_date": "2002-07",
+        "country": "中国",
+        "institution": "三峡大学",
+        "department": "数理学院",
+        "degree": "本科生",
+        "type": "education"
+      }
+    ],
+    "scientific_research": {
+      "description": "针对复杂网络通信能力受限、收敛时间受限这两类典型物理约束，提出了基于迭代学习的协同控制创新方法。通过在建模中引入实际安全关键物理约束，建立了通信能力受限、分层网络结构、网络恶意攻击下的复杂网络系统的迭代学习理论，取得了一系列的创新性成果。\n近五年在国际权威期刊发表论文20余篇，第一作者及通讯作者SCI论文40多篇（JCR一区7篇，包括：IEEE Trans. 会刊上发表论文 6篇、《中国科学信息科学》1 篇；SCI他引2492余次，H指数为29）；参与编撰Springer出版社网络系统英文专著1部；申请并授权中国专利二项。"
+    },
+    "teaching": {
+      "courses": [
+        "本科：《高等数学》",
+        "研究生：《矩阵分析》"
+      ],
+      "teaching_research_projects": [
+        "研究生教育教学研究项目：计算机类研究生课程思政教学研究——以《机器学习》课程为例"
+      ]
+    },
+    "admission_programs": {
+      "masters": [
+        "085406控制工程",
+        "081100控制科学与工程",
+        "085400电子信息"
+      ],
+      "phd": [
+        "081100控制科学与工程",
+        "086100交通运输",
+        "085400电子信息"
+      ]
+    }
+  }
+}

@@ -1,0 +1,345 @@
+{
+  "meta": {
+    "tutor_name_cn": "杨兴晨",
+    "request_url": "http://automation.seu.edu.cn/yxc/list.htm",
+    "declared_source_url": "http://automation.seu.edu.cn/yxc/list.htm",
+    "page_host": "automation.seu.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/878199c49c45bf907566901fbe01d901b71a7bea074c8b9a15a370003f9c3c92.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "general_info": {
+      "name": "杨兴晨",
+      "titles": [
+        "国家级青年人才",
+        "东南大学青年首席教授"
+      ],
+      "bio_summary": "2020年博士毕业于上海交通大学机器人研究所，曾在美国西北大学/芝加哥康复中心、瑞士洛桑联邦理工学院和英国帝国理工学院学习和工作。致力于神经科学和机器人交叉研究。",
+      "student_recruitment": {
+        "phd_students_per_year": "1-2名",
+        "master_students_per_year": "2-3名",
+        "preferred_majors": [
+          "自动化",
+          "计算机",
+          "机械电子工程"
+        ],
+        "note": "外校研究生请通过学校组织的夏令营后联系"
+      }
+    },
+    "education_background": [
+      {
+        "start_date": "2015.09",
+        "end_date": "2020.09",
+        "institution": "上海交通大学",
+        "degree": "工学博士",
+        "major": "机械电子工程",
+        "advisors": [
+          "丁汉教授（中国科学院院士）",
+          "刘洪海教授（欧洲科学院院士，IEEE Fellow）"
+        ]
+      },
+      {
+        "start_date": "2019.10",
+        "end_date": "2020.04",
+        "institution": "西北大学/芝加哥康复中心",
+        "program_type": "联合培养博士",
+        "advisor": "Eric Perreault教授"
+      },
+      {
+        "start_date": "2011.09",
+        "end_date": "2015.06",
+        "institution": "天津大学",
+        "degree": "工学学士",
+        "major": "机械设计制造及其自动化"
+      }
+    ],
+    "work_experience": [
+      {
+        "start_date": "2026",
+        "end_date": "至今",
+        "institution": "东南大学",
+        "department": "自动化学院/智能无人系统研究院",
+        "position": "青年首席教授"
+      },
+      {
+        "start_date": "2025",
+        "end_date": "2026",
+        "institution": "东南大学",
+        "department": "自动化学院/智能无人系统研究院",
+        "position": "上岗研究员"
+      },
+      {
+        "start_date": "2023",
+        "end_date": "2025",
+        "institution": "帝国理工学院",
+        "department": "帝国理工Meta联合神经接口中心",
+        "position": "博士后",
+        "collaborating_advisors": [
+          "Dario Farina教授",
+          "Juan Gallego教授"
+        ]
+      },
+      {
+        "start_date": "2021",
+        "end_date": "2023",
+        "institution": "洛桑联邦理工学院",
+        "department": "神经重建中心（NeuroRestore）",
+        "position": "博士后",
+        "collaborating_advisors": [
+          "Gregoire Courtine教授",
+          "Jocelyne Bloch教授"
+        ]
+      }
+    ],
+    "academic_appointments": [
+      {
+        "start_date": "2024.08",
+        "end_date": "至今",
+        "role": "青年编委",
+        "organization": "SmartBot期刊"
+      },
+      {
+        "start_date": "2021.09",
+        "end_date": "至今",
+        "role": "青年编委",
+        "organization": "Cyborg and Binoic Systems期刊"
+      },
+      {
+        "date": "2023.05",
+        "role": "副编委",
+        "organization": "ICRA2023"
+      }
+    ],
+    "awards": [
+      {
+        "date": "2021.07",
+        "name": "上海交通大学优秀博士生发展奖学金"
+      },
+      {
+        "date": "2021.03",
+        "name": "上海交通大学优秀博士论文提名奖"
+      }
+    ],
+    "courses_taught": [],
+    "student_cultivation": [],
+    "research_interests": {
+      "topics": [
+        "脑机接口",
+        "多模态人机交互",
+        "康复机器人",
+        "仿生智能机器人"
+      ],
+      "representative_work": [
+        {
+          "title": "非侵入式脊髓神经接口",
+          "media_description": "Your user agent does not support the HTML5 Video element."
+        },
+        {
+          "title": "高通量超声神经接口",
+          "media_description": "Your user agent does not support the HTML5 Video element."
+        },
+        {
+          "title": "运动增强型脑机接口",
+          "media_description": "Your user agent does not support the HTML5 Video element."
+        },
+        {
+          "title": "跨域智能机器人",
+          "media_description": "Your user agent does not support the HTML5 Video element."
+        },
+        {
+          "title": "机器人视触觉感知",
+          "media_description": "Your user agent does not support the HTML5 Video element."
+        }
+      ]
+    },
+    "research_projects": [
+      {
+        "start_date": "2026.1",
+        "end_date": "2028.12",
+        "name": "面向运动重建的神经假肢接口",
+        "funding_body": "国家自然基金委",
+        "role": "主持"
+      },
+      {
+        "start_date": "2025.11",
+        "end_date": "2026.10",
+        "name": "高通量腕带及手指运动解码技术合作项目",
+        "funding_body": "华为技术有限公司",
+        "role": "主持"
+      }
+    ],
+    "publications": {
+      "first_author_journal_papers": [
+        {
+          "authors": "Yang, X., De Oliveira, D. S., Braun, D. I., Ponfick, M., Farina, D., & Del Vecchio, A.",
+          "year": "2025",
+          "title": "Non-Invasive Neural Interfacing for Tetraplegic Individuals Using Residual Motor Neuron Activity Decoded at the Forearm or Wrist.",
+          "journal": "IEEE Journal of Biomedical and Health Informatics",
+          "impact_factor_info": "中科院一区Top, JCR Q1, IF = 7.1"
+        },
+        {
+          "authors": "Yang, X., Yin, Z., Sheng, Y., Farina, D., & Liu, H.",
+          "year": "2024",
+          "title": "Self-supervised Learning for Intuitive Control of Prosthetic Hand Movements via Sonomyography.",
+          "journal": "IEEE Transactions on Cybernetics",
+          "impact_factor_info": "中科院一区Top, JCR Q1, IF = 11.6"
+        },
+        {
+          "authors": "Yang, X., Castellini, C., Farina, D., & Liu, H.",
+          "year": "2024",
+          "title": "Ultrasound as a Neurorobotic Interface: A Review.",
+          "journal": "IEEE Transactions on Systems, Man, and Cybernetics: Systems",
+          "impact_factor_info": "中科院一区Top, JCR Q1, IF = 9.1"
+        },
+        {
+          "authors": "Yang, X., Yan, J., Yin, Z., & Liu, H.",
+          "year": "2022",
+          "title": "Sonomyographic Prosthetic Interaction: Online Simultaneous and Proportional Control of Wrist and Hand Motions using Semi-supervised Learning.",
+          "journal": "IEEE Transactions on Mechatronics",
+          "impact_factor_info": "中科院一区Top, JCR Q1, IF = 7.1"
+        },
+        {
+          "authors": "Yang, X., & Liu, H.",
+          "year": "2022",
+          "title": "Simultaneous Prediction of Wrist and Hand Motions via Wearable Ultrasound Sensing for Natural Control of Hand Prostheses.",
+          "journal": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+          "impact_factor_info": "中科院康复一区, JCR Q1, IF = 5.7"
+        },
+        {
+          "authors": "Yang, X., & Liu, H.",
+          "year": "2020",
+          "title": "Wearable Ultrasound-based Decoding of Simultaneous Wrist/Hand Kinematics.",
+          "journal": "IEEE Transactions on Industrial Electronics",
+          "impact_factor_info": "中科院一区Top, JCR Q1, IF = 7.8"
+        },
+        {
+          "authors": "Yang, X., Yan, J., Fang Y., Zhou D., & Liu, H.",
+          "year": "2020",
+          "title": "Simultaneous Prediction of Wrist/Hand Motion via Wearable Ultrasound Sensing.",
+          "journal": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+          "impact_factor_info": "中科院康复一区, JCR Q1, IF = 5.7",
+          "notes": "亮点论文"
+        },
+        {
+          "authors": "Yang, X., Yan, J., & Liu, H.",
+          "year": "2019",
+          "title": "Comparative Analysis of Wearable A-mode Ultrasound and sEMG for Muscle-Computer Interface.",
+          "journal": "IEEE Transactions on Biomedical Engineering",
+          "impact_factor_info": "中科院二区, JCR Q1, IF = 4.7"
+        },
+        {
+          "authors": "Yang, X., Chen, Z., Hettiarachchi, N., Yan, J., & Liu, H.",
+          "year": "2019",
+          "title": "A Wearable Ultrasound System for Sensing Muscular Morphological Deformations.",
+          "journal": "IEEE Transactions on Systems, Man, and Cybernetics: Systems",
+          "impact_factor_info": "中科院一区Top, JCR Q1, IF = 9.1"
+        },
+        {
+          "authors": "Yang, X., Yan, J., Chen, Z., Ding, H., & Liu, H.",
+          "year": "2019",
+          "title": "A Proportional Pattern Recognition Control Scheme for Wearable A-mode Ultrasound Sensing.",
+          "journal": "IEEE Transactions on Industrial Electronics",
+          "impact_factor_info": "中科院一区Top, JCR Q1, IF = 7.8"
+        },
+        {
+          "authors": "Yang, X., Sun, X., Zhou, D., Li, Y., & Liu, H.",
+          "year": "2018",
+          "title": "Towards Wearable A-mode Ultrasound Sensing for Real-Time Finger Motion Recognition.",
+          "journal": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+          "impact_factor_info": "中科院康复一区, JCR Q1, IF = 5.7"
+        },
+        {
+          "authors": "Yang, X., Zhou, D., Zhou, Y., Huang, Y., & Liu, H.",
+          "year": "2018",
+          "title": "Towards Zero Re-training for Long-term Hand Gesture Recognition via Ultrasound Sensing.",
+          "journal": "IEEE Journal of Biomedical and Health Informatics",
+          "impact_factor_info": "中科院一区Top, JCR Q1, IF = 7.1",
+          "notes": "亮点论文"
+        }
+      ],
+      "co_author_journal_papers": [
+        {
+          "authors": "Yin, Z., Meng, J., Shi, S., Guo, W., Yang, X., Ding, H., & Liu, H.",
+          "year": "2025",
+          "title": "A Wearable Multi-sensor Fusion System for Neuroprosthetic Hand.",
+          "journal": "IEEE Sensors Journal",
+          "impact_factor_info": "中科院二区Top, JCR Q1, IF = 4.2"
+        },
+        {
+          "authors": "Yin Z., Chen H., Yang X., Liu Y., Zhang N., Meng J. & Liu H.",
+          "year": "2022",
+          "title": "A Wearable Ultrasound Interface for Prosthetic Hand Control.",
+          "journal": "IEEE Journal of Biomedical and Health Informatics",
+          "impact_factor_info": "中科院一区Top, JCR Q1, IF = 7.1"
+        },
+        {
+          "authors": "Yan, J., Yang, X., Zeng, J., & Liu, H.",
+          "year": "2021",
+          "title": "Acoustic Nonlinearity Parameter Estimation for Exoskeleton Control.",
+          "journal": "IEEE Transactions on Medical Robotics and Bionics",
+          "impact_factor_info": "JCR Q2, IF = 3.4"
+        },
+        {
+          "authors": "Yan, J., Yang, X., Chen, Z., & Liu, H.",
+          "year": "2019",
+          "title": "Dynamically Characterizing Skeletal Muscles via Acoustic Non-linearity Parameter: In Vivo Assessment for Upper Arms.",
+          "journal": "Ultrasound in Medicine & Biology",
+          "impact_factor_info": "中科院三区, JCR Q2, IF = 2.9"
+        },
+        {
+          "authors": "Yan, J., Yang, X., Sun, X., Chen, Z., & Liu, H.",
+          "year": "2019",
+          "title": "A Lightweight Ultrasound Probe for Wearable Human-Machine Interfaces.",
+          "journal": "IEEE Sensors Journal",
+          "impact_factor_info": "中科院二区Top, JCR Q1, IF = 4.2"
+        },
+        {
+          "authors": "Xia, W., Zhou, Y., Yang, X., He, K., & Liu, H.",
+          "year": "2019",
+          "title": "Toward Portable Hybrid Surface Electromyography/A-Mode Ultrasound Sensing for Human-Machine Interface.",
+          "journal": "IEEE Sensors Journal",
+          "impact_factor_info": "中科院二区Top, JCR Q1, IF = 4.2"
+        },
+        {
+          "authors": "Sun, X., Yang, X., Zhu, X., & Liu, H.",
+          "year": "2017",
+          "title": "Dual-frequency Ultrasound Transducers for the Detection of Morphological Changes of Deep-Layered Muscles.",
+          "journal": "IEEE Sensors Journal",
+          "impact_factor_info": "中科院二区Top, JCR Q1, IF = 4.2"
+        },
+        {
+          "authors": "Huang, Y., Yang, X., Li, Y., Zhou, D., He, K., & Liu, H.",
+          "year": "2017",
+          "title": "Ultrasound-based Sensing Models for Finger Motion Classification.",
+          "journal": "IEEE Journal of Biomedical and Health Informatics",
+          "impact_factor_info": "中科院一区Top, JCR Q1, IF = 7.1"
+        }
+      ]
+    },
+    "links": [
+      {
+        "type": "Google Scholar",
+        "url": "https://scholar.google.com/citations?hl=en&user=PuQdNnAAAAAJ",
+        "anchor_text": "https://scholar.google.com/citations?hl=en&user=PuQdNnAAAAAJ"
+      }
+    ],
+    "site_chrome": {
+      "source_url": "http://automation.seu.edu.cn/yxc/list.htm",
+      "image_metadata": [
+        {
+          "type": "unspecified",
+          "url": "https://automation.seu.edu.cn/yxc/list.htm",
+          "alt_text": ""
+        },
+        {
+          "type": "visit_count",
+          "url": "https://automation.seu.edu.cn/_visitcount?siteId=338&type=2&columnId=62396",
+          "alt_text": ""
+        }
+      ]
+    }
+  }
+}

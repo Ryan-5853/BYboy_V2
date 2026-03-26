@@ -1,0 +1,67 @@
+{
+  "clickable_links": [
+    {
+      "url": "https://faculty.uestc.edu.cn/__local/7/E9/D8/465CF48E906CB76B60F564EA21B_03C5372A_1B212.png",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL是图片文件，非个人主页。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/_ts/mb1/images/ico-heart-i.png",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL是图标文件，非个人主页。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://vr.justeasy.cn/view/16y8745xh5t45214-1690510097.html",
+      "anchor_text": "电子科技大学电力电子与智慧能源实验室",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部VR平台链接，锚文本是实验室。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://scholar.google.com/citations?user=_C6OUEsAAAAJ&hl=en",
+      "anchor_text": "Google Scholar",
+      "scope": "external",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "Google Scholar主页，含导师学术信息。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/dhzhou/zh_CN/",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL路径含姓名，是典型导师个人主页。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://vr.justeasy.cn/view/16y8745xh5t45214-1690510097.html",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部VR平台链接，与导师信息无关。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://scholar.google.com/citations?user=_C6OUEsAAAAJ&hl=en",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "Google Scholar主页，含导师学术信息。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    }
+  ]
+}

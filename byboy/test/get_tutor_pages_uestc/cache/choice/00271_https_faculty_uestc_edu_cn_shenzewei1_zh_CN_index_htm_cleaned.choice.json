@@ -1,0 +1,49 @@
+{
+  "clickable_links": [
+    {
+      "url": "https://faculty.uestc.edu.cn/__local/2/3C/BC/D816C2AD9B60356E16FD8CBE0FE_E4CD3A84_2311E.png",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL指向PNG图片文件，非信息页面。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/_ts/mb1/images/ico-heart-i.png",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL指向PNG图标文件，非信息页面。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://vr.justeasy.cn/view/16y8745xh5t45214-1690510097.html",
+      "anchor_text": "电子科技大学电力电子与智慧能源实验室",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL为VR平台链接，指向实验室VR展示。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/shenzewei1/zh_CN/index.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL路径包含姓名和index.htm，典型个人主页。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://vr.justeasy.cn/view/16y8745xh5t45214-1690510097.html",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL为VR平台链接，指向实验室VR展示。",
+      "guessed_target_content": "无关网页或低相关页面"
+    }
+  ]
+}

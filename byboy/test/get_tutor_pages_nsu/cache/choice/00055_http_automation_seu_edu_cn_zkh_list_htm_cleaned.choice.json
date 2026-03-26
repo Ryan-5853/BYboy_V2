@@ -1,0 +1,104 @@
+{
+  "clickable_links": [
+    {
+      "url": "https://automation.seu.edu.cn/zkh/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "自动化学院域名下的列表页，可能为教师名录。",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.ccf.org.cn/Awards/Awards/2020-10-20/709506.shtml",
+      "anchor_text": "**2020年度CCF科学技术奖自然科学二等奖(1/2)**",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "CCF奖项页面，与教师无关。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://tc.ccf.org.cn//upload/resources/file/2022/12/27/eb3aeb6a9a361350efc9062bb893188f.pdf",
+      "anchor_text": "**2022年度CCF-CV持久影响力工作奖(1/3)**",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "CCF奖项PDF，与教师无关。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_upload/article/images/e6/7b/84417d81422ba3147c1edcd02119/e64d4e7b-c196-4a00-957c-d05f19e2e7cb.jpg",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "JPG图片文件，与教师信息无关。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://scholar.google.com/citations?user=FYatMi8AAAAJ&hl=zh-CN",
+      "anchor_text": "‪Kaihua Zhang‬ - ‪Google 学术搜索‬",
+      "scope": "external",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "谷歌学术教师个人主页。",
+      "guessed_target_content": "教师/导师个人信息页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_visitcount?siteId=338&type=2&columnId=57193",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "访问计数链接，与教师信息无关。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://automation.seu.edu.cn/zkh/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "自动化学院域名下的列表页，可能为教师名录。",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.ccf.org.cn/Awards/Awards/2020-10-20/709506.shtml",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "CCF奖项页面，与教师无关。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://tc.ccf.org.cn//upload/resources/file/2022/12/27/eb3aeb6a9a361350efc9062bb893188f.pdf",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "CCF奖项PDF，与教师无关。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://scholar.google.com/citations?user=FYatMi8AAAAJ&hl=zh-CN",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "谷歌学术教师个人主页。",
+      "guessed_target_content": "教师/导师个人信息页面",
+      "listing_pagination_next": "0"
+    }
+  ]
+}

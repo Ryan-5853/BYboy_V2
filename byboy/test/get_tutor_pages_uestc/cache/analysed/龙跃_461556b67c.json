@@ -1,0 +1,225 @@
+{
+  "meta": {
+    "tutor_name_cn": "龙跃",
+    "request_url": "http://faculty.uestc.edu.cn/longyue/zh_CN/index.htm",
+    "declared_source_url": "http://faculty.uestc.edu.cn/longyue/zh_CN/index.htm",
+    "page_host": "faculty.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/9f30b4e5f2d9a4d530a4071b10a45f4f8fbfc2206b162e865d77836279f4236d.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "person_name": "龙跃",
+    "source_url": "http://faculty.uestc.edu.cn/longyue/zh_CN/index.htm",
+    "site_chrome": {
+      "university_link": {
+        "url": "http://www.uestc.edu.cn/",
+        "anchor_text": "电子科技大学"
+      },
+      "language_switch": {
+        "url": "http://faculty.uestc.edu.cn/longyue/en/index.htm",
+        "anchor_text": "English"
+      },
+      "university_logo": {
+        "image_url": "https://faculty.uestc.edu.cn/__local/0/E6/0A/E459487A2D9C63DD1EA9F02D21B_C44020DD_5810.png",
+        "link_url": "http://faculty.uestc.edu.cn/"
+      },
+      "navigation_menu": [
+        {
+          "title": "首页",
+          "url": "https://faculty.uestc.edu.cn/longyue/zh_CN/index/372902/list/index.htm"
+        },
+        {
+          "title": "科学研究",
+          "url": "https://faculty.uestc.edu.cn/longyue/zh_CN/zhym/372903/list/index.htm",
+          "sub_items": [
+            {
+              "title": "科研项目",
+              "url": "https://faculty.uestc.edu.cn/longyue/zh_CN/kyxm/372904/list/index.htm"
+            },
+            {
+              "title": "著作成果",
+              "url": "https://faculty.uestc.edu.cn/longyue/zh_CN/zzcg/372905/list/index.htm"
+            },
+            {
+              "title": "专利",
+              "url": "https://faculty.uestc.edu.cn/longyue/zh_CN/zlcg/372906/list/index.htm"
+            },
+            {
+              "title": "论文成果",
+              "url": "https://faculty.uestc.edu.cn/longyue/zh_CN/lwcg/372907/list/index.htm"
+            },
+            {
+              "title": "研究领域",
+              "url": "https://faculty.uestc.edu.cn/longyue/zh_CN/yjgk/372908/list/index.htm"
+            }
+          ]
+        },
+        {
+          "title": "教学研究",
+          "url": "https://faculty.uestc.edu.cn/longyue/zh_CN/zhym/372909/list/index.htm",
+          "sub_items": [
+            {
+              "title": "教学成果",
+              "url": "https://faculty.uestc.edu.cn/longyue/zh_CN/jxcg/372910/list/index.htm"
+            },
+            {
+              "title": "授课信息",
+              "url": "https://faculty.uestc.edu.cn/longyue/zh_CN/skxx/372911/list/index.htm"
+            },
+            {
+              "title": "教学资源",
+              "url": "https://faculty.uestc.edu.cn/longyue/zh_CN/jxzy/372912/list/index.htm"
+            }
+          ]
+        },
+        {
+          "title": "获奖信息",
+          "url": "https://faculty.uestc.edu.cn/longyue/zh_CN/hjxx/372913/list/index.htm"
+        },
+        {
+          "title": "招生信息",
+          "url": "https://faculty.uestc.edu.cn/longyue/zh_CN/zsxx/372914/list/index.htm"
+        },
+        {
+          "title": "学生信息",
+          "url": "https://faculty.uestc.edu.cn/longyue/zh_CN/xsxx/372915/list/index.htm"
+        },
+        {
+          "title": "我的相册",
+          "url": "https://faculty.uestc.edu.cn/longyue/zh_CN/img/372916/list/index.htm"
+        },
+        {
+          "title": "教师博客",
+          "url": "https://faculty.uestc.edu.cn/longyue/zh_CN/article/372917/list/index.htm"
+        }
+      ]
+    },
+    "basic_info": {
+      "profile_picture": {
+        "image_url": "https://faculty.uestc.edu.cn/__local/4/45/FC/8EBF78C00897005D5CCF7D33545_E46C03F0_28C0C.png",
+        "alt_text": "龙跃"
+      },
+      "name": "龙跃",
+      "engagement_count": 95,
+      "current_titles": [
+        "副教授",
+        "硕士生导师"
+      ],
+      "gender": "女",
+      "education_level": "博士研究生毕业",
+      "degree": "工学博士学位",
+      "entry_date": "2020-06-02"
+    },
+    "contact_information": {
+      "postal_code": "611731",
+      "office_address": "成都市高新西区西源大道2006号四号科研楼B-522",
+      "email": "longyue@uestc.edu.cn",
+      "additional_note": "扫描关注"
+    },
+    "personal_profile": {
+      "biography_sections": [
+        "2013年毕业于东北大学，获工学博士学位，2013年至2020年就职于辽宁大学，现任电子科技大学自动化工程学院副教授，硕士生导师。",
+        "四川省特聘专家，辽宁省百千万人才工程千人层次人才，辽宁省优秀博士学位论文获得者，沈阳市拔尖人才。",
+        "主要从事故障诊断与容错控制，网络化系统，多智能体系统协同优化与控制，智能感知与信息融合等方面的研究。先后主持国家自然科学基金项目3项、省部级自然科学基金2项，主研国家自然科学基金、智能制造综合标准化项目、工业互联网创新发展工程项目及省市级科研项目多项。在控制领域国际期刊和会议发表学术论文60余篇，授权发明专利8项，参编英文专著1部，研究成果获得辽宁省自然科学学术成果奖一二等奖各1项，沈阳市自然科学学术成果奖一二等奖各1项。现为中国自动化学会TCCT物流系统智能优化与控制学组副秘书长、委员，中国自动化学会青年工作委员会委员。"
+      ]
+    },
+    "education_background": {
+      "section_status": "暂无内容",
+      "details_from_profile": [
+        {
+          "year": "2013",
+          "institution": "东北大学",
+          "degree": "工学博士学位"
+        }
+      ]
+    },
+    "work_experience": {
+      "section_status": "暂无内容",
+      "positions": [
+        {
+          "start_date": "2019.7",
+          "end_date": "2019.8",
+          "institution": "University of kent",
+          "role": "访问学者"
+        },
+        {
+          "start_date": "2017.3",
+          "end_date": "2018.2",
+          "institution": "Yeungnam University",
+          "role": "博士后"
+        },
+        {
+          "start_date": "2013",
+          "end_date": "2020",
+          "institution": "辽宁大学",
+          "role": "教师"
+        },
+        {
+          "start_date": "2020-06-02",
+          "institution": "电子科技大学自动化工程学院",
+          "role": "副教授"
+        }
+      ]
+    },
+    "research_focus": [
+      "故障诊断与容错控制",
+      "网络化系统",
+      "多智能体系统协同与控制",
+      "智能感知与信息融合"
+    ],
+    "social_affiliations": {
+      "section_status": "暂无内容",
+      "roles": [
+        "中国自动化学会TCCT物流系统智能优化与控制学组副秘书长",
+        "中国自动化学会TCCT物流系统智能优化与控制学组委员",
+        "中国自动化学会青年工作委员会委员"
+      ]
+    },
+    "uncategorized": {
+      "honors_and_awards_from_profile": [
+        "四川省特聘专家",
+        "辽宁省百千万人才工程千人层次人才",
+        "辽宁省优秀博士学位论文获得者",
+        "沈阳市拔尖人才",
+        "研究成果获得辽宁省自然科学学术成果奖一等奖1项",
+        "研究成果获得辽宁省自然科学学术成果奖二等奖1项",
+        "研究成果获得沈阳市自然科学学术成果奖一等奖1项",
+        "研究成果获得沈阳市自然科学学术成果奖二等奖1项"
+      ],
+      "projects_from_profile": [
+        "主持国家自然科学基金项目3项",
+        "主持省部级自然科学基金2项",
+        "主研国家自然科学基金多项",
+        "主研智能制造综合标准化项目多项",
+        "主研工业互联网创新发展工程项目多项",
+        "主研省市级科研项目多项"
+      ],
+      "publications_from_profile": [
+        "在控制领域国际期刊和会议发表学术论文60余篇",
+        "参编英文专著1部"
+      ],
+      "patents_from_profile": [
+        "授权发明专利8项"
+      ]
+    },
+    "footer_info": {
+      "qingshuihe_campus": {
+        "address": "成都市高新区（西区）西源大道2006号",
+        "postal_code": "611731"
+      },
+      "shahe_campus": {
+        "address": "成都市建设北路二段四号",
+        "postal_code": "610054"
+      },
+      "icp_beian": "蜀ICP备 05006379 号",
+      "gongan_beian": "川公网安备 51019002000280 号",
+      "mobile_version_text": "手机版",
+      "page_views": "0000012587次",
+      "opening_time": "2020.6.21",
+      "last_update_time": "2026.1.29"
+    }
+  }
+}

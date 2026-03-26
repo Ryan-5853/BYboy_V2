@@ -1,0 +1,94 @@
+{
+  "meta": {
+    "tutor_name_cn": "张凯锋",
+    "request_url": "http://automation.seu.edu.cn/zkf/list.htm",
+    "declared_source_url": "http://automation.seu.edu.cn/zkf/list.htm",
+    "page_host": "automation.seu.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/47891eea3626230690dfc1819e283fabed7810751e9054e974c3481af7c2fd66.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "site_chrome": {
+      "source_url": "http://automation.seu.edu.cn/zkf/list.htm",
+      "image_urls": [
+        "https://automation.seu.edu.cn/zkf/list.htm"
+      ],
+      "footer_tracking_pixel": "https://automation.seu.edu.cn/_visitcount?siteId=338&type=2&columnId=32776"
+    },
+    "personal_info": {
+      "name": "张凯锋",
+      "gender": "男",
+      "birth_year": 1977,
+      "current_affiliation": "东南大学自动化学院",
+      "current_title": "教授，博士生导师",
+      "degrees_summary": "2004年于东南大学获得“电力系统及其自动化”专业工学博士学位",
+      "postdoc_summary": "2006年于东南大学“控制科学与工程”专业博士后出站",
+      "visiting_scholar_summary": [
+        "2013年作为国家公派访问学者在美国里海大学（Lehigh University）访问交流",
+        "2016年作为国家公派高级访问学者在美国阿贡国家实验室（Argonne National Laboratory）访问交流"
+      ],
+      "awards_summary": [
+        "曾获得国家技术发明二等奖1次（排名第5）",
+        "省部级奖励多次"
+      ]
+    },
+    "education_background": [
+      {
+        "start_date": "2000.09",
+        "end_date": "2004.06",
+        "university": "东南大学",
+        "degree": "博士学位",
+        "major": "电气工程"
+      },
+      {
+        "start_date": "1997.09",
+        "end_date": "2000.07",
+        "university": "广西大学",
+        "degree": "硕士学位",
+        "major": "电气工程"
+      },
+      {
+        "start_date": "1993.09",
+        "end_date": "1997.07",
+        "university": "上海电力大学",
+        "degree": "学士学位",
+        "major": "自动化"
+      }
+    ],
+    "work_experience": [
+      {
+        "start_date": "2014.04",
+        "end_date": "至今",
+        "affiliation": "东南大学自动化学院",
+        "position": "教授"
+      },
+      {
+        "start_date": "2006.06",
+        "end_date": "2014.03",
+        "affiliation": "东南大学自动化学院",
+        "position": "副教授"
+      },
+      {
+        "start_date": "2004.06",
+        "end_date": "2006.06",
+        "affiliation": "东南大学自动化学院",
+        "position": "博士后"
+      },
+      {
+        "start_date": "2013.11",
+        "end_date": "2014.11",
+        "affiliation": "美国里海大学（Lehigh University）",
+        "position": "国家公派访问学者"
+      },
+      {
+        "start_date": "2016.09",
+        "end_date": null,
+        "affiliation": "美国阿贡国家实验室（Argonne National Laboratory）",
+        "position": "国家公派高级访问学者"
+      }
+    ]
+  }
+}

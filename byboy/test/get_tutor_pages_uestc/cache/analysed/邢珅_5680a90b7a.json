@@ -1,0 +1,151 @@
+{
+  "meta": {
+    "tutor_name_cn": "邢珅",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1173/8001.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1173/8001.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/926f31782aa43a2442c093c9b1c8624e6d87807796ecd1787065b16ba0cd2032.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "site_chrome": {
+      "source_url": "https://www.auto.uestc.edu.cn/info/1173/8001.htm",
+      "navigation": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "X",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/X.htm"
+        },
+        "正文"
+      ],
+      "related_links": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ],
+      "section_titles": [
+        "师资队伍",
+        "师资队伍"
+      ]
+    },
+    "personal_info": {
+      "name": "邢珅",
+      "highest_degree": "博士",
+      "contact_phone": null,
+      "job_title": "特聘研究员",
+      "email": "shen.xing@uestc.edu.cn",
+      "supervisor_status": "博士导师",
+      "personal_homepage": null,
+      "research_team": "自动化前沿与交叉研究中心"
+    },
+    "images": [
+      {
+        "url": "https://www.auto.uestc.edu.cn/__local/F/0D/DE/0D2DB7C90F2679A669A4BF0061D_5DC560B9_4E8C0.jpg",
+        "alt_text": "邢珅照片",
+        "caption": null
+      }
+    ],
+    "research_directions": [
+      "新型光电传感技术，致力于有机光电探测器的功能材料设计、器件结构开发与高灵敏度传感应用，并开展有机发光晶体管的器件研究与系统集成探索。"
+    ],
+    "academic_appointments_and_affiliations": [
+      "2025年入选电子科技大学校“百人计划”",
+      "任Nat. Commun.以及Adv. Mater., Adv. Funct. Mater.系列期刊审稿人"
+    ],
+    "education_and_work_experience": [
+      {
+        "time_frame": "2026/02 至今",
+        "institution": "电子科技大学",
+        "department": "自动化工程学院",
+        "position": "特聘研究员"
+      },
+      {
+        "time_frame": "2023/01–2025/12",
+        "institution": "德国德累斯顿工业大学",
+        "department": "物理学院",
+        "position": "博士后研究员"
+      },
+      {
+        "time_frame": "2017/11–2022/12",
+        "institution": "德国德累斯顿工业大学",
+        "department": "物理学院",
+        "degree": "博士"
+      },
+      {
+        "time_frame": "2014/09–2017/07",
+        "institution": "电子科技大学",
+        "department": "光电信息学院",
+        "degree": "硕士"
+      },
+      {
+        "time_frame": "2010/09–2014/07",
+        "institution": "电子科技大学",
+        "department": "光电信息学院",
+        "degree": "本科"
+      }
+    ],
+    "scientific_research": {
+      "summary": "长期从事光电传感器件及系统集成研究，聚焦光电探测与光谱解析，结合晶体管器件，探索高精度、多功能光电感知与调控方法。近年来，以第一作者/通讯作者（含共同）在Nat. Photonics、Nat. Commun.、Adv. Mater.等国际高水平期刊发表论文9篇，总引用1000余次；作为项目负责人开展韩国三星电子与德国德累斯顿工业大学近红外传感合作项目，推动光电传感功能的产业化应用；同时作为主研人员参与多项德国科学基金会（DFG）项目，并以第一发明人申请德国专利2项。",
+      "publications": {
+        "count": 9,
+        "first_or_corresponding_author": true,
+        "journals": [
+          "Nat. Photonics",
+          "Nat. Commun.",
+          "Adv. Mater."
+        ],
+        "citations_total": "1000余次"
+      },
+      "projects": [
+        "韩国三星电子与德国德累斯顿工业大学近红外传感合作项目 (项目负责人)",
+        "多项德国科学基金会（DFG）项目 (主研人员)"
+      ],
+      "patents": [
+        {
+          "type": "德国专利",
+          "count": 2,
+          "role": "第一发明人"
+        }
+      ]
+    },
+    "teaching_and_courses": null,
+    "admission_specialties": {
+      "master": [
+        "080400仪器科学与技术",
+        "085400电子信息",
+        "085407仪器仪表工程"
+      ],
+      "phd": [
+        "080400仪器科学与技术",
+        "085400电子信息"
+      ]
+    }
+  }
+}

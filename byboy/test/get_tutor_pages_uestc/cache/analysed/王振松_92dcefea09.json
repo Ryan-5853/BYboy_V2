@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "tutor_name_cn": "王振松",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1172/7055.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1172/7055.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/8e76fc225d0b43891443f402d2ba761f134514b4324f7c48b2c5065e60fc3315.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "source_url": "https://www.auto.uestc.edu.cn/info/1172/7055.htm",
+    "mentor_info": {
+      "name": "王振松",
+      "personal_details": {
+        "highest_degree": "博士",
+        "current_positions": [
+          "高级工程师"
+        ],
+        "mentor_status": "硕士生导师",
+        "research_team": "电磁与声波测量团队"
+      },
+      "contact_info": {
+        "phone": null,
+        "email": "wangzs@uestc.edu.cn",
+        "personal_homepage": null
+      },
+      "image": {
+        "url": "https://www.auto.uestc.edu.cn/__local/0/BD/DD/78C403AA4088536D235A38A7411_39F4B6AB_DC90.jpg",
+        "description": null
+      },
+      "research_directions": [
+        "模式识别与人工智能"
+      ],
+      "experience": [
+        {
+          "type": "work_experience",
+          "start_date": "1998.07",
+          "end_date": "2000.08",
+          "organization": "信息产业部第41研究所所青岛分所",
+          "role": null
+        },
+        {
+          "type": "academic_visit",
+          "start_date": "2015.10",
+          "end_date": "2016.10",
+          "organization": "美国北卡罗莱纳大学教堂山分校",
+          "role": "访问学者"
+        },
+        {
+          "type": "work_experience",
+          "start_date": "2003.04",
+          "end_date": "至今",
+          "organization": "电子科技大学自动化工程学院",
+          "roles": [
+            "助教",
+            "讲师",
+            "高级工程师"
+          ]
+        }
+      ],
+      "scientific_research_overview": {
+        "summary_text": "致力于模式识别与人工智能领域的应用与基础研究，负责或参与国家级、省级科研项目及校企合作项目20余项，发表SCI、EI、核心期刊等论文15篇，以第一作者在图像处理领域顶级期刊《IEEE Transactions on Image Processing》发表的论文被选为封面文章，以第一发明人获得授权国家发明专利3项。",
+        "details": {
+          "projects_summary": "负责或参与国家级、省级科研项目及校企合作项目20余项",
+          "publications_summary": "发表SCI、EI、核心期刊等论文15篇",
+          "notable_publication": "以第一作者在图像处理领域顶级期刊《IEEE Transactions on Image Processing》发表的论文被选为封面文章",
+          "patents_summary": "以第一发明人获得授权国家发明专利3项"
+        }
+      },
+      "teaching": {
+        "undergraduate_courses": [
+          "数字逻辑设计及应用",
+          "数字系统EDA设计",
+          "EDA技术",
+          "电气控制与PLC原理及应用",
+          "数字设计FPGA应用"
+        ],
+        "teaching_research_topics": [
+          "“数字逻辑设计及应用”课程探究式小班教学、挑战性课程教学、在线开放课程教学、教学方法与考核方法改革建设",
+          "“数字设计FPGA应用”挑战性学习课程、在线开放课程、竞赛类在线开放课程建设"
+        ]
+      },
+      "admission_information": {
+        "master_programs": [
+          "081100控制科学与工程",
+          "085400电子信息",
+          "085406控制工程"
+        ],
+        "doctoral_programs": []
+      }
+    },
+    "site_chrome": {
+      "page_context_heading": "师资队伍",
+      "breadcrumb_navigation": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "W",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/W.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "sidebar_navigation": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ]
+    }
+  }
+}

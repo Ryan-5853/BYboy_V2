@@ -1,0 +1,454 @@
+{
+  "meta": {
+    "tutor_name_cn": "杨杰",
+    "request_url": "http://automation.seu.edu.cn/yj2/list.htm",
+    "declared_source_url": "http://automation.seu.edu.cn/yj2/list.htm",
+    "page_host": "automation.seu.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/36eb515cab2a9d04370d8eab746706d14cf34257630fe76d94f7c43b036ee94a.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "site_chrome": [
+      {
+        "type": "source_url_declaration",
+        "content": "抓取来源：http://automation.seu.edu.cn/yj2/list.htm"
+      },
+      {
+        "type": "image",
+        "url": "https://automation.seu.edu.cn/yj2/list.htm",
+        "description": "页面顶部图片，可能为横幅或占位符"
+      },
+      {
+        "type": "image",
+        "url": "https://automation.seu.edu.cn/_visitcount?siteId=338&type=2&columnId=45138",
+        "description": "网站访问计数器图片"
+      }
+    ],
+    "personal_info": {
+      "name": "杨杰",
+      "birth_year": 1993,
+      "titles": [
+        "讲师",
+        "硕士生导师",
+        "东南大学至善青年学者",
+        "小米青年学者"
+      ],
+      "honors_and_recognitions_summary": "入选第八届中国科协青年人才托举工程",
+      "research_focus_summary": "主要从事面向B5G/6G的通信感知一体化理论与关键技术研究",
+      "publication_statistics": {
+        "overall_description": "在该研究领域已发表IEEE Journal on Selected Areas in Communications、IEEE Transactions on Wireless Communication、IEEE Transactions on Communications、[IEEE Internet of Things Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907)等IEEE核心刊物学术论文20余篇",
+        "detailed_breakdown": {
+          "type": "学术论文",
+          "category": "IEEE核心刊物",
+          "count_approx": "20余篇",
+          "highlighted_journals": [
+            "IEEE Journal on Selected Areas in Communications",
+            "IEEE Transactions on Wireless Communication",
+            "IEEE Transactions on Communications",
+            {
+              "name": "IEEE Internet of Things Journal",
+              "url": "https://ieeexplore.ie.edu/xpl/RecentIssue.jsp?punumber=6488907"
+            }
+          ]
+        }
+      },
+      "patents_count": "4项",
+      "book_chapters_count": "1部",
+      "projects_summary": {
+        "led": "主持JKW项目和省部级基金项目共3项",
+        "participated": "参与国家自然科学基金及企业合作项目10余项"
+      },
+      "academic_services_summary": [
+        "担任China Communications客座编委",
+        "担任IEEE ISWCS会议分会主席",
+        "参与IMT-2030（6G）通感任务组标准化工作",
+        "提交提案10余项",
+        "参与发布了世界首个《通信感知一体化技术报告》"
+      ],
+      "student_supervision_achievements_summary": [
+        {
+          "student_level": "本科生",
+          "project_title": "面向6G的感知辅助智能超表面覆盖增强系统",
+          "award": "第十八届“挑战杯”全国大学生课外学术科技作品竞赛江苏省特等奖"
+        },
+        {
+          "student_level": "研究生",
+          "project_title": "面向通感一体化的同时定位、制图与成像技术",
+          "award": "“兆易创新杯”第十八届研电赛华东赛区二等奖"
+        }
+      ],
+      "major_research_award_summary": {
+        "description": "研究成果作为“高效能大规模MIMO系统理论与应用”关键技术突破获2022年江苏省科学技术一等奖",
+        "year": 2022,
+        "award_name": "江苏省科学技术一等奖",
+        "rank_within_award": "排6"
+      }
+    },
+    "admission_plan": {
+      "masters_recruitment_quota": "每年招收硕士研究生1~2名",
+      "masters_research_directions": [
+        "通信感知一体化",
+        "人工智能"
+      ],
+      "undergraduate_engagement_opportunities": "欢迎本科生参与科研训练，指导SRTP、本科毕设、论文和专利撰写"
+    },
+    "education_history": [
+      {
+        "start_date": "2018.08",
+        "end_date": "2022.03",
+        "degree": "博士",
+        "institution": "东南大学"
+      },
+      {
+        "start_date": "2015.08",
+        "end_date": "2018.06",
+        "degree": "硕士",
+        "institution": "东南大学"
+      },
+      {
+        "start_date": "2011.08",
+        "end_date": "2015.06",
+        "degree": "本科",
+        "institution": "南京理工大学"
+      }
+    ],
+    "work_experience": [],
+    "awards_and_honors": [
+      {
+        "date": "2024.01",
+        "description": "中国通信学会博士学位论文激励计划"
+      },
+      {
+        "date": "2023.12",
+        "description": "江苏省优秀博士学位论文"
+      },
+      {
+        "date": "2023.02",
+        "description": "入选第八届中国科协青年人才托举工程"
+      },
+      {
+        "date": "2023.01",
+        "description": "获得2022年度江苏省科学技术一等奖（排6）"
+      },
+      {
+        "date": "2022.10",
+        "description": "获评小米青年学者"
+      },
+      {
+        "date": "2022.10",
+        "description": "获评东南大学至善青年学者"
+      }
+    ],
+    "courses_taught": [],
+    "research_interests": {
+      "main_area": "智能感知与无线通信的学科交叉研究",
+      "sub_areas": [
+        "通信感知一体化性能评价指标和理论分析框架研究",
+        "通信感知一体化中的多域信息融合关键技术研究",
+        "通信感知一体化原型实现与测量验证研究"
+      ]
+    },
+    "research_projects": [
+      {
+        "number": 1,
+        "source_type": "JKW",
+        "title": "xxxxxx通感耦合传输增强技术",
+        "year_range": "2022-2023",
+        "status": "在研",
+        "role": "主持"
+      },
+      {
+        "number": 2,
+        "source_type": "国家自然科学基金青年基金",
+        "title": "基于毫米波的波束管理和SLAM一体化理论与技术研究",
+        "year_range": "2024-2026",
+        "status": null,
+        "role": "主持"
+      },
+      {
+        "number": 3,
+        "source_type": "江苏省自然科学基金青年基金",
+        "title": "基于软信息的波束管理和SLAM一体化理论与技术研究",
+        "year_range": "2023-2026",
+        "status": "在研",
+        "role": "主持"
+      },
+      {
+        "number": 4,
+        "source_type": "国家自然科学基金专项项目",
+        "title": "环境视觉感知融合无线通信理论与关键技术",
+        "year_range": "2023-2024",
+        "status": "在研",
+        "role": "参与"
+      },
+      {
+        "number": 5,
+        "source_type": "教育部领军人才团队项目",
+        "title": "6G高效通感一体化基础研究",
+        "year_range": "2022-2026",
+        "status": "在研",
+        "role": "参与"
+      },
+      {
+        "number": 6,
+        "source_type": "国家自然科学基金面上项目",
+        "title": "智能网联无人机三维空间通信理论方法研究",
+        "year_range": "2021-2024",
+        "status": "在研",
+        "role": "参与"
+      },
+      {
+        "number": 7,
+        "source_type": "国家自然科学基金面上项目",
+        "title": "智能反射表面辅助的毫米波大规模MIMO传输理论方法研究",
+        "year_range": "2020-2023",
+        "status": "在研",
+        "role": "参与"
+      }
+    ],
+    "publications": [
+      {
+        "number": 1,
+        "authors": [
+          "Yang J",
+          "Wen C K",
+          "Xu J",
+          "Que H",
+          "Wei H",
+          "Jin S"
+        ],
+        "title": "Angle-based SLAM on 5G mmWave systems: Design, implementation, and measurement",
+        "journal": "IEEE Internet of Things Journal",
+        "status": "Early Access",
+        "year": 2023,
+        "is_corresponding_author": false,
+        "is_first_author": true,
+        "type": "Journal Paper"
+      },
+      {
+        "number": 2,
+        "authors": [
+          "Huang Y",
+          "Yang J",
+          "Tang W",
+          "Wen C K",
+          "Xia S",
+          "Jin S"
+        ],
+        "title": "Joint localization and environment sensing by harnessing NLOS components in RIS-aided mmWave communication systems",
+        "journal": "IEEE Transactions on Wireless Communications",
+        "status": "Early Access",
+        "year": 2023,
+        "is_corresponding_author": true,
+        "is_first_author": false,
+        "type": "Journal Paper"
+      },
+      {
+        "number": 3,
+        "authors": [
+          "Que H",
+          "Yang J",
+          "Wen C K",
+          "Xia S",
+          "Li X",
+          "Jin S"
+        ],
+        "title": "Joint beam management and SLAM for mmWave communication systems",
+        "journal": "IEEE Transactions on Communications",
+        "status": "Early Access",
+        "year": 2023,
+        "is_corresponding_author": true,
+        "is_first_author": false,
+        "type": "Journal Paper"
+      },
+      {
+        "number": 4,
+        "authors": [
+          "Wang X",
+          "Huang Y",
+          "Yang J",
+          "Han Y",
+          "Jin S"
+        ],
+        "title": "Reconfigurable intelligent surface aided integrated communication and localization with a single access point",
+        "journal": "China Communications",
+        "status": "Early Access",
+        "year": 2023,
+        "is_corresponding_author": true,
+        "is_first_author": false,
+        "type": "Journal Paper"
+      },
+      {
+        "number": 5,
+        "authors": [
+          "Li M",
+          "Yang J",
+          "Gu S",
+          "Wang J",
+          "Zou Y",
+          "Ouyang R",
+          "Tang W",
+          "Jin S"
+        ],
+        "title": "Integrated beam training and environmental sensing in the mmWave prototype system",
+        "journal": "Physical Communication",
+        "status": "Early Access",
+        "year": 2023,
+        "is_corresponding_author": true,
+        "is_first_author": false,
+        "type": "Journal Paper"
+      },
+      {
+        "number": 6,
+        "authors": [
+          "Yang J",
+          "Wen C K",
+          "Yang X",
+          "Xu J",
+          "Du T",
+          "Jin S"
+        ],
+        "title": "Multi-domain cooperative SLAM: The enabler for integrated sensing and communications",
+        "journal": "IEEE Wireless Communications",
+        "year": 2023,
+        "volume_issue_pages": "30(1): 40-49",
+        "is_corresponding_author": false,
+        "is_first_author": true,
+        "type": "Journal Paper"
+      },
+      {
+        "number": 7,
+        "authors": [
+          "Yang J",
+          "Wen C K",
+          "Jin S"
+        ],
+        "title": "Hybrid active and passive sensing for SLAM in wireless communication systems",
+        "journal": "IEEE Journal on Selected Areas in Communications",
+        "year": 2022,
+        "volume_issue_pages": "40(7): 2146-2163",
+        "is_corresponding_author": false,
+        "is_first_author": true,
+        "type": "Journal Paper"
+      },
+      {
+        "number": 8,
+        "authors": [
+          "Yang J",
+          "Wen C K",
+          "Jin S",
+          "Li X"
+        ],
+        "title": "Enabling plug-and-play and crowdsourcing SLAM in wireless communication systems",
+        "journal": "IEEE Transactions on Wireless Communications",
+        "year": 2022,
+        "volume_issue_pages": "21(3): 1453-1468",
+        "is_corresponding_author": false,
+        "is_first_author": true,
+        "type": "Journal Paper"
+      },
+      {
+        "number": 9,
+        "authors": [
+          "Yang J",
+          "Zeng Y",
+          "Jin S",
+          "Wen C K",
+          "Xu P"
+        ],
+        "title": "Communication and localization with extremely large lens antenna array",
+        "journal": "IEEE Transactions on Wireless Communications",
+        "year": 2021,
+        "volume_issue_pages": "20(5): 3031-3048",
+        "is_corresponding_author": false,
+        "is_first_author": true,
+        "type": "Journal Paper"
+      },
+      {
+        "number": 10,
+        "authors": [
+          "Yang J",
+          "Jin S",
+          "Wen C K",
+          "Guo J",
+          "Michail M",
+          "Gao B"
+        ],
+        "title": "Model-based learning network for 3-D localization in mmWave communications",
+        "journal": "IEEE Transactions on Wireless Communications",
+        "year": 2021,
+        "volume_issue_pages": "20(8): 5449-5466",
+        "is_corresponding_author": false,
+        "is_first_author": true,
+        "type": "Journal Paper"
+      },
+      {
+        "number": 11,
+        "authors": [
+          "Yang J",
+          "Xu J",
+          "Li X",
+          "Gao B",
+          "Jin S"
+        ],
+        "title": "Integrated communication and localization in mmWave systems",
+        "journal": "Frontiers of Information Technology & Electronic Engineering",
+        "year": 2021,
+        "volume_issue_pages": "22(4): 457-470",
+        "is_corresponding_author": false,
+        "is_first_author": true,
+        "type": "Journal Paper"
+      },
+      {
+        "number": 12,
+        "authors": [
+          "Yang J",
+          "Jin S",
+          "Wen C K",
+          "Yang X",
+          "Matthaiou M"
+        ],
+        "title": "Fast beam training architecture for hybrid mmWave transceivers",
+        "journal": "IEEE Transactions on Vehicular Technology",
+        "year": 2020,
+        "volume_issue_pages": "69(3): 2700-2715",
+        "is_corresponding_author": false,
+        "is_first_author": true,
+        "type": "Journal Paper"
+      },
+      {
+        "number": 13,
+        "authors": [
+          "Yang J",
+          "Wen C K",
+          "Jin S",
+          "Gao F"
+        ],
+        "title": "Beamspace channel estimation in mmWave systems via cosparse image reconstruction technique",
+        "journal": "IEEE Transactions on Communications",
+        "year": 2018,
+        "volume_issue_pages": "66(10): 4767-4782",
+        "is_corresponding_author": false,
+        "is_first_author": true,
+        "type": "Journal Paper"
+      },
+      {
+        "number": 14,
+        "authors": [
+          "Yang J",
+          "Wen C K",
+          "Jin S"
+        ],
+        "title": "Chapter of Massive MIMO Channel Estimation, Encyclopedia of Wireless Networks",
+        "type": "Book Chapter",
+        "publisher": "Springer",
+        "year": 2018,
+        "is_corresponding_author": false,
+        "is_first_author": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "meta": {
+    "tutor_name_cn": "田露露",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1169/4385.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1169/4385.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/fde3650c3d8935975d7befa89ab1d0fc9e789c3015060e86155406cc1f4cc39b.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "site_chrome": {
+      "page_sections": [
+        {
+          "title": "师资队伍",
+          "level": "h3"
+        },
+        {
+          "title": "师资队伍",
+          "level": "h2"
+        }
+      ],
+      "breadcrumbs": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "T",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/T.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "navigation_links": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ]
+    },
+    "mentor_profile": {
+      "name": "田露露",
+      "image_url": "https://www.auto.uestc.edu.cn/__local/0/44/89/5A9B6609C85074945B908D4D6BC_83423EFB_2E2C2.png",
+      "basic_info": {
+        "highest_degree": "博士",
+        "contact_phone": null,
+        "position_title": "副教授",
+        "email": "lulutian@uestc.edu.cn",
+        "supervisor_status": "硕士导师",
+        "personal_homepage": {
+          "url": "http://faculty.uestc.edu.cn/tianlulu1/zh_CN/index.htm",
+          "anchor_text": null
+        },
+        "research_team": "测试技术与仪器研究所"
+      },
+      "research_directions": [
+        "脉冲涡流无损检测技术",
+        "涡流热成像无损检测技术",
+        "磁光成像无损检测技术",
+        "人工智能算法研究，包括：无损检测+深度学习（GNN，GAN等）；深度学习理论研究，深度学习优化算法研究"
+      ],
+      "academic_titles_and_affiliations": {
+        "description": "担任Neurocomputing、IEEE Transactions on Instrumentation and Measurement 、IEEE Transactions on Neural Networks and Learning Systems 、Journal of Ambient Intelligence and Humanized Computing等多个国际期刊审稿人。",
+        "journal_reviewer_roles": [
+          "Neurocomputing",
+          "IEEE Transactions on Instrumentation and Measurement",
+          "IEEE Transactions on Neural Networks and Learning Systems",
+          "Journal of Ambient Intelligence and Humanized Computing"
+        ]
+      },
+      "education_work_experience": [
+        {
+          "start_date": "2022.05",
+          "end_date": "至今",
+          "institution": "电子科技大学自动化工程学院",
+          "role": "副教授",
+          "type": "work"
+        },
+        {
+          "start_date": "2020.04",
+          "end_date": "2022.02",
+          "institution": "电子科技大学自动化工程学院",
+          "role": "讲师",
+          "type": "work"
+        },
+        {
+          "start_date": "2019.02",
+          "end_date": "2020.02",
+          "institution": "Brunel University London, Computer Science",
+          "role": "Academic Visitor",
+          "type": "visit"
+        },
+        {
+          "start_date": "2018.07",
+          "end_date": "2020.03",
+          "institution": "电子科技大学",
+          "role": "博士后",
+          "type": "postdoctoral_research"
+        },
+        {
+          "start_date": "2011.09",
+          "end_date": "2018.07",
+          "institution": "电子科技大学",
+          "degree": "博士",
+          "type": "education"
+        }
+      ],
+      "scientific_research": {
+        "summary_description": "长期从事电、磁、热等多场无损检测技术研究，博士后期间在英国伦敦布鲁奈尔大学（Brunel University London）王子栋教授团队进行一年的研究工作，在人工智能与电磁无损检测技术方向进行了深入研究，发表了多项人工智能电磁无损检测技术相关研究成果，在多层异质板材、薄膜等特种材料的结构健康完整性应用研究方面具有多年经验。在电磁热物理机理研究上提出了电磁逐层迭代检测模型、小样本电磁热图像神经网络训练方法等，实现了异构、异形、多层材料的缺陷高清检测。",
+        "projects": [
+          {
+            "name": "国家自然科学基金",
+            "role": "主持",
+            "count": 1
+          },
+          {
+            "name": "中国博士后基金",
+            "role": "主持",
+            "count": 1
+          },
+          {
+            "name": "国家自然科学基金重点项目",
+            "role": "参与",
+            "count": "10余项"
+          }
+        ],
+        "publications": {
+          "total_count_description": "20余篇",
+          "sci_indexed_count_description": "13篇"
+        },
+        "patents": {
+          "authorized_count_description": "12项"
+        },
+        "awards": [
+          {
+            "year": "2015",
+            "description": "测试领域顶级会议I2MTC唯一最佳论文奖",
+            "role": "第一作者",
+            "location": "意大利"
+          }
+        ]
+      },
+      "courses_taught": [
+        {
+          "level": "本科",
+          "name": "智能检测技术"
+        },
+        {
+          "level": "研究生",
+          "name": "现代测试技术"
+        }
+      ],
+      "admission_majors": {
+        "master_programs": [
+          "080400仪器科学与技术",
+          "085400电子信息",
+          "085407仪器仪表工程"
+        ],
+        "doctoral_programs": []
+      }
+    }
+  }
+}

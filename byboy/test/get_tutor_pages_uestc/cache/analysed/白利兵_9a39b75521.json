@@ -1,0 +1,124 @@
+{
+  "meta": {
+    "tutor_name_cn": "白利兵",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1091/4046.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1091/4046.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/2413a99a9e5067313118f23b529c0ed68e2a1b7d668dcbe4f25db64d81f60730.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "site_chrome": {
+      "source_url": "https://www.auto.uestc.edu.cn/info/1091/4046.htm",
+      "main_heading": "师资队伍",
+      "breadcrumbs": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "正高级",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "sidebar_links": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ]
+    },
+    "personal_info": {
+      "name": "白利兵",
+      "highest_degree": "博士",
+      "contact_phone": null,
+      "title_and_position": "教授",
+      "email": "libing.bai@uestc.edu.cn",
+      "supervisor_status": "博士导师",
+      "personal_homepage": null,
+      "research_team": "测试技术与仪器研究所",
+      "image_url": "https://www.auto.uestc.edu.cn/__local/A/2E/2C/F713E864B08F537AF29EFC042A4_DEBBF1A5_5E54.jpg"
+    },
+    "research_directions": [
+      "电磁无损检测与结构健康评估",
+      "微弱信号提取与分离",
+      "电力系统精密测控技术"
+    ],
+    "academic_titles_and_affiliations": null,
+    "experience": [
+      {
+        "start_date": "2021.05",
+        "end_date": "至今",
+        "description": "电子科技大学自动化工程学院 教授"
+      },
+      {
+        "start_date": "2017.02",
+        "end_date": "2021.05",
+        "description": "电子科技大学自动化工程学院 副教授"
+      },
+      {
+        "start_date": "2014.02",
+        "end_date": "2017.01",
+        "description": "电子科技大学自动化工程学院 特聘副教授"
+      }
+    ],
+    "scientific_research": {
+      "description": "按照基础研究特色鲜明，科技攻关能力突出，成果转化效果显著的发展定位，开展可视化电磁无损检测研究。先后主持和参与国家自然科学基金联合基金重点项目、国家重点研发计划等国家和部委研究课题20余项。发表SCI/EI收录学术论文30余篇，获得2012年英国第51届无损检测年会BINDT最佳论文奖，2015年国际会议I2MTC最佳论文奖，授权国家发明专利30余项，撰写《测量电路及仪器》等国家规划教材1部，研制的涂层测厚仪、磁光成像仪等检测仪器解决了多个国家的检测急需，以第一完成人获四川省科技进步三等奖1项。",
+      "projects": "主持和参与国家自然科学基金联合基金重点项目、国家重点研发计划等国家和部委研究课题20余项",
+      "publications": "发表SCI/EI收录学术论文30余篇",
+      "awards": [
+        "2012年英国第51届无损检测年会BINDT最佳论文奖",
+        "2015年国际会议I2MTC最佳论文奖",
+        "四川省科技进步三等奖1项 (以第一完成人获得)"
+      ],
+      "patents": "授权国家发明专利30余项",
+      "books": "撰写《测量电路及仪器》等国家规划教材1部",
+      "achievements": "研制的涂层测厚仪、磁光成像仪等检测仪器解决了多个国家的检测急需"
+    },
+    "courses_and_teaching": {
+      "undergraduate_courses": [
+        "光学工程与精密仪器",
+        "测试技术新专题"
+      ],
+      "graduate_courses": [
+        "精密测试"
+      ],
+      "teaching_roles": null,
+      "teaching_research": [
+        "参与《光学工程与精密仪器》探究式小班课程",
+        "参与教学方法与考核方法改革示范课“精密仪器设计基础”建设",
+        "参与《光学工程与精密仪器》在线开放课程"
+      ]
+    },
+    "admissions": {
+      "masters": [
+        "080400仪器科学与技术",
+        "085400电子信息"
+      ],
+      "doctorates": [
+        "080400仪器科学与技术",
+        "085400电子信息",
+        "086100交通运输"
+      ]
+    }
+  }
+}

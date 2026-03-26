@@ -1,0 +1,144 @@
+{
+  "clickable_links": [
+    {
+      "url": "https://automation.seu.edu.cn/hpf/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "URL是学院内列表页，可能是师资。",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.ln.edu.hk/chs/po/people/professor-xin-yao",
+      "anchor_text": "姚新",
+      "scope": "external",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL和锚文本指向明确的教师个人主页。",
+      "guessed_target_content": "教师/导师个人信息页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://seumscl.com/index.asp",
+      "anchor_text": "机电系统控制实验室",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "medium",
+      "category_reason": "链接是实验室主页，非师资。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://pengfeihe-angers.github.io/pengfeihe-angers.io/",
+      "anchor_text": "https://pengfeihe-angers.github.io/pengfeihe-angers.io/",
+      "scope": "external",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "URL含人名，可能是个人主页。",
+      "guessed_target_content": "教师/导师个人信息页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://leria-info.univ-angers.fr/~jinkao.hao/",
+      "anchor_text": "Jin-Kao Hao",
+      "scope": "external",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL和锚文本指向明确的教师个人主页。",
+      "guessed_target_content": "教师/导师个人信息页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://tc.seu.edu.cn/tn/2024/1121/c27139a512098/page.htm",
+      "anchor_text": "刘志远",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL模式像新闻或活动页，非个人主页。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://seumscl.com/index.asp",
+      "anchor_text": "http://seumscl.com/index.asp",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "medium",
+      "category_reason": "链接是实验室主页，非师资。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_visitcount?siteId=338&type=2&columnId=53638",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL是访问计数器，非内容页。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://automation.seu.edu.cn/hpf/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "URL是学院内列表页，可能是师资。",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.ln.edu.hk/chs/po/people/professor-xin-yao",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL明确指向教师个人主页。",
+      "guessed_target_content": "教师/导师个人信息页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://seumscl.com/index.asp",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "medium",
+      "category_reason": "链接是实验室主页，非师资。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://pengfeihe-angers.github.io/pengfeihe-angers.io/",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "URL含人名，可能是个人主页。",
+      "guessed_target_content": "教师/导师个人信息页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://leria-info.univ-angers.fr/~jinkao.hao/",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL明确指向教师个人主页。",
+      "guessed_target_content": "教师/导师个人信息页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://tc.seu.edu.cn/tn/2024/1121/c27139a512098/page.htm",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL模式像新闻或活动页，非个人主页。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    }
+  ]
+}

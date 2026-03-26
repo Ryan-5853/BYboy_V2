@@ -171,14 +171,14 @@ class PackyClaudeClient:
         # CrewAI / 其它读 ANTHROPIC_* 的栈与裸 Anthropic SDK 使用同一 Packy 端点。
         os.environ["ANTHROPIC_API_KEY"] = self._config.api_key
         os.environ["ANTHROPIC_BASE_URL"] = self._config.anthropic_base_url
-        self._sync = Anthropic(
-            api_key=self._config.api_key,
-            base_url=self._config.anthropic_base_url,
-        )
-        self._async = AsyncAnthropic(
-            api_key=self._config.api_key,
-            base_url=self._config.anthropic_base_url,
-        )
+        _client_kw: dict[str, object] = {
+            "api_key": self._config.api_key,
+            "base_url": self._config.anthropic_base_url,
+        }
+        if self._config.http_timeout_sec is not None:
+            _client_kw["timeout"] = float(self._config.http_timeout_sec)
+        self._sync = Anthropic(**_client_kw)
+        self._async = AsyncAnthropic(**_client_kw)
 
     @property
     def config(self) -> PackyConfig:

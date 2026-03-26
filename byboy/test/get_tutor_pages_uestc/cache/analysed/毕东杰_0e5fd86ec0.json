@@ -1,0 +1,143 @@
+{
+  "meta": {
+    "tutor_name_cn": "毕东杰",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1091/7674.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1091/7674.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/74b1258d8bf22c1eba5496e3de3d882213496265d2c361f35d77431f027888bb.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "site_chrome": {
+      "source_url": "https://www.auto.uestc.edu.cn/info/1091/7674.htm",
+      "navigation": {
+        "breadcrumbs": [
+          {
+            "anchor_text": "首页",
+            "url": "https://www.auto.uestc.edu.cn/index.htm"
+          },
+          {
+            "anchor_text": "师资队伍",
+            "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+          },
+          {
+            "anchor_text": "教师名录",
+            "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+          },
+          {
+            "anchor_text": "正高级",
+            "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+          },
+          {
+            "anchor_text": "正文",
+            "url": null
+          }
+        ],
+        "side_menu": [
+          {
+            "anchor_text": "教师名录",
+            "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+          },
+          {
+            "anchor_text": "教师名录总览页",
+            "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+          }
+        ]
+      }
+    },
+    "professor_info": {
+      "name": "毕东杰",
+      "image_url": "https://www.auto.uestc.edu.cn/__local/9/EA/DA/7AF021644D6D99927595D0CF0A1_29E90212_99DEA5.jpg",
+      "basic_details": {
+        "highest_degree": "博士",
+        "contact_phone": null,
+        "title_and_position": "正高级工程师",
+        "email": "bidongjie@uestc.edu.cn",
+        "advisor_status": "硕士导师",
+        "personal_homepage": "https://faculty.uestc.edu.cn/bidongjie/zh_CN/index/169592/list/index.htm",
+        "research_team": "电磁与声波测量团队"
+      },
+      "research_directions": [
+        "近场微波/毫米波技术",
+        "近场EMI检测与成像",
+        "航空声学研究"
+      ],
+      "academic_titles_and_affiliations": {
+        "description": "担任IEEE Transactions on Signal Processing、IEEE Transactions on Instrument and Measurement等杂志审稿人。",
+        "reviewer_for": [
+          "IEEE Transactions on Signal Processing",
+          "IEEE Transactions on Instrument and Measurement"
+        ]
+      },
+      "education_and_work_experience": [
+        {
+          "period": "2005.09-2015.12",
+          "description": "电子科技大学，本硕博"
+        },
+        {
+          "period": "2013.12-2014.12",
+          "description": "美国密苏里科技大学，联合培养博士"
+        },
+        {
+          "period": "2016.01-2020.02",
+          "description": "电子科技大学，自动化工程学院，助理研究员"
+        },
+        {
+          "period": "2017.11-2018.09",
+          "description": "美国密苏里科技大学，博士后"
+        },
+        {
+          "period": "2020.03-2025.04",
+          "description": "电子科技大学，自动化工程学院，高级工程师"
+        },
+        {
+          "period": "2025.05-至今",
+          "description": "电子科技大学 正高级工程师"
+        }
+      ],
+      "scientific_research": {
+        "overview": "面向航空航天复合材料/结构/XX检测、XX发动机监测二个方向开展研究。研究方向：近场微波/毫米波/太赫兹技术、近场EMI测量技术、航空声学研究。",
+        "detailed_areas": [
+          "(1) 微波/毫米波/太赫兹近场成像设备，包含：近场成像技术、相位成像技术、双基/多基成像技术、超分辨成像技术等",
+          "(2) 近场EMI测量/检测/监测设备，包含高频段近场电场/磁场探头设计、近场磁场显微成像技术、近场天线设计技术等",
+          "(3) 基于空气声/弹性波/振动/应变的监测设备，包含：传感器阵列设计、分布式阵列设计、实时信号数据处理、大范围/高频成像、数据驱动的机器学习/模态分解建模等"
+        ],
+        "achievements_and_funding": {
+          "projects": "近五年主持/参与十项国家级重点XX项目、部委XX/基金项目、国家自然科学基金重大仪器项目",
+          "publications": {
+            "type": "SCI论文",
+            "count": 35
+          },
+          "patents": {
+            "type": "发明专利",
+            "status": "授权和受理",
+            "count": 13
+          }
+        }
+      },
+      "courses_and_teaching_research": {
+        "undergraduate_courses": [
+          "综合（专题）课程设计",
+          "课程设计基础实验",
+          "单片机原理及应用课程设计",
+          "单片机原理与接口技术实验",
+          "电子线路CAD"
+        ],
+        "graduate_courses": [
+          "创新实践课程",
+          "学科前沿知识讲座"
+        ]
+      },
+      "admission_majors": {
+        "masters": [
+          "080400仪器科学与技术",
+          "085400电子信息"
+        ],
+        "doctors": []
+      }
+    }
+  }
+}

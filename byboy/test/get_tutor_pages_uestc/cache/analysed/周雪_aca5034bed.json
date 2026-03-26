@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "tutor_name_cn": "周雪",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1175/4287.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1175/4287.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/b9baad54114749389813a832afe569c494115e6ca9f7774daf131bc02f02d415.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "page_metadata": {
+      "source_url": "https://www.auto.uestc.edu.cn/info/1175/4287.htm"
+    },
+    "site_chrome": {
+      "page_structure_titles": [
+        "师资队伍",
+        "师资队伍"
+      ],
+      "breadcrumbs": [
+        {
+          "text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "text": "Z",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/Z.htm"
+        },
+        {
+          "text": "正文",
+          "url": null
+        }
+      ],
+      "page_navigation_links": [
+        {
+          "text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm",
+          "title": "教师名录"
+        },
+        {
+          "text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm",
+          "title": "教师名录总览页"
+        }
+      ]
+    },
+    "professor_info": {
+      "name": "周雪",
+      "image_url": "https://www.auto.uestc.edu.cn/__local/0/6B/20/24749171CEEAD9C2FBB9D03A8C0_E9B2B2AD_56B0.jpg",
+      "highest_degree": "博士",
+      "contact_phone": null,
+      "title_position": "教授",
+      "email": "zhouxue@uestc.edu.cn",
+      "advisor_status": "博士导师",
+      "personal_homepage": "https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/dsgrjj/10970?yxsh=06",
+      "research_team": "自动化研究所",
+      "research_directions": [
+        "模式识别",
+        "计算机视觉",
+        "运动目标检测",
+        "跟踪和行人重识别"
+      ],
+      "academic_titles_and_affiliations": [
+        "中国自动化学会模式识别与机器智能专业委员会委员"
+      ],
+      "experience": {
+        "education_history": [
+          "1999.9-2003.6 电子科技大学自动化系 学士",
+          "2003.9-2008.6 中国科学院自动化研究所模式识别国家重点实验室（硕博连读）"
+        ],
+        "work_history": [
+          "2008.7-2010.07 任电子科技大学自动化工程学院讲师",
+          "2011.5-2012.5 澳大利亚阿德莱德大学计算机学院访问学者",
+          "2010.08-2020.08 任电子科技大学自动化工程学院副教授",
+          "2020.08-至今 任电子科技大学自动化工程学院教授"
+        ]
+      },
+      "scientific_research": {
+        "description": "目前主要从事基于视频图像的目标检测、跟踪和识别的算法研究，同时也致力于攻关实际智能识别应用中的核心关键技术。",
+        "projects": "作为第一项目负责人主持四项国家自然科学基金项目及多项省部级项目。",
+        "publications": "在国内外高水平期刊IEEE Trans. on Cybernetics、TIP、CSVT、Signal Processing及国际学术会议AAAI 、ICASSP、ICIP、ACCV、VCIP上发表论文四十余篇。",
+        "patents": {
+          "applied": "30余项",
+          "authorized": "20余项"
+        },
+        "awards": [
+          "2022中国自动化学会优秀硕士学位论文导师奖",
+          "2023年度“中国航空学会科学技术奖”--自然科学奖一等奖",
+          "指导的研究生获得IEEE VCIP2018(Visual Communications and Image Processing)视觉通信和图像处理国际会议最佳学生论文奖(唯一)",
+          "指导学生在人工智能学会、华为、中兴、高通等企业举办的多目标跟踪算法比赛中多次获奖"
+        ]
+      },
+      "courses_and_teaching_research": {
+        "role_in_curriculum": "作为学院的“模式识别”学科核心课程骨干",
+        "teaching_reform_projects": [
+          "省部级教改项目1项",
+          "校内挑战性课程项目1项",
+          "研究生教改项目1项"
+        ],
+        "undergraduate_courses": [
+          "模式识别",
+          "课程设计基础"
+        ],
+        "graduate_courses": [
+          "模式识别与机器学习",
+          "研究生论文写作指导"
+        ]
+      },
+      "admission_information": {
+        "masters_programs": [
+          "081100控制科学与工程",
+          "085400电子信息"
+        ],
+        "doctoral_programs": [
+          "081100控制科学与工程",
+          "085400电子信息"
+        ]
+      }
+    }
+  }
+}

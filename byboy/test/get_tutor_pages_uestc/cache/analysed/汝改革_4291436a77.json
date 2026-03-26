@@ -1,0 +1,145 @@
+{
+  "meta": {
+    "tutor_name_cn": "汝改革",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1167/8017.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1167/8017.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/740c5c5c77035dfe8501488fb4ea7ec65f2a85677649b06e025d6d96bdee5a23.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "mentor_name": "汝改革",
+    "source_url": "https://www.auto.uestc.edu.cn/info/1167/8017.htm",
+    "site_chrome": {
+      "page_title_heading": "师资队伍",
+      "breadcrumbs": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "R",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/R.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "sidebar_navigation": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ],
+      "secondary_navigation": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ]
+    },
+    "basic_info": {
+      "name": "汝改革",
+      "image_url": "https://www.auto.uestc.edu.cn/__local/F/EE/A3/998B417A6448BDFF8A5EE2700BC_CEB5B70F_33021.jpg",
+      "highest_degree": "博士",
+      "contact_phone": null,
+      "title_and_position": "特聘副研究员",
+      "email": "r.gg@uestc.edu.cn",
+      "supervision_status": "硕士导师",
+      "personal_homepage": null,
+      "research_team": "传感器国家工程中心成都分中心"
+    },
+    "research_directions": [
+      "电磁传感设计及智能检测仪器研究"
+    ],
+    "academic_roles_and_affiliations": [
+      "担任测试科学与仪器（外刊）青年编委",
+      "IEEE sensors journal审稿人",
+      "NDT&E international等国际权威期刊及国际会议的审稿人"
+    ],
+    "experience": {
+      "education_and_work_experience": [
+        {
+          "time_range": "2025.12 至今",
+          "organization": "电子科技大学",
+          "department": "自动化工程学院",
+          "role": "特聘副研究员",
+          "type": "work"
+        },
+        {
+          "time_range": "2024.1- 2025.12",
+          "organization": "电子科技大学",
+          "department": "自动化工程学院",
+          "role": "博士后",
+          "type": "work"
+        },
+        {
+          "time_range": "2022.10 - 2023.10",
+          "organization": "萨尔大学（德国）",
+          "role": "CSC博士联合培养",
+          "type": "education"
+        },
+        {
+          "time_range": "2019.9 - 2023.12",
+          "organization": "电子科技大学",
+          "major": "控制科学与工程",
+          "degree": "博士",
+          "type": "education"
+        }
+      ]
+    },
+    "scientific_research": {
+      "summary": "研究方向聚焦在电磁无损检测检测及智能装备研究，融合电磁物理、人工智能、精密仪器与机器人技术，从理论突破到产品落地。",
+      "projects_led": [
+        "国家自然科学基金青年科学基金项目（C类）",
+        "四川省自然科学基金项目（B类）",
+        "中国博士后国家资助计划项目",
+        "中国博士后科学基金面上项目",
+        "航空国创科学基金"
+      ],
+      "publications": {
+        "journal_papers": "15篇（中科院一区期刊/IEEE Transactions系列汇刊论文）",
+        "esi_highly_cited": "1篇"
+      },
+      "patents": {
+        "invention_patents": "12项（申请中）"
+      },
+      "awards": [
+        "第三届全国博士后创新创业大赛铜奖（负责人）"
+      ],
+      "standards_participation": [
+        "《智能内检测器传感器检测方法》团体标准制定（参与）"
+      ],
+      "industrial_applications": "基于电磁耦合传感的小口径内检测装置已在中石油、中石化等油气田380条以上管线工业化应用（作为研发骨干）"
+    },
+    "courses_and_teaching_research": null,
+    "recruitment_information": {
+      "master_programs": [
+        "080400仪器科学与技术",
+        "085407仪器仪表工程",
+        "085400电子信息"
+      ],
+      "doctoral_programs": []
+    }
+  }
+}

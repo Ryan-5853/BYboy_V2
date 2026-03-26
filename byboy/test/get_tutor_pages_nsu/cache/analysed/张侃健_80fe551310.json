@@ -1,0 +1,1141 @@
+{
+  "meta": {
+    "tutor_name_cn": "张侃健",
+    "request_url": "http://automation.seu.edu.cn/zkj/list.htm",
+    "declared_source_url": "http://automation.seu.edu.cn/zkj/list.htm",
+    "page_host": "automation.seu.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/7a169ba0f77f90973bf79b7b0e223737bf02a3bba3db7ea15e66f0522725447c.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "personal_information": {
+      "name": "张侃健",
+      "birth_date": "1972年7月",
+      "affiliation": "东南大学自动化学院",
+      "current_titles": [
+        "教授",
+        "博导"
+      ],
+      "academic_promotion": "2008年晋升为教授",
+      "education_summary": "2000年于东南大学自动化所获工学博士学位",
+      "visiting_scholar_experiences": [
+        {
+          "period": "2003年6月至2004年8月",
+          "institution": "香港科技大学电气与电子工程系",
+          "role": "访问研究"
+        },
+        {
+          "period": "2011年3月至2012年2月",
+          "institution": "美国乔治亚理工学院电气与计算机工程系",
+          "role": "访问研究"
+        }
+      ],
+      "research_directions": [
+        "非线性系统优化设计",
+        "复杂系统故障预测诊断与运维",
+        "光伏系统智慧运维",
+        "工业物联网应用"
+      ],
+      "publication_summary": "在Automatica等国际期刊发表论文SCI论文80余篇, 出版著作1本",
+      "project_summary": "负责和参与完成科研项目30余项, 其中负责完成国家自然科学基金3项, 在研国家自然基金1项，参与完成国家重大科学工程项目1项，国家863项目1项，自然基金重点项目1项",
+      "award_summary": "获2006年江苏省科技进步自然科学类一等奖"
+    },
+    "education_background": [
+      {
+        "period": "1997.5至2000.5",
+        "institution": "东南大学",
+        "department": "自动化所",
+        "degree": "博士",
+        "supervisor": "冯纯伯"
+      },
+      {
+        "period": "1994.9至1997.5",
+        "institution": "东南大学",
+        "department": "自动化所",
+        "degree": "硕士",
+        "supervisor": "冯纯伯"
+      },
+      {
+        "period": "1990.9至1994.7",
+        "institution": "南开大学",
+        "department": "数学系",
+        "degree": "本科"
+      }
+    ],
+    "work_experience": [
+      {
+        "period": "2008.5至现在",
+        "institution": "东南大学",
+        "department": "自动化学院",
+        "position": "教授"
+      },
+      {
+        "period": "2011.3至2012.3",
+        "institution": "美国乔治亚理工",
+        "department": "电气与计算机工程",
+        "position": "访问学者",
+        "note": "(Yorai Wardi 教授和Magnus Egerstedt 教授团队)"
+      },
+      {
+        "period": "2002.5至2008.5",
+        "institution": "东南大学",
+        "department": "自动化学院",
+        "position": "副教授"
+      },
+      {
+        "period": "2003.6至2004.8",
+        "institution": "香港科技大学",
+        "department": "电气与电子工程系",
+        "position": "访问学者",
+        "note": "(曹希仁教授团队)"
+      },
+      {
+        "period": "2000.5至2002.5",
+        "institution": "东南大学",
+        "department": "自动化学院",
+        "position": "讲师"
+      }
+    ],
+    "academic_appointments": [],
+    "awards_and_honors": [
+      {
+        "award_name": "复杂动态系统及非线性系统的分析与鲁棒控制江苏省科技进步奖",
+        "awarding_body": "中华人民共和国国家教育部",
+        "category": "自然科学",
+        "level": "省部一等奖",
+        "year": "2006",
+        "ranking": "4/7",
+        "co_recipients": [
+          "冯纯伯",
+          "郭雷",
+          "费树岷",
+          "张侃健",
+          "孙长银",
+          "宋士吉",
+          "吴凌尧"
+        ]
+      }
+    ],
+    "courses_taught": [
+      {
+        "course_name": "自动控制原理II",
+        "hours": "48学时",
+        "credits": "3学分"
+      },
+      {
+        "course_name": "现代控制设计",
+        "hours": "32学时",
+        "credits": "2学分"
+      },
+      {
+        "course_name": "线性系统理论",
+        "hours": "54学时",
+        "credits": "3学分"
+      },
+      {
+        "course_name": "H无穷控制设计",
+        "hours": "36学时",
+        "credits": "2学分"
+      }
+    ],
+    "student_cultivation": null,
+    "research_interests": [
+      "非线性系统优化设计",
+      "复杂系统故障预测诊断与运维",
+      "光伏系统智慧运维",
+      "工业物联网应用"
+    ],
+    "research_projects": {
+      "principal_investigator": [
+        {
+          "project_number": "6508007355",
+          "project_name": "极地光伏油机混合供电系统的故障诊断与协同优化",
+          "project_type": "国家自然科学基金面上项目"
+        },
+        {
+          "project_number": "8508008365",
+          "project_name": "非常规气集输站安全生产智能巡检系统研究及应用服务",
+          "project_type": "企事业单位合作项目",
+          "funding_source": "中海油"
+        },
+        {
+          "project_number": "8508008361",
+          "project_name": "分布式光伏系统智慧运维技术",
+          "project_type": "企事业单位合作项目",
+          "funding_source": "天津电力"
+        },
+        {
+          "project_number": "61374006",
+          "project_name": "南极科考支撑平台发电机组的故障预测与优化切换控制",
+          "project_type": "国家自然科学基金面上项目"
+        },
+        {
+          "project_number": "890800xxxx",
+          "project_name": "射频电路诊断测试程序集开发系列（7 个子项目）",
+          "project_type": "横向技装项目",
+          "funding_source": "军工合作"
+        },
+        {
+          "project_number": "60874030",
+          "project_name": "非线性随机动态系统基于性能势的最优控制设计",
+          "project_type": "国家自然科学基金面上项目"
+        },
+        {
+          "project_number": "60404006",
+          "project_name": "基于无源性理论的非线性系统控制设计",
+          "project_type": "国家自然科学基金项目"
+        }
+      ],
+      "participant": [
+        {
+          "project_number": "7908000013",
+          "project_name": "南极无人智能化科学观测站自主运行技术研究",
+          "project_type": "上海市重点研发项目"
+        },
+        {
+          "project_number": "11190015",
+          "project_name": "极端台址环境下独立能源控制支撑系统的特性研究",
+          "project_type": "国家自然科学基金重大项目"
+        },
+        {
+          "project_number": "60875035",
+          "project_name": "前馈神经网络的奇异学习动态研究",
+          "project_type": "国家自然科学基金面上项目"
+        },
+        {
+          "project_number": "2006AA04Z263",
+          "project_name": "网络化机器人群编队的分布式控制",
+          "project_type": "国家863项目"
+        },
+        {
+          "project_number": "69934010",
+          "project_name": "不确定时变非线性动态系统的分析与控制",
+          "project_type": "国家自然科学基金重点项目"
+        },
+        {
+          "project_number": "8908005180",
+          "project_name": "南极泰山站远程遥控能源供应模块开发",
+          "project_type": "极地中心合作技装项目",
+          "note": "负责子课题上位机系统"
+        },
+        {
+          "project_number": "6950234268",
+          "project_name": "南极冰穹A科考支撑平台",
+          "project_type": "极地中心合作技装项目",
+          "note": "负责子课题数据存储系统"
+        },
+        {
+          "project_number": "BK20131300",
+          "project_name": "南极科考支撑平台运行控制与健康维护研究",
+          "project_type": "江苏省自然科学基金项目"
+        },
+        {
+          "project_number": "770800006",
+          "project_name": "奇异学习机器的学习算法研究",
+          "project_type": "江苏省自然科学基金项目"
+        },
+        {
+          "project_number": "8508000213",
+          "project_name": "基于图像处理的机器人焊接质量监控与分析系统",
+          "project_type": "企事业单位合作项目"
+        },
+        {
+          "project_number": "8508000176",
+          "project_name": "基于物联网的仓储搬运设备远程故障诊断系统研制",
+          "project_type": "企事业单位合作项目"
+        }
+      ]
+    },
+    "publications": {
+      "sci_papers": [
+        {
+          "authors": "Li C, Yang Y, Spataru S, Zhang K, Wei H",
+          "title": "A Robust Parametrization Method of Photovoltaic Modules for Enhancing One-Diode Model Accuracy under Varying Operating Conditions",
+          "journal": "Renewable Energy",
+          "year": "2021",
+          "details": "168: 764-778"
+        },
+        {
+          "authors": "Li C, Spataru S, Zhang K, Yang Y, Wei H",
+          "title": "A Multi-State Dynamic Thermal Model for Accurate Photovoltaic Cell Temperature Estimation",
+          "journal": "IEEE Journal of Photovoltaics",
+          "year": "2020",
+          "details": "20(5): 1465-1473"
+        },
+        {
+          "authors": "Zhu C, Li C, Chen X, Zhang K, Xin X",
+          "title": "Event-Triggered Adaptive Fault Tolerant Control for a Class of Uncertain Nonlinear Systems",
+          "journal": "Entropy",
+          "year": "2020",
+          "details": "22(6):598"
+        },
+        {
+          "authors": "Guo T, Sun Z, Wang X, Li S, Zhang K",
+          "title": "A Simple Current-Constrained Controller for Permanent-Magnet Synchronous Motor",
+          "journal": "IEEE Transactions on Industrial Informatics",
+          "year": "2019",
+          "details": "15(3): 1486-1495"
+        },
+        {
+          "authors": "Pang G, Liu J, Zhang K, et al.",
+          "title": "On homogeneous parameter-dependent quadratic Lyapunov function for robust fault detection filter design and application",
+          "journal": "Ima Journal of Mathematical Control & Information",
+          "year": "2017",
+          "details": "34(2):375–403"
+        },
+        {
+          "authors": "Liu X, Li S, Zhang K",
+          "title": "Optimal control of switching time in switched stochastic systems with multi-switching times and different costs",
+          "journal": "International Journal of Control",
+          "year": "2017",
+          "details": "90(8): 1604-1611"
+        },
+        {
+          "authors": "Cheng K, Zhang K, Fei S, et al.",
+          "title": "Potential-Based Least-Squares Policy Iteration for a Parameterized Feedback Control System",
+          "journal": "Journal of Optimization Theory & Applications",
+          "year": "2016",
+          "details": "169(2):692-704"
+        },
+        {
+          "authors": "Pang G, Zhang K, Wei H",
+          "title": "Estimation of Attractive Stability Region via Homogeneous Parameter-Dependent Quadratic Lyapunov Function for Impulsive Switched Linear System with Saturated Control Input",
+          "journal": "Circuits Systems & Signal Processing",
+          "year": "2016",
+          "details": "35(4):1091-1121"
+        },
+        {
+          "authors": "Liu J, Zhang K, Sun C, et al.",
+          "title": "Robust optimal control of switched autonomous systems",
+          "journal": "Ima Journal of Mathematical Control & Information",
+          "year": "2016",
+          "details": "33(2):173-189"
+        },
+        {
+          "authors": "Liu J, Zhang K, Pang G, et al.",
+          "title": "Controller synthesis for constrained discrete-time switched positive linear systems",
+          "journal": "Nonlinear Analysis Hybrid Systems",
+          "year": "2016",
+          "details": "19:1-12"
+        },
+        {
+          "authors": "Liu J, Zhang K, Wei H",
+          "title": "Robust stability of positive switched systems with dwell time",
+          "journal": "International Journal of Systems Science",
+          "year": "2016",
+          "details": "47(11): 2553-2562"
+        },
+        {
+          "authors": "Wu X, Zhang K",
+          "title": "Three-dimensional trajectory design for horizontal well based on optimal switching algorithms",
+          "journal": "ISA transactions",
+          "year": "2015",
+          "details": "58: 348-356"
+        },
+        {
+          "authors": "Liu J, Zhang K",
+          "title": "State Feedback with Memory for Constrained Switched Positive Linear Systems",
+          "journal": "Entropy",
+          "year": "2015",
+          "details": "17(5):2655-2676"
+        },
+        {
+          "authors": "Pang G, Zhang K",
+          "title": "On Homogeneous Parameter-Dependent Quadratic Lyapunov Function for Robust H∞ Filtering Design in Switched Linear Discrete-Time Systems with Polytopic Uncertainties",
+          "journal": "Advances in Mathematical Physics",
+          "year": "2015",
+          "details": "2015:1-11"
+        },
+        {
+          "authors": "Liu X, Zhang K, Li S, et al.",
+          "title": "Optimal Control of Switching Times in Switched Stochastic Systems",
+          "journal": "Asian Journal of Control",
+          "year": "2015",
+          "details": "17(5):1580-1589"
+        },
+        {
+          "authors": "Guo T, Zhang K",
+          "title": "Impulsive fractional partial differential equations",
+          "journal": "Applied Mathematics and Computation",
+          "year": "2015",
+          "details": "257: 581-590"
+        },
+        {
+          "authors": "Liu J, Zhang K, Pang G, et al.",
+          "title": "Robust stabilisation for constrained discrete-time switched positive linear systems with uncertainties",
+          "journal": "IET Control Theory & Applications",
+          "year": "2015",
+          "details": "9(17):2598-2605"
+        },
+        {
+          "authors": "Pang G, Zhang K",
+          "title": "Stability of time-delay system with time-varying uncertainties via homogeneous polynomial Lyapunov-Krasovskii functions",
+          "journal": "International Journal of Automation and Computing",
+          "year": "2015",
+          "details": "12(6):657-663"
+        },
+        {
+          "authors": "Wu X, Zhang K, Sun C",
+          "title": "Constrained optimal control of switched systems and its application",
+          "journal": "Optimization",
+          "year": "2015",
+          "details": "64(3): 539-557"
+        },
+        {
+          "authors": "Cheng K, Fei S, Zhang K, et al.",
+          "title": "Temporal Difference-Based Policy Iteration for Optimal Control of Stochastic Systems",
+          "journal": "Journal of Optimization Theory & Applications",
+          "year": "2014",
+          "details": "163(1):165-180"
+        },
+        {
+          "authors": "Wu X, Zhang K, Sun C",
+          "title": "Numerical algorithm for a class of constrained optimal control problems of switched systems",
+          "journal": "Numerical Algorithms",
+          "year": "2014",
+          "details": "67(4): 771-792"
+        },
+        {
+          "authors": "Liu X, Zhang K, Li S, et al.",
+          "title": "Optimal timing control of discrete-time linear switched stochastic systems",
+          "journal": "International Journal of Control Automation & Systems",
+          "year": "2014",
+          "details": "12(4):769-776"
+        },
+        {
+          "authors": "Liu X, Zhang K, Li S, et al.",
+          "title": "Time optimisation problem for switched stochastic systems with multi-switching times",
+          "journal": "IET Control Theory & Applications",
+          "year": "2014",
+          "details": "8(16): 1732-1740"
+        },
+        {
+          "authors": "Wu X, Zhang K, Sun C",
+          "title": "Optimal scheduling of multiple sensors in continuous time",
+          "journal": "ISA transactions",
+          "year": "2014",
+          "details": "53(3): 793-801"
+        },
+        {
+          "authors": "Wu X, Zhang K, Sun C",
+          "title": "Constrained optimal control of switched systems based on modified BFGS algorithm and filled function method",
+          "journal": "International Journal of Computer Mathematics",
+          "year": "2014",
+          "details": "91(8): 1713-1729"
+        },
+        {
+          "authors": "Wu X, Zhang K, Sun C",
+          "title": "Parameter Tuning of Multi-Proportional-Integral-Derivative Controllers Based on Optimal Switching Algorithms",
+          "journal": "Journal of Optimization Theory & Applications",
+          "year": "2013",
+          "details": "159(2):454-472"
+        },
+        {
+          "authors": "Wu X, Zhang K, Sun C",
+          "title": "Optimal control of switched systems with an inequality constraint based on smooth penalty function method",
+          "journal": "Sensor Letters",
+          "year": "2013",
+          "details": "11(5): 945-952"
+        },
+        {
+          "authors": "Cheng K, Zhang K",
+          "title": "Potentials based optimization with embedded Markov chain for stochastic constrained system",
+          "journal": "Nonlinear Dynamics",
+          "year": "2012",
+          "details": "67(2): 1067-1073"
+        },
+        {
+          "authors": "Yu J, Zhang K, Fei S, et al.",
+          "title": "Robust fuzzy control of nonlinear stochastic delay systems with impulsive effects",
+          "journal": "International Journal of Systems Science",
+          "year": "2010",
+          "details": "41(10):1163-1172"
+        },
+        {
+          "authors": "Yu J, Zhang K, Fei S",
+          "title": "Exponential stability criteria for discrete-time recurrent neural networks with time-varying delay",
+          "journal": "Nonlinear Analysis Real World Applications",
+          "year": "2010",
+          "details": "11(1):207-216"
+        },
+        {
+          "authors": "Yu J, Zhang K, Fei S",
+          "title": "Further results on mean square exponential stability of uncertain stochastic delayed neural networks",
+          "journal": "Communications in Nonlinear Science & Numerical Simulations",
+          "year": "2009",
+          "details": "14(4):1582-1589"
+        },
+        {
+          "authors": "Yu J, Zhang K, Fei S",
+          "title": "Mean square exponential stability of generalized stochastic neural networks with time-varying delays",
+          "journal": "Asian Journal of Control",
+          "year": "2009",
+          "details": "11(6):633-642"
+        },
+        {
+          "authors": "Zhang K, Xu Y, Chen X, Cao X",
+          "title": "Policy iteration based feedback control",
+          "journal": "Automatica",
+          "year": "2008",
+          "details": "44(4): 1055-1061"
+        },
+        {
+          "authors": "Yu J, Zhang K, Fei S, et al.",
+          "title": "Simplified exponential stability analysis for recurrent neural networks with discrete and distributed time-varying delays",
+          "journal": "Applied Mathematics & Computation",
+          "year": "2008",
+          "details": "205(1):465-474"
+        },
+        {
+          "authors": "Yu J, Zhang K, Fei S",
+          "title": "Adaptive Fuzzy Tracking Control of a Class of Stochastic Nonlinear Systems with Unknown Dead-Zone Input",
+          "journal": "International Journal of Fuzzy Systems",
+          "year": "2008",
+          "details": "10(1)"
+        },
+        {
+          "authors": "Fang S, Chen X, Zhang K, Wei H, Ge J",
+          "title": "The antarctic astronomical observations intelligent support equipment Dome A site-testing observatory: Electric power generation and control systems",
+          "journal": "Energies",
+          "year": "2020",
+          "details": "13(17)"
+        },
+        {
+          "authors": "Zhao X, Wei H, Li C, Zhang K",
+          "title": "A Hybrid Nonlinear Forecasting Strategy for Short-Term Wind Speed",
+          "journal": "Energies",
+          "year": "2020",
+          "details": "13(7)"
+        },
+        {
+          "authors": "Liu T, Wei H, Liu S, Zhang K",
+          "title": "Industrial time series forecasting based on improved Gaussian process regression",
+          "journal": "Soft Computing",
+          "year": "2020",
+          "details": "24(20):15853-15869"
+        },
+        {
+          "authors": "Wu X, Zhang K, Cheng M",
+          "title": "Sensitivity analysis for an optimal control problem of chemical processes based on a smoothing cost penalty function approach",
+          "journal": "Chemical Engineering Research and Design",
+          "year": "2019"
+        },
+        {
+          "authors": "Wu X, Zhang K, Xin X, et al.",
+          "title": "Fuel-optimal control for soft lunar landing based on a quadratic regularization approach",
+          "journal": "European Journal of Control",
+          "year": "2019"
+        },
+        {
+          "authors": "Zhao X, Wei H, Wang X, Zhu T, Zhang K",
+          "title": "3D-CNN-based feature extraction of ground-based cloud images for direct normal irradiance prediction",
+          "journal": "Solar Energy",
+          "year": "2019",
+          "details": "181: 510-518"
+        },
+        {
+          "authors": "Yang J, Zhao X, Wei H, Zhang K",
+          "title": "Sample Selection Based on Active Learning for Short-Term Wind Speed Prediction",
+          "journal": "Energies",
+          "year": "2019",
+          "details": "12(3): 337"
+        },
+        {
+          "authors": "Wu X, Zhang K, Cheng M",
+          "title": "Adaptive Numerical Approach for Optimal Control of a Single Train",
+          "journal": "Journal of Systems Science and Complexity",
+          "year": "2019",
+          "details": "32(4):1053-1071"
+        },
+        {
+          "authors": "Zhu T, Zhou H, Wei H, Zhao X, Zhang K, Zhang J",
+          "title": "Inter-hour direct normal irradiance forecast with multiple data types and time-series",
+          "journal": "Journal of Modern Power Systems and Clean Energy",
+          "year": "2019",
+          "details": "7(5):1319-1327"
+        },
+        {
+          "authors": "Zhu T, Xie L, Wei H, Wang H, Zhao X, Zhang K",
+          "title": "Clear-sky direct normal irradiance estimation based on adjustable inputs and error correction",
+          "journal": "Journal of Renewable and Sustainable Energy",
+          "year": "2019",
+          "details": "11(5)"
+        },
+        {
+          "authors": "Xie L, Zhao J, Wei H, Zhang K, Pang G",
+          "title": "Online Kernel-Based Structured Output SVM for Early Expression Detection",
+          "journal": "IEEE Signal Processing Letters",
+          "year": "2020",
+          "details": "26(9): 1305-1309"
+        },
+        {
+          "authors": "Wu X, Lin J, Zhang K, et al.",
+          "title": "Optimal impulsive control for advertising strategy problems based on a gradient-based PSO algorithm",
+          "journal": "Transactions of the Institute of Measurement and Control",
+          "year": "2018",
+          "details": "0142331218798671"
+        },
+        {
+          "authors": "Wu X, Lin J, Zhang K, et al.",
+          "title": "A switched dynamical system approach towards the optimal control of chemical processes based on a gradient-based parallel optimization algorithm",
+          "journal": "Computers & Chemical Engineering",
+          "year": "2018",
+          "details": "118: 180-194"
+        },
+        {
+          "authors": "Wu X, Zhang K, Cheng M, et al.",
+          "title": "A switched dynamical system approach towards the economic dispatch of renewable hybrid power systems",
+          "journal": "International Journal of Electrical Power & Energy Systems",
+          "year": "2018",
+          "details": "103: 440-457"
+        },
+        {
+          "authors": "Wu X, Zhang K, Cheng M",
+          "title": "Optimal control of constrained switched systems and application to electrical vehicle energy management",
+          "journal": "Nonlinear Analysis: Hybrid Systems",
+          "year": "2018",
+          "details": "30: 171-188"
+        },
+        {
+          "authors": "Wu X, Zhang K, Cheng M",
+          "title": "Optimal control of bioprocess systems using hybrid numerical optimization algorithms",
+          "journal": "Optimization",
+          "year": "2018",
+          "details": "1-20"
+        },
+        {
+          "authors": "Liu T, Wei H, Zhang K",
+          "title": "Wind power prediction with missing data using Gaussian process regression and multiple imputation",
+          "journal": "Applied Soft Computing",
+          "year": "2018",
+          "details": "71: 905-916"
+        },
+        {
+          "authors": "Wu X, Liu Q, Zhang K, et al.",
+          "title": "Optimal switching control for drug therapy process in cancer chemotherapy",
+          "journal": "European Journal of Control",
+          "year": "2018",
+          "details": "42: 49-58"
+        },
+        {
+          "authors": "Wu X, Liu Q, Zhang K, et al.",
+          "title": "Optimal-tuning of proportional-integral-derivative-like controller for constrained nonlinear systems and application to ship steering control",
+          "journal": "Journal of the Franklin Institute",
+          "year": "2018"
+        },
+        {
+          "authors": "Guo W, Zhao J, Zhang J, Wei H, Song A, Zhang K",
+          "title": "Stability analysis of opposite singularity in multilayer perceptrons",
+          "journal": "Neurocomputing",
+          "year": "2018",
+          "details": "282: 192-201"
+        },
+        {
+          "authors": "Zhang J, Fang S, Ehinger K A, Wei H, Yang W, Zhang K, Yang J",
+          "title": "Hypergraph Optimization for Salient Region Detection Based on Foreground and Background Queries",
+          "journal": "IEEE Access",
+          "year": "2018"
+        },
+        {
+          "authors": "Zhang J, Fang S, Zhao H, Liu G, Wei H, Chen L, Zhang K",
+          "title": "Multiple Gestalt principles-based graph for salient region detection",
+          "journal": "Journal of Electronic Imaging",
+          "year": "2018",
+          "details": "27(5): 051227"
+        },
+        {
+          "authors": "Wu X, Zhang K, Cheng M",
+          "title": "Computational method for optimal control of switched systems with input and state constraints",
+          "journal": "Nonlinear Analysis: Hybrid Systems",
+          "year": "2017",
+          "details": "26: 1-18"
+        },
+        {
+          "authors": "Wu X, Zhang K, Cheng M",
+          "title": "Computational method for optimal machine scheduling problem with maintenance and production",
+          "journal": "International Journal of Production Research",
+          "year": "2017",
+          "details": "55(6): 1791-1814"
+        },
+        {
+          "authors": "Wu X, Lei B, Zhang K, et al.",
+          "title": "Hybrid stochastic optimization method for optimal control problems of chemical processes",
+          "journal": "Chemical Engineering Research and Design",
+          "year": "2017",
+          "details": "126: 297-310"
+        },
+        {
+          "authors": "Liu T, Wei H, Zhang C, Zhang K",
+          "title": "Time series forecasting based on wavelet decomposition and feature extraction",
+          "journal": "Neural Computing & Applications",
+          "year": "2017",
+          "details": "28(1):183-195"
+        },
+        {
+          "authors": "Zhu T, Wei H, Zhao X, Zhang C, Zhang K",
+          "title": "Clear-sky model for wavelet forecast of direct normal irradiance",
+          "journal": "Renewable Energy",
+          "year": "2017",
+          "details": "104:1-8"
+        },
+        {
+          "authors": "Zhang J, Ehinger K A, Wei H, Zhang K, Yang J",
+          "title": "A novel graph-based optimization framework for salient object detection",
+          "journal": "Pattern Recognition",
+          "year": "2017",
+          "details": "64:39-50"
+        },
+        {
+          "authors": "Xie L, Wei H, Zhao J, Zhang K",
+          "title": "Automatic feature extraction based structure decomposition method for multi-classification",
+          "journal": "Neurocomputing",
+          "year": "2016",
+          "details": "173(P3):744-750"
+        },
+        {
+          "authors": "Zhang C, Wei H, Zhao X, Liu T, Zhang K",
+          "title": "A Gaussian process regression based hybrid approach for short-term wind speed prediction",
+          "journal": "Energy Conversion & Management",
+          "year": "2016",
+          "details": "126:1084-1092"
+        },
+        {
+          "authors": "Zhang C, Wei H, Xie L, Shen Y, Zhang K",
+          "title": "Direct interval forecasting of wind speed using radial basis function neural networks in a multi-objective optimization framework",
+          "journal": "Neurocomputing",
+          "year": "2016",
+          "details": "205: 53-63"
+        },
+        {
+          "authors": "Zhang C, Wei H, Zhao J, Liu T, Zhu T, Zhang K",
+          "title": "Short-term wind speed forecasting using empirical mode decomposition and feature selection",
+          "journal": "Renewable Energy",
+          "year": "2016",
+          "details": "96:727-737"
+        },
+        {
+          "authors": "Xie L, Wei H, Zhang K",
+          "title": "Behavioral modeling of nonlinear RF power amplifiers using ensemble SDBCC network",
+          "journal": "Neurocomputing",
+          "year": "2015",
+          "details": "154: 24-32"
+        },
+        {
+          "authors": "Guo W, Wei H, Zhao J, Zhang K",
+          "title": "Theoretical and numerical analysis of learning dynamics near singularity in multilayer perceptrons",
+          "journal": "Neurocomputing",
+          "year": "2015",
+          "details": "151:390-400"
+        },
+        {
+          "authors": "Li S, Liu X, Tan Y, Ding Y, Liu X, Zhang K",
+          "title": "Optimal Switching Time Control of Discrete-Time Switched Autonomous Systems",
+          "journal": "International Journal of Innovative Computing Information & Control",
+          "year": "2015",
+          "details": "11(6):2043-2050"
+        },
+        {
+          "authors": "Zhao J, Wei H, Zhang C, Li W, Guo W, Zhang K",
+          "title": "Natural Gradient Learning Algorithms for RBF Networks",
+          "journal": "Neural Computation",
+          "year": "2015",
+          "details": "27(2):481-505"
+        },
+        {
+          "authors": "Chen Y, Fei S, Zhang K",
+          "title": "Stabilisation for switched linear systems with time-varying delay and input saturation",
+          "journal": "International Journal of Systems Science",
+          "year": "2014",
+          "details": "45(3):532-546"
+        },
+        {
+          "authors": "Guo W, Wei H, Zhao J, Zhang K",
+          "title": "Averaged learning equations of error-function-based multilayer perceptrons",
+          "journal": "Neural Computing & Applications",
+          "year": "2014",
+          "details": "25(3-4):825-832"
+        },
+        {
+          "authors": "Zhao J, Wei H, Guo W, Zhang K",
+          "title": "Singularities in the identification of dynamic systems",
+          "journal": "Neurocomputing",
+          "year": "2014",
+          "details": "140(3):339-344"
+        },
+        {
+          "authors": "Chen Y, Fei S, Zhang K",
+          "title": "Stability analysis for discrete-time switched linear singular systems: average dwell time approach",
+          "journal": "Ima Journal of Mathematical Control & Information",
+          "year": "2013",
+          "details": "30(2):239-249"
+        },
+        {
+          "authors": "Chen Y, Zhang K, Fei S",
+          "title": "Improved asymptotic stability conditions for neural networks with discrete and distributed delays",
+          "journal": "International Journal of Computer Mathematics",
+          "year": "2012",
+          "details": "89(15):1938-1951"
+        },
+        {
+          "authors": "Chen Y, Fei S, Zhang K, et al.",
+          "title": "Control Synthesis of Discrete-Time Switched Linear Systems with Input Saturation Based on Minimum Dwell Time Approach",
+          "journal": "Circuits Systems & Signal Processing",
+          "year": "2012",
+          "details": "31(2):779-795"
+        },
+        {
+          "authors": "Chen Y, Fei S, Zhang K",
+          "title": "Stabilization of impulsive switched linear systems with saturated control input",
+          "journal": "Nonlinear Dynamics",
+          "year": "2012",
+          "details": "69(3):793-804"
+        },
+        {
+          "authors": "Chen Y, Fei S, Zhang K, et al.",
+          "title": "Control of switched linear systems with actuator saturation and its applications",
+          "journal": "Mathematical & Computer Modelling",
+          "year": "2012",
+          "details": "56(1-2):14-26"
+        },
+        {
+          "authors": "Zhu Q, Zhang T, Fei S, Zhang K, et al.",
+          "title": "Adaptive neural control for a class of output feedback time delay nonlinear systems",
+          "journal": "Neurocomputing",
+          "year": "2009",
+          "details": "72(7):1985-1992"
+        },
+        {
+          "authors": "Li T, Fei S, Zhang K",
+          "title": "Synchronization control of recurrent neural networks with distributed delays",
+          "journal": "Physica A Statistical Mechanics & Its Applications",
+          "year": "2008",
+          "details": "387(4):982-996"
+        },
+        {
+          "authors": "Ma L, Da F, Zhang K",
+          "title": "Exponential H infinity Filter Design for Discrete Time-Delay Stochastic Systems With Markovian Jump Parameters and Missing Measurements",
+          "journal": "IEEE Transactions on Circuits and Systems I: Regular Papers",
+          "year": "2011",
+          "details": "58(5):994-1007"
+        },
+        {
+          "authors": "A. P. Wang, L. Guo, H. Wang, Zhang K, et al.",
+          "title": "Data Driven Prognosis and Health Maintenance for Complex Industrial Processes with Production Optimization and Energy Savings",
+          "journal": "Measurement and Control: Journal of the Institute of Measurement and Control",
+          "year": "2010",
+          "details": "43(4):120-123"
+        },
+        {
+          "authors": "Guo W, Wei, H, Ong Y, Hervas J, Zhao, J, Wang H, Zhang K",
+          "title": "Numerical Analysis near Singularities in RBF Networks",
+          "journal": "Journal of Machine Learning Research",
+          "year": "2018",
+          "details": "19(1):1-39"
+        }
+      ],
+      "conference_papers": [
+        {
+          "authors": "Chen X, Liu Y, Shen Y, Zhang K and Wei H",
+          "title": "A data interpolation method for missing irradiance data of photovoltaic power station",
+          "conference": "The China Automation Congress, CAC 2020",
+          "year": "2020"
+        },
+        {
+          "authors": "He Z, Xie L, Hua B, Zhang K, Wei H",
+          "title": "Joint detection of smoke and flame in Photovoltaic System based on deep learning",
+          "conference": "The China Automation Congress, CAC 2020",
+          "year": "2020"
+        },
+        {
+          "authors": "Wang Z, Wei H, Zhang K, Xie L",
+          "title": "Real Walking in Place: HEX-CORE-PROTOTYPE Omnidirectional Treadmill",
+          "conference": "2020 IEEE Conference on Virtual Reality and 3D User Interfaces, VR 2020",
+          "year": "2020"
+        },
+        {
+          "authors": "Wang Z, Xie L, Wei H, Zhang K, Zhang J",
+          "title": "Omnidirectional Motion Input: The Basis of Natural Interaction in Room-Scale Virtual Reality",
+          "conference": "2020 IEEE Conference on Virtual Reality and 3D User Interfaces, VRW 2020",
+          "year": "2020"
+        },
+        {
+          "authors": "Hua B, Zhang K, Wei H, Zhang J, Xie L",
+          "title": "A Multilevel Fire Detection Platform Based on Multi-Source Heterogeneous Information Fusion",
+          "conference": "Proceedings - 2020 International Conference on Pattern Recognition and Intelligent Systems, PRIS 2020",
+          "year": "2020"
+        },
+        {
+          "authors": "Shen Y, Chen X, Zhang J, Xie L, Zhang K and Wei H",
+          "title": "A Robust Automatic Method for Removing Projective Distortion of Photovoltaic Modules from Close Shot Images",
+          "conference": "Pattern Recognition and Computer Vision - 3rd Chinese Conference, PRCV 2020, Proceedings",
+          "year": "2020"
+        },
+        {
+          "authors": "Dou W，Shan S, Zhang N, Zhang J, Zhang K and Wei H",
+          "title": "An Unsupervised Multi-scale Micro-crack Segmentation Scheme for Multicrystalline Solar Cells",
+          "conference": "2020 International Conference on System Science and Engineering, ICSSE 2020",
+          "year": "August 2020"
+        },
+        {
+          "authors": "Liu W, Zhang J, Wei H, Zhang K, Fang S, Xie L and Ge J",
+          "title": "Short-term PV power prediction considering the influence of aerosol",
+          "conference": "2020 6th International Conference on Energy, Environment and Materials Science",
+          "year": "2020"
+        },
+        {
+          "authors": "Xin X, Zhang K, Wei H",
+          "title": "Linear Strong Structural Controllability for an n-Link Inverted Pendulum in a Cart",
+          "conference": "2018 IEEE Conference on Decision and Control (CDC)",
+          "year": "2018",
+          "details": "1204-1209"
+        },
+        {
+          "authors": "Shen Y, Wei H, Zhu T, Zhao X, Zhang K",
+          "title": "A Data-driven Clear Sky Model for Direct Normal Irradiance",
+          "conference": "Journal of Physics: Conference Series. IOP Publishing",
+          "year": "2018",
+          "details": "1072(1): 012004"
+        },
+        {
+          "authors": "Zhao X, Wei H, Shen Y, Zhang K",
+          "title": "Real-time Clear-sky Model and Cloud Cover for Direct Normal Irradiance Prediction",
+          "conference": "Journal of Physics: Conference Series. IOP Publishing",
+          "year": "2018",
+          "details": "1072(1): 012003"
+        },
+        {
+          "authors": "Xin X, Ono M, Izumi S, Yamasaki T, Zhang K",
+          "title": "Angular Momentum based Stabilizing Control of Underactuated Multi-Link Planar Robots with Last Active Joint",
+          "conference": "2018 Annual American Control Conference (ACC)",
+          "year": "2018",
+          "details": "1939-1944"
+        },
+        {
+          "authors": "Shen Y, Wei H, Zhao X, Zhu T, Zhang K",
+          "title": "A tree-based clear sky model for DNI forecasting",
+          "conference": "2018 Chinese Control And Decision Conference (CCDC)",
+          "year": "2018",
+          "details": "4206-4211"
+        },
+        {
+          "authors": "Xiang W, Liu Q, Lei B, Zhang K",
+          "title": "A gradient-based stochastic search approach for optimal harvesting strategy in shrimp culture",
+          "conference": "Chinese Control Conference",
+          "year": "2017",
+          "details": "2513-2518"
+        },
+        {
+          "authors": "Guo W, Wei H, Liu T, Song A, Zhang K",
+          "title": "An adaptive natural gradient method with adaptive step size in multilayer perceptrons",
+          "conference": "Chinese Automation Congress (CAC)",
+          "year": "2017",
+          "details": "1593-1597"
+        },
+        {
+          "authors": "Li C, Zhu C, Zhang K, et al.",
+          "title": "Fault diagnosis algorithm for storage and transportation equipment based on fault tree",
+          "conference": "Chinese Control and Decision Conference",
+          "year": "2017",
+          "details": "4692-4697"
+        },
+        {
+          "authors": "Zhao X, Wei H, Zhang C, Zhang K",
+          "title": "Selective sampling using active learning for short-term wind speed prediction",
+          "conference": "Chinese Control and Decision Conference",
+          "year": "2017",
+          "details": "6717-6720"
+        },
+        {
+          "authors": "Zhu C, Li C, Zhang K, et al.",
+          "title": "Fault tolerant control for a general class of nonholonomic dynamic systems via terminal sliding mode",
+          "conference": "Chinese Control and Decision Conference",
+          "year": "2017",
+          "details": "7378-7383"
+        },
+        {
+          "authors": "Liu T, Wei H, Zhang C, Zhang K",
+          "title": "Mutual Information with Parameter Determination Approach for Feature Selection in Multivariate Time Series Prediction",
+          "conference": "International Conference on Engineering Applications of Neural Networks",
+          "year": "2016",
+          "details": "227-237"
+        },
+        {
+          "authors": "Liu T, Wei H, Zhang K, et al.",
+          "title": "Mutual information based feature selection for multivariate time series forecasting",
+          "conference": "Chinese Control Conference",
+          "year": "2016",
+          "details": "7110-7114"
+        },
+        {
+          "authors": "Zhu T, Wei H, Zhao X, Zhang K",
+          "title": "A method of cloud classification based on DNI",
+          "conference": "Chinese Control Conference",
+          "year": "2016",
+          "details": "4155-4160"
+        },
+        {
+          "authors": "Pang G, Zhang K, Sun W",
+          "title": "On homogeneous parameter dependent quadratic Lyapunov function for robust H∞ noise-attenuation in switched linear discrete-time system with polytopic uncertainties",
+          "conference": "Asian Control Conference",
+          "year": "2015",
+          "details": "1-6"
+        },
+        {
+          "authors": "Zhang C, Wei H, Liu T, Zhu T, Zhang K",
+          "title": "Short-Term Wind Speed Forecasting Using a Multi-model Ensemble",
+          "conference": "International Symposium on Neural Networks",
+          "year": "2015",
+          "details": "398-406"
+        },
+        {
+          "authors": "Cheng K, Zhang K, Fei S, et al.",
+          "title": "Potential based policy gradient optimization algorithm for a class of stochastic nonlinear systems",
+          "conference": "Chinese Control Conference",
+          "year": "2015",
+          "details": "2496-2500"
+        },
+        {
+          "authors": "Zhu T, Wei H, Zhang C, Zhang K",
+          "title": "A local threshold algorithm for cloud detection on ground-based cloud images",
+          "conference": "Chinese Control Conference",
+          "year": "2015",
+          "details": "3702-3706"
+        },
+        {
+          "authors": "Zhang C, Wei H, Zhu T, Zhang K, et al.",
+          "title": "Comparison of two multi-step ahead forecasting mechanisms for wind speed based on machine learning models",
+          "conference": "Chinese Control Conference",
+          "year": "2015",
+          "details": "8183-8187"
+        },
+        {
+          "authors": "Wu X, Zhang K, Sun C, et al.",
+          "title": "Computational method for constrained optimal control of switched affine systems",
+          "conference": "International Conference on Information Science, Electronics and Electrical Engineering",
+          "year": "2014",
+          "details": "1: 195-199"
+        },
+        {
+          "authors": "Liu J, Zhang K, Wei H",
+          "title": "Controller synthesis for switched positive linear systems",
+          "conference": "International Conference on Information Science, Electronics and Electrical Engineering",
+          "year": "2014",
+          "details": "1445-1449"
+        },
+        {
+          "authors": "Pang G, Zhang K, Zhang H",
+          "title": "Estimation of stability regions for linear systems subjected to actuator saturation and disturbance via homogeneous parameter-dependent quadratic Lyapunov functions",
+          "conference": "Chinese Control Conference",
+          "year": "2014",
+          "details": "5961-5966"
+        },
+        {
+          "authors": "Liu J, Zhang K, Liu X, et al.",
+          "title": "Sensitivity analysis of optimal control problems for switched systems",
+          "conference": "Chinese Control and Decision Conference",
+          "year": "2014",
+          "details": "3156-3161"
+        },
+        {
+          "authors": "Liu X, Zhang K, Li S, et al.",
+          "title": "Delay-dependent H∞ control for Lurie type singular time-delay systems",
+          "conference": "Chinese Control and Decision Conference",
+          "year": "2014",
+          "details": "39-43"
+        },
+        {
+          "authors": "Zhang H, Pang G, Zhang K",
+          "title": "Robust stability of linear systems with interval time-varying delay via HPLKFs",
+          "conference": "Chinese Control Conference",
+          "year": "2014",
+          "details": "5967-5972"
+        },
+        {
+          "authors": "Liu X, Li S, Zhang K, et al.",
+          "title": "State feedback predictive control based on T-S fuzzy model and state estimator",
+          "conference": "Chinese Control and Decision Conference",
+          "year": "2014",
+          "details": "5133-5136"
+        },
+        {
+          "authors": "Zhao J, Wei H, Guo W, Zhang K",
+          "title": "Singularities in the parameter identification of nonlinear dynamic systems",
+          "conference": "Chinese Control Conference",
+          "year": "2014",
+          "details": "6610-6614"
+        },
+        {
+          "authors": "Xie L, Wei H, Yang W, Zhang K",
+          "title": "Video-based facial expression recognition using histogram sequence of local Gabor binary patterns from three orthogonal planes",
+          "conference": "Chinese Control Conference",
+          "year": "2014",
+          "details": "4772-4776"
+        },
+        {
+          "authors": "Cheng K, Zhang K, Fei S, et al.",
+          "title": "Potential based policy gradient approach for optimal control of the stochastic system with unknown noise",
+          "conference": "Chinese Control Conference",
+          "year": "2013",
+          "details": "2362-2366"
+        },
+        {
+          "authors": "Liu J, Zhang K, Sun C, et al.",
+          "title": "Second order transition-time optimization for switched dynamical systems",
+          "conference": "Chinese Control Conference",
+          "year": "2013",
+          "details": "2382-2386"
+        },
+        {
+          "authors": "Guo W, Wei H, Zhao J, Zhang K",
+          "title": "Numerical analysis of the RBF networks near singularities",
+          "conference": "Chinese Control Conference",
+          "year": "2013",
+          "details": "3344-3347"
+        },
+        {
+          "authors": "Liu X, Zhang K, Cheng K, et al.",
+          "title": "Optimal impulsive control of delay systems based on partial information",
+          "conference": "Chinese Control Conference",
+          "year": "2012",
+          "details": "2224-2227"
+        },
+        {
+          "authors": "Chen Y, Xin Y, Fei S, Zhang K",
+          "title": "Stabilization and L 2-gain control for switched linear systems with actuator saturation",
+          "conference": "Chinese Control Conference",
+          "year": "2012",
+          "details": "2140-2145"
+        },
+        {
+          "authors": "Guo W, Wei H, Zhao J, Li W, Zhang K",
+          "title": "Application of the error function in analyzing the learning dynamics near singularities of the multilayer perceptrons",
+          "conference": "Chinese Control Conference",
+          "year": "2012",
+          "details": "3240-3243"
+        },
+        {
+          "authors": "Yu J, Zhang K, Fei S",
+          "title": "New delay-dependent stability criteria for linear stochastic systems with time-varying delay",
+          "conference": "Chinese Decision and Control",
+          "year": "2009",
+          "details": "7175-7179"
+        },
+        {
+          "authors": "Yu J, Zhang K, Fei S, et al.",
+          "title": "Further delay-range-dependent robust stability analysis for time-delay systems",
+          "conference": "Chinese Control Conference",
+          "year": "2008",
+          "details": "110 - 114"
+        }
+      ]
+    },
+    "site_chrome": {
+      "crawl_source": "http://automation.seu.edu.cn/zkj/list.htm",
+      "image_placeholder_1": "https://automation.seu.edu.cn/zkj/list.htm",
+      "visit_counter_image_url": "https://automation.seu.edu.cn/_visitcount?siteId=338&type=2&columnId=32743"
+    }
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "meta": {
+    "tutor_name_cn": "李猛",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1161/4380.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1161/4380.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/af1476458aa36797f35fcacf2a3f20c387584c46e1e1b484ee812270235049e9.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "query_name": "李猛",
+    "source_url": "https://www.auto.uestc.edu.cn/info/1161/4380.htm",
+    "target_person_name": "李猛",
+    "profile_image_url": "https://www.auto.uestc.edu.cn/__local/5/CC/89/AC08FF9BD4BF9BE81C48A1345B7_6D50E55B_34A0.jpg",
+    "basic_info": {
+      "highest_degree": "博士",
+      "contact_phone": null,
+      "title_position": "副研究员",
+      "email": "mengli_xzq@uestc.edu.cn",
+      "supervisor_status": "硕士导师",
+      "personal_homepage": null,
+      "research_team": "电力电子与先进控制中心"
+    },
+    "main_research_directions": [
+      "网络化控制系统(NCSs)",
+      "信息物理融合系统(CPSs)",
+      "鲁棒控制",
+      "最优控制"
+    ],
+    "academic_titles_and_affiliations": {
+      "editorial_roles": [
+        {
+          "journal": "Electronics",
+          "role": "编委"
+        },
+        {
+          "journal": "Mathematical Problems in Engineering",
+          "role": "编委"
+        }
+      ],
+      "reviewer_roles": [
+        {
+          "journal": "TII",
+          "role": "审稿人"
+        },
+        {
+          "journal": "TSG",
+          "role": "审稿人"
+        },
+        {
+          "journal": "TSMC",
+          "role": "审稿人"
+        },
+        {
+          "journal": "TPS",
+          "role": "审稿人"
+        },
+        {
+          "journal": "Information Sciences",
+          "role": "审稿人"
+        }
+      ],
+      "reviewer_awards": [
+        "多次被International Journal of Robust and Nonlinear Control期刊评为优秀审稿人"
+      ]
+    },
+    "experience": [
+      {
+        "start_date": "2024.01",
+        "end_date": "至今",
+        "institution": "电子科技大学",
+        "position": "副研究员",
+        "type": "工作"
+      },
+      {
+        "start_date": "2020.09",
+        "end_date": "2023.12",
+        "institution": "电子科技大学",
+        "position": "特聘副研究员",
+        "type": "工作"
+      },
+      {
+        "start_date": "2019.01",
+        "end_date": "2020.08",
+        "institution": "电子科技大学",
+        "position": "博士后",
+        "type": "工作"
+      },
+      {
+        "start_date": "2017.11",
+        "end_date": "2018.11",
+        "institution": "澳大利亚阿德莱德大学",
+        "position": "博士联合培养",
+        "type": "教育"
+      },
+      {
+        "start_date": "2015.09",
+        "end_date": "2018.12",
+        "institution": "电子科技大学",
+        "position": "博士",
+        "type": "教育"
+      }
+    ],
+    "scientific_research_summary": {
+      "overview": "主要从事网联系统的控制及其应用研究，针对网络化控制系统中的通信约束及黑客攻击等关键科学问题，开展了通信约束补偿及攻击防御等研究，并用在了网联车、智能电网和远程伺服系统中。",
+      "publications": {
+        "sci_papers_first_or_corresponding_author": "40余篇",
+        "ieee_transaction_papers": "20余篇",
+        "esi_highly_cited_papers": "1篇（1%）",
+        "monographs": [
+          {
+            "title": null,
+            "publisher": "Springer",
+            "count": 2,
+            "language": "英文"
+          }
+        ]
+      },
+      "patents": {
+        "invention_patents_authorized": "10余项"
+      },
+      "awards": [
+        "四川省科技进步二等奖1项"
+      ],
+      "projects": {
+        "count": "30余项",
+        "details": [
+          "国家重点研发计划 政府间国际科技创新合作项目",
+          "国家自然基金",
+          "四川省重点研发",
+          "中国博士后科学基金",
+          "医工交叉项目"
+        ]
+      }
+    },
+    "taught_courses": {
+      "undergraduate_courses": [
+        "自动控制原理",
+        "现代控制理论"
+      ],
+      "postgraduate_courses": [
+        "自适应控制及应用",
+        "创新实践课程"
+      ]
+    },
+    "admission_disciplines": {
+      "masters_programs": [
+        "081100控制科学与工程",
+        "085400电子信息"
+      ],
+      "doctoral_programs": []
+    },
+    "site_chrome": {
+      "source_comment": "抓取来源：https://www.auto.uestc.edu.cn/info/1161/4380.htm",
+      "breadcrumbs": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "L",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/L.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "navigation_links": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ]
+    }
+  }
+}

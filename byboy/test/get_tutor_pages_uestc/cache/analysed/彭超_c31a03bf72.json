@@ -1,0 +1,150 @@
+{
+  "meta": {
+    "tutor_name_cn": "彭超",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1165/4456.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1165/4456.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/1d85dd9c051cbd8a8d9e90def0d0cc85f7f4ace7d3693aacadb695a69356918b.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": "内容包含导师的学位、职务、邮箱、研究方向、学术兼职、工作经历、科研成果及招生专业等丰富信息。"
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "site_chrome": {
+      "source_url": "https://www.auto.uestc.edu.cn/info/1165/4456.htm",
+      "breadcrumbs": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "P",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/P.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "navigation_links": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ],
+      "page_titles": [
+        "师资队伍",
+        "师资队伍"
+      ]
+    },
+    "mentor_info": {
+      "name": "彭超",
+      "image_url": "https://www.auto.uestc.edu.cn/__local/D/EB/EC/82709FAE61F5D562E984ED162FD_F4A7999E_30B6.jpg",
+      "highest_degree": "博士",
+      "contact_phone": null,
+      "title_position": "副教授",
+      "email": "pengchao@uestc.edu.cn",
+      "supervisor_status": "硕士导师",
+      "personal_homepage": null,
+      "research_team": "自动化研究所"
+    },
+    "research_directions": [
+      "控制理论和控制工程",
+      "智能信息处理及智能控制",
+      "精密运动控制技术",
+      "新能源系统综合与控制领域"
+    ],
+    "academic_roles_and_affiliations": {
+      "reviewer_for": [
+        "Automatica",
+        "Energy",
+        "IET Control Theory and Applications",
+        "IEEE Transactions on Mechatronic",
+        "International Journal of Robust and Nonlinear Control",
+        "World Congress of the International Federation of Automatic Control",
+        "America Control Conference"
+      ],
+      "academic_appointments": null
+    },
+    "experience": {
+      "education_work_history": [
+        {
+          "start_date": "2007.09",
+          "end_date": "2012.12",
+          "institution": "电子科技大学",
+          "role": "工学博士"
+        },
+        {
+          "start_date": "2013.03",
+          "end_date": "2017.07",
+          "institution": "电子科技大学",
+          "role": "讲师"
+        },
+        {
+          "start_date": "2017.08",
+          "end_date": "至今",
+          "institution": "电子科技大学",
+          "role": "副教授"
+        }
+      ]
+    },
+    "scientific_research": {
+      "publications": "在IEEE/ASME Transactions on Mechatronics、Journal of Process Control、IET Control Theory and Application、Energy、Applied Energy、IEEE Transactions on Energy Conversion、美国控制会议（ACC）、国际自动控制联合会世界大会（IFAC）、控制控制会议等控制、自动化领域高水平期刊和会议上发表SCI/EI论文20余篇。",
+      "awards": [
+        "教育部科技进步二等奖1项"
+      ],
+      "patents": {
+        "applied": "20余项",
+        "authorized": "10余项"
+      },
+      "projects": {
+        "summary": "主持及主研国家自然科学基金项目、国家重点研发计划项目、四川省科技支撑计划项目、四川省国际合作项目以及横向项目二十余项",
+        "details": [
+          "国家自然科学基金项目《多自由度高速大范围纳米定位控制技术及其在基于探针高频振动的硬材料纳米加工中的应用》",
+          "国家自然科学基金项目《风光储联合发电系统中的有功功率控制方法研究》",
+          "国家重点研发计划项目《燃料电池测试系统的总体设计及智能化控制模块设计》",
+          "四川省科技支撑计划项目《车用高性能燃料电池技术开发》",
+          "四川省科技支撑计划项目《电站控制系统信息安全防护技术关键研究与开发》",
+          "横向项目《空间光调制器FPGA技术开发》",
+          "横向项目《手掌静脉识别传感器和静脉纹路图像识别算法研究》"
+        ]
+      }
+    },
+    "teaching": {
+      "undergraduate_courses": [
+        "现场总线技术",
+        "C语言",
+        "自动控制原理实验课",
+        "自动控制原理",
+        "综合（专题）课程设计"
+      ],
+      "postgraduate_courses": [
+        "先进控制技术"
+      ],
+      "teaching_appointments": null,
+      "teaching_research": [
+        "参与教学方法与考核方法改革示范课“自动控制原理”建设"
+      ]
+    },
+    "admission_specialties": {
+      "master_programs": [
+        "081100控制科学与工程",
+        "085400电子信息"
+      ],
+      "doctoral_programs": null
+    }
+  }
+}

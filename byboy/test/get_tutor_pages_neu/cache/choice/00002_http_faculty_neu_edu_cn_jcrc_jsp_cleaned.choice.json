@@ -1,0 +1,14 @@
+{
+  "clickable_links": [
+    {
+      "url": "http://faculty.neu.edu.cn/jcrc.jsp",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "通用URL在教师域下，可能是分类师资列表页",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    }
+  ]
+}

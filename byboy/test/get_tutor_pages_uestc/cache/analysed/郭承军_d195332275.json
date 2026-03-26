@@ -1,0 +1,176 @@
+{
+  "meta": {
+    "tutor_name_cn": "郭承军",
+    "request_url": "https://faculty.uestc.edu.cn/chengjunguo/zh_CN/index.htm",
+    "declared_source_url": "https://faculty.uestc.edu.cn/chengjunguo/zh_CN/index.htm",
+    "page_host": "faculty.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/588469124201379bdad771990ecba1b1e64b28535be4b05d52e856b91d58ac16.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "source_url": "https://faculty.uestc.edu.cn/chengjunguo/zh_CN/index.htm",
+    "target_name_query": "郭承军",
+    "site_chrome": {
+      "header_logo": {
+        "image_url": "https://faculty.uestc.edu.cn/__local/C/77/C5/91C2EAF3AECED944413B063D1D3_336FE1B6_2FA0.png",
+        "link_url": "http://faculty.uestc.edu.cn/"
+      },
+      "navigation_menu": [
+        {
+          "anchor_text": "首页",
+          "url": "https://faculty.uestc.edu.cn/chengjunguo/zh_CN/index/391153/list/index.htm"
+        },
+        {
+          "anchor_text": "其他栏目",
+          "sub_items": [
+            {
+              "anchor_text": "科学研究",
+              "url": "https://faculty.uestc.edu.cn/chengjunguo/zh_CN/zhym/391154/list/index.htm"
+            },
+            {
+              "anchor_text": "科研项目",
+              "url": "https://faculty.uestc.edu.cn/chengjunguo/zh_CN/kyxm/391155/list/index.htm"
+            },
+            {
+              "anchor_text": "著作成果",
+              "url": "https://faculty.uestc.edu.cn/chengjunguo/zh_CN/zzcg/391156/list/index.htm"
+            },
+            {
+              "anchor_text": "专利",
+              "url": "https://faculty.uestc.edu.cn/chengjunguo/zh_CN/zlcg/391157/list/index.htm"
+            },
+            {
+              "anchor_text": "论文成果",
+              "url": "https://faculty.uestc.edu.cn/chengjunguo/zh_CN/lwcg/391158/list/index.htm"
+            },
+            {
+              "anchor_text": "研究领域",
+              "url": "https://faculty.uestc.edu.cn/chengjunguo/zh_CN/yjgk/391159/list/index.htm"
+            },
+            {
+              "anchor_text": "教学研究",
+              "url": "https://faculty.uestc.edu.cn/chengjunguo/zh_CN/zhym/391160/list/index.htm"
+            },
+            {
+              "anchor_text": "教学成果",
+              "url": "https://faculty.uestc.edu.cn/chengjunguo/zh_CN/jxcg/391161/list/index.htm"
+            },
+            {
+              "anchor_text": "授课信息",
+              "url": "https://faculty.uestc.edu.cn/chengjunguo/zh_CN/skxx/391162/list/index.htm"
+            },
+            {
+              "anchor_text": "教学资源",
+              "url": "https://faculty.uestc.edu.cn/chengjunguo/zh_CN/jxzy/391163/list/index.htm"
+            },
+            {
+              "anchor_text": "获奖信息",
+              "url": "https://faculty.uestc.edu.cn/chengjunguo/zh_CN/hjxx/391164/list/index.htm"
+            },
+            {
+              "anchor_text": "招生信息",
+              "url": "https://faculty.uestc.edu.cn/chengjunguo/zh_CN/zsxx/391165/list/index.htm"
+            },
+            {
+              "anchor_text": "学生信息",
+              "url": "https://faculty.uestc.edu.cn/chengjunguo/zh_CN/xsxx/391166/list/index.htm"
+            },
+            {
+              "anchor_text": "我的相册",
+              "url": "https://faculty.uestc.edu.cn/chengjunguo/zh_CN/img/391167/list/index.htm"
+            },
+            {
+              "anchor_text": "教师博客",
+              "url": "https://faculty.uestc.edu.cn/chengjunguo/zh_CN/article/391168/list/index.htm"
+            }
+          ]
+        },
+        {
+          "anchor_text": "语种",
+          "sub_items": [
+            {
+              "anchor_text": "English",
+              "url": "http://faculty.uestc.edu.cn/guochengjun1/en/index.htm"
+            }
+          ]
+        }
+      ],
+      "footer": {
+        "campus_addresses": [
+          "清水河校区：成都市高新区（西区）西源大道2006号　邮编： 611731",
+          "沙河校区：成都市建设北路二段四号　邮编：610054"
+        ],
+        "legal_info": "蜀ICP备 05006379 号   I　川公网安备 51019002000280 号",
+        "mobile_version_link": {
+          "anchor_text": "手机版",
+          "url": null
+        },
+        "university_link": {
+          "anchor_text": "电子科技大学",
+          "url": "http://www.uestc.edu.cn/"
+        }
+      }
+    },
+    "personal_info": {
+      "name": "郭承军",
+      "avatar_image_url": "https://faculty.uestc.edu.cn/__local/E/10/12/EFAC9F79E2387F394A888AF3BBB_5DB60BF3_2BE53.png",
+      "praise_count": 64,
+      "titles": [
+        "副研究员",
+        "硕士生导师"
+      ],
+      "main_position": "院士秘书",
+      "gender": "男",
+      "graduated_from": "电子科技大学",
+      "education_level": "博士研究生毕业",
+      "degree": "工学博士学位",
+      "start_date_at_uestc": "2020-08-06",
+      "discipline": "控制科学与工程",
+      "email": "johnsonguo@uestc.edu.cn",
+      "page_metrics": {
+        "visit_count": 31616,
+        "open_date": "2020.8.13",
+        "last_update_date": "2026.1.30"
+      },
+      "related_links": [
+        {
+          "anchor_text": "同专业硕导",
+          "url": "https://faculty.uestc.edu.cn/chengjunguo/zh_CN/tzysd/391153/list/index.htm"
+        }
+      ]
+    },
+    "biography": {
+      "summary": "院士秘书,国际大地测量协会GNSS干扰与欺骗工作组成员，中国卫星导航年会分会主席，国家综合PNT体系（北斗四号）专家组应用组成员，中国仿真学会环境建模与仿真专委会高级会员,“北斗杯”全国青少年空天科技体验与创新大赛川藏赛区总裁判，全国总决赛评审委员会委员。",
+      "achievements_summary": "近年主持、参与包括国家自然科学基金、国防基础科研、装发重大专项、空军重大工程项目等项目10 余项，发表学术论文150余篇，出版专著1部，国防专利和软著40余项，国防科技鉴定1项。",
+      "research_commitment": "长期致力于时空体系与多源融合导航，智能非合作信号处理以及灵巧（自决策、自适应、自作业）整机（多功能、多性能、多组合）架构设计等方向的设计、规划和研究工作。在建立建筑智能态势感知理论与方法、解决动态环境多源融合导航关键技术难题、构建灵巧整机系统全域全时感知体系等方面做出相应的贡献。"
+    },
+    "education_experience": {
+      "status": "暂无内容"
+    },
+    "work_experience": {
+      "status": "暂无内容"
+    },
+    "social_appointments": [
+      "国际大地测量协会GNSS干扰与欺骗工作组成员",
+      "中国卫星导航年会分会主席"
+    ],
+    "research_directions": [
+      "1. 智能态势感知",
+      "2. 导航与集群智能",
+      "3. 灵巧整机架构设计"
+    ],
+    "team_info": {
+      "sections": [
+        "智能感知与集成技术"
+      ]
+    },
+    "contact_info": {
+      "office_address": "成电国际D-602",
+      "mobile_phone": "18908070306",
+      "email": "johnsonguo@uestc.edu.cn"
+    }
+  }
+}

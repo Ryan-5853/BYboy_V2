@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "tutor_name_cn": "张亚",
+    "request_url": "http://automation.seu.edu.cn/zy/list.htm",
+    "declared_source_url": "http://automation.seu.edu.cn/zy/list.htm",
+    "page_host": "automation.seu.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/b0649c99c4730ec2a37affc1b74ccdd764bd2c5ae0bf1045c124bdfedafcf7a7.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "source_url": "http://automation.seu.edu.cn/zy/list.htm",
+    "name": "张亚",
+    "profile_picture_url": "https://automation.seu.edu.cn/zy/list.htm",
+    "personal_info": {
+      "titles": [
+        "教授",
+        "博士生导师",
+        "东南大学青年特聘教授",
+        "未来技术学院副院长"
+      ],
+      "research_directions_overview": "从事集群智能，强化学习，信息物理系统，网络安全等方面的研究。",
+      "general_achievements_overview": "近年来承担科技创新2030重大项目课题、国家自然科学基金项目、装发预研等科研项目10余项。",
+      "publication_and_awards_summary": "在Automatica, IEEE 汇刊等发表论文100余篇，2008年入围关肇直奖。指导学生获得2022 年指挥控制技术发展论坛优秀论文奖、第十八届中国智能系统会议优秀论文奖、第5届中国集群智能与协同控制会议最佳学生论文奖等。获得安徽省教学成果一等奖1项。曾获得“东南大学院系最受欢迎老师”、“东南大学院优秀导师”称号。"
+    },
+    "education_background": [
+      {
+        "start_date": "2004/09",
+        "end_date": "2010/06",
+        "institution": "东南大学",
+        "degree": "博士"
+      },
+      {
+        "start_date": "2000/09",
+        "end_date": "2004/06",
+        "institution": "中国矿业大学",
+        "degree": "学士"
+      }
+    ],
+    "work_experience": [
+      {
+        "start_date": "2020/04",
+        "end_date": "至今",
+        "institution": "东南大学自动化学院",
+        "position": "教授"
+      },
+      {
+        "start_date": "2019/01",
+        "end_date": "2019/02",
+        "institution": "德克萨斯大学阿灵顿分校",
+        "position": "访问学者"
+      },
+      {
+        "start_date": "2014/05",
+        "end_date": "2014/08",
+        "institution": "香港大学机械工程系",
+        "position": "访问学者"
+      },
+      {
+        "start_date": "2013/04",
+        "end_date": "2020/4",
+        "institution": "东南大学自动化学院",
+        "position": "副教授"
+      },
+      {
+        "start_date": "2010/06",
+        "end_date": "2013/04",
+        "institution": "东南大学自动化学院",
+        "position": "讲师"
+      }
+    ],
+    "academic_and_social_appointments": [
+      {
+        "role": "青年工作委员会副主任",
+        "organization": "江苏省自动化学会"
+      }
+    ]
+  }
+}

@@ -37,8 +37,19 @@ def main(argv: list[str] | None = None) -> int:
         description="导师信息主流程：get_tutor_pages + get_tutor_analyse + output_to_csv"
     )
     p.add_argument("academy_url", nargs="?", default=None, help="学院起始页面 URL（http/https，可省略以复用历史状态）")
+    p.add_argument(
+        "--academy-name",
+        default="",
+        help="学院/单位名称（链接分类用，防串院；首次建议填写，续跑可从 state 继承）",
+    )
     p.add_argument("--workdir", type=Path, required=False, default=Path.cwd(), help="统一工作目录（默认当前目录）")
     p.add_argument("--depth", type=int, default=2, help="get_tutor_pages 最大迭代轮数")
+    p.add_argument(
+        "--listing-pagination-max-passes",
+        type=int,
+        default=80,
+        help="名录「下一页」同轮最多追加次数（不占 depth）；0 关闭；默认 80",
+    )
     p.add_argument(
         "--slot",
         "--route",
@@ -53,6 +64,12 @@ def main(argv: list[str] | None = None) -> int:
         type=int,
         default=4,
         help="页面阶段链接分类并行 worker 数（默认 4）",
+    )
+    p.add_argument(
+        "--link-choose-refine-batch-parallel-workers",
+        type=int,
+        default=1,
+        help="单页 link_choose 内 LLM 批次并行数（默认 1）；总 LLM 并发约本值 × pages-choice-max-workers",
     )
     p.add_argument(
         "--link-choose-uncertain-only-llm",
@@ -158,6 +175,8 @@ def main(argv: list[str] | None = None) -> int:
         raise SystemExit("--resume-round 必须为正整数")
     if args.depth <= 0:
         raise SystemExit("--depth 必须为正整数")
+    if args.listing_pagination_max_passes > 500:
+        raise SystemExit("--listing-pagination-max-passes 建议不超过 500")
     if (
         args.pages_max_tokens <= 0
         or args.analyse_max_tokens <= 0
@@ -166,7 +185,11 @@ def main(argv: list[str] | None = None) -> int:
         or args.csv_repair_max_tokens <= 0
     ):
         raise SystemExit("所有 max-tokens 参数都必须为正整数")
-    if args.pages_choice_max_workers <= 0 or args.analyse_max_workers <= 0:
+    if (
+        args.pages_choice_max_workers <= 0
+        or args.analyse_max_workers <= 0
+        or args.link_choose_refine_batch_parallel_workers <= 0
+    ):
         raise SystemExit("并行 worker 数必须为正整数")
     if args.transient_retry_initial_sec <= 0 or args.transient_retry_max_sec <= 0:
         raise SystemExit("transient-retry 秒数必须为正数")
@@ -177,8 +200,10 @@ def main(argv: list[str] | None = None) -> int:
         model=ModelRef(args.slot),
         llm_part=GetTutorInfMainPayload(
             academy_url=args.academy_url,
+            academy_scope_hint=(args.academy_name or "").strip() or None,
             workdir=args.workdir,
             max_depth=args.depth,
+            listing_pagination_max_passes=int(args.listing_pagination_max_passes),
             pages_resume_state_path=args.pages_resume_state,
             main_resume_state_path=args.main_resume_state,
             analysed_subdir=args.analysed_subdir,
@@ -186,6 +211,9 @@ def main(argv: list[str] | None = None) -> int:
             csv_resume_state_path=args.csv_resume_state,
             csv_run_log_path=args.csv_run_log,
             link_choose_refine_all_links=not args.link_choose_uncertain_only_llm,
+            link_choose_refine_batch_parallel_workers=int(
+                args.link_choose_refine_batch_parallel_workers
+            ),
             resume_from_round=args.resume_round,
             resume_from_stage=args.resume_stage,
         ),

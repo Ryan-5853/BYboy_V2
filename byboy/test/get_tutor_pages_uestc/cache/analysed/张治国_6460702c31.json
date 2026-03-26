@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "tutor_name_cn": "张治国",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1175/4398.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1175/4398.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/89aa7dd594f7767dd3e71706436aa5a022330ebe0cb8f4bae656ae4808288d59.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "source_url": "https://www.auto.uestc.edu.cn/info/1175/4398.htm",
+    "site_chrome": {
+      "page_title": "师资队伍",
+      "breadcrumbs": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "Z",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/Z.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "navigation_links": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm",
+          "title": "教师名录"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm",
+          "title": "教师名录总览页"
+        },
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm",
+          "title": "教师名录"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm",
+          "title": "教师名录总览页"
+        }
+      ]
+    },
+    "faculty_member": {
+      "name": "张治国",
+      "image": {
+        "url": "https://www.auto.uestc.edu.cn/__local/8/14/0D/E969C2110292C3D4719ACB29DBD_703E63B8_20F388.jpg",
+        "alt_text": null
+      },
+      "personal_details": {
+        "highest_degree": "博士",
+        "contact_phone": null,
+        "title_position": "高级工程师",
+        "email": "zhiguozhang@uestc.edu.cn",
+        "supervisor_status": "硕士导师",
+        "personal_homepage": null,
+        "research_team": null
+      },
+      "main_research_directions": [
+        "电子测量及系统测试",
+        "诊断与预测",
+        "计算机仿真",
+        "人工智能",
+        "广义采样理论"
+      ],
+      "academic_titles_affiliations": null,
+      "education_work_experience": [
+        {
+          "period": "2012.05-2013.05",
+          "institution": "美国波士顿大学",
+          "role": "访问学者"
+        },
+        {
+          "period": "2008.03-至今",
+          "institution": "电子科技大学，自动化工程学院",
+          "role": "高级工程师"
+        },
+        {
+          "period": "2006.11-2008.03",
+          "institution": "中船重工716研究所，仿真部",
+          "role": "高级工程师"
+        }
+      ],
+      "scientific_research_summary": "至今主持参加国家、省部级及所级项目10项，以第一作者发表论文12篇，其中SCI、EI检索9篇，ISTP检索4篇。",
+      "teaching_information": {
+        "undergraduate_courses": [
+          "复变函数",
+          "过程控制系统（含过控仪表）",
+          "射频电路与微波技术",
+          "数据采集与处理技术",
+          "过程控制与自动化仪表"
+        ],
+        "graduate_courses": [
+          "线性系统理论"
+        ],
+        "teaching_appointments": null,
+        "teaching_research": [
+          "主持《过程控制系统》探究式小班课程",
+          "参与教学方法与考核方法改革示范课“射频电路与微波技术”建设",
+          "参与教学方法与考核方法改革示范课“过程控制系统”建设",
+          "主持《基于“研讨”的过程控制系统与仪表教学改革》2018年高等学校仪器类专业新工科建设项目"
+        ]
+      },
+      "admissions_information": {
+        "master_majors": [
+          "081100控制科学与工程",
+          "086100交通运输"
+        ],
+        "phd_majors": []
+      }
+    }
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "meta": {
+    "tutor_name_cn": "胡学海",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1157/4502.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1157/4502.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/0c96eba58609397998675b589df254302b3da9e1be4e1b6b02be8e6c42c682d0.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "site_chrome": {
+      "source_url": "https://www.auto.uestc.edu.cn/info/1157/4502.htm",
+      "navigation_breadcrumbs": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "H",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/H.htm"
+        },
+        "正文"
+      ],
+      "navigation_links": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ]
+    },
+    "faculty_member": {
+      "name": "胡学海",
+      "image_url": "https://www.auto.uestc.edu.cn/__local/7/74/9C/D84F94703857306723B73BE783C_192B8932_572B0.jpg",
+      "highest_degree": "博士",
+      "contact_phone": null,
+      "job_title": "副教授",
+      "email": "xuehaihu@126.com",
+      "supervisor_status": "硕士导师",
+      "personal_homepage": null,
+      "research_team": "测试技术与仪器研究所（精密测试）",
+      "research_directions": {
+        "main_directions": [
+          "电子测量仪器",
+          "精密仪器及测量",
+          "高精度及微弱信号测量",
+          "模式识别与智能系统"
+        ],
+        "current_interests": [
+          "智能信息测控",
+          "人工视觉与模式识别",
+          "超高精度测量",
+          "纳米传感器与测量",
+          "无线传感器网络与数据融合"
+        ]
+      },
+      "academic_titles_and_affiliations": [
+        "四川省自动化与仪器仪表学会第八届、第九届理事",
+        "压电与声光杂志审稿专家",
+        "四川省科技科技项目评审专家",
+        "教育部科技评价与评审信息系统评审专家",
+        "教育部学位论文评审专家"
+      ],
+      "experience": {
+        "academic_and_work_history": [
+          {
+            "period": "2009至今",
+            "institution": "电子科技大学",
+            "position": "讲师、副教授"
+          },
+          {
+            "period": "2013.01-2014.01",
+            "institution": "美国波士顿大学",
+            "position": "访问学者"
+          },
+          {
+            "period": "1995.07-2009.06",
+            "institution": "成都飞机研究所十所",
+            "position": "工程师"
+          },
+          {
+            "period": "2008.07",
+            "institution": "电子科技大学",
+            "degree_info": "测试计量技术及仪器硕士、博士"
+          }
+        ]
+      },
+      "scientific_research_summary": "长期从事检测与估计、计算机测控、人工智能、传感器原理等硕士和本科专业课程教学。主持和参加国家、省部级项目15项、承担项目科研经费累计1700多万，以第一作者发表SCI和EI论文20余篇，获得省级、学校奖励10余次，在某国家级重大项目中立功一次，出版专著及教材4本，发明专利授权及公开5项。负责了发射接收模块测试系统、毫米波内场检测仪、捷变信号源、机载防撞系统内场检测仪、机载流量温度传感器试验台设计、机载记录器等，参与机载流量温度传感器设计。",
+      "teaching": {
+        "undergraduate_courses": [
+          "传感器原理及应用",
+          "单片机与PLC实验",
+          "远程温湿度监控系统的设计",
+          "单片机与无线智能传感器设计",
+          "无线智能传感器"
+        ],
+        "graduate_courses": [
+          "信号检测与估计"
+        ],
+        "teaching_appointments": null,
+        "teaching_research": null
+      },
+      "admission": {
+        "masters_programs": [
+          "081100控制科学与工程",
+          "085400电子信息"
+        ],
+        "doctoral_programs": []
+      }
+    }
+  }
+}

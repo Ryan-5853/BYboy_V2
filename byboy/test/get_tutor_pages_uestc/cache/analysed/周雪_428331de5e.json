@@ -1,0 +1,279 @@
+{
+  "meta": {
+    "tutor_name_cn": "周雪",
+    "request_url": "https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/dsgrjj/10970",
+    "declared_source_url": "https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/dsgrjj/10970",
+    "page_host": "yjsjy.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/30fbbbcaefe88f01b9036d6df9ef4230e2c5c559a55e8253c5aaa9b8d65641dd.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "source_url": "https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/dsgrjj/10970",
+    "professor_info": {
+      "name": "周雪",
+      "image_url": "https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/zp/10970",
+      "details": {
+        "mentor_code": "10970",
+        "gender": "女",
+        "special_title": null,
+        "title": "教授",
+        "degree": "工学博士学位",
+        "attribute": "专职",
+        "email": "zhouxue@uestc.edu.cn"
+      },
+      "academic_experience": [
+        {
+          "period": "2003.09-2008.07",
+          "institution": "中国科学院自动化研究所",
+          "role": "硕博连读"
+        },
+        {
+          "period": "2008.07-2010.07",
+          "institution": "电子科技大学自动化工程学院",
+          "role": "讲师"
+        },
+        {
+          "period": "2010.07-2020.07",
+          "institution": "电子科技大学自动化工程学院",
+          "role": "副教授"
+        },
+        {
+          "period": "2020.08-至今",
+          "institution": "电子科技大学自动化工程学院",
+          "role": "教授"
+        },
+        {
+          "period": "2011.05-2012.05",
+          "institution": "澳大利亚阿德莱德大学计算机学院",
+          "role": "访问学者"
+        }
+      ],
+      "personal_profile": "目前主要从事基于视频图像的目标检测、跟踪和识别的算法研究，同时也致力于攻关实际智能识别应用中的核心关键技术。作为第一项目负责人主持四项国家自然科学基金项目及多项省部级项目。在国内外高水平期刊IEEE Trans. on Cybernetics、TIP、CSVT、Signal Processing及国际学术会议ECCV、AAAI 、ICASSP、ICIP、ACCV、VCIP上发表论文四十余篇。申请专利30余项，授权20余项。担任中国自动化学会模式识别与机器智能专业委员会委员。获得2022中国自动化学会优秀硕士学位论文导师奖。获得2023年度“中国航空学会科学技术奖”--自然科学奖一等奖。指导的研究生获得IEEE VCIP2018(Visual Communications and Image Processing)视觉通信和图像处理国际会议最佳学生论文奖(唯一)。指导学生在人工智能学会、华为、中兴、高通等企业举办的多目标跟踪算法比赛中多次获奖。",
+      "research_projects": {
+        "title": "主持四项国家自然科学基金项目",
+        "projects": [
+          "NSFC No.60905015: 融合颜色和形状的基于水平集的目标轮廓跟踪",
+          "NSFC No.61472063:基于超像素的判别式目标主动轮廓跟踪",
+          "NSFC No.61972071:多任务驱动弱监督下的多人体目标主动轮廓跟踪",
+          "NSFC No.62372082:基于检测的多模块协同学习一体化多目标跟踪"
+        ]
+      },
+      "research_achievements": {
+        "publications": [
+          {
+            "id": 1,
+            "description": "Runqing Zhang and Xue Zhou*, AMNS: Attention-Weighted Selective Mask and Noise Label Suppression for Text-to-Image Person Retrieval, IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), India, April 6—11, 2025."
+          },
+          {
+            "id": 2,
+            "description": "Ren Nie, Jin Ding, Xue Zhou*, and Xi Li, Rethinking Normalization Layers for Domain Generalizable Person Re-identification, European Conference on Computer Vision(ECCV), Milan, September 28—Octover 4, 2024, pp. 267-284."
+          },
+          {
+            "id": 3,
+            "description": "Ren Nie, Jin Ding, Lingxiao He and Xue Zhou*, Latent Distribution Alignment for Domain Generalizable Person Re-identification, International Conference on Multimedia & Expo (ICME), Canada, July 15—19, 2024."
+          },
+          {
+            "id": 4,
+            "description": "Chao Liang, Zhipeng Zhang, Xue Zhou*, et al., Rethinking the Competition between Detection and ReID in Multi-Object Tracking, IEEE Transactions on Image Processing(TIP), vol.31, pp.3182-3196, 2022."
+          },
+          {
+            "id": 5,
+            "description": "Chao Liang, Zhipeng Zhang, Xue Zhou*, et al., One More Check: Making “Fake Background” Be Tracked Again: AAAI Conference on Artificial Intelligence (AAAI), 2022, Vancouver, BC, Canada."
+          },
+          {
+            "id": 6,
+            "description": "Jie Yang, Mingfu Xia, Xue Zhou*, “Context-aware Deformable Alignment for Video Object Segmentation”, Proc. of IEEE International Conference on Pattern Recognition (ICPR), 2022."
+          },
+          {
+            "id": 7,
+            "description": "Jin Ding, Xue Zhou*, “Learning Feature Fusion for Unsupervised Domain Adaptive Person Re-Identification”, Proc. of IEEE International Conference on Pattern Recognition (ICPR), 2022."
+          },
+          {
+            "id": 8,
+            "description": "Gehan Hao, Yang Yang, Xue Zhou*, Guanan Wang, and Zhen Lei, Horizontal Flipping Assisted Disentangled Feature Learning for Semi-Supervised Person Re-Identification, Asia Conference on Computer Vision (ACCV),2020, Kyoto, Japan."
+          },
+          {
+            "id": 9,
+            "description": "Yiming Wu, Xi Li, Fei Wu, Qi Tian, Xue Zhou, Adaptive Graph Representation Learning for Video Person Re-Identification, IEEE Trans. on Image Processing(TIP), vol.29, pp.8821-8830,2020."
+          },
+          {
+            "id": 10,
+            "description": "Xue Zhou, Xi Li* and Weiming Hu, “Learning A Superpixel-Driven Speed Function for Level Set Tracking”, IEEE Trans. on Cybernetics, vol.46, no.7, pp.1498-1510, 2016."
+          },
+          {
+            "id": 11,
+            "description": "Xue Zhou and Xi Li*, “Dynamic Spatio-Temporal Modeling for Human Silhouette Reconstruction”, Signal Processing, vol. 110, pp. 27-36, 2015."
+          },
+          {
+            "id": 12,
+            "description": "Weiming Hu*, Xue Zhou, Wei Li, Wenhan Luo, Xiaoqin Zhang and Stephen Maybank, “Active contour-based visual tracking by integrating colors, shapes and motions”, IEEE Trans. on Image Processing(TIP), vol.22, no.5, pp. 1778-1792, 2013."
+          },
+          {
+            "id": 13,
+            "description": "Yuting Xu, Xue Zhou*, Pengfei Liu and Hongbing Xu, “Rapid Pedestrian Detection Based on Deep Omega-Shape Features with Partial Occlusion Handling”, Neural Processing Letters, vol.49, pp. 923-937, 2019."
+          },
+          {
+            "id": 14,
+            "description": "Kexin Chen, Xue Zhou*, Qidong Zhou and Hongbing Xu, “Adversarial Learning-based Data Augmentation for Rotation-Robust Human Tracking”, in Proc. of IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), May 12-17, UK, 2019."
+          },
+          {
+            "id": 15,
+            "description": "Kexin Chen, Xue Zhou*, Wei Xiang and Qidong Zhou, “Data Augmentation Using GAN for Multi-Domain Network-based Human Tracking”, in Proc. of IEEE International Conference on Visual Communications and Image Processing (VCIP), December 9-12, Taichung, Taiwan, 2018. (Best Student Paper Award)"
+          }
+        ],
+        "student_awards": [
+          "2024年中国移动-科大讯飞杯基于多模态大模型的智慧城市治理图像识别挑战赛一等奖",
+          "2023年获得长三角（芜湖）人工智能视觉算法大赛——“基于跨时空跟踪的客流统计赛道” 全国亚军。",
+          "2022年获得高通人工智能开发者大会“智慧零售-客流统计”赛道冠军；",
+          "2021年在中国人工智能学会举办的全球人工智能技术创新大赛“PANDA大场景多对象检测跟踪”赛道中获得全国二等奖；",
+          "2021年获得第一届中国农业人工智能创新创业大赛二等奖；",
+          "2020年获得“中兴捧月”算法精英挑战赛多目标跟踪赛道一等奖；"
+        ]
+      },
+      "professional_research_directions": [
+        {
+          "major_name": "081100控制科学与工程",
+          "research_field_direction": "03模式识别与智能系统",
+          "enrollment_category": "博士学术学位"
+        },
+        {
+          "major_name": "085400电子信息",
+          "research_field_direction": "01不区分研究方向，02不区分研究方向（非全），04“控制科学与工程”研究方向组，08“控制科学与工程”研究方向组（非全）",
+          "enrollment_category": "博士专业学位"
+        },
+        {
+          "major_name": "086100交通运输",
+          "research_field_direction": "01不区分研究方向，02不区分研究方向（非全）",
+          "enrollment_category": "博士专业学位"
+        },
+        {
+          "major_name": "081100控制科学与工程",
+          "research_field_direction": "03模式识别与智能系统",
+          "enrollment_category": "硕士学术学位"
+        },
+        {
+          "major_name": "085400电子信息",
+          "research_field_direction": "01测控技术及自动化（非全），09控制科学与工程（非全）",
+          "enrollment_category": "硕士专业学位"
+        },
+        {
+          "major_name": "085406控制工程",
+          "research_field_direction": "01控制科学与工程，03模式识别与智能系统",
+          "enrollment_category": "硕士专业学位"
+        }
+      ]
+    },
+    "site_info": {
+      "college_list": [
+        {
+          "name": "01 信息与通信工程学院",
+          "url": "https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/index/#01"
+        },
+        {
+          "name": "02 电子科学与工程学院",
+          "url": "https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/index/#02"
+        },
+        {
+          "name": "03 材料与能源学院",
+          "url": "https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/index/#03"
+        },
+        {
+          "name": "04 机械与电气工程学院",
+          "url": "https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/index/#04"
+        },
+        {
+          "name": "05 光电科学与工程学院",
+          "url": "https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/index/#05"
+        },
+        {
+          "name": "06 自动化工程学院",
+          "url": "https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/index/#06"
+        },
+        {
+          "name": "07 资源与环境学院",
+          "url": "https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/index/#07"
+        },
+        {
+          "name": "08 计算机科学与工程学院（网络空间安全学院）",
+          "url": "https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/index/#08"
+        },
+        {
+          "name": "09 信息与软件工程学院（示范性软件学院）",
+          "url": "https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/index/#09"
+        },
+        {
+          "name": "10 航空航天学院",
+          "url": "https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/index/#10"
+        },
+        {
+          "name": "11 数学科学学院",
+          "url": "https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/index/#11"
+        },
+        {
+          "name": "12 物理学院",
+          "url": "https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/index/#12"
+        },
+        {
+          "name": "13 医学院",
+          "url": "https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/index/#13"
+        },
+        {
+          "name": "14 生命科学与技术学院",
+          "url": "https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/index/#14"
+        },
+        {
+          "name": "15 经济与管理学院",
+          "url": "https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/index/#15"
+        },
+        {
+          "name": "16 公共管理学院",
+          "url": "https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/index/#16"
+        },
+        {
+          "name": "17 外国语学院",
+          "url": "https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/index/#17"
+        },
+        {
+          "name": "18 马克思主义学院",
+          "url": "https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/index/#18"
+        },
+        {
+          "name": "21 基础与前沿研究院",
+          "url": "https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/index/#21"
+        },
+        {
+          "name": "22 通信抗干扰全国重点实验室",
+          "url": "https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/index/#22"
+        },
+        {
+          "name": "23 电子科学技术研究院",
+          "url": "https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/index/#23"
+        },
+        {
+          "name": "28 电子科技大学（深圳）高等研究院",
+          "url": "https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/index/#28"
+        },
+        {
+          "name": "31 集成电路科学与工程学院（示范性微电子学院）",
+          "url": "https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/index/#31"
+        },
+        {
+          "name": "90 智能计算研究院",
+          "url": "https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/index/#90"
+        }
+      ],
+      "copyright": "Copyright © 2016. Graduate student enrollment of University of Electronic Science and Technology of China\n版权所有 © 2016 电子科技大学研究生招生办",
+      "contact": {
+        "email": "yzb@uestc.edu.cn",
+        "address": "四川省成都市高新西区西源大道2006号电子科技大学清水河校区主楼B2-419研招办",
+        "zip_code": "611731",
+        "phone": "+86-28-61830153",
+        "fax": "+86-28-61830153",
+        "office_hours": "周一至周五(节假日除外) 上午9:00-12:00 下午1:00-5:00(节假日期间请关注研招网或电子邮件咨询)"
+      }
+    }
+  }
+}

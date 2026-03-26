@@ -1,0 +1,194 @@
+{
+  "meta": {
+    "tutor_name_cn": "张金霞",
+    "request_url": "https://jinxiazhang99.github.io/",
+    "declared_source_url": "https://jinxiazhang99.github.io/",
+    "page_host": "jinxiazhang99.github.io",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/409c48fe27ad462f7b461fbe3a71b5bbd87086f6e7601352d0266537ccf73314.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "source_url": "https://jinxiazhang99.github.io/",
+    "profile_of": {
+      "name": "张金霞",
+      "basic_information": {
+        "titles_and_affiliations": [
+          "东南大学自动化学院副教授（破格）",
+          "博士生导师",
+          "东南大学至善青年学者A类"
+        ],
+        "research_directions": [
+          "图文多模态",
+          "计算机视觉",
+          "深度学习",
+          "缺陷诊断等领域的应用"
+        ],
+        "biographical_summary": "张金霞，东南大学自动化学院副教授（破格），博士生导师，东南大学至善青年学者A类。研究方向为图文多模态、计算机视觉、深度学习及在缺陷诊断等领域的应用。作为项目负责人主持1项国家自然科学基金项目、1项江苏省自然科学基金项目、若干项企业合作项目和重点实验室开放课题。在国际学术期刊和国际会议上发表学术论文40余篇，包括TII、PR、Applied Energy、TMM等学科顶级期刊。第一发明人授权发明专利8项，公开发明专利6项。指导研究生电子设计竞赛获全国总决赛二等奖、全国总决赛最佳论文奖和华东分赛一等奖。指导本科毕业设计获校优和院优。参与教学的工程设计导论（研讨）课获江苏省一流课程。参与编写的教材《神经网络设计》入选江苏省重点教材和“十三五”国家重点图书出版规划（高等教育出版社）。以并列第一编者的身份编著一本《深度学习》教材，目前已出版5000+册。现为中国自动化学会模式识别与机器智能专委会通讯委员，江苏省人工智能学会模式识别专委会委员，江苏省自动化学会会员。担任Pattern Recognition, Neurocomputing等刊物审稿人，曾担任ACPR 2019 PC member，IscIDE2019 PC member等。"
+      },
+      "contact_information": {
+        "email": "jinxiazhang@seu.edu.cn"
+      },
+      "employment_history": [
+        {
+          "start_date": "2019-04",
+          "end_date": "至今",
+          "institution": "东南大学",
+          "department": "自动化学院",
+          "position": "副教授（破格）"
+        },
+        {
+          "start_date": "2016-03",
+          "end_date": "2019-03",
+          "institution": "东南大学",
+          "department": "自动化学院",
+          "position": "讲师"
+        }
+      ],
+      "education_and_visiting_appointments": [
+        {
+          "start_date": "2012-10",
+          "end_date": "2014-09",
+          "institution": "美国哈佛医学院",
+          "department": "视觉注意实验室",
+          "role": "访问学者",
+          "cooperation_supervisor": "Jeremy Wolfe教授"
+        }
+      ],
+      "taught_courses": {
+        "undergraduate_courses": [
+          "《数据结构》",
+          "《工程设计导论》",
+          "《人工智能通识导论》"
+        ],
+        "graduate_courses": [
+          "《图像处理和理解》"
+        ]
+      },
+      "research_projects": [
+        {
+          "title": "图文多模态驱动的光伏电池缺陷自适应检测方法研究",
+          "funding_source": "国家面上基金项目",
+          "role": "主持"
+        },
+        {
+          "title": "结合感知分组和视觉注意特性的显著目标检测研究",
+          "funding_source": "国家青年基金项目",
+          "role": "主持"
+        },
+        {
+          "title": "基于视觉认知特性的复杂图像显著目标检测研究",
+          "funding_source": "江苏省青年基金项目",
+          "role": "主持"
+        },
+        {
+          "title": "基于显著区域与语义类别精准匹配的复杂场景弱监督语义分割研究",
+          "funding_source": "广东省自然科学基金面上项目",
+          "role": "主持"
+        },
+        {
+          "title": "光伏组件热斑、隐裂等缺陷诊断分析技术",
+          "funding_source": "国家重点研发计划项目",
+          "role": "项目骨干"
+        },
+        {
+          "title": "面向海上光伏电站智慧运维的持续缺陷检测方法研究",
+          "funding_source": "东南大学南通海洋研究院面上项目",
+          "role": "主持"
+        },
+        {
+          "title": "电商领域可控多模态图文理解和生成",
+          "funding_source": "阿里巴巴（中国）网络技术有限公司预研项目",
+          "role": "主持"
+        },
+        {
+          "title": "AI果实识别系统",
+          "funding_source": "企业项目",
+          "role": "主持"
+        },
+        {
+          "title": "智能机器人面对复杂场景时的显著目标检测研究",
+          "funding_source": "重点实验室课题",
+          "role": "主持"
+        },
+        {
+          "title": "面向复杂自然场景图像的显著区域检测研究",
+          "funding_source": "重点实验室课题",
+          "role": "主持"
+        },
+        {
+          "title": "分布式光伏系统智慧运维技术",
+          "funding_source": "企事业单位委托项目",
+          "role": "项目骨干"
+        },
+        {
+          "title": "基于地基云图和深度学习的光伏功率超短期预测研究",
+          "funding_source": "国家自然科学基金面上项目",
+          "role": "参与"
+        }
+      ],
+      "publications": {
+        "academic_papers_summary": "在国际学术期刊和国际会议上发表学术论文40余篇，包括TII、PR、Applied Energy、TMM等学科顶级期刊。",
+        "books_and_textbooks": [
+          {
+            "title": "神经网络设计",
+            "role": "参与编写",
+            "notes": "入选江苏省重点教材和“十三五”国家重点图书出版规划（高等教育出版社）"
+          },
+          {
+            "title": "深度学习",
+            "role": "并列第一编者",
+            "sales_volume": "已出版5000+册"
+          }
+        ]
+      },
+      "patents": {
+        "authorized_invention_patents_as_first_inventor": 8,
+        "publicly_disclosed_invention_patents_as_first_inventor": 6
+      },
+      "awards_and_honors": {
+        "student_supervision_awards": [
+          "指导研究生电子设计竞赛获全国总决赛二等奖",
+          "指导研究生电子设计竞赛获全国总决赛最佳论文奖",
+          "指导研究生电子设计竞赛获华东分赛一等奖",
+          "指导本科毕业设计获校优",
+          "指导本科毕业设计获院优"
+        ],
+        "teaching_awards": [
+          "参与教学的工程设计导论（研讨）课获江苏省一流课程"
+        ]
+      },
+      "professional_affiliations_and_services": {
+        "professional_memberships": [
+          "中国自动化学会模式识别与机器智能专委会通讯委员",
+          "江苏省人工智能学会模式识别专委会委员",
+          "江苏省自动化学会会员"
+        ],
+        "journal_reviewer": [
+          "Pattern Recognition",
+          "Neurocomputing"
+        ],
+        "conference_pc_member": [
+          "ACPR 2019 PC member",
+          "IscIDE2019 PC member"
+        ]
+      },
+      "student_recruitment_information": {
+        "phd_students_per_year": "1-2名",
+        "master_students_per_year": {
+          "nanjing_campus": "2-3名",
+          "suzhou_campus": "1-2名",
+          "wuxi_campus": "1-2名"
+        },
+        "preferred_student_qualities": [
+          "勤奋",
+          "踏实",
+          "好学",
+          "对图文多模态、计算机视觉和人工智能感兴趣"
+        ]
+      }
+    }
+  }
+}

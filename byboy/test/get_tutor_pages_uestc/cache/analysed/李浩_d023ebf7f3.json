@@ -1,0 +1,157 @@
+{
+  "meta": {
+    "tutor_name_cn": "李浩",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1161/7735.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1161/7735.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/deeb90a67738cd7077786d104006656cd7550cf536120b233569d0f9d41d2d36.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "personal_info": {
+      "name": "李浩",
+      "highest_degree": "博士",
+      "phone": null,
+      "position_title": "副研究员",
+      "email": "haoli@uestc.edu.cn",
+      "supervisor_status": null,
+      "personal_homepage": null,
+      "research_team": "测试技术与仪器研究所",
+      "image": {
+        "url": "https://www.auto.uestc.edu.cn/__local/4/E2/9A/A5A49AB3B564F9D2DF13B8B63DA_521A9271_4775.jpg",
+        "alt_text": null
+      }
+    },
+    "research_interests": [
+      "宽带测试技术",
+      "无线通信解调算法",
+      "大规模MIMO系统能效优化"
+    ],
+    "academic_appointments_and_affiliations": [
+      "IEEE Member",
+      {
+        "role": "审稿人",
+        "description": "担任IEEE Transactions on Communications、 IEEE Communications Letters、 IEEE Access、 Signal Processing、Digital Signal Processing、 IEEE Transactions on Circuits and Systems II、 Express Briefs、Physical Communication、 IEEE Global Communications Conference、 IEEE Vehicular Technology Conference、 IEEE Communication Conference等国际著名期刊和国际会议的审稿人。",
+        "journals_and_conferences_reviewed": [
+          "IEEE Transactions on Communications",
+          "IEEE Communications Letters",
+          "IEEE Access",
+          "Signal Processing",
+          "Digital Signal Processing",
+          "IEEE Transactions on Circuits and Systems II",
+          "Express Briefs",
+          "Physical Communication",
+          "IEEE Global Communications Conference",
+          "IEEE Vehicular Technology Conference",
+          "IEEE Communication Conference"
+        ]
+      }
+    ],
+    "education_experience": [
+      {
+        "start_date": "2017.11",
+        "end_date": "2019.11",
+        "institution": "加拿大英属哥伦比亚大学",
+        "degree_program": "博士联合培养"
+      },
+      {
+        "start_date": "2016.09",
+        "end_date": "2020.06",
+        "institution": "电子科技大学",
+        "degree_program": "博士"
+      }
+    ],
+    "work_experience": [
+      {
+        "start_date": "2025.05",
+        "end_date": "至今",
+        "institution": "电子科技大学",
+        "position": "副研究员"
+      },
+      {
+        "start_date": "2021.01",
+        "end_date": "2025.05",
+        "institution": "电子科技大学",
+        "position": "助理研究员"
+      },
+      {
+        "start_date": "2020.09",
+        "end_date": "至今",
+        "institution": "电子科技大学",
+        "position": "博士后"
+      }
+    ],
+    "scientific_research": {
+      "summary": "长期从事仪器科学技术理论与应用方面的研究，尤其在高速高精度并行采样技术、5G中大规模MIMO网络的资源优化、高速通信接收机、无线通信解调算法等方面取得了一定的研究成果。",
+      "publications": {
+        "total_papers": 17,
+        "first_author_papers": 13,
+        "sci_papers": 5,
+        "ei_papers": 7,
+        "core_journal_papers": 1
+      },
+      "patents": {
+        "applications": 4,
+        "type": "发明专利"
+      },
+      "projects": {
+        "role": "主研人员",
+        "details": "参与并完成了多项国家重点研发计划、国家自然科学基金重点项目、国家级课题、横向课题等项目，累积科研总经费超过三千万。",
+        "project_types": [
+          "国家重点研发计划",
+          "国家自然科学基金重点项目",
+          "国家级课题",
+          "横向课题"
+        ],
+        "total_funding_amount": "超过三千万"
+      }
+    },
+    "teaching_info": {
+      "courses_taught": [],
+      "teaching_research_summary": null
+    },
+    "admission_info": {
+      "master_specializations": null,
+      "phd_specializations": null
+    },
+    "site_chrome": {
+      "source_url": "https://www.auto.uestc.edu.cn/info/1161/7735.htm",
+      "breadcrumbs": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "L",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/L.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "sidebar_navigation": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ]
+    },
+    "uncategorized": {}
+  }
+}

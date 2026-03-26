@@ -1,0 +1,471 @@
+{
+  "meta": {
+    "tutor_name_cn": "王颖",
+    "request_url": "http://automation.seu.edu.cn/wy/list.htm",
+    "declared_source_url": "http://automation.seu.edu.cn/wy/list.htm",
+    "page_host": "automation.seu.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/b6ea7a1e109ac13941b93c810f7a953629c33e94e87fcc7d05e76c0f5d27cbc7.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "personal_info": {
+      "name": "王颖",
+      "gender": "女",
+      "birth_year": 1989,
+      "titles": [
+        "副教授",
+        "博导",
+        "硕导"
+      ],
+      "affiliation": "东南大学自动化学院",
+      "current_team": "张凯锋教授的科研团队",
+      "recruitment_quota": {
+        "phd": "1名/年",
+        "master": "1~2名/年"
+      },
+      "contact_email": "wyseu@seu.edu.cn"
+    },
+    "education": [
+      {
+        "end_year": 2011,
+        "degree": "本科",
+        "university": "南京航空航天大学",
+        "major": "电气工程与其自动化专业"
+      },
+      {
+        "end_year": 2014,
+        "degree": "硕士",
+        "university": "东南大学",
+        "major": "控制理论与控制工程专业"
+      },
+      {
+        "end_year": 2018,
+        "degree": "博士",
+        "university": "东南大学",
+        "major": "控制理论与控制工程专业"
+      },
+      {
+        "start_date": "2015.9",
+        "end_date": "2017.3",
+        "activity_type": "CSC联合培养",
+        "institution": "美国阿贡国家实验室 (Argonne National Laboratory)"
+      },
+      {
+        "start_date": "2017.3",
+        "end_date": "2017.4",
+        "activity_type": "访问交流",
+        "institution": "美国麻省理工学院"
+      }
+    ],
+    "employment_history": [],
+    "academic_service": [],
+    "awards": [
+      {
+        "year": 2020,
+        "name": "优秀论文奖",
+        "level": "二等奖",
+        "awarding_body": "中国电机工程学会"
+      }
+    ],
+    "teaching_courses": [
+      {
+        "name": "电力电子技术",
+        "target_audience": "自动化专业本科生3年级",
+        "notes": "专业主干课程"
+      },
+      {
+        "name": "优化方法",
+        "target_audience": "自动化专业本科生2年级",
+        "notes": "专业基础课程，全英文课程"
+      }
+    ],
+    "student_cultivation": {
+      "recruitment_philosophy": "课题组研究生是整个团队一起培养，具体指导老师根据研究方向确定。我个人偏向于优化、人工智能与优化的结合。",
+      "group_environment": "课题组整体氛围融洽，科研压力中等，欢迎咨询往届在读和毕业学生。",
+      "graduate_outcomes": {
+        "master_employment": "大部分去往华为中兴、科研院所（28所/55所/38所）、互联网（美团 字节 腾讯 ）、国网研究院（南瑞 中国电科院）、金融软件开发（华泰证券、招银）",
+        "phd_career_path": "去高校为主",
+        "phd_overseas_experience_encouraged": "鼓励博士研究生申请csc出国联合培养（目前组内毕业博士均有海外csc经历，美国/澳大利亚/新加坡/意大利/法国）"
+      },
+      "student_requirements": {
+        "attitude": "踏实勤奋，诚恳好学",
+        "theoretical_foundation": {
+          "optimization_direction": "掌握优化方法、混合整数规划建模等基础知识",
+          "machine_learning_direction": "掌握机器学习、深度学习基础知识",
+          "control_direction": "掌握自动控制原理",
+          "general_math_ability": "较好的线性代数的基础，欢迎数学功底强的同学"
+        },
+        "software_skills": {
+          "optimization_direction": "matlab、python、cplex、gurobi等",
+          "machine_learning_direction": "python等",
+          "general_programming_ability": "基本的编程逻辑思维，欢迎代码能力强的同学"
+        },
+        "language_skills": {
+          "chinese_writing": "语文写作水平好，写论文逻辑思维清楚",
+          "english_reading": "英语阅读水平尚可，对阅读英文论文没有抵触",
+          "general_excellence_welcomed": "欢迎语文英语水平高的同学"
+        },
+        "personality": "有些课题方向需要和南瑞、电科院等甲方经常打交道，需要具有较好的沟通能力，可以是i人但需要你不排斥与人沟通；欢迎e人组织课题组同学开展团建活动。"
+      },
+      "daily_management": "不严格打卡，但任务紧急时需要加班。",
+      "notes_2025_enrollment": "2025年招生目前只有专硕名额（课题组专硕和学硕培养上没有区别）",
+      "new_expansion_directions_welcomed": [
+        "基于卫星红外图像以及台风预测等信息开展海上风功率预测",
+        "考虑可靠性和经济性的电网备用需求评估"
+      ]
+    },
+    "research_directions": {
+      "main_research_areas": [
+        "电力系统调度与控制",
+        "电力市场",
+        "综合能源系统",
+        "人工智能方法在上述领域中的应用",
+        "电力系统调度优化",
+        "综合能源系统运行"
+      ],
+      "urgent_phd_recruitment": [
+        {
+          "count": "2名",
+          "focus": "电力市场机制设计与调度优化",
+          "details": "电力市场机制设计，备用需求评估，电力调度优化相关方向的同学（偏向概率分析，优化建模，MILP优化，涉及一些电力市场规则、机制，经济学基础）"
+        },
+        {
+          "focus": "电力系统控制与多资源协调",
+          "details": "电力系统控制，多资源组织协调参与AGC调频等。"
+        }
+      ]
+    },
+    "research_projects": [
+      {
+        "role": "负责",
+        "sponsor": "国网江苏省科技项目",
+        "project_type": "横向",
+        "status": "在研",
+        "name": "用户侧灵活性资源规模化参与市场的交易机制与风险防控技术研究"
+      },
+      {
+        "role": "负责",
+        "sponsor": "南瑞科技",
+        "project_type": "横向",
+        "status": "在研",
+        "name": "基于大数据及人工智能技术的虚拟电厂多场景运行优化研究"
+      },
+      {
+        "role": "负责",
+        "sponsor": "国网江苏省科技项目",
+        "project_type": "横向",
+        "status": "在研",
+        "duration": "2025.7-2026.12",
+        "name": "极端气象情况的海上风电高精度预测与预警技术"
+      },
+      {
+        "role": "负责",
+        "sponsor": "国家电网公司科技项目",
+        "project_type": "横向",
+        "status": "即将结题",
+        "name": "适应煤电三改后多工况宽功率调节特征的优化调度方法研究"
+      },
+      {
+        "role": "负责",
+        "sponsor": "国家自然科学基金",
+        "subtype": "青年",
+        "project_type": "纵向",
+        "status": "结题",
+        "duration": "2020.1-2022.12",
+        "name": "适应新型调频资源的柔性调频服务及其调度方法研究",
+        "project_id": "51907025"
+      },
+      {
+        "role": "参与",
+        "sponsor": "国家自然科学基金",
+        "subtype": "面上",
+        "project_type": "纵向",
+        "status": "结题",
+        "duration": "2020.01-2023.12",
+        "name": "网络物理攻击背景下自动发电控制系统的安全分析与防御策略研究",
+        "project_id": "51977033"
+      },
+      {
+        "role": "负责",
+        "sponsor": "南瑞外委",
+        "project_type": "横向",
+        "status": "结题",
+        "duration": "2019.1-2020.12",
+        "name": "电力市场环境下储能系统价格体系及定价机制研究开发服务"
+      },
+      {
+        "role": "负责",
+        "sponsor": "智能电网保护和运行控制国家重点实验室开放课题",
+        "project_type": "横向",
+        "status": "结题",
+        "duration": "2018.12-2019.11",
+        "name": "负荷资源响应特性分析及源网荷协调的频率控制技术"
+      },
+      {
+        "role": "负责",
+        "sponsor": "合肥市",
+        "project_type": null,
+        "status": null,
+        "duration": "2018-2018",
+        "name": "分布式可再生能源市场化交易平台建设与运营研究"
+      }
+    ],
+    "publications": [
+      {
+        "id": 1,
+        "wang_ying_role": "first_author",
+        "authors": "Ying Wang, Zhi Zhou *, Getnet Betrie, Kaifeng Zhang, Eugene Yan.",
+        "title": "Power generation-cooling water Nexus: Impacts of cooling water shortage on power system operation-a simulation case study in Illinois, US",
+        "journal": "Applied Energy",
+        "year": 2025,
+        "volume_issue_pages": "377: 124440"
+      },
+      {
+        "id": 2,
+        "wang_ying_role": "author",
+        "authors": "张辰微,王颖,李亚平,等.",
+        "title": "基于带权重介数的综合能源系统脆弱环节防护优化模型",
+        "journal": "上海交通大学学报",
+        "year": 2025,
+        "volume_issue_pages": "59 (07): 923-937",
+        "doi": "10.16183/j.cnki.jsjtu.2023.403"
+      },
+      {
+        "id": 3,
+        "wang_ying_role": "author",
+        "authors": "Nanyang Zhu, Jia Ning, Wenjun Bi, Chunyu Chen, Ying Wang, Kaifeng Zhang*.",
+        "title": "CL-TGD: A novel point-wise contrastive learning with dynamic temporal granularity data incorporation for wind power prediction",
+        "journal": "Expert Systems with Applications",
+        "year": 2025,
+        "volume_issue_pages": "268: 126402"
+      },
+      {
+        "id": 4,
+        "wang_ying_role": "author",
+        "authors": "Nanyang Zhu, Ying Wang, Kun Yuan, Yanxia Pan, Kaifeng Zhang*.",
+        "title": "Enhancing wind power forecasting at local peak points: A novel Seq2LPP model",
+        "journal": "IEEE Transactions on Industrial Informatics",
+        "year": 2025,
+        "volume_issue_pages": "in press"
+      },
+      {
+        "id": 5,
+        "wang_ying_role": "author",
+        "authors": "Chenwei Zhang, Ying Wang, Yulong Jin, Tao Zheng, Chen Wang, Kaifeng Zhang*.",
+        "title": "Propagation analysis of energy-flow fluctuations and cascading failures in integrated energy systems: Complex network theory-based methods and an intuitive statistical indication",
+        "journal": "International Journal of Electrical Power & Energy Systems",
+        "year": 2025,
+        "volume_issue_pages": "156: 111331"
+      },
+      {
+        "id": 6,
+        "wang_ying_role": "author",
+        "authors": "Chen Wang, Ying Wang, Enrico Zio, Kaifeng Zhang*.",
+        "title": "Short-term load forecasting method for integrated energy systems based on graph neural network and multi-task balance",
+        "journal": "International Journal of Electrical Power & Energy Systems",
+        "year": 2025,
+        "volume_issue_pages": "155: 111195"
+      },
+      {
+        "id": 7,
+        "wang_ying_role": "author",
+        "authors": "Zhixian Wang, Davide Falabretti, Ying Wang, Kaifeng Zhang*.",
+        "title": "A coordinated charging/discharging strategy for EVs with flexible mobility in multi-temporary microgrids",
+        "journal": "Sustainable Energy, Grids and Networks",
+        "year": 2025,
+        "volume_issue_pages": "34: 101720"
+      },
+      {
+        "id": 8,
+        "wang_ying_role": "author",
+        "authors": "Jingxiao Jiang, Yanran Zhu, Ying Wang, Xiaorui Guo, Jianhu Lv, Jianxiang Qin, Xingyun Yan, Kaifeng Zhang*.",
+        "title": "Unit commitment with bidirectional ramping constraints of flexibility retrofit thermal power units",
+        "journal": "International Journal of Electrical Power & Energy Systems",
+        "year": 2025,
+        "volume_issue_pages": "153: 110709"
+      },
+      {
+        "id": 9,
+        "wang_ying_role": "author",
+        "authors": "Nanyang Zhu, Jia Ning, Wenjun Bi, Chunyu Chen, Ying Wang, Kaifeng Zhang*.",
+        "title": "CL-TGD: A novel point-wise contrastive learning with dynamic temporal granularity data incorporation for wind power prediction",
+        "journal": "Expert Systems with Applications",
+        "year": 2025,
+        "volume_issue_pages": "268: 126402"
+      },
+      {
+        "id": 10,
+        "wang_ying_role": "author",
+        "authors": "Nanyang Zhu, Ying Wang, Kun Yuan, Yanxia Pan, Kaifang Zhang*.",
+        "title": "Enhancing Wind power forecasting at local peak points: a novel Seq2Lpp model",
+        "journal": "IEEE Transactions on Industrial Informatics",
+        "year": 2025,
+        "volume_issue_pages": null
+      },
+      {
+        "id": 11,
+        "wang_ying_role": "corresponding_author",
+        "authors": "Chenwei Zhang, Ying Wang*, Tao Zheng, and Kaifeng Zhang.",
+        "title": "Complex network theory-based optimization for enhancing resilience of large-scale multi-energy System",
+        "journal": "Applied Energy",
+        "year": 2024,
+        "volume_issue_pages": "370: 123593"
+      },
+      {
+        "id": 12,
+        "wang_ying_role": "corresponding_author",
+        "authors": "Zhixian Wang, Ying Wang*, Zhetong Ding, Jiping Wu, and Kaifeng Zhang.",
+        "title": "Optimal AGC allocation strategy based on data-driven forecast of frequency distribution key parameters.",
+        "journal": "Electric Power Systems Research",
+        "year": 2024,
+        "volume_issue_pages": "226"
+      },
+      {
+        "id": 13,
+        "wang_ying_role": "corresponding_author",
+        "authors": "Chenwei Zhang, Ying Wang*, Tao Zheng, Chen Wang, and Kaifeng Zhang.",
+        "title": "Identifying Critical Weak Points of Power-Gas Integrated Energy System based on Complex Network Theory.",
+        "journal": "Reliability Engineering & System Safety",
+        "year": 2024,
+        "volume_issue_pages": "online"
+      },
+      {
+        "id": 14,
+        "wang_ying_role": "corresponding_author",
+        "authors": "Zhixian Wang, Ying Wang*, Jiping Wu, and Kaifeng Zhang.",
+        "title": "Fuzzy model predictive control for frequency regulation of temporary microgrids during load restoration",
+        "journal": "IET Renewable Power Generation",
+        "year": 2024,
+        "volume_issue_pages": "18(7): 1247-1259"
+      },
+      {
+        "id": 15,
+        "wang_ying_role": "corresponding_author",
+        "authors": "Yuanjing Li, Ying Wang*, Lili Li, Jingxiao Jiang, Kaifeng Zhang.",
+        "title": "Construct watchlist security constraints for monthly unit commitment considering wind power uncertainty",
+        "journal": "IET Renewable Power Generation",
+        "year": 2024,
+        "volume_issue_pages": "18, 810–824"
+      },
+      {
+        "id": 16,
+        "wang_ying_role": "author",
+        "authors": "Luyu Wang, Kaifeng Zhang *, Wenjun Bi, Ying Wang, Yaping Li and Wenbo Mao",
+        "title": "Indirect Coordinated Attack Against Relay via Load-Side Power Electronics and Its Defense Strategy",
+        "journal": "IEEE Transactions on Industrial Informatics",
+        "year": 2024,
+        "volume_issue_pages": "vol. 20, no. 4, pp. 5112-5124, April"
+      },
+      {
+        "id": 17,
+        "wang_ying_role": "author",
+        "authors": "Nanyang Zhu, Ying Wang, Kun Yuan, Jianhu Lv, Bo Su, Kaifeng Zhang *.",
+        "title": "Peak interval-focused wind power forecast with dynamic ramp considerations",
+        "journal": "International Journal of Electrical Power & Energy Systems",
+        "year": 2024,
+        "volume_issue_pages": "163: 110340"
+      },
+      {
+        "id": 18,
+        "wang_ying_role": "author",
+        "authors": "Nanyang Zhu, Ying Wang, Kun Yuan, Jiahao Yan, Yaping Li, and Kaifeng Zhang *.",
+        "title": "GGNet: a novel graph structure for power forecasting in renewable power plants considering temporal lead-lag correlations.",
+        "journal": "Applied Energy",
+        "year": 2024,
+        "volume_issue_pages": null
+      },
+      {
+        "id": 19,
+        "wang_ying_role": "corresponding_author",
+        "authors": "Ying Wang*, Kaiping Qu, and Kaifeng Zhang.",
+        "title": "Segmented Real-time Dispatch Model and Stochastic Robust Optimization for Power-gas Integrated Systems with Wind Power Uncertainty.",
+        "journal": "Journal of Modern Power Systems and Clean Energy",
+        "year": 2023,
+        "volume_issue_pages": "11 (5):1480-93"
+      },
+      {
+        "id": 20,
+        "wang_ying_role": "first_author",
+        "authors": "Ying Wang, Chunyu Chen *, Sen Zhang, Yilong Liu, Chongxin Huang, and Yuxin Du. 2023.",
+        "title": "A tri-level programming-based frequency regulation market equilibrium under cyber attacks.",
+        "journal": "Protection and Control of Modern Power Systems",
+        "year": 2023,
+        "volume_issue_pages": "8 (1)",
+        "doi": "10.1186/s41601-023-00332-8"
+      },
+      {
+        "id": 21,
+        "wang_ying_role": "first_author",
+        "authors": "Ying Wang, Jing Zhao, Lizhong Xu, Jing Zhou, and Kaifeng Zhang *.",
+        "title": "Cooperated Bidding of Aggregators to Meet Eligibility Requirements of Ancillary Service Market.",
+        "journal": "IEEE Transactions on Industry Applications",
+        "year": 2023,
+        "volume_issue_pages": "59 (5):5715-27",
+        "doi": "10.1109/tia.2023.3284787"
+      },
+      {
+        "id": 22,
+        "wang_ying_role": "corresponding_author",
+        "authors": "Chen Wang, Ying Wang*, Zhetong Ding, and Kaifeng Zhang",
+        "title": "Probabilistic Multi-energy Load Forecasting for Integrated Energy System Based on Bayesian Transformer Network",
+        "journal": "IEEE Transactions on Smart Grid",
+        "year": 2023,
+        "volume_issue_pages": "online"
+      },
+      {
+        "id": 23,
+        "wang_ying_role": "corresponding_author",
+        "authors": "Chen Wang, Ying Wang*, Zhetong Ding, Tao Zheng, Jiangyi Hu, and Kaifeng Zhang.",
+        "title": "A Transformer-Based Method of Multienergy Load Forecasting in Integrated Energy System.",
+        "journal": "IEEE Transactions on Smart Grid",
+        "year": 2022,
+        "volume_issue_pages": "13 (4):2703-14"
+      },
+      {
+        "id": 24,
+        "wang_ying_role": "author",
+        "authors": "Nanyang Zhu, Zemei Dai, Ying Wang, and Kaifeng Zhang *.",
+        "title": "A contrastive learning-based framework for wind power forecast.",
+        "journal": "Expert Systems with Applications",
+        "year": 2023,
+        "volume_issue_pages": "230"
+      },
+      {
+        "id": 25,
+        "wang_ying_role": "author",
+        "authors": "Zhetong Ding, Jiping Wu, Ying Wang, Shuo Shan, Kun Yuan, and Kaifeng Zhang *.",
+        "title": "DRL-based frequency response of wind turbine generators adapting their variable regulation capabilities.",
+        "journal": "IET Renewable Power Generation",
+        "year": 2023,
+        "volume_issue_pages": null,
+        "doi": "10.1049/rpg2.12534"
+      },
+      {
+        "id": 26,
+        "wang_ying_role": "author",
+        "authors": "Zhetong Ding, Kun Yuan, Junjian Qi, Ying Wang, Jiangyi Hu, and Kaifeng Zhang *.",
+        "title": "Robust and Cost-Efficient Coordinated Primary Frequency Control of Wind Power and Demand Response Based on Their Complementary Regulation Characteristics.",
+        "journal": "IEEE Transactions on Smart Grid",
+        "year": 2022,
+        "volume_issue_pages": "13 (6):4436-48"
+      },
+      {
+        "id": 27,
+        "wang_ying_role": "first_author",
+        "authors": "Ying Wang, Can Wan, Zhi Zhou, Kaifeng Zhang, Audun Botterud *.",
+        "title": "Improving deployment availability of energy storage with data-driven AGC signal models.",
+        "journal": "IEEE Trans. Power Systems",
+        "year": 2018,
+        "volume_issue_pages": "vol:33, no.4, pp. 4207-4217, July"
+      },
+      {
+        "id": 28,
+        "wang_ying_role": "author",
+        "authors": "XueMei Dai, Ying Wang, Yang, et al"
+      }
+    ]
+  }
+}

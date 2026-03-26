@@ -1,0 +1,135 @@
+{
+  "meta": {
+    "tutor_name_cn": "侯冬",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1157/4506.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1157/4506.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/c3e5e1dba1cd725b80c448c4a9f5a3cf3607c3a26e31e2e4ffb5325c04f7ecbe.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "source_url": "https://www.auto.uestc.edu.cn/info/1157/4506.htm",
+    "site_chrome": {
+      "page_title": "师资队伍",
+      "breadcrumbs": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "H",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/H.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "navigation_links": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ]
+    },
+    "personal_info": {
+      "name": "侯冬",
+      "profile_picture": {
+        "url": "https://www.auto.uestc.edu.cn/__local/5/CB/CE/DCDF5FE6F83739B3184F57F3192_8421A6EA_31F7B.jpg",
+        "alt_text": ""
+      },
+      "highest_degree": "博士",
+      "contact_phone": null,
+      "title_and_position": "副研究员",
+      "email": "houdong@uestc.edu.cn",
+      "mentor_status": "博士导师",
+      "personal_homepage": null,
+      "research_team": "测试技术与仪器研究所（信号产生）"
+    },
+    "research_interests": [
+      "精密时频测量技术",
+      "超快飞秒光梳技术",
+      "低噪声微波合成技术",
+      "光与原子相互作用以及相关交叉领域"
+    ],
+    "academic_affiliations_and_concurrent_posts": "目前是IEEE PTL和IEEE JQE期刊的审稿人。",
+    "experience": [
+      {
+        "period": "2004.7-2005.12",
+        "description": "任北京阜国数字技术有限公司电子工程师",
+        "type": "work"
+      },
+      {
+        "period": "2006.1-2007.9",
+        "description": "任北京联想网御科技有限公司高级电子工程师",
+        "type": "work"
+      },
+      {
+        "period": "2012.7-20014.6",
+        "description": "任北京大学信息科学技术学院博士后",
+        "type": "work"
+      },
+      {
+        "period": "2014.7-2015.10",
+        "description": "任美国科罗拉多大学博尔德分校物理系助理研究员",
+        "type": "work"
+      },
+      {
+        "period": "2015.11-2016.2",
+        "description": "赴韩国高等科学研究院机械工程系做高级访问学者",
+        "type": "work"
+      },
+      {
+        "period": "2016.2至今",
+        "description": "任电子科技大学自动化工程学院专职科研",
+        "type": "work"
+      }
+    ],
+    "scientific_research_summary": "因在博士后期间的突出研究成果，被评为2014年度北京大学优秀博士后。近五年来，在Nature出版社下的Scientific Report，Applied Physics Letters，IEEE Journal Quantum Electronics，IEEE Journal of Selected Topics in Quantum Electronics，Optics Letters，Optics Express等国际权威SCI期刊上发表论文20余篇，国际A类会议10余篇。",
+    "courses_and_teaching_research": {
+      "undergraduate_courses": [
+        "数字系统EDA技术"
+      ],
+      "graduate_courses": [
+        "时间频率的检测与控制技术",
+        "研究生论文写作指导"
+      ],
+      "teaching_positions": null,
+      "teaching_research": null
+    },
+    "admission_disciplines": {
+      "master_programs": [
+        "080400仪器科学与技术",
+        "085400电子信息"
+      ],
+      "doctoral_programs": [
+        "080400仪器科学与技术",
+        "085400电子信息",
+        "086100交通运输"
+      ]
+    }
+  }
+}

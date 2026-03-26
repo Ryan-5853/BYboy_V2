@@ -1,0 +1,180 @@
+{
+  "meta": {
+    "tutor_name_cn": "所获荣誉",
+    "request_url": "http://automation.seu.edu.cn/ljy/list.htm",
+    "declared_source_url": "http://automation.seu.edu.cn/ljy/list.htm",
+    "page_host": "automation.seu.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/e64d243d6c7d7cdafcbb1810f7f814148f4887c9df49d4676908854836a74c4e.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "page_context": {
+      "source_url": "http://automation.seu.edu.cn/ljy/list.htm",
+      "notes": "The markdown content describes a single individual. The individual's full name is not explicitly stated in the provided text."
+    },
+    "person_profile": {
+      "name": null,
+      "basic_information": {
+        "description": "工学博士，国家级一流课程负责人，首届全国教师教学创新大赛一等奖、教学学术创新单项奖、教学设计创新单项奖获得者。"
+      },
+      "education_background": [
+        {
+          "year": 2002,
+          "degree": "本科",
+          "institution": "东南大学自动控制系",
+          "notes": "毕业后留校任教"
+        },
+        {
+          "year": 2004,
+          "degree": "硕士",
+          "institution": "东南大学软件学院"
+        },
+        {
+          "year": 2015,
+          "degree": "博士",
+          "major": "模式识别与智能系统",
+          "institution": "东南大学自动化学院"
+        }
+      ],
+      "work_experience": [
+        {
+          "start_date": "2002年8月",
+          "end_date": "至今",
+          "position": "留校任教"
+        }
+      ],
+      "academic_affiliations_and_positions": [
+        "江苏省自动化学会普及与咨询工作委员会副主任委员"
+      ],
+      "awards_and_honors": [
+        {
+          "year": 2021,
+          "award_name": "首届全国高校教师教学创新大赛一等奖",
+          "notes": "带领团队获得，同时获得教学学术创新奖和教学设计创新奖两项单项奖"
+        },
+        {
+          "year": 2021,
+          "award_name": "首届江苏省高校教师教学创新大赛特等奖",
+          "notes": "排名第一"
+        },
+        {
+          "year": 2021,
+          "award_name": "东南大学“陶行知”教学管理奖教金"
+        },
+        {
+          "year": 2020,
+          "award_name": "江苏省微课教学比赛（课程思政）一等奖"
+        },
+        {
+          "year": 2020,
+          "award_name": "东南大学“陶行知”教学管理奖教金"
+        },
+        {
+          "year": 2017,
+          "award_name": "江苏省教学成果奖一等奖",
+          "notes": "排名第二"
+        },
+        {
+          "year": 2016,
+          "award_name": "卓越大学联盟（E9）高校青年教师教学能力大赛二等奖"
+        },
+        {
+          "year": 2016,
+          "award_name": "东南大学青年教师授课竞赛二等奖"
+        },
+        {
+          "year": 2016,
+          "award_name": "东南大学“三育人”积极分子称号"
+        },
+        {
+          "year": 2013,
+          "award_name": "东南大学“吾爱吾师”评选“我最喜爱的十大教师”称号"
+        }
+      ],
+      "teaching_achievements": [
+        {
+          "year": 2020,
+          "description": "主持获批首批国家级线上线下混合式一流课程：计算机程序设计（上）",
+          "type": "国家级一流课程"
+        },
+        {
+          "year": 2020,
+          "description": "主持全国高等院校计算机基础教育研究会2020线上教学优秀案例",
+          "type": "教学优秀案例"
+        },
+        {
+          "year": 2020,
+          "description": "主持全国高等院校计算机基础教学研究会教改项目",
+          "type": "教改项目"
+        },
+        {
+          "year": 2019,
+          "description": "主持教育部产学研协同项目",
+          "type": "产学研协同项目"
+        },
+        {
+          "year": 2019,
+          "description": "主持江苏省高校在线开放课程",
+          "type": "在线开放课程"
+        },
+        {
+          "year": 2019,
+          "description": "主持CMOOC联盟优秀在线开放课程",
+          "type": "在线开放课程"
+        },
+        {
+          "year": 2019,
+          "description": "主持CMOOC联盟线上线下混合式教学改革项目",
+          "type": "教学改革项目"
+        },
+        {
+          "year": 2018,
+          "description": "主持全国高等院校计算机基础教学研究会教改项目",
+          "type": "教改项目",
+          "notes": "次年优秀结题"
+        }
+      ],
+      "courses_taught": [
+        {
+          "name": "计算机程序设计（上、下、综合课程设计）",
+          "audience": "工科试验班一年级秋、春、夏学期"
+        },
+        {
+          "name": "算法与程序设计",
+          "audience": "吴健雄学院、文科试验班一年级秋、春、夏学期"
+        },
+        {
+          "name": "工程设计导论",
+          "audience": "自动化学院二年级秋季学期"
+        }
+      ],
+      "student_cultivation": null,
+      "research_interests": "主要从事致力于机器视觉、领域的研究，在很多工业场合及在仪器集成与管控、网络应用、数据库应用等领域有成功的应用。",
+      "research_projects": {
+        "summary": "主持横向项目8项，同企业合作10余项。",
+        "recent_projects_list": [
+          "电力铁塔架空线三维点云识别与无人机自动飞行路径规划",
+          "计量单位微波仪器通用计量平台",
+          "生产线基于图像的产品质量检测",
+          "车载前向视觉关键技术研究"
+        ]
+      },
+      "publications": null
+    },
+    "site_chrome": {
+      "images": [
+        {
+          "url": "https://automation.seu.edu.cn/ljy/list.htm",
+          "description": "Malformed image link or placeholder referring to the page itself."
+        },
+        {
+          "url": "https://automation.seu.edu.cn/_visitcount?siteId=338&type=2&columnId=32565",
+          "description": "Website visit counter image."
+        }
+      ]
+    }
+  }
+}

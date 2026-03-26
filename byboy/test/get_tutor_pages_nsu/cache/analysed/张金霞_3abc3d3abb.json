@@ -1,0 +1,513 @@
+{
+  "meta": {
+    "tutor_name_cn": "张金霞",
+    "request_url": "http://automation.seu.edu.cn/zjx/list.htm",
+    "declared_source_url": "http://automation.seu.edu.cn/zjx/list.htm",
+    "page_host": "automation.seu.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/dab65f049fc34e0fbbcfd0c7751d03dbf0e360d62bf9e576b2f81fe3959483c0.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "personal_info": {
+      "name": "张金霞",
+      "aliases": [],
+      "titles_affiliations": [
+        "东南大学自动化学院副教授（破格）",
+        "博士生导师",
+        "东南大学至善青年学者A类"
+      ],
+      "description": "作为项目负责人主持国家自然科学基金项目、江苏省自然科学基金项目、若干项企业合作项目和重点实验室开放课题。在国际学术期刊和国际会议上发表学术论文40余篇，包括TII、PR、Applied Energy、TMM等学科顶级期刊。第一发明人授权发明专利8项，公开发明专利6项。指导研究生电子设计竞赛获全国总决赛二等奖、全国总决赛最佳论文奖和华东分赛一等奖。指导本科毕业设计获校优和院优。参与教学的工程设计导论（研讨）课获江苏省一流课程。参与编写的教材《神经网络设计》入选江苏省重点教材和“十三五”国家重点图书出版规划（高等教育出版社）。以并列第一编者的身份编著一本《深度学习》教材，目前已出版5000+册。",
+      "research_directions": [
+        "多模态",
+        "计算机视觉",
+        "具身智能感知"
+      ]
+    },
+    "contact_info": {
+      "email": "jinxiazhang@seu.edu.cn",
+      "personal_homepage": "https://jinxiazhang99.github.io"
+    },
+    "student_recruitment": {
+      "doctoral_students_per_year": "1-2名",
+      "master_students_nanjing_campus_per_year": "2-3名",
+      "master_students_suzhou_campus_per_year": "1-2名",
+      "master_students_wuxi_campus_per_year": "1-2名",
+      "welcome_message": "欢迎勤奋、踏实、好学、对多模态、计算机视觉和具身智能感知感兴趣的同学。"
+    },
+    "work_experience": [
+      {
+        "start_date": "2019-04",
+        "end_date": "至今",
+        "institution": "东南大学",
+        "department": "自动化学院",
+        "position": "副教授（破格）"
+      },
+      {
+        "start_date": "2016-03",
+        "end_date": "2019-03",
+        "institution": "东南大学",
+        "department": "自动化学院",
+        "position": "讲师"
+      },
+      {
+        "start_date": "2012-10",
+        "end_date": "2014-09",
+        "institution": "美国哈佛医学院",
+        "department": "视觉注意实验室",
+        "position": "访问学者",
+        "mentor": "Jeremy Wolfe教授"
+      }
+    ],
+    "courses_taught": {
+      "undergraduate": [
+        "数据结构",
+        "工程设计导论",
+        "人工智能通识导论"
+      ],
+      "graduate": [
+        "图像处理和理解"
+      ]
+    },
+    "research_projects": [
+      {
+        "title": "图文多模态驱动的光伏电池缺陷自适应检测方法研究",
+        "funding_source": "国家自然科学基金面上项目",
+        "role": "主持"
+      },
+      {
+        "title": "结合感知分组和视觉注意特性的显著目标检测研究",
+        "funding_source": "国家自然科学基金青年项目",
+        "role": "主持"
+      },
+      {
+        "title": "基于视觉认知特性的复杂图像显著目标检测研究",
+        "funding_source": "江苏省基金青年项目",
+        "role": "主持"
+      },
+      {
+        "title": "基于显著区域与语义类别精准匹配的复杂场景弱监督语义分割研究",
+        "funding_source": "广东省自然科学基金面上项目",
+        "role": "主持"
+      },
+      {
+        "title": "光伏组件热斑、隐裂等缺陷诊断分析技术",
+        "funding_source": "国家重点研发计划项目",
+        "role": "项目骨干"
+      },
+      {
+        "title": "面向海上光伏电站智慧运维的持续缺陷检测方法研究",
+        "funding_source": "东南大学南通海洋研究院面上项目",
+        "role": "主持"
+      },
+      {
+        "title": "电商领域可控多模态图文理解和生成",
+        "funding_source": "阿里巴巴（中国）网络技术有限公司预研项目",
+        "role": "主持"
+      },
+      {
+        "title": "AI果实识别系统",
+        "funding_source": "企业项目",
+        "role": "主持"
+      },
+      {
+        "title": "智能机器人面对复杂场景时的显著目标检测研究",
+        "funding_source": "重点实验室课题",
+        "role": "主持"
+      },
+      {
+        "title": "面向复杂自然场景图像的显著区域检测研究",
+        "funding_source": "重点实验室课题",
+        "role": "主持"
+      },
+      {
+        "title": "分布式光伏系统智慧运维技术",
+        "funding_source": "企事业单位委托项目",
+        "role": "项目骨干"
+      },
+      {
+        "title": "基于地基云图和深度学习的光伏功率超短期预测研究",
+        "funding_source": "国家自然科学基金面上项目",
+        "role": "参与"
+      }
+    ],
+    "publications": [
+      {
+        "authors": "Jinxia Zhang, Zechao Zhan, Dehong Gao, Jiale Huang, Yang Hu, Xin Wang",
+        "title": "TRAMDiff: Texture Retention fashion image editing with Attention enhancement and Mask prediction in Diffusion Model",
+        "journal_conference": "IEEE Transactions on Multimedia",
+        "year": 2025,
+        "details": "(accepted)",
+        "qualifiers": [],
+        "jinxia_zhang_role": "first_author"
+      },
+      {
+        "authors": "Chaoyang Song, Jinxia Zhang*, Shixiong Fang, Liping Chen",
+        "title": "A domain guided foundation framework for cell level defect segmentation in photovoltaic system",
+        "journal_conference": "Solar Energy",
+        "year": 2026,
+        "details": "303: 114145",
+        "qualifiers": [
+          "IF=7.188"
+        ],
+        "jinxia_zhang_role": "corresponding_author"
+      },
+      {
+        "authors": "Xinyue Lei, Jinxia Zhang*, et cl.",
+        "title": "Knowledge Distillation Based on Fast Normalization Attention and Auxiliary Multi-Label Recognition for Continual Photovoltaic Defect Segmentation",
+        "journal_conference": "Renewable Energy",
+        "year": 2026,
+        "details": "256: 124505",
+        "qualifiers": [
+          "Q1 top一区"
+        ],
+        "jinxia_zhang_role": "corresponding_author"
+      },
+      {
+        "authors": "Jinxia Zhang, Yin Yuan, Xuwen Zhu, Yang Hu, Kaihua Zhang",
+        "title": "Partitioned Observation Network for Camouflaged Object Detection",
+        "journal_conference": "Pattern Recognition",
+        "year": 2025,
+        "details": "112637",
+        "qualifiers": [],
+        "jinxia_zhang_role": "first_author"
+      },
+      {
+        "authors": "Ziai Zhou, Jinxia Zhang*, et cl.",
+        "title": "Defective Electroluminescence Image Generation for Data Imbalance in Solar Cell Defect Inspection",
+        "journal_conference": "Journal of Photovoltaics",
+        "year": 2025,
+        "details": "15(6): 908-914",
+        "qualifiers": [],
+        "jinxia_zhang_role": "corresponding_author"
+      },
+      {
+        "authors": "Shenghao Dong, Jinxia Zhang*, Yu Shen, et al.",
+        "title": "Referring Solar Cell Defect Segmentation in Electroluminescence Images",
+        "journal_conference": "IEEE Transactions on Industrial Informatics",
+        "year": 2025,
+        "details": "21(9), 6788-6798",
+        "qualifiers": [],
+        "jinxia_zhang_role": "corresponding_author"
+      },
+      {
+        "authors": "Jinxia Zhang, Min Huang, Xinchao Zhu, Haikun Wei, Shixiong Fang and Kanjian Zhang",
+        "title": "DICO: Distance-weighted Contrast and Instance Correlation for Salient Object Ranking",
+        "journal_conference": "Neurocomputing",
+        "year": 2025,
+        "details": "649: 130715",
+        "qualifiers": [],
+        "jinxia_zhang_role": "first_author"
+      },
+      {
+        "authors": "Jiale Huang, Dehong Gao, Jinxia Zhang*, et al.",
+        "title": "FashionFAE: Fine-grained Attributes Enhanced Fashion Vision-Language Pre-training",
+        "journal_conference": "ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+        "year": 2025,
+        "details": "[C]",
+        "qualifiers": [
+          "CCF-B"
+        ],
+        "jinxia_zhang_role": "corresponding_author"
+      },
+      {
+        "authors": "Yang Hu, Jinxia Zhang*, Kaihua Zhang, et al.",
+        "title": "Shifting Spotlight for Co-supervision: A Simple yet Efficient Single-branch Network to See Through Camouflage",
+        "journal_conference": "ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+        "year": 2025,
+        "details": "[C]",
+        "qualifiers": [
+          "CCF-B"
+        ],
+        "jinxia_zhang_role": "corresponding_author"
+      },
+      {
+        "authors": "Zechao Zhan, Dehong Gao, Jinxia Zhang*, et al.",
+        "title": "MADiff: Text-Guided Fashion Image Editing with Mask Prediction and Attention-Enhanced Diffusion",
+        "journal_conference": "ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+        "year": 2025,
+        "details": "[C]",
+        "qualifiers": [
+          "CCF-B"
+        ],
+        "jinxia_zhang_role": "corresponding_author"
+      },
+      {
+        "authors": "Yeyuan Wang, Dehong Gao, Lei Yi, Linbo Jin, Jinxia Zhang, Libin Yang, Xiaoyan Cai",
+        "title": "Enhancing Fine-Grained Vision-Language Pretraining with Negative Augmented Samples",
+        "journal_conference": "AAAI",
+        "year": 2025,
+        "details": "",
+        "qualifiers": [
+          "CCF-A"
+        ],
+        "jinxia_zhang_role": "co_author"
+      },
+      {
+        "authors": "Yeyuan Wang, Dehong Gao, Bin Li, Rujiao Long, Lei Yi, Xiaoyan Cai, Libin Yang, Jinxia Zhang, Shanqing Yu, Qi Xuan",
+        "title": "CoF: Coarse to Fine-Grained Image Understanding for Multi-modal Large Language Models",
+        "journal_conference": "ICASSP",
+        "year": 2025,
+        "details": "",
+        "qualifiers": [
+          "CCF-B"
+        ],
+        "jinxia_zhang_role": "co_author"
+      },
+      {
+        "authors": "Qingyu Lu, Liang Ding, Kanjian Zhang, Jinxia Zhang, Dacheng Tao",
+        "title": "MQM-APE: Toward High-Quality Error Annotation Predictors with Automatic Post-Editing in LLM Translation Evaluators",
+        "journal_conference": "The 31st International Conference on Computational Linguistics",
+        "year": 2025,
+        "details": "",
+        "qualifiers": [
+          "CCF-B"
+        ],
+        "jinxia_zhang_role": "co_author"
+      },
+      {
+        "authors": "Jinxia Zhang, Xinyi Chen, Haikun Wei, Kanjian Zhang",
+        "title": "A lightweight network for photovoltaic cell defect detection in electroluminescence images based on neural architecture search and knowledge distillation",
+        "journal_conference": "Applied Energy",
+        "year": 2024,
+        "details": "355, 122184",
+        "qualifiers": [
+          "Q1 top一区"
+        ],
+        "jinxia_zhang_role": "first_author"
+      },
+      {
+        "authors": "Jinxia Zhang, Yu Shen,Jiacheng Jiang,Shixiong Fang,Liping Chen,Tingting Yan,Zuoyong Li,Kanjian Zhang, Weili Guo, Haikun Wei",
+        "title": "Automatic detection of defective solar cells in electroluminescence images via global similarity and concatenated saliency guided network",
+        "journal_conference": "IEEE Transactions ON Industrial Informatics",
+        "year": 2023,
+        "details": "19(6), 7335-7345",
+        "qualifiers": [
+          "Q1 top一区"
+        ],
+        "jinxia_zhang_role": "first_author"
+      },
+      {
+        "authors": "Jingzheng Deng, Jinxia Zhang*, Zewen Hu, Liantao Wang, Jiacheng Jiang, Xinchao Zhu, Xinyi Chen, Yin Yuan, Chao Wang",
+        "title": "RGB-D salient object ranking based on depth stack and truth stack for complex indoor scenes",
+        "journal_conference": "Pattern Recognition",
+        "year": 2023,
+        "details": "137: 109251",
+        "qualifiers": [],
+        "jinxia_zhang_role": "corresponding_author"
+      },
+      {
+        "authors": "Yu Shen, He, Z., Xu, Z., Wang, Y., Li, C., Jinxia Zhang*, Wei, H *",
+        "title": "Modeling of photovoltaic modules under common shading conditions",
+        "journal_conference": "Energy",
+        "year": 2022,
+        "details": "256, 124618",
+        "qualifiers": [
+          "一区",
+          "已检索WOS:000834159800009"
+        ],
+        "jinxia_zhang_role": "corresponding_author"
+      },
+      {
+        "authors": "Yu Shen, Tao Fan, Guangzhi Lai, Zhixiong Na, Hu Liu, Ziyao Wang, Yiye Wang, Yiping Jiao, Xinyi Chen, Zhouwei Lou, Jinxia Zhang*, Kanjian Zhang, Haikun Wei *",
+        "title": "Modified U-Net based photovoltaic array extraction from complex scene in aerial infrared thermal imagery",
+        "journal_conference": "Solar Energy",
+        "year": 2022,
+        "details": "240:90-103",
+        "qualifiers": [
+          "已检索WOS:000809727300004"
+        ],
+        "jinxia_zhang_role": "corresponding_author"
+      },
+      {
+        "authors": "Yu Shen, Zhen Xu, Yiye Wang, Chenxi Li, Peizhen Peng, Jinxia Zhang*, Kanjian Zhang, Haikun Wei *",
+        "title": "Temperature Estimation of Partial Shaded Photovoltaic Modules Using a Multi-physics Model",
+        "journal_conference": "Journal of Photovoltaics",
+        "year": 2022,
+        "details": "",
+        "qualifiers": [],
+        "jinxia_zhang_role": "corresponding_author"
+      },
+      {
+        "authors": "Qinghua Ren, Shijian Lu, Jinxia Zhang, Renjie Hu",
+        "title": "Salient object detection by fusing local and global contexts",
+        "journal_conference": "IEEE Transactions on Multimedia",
+        "year": 2020,
+        "details": "PP(99):1-1",
+        "qualifiers": [],
+        "jinxia_zhang_role": "co_author"
+      },
+      {
+        "authors": "Jinxia Zhang, Krista A. Ehinger, Haikun Wei, Kanjian Zhang, Jingyu Yang",
+        "title": "A novel graph-based optimization framework for salient object detection",
+        "journal_conference": "Pattern Recognition",
+        "year": 2017,
+        "details": "64: 39-50",
+        "qualifiers": [
+          "WOS: 000392682400004"
+        ],
+        "jinxia_zhang_role": "first_author"
+      },
+      {
+        "authors": "Jinxia Zhang, Xue Gong, Daryl Fougnie, Jeremy Wolfe",
+        "title": "How humans react to changing rewards during visual foraging",
+        "journal_conference": "Attention Perception & Psychophysics",
+        "year": 2017,
+        "details": "79(8): 2299-2309",
+        "qualifiers": [
+          "WOS: 000414337800005"
+        ],
+        "jinxia_zhang_role": "first_author"
+      },
+      {
+        "authors": "Jinxia Zhang, Shixiong Fang, Krista A. Ehinger, Weili Guo, Wankou Yang, Haikun Wei",
+        "title": "Probabilistic Hypergraph Optimization for Salient Object Detection",
+        "journal_conference": "ISciDE",
+        "year": 2017,
+        "details": "P368-378",
+        "qualifiers": [
+          "WOS:000441466300032"
+        ],
+        "jinxia_zhang_role": "first_author"
+      },
+      {
+        "authors": "Jinxia Zhang, Xue Gong, Daryl Fougnie, Jeremy Wolfe",
+        "title": "Using the past to anticipate the future in human foraging behavior",
+        "journal_conference": "Vision Research",
+        "year": 2015,
+        "details": "111:66-74",
+        "qualifiers": [
+          "WOS:000356027200007"
+        ],
+        "jinxia_zhang_role": "first_author"
+      },
+      {
+        "authors": "Jinxia Zhang, Jundi Ding, Jingyu Yang",
+        "title": "Exploiting global rarity, local contrast and central bias for salient region learning",
+        "journal_conference": "Neurocomputing",
+        "year": 2014,
+        "details": "144:569-580",
+        "qualifiers": [
+          "WOS:000341677800054"
+        ],
+        "jinxia_zhang_role": "first_author"
+      },
+      {
+        "authors": "Z. Bylinskii(1), E. DeGennaro(1), R. Rajalingham(1), H. Ruda(1), Jinxia Zhang(1), J.K. Tsotsos",
+        "title": "Towards the quantitative evaluation of visual attention models",
+        "journal_conference": "Vision Research",
+        "year": 2015,
+        "details": "116:258-268",
+        "qualifiers": [
+          "The first 5 authors, listed alphabetically according to last name, contributed equally",
+          "WOS: 000364270400013"
+        ],
+        "jinxia_zhang_role": "equal_contributor"
+      },
+      {
+        "authors": "Jinxia Zhang, Krista A. Ehinger, Jundi Ding, Jingyu Yang",
+        "title": "A prior-based graph for salient object detection",
+        "journal_conference": "ICIP",
+        "year": 2014,
+        "details": "Paris, France, 27-30 October 2014, P1175-1178",
+        "qualifiers": [
+          "WOS:000370063601069"
+        ],
+        "jinxia_zhang_role": "first_author"
+      }
+    ],
+    "patents": [
+      {
+        "type": "发明专利",
+        "status": "授权",
+        "count": 8,
+        "role": "第一发明人"
+      },
+      {
+        "type": "发明专利",
+        "status": "公开",
+        "count": 6,
+        "role": "第一发明人"
+      }
+    ],
+    "academic_service": [
+      {
+        "role": "通讯委员",
+        "organization": "中国自动化学会模式识别与机器智能专委会"
+      },
+      {
+        "role": "委员",
+        "organization": "江苏省人工智能学会模式识别专委会"
+      },
+      {
+        "role": "会员",
+        "organization": "江苏省自动化学会"
+      },
+      {
+        "role": "审稿人",
+        "organization": "Pattern Recognition"
+      },
+      {
+        "role": "审稿人",
+        "organization": "Neurocomputing"
+      },
+      {
+        "role": "PC member",
+        "conference": "ACPR 2019"
+      },
+      {
+        "role": "PC member",
+        "conference": "IscIDE2019"
+      }
+    ],
+    "books": [
+      {
+        "title": "神经网络设计",
+        "role": "参与编写",
+        "publisher": "高等教育出版社",
+        "notes": "入选江苏省重点教材和“十三五”国家重点图书出版规划"
+      },
+      {
+        "title": "深度学习",
+        "role": "并列第一编者",
+        "publication_status": "已出版",
+        "sales_volume": "5000+册"
+      }
+    ],
+    "student_guidance_achievements": [
+      {
+        "award_name": "全国总决赛二等奖",
+        "competition": "研究生电子设计竞赛"
+      },
+      {
+        "award_name": "全国总决赛最佳论文奖",
+        "competition": "研究生电子设计竞赛"
+      },
+      {
+        "award_name": "华东分赛一等奖",
+        "competition": "研究生电子设计竞赛"
+      },
+      {
+        "award_name": "校优",
+        "item": "本科毕业设计"
+      },
+      {
+        "award_name": "院优",
+        "item": "本科毕业设计"
+      }
+    ],
+    "awards": [],
+    "education": [],
+    "site_chrome": {
+      "source_url": "http://automation.seu.edu.cn/zjx/list.htm",
+      "image_from_url": "https://automation.seu.edu.cn/zjx/list.htm",
+      "navigation_links_without_content_in_this_page": [
+        "教育背景",
+        "所获奖励"
+      ],
+      "visit_count_image_url": "https://automation.seu.edu.cn/_visitcount?siteId=338&type=2&columnId=32842"
+    }
+  }
+}

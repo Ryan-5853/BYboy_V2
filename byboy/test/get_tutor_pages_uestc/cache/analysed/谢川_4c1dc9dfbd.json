@@ -1,0 +1,167 @@
+{
+  "meta": {
+    "tutor_name_cn": "谢川",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1173/4428.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1173/4428.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/f719960830c9566984748cd9b720b5965b52bd1a0fa3757954d694818c7904d5.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "site_metadata": {
+      "source_url": "https://www.auto.uestc.edu.cn/info/1173/4428.htm",
+      "page_title": "师资队伍",
+      "breadcrumb": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "X",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/X.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "navigation_links": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ]
+    },
+    "personal_info": {
+      "name": "谢川",
+      "image_url": "https://www.auto.uestc.edu.cn/__local/D/5D/B9/260669FF68108FB82495080FCCA_CF9F098C_61D75.jpg",
+      "highest_degree": "博士",
+      "contact_phone": null,
+      "position_title": "副教授",
+      "email": "c.xie@uestc.edu.cn",
+      "supervisor_status": "硕士导师",
+      "personal_homepage": {
+        "anchor_text": "个人主页",
+        "url": "http://faculty.uestc.edu.cn/cxi/zh_CN/index.htm"
+      },
+      "research_team": "自动化研究所"
+    },
+    "research_directions": [
+      "电力电子系统先进控制方法",
+      "电能质量控制装置与技术",
+      "新能源分布式发电系统控制",
+      "电力电子装置可靠性提升"
+    ],
+    "academic_titles_affiliations": {
+      "current_roles": [
+        "IEEE Senior Member"
+      ],
+      "reviewer_roles": [
+        "IEEE Trans. Power Electron.",
+        "IEEE Trans. Ind. Electron.",
+        "IEEE J. Emerg. Sel. Top. Power Electron.",
+        "IET Power Electron.等顶级期刊审稿人"
+      ]
+    },
+    "experience": {
+      "education_work_experience": [
+        {
+          "period": "2019.08-今",
+          "institution": "电子科技大学 自动化工程学院",
+          "role": "副教授"
+        },
+        {
+          "period": "2012.9-2019.08",
+          "institution": "电子科技大学 自动化工程学院",
+          "role": "讲师"
+        },
+        {
+          "period": "2015.5-2016.6",
+          "institution": "Aalborg Universities",
+          "role": "访问学者"
+        }
+      ]
+    },
+    "scientific_research": {
+      "projects": {
+        "summary": "作为负责人或主研人先后承担过20余项科研项目，包括：国家重点研发计划、国家自然科学基金、四川省科技支撑计划和大型中央企业产业化项目等，累计经费逾1000万元，其中主持5项、主研17项。",
+        "details": {
+          "total_projects": "20余项",
+          "major_types": [
+            "国家重点研发计划",
+            "国家自然科学基金",
+            "四川省科技支撑计划",
+            "大型中央企业产业化项目"
+          ],
+          "total_funding_amount": "逾1000万元",
+          "led_projects": "5项",
+          "participated_projects": "17项"
+        }
+      },
+      "publications": {
+        "summary": "在可再生能源并网发电变流器的设计和高精度控制技术、有源电力滤波器、谐波抑制与补偿等方面的研究成果，发表论文40余篇（第一作者16篇），其中SCI 检索15篇（第一作者7篇）。",
+        "details": {
+          "total_papers": "40余篇",
+          "first_author_papers": "16篇",
+          "sci_indexed_papers": "15篇",
+          "sci_indexed_first_author_papers": "7篇",
+          "research_areas_covered": [
+            "可再生能源并网发电变流器的设计和高精度控制技术",
+            "有源电力滤波器",
+            "谐波抑制与补偿"
+          ]
+        }
+      },
+      "patents": {
+        "summary": "研究的创新技术成果以第一发明人申请国家技术发明专利13项，已授权10项。",
+        "details": {
+          "applications": "13项",
+          "granted": "10项",
+          "role": "第一发明人"
+        }
+      }
+    },
+    "courses": {
+      "undergraduate_courses": [
+        "运动控制系统（含电拖基础）",
+        "电力电子技术基础",
+        "自动控制原理实验",
+        "综合（专题）课程设计"
+      ],
+      "graduate_courses": [
+        "电网基础及新能源发电并网技术",
+        "电力电子系统建模与控制"
+      ]
+    },
+    "admission_specialties": {
+      "master_programs": [
+        "081100控制科学与工程",
+        "085400电子信息"
+      ],
+      "doctoral_programs": []
+    }
+  }
+}

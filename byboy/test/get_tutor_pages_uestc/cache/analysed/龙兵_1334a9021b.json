@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "tutor_name_cn": "龙兵",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1161/4361.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1161/4361.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/6e508b6cdc6c355d50f4019360eccb4ed7b2027e68552df3422fe287559bbf7f.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "query_name": "龙兵",
+    "source_url": "https://www.auto.uestc.edu.cn/info/1161/4361.htm",
+    "site_chrome": {
+      "source_capture_url": "https://www.auto.uestc.edu.cn/info/1161/4361.htm",
+      "page_sections": [
+        "师资队伍"
+      ],
+      "breadcrumbs": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "L",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/L.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "navigation_links": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ]
+    },
+    "mentor_info": {
+      "name": "龙兵",
+      "image_url": "https://www.auto.uestc.edu.cn/__local/2/7C/09/E2F9DFD0A0C47F144545C2467EF_D6E25377_1AE206.jpg",
+      "personal_details": {
+        "highest_degree": "博士",
+        "contact_phone": null,
+        "title_and_position": "教授",
+        "email": "longbing@uestc.edu.cn",
+        "supervisor_status": "博士导师",
+        "personal_homepage": null,
+        "research_team": "测试技术与仪器研究所"
+      },
+      "main_research_directions": [
+        "电路与系统测试、诊断、预测与可测性设计"
+      ],
+      "academic_titles_and_part_time_positions": [
+        "担任IEEE ICTD09 国际学术会议总秘书长兼出版主席",
+        "中国计算机自动测量与控制技术协会全国理事",
+        "美国马里兰大学CALCE中心访问教授"
+      ],
+      "education_and_work_experience": [
+        {
+          "period": "2014.07- 至今",
+          "institution": "电子科技大学",
+          "department": "自动化工程学院",
+          "position": "教授"
+        },
+        {
+          "period": "2011.01- 2012.01",
+          "institution": "美国马里兰大学",
+          "position": "访问学者"
+        },
+        {
+          "period": "2007.07- 2014.07",
+          "institution": "电子科技大学",
+          "department": "自动化工程学院",
+          "position": "副教授"
+        },
+        {
+          "period": "2005.04- 2007.07",
+          "institution": "电子科技大学",
+          "department": "自动化工程学院",
+          "position": "讲师"
+        }
+      ],
+      "scientific_research": {
+        "overview": "长期从事电路与系统测试、诊断、预测与可测性设计等方面的研究。",
+        "projects": {
+          "description": "先后主持和承担国家自然科学基金重点/面上等纵向项目与中电10所等横向课题10余项，经费超千万元。",
+          "project_count_summary": "10余项",
+          "funding_summary": "经费超千万元"
+        },
+        "applications": "研制的电子系统综合诊断、预测与可测试性系统已成功应用在国内多个单位。",
+        "publications": {
+          "total_count_summary": "100余篇",
+          "sci_indexed_count_summary": "20余篇"
+        },
+        "patents": {
+          "application_count_summary": "10余项",
+          "authorized_count_summary": "8项"
+        },
+        "monographs": "出版国防科技图书基金资助专著1部"
+      },
+      "courses_taught_and_teaching_research": {
+        "undergraduate_courses": [
+          "电路与电子系统故障诊断"
+        ],
+        "graduate_courses": [
+          "电子系统故障诊断与测试性技术"
+        ]
+      },
+      "admission_majors": {
+        "masters": [
+          "080400仪器科学与技术",
+          "085400电子信息"
+        ],
+        "doctorate": [
+          "080400仪器科学与技术",
+          "085400电子信息",
+          "086100交通运输"
+        ]
+      }
+    }
+  }
+}

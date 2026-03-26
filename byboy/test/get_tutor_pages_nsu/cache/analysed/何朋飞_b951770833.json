@@ -1,0 +1,265 @@
+{
+  "meta": {
+    "tutor_name_cn": "何朋飞",
+    "request_url": "http://automation.seu.edu.cn/hpf/list.htm",
+    "declared_source_url": "http://automation.seu.edu.cn/hpf/list.htm",
+    "page_host": "automation.seu.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/5b8d3f86ad316564e9196e4fc290ffa6a25ab1ce0674f774d3c9271ac15cec78.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "source_url": "http://automation.seu.edu.cn/hpf/list.htm",
+    "target_name": "何朋飞",
+    "profile": {
+      "basic_info": {
+        "name": "何朋飞",
+        "birth_year": 1994,
+        "current_affiliation": "东南大学自动化学院",
+        "start_year": 2023,
+        "positions": [
+          "上岗副研究员",
+          "博士生导师",
+          "香江学者"
+        ],
+        "xiangjiang_scholar_mentor": {
+          "name": "姚新",
+          "url": "https://www.ln.edu.hk/chs/po/people/professor-xin-yao"
+        },
+        "academic_directions": [
+          "大规模机器人路径规划问题",
+          "机器学习与图神经网络",
+          "智能优化算法",
+          "运筹优化"
+        ],
+        "publication_highlights": "研究成果以第一作者身份发表在INFORMS Journal on Computing(UTD24), Transportation Science, European Journal of Operational Research等知名期刊。",
+        "personal_homepage": {
+          "url": "https://pengfeihe-angers.github.io/pengfeihe-angers.io/",
+          "anchor_text": "https://pengfeihe-angers.github.io/pengfeihe-angers.io/"
+        }
+      },
+      "recruitment_information": {
+        "phd_students": {
+          "planned_enrollment_per_year": "1-2名",
+          "status": "2026年入学的已招满",
+          "note": "欢迎自动控制、计算机等相关专业背景的硕士生报考博士研究生"
+        },
+        "master_students": {
+          "planned_enrollment_per_year": "2名",
+          "status": "2026年9月入学的研究生已招满",
+          "note": "欢迎本科生报考硕士研究生"
+        },
+        "desired_backgrounds": [
+          "数学",
+          "计算机",
+          "自动化",
+          "自动控制"
+        ],
+        "affiliated_lab": {
+          "name": "机电系统控制实验室",
+          "url": "http://seumscl.com/index.asp"
+        },
+        "undergraduate_research_opportunities": [
+          "SRTP",
+          "本科毕设",
+          "论文撰写",
+          "专利撰写"
+        ]
+      },
+      "education_background": [
+        {
+          "years": "2019-2022",
+          "university": "法国昂热大学",
+          "department": "计算机系",
+          "degree": "工学博士"
+        },
+        {
+          "years": "2016-2019",
+          "university": "南京农业大学",
+          "college": "工学院",
+          "degree": "管理学硕士"
+        },
+        {
+          "years": "2012-2016",
+          "university": "南京农业大学",
+          "college": "工学院",
+          "degree": "工学学士"
+        }
+      ],
+      "work_experience": [
+        {
+          "years": "2023-至今",
+          "institution": "东南大学",
+          "department": "自动化学院",
+          "position": "上岗副研究员"
+        },
+        {
+          "years": "2022-2023",
+          "institution": "法国昂热大学",
+          "department": "计算机系",
+          "position": "博士后",
+          "collaborating_mentor": {
+            "name": "Jin-Kao Hao",
+            "url": "https://leria-info.univ-angers.fr/~jinkao.hao/"
+          }
+        },
+        {
+          "years": "2026/01-2028/01",
+          "institution": "岭南大学",
+          "department": "Department of Division of Industrial Data Science",
+          "position": "博士后",
+          "collaborating_mentor": {
+            "name": "姚新",
+            "url": "https://www.ln.edu.hk/chs/po/people/professor-xin-yao"
+          }
+        },
+        {
+          "years": "2026/01-2028/01",
+          "institution": "东南大学",
+          "department": "自动化学院",
+          "position": "博士后",
+          "collaborating_mentor": {
+            "name": "刘志远",
+            "url": "https://tc.seu.edu.cn/tn/2024/1121/c27139a512098/page.htm"
+          }
+        }
+      ],
+      "academic_affiliations": {
+        "professional_committee_memberships": [
+          "江苏省自动化学会智能优化与应用专业委员会"
+        ],
+        "journal_reviewer_for": [
+          "Computers & Operations Research",
+          "IEEE Transactions on Evolutionary Computation",
+          "IEEE Transactions on Intelligent Transportation Systems",
+          "Swarm and Evolutionary Computation",
+          "Expert Systems with Application"
+        ]
+      },
+      "awards": [],
+      "taught_courses": [
+        {
+          "id": "1",
+          "level": "本科生",
+          "title": "《机器人软件工程》"
+        },
+        {
+          "id": "2",
+          "level": "研究生",
+          "title": "《智能优化理论》",
+          "language": "全英文"
+        }
+      ],
+      "research_projects": [
+        {
+          "id": "1",
+          "funding_source": "国家自然科学基金青年基金",
+          "title": "混合点弧作业需求的多机械臂协同焊接调度优化方法",
+          "period": "2025-2027",
+          "role": "主持"
+        },
+        {
+          "id": "2",
+          "funding_source": "东南大学教育部重点实验室开放课题",
+          "title": "面向混合移动和固定机巢的无人机巡检航线规划问题与优化算法",
+          "period": "2024-2026",
+          "role": "主持"
+        },
+        {
+          "id": "3",
+          "funding_source": "中央高校基本科研业务费专项",
+          "title": "求解大规模车辆路径问题的高性能元启发式算法研究",
+          "period": "2023-2026",
+          "status": "在研",
+          "role": "主持"
+        },
+        {
+          "id": "4",
+          "funding_source": "南京市留学人员科技创新项目",
+          "title": "考虑制造订单组合生产调度问题与优化算法",
+          "period": "2025-2026",
+          "status": "在研",
+          "role": "主持"
+        }
+      ],
+      "publications": {
+        "type": "代表论文 (5篇)",
+        "papers": [
+          {
+            "id": "1",
+            "authors": [
+              "Pengfei He",
+              "Jin-Kao Hao",
+              "Qinghua Wu"
+            ],
+            "title": "A hybrid genetic algorithm with multi-population for capacitated location routing.",
+            "journal": "INFORMS Journal on Computing",
+            "status": "Accepted",
+            "notes": "(UTD24)"
+          },
+          {
+            "id": "2",
+            "authors": [
+              "Pengfei He",
+              "Jin-Kao Hao"
+            ],
+            "title": "General edge assembly crossover driven memetic search for split delivery vehicle routing.",
+            "journal": "Transportation Science",
+            "citation_details": "57(2) (2023), 482-511."
+          },
+          {
+            "id": "3",
+            "authors": [
+              "Pengfei He",
+              "Wenchong Chen",
+              "Qinghua Wu",
+              "Fengjun Xiao"
+            ],
+            "title": "Capacitated profitable tour problem with cross-docking.",
+            "journal": "Computers & Operations Research",
+            "citation_details": "181 (2025), 107077."
+          },
+          {
+            "id": "4",
+            "authors": [
+              "Pengfei He",
+              "Jin-Kao Hao"
+            ],
+            "title": "Memetic search for the minmax multiple traveling salesman problem with single and multiple depots.",
+            "journal": "European Journal of Operational Research",
+            "citation_details": "307(3) (2023), 1055-1070."
+          },
+          {
+            "id": "5",
+            "authors": [
+              "Pengfei He",
+              "Jin-Kao Hao",
+              "Qinghua Wu"
+            ],
+            "title": "A hybrid genetic algorithm for the Hamiltonian p-median problem.",
+            "journal": "Networks",
+            "citation_details": "84 (2024), 348-367."
+          }
+        ]
+      }
+    },
+    "site_chrome": [
+      {
+        "type": "text",
+        "content": "抓取来源：http://automation.seu.edu.cn/hpf/list.htm"
+      },
+      {
+        "type": "image",
+        "url": "https://automation.seu.edu.cn/hpf/list.htm",
+        "alt_text": ""
+      },
+      {
+        "type": "image",
+        "url": "https://automation.seu.edu.cn/_visitcount?siteId=338&type=2&columnId=53638",
+        "alt_text": ""
+      }
+    ]
+  }
+}

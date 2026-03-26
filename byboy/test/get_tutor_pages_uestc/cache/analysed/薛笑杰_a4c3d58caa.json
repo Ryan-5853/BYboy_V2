@@ -1,0 +1,121 @@
+{
+  "meta": {
+    "tutor_name_cn": "薛笑杰",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1173/4424.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1173/4424.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/3d568aaf8dfbe3695a73031726ff87e8c297314f5585d28f794547c14906749c.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "source_url": "https://www.auto.uestc.edu.cn/info/1173/4424.htm",
+    "site_chrome": {
+      "breadcrumbs": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "X",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/X.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "navigation_links": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ]
+    },
+    "faculty_member": {
+      "name": "薛笑杰",
+      "profile_picture_url": "https://www.auto.uestc.edu.cn/__local/B/72/BC/ACE5E3312E3A8675EC4705ED027_21368D9B_33D7A.jpg",
+      "personal_info": {
+        "highest_degree": "博士",
+        "contact_phone": null,
+        "job_title": "助理研究员",
+        "email": "xiaojie.xue1@gmail.com",
+        "supervisor_status": "硕士导师",
+        "personal_homepage": null,
+        "research_team": "传感器国家工程中心成都分中心"
+      },
+      "research_directions": [
+        "纳米荧光材料",
+        "纳米复合材料光功能器件",
+        "光纤功能器件",
+        "光学无损检测技术"
+      ],
+      "academic_titles_and_concurrent_posts": "担任Optics Letters，Optics Express，Optical Material Express，Optical Materials，Journal of Luminescence，IEEE Transactions on Instrumentation and Measurement，Optical Fiber Technology等国际著名期刊的审稿人。",
+      "education_and_work_experience": [
+        {
+          "date": "2008.06",
+          "institution": "吉林大学",
+          "degree": "学士"
+        },
+        {
+          "date": "2010.06",
+          "institution": "吉林大学",
+          "degree": "硕士"
+        },
+        {
+          "date": "2013.12",
+          "institution": "丰田工业大学",
+          "degree": "博士"
+        },
+        {
+          "start_date": "2014.01",
+          "end_date": "2017.01",
+          "institution": "丰田工业大学",
+          "role": "博士后"
+        },
+        {
+          "start_date": "2017.02",
+          "end_date": "2018.12",
+          "institution": "南京霈泽光电科技有限公司",
+          "role": "总经理"
+        },
+        {
+          "start_date": "2019.03",
+          "end_date": "至今",
+          "institution": "电子科技大学",
+          "role": "特聘副研究员"
+        }
+      ],
+      "scientific_research": {
+        "projects": [
+          "曾作为唯一负责人主持日本国家级科学基金一项",
+          "南京市级科技创新项目一项"
+        ],
+        "publications_count": 87,
+        "patent_applications_count": 3
+      },
+      "courses_and_teaching_research": null,
+      "admission_majors": {
+        "master": [
+          "080400仪器科学与技术",
+          "085400电子信息"
+        ],
+        "doctor": []
+      }
+    }
+  }
+}

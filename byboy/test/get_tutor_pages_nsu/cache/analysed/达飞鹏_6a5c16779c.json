@@ -1,0 +1,190 @@
+{
+  "meta": {
+    "tutor_name_cn": "达飞鹏",
+    "request_url": "http://automation.seu.edu.cn/dfp/list.htm",
+    "declared_source_url": "http://automation.seu.edu.cn/dfp/list.htm",
+    "page_host": "automation.seu.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/ff5ae434c14ed89d83b62d3d50d555c1494c32d138cf46a17bc473728db4d74c.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "professor_name": "达飞鹏",
+    "affiliations": [
+      "东南大学二级教授",
+      "自动化学院博士生导师"
+    ],
+    "contact": {
+      "email": "dafp@seu.edu.cn"
+    },
+    "introduction": {
+      "general_research_scope": "长期从事三维测量、三维识别与智能控制等领域研究。",
+      "biographical_summary": "1998年获博士学位，后从事博士后研究工作，2000年到东南大学自动化所工作。2004年破格晋升为教授。2004年获华英基金资助赴美国Yale University（耶鲁大学）开展学术交流合作研究。",
+      "achievements_summary": "在科学出版社出版学术专著一部；在国内外核心期刊和顶会发表学术论文两百余篇；已获美国发明专利授权4项，韩国发明专利授权3项，中国发明专利授权70余项。部分研究成果曾获2012年教育部技术发明二等奖（排1）和2003年中国机械工业技术进步奖三等奖（排1）。是光学测量、模式识别、计算机视觉、智能优化、控制理论等多个领域十余个国际核心期刊审稿人。"
+    },
+    "education_history": [
+      {
+        "degree": "博士学位",
+        "year": 1998
+      }
+    ],
+    "work_experience": [
+      {
+        "period": "1998年之后",
+        "description": "从事博士后研究工作"
+      },
+      {
+        "year": 2000,
+        "institution": "东南大学自动化所",
+        "position": "工作"
+      },
+      {
+        "year": 2004,
+        "institution": "东南大学",
+        "position": "破格晋升为教授"
+      },
+      {
+        "year": 2004,
+        "institution": "美国Yale University（耶鲁大学）",
+        "activity": "获华英基金资助开展学术交流合作研究"
+      }
+    ],
+    "honors_and_awards": [
+      {
+        "name": "教育部技术发明二等奖",
+        "year": 2012,
+        "rank": 1,
+        "notes": "部分研究成果"
+      },
+      {
+        "name": "中国机械工业技术进步奖三等奖",
+        "year": 2003,
+        "rank": 1,
+        "notes": "部分研究成果"
+      }
+    ],
+    "talent_programs": [
+      {
+        "name": "江苏省六大人才高峰计划",
+        "year": 2010
+      },
+      {
+        "name": "教育部新世纪优秀人才支持计划",
+        "year": 2007
+      },
+      {
+        "name": "江苏省“333”人才工程",
+        "years": [
+          2012,
+          2007
+        ]
+      },
+      {
+        "name": "江苏省青蓝工程",
+        "year": 2005
+      },
+      {
+        "name": "江苏省创新人才基金",
+        "year": 2003
+      }
+    ],
+    "publications": {
+      "monographs": [
+        {
+          "publisher": "科学出版社",
+          "type": "学术专著",
+          "count": "一部"
+        }
+      ],
+      "journal_papers": {
+        "count": "两百余篇",
+        "scope": "国内外核心期刊和顶会"
+      }
+    },
+    "patents": {
+      "us_invented_patents": "4项",
+      "korean_invented_patents": "3项",
+      "chinese_invented_patents": "70余项"
+    },
+    "academic_service": [
+      {
+        "role": "审稿人",
+        "journals": "十余个国际核心期刊",
+        "fields": "光学测量、模式识别、计算机视觉、智能优化、控制理论等多个领域"
+      }
+    ],
+    "research_directions": {
+      "historical_research_areas": [
+        {
+          "period": "博士阶段和后续研究（1996-）",
+          "description": "从事智能优化控制理论研究"
+        },
+        {
+          "period": "博士后阶段和后续研究（1998-2003）",
+          "description": "在先进制造技术领域，在国内较早地开展研究并实施了产品正向和逆向开发（包括快速成形（三维打印））技术，带领项目组完成了投资500余万元的国家级研发中心项目“产品快速开发系统集成研究”"
+        },
+        {
+          "period": "光学三维测量研究和应用（2000-）",
+          "description": "在博士后项目实施过程中，不同产品三维数据的快速和准确地获取一直是一个瓶颈，且被垄断。为此带领课题组从零开始，从原始创新做起，从系统开发着手，进行了长时间的和多方面的积累，提出了一系列有创新的理论和方法，自主开发了光栅投影三维精密测量系统"
+        },
+        {
+          "period": "三维生物特征识别（2008-）",
+          "description": "利用自主获取的三维精密点云数据开展了包括人脸、指纹、人耳和掌纹等在内的三维生物特征识别研究,开发了多个实际系统,已实际应用"
+        },
+        {
+          "period": "工业产品质量的三维优化控制（2018-）",
+          "description": "有针对性地开发三维精密测量系统，对多行业、多领域的产品，如印制板、药品等的产品质量进行三维优化控制系统研发，以期将领域应用水平提升到国际领先"
+        }
+      ],
+      "current_main_research_directions": [
+        {
+          "title": "三维精密测量、三维精确识别、三维优化控制理论与技术，以及各系统的集成与一体化",
+          "goal": "在做出创新理论研究基础上开发出具领先性的工业领域工程应用产品",
+          "sub_directions": [
+            {
+              "name": "三维精密测量研究与应用",
+              "description": "研究如何利用计算机视觉和光学等方法快速和准确地获取被测物体的三维信息，涉及图像图形处理、信号分析、精密测量等领域，测量对象包括大、中、小、微等物体。"
+            },
+            {
+              "name": "三维精确识别研究与应用",
+              "description": "基于所获取的三维精密点云，开展三维人脸等三维生物特征识别研究，以及工业等领域中的三维精确识别与控制，涉及模式识别、人工智能、机器视觉等领域。"
+            },
+            {
+              "name": "先进控制理论",
+              "description": "研究主要集中在智能优化控制、尤其是三维优化控制等方面。"
+            }
+          ]
+        }
+      ]
+    },
+    "recruitment": {
+      "degrees_offered": [
+        "博士生（包括工程博士）",
+        "硕士生"
+      ],
+      "disciplines": [
+        "控制理论与控制工程",
+        "模式识别与智能系统"
+      ],
+      "target_students": "对上述方向感兴趣的自动化、数学、计算机、电子、测量、电气等相关专业的优秀学生均可联系、报考。",
+      "postdoctoral_recruitment": "招收博士后研究人员。欢迎有相关研究背景的博士联系。"
+    },
+    "uncategorized_section_headers": [
+      "教育背景",
+      "工作经历",
+      "学术兼职",
+      "所获奖励",
+      "讲授课程",
+      "学生培养",
+      "研究兴趣",
+      "科研项目",
+      "论文发表"
+    ],
+    "site_chrome": {
+      "source_url": "http://automation.seu.edu.cn/dfp/list.htm",
+      "visit_counter_image": "https://automation.seu.edu.cn/_visitcount?siteId=338&type=2&columnId=32740"
+    }
+  }
+}

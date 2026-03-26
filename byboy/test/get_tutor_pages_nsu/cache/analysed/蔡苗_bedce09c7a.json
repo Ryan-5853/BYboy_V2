@@ -1,0 +1,260 @@
+{
+  "meta": {
+    "tutor_name_cn": "蔡苗",
+    "request_url": "http://automation.seu.edu.cn/cm/list.htm",
+    "declared_source_url": "http://automation.seu.edu.cn/cm/list.htm",
+    "page_host": "automation.seu.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/dd308768f16c4f6270dd5a1bed1f219ab0682545963c40180959268a6ebe7da9.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "target_professor_name": "蔡苗",
+    "source_url": "http://automation.seu.edu.cn/cm/list.htm",
+    "profile": {
+      "name": "蔡苗",
+      "origin": "江苏扬州人",
+      "political_status": "中共党员",
+      "titles": [
+        "讲师",
+        "硕士生导师"
+      ],
+      "brief_introduction": "蔡苗，江苏扬州人，中共党员，讲师，硕士生导师。2019年于南京理工大学自动化学院获得学士学位，2024年于清华大学自动化系获得博士学位，2025年加入东南大学自动化学院/智能无人系统研究院。研究领域包括复杂装备系统故障诊断与容错控制、安全控制的全驱系统方法、机器人智能控制等，出版英文专著1部，以第一作者在Automatica、IEEE Trans.等国际期刊/会议发表论文十余篇。主持和参与多项国家级和省部级基金项目，以第一完成人获首都前沿学术成果、3次国际会议最佳论文奖、清华大学优秀博士学位论文等。",
+      "current_affiliation": {
+        "institution": "东南大学",
+        "department": "自动化学院/智能无人系统研究院",
+        "start_year": 2025
+      },
+      "research_summary": "研究领域包括复杂装备系统故障诊断与容错控制、安全控制的全驱系统方法、机器人智能控制等",
+      "publication_summary": "出版英文专著1部，以第一作者在Automatica、IEEE Trans.等国际期刊/会议发表论文十余篇",
+      "project_summary": "主持和参与多项国家级和省部级基金项目",
+      "award_summary": "以第一完成人获首都前沿学术成果、3次国际会议最佳论文奖、清华大学优秀博士学位论文等"
+    },
+    "lab_information": {
+      "lab_name": "工业系统与高端装备智能运维实验室",
+      "lab_leader": "周东华教授",
+      "recruitment_information": "欢迎自动化、计算机、电子信息和数学等相关专业的学生报考硕士研究生！",
+      "recruitment_disciplines": [
+        "自动化",
+        "计算机",
+        "电子信息",
+        "数学"
+      ]
+    },
+    "education_background": [
+      {
+        "start_date": "2015.09",
+        "end_date": "2019.06",
+        "university": "南京理工大学",
+        "major": "自动化",
+        "degree": "工学学士"
+      },
+      {
+        "start_date": "2019.09",
+        "end_date": "2024.12",
+        "university": "清华大学",
+        "department": "控制科学与工程",
+        "degree": "工学博士",
+        "supervisors": [
+          "周东华教授",
+          "何潇教授"
+        ]
+      }
+    ],
+    "work_experience": [
+      {
+        "start_date": "2025.03",
+        "end_date": "至今",
+        "institution": "东南大学",
+        "department": "自动化学院/智能无人系统研究院",
+        "title": "讲师"
+      }
+    ],
+    "academic_affiliations": {
+      "roles": [
+        {
+          "start_date": "2025.08",
+          "end_date": "至今",
+          "organization": "中国自动化学会全驱系统理论与应用专业委员会",
+          "position": "委员"
+        },
+        {
+          "start_date": "2025.12",
+          "end_date": "至今",
+          "organization": "中国指挥与控制学会具身智能专业委员会",
+          "position": "委员"
+        }
+      ],
+      "reviewing_activities": "担任Automatica、IEEE Trans.等十余本权威SCI期刊的审稿人"
+    },
+    "awards_and_honors": [
+      {
+        "date": "2025.07",
+        "award_name": "FASTA 2025 Outstanding Youth Paper Award",
+        "note": "1/2"
+      },
+      {
+        "date": "2025.06",
+        "award_name": "清华大学优秀博士毕业生"
+      },
+      {
+        "date": "2025.06",
+        "award_name": "清华大学优秀博士学位论文"
+      },
+      {
+        "date": "2024.12",
+        "award_name": "首都前沿学术成果",
+        "note": "1/3"
+      },
+      {
+        "date": "2024.01",
+        "award_name": "北京自动化学会优秀研究生"
+      },
+      {
+        "date": "2023.12",
+        "award_name": "博士研究生国家奖学金"
+      },
+      {
+        "date": "2023.09",
+        "award_name": "First Prize of Fang Chong-Zhi Best Paper Award",
+        "note": "1/3"
+      },
+      {
+        "date": "2023.07",
+        "award_name": "CFASTA Best Student Paper Award",
+        "note": "1/3"
+      }
+    ],
+    "teaching_courses": [],
+    "student_supervision": [],
+    "research_interests": [
+      "复杂装备系统故障诊断与容错控制",
+      "安全控制的全驱系统方法",
+      "机器人智能控制"
+    ],
+    "research_projects": [
+      {
+        "name": "国家自然科学基金青年科学基金项目（C类）",
+        "duration": "2026-2028",
+        "status": "在研",
+        "role": "主持"
+      },
+      {
+        "name": "江苏省自然科学基金青年项目",
+        "duration": "2025-2028",
+        "status": "在研",
+        "role": "主持"
+      },
+      {
+        "name": "复杂工程系统测量与控制教育部重点实验室开放课题",
+        "duration": "2025-2027",
+        "status": "在研",
+        "role": "主持"
+      },
+      {
+        "name": "国家重大科研仪器研制项目",
+        "duration": "2026-2030",
+        "status": "在研",
+        "role": "骨干"
+      },
+      {
+        "name": "国家自然科学基金联合基金重点支持项目“叶企孙”科学基金",
+        "duration": "2026-2029",
+        "status": "在研",
+        "role": "骨干"
+      }
+    ],
+    "publications": {
+      "monographs": [
+        {
+          "authors": "Donghua Zhou, Miao Cai",
+          "title": "Fault-Tolerant Control for Fully Actuated Systems",
+          "publisher": "Springer",
+          "year": "2026"
+        }
+      ],
+      "representative_papers": [
+        {
+          "id": "[1]",
+          "authors": "Miao Cai, Xiao He, Donghua Zhou*",
+          "title": "An active fault tolerance framework for uncertain nonlinear high-order fully-actuated systems",
+          "journal": "Automatica",
+          "year": "2023",
+          "volume": "152",
+          "pages": "110969",
+          "notes": "长文，ESI高被引论文"
+        },
+        {
+          "id": "[2]",
+          "authors": "Miao Cai, Xiao He, Donghua Zhou*",
+          "title": "Multiple faults-tolerant control via fully actuated system approaches",
+          "journal": "Automatica",
+          "year": "2026",
+          "notes": "to be published"
+        },
+        {
+          "id": "[3]",
+          "authors": "Miao Cai, Xiao He, Donghua Zhou*",
+          "title": "Fault-tolerant control for noisy high-order fully actuated systems",
+          "journal": "IEEE Transactions on Cybernetics",
+          "year": "2026",
+          "volume": "56",
+          "issue": "4",
+          "pages": "2021-2032"
+        },
+        {
+          "id": "[4]",
+          "authors": "Miao Cai, Xiao He, Donghua Zhou*",
+          "title": "Finite-time fault-tolerant control via fully actuated system approaches",
+          "journal": "IEEE Transactions on Cybernetics",
+          "year": "2024",
+          "volume": "54",
+          "issue": "9",
+          "pages": "5506-5517"
+        },
+        {
+          "id": "[5]",
+          "authors": "Miao Cai, Xiao He, Donghua Zhou*",
+          "title": "Self-healing fault-tolerant control for high-order fully actuated systems against sensor faults: A redundancy framework",
+          "journal": "IEEE Transactions on Cybernetics",
+          "year": "2024",
+          "volume": "54",
+          "issue": "4",
+          "pages": "2628-2640"
+        },
+        {
+          "id": "[6]",
+          "authors": "Miao Cai, Xiao He, Donghua Zhou*",
+          "title": "Unknown nonaffine high-order fully actuated systems: Trajectory tracking and fault tolerance",
+          "journal": "IEEE Transactions on Systems, Man, and Cybernetics: Systems",
+          "year": "2024",
+          "volume": "54",
+          "issue": "6",
+          "pages": "3854-3864"
+        },
+        {
+          "id": "[7]",
+          "authors": "Miao Cai, Xiao He, Donghua Zhou*",
+          "title": "Low-power fault-tolerant control for nonideal high-order fully actuated systems",
+          "journal": "IEEE Transactions on Systems, Man, and Cybernetics: Systems",
+          "year": "2023",
+          "volume": "53",
+          "issue": "8",
+          "pages": "4875-4887"
+        }
+      ],
+      "google_scholar": {
+        "url": "https://scholar.google.com/citations?user=uBBVzX4AAAAJ&hl=zh-CN",
+        "anchor_text": "Google学术主页"
+      }
+    },
+    "site_chrome": {
+      "images_detected": [
+        "https://automation.seu.edu.cn/cm/list.htm",
+        "https://automation.seu.edu.cn/_visitcount?siteId=338&type=2&columnId=58068"
+      ]
+    }
+  }
+}

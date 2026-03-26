@@ -1,0 +1,162 @@
+{
+  "meta": {
+    "tutor_name_cn": "李焱骏",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1161/7615.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1161/7615.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/cc8281c07550b7aa9818d4d0ba59d0c6b076d79761e729ead23aa5d6222050b9.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "personal_info": {
+      "name": "李焱骏",
+      "highest_degree": "博士",
+      "contact_phone": null,
+      "title_and_position": "正高级高工",
+      "email": "yjli@uestc.edu.cn",
+      "supervision_status": "博士导师",
+      "personal_homepage": {
+        "url": "https://faculty.uestc.edu.cn/liyanjun/zh_CN/index.htm",
+        "anchor_text": "https://faculty.uestc.edu.cn/liyanjun/zh_CN/index.htm"
+      },
+      "research_team": "地球信息智能探测团队",
+      "profile_image_url": "https://www.auto.uestc.edu.cn/__local/6/BE/0B/08214720EADE5412D616714AF14_6CDFB853_14121.jpg"
+    },
+    "research_directions": [
+      "测井技术及仪器",
+      "集成电路测试",
+      "测试信号处理",
+      "可靠性测试"
+    ],
+    "academic_titles_and_affiliations": [],
+    "experience": {
+      "education_experience": [
+        {
+          "period": "1996.9-2000.7",
+          "university": "电子科技大学",
+          "degree": "工学学士学位",
+          "major": "工业自动化"
+        },
+        {
+          "period": "2000.9-2003.3",
+          "university": "电子科技大学",
+          "degree": "工学硕士学位",
+          "major": "模式识别与智能系统"
+        },
+        {
+          "period": "2003.9-2009.12",
+          "university": "电子科技大学",
+          "degree": "工学博士学位",
+          "major": "测试计量技术及仪器"
+        }
+      ],
+      "work_experience": [
+        {
+          "period": "2003.4-至今",
+          "institution": "电子科技大学自动化工程学院",
+          "type": "employment",
+          "role": null
+        },
+        {
+          "period": "2007.5-2007.11",
+          "institution": "University of Notre Dame",
+          "type": "visiting_scholar",
+          "role": "访问学者"
+        },
+        {
+          "period": "2015.8-2016.7",
+          "institution": "Arizona State University",
+          "type": "visiting_scholar",
+          "role": "访问学者"
+        }
+      ]
+    },
+    "scientific_research": {
+      "description": "长期从事声、电、核相关的测井技术与方法应用研究，以及集成电路测试相关的理论与应用研究。",
+      "awards": [
+        "2021年度“中国石油和化工自动化行业科学技术奖（省部级待遇）”科技进步二等奖1项",
+        "四川省科技进步三等奖1项"
+      ],
+      "projects_link": {
+        "url": "https://faculty.uestc.edu.cn/liyanjun/zh_CN/kyxm/142481/list/index.htm",
+        "anchor_text": "近年科研项目"
+      }
+    },
+    "courses": {
+      "undergraduate_courses": [
+        "控制工程基础"
+      ],
+      "graduate_courses": [
+        "混合集成电路测试技术"
+      ]
+    },
+    "admission_programs": {
+      "masters": [
+        {
+          "code": "080400",
+          "name": "仪器科学与技术"
+        },
+        {
+          "code": "085400",
+          "name": "电子信息"
+        },
+        {
+          "code": "085407",
+          "name": "仪器仪表工程"
+        }
+      ],
+      "doctorates": [
+        {
+          "code": "080400",
+          "name": "仪器科学与技术"
+        },
+        {
+          "code": "085400",
+          "name": "电子信息"
+        },
+        {
+          "code": "086100",
+          "name": "交通运输"
+        }
+      ]
+    },
+    "site_chrome": {
+      "source_url": "https://www.auto.uestc.edu.cn/info/1161/7615.htm",
+      "breadcrumbs": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "L",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/L.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "side_navigation": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ]
+    }
+  }
+}

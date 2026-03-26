@@ -1,0 +1,263 @@
+{
+  "meta": {
+    "tutor_name_cn": "郭雷",
+    "request_url": "http://automation.seu.edu.cn/gl/list.htm",
+    "declared_source_url": "http://automation.seu.edu.cn/gl/list.htm",
+    "page_host": "automation.seu.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/61c08330f2070abcb666931c3a588e1c00fe7d070c5e4c5677317aed24e62d47.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": "包含导师详细的个人信息、教育工作经历、学术兼职、所获奖励和研究兴趣等大量有效文字信息。"
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "mentor_name": "郭雷",
+    "source_url": "http://automation.seu.edu.cn/gl/list.htm",
+    "site_chrome": [
+      {
+        "type": "source_capture_info",
+        "content": "抓取来源：http://automation.seu.edu.cn/gl/list.htm"
+      },
+      {
+        "type": "image_placeholder",
+        "url": "https://automation.seu.edu.cn/gl/list.htm",
+        "description": "页面顶部图片，可能为占位符或链接图像"
+      },
+      {
+        "type": "visit_counter",
+        "url": "https://automation.seu.edu.cn/_visitcount?siteId=338&type=2&columnId=44896",
+        "description": "页面访问计数器图片"
+      }
+    ],
+    "biographical_summary": {
+      "name": "郭雷",
+      "birth_year": 1966,
+      "birth_month": 4,
+      "birth_place": "山东曲阜",
+      "current_primary_roles": [
+        "北京航空航天大学教授",
+        "飞行器抗干扰控制系统研究中心主任",
+        "飞行器控制一体化技术国防科技重点实验室副主任"
+      ],
+      "national_titles_and_honors": [
+        "国家杰出青年科学基金获得者",
+        "教育部长江学者特聘教授",
+        "中组部万人计划领军人才",
+        "国家有突出贡献中青年专家",
+        "国家级百千万人才工程入选者"
+      ],
+      "concurrent_appointments": [
+        {
+          "role": "负责人",
+          "organization": "教育部“飞行器抗干扰控制理论及应用”长江学者创新团队"
+        },
+        {
+          "role": "负责人",
+          "organization": "科技部“飞行器先进导航与控制系统技术”重点领域创新团队"
+        },
+        {
+          "role": "主任",
+          "organization": "中国自动化学会导航制导与控制专业委员会"
+        },
+        {
+          "role": "专家成员",
+          "organization": "国防基础科研某领域"
+        },
+        {
+          "role": "专家成员",
+          "organization": "军科委某重大专项"
+        },
+        {
+          "role": "专家成员",
+          "organization": "基金委重大研究计划"
+        }
+      ],
+      "education_overview": "分别于1988、1991和1997年获得曲阜师范大学学士、硕士和东南大学博士学位",
+      "postdoctoral_experience_overview": "1997至2000年先后为东南大学和法国南特中央理工大学（IRCCYN）博士后",
+      "visiting_research_overview": "2001至2006年曾先后获得英国皇家学会访问基金、日本JSPS外国特邀研究员基金，在英国拉夫堡大学、曼彻斯特大学和日本冈山县立大学合作研究",
+      "past_professor_and_administrative_roles_overview": "2003至2006年任东南大学教授，2006年至今先后任北京航空航天大学仪器科学与光电工程学院和自动化与电气工程学院教授，曾兼任北京航空航天大学人事处副处长、国际交叉科学研究院常务副院长",
+      "main_research_fields_summary": "长期从事复杂系统抗干扰控制理论、飞行器自主导航与控制技术以及无人系统仿生智能领域的研究",
+      "publication_metrics_summary": {
+        "sci_papers_count": "320余篇",
+        "authorized_patents_count": "150余项",
+        "published_monographs_count": "6部"
+      },
+      "awards_overview": "作为第一完成人曾获得2013年国家自然科学二等奖、2018年国家技术发明二等奖、2007年教育部自然科学一等奖、2017年国防技术发明一等奖以及2019年杨嘉墀科技奖一等奖等学术奖励",
+      "political_roles": [
+        "北京市第十四届人大代表",
+        "北京市第十五届人大代表"
+      ]
+    },
+    "sections": [
+      {
+        "title": "教育背景",
+        "items": [
+          {
+            "period": "1994.9 -- 1997.5",
+            "university": "东南大学",
+            "major": "自动控制理论及应用",
+            "degree": "博士"
+          },
+          {
+            "period": "1988.9 -- 1991.7",
+            "university": "曲阜师范大学",
+            "major": "运筹学与控制论",
+            "degree": "硕士"
+          },
+          {
+            "period": "1984.9 -- 1988.7",
+            "university": "曲阜师范大学",
+            "department": "数学系",
+            "degree": "学士"
+          }
+        ]
+      },
+      {
+        "title": "工作经历",
+        "items": [
+          {
+            "period": "1991.8 -- 1994.8",
+            "institution": "青岛大学理学院"
+          },
+          {
+            "period": "1997.6 -- 1999.12",
+            "institution": "东南大学无线电系",
+            "role": "博士后"
+          },
+          {
+            "period": "1999.12 -- 2000.11",
+            "institution": "法国IRCCYN",
+            "role": "博士后"
+          },
+          {
+            "period": "2000.12 -- 2002.1",
+            "institution": "英国Glasgow大学，Loughborough大学",
+            "role": "合作研究/访问学者",
+            "note": "属于2001-2006年期间的合作研究，曾获得英国皇家学会访问基金、日本JSPS外国特邀研究员基金"
+          },
+          {
+            "period": "2002.2 -- 2003.12",
+            "institution": "英国UMIST",
+            "role": "合作研究/访问学者",
+            "note": "属于2001-2006年期间的合作研究，曾获得英国皇家学会访问基金、日本JSPS外国特邀研究员基金"
+          },
+          {
+            "period": "2001 -- 2006 (期间)",
+            "institution": "英国曼彻斯特大学",
+            "role": "合作研究/访问学者",
+            "note": "根据基本信息，曾获得英国皇家学会访问基金、日本JSPS外国特邀研究员基金，在该校进行合作研究"
+          },
+          {
+            "period": "2001 -- 2006 (期间)",
+            "institution": "日本冈山县立大学",
+            "role": "合作研究/访问学者",
+            "note": "根据基本信息，曾获得英国皇家学会访问基金、日本JSPS外国特邀研究员基金，在该校进行合作研究"
+          },
+          {
+            "period": "2003.12 -- 2007.2",
+            "institution": "东南大学自动化学院",
+            "position": "教授"
+          },
+          {
+            "period": "2006年至今",
+            "institution": "北京航空航天大学仪器科学与光电工程学院和自动化与电气工程学院",
+            "position": "教授"
+          },
+          {
+            "period": "曾兼任",
+            "institution": "北京航空航天大学",
+            "position": "人事处副处长"
+          },
+          {
+            "period": "曾兼任",
+            "institution": "北京航空航天大学",
+            "position": "国际交叉科学研究院常务副院长"
+          }
+        ]
+      },
+      {
+        "title": "学术兼职",
+        "items": [
+          {
+            "period": "2015.10 -- 至今",
+            "organization": "中国自动化学会自适应学习与动态规划专委会",
+            "position": "副主任"
+          },
+          {
+            "period": "2017.5 -- 至今",
+            "organization": "中国自动化学会导航制导与控制专委会",
+            "position": "主任"
+          }
+        ]
+      },
+      {
+        "title": "所获奖励",
+        "items": [
+          {
+            "year": 2013,
+            "award_name": "国家自然科学二等奖",
+            "role": "第一完成人"
+          },
+          {
+            "year": 2018,
+            "award_name": "国家技术发明二等奖",
+            "role": "第一完成人"
+          },
+          {
+            "year": 2007,
+            "award_name": "教育部自然科学一等奖",
+            "role": "第一完成人"
+          },
+          {
+            "year": 2017,
+            "award_name": "国防技术发明一等奖",
+            "role": "第一完成人"
+          },
+          {
+            "year": 2019,
+            "award_name": "杨嘉墀科技奖一等奖",
+            "role": "第一完成人"
+          },
+          {
+            "year": 2022,
+            "award_name": "IEEE Fellow",
+            "reason": "基于复合抗扰动控制系统方面的贡献"
+          }
+        ]
+      },
+      {
+        "title": "讲授课程",
+        "items": []
+      },
+      {
+        "title": "学生培养",
+        "items": []
+      },
+      {
+        "title": "研究兴趣",
+        "items": [
+          {
+            "topic": "飞行器复合自主抗干扰姿态估计、控制与测试技术",
+            "url": "https://shi.buaa.edu.cn/guolei/zh_CN/yjfx/3576/content/4923.htm#yjfx"
+          },
+          {
+            "topic": "非高斯随机分布系统抗干扰控制",
+            "url": "https://shi.buaa.edu.cn/guolei/zh_CN/yjfx/3576/content/4922.htm#yjfx"
+          },
+          {
+            "topic": "多源干扰系统的建模、分析与控制",
+            "url": "https://shi.buaa.edu.cn/guolei/zh_CN/yjfx/3576/content/4921.htm#yjfx"
+          }
+        ]
+      },
+      {
+        "title": "科研项目",
+        "items": []
+      },
+      {
+        "title": "论文发表",
+        "items": []
+      }
+    ]
+  }
+}

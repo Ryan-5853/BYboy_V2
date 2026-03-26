@@ -1,0 +1,1264 @@
+{
+  "meta": {
+    "tutor_name_cn": "钱堃",
+    "request_url": "http://automation.seu.edu.cn/qk/list.htm",
+    "declared_source_url": "http://automation.seu.edu.cn/qk/list.htm",
+    "page_host": "automation.seu.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/c14c45ca168313bf11dbb87bd506bb70380e9011c5c27bb2f076ecc0cab31221.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "name": "钱堃",
+    "personal_info": {
+      "gender": "男",
+      "birth_year": 1982,
+      "origin": "江苏南京人",
+      "degrees": [
+        {
+          "type": "工学博士",
+          "institution": "东南大学",
+          "department": "自动化学院",
+          "degree_program_type": "硕博连读",
+          "year": 2010
+        },
+        {
+          "type": "工学学士",
+          "institution": "东南大学",
+          "department": "自动控制系",
+          "year": 2004
+        }
+      ],
+      "brief_description": "2004年毕业于东南大学自动控制系，获工学学士学位，2010年博士研究生毕业于东南大学自动化学院（硕博连读），获工学博士学位，并留校任教。"
+    },
+    "titles_positions": [
+      {
+        "title": "副教授",
+        "institution": "东南大学",
+        "department": "自动化学院",
+        "start_date": "2014-05",
+        "end_date": "至今"
+      },
+      {
+        "title": "博士生导师",
+        "institution": "东南大学",
+        "department": "自动化学院",
+        "start_date": "2017-00",
+        "end_date": "至今"
+      },
+      {
+        "title": "硕士生导师",
+        "institution": "东南大学",
+        "department": "自动化学院",
+        "start_date": "2014-00",
+        "end_date": "至今"
+      },
+      {
+        "title": "讲师",
+        "institution": "东南大学",
+        "department": "自动化学院",
+        "start_date": "2010-04",
+        "end_date": "2014-04"
+      }
+    ],
+    "affiliations": [
+      {
+        "institution": "东南大学",
+        "department": "自动化学院",
+        "sub_department": "机器人工程系",
+        "group": "模式识别与智能系统学科组"
+      }
+    ],
+    "research_interests": [
+      "机器人感知与智能机器人系统技术",
+      "机器人视觉、触觉感知",
+      "机器人抓取与操作技能学习",
+      "环境感知与SLAM",
+      "计算机视觉及应用"
+    ],
+    "research_interest_examples": [
+      {
+        "title": "Learning-based Robot Grasping",
+        "description": "Explores how a robot learns 6D grasp pose from RGB-D cameras, Sim2Real transfer learning, and object pose estimation.",
+        "related_publications": [
+          {
+            "title_contains": "JINT paper",
+            "url": "https://link.springer.com/article/10.1007/s10846-020-01202-3"
+          },
+          {
+            "title_contains": "RAS paper",
+            "url": "https://www.sciencedirect.com/science/article/abs/pii/S0921889021001573"
+          },
+          {
+            "title_contains": "TCDS paper",
+            "url": "https://ieeexplore.ieee.org/abstract/document/10018456"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://automation.seu.edu.cn/_upload/article/images/2f/ea/b80c540a4a9e8a79214d8c93fc0f/3be3c02e-44c9-4cac-ac84-ba3a3687e56c.jpg",
+            "description": null
+          },
+          {
+            "url": "https://automation.seu.edu.cn/_upload/article/images/2f/ea/b80c540a4a9e8a79214d8c93fc0f/7a2bc9c2-b04f-4809-ae40-e693cf90dcc2.jpg",
+            "description": null
+          }
+        ]
+      },
+      {
+        "title": "Learning-by-demonstration",
+        "description": "Focuses on imitation learning via video demonstration. Grasping skills of a dexterous hand can be learned from human tele-operation.",
+        "related_publications": [
+          {
+            "title_contains": "IEEE ICRA 2021",
+            "url": null
+          },
+          {
+            "title_contains": "TCDS paper",
+            "url": "https://ieeexplore.ieee.org/document/9795859"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://automation.seu.edu.cn/_upload/article/images/2f/ea/b80c540a4a9e8a79214d8c93fc0f/2cd94029-d418-43a3-a25d-ce20f8325e9c.jpg",
+            "description": null
+          },
+          {
+            "url": "https://automation.seu.edu.cn/_upload/article/images/2f/ea/b80c540a4a9e8a79214d8c93fc0f/b6627f4a-61bb-4410-984a-a0a4fc660c5d.jpg",
+            "description": null
+          }
+        ]
+      },
+      {
+        "title": "Tactile perception",
+        "description": "Proposes a novel tactile-motor policy learning method to generalize tactile-guided robot manipulation skills from simulation to reality using unsupervised adversarial domain adaptation of tactile images. Also used to manipulate deformable objects via Sim2Real skill learning or tactile servoing.",
+        "related_publications": [
+          {
+            "title_contains": "RAS paper",
+            "url": "https://www.sciencedirect.com/science/article/abs/pii/S092188902200210X"
+          },
+          {
+            "title_contains": "TIM paper",
+            "url": "https://ieeexplore.ieee.org/document/10106009"
+          },
+          {
+            "title_contains": "Automation in Construction paper",
+            "url": "https://www.sciencedirect.com/science/article/pii/S0926580524006411"
+          },
+          {
+            "title_contains": "TIE paper",
+            "url": null
+          }
+        ],
+        "images": [
+          {
+            "url": "https://automation.seu.edu.cn/_upload/article/images/2f/ea/b80c540a4a9e8a79214d8c93fc0f/49838f4d-c4ba-486e-ac3e-b2e8999daf98.jpg",
+            "description": null
+          },
+          {
+            "url": "https://automation.seu.edu.cn/_upload/article/images/2f/ea/b80c540a4a9e8a79214d8c93fc0f/8280acc1-fe0f-413d-aec8-71f68beec505.jpg",
+            "description": null
+          }
+        ]
+      },
+      {
+        "title": "Environmental perception and SLAM",
+        "description": "Includes work on Bag-of-Point-and-Line-Word Pairs for visual SLAM, Lidar SLAM, 3D Gaussian mapping, and vision and lidar multi-modal perception of power transmission lines.",
+        "related_publications": [
+          {
+            "title_contains": "paper",
+            "url": "https://ieeexplore.ieee.org/document/8868098"
+          }
+        ],
+        "related_code": [
+          {
+            "url": "https://github.com/robotseu/ORB_Line_SLAM",
+            "description": "code for ORB_Line_SLAM"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://automation.seu.edu.cn/_upload/article/images/2f/ea/b80c540a4a9e8a79214d8c93fc0f/3e4a1991-4c12-4fea-802c-c1dddcf33e21.jpg",
+            "description": "Visual SLAM"
+          },
+          {
+            "url": "https://automation.seu.edu.cn/_upload/article/images/2f/ea/b80c540a4a9e8a79214d8c93fc0f/da649fce-5a6a-43ea-9f6c-92e0ccc292b4.jpg",
+            "description": "Lidar SLAM of our Sipailou campus."
+          },
+          {
+            "url": "https://automation.seu.edu.cn/_upload/article/images/2f/ea/b80c540a4a9e8a79214d8c93fc0f/4c4639b1-d2e3-40b0-8efd-965488aa19ea.jpg",
+            "description": "3D Gaussian mapping of our Sipailou campus."
+          },
+          {
+            "url": "https://automation.seu.edu.cn/_upload/article/images/2f/ea/b80c540a4a9e8a79214d8c93fc0f/3e3a6b5d-c059-4392-a2ec-8b705156b1c9.jpg",
+            "description": "Vison and lidar multi-modal perception of power transmission lines."
+          }
+        ]
+      }
+    ],
+    "graduate_admissions": {
+      "phd_students_per_year": 1,
+      "master_students_per_year": "3~4名 (南京/无锡/苏州校区)",
+      "preferred_interests": [
+        "智能机器人",
+        "计算机视觉",
+        "机器学习"
+      ]
+    },
+    "education": [
+      {
+        "start_date": "2004-09",
+        "end_date": "2010-04",
+        "institution": "东南大学",
+        "major": "控制理论与控制工程",
+        "degree": "博士"
+      },
+      {
+        "start_date": "2000-09",
+        "end_date": "2004-06",
+        "institution": "东南大学",
+        "major": "自动化",
+        "degree": "学士"
+      }
+    ],
+    "work_experience": [
+      {
+        "start_date": "2010-04",
+        "end_date": "2014-04",
+        "institution": "东南大学",
+        "department": "自动化学院",
+        "position": "讲师"
+      },
+      {
+        "start_date": "2014-05",
+        "end_date": "至今",
+        "institution": "东南大学",
+        "department": "自动化学院",
+        "position": "副教授"
+      },
+      {
+        "start_date": "2021-10",
+        "end_date": "2022-04",
+        "institution": "University of Liverpool, UK",
+        "position": "访问学者",
+        "funding": "国家留学基金委公派访问学者项目资助"
+      },
+      {
+        "start_date": "2022-04",
+        "end_date": "2022-10",
+        "institution": "King's College London, UK",
+        "position": "访问学者",
+        "funding": "国家留学基金委公派访问学者项目资助"
+      },
+      {
+        "start_date": "2014-07",
+        "end_date": "2014-08",
+        "institution": "Lehigh University, USA",
+        "position": "学习访问"
+      }
+    ],
+    "academic_service": {
+      "memberships": [
+        "IEEE member",
+        "中国自动化学会会员",
+        "中国人工智能学会智能机器人委员会委员",
+        "南京自动化及仪表协会理事",
+        "江苏省自动化学会机器人竞赛工作委员会委员",
+        "江苏省发展改革委评审咨询专家"
+      ],
+      "journal_reviewer": [
+        "IEEE Transactions on Robotics",
+        "IEEE Transactions on Industrial Electronics",
+        "IEEE Transactions on Industrial Informatics",
+        "IEEE Transactions on Intelligent Transportation Systems",
+        "IEEE Transactions on Instrumentation & Measurement",
+        "IEEE Transactions on Human-Machine Systems",
+        "Neural Computing and Applications",
+        "Journal of Intelligent & Robotic Systems",
+        "Journal of Bionic Engineering",
+        "Sensors",
+        "Electronics",
+        "Advanced Robotics",
+        "IEEE Access",
+        "IEEE Sensors Journal",
+        "Applied Artificial Intelligence"
+      ],
+      "conference_reviewer": [
+        "IEEE ICRA",
+        "IEEE/RSJ IROS",
+        "ICARCV",
+        "IEEE RO-MAN"
+      ],
+      "other_roles": [
+        {
+          "year": 2015,
+          "role": "IEEE ICMA Session Chair"
+        },
+        {
+          "year": 2018,
+          "role": "ICARCV Session Chair"
+        }
+      ]
+    },
+    "awards": [
+      {
+        "name": "第7届全球智能控制与自动化大会（WCICA’08）最佳Poster论文奖",
+        "year": 2008,
+        "ranking": 1
+      },
+      {
+        "name": "南京市第十届自然科学优秀学术论文三等奖",
+        "year": 2013,
+        "ranking": 1
+      },
+      {
+        "name": "校授课竞赛提名奖",
+        "year": 2013
+      },
+      {
+        "name": "东南大学一等奖教金",
+        "year": 2015
+      },
+      {
+        "name": "中国智能机器人大会优秀论文奖",
+        "year": 2017,
+        "ranking": 1
+      },
+      {
+        "name": "中国自动化学会高等教育教学成果特等奖",
+        "year": 2017,
+        "ranking": 3
+      },
+      {
+        "name": "国家电网公司全球能源互联网研究院2019年科技进步二等奖",
+        "year": 2019
+      },
+      {
+        "name": "首届全国教材建设奖",
+        "year": 2021,
+        "award_level": "二等奖",
+        "ranking": 3
+      },
+      {
+        "name": "东南大学华为奖教金",
+        "year": 2024
+      },
+      {
+        "name": "东南大学埃斯顿奖教金",
+        "year": 2025
+      }
+    ],
+    "courses_taught": [
+      {
+        "name": "微机系统与接口技术",
+        "level": "本科生",
+        "major": "自动化专业"
+      },
+      {
+        "name": "感知与人机交互",
+        "level": "本科生",
+        "major": "机器人工程/人工智能专业"
+      },
+      {
+        "name": "智能机器人",
+        "level": "研究生"
+      },
+      {
+        "name": "微机系统与接口技术 国家精品共享资源课建设",
+        "level": "本科生",
+        "role": "参与",
+        "year": 2012
+      },
+      {
+        "name": "自动化专业导论 国家视频公开课",
+        "level": "本科生",
+        "role": "参与",
+        "year": 2015
+      },
+      {
+        "name": "高等学校教材：自动化学科概论（高等教育出版社）第二版",
+        "role": "参编",
+        "year": 2015
+      },
+      {
+        "name": "校级重点教改项目",
+        "role": "主持",
+        "count": 1
+      },
+      {
+        "name": "校级教改项目",
+        "role": "主持",
+        "count": 1
+      },
+      {
+        "name": "自动化学院教改项目",
+        "role": "主持",
+        "count": 2
+      },
+      {
+        "name": "机器人感知与人机交互 中国大学MOOC",
+        "role": "主讲",
+        "platform": "高等教育智慧平台人工智能专区"
+      }
+    ],
+    "student_mentoring": {
+      "undergraduate_competitions": [
+        {
+          "year": 2025,
+          "competitions": [
+            {
+              "name": "Robocup中国赛",
+              "awards": [
+                "一等奖",
+                "二等奖",
+                "三等奖"
+              ],
+              "counts": [
+                1,
+                1,
+                1
+              ]
+            },
+            {
+              "name": "江苏省大学生机器人竞赛",
+              "awards": [
+                "一等奖 (识别组冠军)",
+                "三等奖"
+              ],
+              "counts": [
+                1,
+                1
+              ]
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "competitions": [
+            {
+              "name": "Robocup中国赛",
+              "awards": [
+                "三等奖"
+              ],
+              "counts": [
+                1
+              ]
+            },
+            {
+              "name": "江苏省大学生机器人竞赛",
+              "awards": [
+                "一等奖 (识别组冠军)",
+                "三等奖"
+              ],
+              "counts": [
+                1,
+                1
+              ]
+            }
+          ]
+        },
+        {
+          "year": 2023,
+          "competitions": [
+            {
+              "name": "Robocup中国赛",
+              "awards": [
+                "一等奖"
+              ],
+              "counts": [
+                1
+              ]
+            },
+            {
+              "name": "江苏省大学生机器人竞赛",
+              "awards": [
+                "一等奖 (识别组冠军)",
+                "二等奖"
+              ],
+              "counts": [
+                1,
+                1
+              ]
+            }
+          ]
+        },
+        {
+          "year": 2022,
+          "competitions": [
+            {
+              "name": "Robocup中国赛",
+              "awards": [
+                "一等奖 (@home组全国亚军)"
+              ],
+              "counts": [
+                1
+              ]
+            },
+            {
+              "name": "江苏省大学生机器人竞赛",
+              "awards": [
+                "一等奖 (识别组冠军)",
+                "二等奖"
+              ],
+              "counts": [
+                1,
+                1
+              ]
+            }
+          ]
+        },
+        {
+          "year": 2021,
+          "competitions": [
+            {
+              "name": "Robocup中国赛",
+              "awards": [
+                "二等奖"
+              ],
+              "counts": [
+                1
+              ]
+            },
+            {
+              "name": "中国大学生计算机设计大赛江苏省级赛",
+              "awards": [
+                "特等奖"
+              ],
+              "counts": [
+                1
+              ]
+            },
+            {
+              "name": "江苏省大学生机器人竞赛",
+              "awards": [
+                "一等奖 (识别组冠军)",
+                "二等奖"
+              ],
+              "counts": [
+                1,
+                1
+              ]
+            }
+          ]
+        },
+        {
+          "year": 2020,
+          "competitions": [
+            {
+              "name": "Robocup中国赛",
+              "awards": [
+                "三等奖"
+              ],
+              "counts": [
+                1
+              ]
+            },
+            {
+              "name": "江苏省大学生机器人竞赛",
+              "awards": [
+                "一等奖",
+                "二等奖"
+              ],
+              "counts": [
+                1,
+                1
+              ]
+            }
+          ]
+        },
+        {
+          "year": 2019,
+          "competitions": [
+            {
+              "name": "江苏省大学生机器人竞赛",
+              "awards": [
+                "三等奖"
+              ],
+              "counts": [
+                1
+              ]
+            }
+          ]
+        }
+      ],
+      "other_undergraduate_mentoring": [
+        {
+          "role": "东南大学Robocup校赛负责人"
+        },
+        {
+          "student_names": [
+            "赵伟",
+            "段波伊",
+            "孙畅"
+          ],
+          "achievement": "获得东南大学优秀本科毕设论文"
+        },
+        {
+          "achievement": "指导本科生发表SCI论文1篇"
+        },
+        {
+          "achievement": "指导本科生发表EI论文6篇"
+        },
+        {
+          "role": "未来技术学院本科生导师"
+        },
+        {
+          "role": "自动化学院学习优秀生导师"
+        }
+      ],
+      "graduate_mentoring_numbers": {
+        "masters": 25,
+        "phds": 5
+      },
+      "graduate_theses": [
+        {
+          "student_name": "赵永强",
+          "degree_type": "学硕",
+          "achievement": "获得东南大学优秀硕士论文"
+        },
+        {
+          "student_name": "房一鑫",
+          "degree_type": "专硕",
+          "achievement": "获得东南大学优秀硕士论文"
+        },
+        {
+          "student_name": "马家乐",
+          "degree_type": "专硕",
+          "achievement": "获得东南大学优秀硕士论文"
+        }
+      ],
+      "undergraduate_publications": [
+        {
+          "authors": "Liu, Yinghui; Qian, Kun; Xu, Xin; Zhou, Bo; Fang, Fang",
+          "title": "Grasp Pose Learning from Human Demonstration with Task Constraints",
+          "journal_conference": "Journal of Intelligent and Robotic Systems",
+          "volume": "105",
+          "issue": "2",
+          "publication_date": "June 2022",
+          "type": "SCI"
+        },
+        {
+          "authors": "Yang, Ziyi; Qian, Kun",
+          "title": "Reliable Lidar-Based Relocalization of Mobile Robots in Environments with Local Similarity Using Switch Mechanism",
+          "journal_conference": "Chinese Control Conference, CCC",
+          "page_range": "4909-4914",
+          "year": 2025,
+          "type": "EI"
+        },
+        {
+          "authors": "Wang, Ruoyu; Yang, Zhipeng; Zhao Zinan; Tong, Xinyan; Hong, Zhi; Qian, Kun",
+          "title": "LLM-based Robot Task Planning with Exceptional Handling for General Purpose Service Robots",
+          "journal_conference": "Chinese Control Conference, CCC",
+          "page_range": "4439-4444",
+          "year": 2024,
+          "type": "EI"
+        },
+        {
+          "authors": "Sun, Chang; Duan, Boyi; Qian, Kun; Zhao, Yongqiang",
+          "title": "Learning Tactilemotor Policy for Robotic Cable Following via Sim-to-Real Transfer",
+          "journal_conference": "Intelligent Robotics and Applications - 16th International Conference, ICIRA 2023",
+          "type": "EI"
+        },
+        {
+          "authors": "Zhang, Dailing; Tian, Yinxiao; Chen, Kaifeng; Qian, Kun",
+          "title": "Gaze-directed Visual Grounding under Object Referring Uncertainty",
+          "journal_conference": "Chinese Control Conference, CCC",
+          "volume": "2022-July",
+          "page_range": "3807-3811",
+          "year": 2022,
+          "type": "EI"
+        }
+      ]
+    },
+    "research_projects": [
+      {
+        "id": 1,
+        "name": "国家自然科学基金面上项目，“欠明确表达任务下基于非受限交互的机器人模仿学习方法研究”",
+        "type": "National Natural Science Foundation of China (NSFC) General Program",
+        "start_year": 2016,
+        "end_year": 2019,
+        "role": "主持"
+      },
+      {
+        "id": 2,
+        "name": "国家自然科学基金青年项目，“基于广义环境感知的服务机器人功能型定位导航方法研究”",
+        "type": "National Natural Science Foundation of China (NSFC) Young Scientists Fund",
+        "start_year": 2012,
+        "end_year": 2014,
+        "role": "主持"
+      },
+      {
+        "id": 3,
+        "name": "江苏省自然科学基金面上项目，“机器人操作技能跨域迁移学习与泛化再现方法研究”",
+        "type": "Jiangsu Provincial Natural Science Foundation General Program",
+        "start_year": 2020,
+        "end_year": 2023,
+        "role": "主持"
+      },
+      {
+        "id": 4,
+        "name": "广东省自然科学基金面上项目，“视触觉引导的机器人弱刚度物体操作技能学习方法研究”",
+        "type": "Guangdong Provincial Natural Science Foundation General Program",
+        "start_year": 2025,
+        "end_year": 2027,
+        "role": "主持"
+      },
+      {
+        "id": 5,
+        "name": "之江实验室开放课题，“面向主动人机交互的协同运动与视听指称意图理解”",
+        "type": "Zhejiang Lab Open Project",
+        "start_year": 2022,
+        "end_year": 2023,
+        "role": "主持"
+      },
+      {
+        "id": 6,
+        "name": "东南大学太湖创新基金，“基于具身视触觉感知的机器人技能Sim2Real迁移学习方法研究”",
+        "type": "Southeast University Taihu Innovation Fund",
+        "start_year": 2025,
+        "end_year": 2026,
+        "role": "主持"
+      },
+      {
+        "id": 7,
+        "name": "东南大学未来机器人及人工智能联合研发实验中心揭榜挂帅项目“触觉引导的机器人抓取与操作技能学习”",
+        "type": "Southeast University Future Robotics and AI Joint R&D Lab Project",
+        "start_year": 2025,
+        "end_year": 2026,
+        "role": "主持"
+      },
+      {
+        "id": 8,
+        "name": "复杂工程系统测量与控制教育部重点实验室开放课题，“基于仿生视觉显著性检测的移动机器人级联环境地图创建方法研究”",
+        "type": "Key Laboratory of Measurement and Control of Complex Systems (Ministry of Education) Open Project",
+        "start_year": 2012,
+        "end_year": 2014,
+        "role": "主持"
+      },
+      {
+        "id": 9,
+        "name": "东南大学基本科研业务费项目，“模仿人类示范行为的机器人抓取操作学习方法研究”",
+        "type": "Southeast University Fundamental Research Funds for the Central Universities Project",
+        "start_year": 2020,
+        "end_year": 2021,
+        "role": "主持"
+      },
+      {
+        "id": 10,
+        "name": "国家电网公司总部科技项目，“基于深度视觉的复杂动态作业环境智能重构与认知技术研究”子课题",
+        "type": "State Grid Corporation of China Headquarters Technology Project (Sub-project)",
+        "start_year": 2019,
+        "end_year": 2021,
+        "role": "主持"
+      },
+      {
+        "id": 11,
+        "name": "国家电网公司总部科技项目，“增强现实智能穿戴设备基础软硬件平台技术研究及应用验证”子课题",
+        "type": "State Grid Corporation of China Headquarters Technology Project (Sub-project)",
+        "start_year": 2016,
+        "end_year": 2018,
+        "role": "主持"
+      },
+      {
+        "id": 12,
+        "name": "国家电网公司总部科技项目,“多方跨环节电网工程数字化移交数据资源一致性修正与优化关键技术研究”子课题",
+        "type": "State Grid Corporation of China Headquarters Technology Project (Sub-project)",
+        "start_year": 2023,
+        "end_year": 2025,
+        "role": "主持"
+      },
+      {
+        "id": 13,
+        "name": "全球能源互联网研究院科技项目，“基于红外/紫外图像识别算法研究及软件模块辅助功能开发”",
+        "type": "Global Energy Interconnection Research Institute Technology Project",
+        "start_year": 2019,
+        "end_year": 2021,
+        "role": "主持"
+      },
+      {
+        "id": 14,
+        "name": "全球能源互联网研究院科技项目，“基于红外/紫外图像识别分析软件模块研发及集成”",
+        "type": "Global Energy Interconnection Research Institute Technology Project",
+        "start_year": 2020,
+        "end_year": 2021,
+        "role": "主持"
+      },
+      {
+        "id": 15,
+        "name": "全球能源互联网研究院科技项目，“云边端融合的数字孪生技术研究”",
+        "type": "Global Energy Interconnection Research Institute Technology Project",
+        "start_year": 2022,
+        "end_year": 2023,
+        "role": "主持"
+      },
+      {
+        "id": 16,
+        "name": "国网智能电网研究院科技项目，“面向空间感知分析的厂站环境在线监测二三维实景映射工具及算法验证”",
+        "type": "State Grid Smart Grid Research Institute Technology Project",
+        "start_year": 2023,
+        "end_year": 2024,
+        "role": "主持"
+      },
+      {
+        "id": 17,
+        "name": "南瑞集团科技项目，“输电线路微拍图片预处理、三维图像可视化技术研究”",
+        "type": "NARI Group Corporation Technology Project",
+        "start_year": 2024,
+        "end_year": 2025,
+        "role": "主持"
+      },
+      {
+        "id": 18,
+        "name": "国网智能电网研究院科技项目，“基于语义理解的配网业务规则分析及校验”",
+        "type": "State Grid Smart Grid Research Institute Technology Project",
+        "start_year": 2024,
+        "end_year": 2025,
+        "role": "主持"
+      },
+      {
+        "id": 19,
+        "name": "国网江苏电力设计咨询有限公司科技项目，“建转运数字化移交三维数据表观一致性校验与修正技术研究”",
+        "type": "State Grid Jiangsu Electric Power Design & Consulting Co., Ltd. Technology Project",
+        "start_year": 2022,
+        "end_year": 2023,
+        "role": "主持"
+      },
+      {
+        "id": 20,
+        "name": "上海鸣啸科技股份有限公司委托项目，“智能视频分析技术开发”",
+        "type": "Shanghai Mingxiao Technology Co., Ltd. Entrusted Project",
+        "start_year": 2022,
+        "end_year": 2024,
+        "role": "主持"
+      },
+      {
+        "id": 21,
+        "name": "江苏省关键核心技术（装备）攻关项目子课题，“机器人打磨过程的智能检测与控制方法”",
+        "type": "Jiangsu Provincial Key Core Technology (Equipment) Research Project (Sub-project)",
+        "start_year": 2021,
+        "end_year": 2023,
+        "role": "参与"
+      },
+      {
+        "id": 22,
+        "name": "国家自然科学基金面上项目，“服务构件化的网络机器人系统理论与应用研究”",
+        "type": "National Natural Science Foundation of China (NSFC) General Program",
+        "start_year": 2011,
+        "end_year": 2013,
+        "role": "参与"
+      },
+      {
+        "id": 23,
+        "name": "国家自然科学基金面上项目，“基于手绘语义地图的室内泛在感知网络下移动机器人视觉交互导航研究”",
+        "type": "National Natural Science Foundation of China (NSFC) General Program",
+        "start_year": 2012,
+        "end_year": 2015,
+        "role": "参与"
+      },
+      {
+        "id": 24,
+        "name": "国家自然科学基金青年项目，“基于集理论的野外移动机器人地形环境建模和定位方法研究”",
+        "type": "National Natural Science Foundation of China (NSFC) Young Scientists Fund",
+        "start_year": 2011,
+        "end_year": 2013,
+        "role": "参与"
+      },
+      {
+        "id": 25,
+        "name": "国家自然科学基金青年项目，“基于分布式感知的服务机器人和谐导航理论与方法研究”",
+        "type": "National Natural Science Foundation of China (NSFC) Young Scientists Fund",
+        "start_year": 2009,
+        "end_year": 2011,
+        "role": "参与"
+      },
+      {
+        "id": 26,
+        "name": "国家863 高技术发展计划重点项目，“助老/助残机器人关键技术研究”",
+        "type": "National 863 High-Tech Program Key Project",
+        "start_year": 2007,
+        "end_year": 2009,
+        "role": "参与"
+      },
+      {
+        "id": 27,
+        "name": "江苏省科技成果转化项目，“基于装配和搬运移动机器人的自动化车间（仓库）关键技术研发及产业化”",
+        "type": "Jiangsu Provincial Science and Technology Achievement Transformation Project",
+        "start_year": 2014,
+        "end_year": 2017,
+        "role": "参与"
+      },
+      {
+        "id": 28,
+        "name": "江苏省科技成果转化项目，“高速重载（500kg）工业机器人核心技术研发及产业化”",
+        "type": "Jiangsu Provincial Science and Technology Achievement Transformation Project",
+        "start_year": 2016,
+        "end_year": 2018,
+        "role": "参与"
+      },
+      {
+        "id": 29,
+        "name": "江苏省科技成果转化项目，“面向船舶工业的机器人曲面喷涂/预处理任务规划技术与功能软件研发”",
+        "type": "Jiangsu Provincial Science and Technology Achievement Transformation Project",
+        "start_year": 2017,
+        "end_year": 2020,
+        "role": "参与"
+      },
+      {
+        "id": 30,
+        "name": "江苏省自然科学基金重点项目，“既有公共建筑长期节能监测关键技术研究及示范”",
+        "type": "Jiangsu Provincial Natural Science Foundation Key Program",
+        "start_year": 2010,
+        "end_year": 2013,
+        "role": "参与"
+      }
+    ],
+    "publications": {
+      "summary": {
+        "total_papers": ">80",
+        "first_or_corresponding_author_sci_indexed": 35
+      },
+      "journal_papers": [
+        {
+          "id": 53,
+          "authors": "Ling Tong, Kun Qian*, Zhaokun Yue, Shan Luo",
+          "title": "ViTaDex: Vision-Tactile Fusion for 6D Object-in-hand Pose Estimation in Dexterous Anthropomorphic Manipulation",
+          "journal": "IEEE Transactions on Industrial Informatics",
+          "year": 2026,
+          "url": "https://ieeexplore.ieee.org/document/11330173",
+          "corresponding_author": "Kun Qian",
+          "notes": "中科院一区Top"
+        },
+        {
+          "id": 52,
+          "authors": "Ling Tong, Kun Qian*, Zhaokun Yue, Shan Luo",
+          "title": "Can Vision Feel Touch? Tactile-aware Visual Grasping for Transparent Objects",
+          "journal": "IEEE Transactions on Circuits and Systems for Video Technology",
+          "year": 2026,
+          "url": "https://ieeexplore.ieee.org/document/11124252",
+          "corresponding_author": "Kun Qian",
+          "notes": "中科院一区Top"
+        },
+        {
+          "id": 51,
+          "authors": "Ling Tong, Kun Qian*, Bo Zhou, Fang Fang",
+          "title": "A Lightweight Prior-Encoding-Decoding Cascade Framework for Robust Depth Completion in Robotic Grasping of Transparent Objects Using RGB-D Sensors",
+          "journal": "Engineering Applications of Artificial Intelligence",
+          "volume": "163",
+          "part": "2",
+          "year": 2026,
+          "pages": "112934",
+          "url": "https://www.sciencedirect.com/science/article/pii/S0952197625029653",
+          "corresponding_author": "Kun Qian",
+          "notes": "中科院一区Top"
+        },
+        {
+          "id": 50,
+          "authors": "Aohua Liu, Kun Qian*, Boyi Duan, Shan Luo",
+          "title": "Dynamic Contrastive Koopman Operator for Tactile Servo of Deformable Linear Objects",
+          "journal": "IEEE Transactions on Industrial Electronics",
+          "year": 2025,
+          "doi": "10.1109/TIE.2025.3579094",
+          "url": "https://ieeexplore.ieee.org/abstract/document/11077666",
+          "corresponding_author": "Kun Qian",
+          "notes": "中科院一区Top"
+        },
+        {
+          "id": 49,
+          "authors": "Xingshuo Jing, Kun Qian*, Markus Vincze",
+          "title": "CAGT: Sim-to-Real Depth Completion with Interactive Embedding Aggregation and Geometry Awareness for Transparent Objects",
+          "journal": "IEEE Transactions on Circuits and Systems for Video Technology",
+          "year": 2025,
+          "url": "https://ieeexplore.ieee.org/document/10891843",
+          "corresponding_author": "Kun Qian",
+          "notes": "中科院一区Top"
+        },
+        {
+          "id": 48,
+          "authors": "Boyi Duan, Kun Qian*, Aohua Liu, Shan Luo",
+          "title": "Visual–tactile learning of robotic cable-in-duct installation skills",
+          "journal": "Automation in Construction",
+          "volume": "170",
+          "year": 2025,
+          "pages": "105905",
+          "url": "https://www.sciencedirect.com/science/article/pii/S0926580524006411",
+          "corresponding_author": "Kun Qian",
+          "notes": "中科院一区Top"
+        },
+        {
+          "id": 47,
+          "authors": "Xin Xu, Kun Qian*, Bo Zhou, Fang Fang",
+          "title": "S2SNet: Two-stream Geometry-aware Sequence to Sequence Network for Robot Motion Skills Learning and Generalization",
+          "journal": "Advanced Engineering Informatics",
+          "volume": "62",
+          "part": "B",
+          "year": 2024,
+          "pages": "102702",
+          "url": "https://www.sciencedirect.com/science/article/pii/S1474034624003501",
+          "corresponding_author": "Kun Qian",
+          "notes": "中科院一区Top"
+        },
+        {
+          "id": 46,
+          "authors": "Zhuoyang Zhang, Kun Qian*, Bo Zhou, Fang Fang, Xudong Ma",
+          "title": "Gaze-assisted visual grounding via knowledge distillation for referred object grasping with under-specified object referring",
+          "journal": "Engineering Applications of Artificial Intelligence",
+          "volume": "133",
+          "part": "E",
+          "year": 2024,
+          "pages": "108493",
+          "url": "https://www.sciencedirect.com/science/article/pii/S0952197624006511",
+          "corresponding_author": "Kun Qian",
+          "notes": "中科院一区Top"
+        },
+        {
+          "id": 45,
+          "authors": "Yixin Fang, Kun Qian*, Yun Zhang, Tong Shi, Hai Yu",
+          "title": "Segmented Curved-Voxel Occupancy Descriptor for Dynamic-Aware LiDAR Odometry and Mapping",
+          "journal": "IEEE Transactions on Geoscience and Remote Sensing",
+          "volume": "62",
+          "pages": "1-16",
+          "year": 2024,
+          "url": "https://ieeexplore.ieee.org/document/10419066",
+          "corresponding_author": "Kun Qian",
+          "notes": "中科院一区Top"
+        },
+        {
+          "id": 44,
+          "authors": "Ling Tong, Kun Qian*",
+          "title": "HFNet: High-precision robotic grasp detection in unstructured environments using hierarchical RGB-D feature fusion and fine-grained pose alignment",
+          "journal": "Measurement",
+          "volume": "253",
+          "part": "D",
+          "year": 2025,
+          "pages": "117775",
+          "url": "https://www.sciencedirect.com/science/article/pii/S0263224125011340",
+          "corresponding_author": "Kun Qian"
+        },
+        {
+          "id": 43,
+          "authors": "Ling Tong, Kun Qian* and Xingshuo Jing",
+          "title": "LBSNet: Lightweight Joint Boundary Detection and Semantic Segmentation for Transparent and Reflective Objects",
+          "journal": "IEEE Robotics and Automation Letters",
+          "volume": "10",
+          "issue": "2",
+          "pages": "955-962",
+          "publication_date": "Feb. 2025",
+          "url": "https://ieeexplore.ieee.org/document/10801210",
+          "corresponding_author": "Kun Qian"
+        },
+        {
+          "id": 42,
+          "authors": "Kun Qian*, Zhaokun Yue, Jishen Bai",
+          "title": "Hierarchical kernelized movement primitives for learning human-robot collaborative trajectories in referred object handover",
+          "journal": "Applied Intelligence",
+          "volume": "55",
+          "issue": "38",
+          "year": 2025,
+          "url": "https://link.springer.com/article/10.1007/s10489-024-05902-3",
+          "corresponding_author": "Kun Qian"
+        },
+        {
+          "id": 41,
+          "authors": "Tong Shi, Kun Qian*, Yixi Fang, Yun Zhang, Hai Yu",
+          "title": "Point-Line LIVO Using Patch-Based Gradient Optimization for Degenerate Scenes",
+          "journal": "IEEE Robotics and Automation Letters",
+          "volume": "9",
+          "issue": "11",
+          "pages": "9717-9724",
+          "year": 2024,
+          "url": "https://ieeexplore.ieee.org/document/10688407",
+          "corresponding_author": "Kun Qian"
+        },
+        {
+          "id": 40,
+          "authors": "Yongqiang Zhao, Kun Qian*, Boyi Duan and Shan Luo",
+          "title": "FOTS: A Fast Optical Tactile Simulator for Sim2Real Learning of Tactile-Motor Robot Manipulation Skills",
+          "journal": "IEEE Robotics and Automation Letters",
+          "volume": "9",
+          "issue": "6",
+          "pages": "5647-5654",
+          "year": 2024,
+          "url": "https://ieeexplore.ieee.org/document/10518085",
+          "corresponding_author": "Kun Qian"
+        },
+        {
+          "id": 39,
+          "authors": "Xin Xu, Kun Qian*, Bo Zhou, Fang Fang, Xudong Ma",
+          "title": "Imitating via manipulability: Geometry-aware combined DMP with via-point and speed adaptation",
+          "journal": "Computers & Electrical Engineering",
+          "volume": "117",
+          "year": 2024,
+          "url": "https://www.sciencedirect.com/science/article/pii/S0045790624001757",
+          "corresponding_author": "Kun Qian"
+        },
+        {
+          "id": 38,
+          "authors": "Kun Qian*, Zhuoyang Zhang, Wei Song, Jianfeng Liao",
+          "title": "GVGNet: Gaze-Directed Visual Grounding for Learning Under-Specified Object Referring Intention",
+          "journal": "IEEE Robotics and Automation Letters",
+          "volume": "8",
+          "issue": "9",
+          "pages": "1-8",
+          "year": 2023,
+          "url": "https://ieeexplore.ieee.org/document/10202186/",
+          "corresponding_author": "Kun Qian"
+        },
+        {
+          "id": 37,
+          "authors": "Xingshuo Jing, Kun Qian*, Tudor Jianu, Shan Luo",
+          "title": "Unsupervised Adversarial Domain Adaptation for Sim-to-Real Transfer of Tactile Images",
+          "journal": "IEEE Transactions on Instrumentation and Measurement",
+          "year": 2023,
+          "doi": "10.1109/TIM.2023.3268458",
+          "url": "https://ieeexplore.ieee.org/document/10106009/",
+          "corresponding_author": "Kun Qian"
+        },
+        {
+          "id": 36,
+          "authors": "Kun Qian*, Yanhui Duan, Chaomin Luo, Yongqiang Zhao, Xingshuo Jing",
+          "title": "Pixel-Level Domain Adaptation for Real-to-Sim Object Pose Estimation",
+          "journal": "IEEE Transactions on Cognitive and Developmental Systems",
+          "year": 2023,
+          "doi": "10.1109/TCDS.2023.3237502",
+          "url": "https://ieeexplore.ieee.org/abstract/document/10018456",
+          "corresponding_author": "Kun Qian"
+        },
+        {
+          "id": 35,
+          "authors": "Yongqiang Zhao, Xingshuo Jing, Kun Qian*, Daniel Fernandes Gomes, Shan Luo",
+          "title": "Skill generalization of tubular object manipulation with tactile sensing and Sim2Real learning",
+          "journal": "Robotics and Autonomous Systems",
+          "volume": "160",
+          "pages": "104321",
+          "year": 2022,
+          "doi": "10.1016/j.robot.2022.104321",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/S092188902200210X",
+          "corresponding_author": "Kun Qian"
+        },
+        {
+          "id": 34,
+          "authors": "Xin Xu, Kun Qian*, Xingshuo Jing, Wei Song",
+          "title": "Learning Robot Manipulation Skills from Human Demonstration Videos using Two-stream 2D/3D Residual Networks with Self-Attention",
+          "journal": "IEEE Transactions on Cognitive and Developmental Systems",
+          "year": 2022,
+          "doi": "10.1109/TCDS.2022.3182877",
+          "url": "https://ieeexplore.ieee.org/document/9795859",
+          "corresponding_author": "Kun Qian"
+        },
+        {
+          "id": 33,
+          "authors": "Yun Zhang, Rui Liu, Bo Zhou, Hai Yu, Kun Qian*",
+          "title": "Visual Loop Closure Detection with Instance Segmentation and Image Inpainting in Dynamic Scenes using Wearable Camera",
+          "journal": "IEEE Sensors Journal",
+          "year": 2022,
+          "doi": "10.1109/JSEN.2022.3190999",
+          "url": "https://ieeexplore.ieee.org/document/9834231/",
+          "corresponding_author": "Kun Qian"
+        },
+        {
+          "id": 32,
+          "authors": "Yinghui Liu, Kun Qian*, Xin Xu, Bo Zhou, Fang Fang",
+          "title": "Grasp Pose Learning from Human Demonstration with Task Constraints",
+          "journal": "Journal of Intelligent & Robotic Systems",
+          "year": 2022,
+          "doi": "10.1007/s10846-022-01650-z",
+          "url": "https://link.springer.com/article/10.1007/s10846-022-01650-z",
+          "corresponding_author": "Kun Qian"
+        },
+        {
+          "id": 31,
+          "authors": "Kun Qian*, Xin Xu, Huan Liu, Jishen Bai, Shan Luo",
+          "title": "Environment-adaptive learning from demonstration for proactive assistance in human–robot collaborative tasks",
+          "journal": "Robotics and Autonomous Systems",
+          "year": 2022,
+          "doi": "10.1016/j.robot.2022.104046",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/S0921889022000185",
+          "corresponding_author": "Kun Qian"
+        },
+        {
+          "id": 30,
+          "authors": "Xingshuo Jing, Kun Qian*, Xin Xu, Jishen Bai, Bo Zhou",
+          "title": "Domain adversarial transfer for cross-domain and task-constrained grasp pose detection",
+          "journal": "Robotics and Autonomous Systems",
+          "year": 2021,
+          "doi": "10.1016/j.robot.2021.103872",
+          "url": "https://www.sciencedirect.com/science/article/pii/S0921889021001573",
+          "corresponding_author": "Kun Qian"
+        },
+        {
+          "id": 29,
+          "authors": "Bo Zhou, Yi He, Kun Qian, Xudong Ma, Xiaomao Li",
+          "title": "S4-SLAM: A real-time 3D LIDAR SLAM system for ground/watersurface multi-scene outdoor applications",
+          "journal": "Autonomous Robots",
+          "volume": "45",
+          "issue": "3",
+          "year": 2021,
+          "doi": "10.1007/s10514-020-09948-3"
+        },
+        {
+          "id": 28,
+          "authors": "Jiale Ma, Kun Qian*, Xiaobo Zhang, Xudong Ma",
+          "title": "Weakly Supervised Instance Segmentation of Electrical Equipment Based on RGB-T Automatic Annotation",
+          "journal": "IEEE Transactions on Instrumentation and Measurement",
+          "volume": "69",
+          "issue": "12",
+          "pages": "9720-9731",
+          "publication_date": "December 2020",
+          "doi": "10.1109/TIM.2020.3001796",
+          "url": "https://ieeexplore.ieee.org/document/9115062",
+          "corresponding_author": "Kun Qian"
+        },
+        {
+          "id": 27,
+          "authors": "Kun Qian*, Huan Liu, Jaime Valls Miro, Xingshuo Jing, Bo Zhou",
+          "title": "Hierarchical and Parameterized Learning of Pick-and-Place Manipulation from Under-specified Human Demonstrations",
+          "journal": "Advanced Robotics",
+          "volume": "34",
+          "issue": "13",
+          "pages": "858-872",
+          "publication_date": "July 2, 2020",
+          "doi": "10.1080/01691864.2020.1778523",
+          "url": "https://www.tandfonline.com/eprint/TQFJB7RIZNBTJETJBRHF/full?target=10.1080/01691864.2020.1778523",
+          "corresponding_author": "Kun Qian"
+        },
+        {
+          "id": 26,
+          "authors": "Kun Qian*, Xingshuo Jing, Yanhui Duan, Bo Zhou, Fang Fang, Jing Xia, Xudong Ma",
+          "title": "Grasp Pose Detection with Affordance-based Task Constraint Learning in Single-view Point Clouds",
+          "journal": "Journal of Intelligent & Robotic Systems",
+          "volume": "100",
+          "issue": "1",
+          "pages": "145-163",
+          "publication_date": "October 1, 2020",
+          "doi": "10.1007/s10846-020-01202-3",
+          "url": "http://link.springer.com/article/10.1007/s10846-020-01202-3",
+          "corresponding_author": "Kun Qian",
+          "notes": "表现不俗论文"
+        },
+        {
+          "id": 25,
+          "authors": "Kun Qian*, Wei Zhao, Kai Li, Xudong Ma, Hai Yu",
+          "title": "Visual SLAM with BoPLW Pairs using Egocentric Stereo Camera for Wearable-assisted Substation Inspection",
+          "journal": "IEEE Sensors Journal",
+          "year": 2020,
+          "volume": "20",
+          "issue": "3",
+          "pages": "1630-1641",
+          "url": "https://ieeexplore.ieee.org/document/8868098",
+          "corresponding_author": "Kun Qian",
+          "code_url": "https://github.com/robotseu/ORB_Line_SLAM"
+        },
+        {
+          "id": 24,
+          "authors": "Kun Qian*, Wei Zhao, Zhewen Ma, Jiale Ma, Xudong Ma, Hai Yu",
+          "title": "Wearable-assisted localization and inspection guidance system using egocentric stereo cameras",
+          "journal": "IEEE Sensors Journal",
+          "year": 2018,
+          "volume": null
+        }
+      ]
+    }
+  }
+}

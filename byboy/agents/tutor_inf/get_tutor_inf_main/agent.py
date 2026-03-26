@@ -41,7 +41,11 @@ from byboy.llm.dispatcher import LLMDispatcher
 class GetTutorInfMainPayload:
     workdir: str | Path
     academy_url: str | None = None
+    #: 学院/单位名称，传入 link_choose；与 academy_url 一样可写入 state 续跑时复用。
+    academy_scope_hint: str | None = None
     max_depth: int = 2
+    #: 同一大轮内名录「下一页」最多追加清洗次数（不计入 max_depth）；0 表示关闭专道。
+    listing_pagination_max_passes: int = 80
     pages_resume_state_path: str | Path | None = None
     main_resume_state_path: str | Path | None = None
     analysed_subdir: str = "cache/analysed"
@@ -49,6 +53,8 @@ class GetTutorInfMainPayload:
     csv_resume_state_path: str | Path | None = None
     csv_run_log_path: str | Path | None = None
     link_choose_refine_all_links: bool = True
+    #: 单页 link_choose 内 LLM 批次并行度（与 get_tutor_pages 一致）；总 LLM 并发约 pages_choice_max_workers × 本值。
+    link_choose_refine_batch_parallel_workers: int = 1
     resume_from_round: int | None = None
     resume_from_stage: str = "auto"
 
@@ -223,11 +229,26 @@ class GetTutorInfMainAgent:
         academy_url = (payload.academy_url or "").strip() or str(old.get("academy_url") or "").strip()
         if not academy_url:
             raise ValueError("academy_url 不能为空（首次运行请提供；后续可从已有 state 继承）")
+        pay_hint = (payload.academy_scope_hint or "").strip()
+        old_hint = str(old.get("academy_scope_hint") or "").strip()
+        academy_scope_hint = pay_hint or old_hint or None
         max_depth = payload.max_depth if payload.max_depth > 0 else int(old.get("max_depth") or 2)
         if max_depth <= 0:
             raise ValueError("max_depth 必须为正整数")
+        lp = int(payload.listing_pagination_max_passes)
+        if lp > 0:
+            listing_pagination_max_passes = lp
+        elif lp == 0:
+            listing_pagination_max_passes = 0
+        else:
+            old_lp = old.get("listing_pagination_max_passes")
+            listing_pagination_max_passes = int(old_lp) if old_lp is not None else 80
+        if listing_pagination_max_passes > 500:
+            raise ValueError("listing_pagination_max_passes 过大，建议不超过 500")
         return {
             "academy_url": academy_url,
+            "academy_scope_hint": academy_scope_hint,
+            "listing_pagination_max_passes": listing_pagination_max_passes,
             "workdir": str(Path(payload.workdir).resolve()),
             "slot": model_token,
             "max_depth": max_depth,
@@ -243,6 +264,9 @@ class GetTutorInfMainAgent:
             if payload.csv_run_log_path is not None
             else None,
             "link_choose_refine_all_links": bool(payload.link_choose_refine_all_links),
+            "link_choose_refine_batch_parallel_workers": max(
+                1, int(payload.link_choose_refine_batch_parallel_workers)
+            ),
         }
 
     def _prepare_resume_from_round_for_analyse(self, state_path: Path, start_round: int) -> None:
@@ -326,6 +350,57 @@ class GetTutorInfMainAgent:
             url = str(rec.get("url") or "").strip()
             cleaned_file = str(rec.get("cleaned_file") or "").strip()
             if url in list2_set and cleaned_file:
+                return True
+        return False
+
+    @staticmethod
+    def _has_pending_list1_pages(state_path: Path) -> bool:
+        """
+        ``get_tutor_pages`` 单次调用内 ``max_depth=1`` 只跑一轮；link_choose 可能把新 URL 写回
+        list1。若主流程仅按 ``max_depth`` 计数退出，会在仍有待爬队列时误进 CSV。
+        """
+        state = GetTutorInfMainAgent._read_json(state_path, default_obj={})
+        if not isinstance(state, dict):
+            return False
+        list1 = state.get("list1_possible_pages")
+        if not isinstance(list1, list):
+            return False
+        return any(isinstance(x, str) and str(x).strip() for x in list1)
+
+    @staticmethod
+    def _needs_more_pages_pass(state_path: Path) -> bool:
+        """
+        是否还应再跑一轮 ``get_tutor_pages``：待爬 list1 非空，或与子编排一致的
+        「清洗完成但 choice 未落盘」中断续跑（与 ``get_tutor_pages`` 内逻辑对齐）。
+        """
+        if GetTutorInfMainAgent._has_pending_list1_pages(state_path):
+            return True
+        state = GetTutorInfMainAgent._read_json(state_path, default_obj={})
+        if not isinstance(state, dict):
+            return False
+        try:
+            current_round = int(state.get("round") or 0)
+        except (TypeError, ValueError):
+            current_round = 0
+        if current_round <= 0:
+            return False
+        records = state.get("records")
+        if not isinstance(records, list):
+            return False
+        for rec in records:
+            if not isinstance(rec, dict):
+                continue
+            try:
+                rno = int(rec.get("round") or 0)
+            except (TypeError, ValueError):
+                rno = 0
+            if rno != current_round:
+                continue
+            cleaned_file = str(rec.get("cleaned_file") or "").strip()
+            if not cleaned_file:
+                continue
+            choice_file = str(rec.get("choice_file") or "").strip()
+            if not choice_file:
                 return True
         return False
 
@@ -518,6 +593,30 @@ class GetTutorInfMainAgent:
                 return ps.get("status") == "done"
             return False
 
+        def _analyse_terminal_for_round(round_no: int) -> bool:
+            """该轮 analyse 已结束（完成或明确跳过），无需再跑。"""
+            rounds = state_obj.get("main_task_rounds")
+            if not isinstance(rounds, list):
+                return False
+            for x in rounds:
+                if not isinstance(x, dict):
+                    continue
+                try:
+                    rno = int(x.get("round") or -1)
+                except (TypeError, ValueError):
+                    rno = -1
+                if rno != round_no:
+                    continue
+                rs = x.get("stages")
+                if not isinstance(rs, dict):
+                    return False
+                an = rs.get("analyse")
+                if not isinstance(an, dict):
+                    return False
+                st = an.get("status")
+                return st in ("done", "skipped")
+            return False
+
         # rounds_done 表示“pages 已经完成的轮次数（从 1 起连续推进时近似成立）”。
         # 为了正确续跑，先根据当前 round 的 pages 状态推断起点。
         rounds_done = current_round if _pages_done_for_round(current_round) else max(0, current_round - 1)
@@ -530,13 +629,30 @@ class GetTutorInfMainAgent:
             if start_round is not None and stage == "analyse":
                 self._prepare_resume_from_round_for_analyse(main_state_path, start_round)
                 current_round = start_round - 1
-            while rounds_done < rounds_budget:
-                if stage == "pages":
+            # 最后一轮 pages 已完成、analyse 中断时 rounds_done 已达 budget，若仅用
+            #「rounds_done < budget」会整段跳过 while，从而误进 CSV；需允许补跑 analyse。
+            #
+            # ``max_depth``（rounds_budget）为抓取阶段**硬上限**：每调用一次 get_tutor_pages（子
+            # 编排内 depth=1）计一轮；达到上限后**不再**因 list1 仍非空而加跑，否则会出现
+            # 「depth=3 却跑到第 4 轮」。若需清空 list1，请增大 --depth。
+            while (
+                rounds_done < rounds_budget
+                or (
+                    _pages_done_for_round(current_round)
+                    and not _analyse_terminal_for_round(current_round)
+                    and self._has_analyzable_profiles(main_state_path)
+                )
+            ):
+                if stage == "pages" and rounds_done < rounds_budget:
                     target_round = (
                         current_round + 1 if _pages_done_for_round(current_round) else current_round
                     )
                     self._mark_stage(state_obj, round_no=target_round, stage="pages", status="running")
                     self._save_main_only(state_path=main_state_path, main_state=state_obj)
+                    log.step(
+                        "主流程·抓取阶段",
+                        detail=f"即将运行 get_tutor_pages（单轮 depth=1）workdir={workdir}",
+                    )
                     pages_result = pages_agent.run(
                         AgentInvocation(
                             model=ModelRef(tok),
@@ -547,6 +663,13 @@ class GetTutorInfMainAgent:
                                 max_depth=1,
                                 resume_state_path=eff["pages_resume_state_path"],
                                 link_choose_refine_all_links=bool(eff["link_choose_refine_all_links"]),
+                                academy_scope_hint=eff.get("academy_scope_hint"),
+                                listing_pagination_max_passes=int(
+                                    eff["listing_pagination_max_passes"]
+                                ),
+                                link_choose_refine_batch_parallel_workers=int(
+                                    eff["link_choose_refine_batch_parallel_workers"]
+                                ),
                             ),
                         ),
                         dispatcher,
@@ -570,6 +693,10 @@ class GetTutorInfMainAgent:
                 if self._has_analyzable_profiles(main_state_path):
                     self._mark_stage(state_obj, round_no=current_round, stage="analyse", status="running")
                     self._save_main_only(state_path=main_state_path, main_state=state_obj)
+                    log.step(
+                        "主流程·分析阶段",
+                        detail=f"round={current_round} get_tutor_analyse workdir={workdir}",
+                    )
                     analyse_result = analyse_agent.run(
                         AgentInvocation(
                             model=ModelRef(tok),
@@ -605,6 +732,15 @@ class GetTutorInfMainAgent:
                     log.step("轮次主页分析跳过", detail=f"round={current_round} no_cleaned_tutor_profiles_yet")
                 stage = "pages"
 
+            if rounds_done >= rounds_budget and self._needs_more_pages_pass(main_state_path):
+                log.warn(
+                    "已达抓取深度上限，list1 仍有待爬 URL",
+                    detail=(
+                        f"max_depth={rounds_budget} state.round={current_round} "
+                        "需继续请增大 --depth"
+                    ),
+                )
+
         if analyse_result is None:
             analysed_dir_fallback = (workdir / eff["analysed_subdir"]).resolve()
             analyse_result = GetTutorAnalyseResult(
@@ -636,6 +772,7 @@ class GetTutorInfMainAgent:
             )
         self._mark_stage(state_obj, round_no=start_round, stage="csv", status="running")
         self._save_main_only(state_path=main_state_path, main_state=state_obj)
+        log.step("主流程·CSV 阶段", detail=f"analysed_dir={analysed_dir} csv={csv_path}")
         output_to_csv_agent = OutputToCsvAgent()
         csv_result = output_to_csv_agent.run(
             AgentInvocation(

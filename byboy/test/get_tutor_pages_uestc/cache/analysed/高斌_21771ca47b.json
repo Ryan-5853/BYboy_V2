@@ -1,0 +1,227 @@
+{
+  "meta": {
+    "tutor_name_cn": "高斌",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1156/4347.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1156/4347.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/51975d7f961adfe04e87c445282f6525c22d6fccf894ad3e79837085fd65b6c7.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "site_info": {
+      "source_url": "https://www.auto.uestc.edu.cn/info/1156/4347.htm",
+      "navigation_path": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "G",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/G.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "sidebar_links": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ]
+    },
+    "personal_details": {
+      "name": "高斌",
+      "highest_degree": "博士",
+      "contact_phone": null,
+      "position_title": "教授",
+      "email": "bin_gao@uestc.edu.cn",
+      "supervision_status": "博士导师",
+      "personal_homepage": "http://faculty.uestc.edu.cn/gaobin/zh_CN/lwcg/153392/list/index.htm",
+      "image": {
+        "url": "https://www.auto.uestc.edu.cn/__local/D/DC/8B/FF6D3FA25FAFA0D2F034811AC50_48475EF2_5189C.jpg",
+        "alt_text": "导师照片"
+      }
+    },
+    "affiliation": {
+      "research_team": "传感器国家工程研究中心成都分中心"
+    },
+    "research_interests": [
+      "电磁和红外无损检测",
+      "信号处理",
+      "机器学习"
+    ],
+    "academic_titles_and_memberships": [
+      "入选国家级、省级人才计划",
+      "IEEE Senior Member",
+      "世界无损检测大会分会主席",
+      "SCI期刊Sensors （IF:3.031）客座编委",
+      "International Journal of Distributed Sensor Networks（IF:1.239）客座主编",
+      "Journal of Sensors（IF:2.024）客座主编",
+      "中国仪器仪表学会分会理事"
+    ],
+    "experience": {
+      "education_history": [
+        {
+          "start_year": "2001",
+          "end_year": "2005",
+          "university": "西南交通大学",
+          "major": "计算机与通信工程",
+          "degree": "学士"
+        },
+        {
+          "start_year": "2006",
+          "end_year": "2007",
+          "university": "英国纽卡斯尔大学",
+          "major": "通讯和信号处理",
+          "degree": "硕士"
+        },
+        {
+          "start_year": "2007",
+          "end_year": "2011",
+          "university": "英国纽卡斯尔大学",
+          "major": "通讯和信号处理",
+          "degree": "博士",
+          "advisor": "Patrick Oliver 教授，Guiyun Tian教授"
+        }
+      ],
+      "work_experience": [
+        {
+          "start_year": "2011",
+          "end_year": "2013",
+          "institution": "英国纽卡斯尔大学",
+          "department": "计算机，电气与电子工程",
+          "position": "博士后"
+        },
+        {
+          "start_year": "2013",
+          "end_year": "2016",
+          "institution": "电子科技大学",
+          "position": "副教授/博导"
+        },
+        {
+          "start_year": "2016",
+          "start_month": "7",
+          "end_year": null,
+          "institution": "电子科技大学",
+          "position": "教授/博导"
+        }
+      ]
+    },
+    "research_achievements": {
+      "summary": "围绕无损检测、电磁效应、传感系统、特征分析与人工智能等领域挑战难题，相继突破了靶向电磁热多维盲分离成像检测，多模态光热成像，磁集中电磁阵元检测，非监督/监督多维机器学习算法，可穿戴社交感知系统等一系列核心关键技术。",
+      "awards": [
+        {
+          "year": "2019",
+          "name": "高等学校科学研究优秀成果奖通用项目",
+          "level": "进步奖二等",
+          "ranking": "排名第6"
+        },
+        {
+          "name": "中国仪器仪表学会科学技术奖",
+          "level": "一等"
+        }
+      ],
+      "publications": {
+        "journal_papers": {
+          "total": 70,
+          "author_status": "第一/通信作者",
+          "ieee_papers": 42,
+          "cas_zone_1_papers": 14,
+          "cas_zone_1_journals": [
+            "IEEE Transaction on Industrial Electronics",
+            "IEEE Transaction on Image Processing",
+            "IEEE Transaction on Neural Network and Learning System"
+          ],
+          "esi_highly_cited_papers": 2
+        },
+        "books": [
+          {
+            "type": "英文学术专著",
+            "count": 3
+          },
+          {
+            "title": "电磁无损检测传感与成像",
+            "type": "“十二五”国家重点丛书",
+            "co_author": "田贵云教授"
+          }
+        ],
+        "citations": {
+          "google_citations": 2130,
+          "sci_other_citations": 495
+        }
+      },
+      "funding": {
+        "total_amount": "1397万"
+      },
+      "patents": {
+        "application_count": 16,
+        "granted_us_patents": 1,
+        "granted_chinese_invention_patents": 10
+      },
+      "projects": [
+        {
+          "name": "国家自然科学基金",
+          "status": "结题",
+          "count": 2,
+          "details": "其中联合基金获评优秀结题"
+        },
+        {
+          "name": "国家重大科研仪器研制项目",
+          "count": 1,
+          "ranking": "排名第二"
+        },
+        {
+          "name": "2020自然科学基金面上项目",
+          "status": "主持"
+        },
+        {
+          "name": "省部和企业项目",
+          "count": 8
+        }
+      ]
+    },
+    "courses_taught": {
+      "undergraduate_courses": [
+        "数字信号处理",
+        "先进传感无损检测前沿技术",
+        "魅力自动化：入门与创新"
+      ],
+      "graduate_courses": [
+        "信号处理方法及应用",
+        "学科前沿知识专题讲座",
+        "研究生论文写作指导"
+      ],
+      "teaching_research": [
+        "参与《先进传感无损检测前沿技术》"
+      ]
+    },
+    "admission_specialties": {
+      "masters": [
+        "081100控制科学与工程",
+        "085400电子信息"
+      ],
+      "doctorates": [
+        "081100控制科学与工程",
+        "085400电子信息",
+        "086100交通运输"
+      ]
+    }
+  }
+}

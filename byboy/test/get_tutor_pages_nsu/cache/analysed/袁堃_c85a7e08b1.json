@@ -1,0 +1,379 @@
+{
+  "meta": {
+    "tutor_name_cn": "袁堃",
+    "request_url": "http://automation.seu.edu.cn/yk/list.htm",
+    "declared_source_url": "http://automation.seu.edu.cn/yk/list.htm",
+    "page_host": "automation.seu.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/41e426569e09c35de874678641d57444e8b30c9118aa101682c082fe4b437955.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "site_info": {
+      "source_url": "http://automation.seu.edu.cn/yk/list.htm",
+      "retrieval_note": "抓取来源：http://automation.seu.edu.cn/yk/list.htm",
+      "site_chrome_elements": [
+        {
+          "type": "image",
+          "url": "https://automation.seu.edu.cn/yk/list.htm",
+          "description": "Placeholder or potentially broken image link representing the page itself, at the top of the content."
+        },
+        {
+          "type": "image",
+          "url": "https://automation.seu.edu.cn/_visitcount?siteId=338&type=2&columnId=32782",
+          "description": "Site visit counter image at the bottom of the page."
+        }
+      ]
+    },
+    "personal_profile": {
+      "name": "袁堃",
+      "gender": "女",
+      "titles": [
+        "东南大学自动化学院副教授",
+        "硕士生导师"
+      ],
+      "affiliation": "东南大学自动化学院",
+      "biographical_summary": "2007年于东南大学获得理学博士学位，曾获得教育部自然科学二等奖1次（排名第3）。"
+    },
+    "education_background": [
+      {
+        "period": "2002.09-2007.01",
+        "institution": "东南大学数学系",
+        "degree_status": "硕博连读",
+        "notes": "获得理学博士学位"
+      },
+      {
+        "period": "1998.09-2002.07",
+        "institution": "河南大学数学系",
+        "degree_status": "大学本科"
+      }
+    ],
+    "work_experience": [
+      {
+        "period": "2007.04-至今",
+        "institution": "东南大学自动化学院",
+        "position": "教师"
+      },
+      {
+        "period": "2005.01-2006.10",
+        "institution": "香港城市大学制造工程与工程管理系",
+        "position": "研究助理"
+      }
+    ],
+    "academic_affiliations": {
+      "section_title": "学术兼职",
+      "details": null
+    },
+    "awards": [
+      {
+        "name": "教育部自然科学二等奖",
+        "quantity": 1,
+        "ranking_in_award": "第3名"
+      }
+    ],
+    "courses_taught": {
+      "summary": "承担的教学工作：自动化专业和机器人专业的本科生课程——离散数学、计算方法。",
+      "target_audience": "本科生",
+      "target_programs": [
+        "自动化专业",
+        "机器人专业"
+      ],
+      "courses": [
+        "离散数学",
+        "计算方法"
+      ]
+    },
+    "student_cultivation": {
+      "section_title": "学生培养",
+      "details": null
+    },
+    "research_interests": {
+      "main_research_areas": [
+        "电力系统调度与控制",
+        "分布参数系统分析与控制"
+      ]
+    },
+    "research_team": {
+      "faculty_members": [
+        {
+          "name": "张凯锋",
+          "title": "教授"
+        },
+        {
+          "name": "袁堃",
+          "title": "副教授"
+        },
+        {
+          "name": "王颖",
+          "title": "讲师"
+        }
+      ],
+      "students_count": {
+        "doctoral_students": 5,
+        "master_students": 20
+      }
+    },
+    "research_projects": [
+      {
+        "category": "国家电网公司科技项目",
+        "projects": [
+          {
+            "title": "多级停电计划优化及其与中长期调度决策协调技术研究",
+            "period": "2021-2022",
+            "role": "校内负责人"
+          },
+          {
+            "title": "高比例分布式光伏发电接入受端电网的并网适应性分析与提升技术研究",
+            "period": "2021-2022",
+            "role": "参与人"
+          },
+          {
+            "title": "基于大数据的电网趋势预测及操作智能预演技术研究",
+            "period": "2021-2022",
+            "role": "参与人"
+          },
+          {
+            "title": "大规模多样化需求侧资源的动态需求响应控制基础理论",
+            "period": "2018-2020",
+            "role": "参与人"
+          },
+          {
+            "title": "动态需求响应参与电网调频协同控制技术研究",
+            "period": "2019-2020",
+            "role": "参与人"
+          },
+          {
+            "title": "异步互联方式下西南电网跨层级多区域频率协调控制关键技术研究与应用",
+            "period": "2019-2020",
+            "role": "参与人"
+          }
+        ]
+      },
+      {
+        "category": "国家自然科学基金项目",
+        "projects": [
+          {
+            "title": "基于T-S时空模型的耦合分布参数系统的模糊控制",
+            "period": "2015-2018",
+            "role": "负责人"
+          },
+          {
+            "title": "特高压电网联络线功率与频率优化协调控制研究",
+            "period": "2016-2019",
+            "role": "参与人"
+          },
+          {
+            "title": "具有混杂特性的复杂网络群体行为分析与控制",
+            "period": "2016-2019",
+            "role": "参与人"
+          },
+          {
+            "title": "基于T-S模型的的时滞抛物型分布参数系统的模糊控制",
+            "period": "2011-2013",
+            "role": "负责人"
+          }
+        ]
+      }
+    ],
+    "publications": [
+      {
+        "id": 1,
+        "authors": [
+          "Kun.Yuan",
+          "Zhetong. Ding",
+          "Yaping.Li",
+          "Mingyu Huang",
+          "Kaifeng. Zhang"
+        ],
+        "title": "Robust H∞ load frequency control of power systems considering intermittent characteristics of demand-side resources",
+        "journal": "Electronics",
+        "volume": "9",
+        "number": "593",
+        "pages": "1-18",
+        "year": "2020",
+        "sci_indexed": true,
+        "target_author_present": true,
+        "target_author_position": "first author"
+      },
+      {
+        "id": 2,
+        "authors": [
+          "Kun Yuan",
+          "Kaifeng Zhang",
+          "Jinde. Cao"
+        ],
+        "title": "Pinning control of the coupled distributed parameter system with time delay",
+        "journal": "Asian Journal of control",
+        "volume": "21",
+        "number": "4",
+        "pages": "1-10",
+        "year": "2019",
+        "sci_indexed": true,
+        "target_author_present": true,
+        "target_author_position": "first author"
+      },
+      {
+        "id": 3,
+        "authors": [
+          "Kun Yuan",
+          "Kaifeng. Zhang",
+          "Yaxian. Zheng",
+          "Dawei. Li",
+          "Yin. Wang",
+          "Zhenglin. Yang"
+        ],
+        "title": "Irregular distribution of wind power prediction",
+        "journal": "Journal Modern Power System Clean Energy",
+        "volume": "6",
+        "number": "6",
+        "pages": "1172-1180",
+        "year": "2018",
+        "sci_indexed": true,
+        "target_author_present": true,
+        "target_author_position": "first author"
+      },
+      {
+        "id": 4,
+        "authors": [
+          "Chunyu Chen",
+          "Kaifeng Zhang",
+          "Kun Yuan",
+          "Xianliang Teng"
+        ],
+        "title": "Tie-Line bias control applicability to load frequency control for multi-area interconnected power systems of complex topology",
+        "journal": "Energies",
+        "year": "2017",
+        "volume": "10",
+        "number": "1",
+        "pages": "78",
+        "sci_indexed": true,
+        "target_author_present": true,
+        "target_author_position": "co-author"
+      },
+      {
+        "id": 5,
+        "authors": [
+          "Chunyu Chen",
+          "Kaifeng Zhang",
+          "Kun Yuan",
+          "Zonghe Gao",
+          "Xianliang Teng",
+          "Qia Ding"
+        ],
+        "title": "Disturbance rejection-based LFC for multi-area parallel interconnected AC/DC system",
+        "journal": "IET Generation, Transmission & Distribution",
+        "year": "2016",
+        "volume": "10",
+        "number": "16",
+        "pages": "4105-4117",
+        "sci_indexed": true,
+        "target_author_present": true,
+        "target_author_position": "co-author"
+      },
+      {
+        "id": 6,
+        "authors": [
+          "Jianqiang. Hu",
+          "Jinde Cao",
+          "Kun Yuan",
+          "T. Hayat"
+        ],
+        "title": "Cooperative tracking for nonlinear multi-gent systems with hybrid time-delayed protocol",
+        "journal": "Neurocomputing",
+        "volume": "171",
+        "pages": "171-178",
+        "year": "2016",
+        "sci_indexed": true,
+        "target_author_present": true,
+        "target_author_position": "co-author"
+      },
+      {
+        "id": 7,
+        "authors": [
+          "Kun Yuan",
+          "Abdulaziz Alofi",
+          "Jinde Cao",
+          "Abdullah Al-Mazrooei",
+          "Ahmed Elaiw"
+        ],
+        "title": "Synchronization of the coupled distributed parameter system with time delay via proportional-spatial derivative control",
+        "journal": "Discrete Dynamics in Nature Society",
+        "year": "2014",
+        "article_id": "418258",
+        "pages": "7 pages",
+        "sci_indexed": true,
+        "target_author_present": true,
+        "target_author_position": "first author"
+      },
+      {
+        "id": 8,
+        "authors": [
+          "Kun Yuan",
+          "Jinde Cao",
+          "Shumin Fei"
+        ],
+        "title": "Synchronization of coupled networks with mixed delays by intermittent control",
+        "journal": "Journal of Applied Mathematics",
+        "year": "2012",
+        "article_id": "927609",
+        "pages": "13 pages",
+        "sci_indexed": true,
+        "target_author_present": true,
+        "target_author_position": "first author"
+      },
+      {
+        "id": 9,
+        "authors": [
+          "Kun Yuan"
+        ],
+        "title": "Robust synchronization in arrays of coupled networks with delay and mixed coupling",
+        "journal": "Neurocomputing",
+        "volume": "72",
+        "number": "4-6",
+        "pages": "1026-1031",
+        "year": "2009",
+        "sci_indexed": true,
+        "target_author_present": true,
+        "target_author_position": "sole author"
+      },
+      {
+        "id": 10,
+        "authors": [
+          "Kun Yuan",
+          "Han-Xiong Li",
+          "Jinde Cao"
+        ],
+        "title": "Robust stabilization of the distributed parameter system with time delay via fuzzy control",
+        "journal": "IEEE Trans. Fuzzy Systems",
+        "volume": "16",
+        "number": "3",
+        "pages": "567-584",
+        "year": "2008",
+        "notes": "(regular paper)",
+        "sci_indexed": true,
+        "target_author_present": true,
+        "target_author_position": "first author"
+      },
+      {
+        "id": 11,
+        "authors": [
+          "Kun Yuan",
+          "Jinde Cao",
+          "Han-Xiong Li"
+        ],
+        "title": "Robust stability of switched Cohen-Grossberg neural networks with mixed time delays",
+        "journal": "IEEE Trans. Syst. Man & Cyber. Part-B",
+        "volume": "36",
+        "number": "6",
+        "pages": "1356-1363",
+        "year": "2006",
+        "notes": "(regular paper)",
+        "sci_indexed": true,
+        "target_author_present": true,
+        "target_author_position": "first author"
+      }
+    ]
+  }
+}

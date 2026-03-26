@@ -1,0 +1,139 @@
+{
+  "meta": {
+    "tutor_name_cn": "刘东",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1161/4078.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1161/4078.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/65efc69d3d97a6f2eb093e853534ce7f6ca7ce47e4ef1427fea7e9dc9bb2e149.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "query_name": "刘东",
+    "source_url": "https://www.auto.uestc.edu.cn/info/1161/4078.htm",
+    "page_metadata": {
+      "title_hierarchy": [
+        "师资队伍"
+      ],
+      "breadcrumbs": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "L",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/L.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "sidebar_navigation": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ]
+    },
+    "profile": {
+      "name": "刘东",
+      "image_url": "https://www.auto.uestc.edu.cn/__local/E/FB/7C/94E5C1EFB72321669BCBADA17CA_E4B50392_2E89C.jpg",
+      "highest_degree": "博士",
+      "position_title": "助理研究员",
+      "contact": {
+        "phone": null,
+        "email": "dong.liu@uestc.edu.cn"
+      },
+      "supervisor_status": null,
+      "personal_homepage": null,
+      "research_team": "传感器国家工程中心成都分中心",
+      "main_research_directions": [
+        "电磁薄膜传感器多物理场融合感知技术",
+        "电感电容电阻精密测量",
+        "石英晶体谐振器等效参数精密测量",
+        "微米级形变在线监测",
+        "电磁薄膜应力成像"
+      ],
+      "academic_titles_and_affiliations": {
+        "memberships": [
+          "IEEE member"
+        ],
+        "reviewer_of": [
+          "IEEE sensors journal",
+          "Sensors",
+          "Micromachines",
+          "Nondestructive Testing and Evaluation"
+        ]
+      },
+      "experience": {
+        "work_research_experience": [
+          {
+            "start_date": "2023.01",
+            "end_date": "至今",
+            "institution": "电子科技大学自动化工程学院",
+            "role": "助理研究员"
+          },
+          {
+            "start_date": "2017.11",
+            "end_date": "2023.01",
+            "institution": "电子科技大学自动化工程学院",
+            "role": "博士后"
+          }
+        ],
+        "education_experience": [
+          {
+            "start_date": "2011.09",
+            "end_date": "2017.06",
+            "institution": "电子科技大学自动化工程学院",
+            "degree": "博士"
+          }
+        ]
+      },
+      "scientific_research_overview": {
+        "summary": "主要从事石英晶体谐振器和LC谐振器的电子参数精密测量、电磁薄膜传感器多物理场融合感知技术、微米级形变监测、残余应力成像系统等研究。",
+        "publications_summary": "共发表学术期刊10余篇，包括IEEE Transactions on Industrial Electronics、IEEE Transactions on Instrumentation and Measurement、IEEE Transactions on Circuits and Systems II等。",
+        "projects": [
+          {
+            "type": "主持",
+            "description": "四川省建筑科学研究院、华为技术有限公司、福建省无损检测重点实验室基金等多项课题"
+          },
+          {
+            "type": "主研",
+            "description": "国自然面上项目、国自然国际合作交流等多项课题"
+          }
+        ]
+      },
+      "teaching_and_courses": {
+        "taught_courses": null,
+        "teaching_research": null
+      },
+      "admissions_specialties": {
+        "masters": null,
+        "phd": null
+      }
+    }
+  }
+}

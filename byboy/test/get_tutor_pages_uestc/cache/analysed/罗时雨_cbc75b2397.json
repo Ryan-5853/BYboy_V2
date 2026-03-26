@@ -1,0 +1,148 @@
+{
+  "meta": {
+    "tutor_name_cn": "罗时雨",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1161/4383.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1161/4383.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/1f5f57bbacc71fbf6e2a6f1784ead7c0589ca9e157be966089a4c94d9c87cae0.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "source_url": "https://www.auto.uestc.edu.cn/info/1161/4383.htm",
+    "site_chrome": {
+      "section_titles": [
+        "师资队伍"
+      ],
+      "breadcrumbs": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "L",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/L.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "sidebar_navigation": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ]
+    },
+    "professor_info": {
+      "name": "罗时雨",
+      "image_url": "https://www.auto.uestc.edu.cn/__local/B/84/E6/0FE37B5C58A536D7C3808EE0AC9_E39DD4B8_65F9.jpg",
+      "highest_degree": "博士",
+      "contact_phone": null,
+      "title": "副教授",
+      "email": "shiyuluo@uestc.edu.cn",
+      "supervision_status": null,
+      "personal_homepage": null,
+      "research_team": "空间信息探测与智能处理研究中心"
+    },
+    "research_directions": [
+      "微波遥感机理"
+    ],
+    "academic_affiliations_and_roles": [
+      "担任IEEE Transactions on Image Processing、IEEE Transactions on Geoscience and Remote Sensing、IEEE Signal Processing Letters、IEEE Access、International Journal of Remote Sensing等SCI期刊审稿人。"
+    ],
+    "experience": {
+      "education_and_training": [
+        {
+          "start_date": "2012.09",
+          "end_date": "2017.12",
+          "institution": "电子科技大学",
+          "degree": "博士",
+          "description": null
+        },
+        {
+          "start_date": "2014.10",
+          "end_date": "2016.02",
+          "institution": "美国密西根大学安娜堡分校",
+          "degree": null,
+          "description": "公派联合培养"
+        }
+      ],
+      "work_experience": [
+        {
+          "start_date": "2016.09",
+          "end_date": "2018.08",
+          "institution": "美国密西根大学安娜堡分校",
+          "position": "Assistant Research Scientist"
+        },
+        {
+          "start_date": "2019.04",
+          "end_date": "至今",
+          "institution": "电子科技大学",
+          "position": "博士后"
+        },
+        {
+          "start_date": "2020.06",
+          "end_date": "2022.02",
+          "institution": "电子科技大学自动化工程学院",
+          "position": "讲师"
+        },
+        {
+          "start_date": "2022.05",
+          "end_date": "至今",
+          "institution": "电子科技大学自动化工程学院",
+          "position": "副教授"
+        }
+      ]
+    },
+    "scientific_research": {
+      "summary": "主要从事微波遥感机理与信息提取，合成孔径雷达图像分割、分类等算法研究工作。",
+      "projects": [
+        {
+          "category": "主持",
+          "name": "国家自然科学基金青年项目",
+          "quantity": "1项"
+        },
+        {
+          "category": "主持",
+          "name": "中国博士后基金面上项目",
+          "quantity": "1项"
+        },
+        {
+          "category": "参与",
+          "name": "国家自然科学基金面上项目",
+          "quantity": "多个"
+        },
+        {
+          "category": "参与",
+          "name": "国家科技支撑计划",
+          "quantity": "多个"
+        }
+      ],
+      "publications_overview": "以第一作者发表SCI/EI收录学术论文10余篇，其中多篇发表于中科院1区期刊IEEE TIP、IEEE TGRS，一级期刊遥感学报等国内外知名期刊上。"
+    },
+    "teaching_and_courses": {
+      "courses_taught": null,
+      "teaching_research": null
+    },
+    "admission_information": {
+      "master_majors": null,
+      "phd_majors": null
+    }
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "meta": {
+    "tutor_name_cn": "吴晓娜",
+    "request_url": "http://automation.seu.edu.cn/wxn1/list.htm",
+    "declared_source_url": "http://automation.seu.edu.cn/wxn1/list.htm",
+    "page_host": "automation.seu.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/07eb6360371cfa72cd44b116711b9e7cc7b3635b7ecd2ccbbc24d46ebcefca97.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": true,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": true,
+  "extracted": {
+    "target_person_name": "吴晓娜",
+    "personal_information": {
+      "name": "吴晓娜",
+      "gender": "女",
+      "degree": "工学硕士",
+      "current_title": "研究生秘书",
+      "affiliated_category": "全体教师",
+      "office_location": "中心楼210室",
+      "contact": {
+        "phone": "025-83792723",
+        "email": "seugs_automation@163.com",
+        "homepage_url": null
+      },
+      "profile_picture_url": "https://automation.seu.edu.cn/_upload/article/images/f2/a3/9258da654cae92c09fb6e05c3b83/fe0fadef-1d9c-4eb2-b51c-c20a7deb8339_s.jpg"
+    },
+    "content_sections_present_without_details": [
+      "基本信息",
+      "教育背景",
+      "工作经历",
+      "学术兼职",
+      "所获奖励",
+      "讲授课程",
+      "学生培养",
+      "研究兴趣",
+      "科研项目",
+      "论文发表"
+    ],
+    "site_chrome": {
+      "source_url_declaration": "http://automation.seu.edu.cn/wxn1/list.htm",
+      "logos": [
+        {
+          "url": "https://automation.seu.edu.cn/_upload/tpl/0a/4c/2636/template2636/images/logo.png",
+          "alt_text": "返回自动化学院首页",
+          "link_url": "https://automation.seu.edu.cn/main.htm"
+        },
+        {
+          "url": "https://automation.seu.edu.cn/_upload/tpl/0a/4c/2636/template2636/images/logo_s.png",
+          "alt_text": null,
+          "link_url": null
+        }
+      ],
+      "navigation_menu": [
+        {
+          "text": "学校主页",
+          "url": "https://www.seu.edu.cn/"
+        },
+        {
+          "text": "ENGLISH",
+          "url": "https://automation.seu.edu.cn/wxn1/list.htm#"
+        },
+        {
+          "text": "学院概况",
+          "url": "https://automation.seu.edu.cn/24451/list.htm",
+          "sub_items": [
+            {
+              "text": "学院简介",
+              "url": "https://automation.seu.edu.cn/24498/list.htm"
+            },
+            {
+              "text": "发展历程",
+              "url": "https://automation.seu.edu.cn/24499/list.htm"
+            },
+            {
+              "text": "组织架构",
+              "url": "https://automation.seu.edu.cn/32602/list.htm"
+            },
+            {
+              "text": "现任领导",
+              "url": "https://automation.seu.edu.cn/32603/list.htm"
+            },
+            {
+              "text": "历任领导",
+              "url": "https://automation.seu.edu.cn/32604/list.htm"
+            },
+            {
+              "text": "院庆专栏",
+              "url": "https://automation.seu.edu.cn/yq/list.htm"
+            },
+            {
+              "text": "标识系统",
+              "url": "https://automation.seu.edu.cn/bsxt/list.htm"
+            },
+            {
+              "text": "联系我们",
+              "url": "https://automation.seu.edu.cn/24500/list.htm"
+            }
+          ]
+        },
+        {
+          "text": "师资力量",
+          "url": "https://automation.seu.edu.cn/szdw_32667/list.htm",
+          "sub_items": [
+            {
+              "text": "全体教师",
+              "url": "https://automation.seu.edu.cn/32668/list.htm"
+            },
+            {
+              "text": "院士",
+              "url": "https://automation.seu.edu.cn/32669/list.htm"
+            },
+            {
+              "text": "国家级人才",
+              "url": "https://automation.seu.edu.cn/gjjrc_51587/list.htm"
+            },
+            {
+              "text": "博士生导师",
+              "url": "https://automation.seu.edu.cn/32670/list.htm"
+            },
+            {
+              "text": "硕士生导师",
+              "url": "https://automation.seu.edu.cn/32671/list.htm"
+            }
+          ]
+        },
+        {
+          "text": "科学研究",
+          "url": "https://automation.seu.edu.cn/kxyj/list.htm",
+          "sub_items": [
+            {
+              "text": "科研通知",
+              "url": "https://automation.seu.edu.cn/32607/list.htm"
+            },
+            {
+              "text": "学术交流",
+              "url": "https://automation.seu.edu.cn/32608/list.htm"
+            },
+            {
+              "text": "科研基地",
+              "url": "https://automation.seu.edu.cn/32609/list.htm"
+            },
+            {
+              "text": "科技成果",
+              "url": "https://automation.seu.edu.cn/32610/list.htm"
+            }
+          ]
+        },
+        {
+          "text": "人才培养",
+          "url": "https://automation.seu.edu.cn/24454/list.htm",
+          "sub_items": [
+            {
+              "text": "本科生培养",
+              "url": "https://automation.seu.edu.cn/24509/list.htm"
+            },
+            {
+              "text": "研究生培养",
+              "url": "https://automation.seu.edu.cn/24510/list.htm"
+            }
+          ]
+        },
+        {
+          "text": "党群工作",
+          "url": "https://automation.seu.edu.cn/32612/list.htm",
+          "sub_items": [
+            {
+              "text": "党务工作",
+              "url": "https://automation.seu.edu.cn/32614/list.htm"
+            },
+            {
+              "text": "党建风采",
+              "url": "https://automation.seu.edu.cn/24535/list.htm"
+            },
+            {
+              "text": "工会工作",
+              "url": "https://automation.seu.edu.cn/32616/list.htm"
+            },
+            {
+              "text": "关工委",
+              "url": "https://automation.seu.edu.cn/ggw/list.htm"
+            }
+          ]
+        },
+        {
+          "text": "学生工作",
+          "url": "https://automation.seu.edu.cn/32613/list.htm",
+          "sub_items": [
+            {
+              "text": "就业服务",
+              "url": "https://automation.seu.edu.cn/24519/list.htm"
+            },
+            {
+              "text": "通知公告",
+              "url": "https://automation.seu.edu.cn/32617/list.htm"
+            },
+            {
+              "text": "榜样力量",
+              "url": "https://automation.seu.edu.cn/24522/list.htm"
+            },
+            {
+              "text": "学工动态",
+              "url": "https://automation.seu.edu.cn/24524/list.htm"
+            }
+          ]
+        },
+        {
+          "text": "校友工作",
+          "url": "https://automation.seu.edu.cn/24458/list.htm",
+          "sub_items": [
+            {
+              "text": "校友风采",
+              "url": "https://automation.seu.edu.cn/24537/list.htm"
+            },
+            {
+              "text": "校友活动",
+              "url": "https://automation.seu.edu.cn/24538/list.htm"
+            }
+          ]
+        },
+        {
+          "text": "人才招聘",
+          "url": "https://automation.seu.edu.cn/rczp/list.htm"
+        },
+        {
+          "text": "学术年专栏",
+          "url": "https://automation.seu.edu.cn/jysxdtl/list.htm"
+        }
+      ],
+      "footer_contact_information": {
+        "department_name": "东南大学自动化学院",
+        "address": "江苏省南京市四牌楼2号中心楼",
+        "phone": "025-83792724",
+        "email": "jupiter@seu.edu.cn"
+      },
+      "other_images": [
+        {
+          "url": "https://automation.seu.edu.cn/wxn1/list.htm",
+          "description": "Image element with the current page URL, possibly a broken image or placeholder."
+        },
+        {
+          "url": "https://automation.seu.edu.cn/_upload/article/images/49/80/cc90f70945d99437aeb29c598629/b39cc810-2b19-45e6-bcb5-145efb62c5f5_s.jpg",
+          "description": "Decorative or general site image."
+        },
+        {
+          "url": "https://automation.seu.edu.cn/_upload/article/images/84/ab/53097bbf440198ff1519fabe1da5/b1c7ed74-ed3e-4287-aec5-526ade294570_s.jpg",
+          "description": "Decorative or general site image."
+        }
+      ],
+      "visit_counter_image_url": "https://automation.seu.edu.cn/_visitcount?siteId=338&type=2&columnId=32881"
+    }
+  }
+}

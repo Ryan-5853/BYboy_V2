@@ -1,0 +1,207 @@
+{
+  "meta": {
+    "tutor_name_cn": "彭知南",
+    "request_url": "https://faculty.uestc.edu.cn/pengzhinan1/zh_CN/index.htm",
+    "declared_source_url": "https://faculty.uestc.edu.cn/pengzhinan1/zh_CN/index.htm",
+    "page_host": "faculty.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/aab6e5aea5dc358510f8b006a0079ef85245c763dfa7b0094745ef190da910ff.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "personal_info": {
+      "name": "彭知南",
+      "photo_url": "https://faculty.uestc.edu.cn/__local/5/7D/EF/179B99FCB070F639BD3D53BD65D_43605FB8_1E5BF.png",
+      "like_count": 562,
+      "current_titles": [
+        "副教授",
+        "硕士生导师"
+      ],
+      "gender": "男",
+      "education_level": "博士研究生毕业",
+      "degree": "工学博士学位",
+      "disciplines": [
+        "控制理论与控制工程",
+        "模式识别与智能系统"
+      ],
+      "office_location": "电子科技大学清水河校区创新中心"
+    },
+    "contact_info": {
+      "mailing_office_address": "四川成都高新西区西源大道2006号主楼C2-415",
+      "email": "zhinanpeng@uestc.edu.cn"
+    },
+    "biography_summary": {
+      "full_name_and_affiliation": "彭知南，副教授、硕士生导师，电子科技大学自动化工程学院。",
+      "doctoral_education_details": "2020年12月于电子科技大学获得控制科学与工程专业博士学位。新西兰奥克兰大学（The University of Auckland）海外联合培养博士。",
+      "early_career_honors": [
+        "2021年“四川省优秀毕业生”",
+        "2022年“电子科技大学优秀博士后”"
+      ],
+      "research_interests_overview": [
+        "集群系统建模与协同控制",
+        "自适应动态规划与强化学习",
+        "人机交互",
+        "外骨骼机器人应用研究"
+      ],
+      "publications_overview": {
+        "total_papers_count": "60余篇",
+        "featured_journals_conferences": [
+          "IEEE Transactions on Industrial Informatics",
+          "IEEE Transactions on Neural Networks and Learning Systems",
+          "IEEE/ASME Transactions on Mechatronics",
+          "Neural Networks",
+          "Information Sciences",
+          "中国科学:信息科学(英文刊)",
+          "ACC",
+          "CDC",
+          "ICRA",
+          "IFAC",
+          "IROS",
+          "ROBIO"
+        ],
+        "citations_honors": [
+          "3篇入选前1%ESI高被引论文",
+          "2篇入选前0.1%ESI热点论文",
+          "1篇入选《Control Theory and Technology》期刊年度优秀论文（仅入选2篇）",
+          "3篇荣获国际会议“最佳论文提名奖”或“优秀论文奖”"
+        ]
+      },
+      "projects_overview": {
+        "lead_projects_count": "7项",
+        "lead_projects_types": [
+          "国家自然科学基金面上项目",
+          "国家自然科学基金青年基金",
+          "四川省自然科学基金",
+          "博士后基金面上",
+          "重点实验室开放课题"
+        ],
+        "responsible_for_sub_projects": "省科技计划项目课题1项",
+        "participated_projects_count": "20余项",
+        "participated_projects_types": [
+          "自然基金面上",
+          "省重点研发计划项目",
+          "横向课题"
+        ]
+      },
+      "patents_overview": "申请国家发明专利10余项。",
+      "professional_roles_overview": [
+        "中国自动化学会“自适应动态规划与强化学习”专委会委员",
+        "中国人工智能学会“认知系统与信息处理”专委会委员",
+        "中国指挥与控制学会具身智能专业委员会委员",
+        "《Robot Learning》期刊青年编委",
+        "《Mathematics》、《Fractal and Fractional》期刊专刊Guest Editor",
+        "2021 ICICIP国际会议 PC Member",
+        "2023 IFAC自控领域顶级会议分论坛主席",
+        "2023 ICUS大会分论坛联合主席",
+        "2024第二届动态系统机器学习会议大会组织主席",
+        "2025电子科技大学控制学科研讨会大会组织主席",
+        "IEEE TCYB、TNNLS、JAS、JRNC、J FI、CTT、R-AL等国际知名期刊审稿人",
+        "CDC、ACC、IROS、ICRA、IFAC、CCC等国际顶级会议审稿人"
+      ],
+      "student_mentoring_overview": {
+        "first_author_publications_by_students": {
+          "count": "15篇",
+          "details": "包括期刊论文（中科院一/二区SCI期刊论文5篇）、机器人/控制领域顶级国际会议IFAC、CDC、ROBIO"
+        },
+        "undergraduate_achievements": [
+          "指导本科生获得校级优秀毕业论文",
+          "指导多名本科生成功赴宾夕法尼亚大学、新加坡南洋理工大学、香港城市大学等境外知名学府深造",
+          "1名直博北京大学",
+          "3名保研中国科技大学"
+        ]
+      },
+      "teaching_and_awards_overview": {
+        "undergraduate_courses_taught": [
+          "《机器人》",
+          "《智能控制》",
+          "《人工智能基础》"
+        ],
+        "teaching_projects_activities": [
+          "主持产学合作协同育人项目",
+          "主研教育部学位与研究生教育发展中心主题案例项目（健康中国）",
+          "主研省级普通本科高校创新性实验项目",
+          "主研产学合作协同育人项目"
+        ],
+        "student_competition_awards_mentored": [
+          "美国数学建模竞赛一等奖",
+          "中国高校智能机器人创意大赛二等奖",
+          "第四届四川省大学生智能机器人创意大赛一等奖",
+          "2025ICoCTA国际会议最佳口头报告奖",
+          "2025ICCCS国际会议优秀论文奖"
+        ],
+        "personal_teaching_awards": [
+          "“2024年度优秀班主任”",
+          "校级“优秀毕设指导老师”称号",
+          "“电子科技大学第十届教学成果一等奖”"
+        ]
+      }
+    },
+    "education_history": [
+      {
+        "start_date": "2019.8",
+        "end_date": "2020.8",
+        "institution": "The University of Auckland",
+        "major": "控制科学与工程",
+        "degree_type": "博士研究生联合培养"
+      }
+    ],
+    "work_experience": [
+      {
+        "start_date": "2205.5",
+        "end_date": "至今",
+        "institution": "电子科技大学自动化工程学院",
+        "position": "副教授"
+      }
+    ],
+    "research_interests": [
+      "集群协同感知任务分配与决策",
+      "人机交互与学习",
+      "外骨骼机器人运动规划与控制",
+      "自适应动态规划与强化学习",
+      "复杂系统建模与协同控制"
+    ],
+    "social_affiliations": [
+      {
+        "start_date": "2021.5",
+        "end_date": "2022.10",
+        "role": "电子科技大学博士后联谊会副理事长"
+      },
+      {
+        "start_date": "2019.6",
+        "end_date": "至今",
+        "role": "担任IEEE TCYB、TNNLS、JAS、JRNC、J FI、CTT、R-AL等国际知名期刊以及CDC、ACC、IROS、ICRA、IFAC、CCC等国际会议审稿人"
+      },
+      {
+        "start_date": "2021.11",
+        "end_date": "至今",
+        "role": "中国自动化学会“自适应动态规划与强化学习”专委会委员"
+      }
+    ],
+    "research_groups": [
+      {
+        "name": "电子科技大学机器人研究中心"
+      },
+      {
+        "name": "电子科技大学机器智能研究所"
+      },
+      {
+        "name": "人机智能技术与系统教育部工程研究中心",
+        "description": "请访问团队网站",
+        "website": "http://uestcrobot.net/"
+      }
+    ],
+    "site_chrome": {
+      "source_url": "https://faculty.uestc.edu.cn/pengzhinan1/zh_CN/index.htm",
+      "other_contact_information_header": "Other Contact Information",
+      "scan_to_follow_text": "扫描关注",
+      "related_links": [
+        {
+          "anchor_text": "同专业硕导",
+          "url": "https://faculty.uestc.edu.cn/pengzhinan1/zh_CN/tzysd/477619/list/index.htm"
+        }
+      ]
+    }
+  }
+}

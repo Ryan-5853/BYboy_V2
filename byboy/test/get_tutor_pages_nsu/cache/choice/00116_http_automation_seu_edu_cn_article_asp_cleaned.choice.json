@@ -1,0 +1,14 @@
+{
+  "clickable_links": [
+    {
+      "url": "http://automation.seu.edu.cn/article.asp",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "URL过于通用(article.asp)，锚文本为空，无法判断内容与师资相关。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    }
+  ]
+}

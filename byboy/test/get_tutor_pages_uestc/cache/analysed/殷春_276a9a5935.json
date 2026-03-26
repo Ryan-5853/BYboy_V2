@@ -1,0 +1,234 @@
+{
+  "meta": {
+    "tutor_name_cn": "殷春",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1174/4301.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1174/4301.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/85d2b683260da23d9ac7d391f3022c92779fe5dce6680ae5a1790188558cdcff.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "professor_name": "殷春",
+    "personal_details": {
+      "name": "殷春",
+      "highest_degree": "博士",
+      "contact_phone": null,
+      "title_position": "教授",
+      "email": "chunyin@uestc.edu.cn",
+      "supervisor_status": "博士导师",
+      "personal_homepage": "http://faculty.uestc.edu.cn/yinchun/zh_CN/index.htm",
+      "research_team": "测试技术与仪器研究所"
+    },
+    "research_directions": [
+      "航空航天装备检测评估技术",
+      "极端环境多物理场光学测量技术",
+      "无人机飞行协同智能控制技术"
+    ],
+    "academic_roles_and_awards": [
+      "2025年入选国家级青年人才",
+      "2024年四川省“杰出青年科学基金”",
+      "2024年省级青年人才",
+      "2021年四川省学术和技术带头人后备人选",
+      "2019年入选电子科技大学校“百人计划”",
+      "2015年电子科技大学学术新人奖（全校共四人）",
+      "中国自动化学会“动态规划与智能自适应学习”专委会委员",
+      "中国自动化学会“随机系统控制”专委会委员",
+      "中国自动化学会“分数阶控制与系统”专委会委员",
+      "中国振动工程学会“故障诊断”专委会委员",
+      "四川省、重庆市科技专家库成员",
+      "担任10余个主流SCI期刊编辑、评论员、审稿人",
+      "连续4年被SCI期刊评为“杰出审稿人”",
+      "获Energy Convers. Manage.、ISA T.、J. Franklin I.等7个SCI期刊“杰出审稿贡献奖”"
+    ],
+    "experience": {
+      "work_experience": [
+        {
+          "start_date": "2019.7",
+          "end_date": "至今",
+          "institution": "电子科技大学",
+          "role": "教授/博导"
+        },
+        {
+          "start_date": "2014.7",
+          "end_date": "2019.7",
+          "institution": "电子科技大学",
+          "role": "副教授（含特聘副教授）/博导"
+        }
+      ],
+      "education_experience": [
+        {
+          "start_date": "2012.9",
+          "end_date": "2013.9",
+          "institution": "美国加州大学（MERCED）",
+          "major": "机械工程",
+          "degree_type": "联合培养博士研究生"
+        },
+        {
+          "start_date": "2011.9",
+          "end_date": "2012.9",
+          "institution": "美国犹他州立大学",
+          "major": "电气电子",
+          "degree_type": "联合培养博士研究生"
+        },
+        {
+          "start_date": "2010.9",
+          "end_date": "2014.6",
+          "institution": "电子科技大学",
+          "major": "应用数学",
+          "degree": "博士"
+        },
+        {
+          "start_date": "2008.9",
+          "end_date": "2010.8",
+          "institution": "电子科技大学",
+          "major": "运筹学与控制论",
+          "degree_type": "硕士（硕博连读）"
+        }
+      ]
+    },
+    "scientific_research": {
+      "overview": "长期从事航空航天领域先进光学检测与智能评估工作。",
+      "projects": "主持负责国家自然科学基金重大研究计划重点项目/面上项目、重大工程项目等国家/省部级以及工业部门课题20余项，主持课题经费2000余万。",
+      "patents": [
+        {
+          "country": "中国",
+          "type": "发明专利",
+          "total_count": 77,
+          "first_inventor_count": 43
+        },
+        {
+          "country": "美国",
+          "type": "发明专利",
+          "total_count": 5,
+          "first_inventor_count": 2
+        }
+      ],
+      "applications": "研制的多个型号仪器产品在航天科技一院、航天科技五院、中航工业成飞、成都飞机设计研究所、东方电气等单位得到应用，服务于固定翼无人机、卫星、空间站、风洞等方面，满足了国家重大航空航天领域检测评估应用需求。",
+      "research_awards": [
+        "四川省科技进步一等奖",
+        "中国仪器仪表学会科技进步一等奖/二等奖"
+      ],
+      "publications": {
+        "books": "出版中英文学术专著3部",
+        "papers_summary": "发表学术论文80余篇（第一/通讯作者SCI论文45篇），JCR分区一区、二区论文38篇，第一作者ESI高被引论文5篇，ESI热点3篇。",
+        "citations_metrics": "谷歌学术引用4222次，个人H指数34，入选斯坦福大学全球前2%顶尖科学家。"
+      },
+      "publication_awards": [
+        "国际仪器与测试领域顶级会议IEEE-I2MTC唯一最佳论文奖",
+        "美国机械工程师协会ASME年度大会唯一最佳论文奖",
+        "模式识别与人工智能国际会议IEEE-PRAI最佳论文奖",
+        "第一作者学术论文被ScienceDirect数据库评为期刊年度TOP5高引用研究成果和TOP25高下载论文"
+      ]
+    },
+    "teaching": {
+      "undergraduate_courses": [
+        "现代控制理论",
+        "数值计算方法",
+        "复变函数"
+      ],
+      "graduate_courses": [
+        "Linear system(留学生英文授课)",
+        "线性系统理论",
+        "学科前沿知识专题讲座",
+        "研究生论文写作指导"
+      ],
+      "student_guidance_and_achievements": "指导研究生发表多篇SCI期刊论文和高水平国际A类会议论文（研究生第一作者），组织学生参加在美国、法国、意大利、巴西、南非等地举办的学科领域高水平国际A类会议；培养硕士研究生多次获得“四川省优秀毕业生”、“国家奖学金”、“学业一等奖学金”、“优秀研究生”、“优秀研究生干部”、“优秀共产党员”、“优秀党员示范岗”等各种荣誉和奖励。",
+      "excellent_thesis_guidance": [
+        {
+          "title": "基于机器学习的航天器损伤检测算法研究",
+          "student": "张昊楠"
+        },
+        {
+          "title": "分解多目标算法在航天器损伤红外检测中的应用",
+          "student": "薛婷"
+        },
+        {
+          "title": "基于红外热波技术的大尺寸复合材料缺陷检测研究",
+          "student": "杨晓"
+        }
+      ]
+    },
+    "admission_majors": {
+      "master_programs": [
+        {
+          "code": "081100",
+          "name": "控制科学与工程"
+        },
+        {
+          "code": "085400",
+          "name": "电子信息"
+        }
+      ],
+      "doctoral_programs": [
+        {
+          "code": "081100",
+          "name": "控制科学与工程"
+        },
+        {
+          "code": "085400",
+          "name": "电子信息"
+        },
+        {
+          "code": "086100",
+          "name": "交通运输"
+        }
+      ]
+    },
+    "images": [
+      {
+        "url": "https://www.auto.uestc.edu.cn/__local/1/A1/6E/36ECB0CEB4E5195FC211C9561E7_8AE95111_4A67E.jpg",
+        "alt_text": null
+      }
+    ],
+    "site_metadata": {
+      "source_url": "https://www.auto.uestc.edu.cn/info/1174/4301.htm",
+      "breadcrumbs": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "Y",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/Y.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "navigation_links": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm",
+          "title": "教师名录"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm",
+          "title": "教师名录总览页"
+        },
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm",
+          "title": "教师名录"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm",
+          "title": "教师名录总览页"
+        }
+      ]
+    }
+  }
+}

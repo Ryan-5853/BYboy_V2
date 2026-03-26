@@ -1,0 +1,974 @@
+{
+  "meta": {
+    "tutor_name_cn": "苏金亚",
+    "request_url": "http://automation.seu.edu.cn/sjy2/list.htm",
+    "declared_source_url": "http://automation.seu.edu.cn/sjy2/list.htm",
+    "page_host": "automation.seu.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/bbcb70efe95faee82d614b5539a4a1e9ac87cd4fcbaa38dab7b138bd2a314347.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "professor_name": "苏金亚",
+    "source_url": "http://automation.seu.edu.cn/sjy2/list.htm",
+    "site_chrome": {
+      "header_image": "https://automation.seu.edu.cn/sjy2/list.htm",
+      "visit_counter_image": "https://automation.seu.edu.cn/_visitcount?siteId=338&type=2&columnId=45010"
+    },
+    "basic_information": {
+      "name": "苏金亚",
+      "gender": "男",
+      "birth_year": 1990,
+      "birth_place": "山东",
+      "current_affiliation": "东南大学",
+      "recruitment_message": "欢迎优秀的东南本科科研生（学有余力，课题组组会本校生开放）、本科毕设（实验室保研者优先）、硕博士研究生（2026博士已满）、博士后（学校优先支持至善博士后）加入课题组。邮件：sucas@seu.edu.cn, 请附件简历并简述研究兴趣、职业规划等，有Top期刊、机器人/编程竞赛获奖者优先考虑。",
+      "general_research_summary": "研究紧密围绕智能机器人、无人港口等领域的安全、自主与智能化发展迫切需求，重点开展了存在多源不确定环境下的AI在环强自主无人系统智能感知规划与控制等应用基础研究。在上述方向作为(单位)主持人获得13项项目资助，包括：国家级青年人才项目、国家自然科学基金、英国EPSRC、STFC、BBSRC、Innovate UK项目等。目前发表学术论文110余篇，其中SCI期刊论文71篇，包括Q1期刊51篇，IEEE ICRA/IROS/CDC/ITS等旗舰国际会议论文44篇。",
+      "google_scholar_profile": {
+        "url": "https://scholar.google.com/citations?user=tTfMHMoAAAAJ&hl=en",
+        "citations": "超过5000次",
+        "h_index": 35,
+        "i10_index": 61
+      },
+      "media_coverage": [
+        {
+          "platform": "UK-RAS",
+          "title": "Episode Fourteen: Aerial Robotics – Taking Flight",
+          "url": "https://ukrobotics.libsyn.com/episode-fourteen-aerial-robotics-taking-flight"
+        }
+      ]
+    },
+    "titles_and_positions": [
+      {
+        "title": "国家级青年人才",
+        "year": 2022
+      },
+      {
+        "title": "斯坦福全球前2%科学家榜单学者",
+        "year_range": "2023-2025"
+      },
+      {
+        "title": "首届江苏青年科技人才U35培育",
+        "year": 2025
+      },
+      {
+        "title": "东南大学青年首席教授",
+        "year": 2022,
+        "notes": "教授/博导，五四奖章获得者"
+      },
+      {
+        "title": "(前)英国阿伯丁大学高级讲师",
+        "year": 2022,
+        "notes": "北美体系长聘副教授"
+      },
+      {
+        "title": "英国埃塞克斯大学讲师",
+        "year": 2019
+      },
+      {
+        "title": "英国埃塞克斯大学荣誉高级讲师",
+        "notes": "青年学者奖，全校三人"
+      },
+      {
+        "title": "南京紫金山C类人才"
+      },
+      {
+        "title": "小米青年学者"
+      },
+      {
+        "title": "国家优秀自费留学生奖学金获得者",
+        "year": 2015
+      },
+      {
+        "title": "学院学术委员会委员"
+      },
+      {
+        "title": "智能无人系统研究院固定人员"
+      },
+      {
+        "title": "吴健雄学院班级学业导师"
+      },
+      {
+        "title": "未来技术学院导师"
+      }
+    ],
+    "education": [
+      {
+        "degree": "本科",
+        "year_graduated": 2011,
+        "university": "山东大学(威海)",
+        "major": "数学与统计学院"
+      },
+      {
+        "degree": "博士",
+        "year_graduated": 2016,
+        "university": "英国拉夫堡大学",
+        "major": "航空与汽车工程系"
+      }
+    ],
+    "work_experience": [
+      {
+        "position": "博士后",
+        "institution": "英国拉夫堡大学"
+      },
+      {
+        "position": "讲师",
+        "institution": "英国埃塞克斯大学"
+      },
+      {
+        "position": "高级讲师",
+        "institution": "英国阿伯丁大学"
+      }
+    ],
+    "news_and_updates": {
+      "focus_change": "2025以来重心转向AI机器人方向，期待优秀学生加入",
+      "bilibili_channel": {
+        "url": "https://space.bilibili.com/3493275119913217"
+      },
+      "recent_paper_status": [
+        "JFR二审1篇（四足避障跟随）",
+        "IEEE TIE在审1篇（无人机抗扰位姿估计）",
+        "IEEE TASE在审2篇（无人机抗扰优化控制等）",
+        "IROS(2026)投稿2篇：四足机器人导航",
+        "RSS(2026)rebuttal中1篇：无人机规控一体",
+        "学生drafting若干（强化学习navigation & locomotion）",
+        "ICRA(2026)命中2篇：采样控制/学习控制",
+        "IROS(2025)命中3篇：智能建模/抗干扰控制"
+      ]
+    },
+    "academic_service": {
+      "associate_editor": [
+        "IET Cyber-Systems and Robotics",
+        "Frontiers in Robotics and AI"
+      ],
+      "editorial_board_member": [
+        {
+          "journal": "Engineering",
+          "impact_factor": "11.6",
+          "notes": "青年编委会"
+        },
+        "Journal of Applied Mathmatics (Wiley)",
+        "Unoccupied Aerial Systems (UASs and UAVs) (specialty section of Frontiers in Remote Sensing)",
+        "Drones and Autonomous Systems",
+        "智慧农业(Smart Agriculture)"
+      ],
+      "professional_committee_member": [
+        "中国人工智能学会智能诊断与健康管理专业委员会",
+        "中国自动化学会控制理论专委会非连续控制学组",
+        "中国指挥与控制学会自抗扰控制专业委员会",
+        "江苏省自动化学会伺服与运动控制专委会议"
+      ],
+      "guest_editor": "5个国际SCI期刊客座编辑",
+      "publisher_reviewer": [
+        "CRC",
+        "Elsevier",
+        "Wiley"
+      ],
+      "fund_reviewer": "中美英多个基金委评审专家",
+      "doctoral_external_reviewer": [
+        "University of Pretoria",
+        "University of Lincoln"
+      ],
+      "conference_roles": [
+        {
+          "role": "技术委员会主席 (Technical Program Chair)",
+          "conference": "Precede2025"
+        },
+        {
+          "role": "PC成员",
+          "conference": "ACC等8个国际会议"
+        },
+        {
+          "role": "Session Chair",
+          "conference": "IROS（2025）等"
+        }
+      ],
+      "reviewer_for": "Automatica, IEEE TAC/CST/TIE/ASE/Cybernetics/ITS/IV/SPL/GRSE等50余个期刊、CDC/ACC/ICRA/ITSC/IJCNN等20余个会议审稿人。",
+      "memberships": [
+        "IEEE Senior Member",
+        "IES/RAS",
+        "ABCP",
+        "IET",
+        "ISPA"
+      ]
+    },
+    "awards_and_honors": {
+      "student_guidance_awards": [
+        {
+          "year": 2025,
+          "award": "PRECEDE2025最佳论文奖",
+          "recipient_type": "硕士生",
+          "recipient_name": "姚思锐",
+          "notes": "通讯作者"
+        },
+        {
+          "year": 2025,
+          "award": "第27届CRAIC江苏赛区三等奖",
+          "recipient_type": "本科生",
+          "recipient_name": "王景焱",
+          "notes": "机器人创新赛"
+        },
+        {
+          "year": 2023,
+          "award": "RoboMaster机甲大师高校人工智能挑战赛-无人机精准定位专项赛三等奖",
+          "recipient_type": "硕士生",
+          "recipient_name": "李雯"
+        }
+      ],
+      "personal_awards": [
+        {
+          "year": 2025,
+          "award": "首届江苏青年科技人才U35培育"
+        },
+        {
+          "year": 2025,
+          "award": "东南大学青年五四奖章"
+        },
+        {
+          "year": 2025,
+          "award": "中国工程科技发展战略行业研究院青年智库学者沙龙",
+          "rank": "一等奖"
+        },
+        {
+          "year": 2024,
+          "award": "小米青年学者"
+        },
+        {
+          "year_range": "2023-2025",
+          "award": "全球前2%顶尖科学家榜单（斯坦福大学)",
+          "url": "https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6"
+        },
+        {
+          "year": 2023,
+          "award": "Unmanned Systems 期刊最佳论文奖",
+          "notes": "IF：5.3，2020-2021年度，$3000美元"
+        },
+        {
+          "year": 2022,
+          "award": "英国埃塞克斯大学荣誉高级讲师",
+          "year_range": "2022-2025"
+        },
+        {
+          "year": 2020,
+          "award": "中国工程院院刊FITEE优秀论文奖",
+          "notes": "2017年度"
+        },
+        {
+          "year": 2020,
+          "award": "高校青年学者奖（埃塞克斯大学）",
+          "amount": "£2000英镑"
+        },
+        {
+          "year": 2020,
+          "award": "第十五届“春晖杯”中国留学人员创新创业大赛高技术服务组优胜奖"
+        },
+        {
+          "year": 2019,
+          "award": "高校杰出表现奖（拉夫堡大学）",
+          "amount": "£1660英镑"
+        },
+        {
+          "year": 2019,
+          "award": "Santander基金",
+          "amount": "£1500英镑"
+        },
+        {
+          "year": 2018,
+          "award": "Automatica最佳引用论文之一",
+          "notes": "Most cited Automatica Articles 2012-2017, 22/25 Articles，硕士工作"
+        },
+        {
+          "year": 2016,
+          "award": "国家优秀自费留学生奖学金",
+          "notes": "国家给予海外非公费留学生最高荣誉，$6000美元"
+        },
+        {
+          "year": 2016,
+          "award": "ICI最佳学术论文奖, 英国测量与控制协会",
+          "notes": "硕士工作，年度唯一获奖论文"
+        },
+        {
+          "year": 2016,
+          "award": "IEEE-IES Student Paper Travel Grant",
+          "amount": "£1600"
+        },
+        {
+          "year": 2016,
+          "award": "ABTA博士生研究奖"
+        },
+        {
+          "year": 2013,
+          "award": "ICAC最佳学生会议论文奖",
+          "notes": "会议唯一获奖论文"
+        },
+        {
+          "year": 2012,
+          "award": "英国EPSRC博士生全额奖学金",
+          "amount": "£75K英镑",
+          "notes": "免国际学生学费+生活费"
+        }
+      ],
+      "publication_awards_summary": "4篇最佳期刊论文奖、3篇最佳会议论文奖"
+    },
+    "courses_taught": [
+      {
+        "level": "本科生",
+        "year_range": "2023-至今",
+        "name": "自动控制原理I",
+        "code": "B0801170",
+        "hours": "16/48学时"
+      },
+      {
+        "level": "本科生",
+        "year_range": "2025-至今",
+        "name": "概率论与数理统计",
+        "code": "B0801051",
+        "hours": "16/48学时"
+      },
+      {
+        "level": "硕士生",
+        "year": 2025,
+        "name": "Kalman filtering: theory and practice",
+        "hours": "32学时全英文",
+        "notes": "欢迎选课"
+      },
+      {
+        "level": "硕士生",
+        "year": 2025,
+        "name": "卓越工程师学院《产业前沿与工程实训》",
+        "hours": "5/48学时"
+      },
+      {
+        "level": "博士生",
+        "year_range": "2023-至今",
+        "name": "非线性控制系统",
+        "code": "DB008101",
+        "hours": "17/48学时",
+        "notes": "抗干扰控制部分，欢迎选课"
+      },
+      {
+        "level": "本科生实习",
+        "year_range": "2023-2024",
+        "institution": "东南大学",
+        "company": "埃斯顿"
+      },
+      {
+        "level": "曾任英国课程",
+        "name": "Engineering Mathmatics"
+      },
+      {
+        "level": "曾任英国课程",
+        "name": "Python Programming Foundation"
+      },
+      {
+        "level": "曾任英国课程",
+        "name": "Computer Architecture"
+      },
+      {
+        "level": "曾任英国课程",
+        "name": "Control Engineering"
+      }
+    ],
+    "student_mentorship": {
+      "recruitment_call": "热忱欢迎自动化、机器人、计算机等相关专业背景的本科生、硕士生报考硕博研究生（夏令营是东南自动化唯一保研方式，课题组从优营学员选拔），加盟机电系统控制实验室。",
+      "collaborating_professor": {
+        "name": "李世华",
+        "url": "https://automation.seu.edu.cn/lsh/list.htm",
+        "team": "机电系统控制实验室"
+      },
+      "international_background": "本人在英国学习、工作10余年，熟悉国内外本硕博培养方式",
+      "international_collaborations": "团队与UCL/香港理工等国际一流研究团队建立长期合作关系",
+      "student_support_areas": [
+        "国（人工智能学院）/境外高水平大学联合培养：目前上海创智、UCL、新加坡国立等多名",
+        "支持国内外高水平国际会议（国际：ICRA/IROS/CDC等）",
+        "推荐国/境外读博、博后、教职等"
+      ],
+      "mentorship_philosophy": {
+        "goal": "realize your full potentials（领军人才），止于至善！",
+        "expectation": "期望学生踏实、有能力、有兴趣，课题组日常管理宽松，但学术要求苛刻，缺乏自驱力者请慎重报考，切记"
+      },
+      "recruitment_quotas": {
+        "postdoc": "1人/年 (长期有效，学校优先支持至善博士后)",
+        "phd_students": "2人/年 (控制科学与工程、工程博士)",
+        "master_students_nanjing_wuxi": "3-4人/年 (机器人、机器视觉；机电系统抗干扰控制；AI在环的系统建模、估计、控制、优化等)",
+        "master_students_suzhou": "0-1人/年 (人工智能、机器视觉、智慧农业机器人等)",
+        "undergraduate_thesis": "1-2人/年 (机器人感知与控制、机器视觉、机器人运维、危险溯源等课题)"
+      }
+    },
+    "research_interests": [
+      "智能无人系统：不确定环境下的态势感知与自主控制，规划控制互惠设计/一体化设计",
+      "智能机器人在工业运维等中的应用(轻量化大模型辅助导航、视觉运维)",
+      "无人机、机器人本体规控及在智慧农业中的应用",
+      "人工智能在工业应用（智能汽车、无人港口）",
+      "多模态感知",
+      "智能规划",
+      "抗扰控制",
+      "强化学习"
+    ],
+    "research_projects": {
+      "intro": "课题组将结合学生个人兴趣与特长、职业规划、课题组项目需求等，支持学生在无人自主系统（如无人机、AGV地面车、四足机器人、无人港机、无人运维等）方向，如多模态感知、智能规划、抗扰控制、强化学习等，开展原创性研究、交叉学科研究、应用研究。",
+      "projects": [
+        {
+          "id": 13,
+          "year_range": "2024-2026",
+          "name": "无人机智能感控一体化研究",
+          "funder": "国家自然科学基金",
+          "type": "纵向",
+          "notes": "xx万（项目负责人）",
+          "country": "中国"
+        },
+        {
+          "id": 12,
+          "year_range": "2025-2025",
+          "name": "AI赋能机器人自主感知研究",
+          "funder": "东南大学太湖创新基金",
+          "amount": "10万",
+          "notes": "（项目负责人）",
+          "country": "中国"
+        },
+        {
+          "id": 11,
+          "year_range": "2023-2025",
+          "name": "智能自主系统",
+          "funder": "国家级青年人才项目",
+          "type": "纵向",
+          "amount": "200万",
+          "notes": "（项目负责人）",
+          "country": "中国"
+        },
+        {
+          "id": 10,
+          "year_range": "2023-2025",
+          "name": "东南大学启动经费",
+          "funder": "校级",
+          "amount": "100万",
+          "notes": "（项目负责人）",
+          "country": "中国"
+        },
+        {
+          "id": 9,
+          "year_range": "2017-2019",
+          "name": "智能驾驶系统精准感知",
+          "funder": "MCCSE教育部重点实验室开放基金",
+          "amount": "3万",
+          "notes": "（项目负责人）",
+          "country": "中国"
+        },
+        {
+          "id": 8,
+          "year_range": "2021-2023",
+          "name": "AI+无人机遥感：轨道旁植被管理(AI and UAV remote sensing for rail trackside vegetation management)",
+          "funder": "英国Innovate UK基金委",
+          "amount": "188K英镑",
+          "notes": "（单位主持）",
+          "country": "英国"
+        },
+        {
+          "id": 7,
+          "year_range": "2021-2024",
+          "name": "AI+机器人无损检测（AI for NDT-Development of AI systems for robotic path planning and automated defect detection)",
+          "funder": "英国TWI+埃塞克斯大学博士生奖学金课题",
+          "amount": "72K英镑",
+          "notes": "（单位负责导师）",
+          "country": "英国"
+        },
+        {
+          "id": 6,
+          "year_range": "2021-2025",
+          "name": "基于气候与图像数据预测苹果成熟度（Using climatic and imaging data to predict apple fruit ripeness）",
+          "funder": "英国BBSRC博士生奖学金课题",
+          "amount": "80K英镑",
+          "notes": "（单位负责导师）",
+          "country": "英国"
+        },
+        {
+          "id": 5,
+          "year_range": "2021-2022",
+          "name": "无人机光伏巡检系统(FollowPV-Developing autonomous unmanned aerial vehicles with spatial awareness for improved image quality from solar farm inspections)",
+          "funder": "英国Innovate UK基金委",
+          "amount": "354K英镑",
+          "notes": "（单位主持）",
+          "country": "英国"
+        },
+        {
+          "id": 4,
+          "year_range": "2020-2023",
+          "name": "AI+智慧农业（AI-farming: AI-powered intelligent autonomous systems for smart farming)",
+          "funder": "埃塞克斯大学博士生奖学金",
+          "amount": "60K英镑",
+          "notes": "（单位第一导师）",
+          "country": "英国"
+        },
+        {
+          "id": 3,
+          "year_range": "2020-2022",
+          "name": "卫星+无人机：作物疾病管理(Space-enabled crop disease management service via crop spraying drones)",
+          "funder": "英国STFC基金委",
+          "amount": "404K英镑",
+          "notes": "（单位主持）",
+          "country": "英国"
+        },
+        {
+          "id": 2,
+          "year_range": "2019-2019",
+          "name": "机器学习赋能卫星/无人机遥感：入侵植被监测（Persistent monitoring of invasive (aquatic) plants by machine learning powered satellite/UAV remote sensing)",
+          "funder": "拉夫堡大学种子基金",
+          "notes": "（主持）",
+          "country": "英国"
+        },
+        {
+          "id": 1,
+          "year_range": "2012-2015",
+          "name": "博士生全额奖学金",
+          "funder": "英国EPSRC基金委",
+          "notes": "（主持）",
+          "country": "英国"
+        }
+      ]
+    },
+    "publications": {
+      "summary": "发表SCI论文71，IEEE ICRA/IROS/CDC/ITS等会议论文44篇，谷歌学术引用4900+，曾获得4篇最佳期刊论文奖、3篇最佳会议论文奖",
+      "journal_publications_by_publisher": [
+        {
+          "publisher": "IEEE 出版社",
+          "journals": [
+            {
+              "name": "IEEE Transactions on Industrial Electronics",
+              "count": 1
+            },
+            {
+              "name": "IEEE Transactions on Industrial Informatics",
+              "count": 4
+            },
+            {
+              "name": "IEEE Transactions on Cybernetics",
+              "count": 1
+            },
+            {
+              "name": "IEEE Transactions on Automation Science and Engineering",
+              "count": 1
+            },
+            {
+              "name": "IEEE Transactions on Power Electronics",
+              "count": 1
+            },
+            {
+              "name": "IEEE Transactions on Aerospace and Electronic Systems",
+              "count": 1
+            },
+            {
+              "name": "IEEE Transactions on Systems, Man and Cybernetics: Systems",
+              "count": 5
+            },
+            {
+              "name": "IEEE/CAA Automatica Sinica",
+              "count": 1
+            },
+            {
+              "name": "IEEE Transactions on Intelligent Vehicles",
+              "count": 1
+            },
+            {
+              "name": "IEEE Transactions on Cognitive and Developmental Systems",
+              "count": 1
+            },
+            {
+              "name": "IEEE Sensors Journal",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "publisher": "Elsevier 出版社",
+          "journals": [
+            {
+              "name": "Automatica",
+              "count": 3
+            },
+            {
+              "name": "Mechanical Systems and Signal Processing",
+              "count": 1
+            },
+            {
+              "name": "Transportation Research Part C: Emerging Technologies",
+              "count": 1
+            },
+            {
+              "name": "Control Engineering Practice",
+              "count": 2
+            },
+            {
+              "name": "Computers and Electronics in Agriculture",
+              "count": 10
+            },
+            {
+              "name": "Neurocomputing",
+              "count": 2
+            },
+            {
+              "name": "Engineering Applications of Artifical Intelligence",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "conference_publications_summary": "IEEE ICRA(2篇)/IROS(3篇)/CDC/ITS等44篇旗舰国际会议"
+    },
+    "contact_information": {
+      "address": "东南大学四牌楼校区校西智控楼303，210096",
+      "email": "sucas@seu.edu.cn",
+      "lab_website": {
+        "anchor_text": "http://www.seumscl.com/",
+        "url": "http://www.seumscl.com/"
+      }
+    },
+    "current_students": {
+      "total_students": 22,
+      "doctoral_students": {
+        "count": 8,
+        "students": [
+          {
+            "name": "张皓迪",
+            "grade": "2025级",
+            "type": "硕博连读",
+            "research_direction": "智能控制",
+            "awards": "博士新生奖",
+            "publications_status": [
+              "IROS2025",
+              "CEP2025",
+              "ICRA2026",
+              "RSS(在审)"
+            ],
+            "project_type": "工业项目"
+          },
+          {
+            "name": "陈嘉",
+            "grade": "2025级",
+            "type": "硕博连读",
+            "research_direction": "具身智能",
+            "awards": "上海创智学院",
+            "publications_status": [
+              "IROS2025"
+            ],
+            "project_type": "工业项目"
+          },
+          {
+            "name": "李雯",
+            "grade": "2024级",
+            "type": "硕博贯通春季",
+            "research_direction": "智能感控一体",
+            "project_type": "国自然项目",
+            "publications_status": [
+              "IROS2025",
+              "IEEE TASE（在审）"
+            ]
+          },
+          {
+            "name": "刘鹏",
+            "grade": "2024级",
+            "type": "博士考核",
+            "research_direction": "机电系统控制",
+            "awards": "江苏省研究生实践创新计划",
+            "publications_status": [
+              "IEEE TIE"
+            ],
+            "project_type": "工业项目"
+          },
+          {
+            "name": "张逗逗",
+            "grade": "2024级",
+            "type": "非全日制博士",
+            "affiliation": "研究所"
+          },
+          {
+            "name": "谢鹏飞",
+            "grade": "2023级",
+            "type": "博士考核",
+            "research_direction": "智能控制",
+            "awards": "江苏省研究生科研创新计划, UCL联培"
+          },
+          {
+            "name": "赵龙",
+            "grade": "2023级",
+            "type": "博士考核",
+            "research_direction": "智能学习",
+            "project_type": "巡检项目",
+            "publications_status": [
+              "IEEE Sensors Journal(2025) 等"
+            ]
+          },
+          {
+            "name": "梁丙鋆",
+            "grade": "2022级",
+            "type": "博士考核",
+            "research_direction": "机器人控制",
+            "publications_status": [
+              "ICAC2025"
+            ]
+          }
+        ]
+      },
+      "master_students": {
+        "count": 14,
+        "students": [
+          {
+            "name": "卢加衡",
+            "grade": "2025级",
+            "source": "南航保送",
+            "research_direction": "基于优化的感控",
+            "publications_status": [
+              "FR-MHE(IEEE TIE在审)"
+            ]
+          },
+          {
+            "name": "闫琮翰",
+            "grade": "2025级",
+            "source": "湖大保送",
+            "research_direction": "智能飞控",
+            "publications_status": [
+              "ICUS2025"
+            ]
+          },
+          {
+            "name": "钱奕喆",
+            "grade": "2025级",
+            "source": "浙工大保送",
+            "research_direction": "MPPI控制"
+          },
+          {
+            "name": "李铸学",
+            "grade": "2025级",
+            "location": "无锡",
+            "research_direction": "农业机器人"
+          },
+          {
+            "name": "俞宬语",
+            "grade": "2025级",
+            "source": "浙工大保送",
+            "location": "苏州校区",
+            "research_direction": "基于学习的建模"
+          },
+          {
+            "name": "缪心隆",
+            "grade": "2024级",
+            "source": "北科大保研",
+            "research_direction": "智能导航定位",
+            "publications_status": [
+              "LiSA-Nav（在审）"
+            ]
+          },
+          {
+            "name": "李佳",
+            "grade": "2024级",
+            "source": "南航保研",
+            "research_direction": "无人机感控",
+            "publications_status": [
+              "ICAC2025"
+            ]
+          },
+          {
+            "name": "张志强",
+            "grade": "2024级",
+            "source": "河海保研",
+            "research_direction": "机器人控制",
+            "project_type": "工业项目"
+          },
+          {
+            "name": "葛俊玮",
+            "grade": "2024级",
+            "source": "成都理工保研",
+            "research_direction": "智能控制",
+            "project_type": "工业项目",
+            "publications_status": [
+              "OP-Follower（JFR二审）"
+            ]
+          },
+          {
+            "name": "倪天奇",
+            "grade": "2024级",
+            "source": "南昌大学",
+            "location": "苏州校区",
+            "research_direction": "机器视觉",
+            "achievements": "专利1"
+          },
+          {
+            "name": "张皓迪",
+            "grade": "2023级",
+            "source": "东南吴健雄保研-->25硕博连续",
+            "research_direction": "无人机感控",
+            "publications_status": [
+              "ICIT2024"
+            ]
+          },
+          {
+            "name": "陈嘉",
+            "grade": "2023级",
+            "source": "南航-->25硕博连读",
+            "research_direction": "基于学习的控制",
+            "awards": "国家奖学金",
+            "achievements": [
+              "IAI2024",
+              "专利1",
+              "科远项目"
+            ]
+          },
+          {
+            "name": "许永跃",
+            "grade": "2023级",
+            "source": "苏州大学保研",
+            "research_direction": "机器人定位",
+            "project_type": "工业项目",
+            "achievements": [
+              "定位论文2篇",
+              "ICAC2025"
+            ]
+          },
+          {
+            "name": "邬雨萱",
+            "grade": "2023级",
+            "source": "大连海事保研",
+            "research_direction": "学习控制",
+            "publications_status": [
+              "TIMC2026"
+            ]
+          },
+          {
+            "name": "余雅",
+            "grade": "2023级",
+            "source": "河海大学",
+            "location": "苏州校区",
+            "research_direction": "机器视觉",
+            "publications_status": [
+              "CCDC2026"
+            ]
+          },
+          {
+            "name": "贾明远",
+            "grade": "2023级",
+            "source": "南京医科",
+            "location": "苏州校区",
+            "research_direction": "滤波",
+            "publications_status": [
+              "CCDC2026"
+            ]
+          }
+        ]
+      },
+      "srtp_teams": [
+        {
+          "year": 2025,
+          "project": "面向化工自主巡检的AI多模态四足机器人研究",
+          "level": "校级重大-->国省级大创"
+        }
+      ]
+    },
+    "graduated_students": {
+      "group_graduated": [
+        {
+          "name": "陈浩",
+          "year": 2022,
+          "previous_affiliation": "西南交通",
+          "current_affiliation": "国电南自",
+          "research_area": "电力负荷预测",
+          "publications": [
+            "CCC2024"
+          ]
+        },
+        {
+          "name": "李南雁",
+          "year": 2022,
+          "previous_affiliation": "杭电",
+          "current_affiliation": "联通数科",
+          "research_area": "视觉巡检",
+          "publications": [
+            "CCC2024",
+            "巡检项目"
+          ]
+        }
+      ],
+      "undergraduate_thesis_graduated": [
+        {
+          "name": "张皓迪",
+          "year_range": "2022-2023",
+          "research_area": "视觉无人机",
+          "destination": "保研本课题组"
+        }
+      ],
+      "srtp_teams_graduated": [
+        {
+          "year": 2024,
+          "project": "视觉辅助自主巡检机器人系统研究",
+          "level": "校级重大"
+        }
+      ]
+    },
+    "assisted_mentorship": {
+      "domestic_students": [
+        {
+          "name": "毛琳煊",
+          "year": 2021,
+          "previous_affiliation": "福大保研",
+          "mentor": "李世华",
+          "current_status": "24春博",
+          "awards": [
+            "国家奖学金",
+            "CSC联培奖学金"
+          ],
+          "publications": [
+            "CCC2023",
+            "IEEE/CAA Automatica Sinica2025"
+          ]
+        },
+        {
+          "name": "余轲",
+          "year": 2021,
+          "type": "秋博",
+          "mentor": "李世华",
+          "publications": [
+            "IEEE TPE2025"
+          ]
+        },
+        {
+          "name": "范忠鑫",
+          "year": 2020,
+          "type": "秋博",
+          "mentor": "李世华",
+          "current_affiliation": "国机数科南京",
+          "publications": [
+            "IEEE SMC2025"
+          ]
+        },
+        {
+          "name": "郑学琴",
+          "year": 2020,
+          "type": "苏州硕士",
+          "mentor": "杨俊",
+          "current_affiliation": "中兴上海",
+          "publications": [
+            "CCC2023",
+            "IEEE TII2024"
+          ]
+        }
+      ],
+      "uk_doctoral_students": [
+        {
+          "grade": "2015级",
+          "destination": "海外副教授"
+        },
+        {
+          "grade": "2017级",
+          "destination": "国内副教授"
+        },
+        {
+          "grade": "2019级",
+          "destination": "牛津博士后"
+        }
+      ]
+    },
+    "lab_equipment_and_facilities": [
+      "Unitree 四足机器人Go2 EDU（数个） + 机械臂",
+      "传感器: 室内动捕、UWB定位套件、D435i、T265、Zed2i、双光相机（无人巡检）、激光雷达Livox等"
+    ]
+  }
+}

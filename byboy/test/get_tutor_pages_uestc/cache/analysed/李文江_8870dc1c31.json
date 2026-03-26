@@ -1,0 +1,238 @@
+{
+  "meta": {
+    "tutor_name_cn": "李文江",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1161/4484.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1161/4484.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/f57f6c3e698cb524924e8591d8386e158a29bee6a2713e6481bd58b886874fc5.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "site_chrome": {
+      "breadcrumbs": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "L",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/L.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "navigation_links": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ]
+    },
+    "professor_name": "李文江",
+    "photo_url": "https://www.auto.uestc.edu.cn/__local/E/42/1B/0A2CF1E8BE5A19E4C5EB58189D4_3D9359C4_6DCFC.jpg",
+    "basic_info": {
+      "highest_degree": "博士",
+      "contact_phone": null,
+      "title_and_positions": "副教授、自动化系主任、专业负责人",
+      "email": "13689051198@uestc.edu.cn",
+      "advisor_status": "硕士导师",
+      "personal_homepage": null,
+      "research_team": "机器人研究中心"
+    },
+    "research_directions": [
+      "不确定性推理",
+      "智能决策",
+      "智能控制"
+    ],
+    "academic_titles_and_affiliations": [
+      "IEEE Transactions on Fuzzy System 审稿人",
+      "Journal of Soft Computing 审稿人",
+      "The International Journal of Computational Intelligence Systems 审稿人"
+    ],
+    "experience": [
+      {
+        "start_date": "2003.06",
+        "end_date": "2007.12",
+        "institution": "西南交通大学博士后研究院",
+        "position": "博士后"
+      },
+      {
+        "start_date": "22008.01",
+        "end_date": "至今",
+        "institution": "电子科技大学自动化工程学院",
+        "position": "教师"
+      }
+    ],
+    "research_and_achievements": {
+      "publications_summary": "2000年至今在国内外学术刊物及会议上发表论文30余篇，其中SCI检索12篇，EI检索11篇。",
+      "research_projects_summary": "主研国家级、省部级科研项目近20项，主持完成无人机群智能操控系统、四川省两会提案办理系统、各地市州智能办公系统、环保监控系统等横向项目9项。",
+      "teaching_projects_summary": "作为第一负责人，主持完成教育部教学改革项目5项，四川省教学改革项目2项，电子科技大学研究生教学改革重点项目1项，本科教学改革项目6项。",
+      "awards_and_honors": [
+        "电子科技大学五粮液奖教金",
+        "电子科技大学首批标杆课程主讲教师",
+        "电子科技大学第九届教学成果奖 (若干项，从“5项”推断)",
+        "电子科技大学第十届教学成果奖 (若干项，从“5项”推断)"
+      ],
+      "edited_textbooks": [
+        {
+          "title": "复变函数与积分变换",
+          "type": "高等教育“十二五”应用型规划教材",
+          "quantity": "1部"
+        },
+        {
+          "title": "生产过程控制系统及仪表",
+          "type": "普通高等教育“十三五”规划教材、人工智能与自动化专业规划教材",
+          "quantity": "1部"
+        }
+      ]
+    },
+    "teaching_information": {
+      "undergraduate_courses": [
+        "复变函数",
+        "过程控制系统",
+        "自动控制原理",
+        "人工智能基础",
+        "过程控制智能控制",
+        "从制造到智造：科技改变生活"
+      ],
+      "graduate_courses": [
+        "智能控制理论及应用",
+        "高级人工智能"
+      ],
+      "teaching_appointments": [
+        "学院本科教学指导委员会委员",
+        "学院本科教学质量监督小组成员",
+        "学员研究生教学质量监督小组成员"
+      ],
+      "teaching_research_projects": {
+        "provincial_and_ministry_level_projects": [
+          {
+            "number": 1,
+            "title": "教育部高等学校仪器类专业教学指导委员会新工科建设项目：仪器类专业综合能力培养机制的探究",
+            "project_id": "2018C033",
+            "year": "2018",
+            "role": "主持",
+            "level": "省部级"
+          },
+          {
+            "number": 2,
+            "title": "四川省2018-2020年高等教育人才培养质量和教学改革重点项目：面向新工科建设需求的智能制造精英人才培养体系的研究与实践",
+            "project_id": "JG2018-174",
+            "year": "2019",
+            "role": "第二主持人",
+            "level": "省部级"
+          },
+          {
+            "number": 3,
+            "title": "四川省2021-2023年高等教育人才培养质量和教学改革项目：面向新工科建设需求的自动化专业项目式课程体系的研究",
+            "project_id": "JG2021-332",
+            "year": "2021",
+            "role": "主持",
+            "level": "省部级"
+          },
+          {
+            "number": 4,
+            "title": "教育部产学合作协同育人项目2024年第一批：基于新工科建设需求的智能车逐级递进项目式实践课程体系研究与实践",
+            "project_id": "231107538094544",
+            "year": "2024",
+            "role": "主持",
+            "level": "省部级"
+          },
+          {
+            "number": 5,
+            "title": "教育部产学合作协同育人项目2024年第一批：基于新工科建设需求的智能智造机器人逐级递进项目式实践课程体系研究与实践",
+            "project_id": "231103873095446",
+            "year": "2024",
+            "role": "主持",
+            "level": "省部级"
+          },
+          {
+            "number": 6,
+            "title": "教育部高等学校自动化类专业教学指导委员会第五批（2024 年）教改研究面上项目：逐级递进的项目式实践教学体系的研究与实践",
+            "project_id": "2024014",
+            "year": "2024",
+            "role": "主持",
+            "level": "省部级"
+          }
+        ],
+        "university_level_projects": [
+          {
+            "number": 1,
+            "title": "电子科技大学研究生教学改革项目：培养面向世界的实用型创新人才的研究--仪器科学与技术专业研究生教育解析",
+            "project_id": "2008JY215",
+            "role": "主持",
+            "level": "校级"
+          },
+          {
+            "number": 2,
+            "title": "电子科技大学教学改革项目：自动化专业创新人才培养模式的研究",
+            "project_id": "09XJY019",
+            "role": "主持",
+            "level": "校级"
+          },
+          {
+            "number": 3,
+            "title": "电子科技大学教学改革项目：自动化专业复变函数课程教学改革的研究",
+            "project_id": "2015XJYZC023",
+            "role": "主持",
+            "level": "校级"
+          },
+          {
+            "number": 4,
+            "title": "电子科技大学教学改革项目：三位一体，构建多元化人才培养模式的研究",
+            "project_id": "2016XJYYB025",
+            "role": "主持",
+            "level": "校级"
+          },
+          {
+            "number": 5,
+            "title": "电子科技大学新编特色教材项目：智能控制理论及应用",
+            "year": "2014",
+            "role": "主持",
+            "level": "校级"
+          },
+          {
+            "number": 6,
+            "title": "电子科技大学2018年度本科教学改革重点项目：教学方法与考核方法改革示范课“过程控制系统”建设",
+            "project_id": "2018XJYJ-ZD51",
+            "year": "2018",
+            "role": "主持",
+            "level": "校级"
+          }
+        ]
+      }
+    },
+    "admission_information": {
+      "master_programs": [
+        "081100 控制科学与工程",
+        "085406 控制工程"
+      ],
+      "phd_programs": []
+    }
+  }
+}

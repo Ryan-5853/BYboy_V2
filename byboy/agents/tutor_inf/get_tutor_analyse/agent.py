@@ -419,14 +419,17 @@ class GetTutorAnalyseAgent:
 
         workers = max(1, int(max_workers))
         if pending_urls:
-            log.step("并行导师分析", detail=f"pending={len(pending_urls)} workers={workers}")
+            log.step(
+                "导师分析阶段",
+                detail=f"待分析 {len(pending_urls)} 页 workers={workers}",
+            )
         with concurrent.futures.ThreadPoolExecutor(max_workers=workers) as ex:
             fut_map = {ex.submit(_worker, u): u for u in pending_urls}
             done_i = 0
             for fut in concurrent.futures.as_completed(fut_map):
                 done_i += 1
                 url = fut_map[fut]
-                log.step("处理导师页面", detail=f"{done_i}/{len(pending_urls)} {url}")
+                log.step("导师分析进度", detail=f"[{done_i}/{len(pending_urls)}] {url}")
                 try:
                     kind, payload_item = fut.result()
                 except Exception as e:

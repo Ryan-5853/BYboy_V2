@@ -1,0 +1,156 @@
+{
+  "meta": {
+    "tutor_name_cn": "童玲",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1169/4325.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1169/4325.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/df3fca8fb8fc42f702d7fc80a859fa2139b5d16c133cae6f244fb74f253b7465.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "site_chrome": {
+      "source_url": "https://www.auto.uestc.edu.cn/info/1169/4325.htm",
+      "breadcrumb_navigation": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "T",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/T.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "sidebar_navigation": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ],
+      "page_title": "师资队伍"
+    },
+    "professor_info": {
+      "name": "童玲",
+      "image_url": "https://www.auto.uestc.edu.cn/__local/C/E4/02/CD4652D51940C35D70763852CA1_BE075B0A_4C89.jpg",
+      "personal_details": {
+        "highest_degree": "博士",
+        "contact_phone": null,
+        "title_positions": "教授",
+        "email": "tongling@uestc.edu.cn",
+        "supervisor_status": "博士导师",
+        "personal_homepage": null,
+        "research_group": "空间信息探测与智能处理研究中心"
+      },
+      "main_research_directions": [
+        "微波遥感",
+        "电磁场与波",
+        "微波测试",
+        "现代测试理论与技术"
+      ],
+      "academic_titles_affiliations": [
+        "享受国务院政政府津贴专家",
+        "省名师",
+        "四川省有突出贡献的专家",
+        "教育部仪器类教学指导委员会专家",
+        "国家科技奖评审专家",
+        "中国仪器仪表学会实验室仪器分会副理事长",
+        "中国机械工业教育协会仪器科学与技术学科教学委员会副主任委员",
+        "中国高等教育学会仪器科学与测控技术专业委员会委员",
+        "IEEE GRS Chapter Chair"
+      ],
+      "experience": [
+        {
+          "time_period": "2013.12-至今",
+          "institution": "电子科技大学",
+          "department": "自动化工程学院",
+          "role": "教授/博导"
+        },
+        {
+          "time_period": "2001.11-2013.11",
+          "institution": "电子科技大学",
+          "department": "自动化工程学院",
+          "role": "教授/博导，副院长"
+        },
+        {
+          "time_period": "1995.10-2001.10",
+          "institution": "电子科技大学高能所",
+          "role": "副教授，教研室副主任"
+        },
+        {
+          "time_period": "1988.06-1995.09",
+          "institution": "中国测试技术研究院",
+          "role": "助理研究员，研究室副主任"
+        }
+      ],
+      "scientific_research_summary": {
+        "focus": "长期从事研究现代测试理论与技术、微波测试、微波遥感、电磁场与波等方面的研究。",
+        "projects": "主持多项国家级和省部级项目、自然科学基金、博士点基金、教育部博士点基金等多项国家重点（大）项目。",
+        "awards": [
+          "省部级科技进步二等奖一项",
+          "省部级科技进步三等奖二项",
+          "国家级教学成果二等奖一项",
+          "省部级教学成果一等奖一项",
+          "省部级教学成果二等奖一项"
+        ],
+        "publications": "SCI/EI检索论文200余篇",
+        "patents": "授权国内外发明专利35项",
+        "monographs": "学术专著3部",
+        "textbooks": "国家级规划教材2部"
+      },
+      "courses_teaching_research": {
+        "undergraduate_courses": [
+          "电子测量原理",
+          "电子测量原理与测试系统"
+        ],
+        "graduate_courses": [
+          "现代频域测试",
+          "学科前沿知识专题讲座"
+        ],
+        "teaching_positions": [
+          "学院本科教学指导委员会委员"
+        ],
+        "teaching_research_projects": [
+          "参与 《教学方法与考核方法改革示范课“电子测量原理与测试系统”建设》",
+          "主持 《电子测量原理》在线开放课程"
+        ]
+      },
+      "admission_majors": {
+        "master": [
+          "080400仪器科学与技术",
+          "085400电子信息"
+        ],
+        "doctoral": [
+          "080400仪器科学与技术",
+          "085400电子信息",
+          "086100交通运输"
+        ]
+      }
+    }
+  }
+}

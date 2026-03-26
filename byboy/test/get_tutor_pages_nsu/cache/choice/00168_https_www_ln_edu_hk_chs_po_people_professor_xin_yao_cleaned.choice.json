@@ -1,0 +1,314 @@
+{
+  "clickable_links": [
+    {
+      "url": "https://www.ln.edu.hk/chs/po/people/professor-xin-yao#main",
+      "anchor_text": "跳至主内容",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL指向特定教授个人主页，虽为外校但符合例外规则。",
+      "guessed_target_content": "教师/导师个人信息页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.ln.edu.hk/chs/po",
+      "anchor_text": "校长室",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "链接指向外校行政部门主页，非师资信息，且非本任务关注单位。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.ln.edu.hk/po/f/setting/100012/0p44/tagline.png",
+      "anchor_text": "tagline",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "链接是图片文件。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.ln.edu.hk/po/f/subsitesetting/100125/1920p0/section-banner.jpg",
+      "anchor_text": "Subsite Background",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "链接是图片文件。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.ln.edu.hk/assets/shared/img/icon_loading-animation-simple-logo.svg",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "链接是图片文件。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.ln.edu.hk/chs",
+      "anchor_text": "岭南大学",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "链接是外校主页，非师资信息。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.ln.edu.hk/chs/po",
+      "anchor_text": "团队",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "链接锚文本为“团队”，可能包含多位人员信息，但非本任务关注单位。",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.ln.edu.hk/chs/po/people/professor-xin-yao",
+      "anchor_text": "姚新教授",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL和锚文本指向特定教授个人主页，虽为外校但符合例外规则。",
+      "guessed_target_content": "教师/导师个人信息页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.ln.edu.hk/chs/po/people/professor-qin-s-joe",
+      "anchor_text": "秦泗钊教授",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL和锚文本指向特定教授个人主页，虽为外校但符合例外规则。",
+      "guessed_target_content": "教师/导师个人信息页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.ln.edu.hk/chs/po/people/professor-raymond-chan-hon-fu",
+      "anchor_text": "陈汉夫教授",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL和锚文本指向特定教授个人主页，虽为外校但符合例外规则。",
+      "guessed_target_content": "教师/导师个人信息页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.ln.edu.hk/chs/po/people/mr-ernest-chan-chi-man",
+      "anchor_text": "陈志民先生",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL和锚文本指向特定人员个人主页，虽为外校但符合例外规则。",
+      "guessed_target_content": "教师/导师个人信息页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.ln.edu.hk/chs/po/people/professor-lau-chi-pang-jp",
+      "anchor_text": "刘智鹏教授",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL和锚文本指向特定教授个人主页，虽为外校但符合例外规则。",
+      "guessed_target_content": "教师/导师个人信息页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.ln.edu.hk/chs/po/people/professor-sam-kwong-tak-wu",
+      "anchor_text": "邝得互教授",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL和锚文本指向特定教授个人主页，虽为外校但符合例外规则。",
+      "guessed_target_content": "教师/导师个人信息页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.ln.edu.hk/chs/po/people/dr-li-dong-hui",
+      "anchor_text": "李东辉教授",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL和锚文本指向特定人员个人主页，虽为外校但符合例外规则。",
+      "guessed_target_content": "教师/导师个人信息页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.ln.edu.hk/chs/po/people/professor-barnes-bradley-r",
+      "anchor_text": "李海东教授",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL和锚文本指向特定教授个人主页，虽为外校但符合例外规则。",
+      "guessed_target_content": "教师/导师个人信息页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.ln.edu.hk/po/f/page/102787/305145/Prof%20Yao%20Xin.jpeg",
+      "anchor_text": "Prof Mok resize",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "链接是图片文件。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "mailto:xinyao@ln.edu.hk",
+      "anchor_text": "xinyao@ln.edu.hk",
+      "scope": "unknown",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "链接是邮件地址，非网页。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.ln.edu.hk/chs/po/people/professor-xin-yao",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL指向特定教授个人主页，虽为外校但符合例外规则。",
+      "guessed_target_content": "教师/导师个人信息页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.ln.edu.hk/chs/po/people/professor-xin-yao#main",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL指向特定教授个人主页，虽为外校但符合例外规则。",
+      "guessed_target_content": "教师/导师个人信息页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.ln.edu.hk/chs/po",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "链接指向外校行政部门主页，非师资信息，锚文本为空。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.ln.edu.hk/po/f/setting/100012/0p44/tagline.png",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "链接是图片文件。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.ln.edu.hk/po/f/subsitesetting/100125/1920p0/section-banner.jpg",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "链接是图片文件。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.ln.edu.hk/chs",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "链接是外校主页，非师资信息。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.ln.edu.hk/chs/po/people/professor-qin-s-joe",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL指向特定教授个人主页，虽为外校但符合例外规则。",
+      "guessed_target_content": "教师/导师个人信息页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.ln.edu.hk/chs/po/people/professor-raymond-chan-hon-fu",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL指向特定教授个人主页，虽为外校但符合例外规则。",
+      "guessed_target_content": "教师/导师个人信息页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.ln.edu.hk/chs/po/people/mr-ernest-chan-chi-man",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL指向特定人员个人主页，虽为外校但符合例外规则。",
+      "guessed_target_content": "教师/导师个人信息页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.ln.edu.hk/chs/po/people/professor-lau-chi-pang-jp",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL指向特定教授个人主页，虽为外校但符合例外规则。",
+      "guessed_target_content": "教师/导师个人信息页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.ln.edu.hk/chs/po/people/professor-sam-kwong-tak-wu",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL指向特定教授个人主页，虽为外校但符合例外规则。",
+      "guessed_target_content": "教师/导师个人信息页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.ln.edu.hk/chs/po/people/dr-li-dong-hui",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL指向特定人员个人主页，虽为外校但符合例外规则。",
+      "guessed_target_content": "教师/导师个人信息页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.ln.edu.hk/chs/po/people/professor-barnes-bradley-r",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL指向特定教授个人主页，虽为外校但符合例外规则。",
+      "guessed_target_content": "教师/导师个人信息页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.ln.edu.hk/po/f/page/102787/305145/Prof%20Yao%20Xin.jpeg",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "链接是图片文件。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    }
+  ]
+}

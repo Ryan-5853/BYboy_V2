@@ -1,0 +1,244 @@
+{
+  "meta": {
+    "tutor_name_cn": "杨扩军",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1174/4315.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1174/4315.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/faa2ec52823af12b0c60c0a3679cc7e9c30d962e575d2fb7ba86741f069af994.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "site_chrome": {
+      "source_url": "https://www.auto.uestc.edu.cn/info/1174/4315.htm",
+      "page_title": "师资队伍",
+      "breadcrumbs": [
+        {
+          "text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "text": "Y",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/Y.htm"
+        },
+        {
+          "text": "正文"
+        }
+      ],
+      "sidebar_navigation": [
+        {
+          "text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ]
+    },
+    "personal_info": {
+      "name": "杨扩军",
+      "highest_degree": "博士",
+      "contact_phone": null,
+      "title_position": "教授",
+      "email": "yangkuojun@uestc.edu.cn",
+      "supervisor_status": "博士导师",
+      "personal_homepage_url": null,
+      "research_team": "测试技术与仪器研究所",
+      "profile_image_url": "https://www.auto.uestc.edu.cn/__local/2/C0/3E/15504C0B52F430EF917CF31719A_D7441EA2_6F3CE.png"
+    },
+    "research_interests": [
+      "超宽带高速数据采集系统",
+      "基于FPGA的高速数据实时处理",
+      "宽带数字示波器",
+      "多信息域智能测试仪器"
+    ],
+    "academic_titles_affiliations": [
+      "国家级青年人才计划入选者"
+    ],
+    "education_work_experience": [
+      {
+        "period": "2003.09-2007.06",
+        "institution": "电子科技大学",
+        "role": "学士"
+      },
+      {
+        "period": "2007.09-2010.06",
+        "institution": "电子科技大学",
+        "role": "硕士"
+      },
+      {
+        "period": "2010.09-2015.06",
+        "institution": "电子科技大学",
+        "role": "博士"
+      },
+      {
+        "period": "2013.09-2014.09",
+        "institution": "新加坡南洋理工大学",
+        "role": "访问学者"
+      },
+      {
+        "period": "2015.07-2021.07",
+        "institution": "电子科技大学",
+        "role": "副研究员"
+      },
+      {
+        "period": "2021.08-2023.09",
+        "institution": "电子科技大学",
+        "role": "研究员"
+      },
+      {
+        "period": "2023.09 至今",
+        "institution": "电子科技大学",
+        "role": "教授"
+      }
+    ],
+    "scientific_research": {
+      "overview_of_research_directions": "主要研究方向为基于数字带宽交替/时间交替采样的超宽带高速数据采集系统、基于FPGA的高速数据实时处理、数字示波器、多信息域智能测试仪器等。",
+      "projects": [
+        {
+          "name": "国家自然基金青年项目",
+          "count": 1
+        },
+        {
+          "name": "国家自然基金面上项目",
+          "count": 1
+        },
+        {
+          "name": "国家级重大/重点项目",
+          "count": 4,
+          "funding_amounts": [
+            "3700万",
+            "1681万",
+            "796万",
+            "540万"
+          ]
+        },
+        {
+          "name": "横向项目",
+          "description": "多个"
+        }
+      ],
+      "total_project_funding_summary": "主持项目经费7000余万",
+      "research_achievements_highlights": [
+        "主持研究的20GHz带宽、80GSPS采样率示波器指标为国内最高水平。"
+      ],
+      "publications": {
+        "award_winning_papers": [
+          {
+            "title_description": "发表在《仪器仪表学报》上的第一作者论文",
+            "award": "2017年中国百篇最具影响力学术论文奖"
+          }
+        ],
+        "total_papers_summary": "共发表一作及通讯作者论文20余篇"
+      },
+      "patents": {
+        "national_invention_patent_applications_as_first_author": "十余项",
+        "us_granted_patents": 1
+      },
+      "awards": [
+        {
+          "year": "2013",
+          "name": "国家技术发明二等奖",
+          "project": "20GSPS宽带数字示波器项目成果"
+        },
+        {
+          "year": "2022年1月",
+          "name": "电子学会技术发明一等奖",
+          "ranking": 2
+        },
+        {
+          "year": "2023",
+          "name": "成电先进科研工作者",
+          "note": "全校十人"
+        }
+      ]
+    },
+    "courses_and_teaching": {
+      "undergraduate_courses": [
+        "数字逻辑设计及应用",
+        "通用电子仪器设计"
+      ],
+      "postgraduate_courses": [
+        "信号处理理论与算法",
+        "高速数据采集及处理技术",
+        "现代测试技术"
+      ],
+      "teaching_research_projects": [
+        {
+          "type": "研究生精品课程建设项目",
+          "name": "《高速数据采集及处理技术》"
+        },
+        {
+          "type": "研究生教改项目",
+          "name": "《基于项目的高速数据采集及处理技术课程建设》"
+        }
+      ],
+      "teaching_awards": [
+        {
+          "years": [
+            "2018",
+            "2020"
+          ],
+          "name": "全国高校电子线路课程青年教师教学竞赛西南赛区二等奖"
+        },
+        {
+          "year": "2017-2018",
+          "name": "电子科技大学青年教师教学竞赛二等奖"
+        },
+        {
+          "year": "2022",
+          "name": "电子科技大学教师教学创新大赛二等奖"
+        },
+        {
+          "name": "电子科技大学教学成果奖",
+          "prizes": [
+            "一等奖",
+            "二等奖"
+          ],
+          "ranking": 3
+        }
+      ]
+    },
+    "admission_majors": {
+      "masters": [
+        {
+          "code": "085407",
+          "name": "仪器仪表工程"
+        },
+        {
+          "code": "080400",
+          "name": "仪器科学与技术"
+        },
+        {
+          "code": "085400",
+          "name": "电子信息"
+        }
+      ],
+      "doctorate": [
+        {
+          "code": "080400",
+          "name": "仪器科学与技术"
+        },
+        {
+          "code": "085400",
+          "name": "电子信息"
+        },
+        {
+          "code": "086100",
+          "name": "交通运输"
+        }
+      ]
+    }
+  }
+}

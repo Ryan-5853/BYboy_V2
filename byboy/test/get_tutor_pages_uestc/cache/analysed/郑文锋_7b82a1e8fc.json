@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "tutor_name_cn": "郑文锋",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1175/4394.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1175/4394.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/646f4118a9e76e81fb8cbd6f5dd5e44ae12db71a06aa7dd94c62bc9545abe071.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": "包含丰富的导师个人信息、研究方向、学术头衔、工作经历和教学科研成果，可提取大量事实。"
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "site_chrome": {
+      "source_url": "https://www.auto.uestc.edu.cn/info/1175/4394.htm",
+      "page_title_context": "师资队伍",
+      "breadcrumbs": [
+        {
+          "text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "text": "Z",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/Z.htm"
+        },
+        {
+          "text": "正文",
+          "url": null
+        }
+      ],
+      "navigation_links": [
+        {
+          "text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ]
+    },
+    "mentor_profile": {
+      "name": "郑文锋",
+      "image_url": "https://www.auto.uestc.edu.cn/__local/1/23/AF/F8D456010AC0DE68129E2359BBE_88273A3C_174EC6.jpg",
+      "basic_info": {
+        "highest_degree": "博士",
+        "contact_phone": null,
+        "title_and_position": "高级工程师",
+        "email": "winfirms@qq.com",
+        "supervisor_status": "硕士导师",
+        "personal_homepage": null,
+        "research_team": "机器感知与智能系统研究中心"
+      },
+      "research_directions": [
+        "智慧地球与数字城市",
+        "移动互联网与物联网",
+        "空间信息科学与技术",
+        "地球探测与信息技术",
+        "软件工程与空间信息服务",
+        "空间信息与遥感应用"
+      ],
+      "academic_titles_and_affiliations": [
+        "IEEE会员",
+        "IEEE地球科学与遥感协会会员",
+        "ACM会员",
+        "中国卫星导航协会环境监测组专委会常务理事"
+      ],
+      "experience": [
+        {
+          "period": "2011.11- 2013.01",
+          "description": "美国路易斯安那州立大学，访问学者"
+        },
+        {
+          "period": "2008.07- 至今",
+          "description": "电子科技大学自动化工程学院， 教师"
+        },
+        {
+          "period": "1997.08- 2002.06",
+          "description": "贵州文通科技发展有限公司"
+        },
+        {
+          "period": "1995.08- 1997.07",
+          "description": "贵州天和磷业股份有限公司"
+        },
+        {
+          "period": "1993.08- 1995.07",
+          "description": "贵州证券公司"
+        },
+        {
+          "period": "1992.07- 1993.06",
+          "description": "成都蓝天汽车内饰件厂"
+        }
+      ],
+      "scientific_research": null,
+      "teaching_and_courses": {
+        "undergraduate_courses": [
+          "问题驱动的创新与创业",
+          "创业—启蒙与实践"
+        ],
+        "graduate_courses": [
+          "创新的本质"
+        ],
+        "teaching_positions": null,
+        "teaching_research_projects": [
+          "主持 《问题驱动的创新与创业》核心通识课",
+          "主持 《问题驱动的创业》在线开放课程",
+          "主持《仪器专业创新与创业课程体系建设》2018年高等学校仪器类专业新工科建设项目",
+          "主持《问题驱动的创业》首批省级创新创业教育示范课程",
+          "主持《创业启蒙与实践分享》教育部高等教育司2018年第一批产学合作协同育人项目",
+          "主持《创业——启蒙.思考.实践》2017年教育部产学合作协同育人第一批产学合作协同育人项目"
+        ]
+      },
+      "admission_majors": {
+        "masters": [
+          "081100控制科学与工程",
+          "085400电子信息"
+        ],
+        "phd": null
+      }
+    }
+  }
+}

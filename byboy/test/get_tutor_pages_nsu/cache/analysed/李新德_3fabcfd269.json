@@ -1,0 +1,314 @@
+{
+  "meta": {
+    "tutor_name_cn": "李新德",
+    "request_url": "http://automation.seu.edu.cn/lxd/list.htm",
+    "declared_source_url": "http://automation.seu.edu.cn/lxd/list.htm",
+    "page_host": "automation.seu.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/9f2e67751b6ace03aa9bb96ad700f7bfb1a476f21eb6820ebd7a422cd2f958d7.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "professor_info": {
+      "name": "李新德",
+      "gender": "男",
+      "degrees": [
+        "博士"
+      ],
+      "current_positions": [
+        "东南大学自动化学院教授",
+        "博士生导师",
+        "全体教师"
+      ],
+      "other_titles_and_memberships": [
+        "俄罗斯自然科学院院士",
+        "俄罗斯自然科学院外籍院士",
+        "IET Fellow",
+        "IEEE Senior Member",
+        "《科学中国人》封面人物"
+      ],
+      "contact_info": {
+        "office_location": "中心楼420",
+        "phone": null,
+        "personal_homepage": {
+          "url": "https://aipu-seu.cn/Default.aspx",
+          "anchor_text": "https://aipu-seu.cn/Default.aspx"
+        },
+        "email": "xindeli@seu.edu.cn"
+      },
+      "biography_summary": "李新德，东南大学自动化学院教授，华中科技大学博士，新加坡国立大学博士后，美国佐治亚理工大学国家公派访问学者，俄罗斯自然科学院外籍院士，IET Fellow， IEEE Senior Member，《科学中国人》封面人物，中国人工智能学会智能机器人专委会副主任委员，中国人工智能学会智能产品与产业工委会副主任委员、中国自动化学会智能制造系统专委会副主任委员等。",
+      "education_experience_extracted": [
+        "华中科技大学博士",
+        "新加坡国立大学博士后",
+        "美国佐治亚理工大学国家公派访问学者"
+      ],
+      "academic_social_roles": [
+        "中国人工智能学会智能机器人专委会副主任委员",
+        "中国人工智能学会智能产品与产业工委会副主任委员",
+        "中国自动化学会智能制造系统专委会副主任委员"
+      ],
+      "research_directions": [
+        "人工智能",
+        "机器视觉",
+        "机器感知",
+        "智能机器人",
+        "人机交互",
+        "无人系统"
+      ],
+      "projects_summary": "承担包括863重点、国家自然科学基金重大研究计划项目、重点项目，面上项目、十三五预研重点项目、JKW163重点项目、JKW重大专项、江苏省重点研发计划重点项目等国家、省部级项目等40+项。",
+      "publications_summary": "在IEEE汇刊TIE、TII、 TFS、TM 、TCDS、TIM、TASE等国内外权威期刊和会议发表SCI、EI收录的论文100余篇，3篇Book Chapter，3部著作（分别受国家出版基金、国家学术著作出版基金与国防工业出版社出版基金资助），授权国家发明专利27项，软件著作权9个。",
+      "awards": [
+        "国际科学贡献奖",
+        "全球人工智能与机器人杰出科学家奖",
+        "中国发明协会创新奖一等奖",
+        "中国自动化学会科技进步一等奖",
+        "中国发明协会成果奖一等奖",
+        "中国产学研合作创新奖（个人）",
+        "日内瓦国际发明金奖",
+        "日内瓦国际发明银奖",
+        "江苏省科学技术奖二等奖",
+        "省教学成果奖一等奖",
+        "人工智能学会最佳青年科技成果奖",
+        "十二五航空基金优秀成果奖"
+      ],
+      "student_achievements_under_guidance": [
+        "2019年首届贝式杯目标检测与识别挑战赛特等奖",
+        "2021年麒麟杯第二届东南大学全球校友创新创业大赛优胜奖",
+        "第二届发现东大独角兽智能制造大赛潜力之星称号"
+      ],
+      "profile_image": {
+        "url": "https://automation.seu.edu.cn/_upload/article/images/45/1c/64da26b2484cb33b85dfbe4c6ba6/0fd5981f-a0c2-4a3b-9d26-e0a2047137e3_s_s_s_s_s_s_s_s_s.jpg",
+        "alt_text": null
+      },
+      "sections_with_headings_but_no_detailed_content": [
+        "教育背景",
+        "工作经历",
+        "学术兼职",
+        "讲授课程",
+        "学生培养",
+        "研究兴趣",
+        "科研项目",
+        "论文发表"
+      ]
+    },
+    "site_chrome": {
+      "source_url": "http://automation.seu.edu.cn/lxd/list.htm",
+      "header_logo": {
+        "url": "https://automation.seu.edu.cn/_upload/tpl/0a/4c/2636/template2636/images/logo.png",
+        "alt_text": "返回自动化学院首页",
+        "link": "https://automation.seu.edu.cn/main.htm"
+      },
+      "top_navigation": [
+        {
+          "text": "学校主页",
+          "url": "https://www.seu.edu.cn/"
+        },
+        {
+          "text": "ENGLISH",
+          "url": "https://automation.seu.edu.cn/lxd/list.htm#"
+        }
+      ],
+      "main_navigation": [
+        {
+          "category": "学院概况",
+          "url": "https://automation.seu.edu.cn/24451/list.htm",
+          "sub_categories": [
+            {
+              "text": "学院简介",
+              "url": "https://automation.seu.edu.cn/24498/list.htm"
+            },
+            {
+              "text": "发展历程",
+              "url": "https://automation.seu.edu.cn/24499/list.htm"
+            },
+            {
+              "text": "组织架构",
+              "url": "https://automation.seu.edu.cn/32602/list.htm"
+            },
+            {
+              "text": "现任领导",
+              "url": "https://automation.seu.edu.cn/32603/list.htm"
+            },
+            {
+              "text": "历任领导",
+              "url": "https://automation.seu.edu.cn/32604/list.htm"
+            },
+            {
+              "text": "院庆专栏",
+              "url": "https://automation.seu.edu.cn/yq/list.htm"
+            },
+            {
+              "text": "标识系统",
+              "url": "https://automation.seu.edu.cn/bsxt/list.htm"
+            },
+            {
+              "text": "联系我们",
+              "url": "https://automation.seu.edu.cn/24500/list.htm"
+            }
+          ]
+        },
+        {
+          "category": "师资力量",
+          "url": "https://automation.seu.edu.cn/szdw_32667/list.htm",
+          "sub_categories": [
+            {
+              "text": "全体教师",
+              "url": "https://automation.seu.edu.cn/32668/list.htm"
+            },
+            {
+              "text": "院士",
+              "url": "https://automation.seu.edu.cn/32669/list.htm"
+            },
+            {
+              "text": "国家级人才",
+              "url": "https://automation.seu.edu.cn/gjjrc_51587/list.htm"
+            },
+            {
+              "text": "博士生导师",
+              "url": "https://automation.seu.edu.cn/32670/list.htm"
+            },
+            {
+              "text": "硕士生导师",
+              "url": "https://automation.seu.edu.cn/32671/list.htm"
+            }
+          ]
+        },
+        {
+          "category": "科学研究",
+          "url": "https://automation.seu.edu.cn/kxyj/list.htm",
+          "sub_categories": [
+            {
+              "text": "科研通知",
+              "url": "https://automation.seu.edu.cn/32607/list.htm"
+            },
+            {
+              "text": "学术交流",
+              "url": "https://automation.seu.edu.cn/32608/list.htm"
+            },
+            {
+              "text": "科研基地",
+              "url": "https://automation.seu.edu.cn/32609/list.htm"
+            },
+            {
+              "text": "科技成果",
+              "url": "https://automation.seu.edu.cn/32610/list.htm"
+            }
+          ]
+        },
+        {
+          "category": "人才培养",
+          "url": "https://automation.seu.edu.cn/24454/list.htm",
+          "sub_categories": [
+            {
+              "text": "本科生培养",
+              "url": "https://automation.seu.edu.cn/24509/list.htm"
+            },
+            {
+              "text": "研究生培养",
+              "url": "https://automation.seu.edu.cn/24510/list.htm"
+            }
+          ]
+        },
+        {
+          "category": "党群工作",
+          "url": "https://automation.seu.edu.cn/32612/list.htm",
+          "sub_categories": [
+            {
+              "text": "党务工作",
+              "url": "https://automation.seu.edu.cn/32614/list.htm"
+            },
+            {
+              "text": "党建风采",
+              "url": "https://automation.seu.edu.cn/24535/list.htm"
+            },
+            {
+              "text": "工会工作",
+              "url": "https://automation.seu.edu.cn/32616/list.htm"
+            },
+            {
+              "text": "关工委",
+              "url": "https://automation.seu.edu.cn/ggw/list.htm"
+            }
+          ]
+        },
+        {
+          "category": "学生工作",
+          "url": "https://automation.seu.edu.cn/32613/list.htm",
+          "sub_categories": [
+            {
+              "text": "就业服务",
+              "url": "https://automation.seu.edu.cn/24519/list.htm"
+            },
+            {
+              "text": "通知公告",
+              "url": "https://automation.seu.edu.cn/32617/list.htm"
+            },
+            {
+              "text": "榜样力量",
+              "url": "https://automation.seu.edu.cn/24522/list.htm"
+            },
+            {
+              "text": "学工动态",
+              "url": "https://automation.seu.edu.cn/24524/list.htm"
+            }
+          ]
+        },
+        {
+          "category": "校友工作",
+          "url": "https://automation.seu.edu.cn/24458/list.htm",
+          "sub_categories": [
+            {
+              "text": "校友风采",
+              "url": "https://automation.seu.edu.cn/24537/list.htm"
+            },
+            {
+              "text": "校友活动",
+              "url": "https://automation.seu.edu.cn/24538/list.htm"
+            }
+          ]
+        },
+        {
+          "category": "人才招聘",
+          "url": "https://automation.seu.edu.cn/rczp/list.htm"
+        },
+        {
+          "category": "学术年专栏",
+          "url": "https://automation.seu.edu.cn/jysxdtl/list.htm"
+        }
+      ],
+      "footer_contact_info": {
+        "address": "江苏省南京市四牌楼2号中心楼 东南大学自动化学院",
+        "phone": "025-83792724",
+        "email": "jupiter@seu.edu.cn"
+      },
+      "footer_logo": {
+        "url": "https://automation.seu.edu.cn/_upload/tpl/0a/4c/2636/template2636/images/logo_s.png",
+        "alt_text": null
+      },
+      "decorative_images": [
+        {
+          "url": "https://automation.seu.edu.cn/_upload/article/images/49/80/cc90f70945d99437aeb29c598629/b39cc810-2b19-45e6-bcb5-145efb62c5f5_s.jpg",
+          "alt_text": null
+        },
+        {
+          "url": "https://automation.seu.edu.cn/_upload/article/images/84/ab/53097bbf440198ff1519fabe1da5/b1c7ed74-ed3e-4287-aec5-526ade294570_s.jpg",
+          "alt_text": null
+        }
+      ],
+      "page_specific_elements": [
+        {
+          "type": "image_placeholder",
+          "url": "https://automation.seu.edu.cn/lxd/list.htm",
+          "alt_text": null
+        },
+        {
+          "type": "visit_counter",
+          "url": "https://automation.seu.edu.cn/_visitcount?siteId=338&type=2&columnId=32791",
+          "alt_text": null
+        }
+      ]
+    }
+  }
+}

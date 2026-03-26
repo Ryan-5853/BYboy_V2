@@ -1,0 +1,14 @@
+{
+  "clickable_links": [
+    {
+      "url": "https://jinxiazhang99.github.io/",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL含姓名，个人主页特征明显，符合例外规则。",
+      "guessed_target_content": "教师/导师个人信息页面",
+      "listing_pagination_next": "0"
+    }
+  ]
+}

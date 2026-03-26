@@ -1,0 +1,323 @@
+{
+  "meta": {
+    "tutor_name_cn": "赵雨辰",
+    "request_url": "https://orcid.org/0000-0002-9779-4577",
+    "declared_source_url": "https://orcid.org/0000-0002-9779-4577",
+    "page_host": "orcid.org",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/5102c343b87cc65dd0e7676b3f8b23a09122f2c45786f8f8e97078eb9fd55516.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "source_url": "https://orcid.org/0000-0002-9779-4577",
+    "personal_info": {
+      "name_en": "Yuchen Zhao",
+      "name_zh": "赵雨辰",
+      "orcid_id": "https://orcid.org/0000-0002-9779-4577",
+      "homepage": {
+        "url": "http://webhome.phy.duke.edu/~yz172/",
+        "anchor_text": "My homepage on Duke Physics"
+      }
+    },
+    "employment": [
+      {
+        "institution": "Southeast University",
+        "location": "Nanjing, CN",
+        "start_date": "2023-09",
+        "end_date": "present",
+        "category": "Employment",
+        "source": "Yuchen Zhao (Self-asserted source)"
+      },
+      {
+        "institution": "Nanyang Technological University",
+        "location": "Singapore, Singapore, SG",
+        "start_date": "2021-05-01",
+        "end_date": "2023-05-01",
+        "position": "Research Fellow",
+        "department": "School of Mechanical and Aerospace Engineering",
+        "category": "Employment",
+        "source": "Yuchen Zhao (Self-asserted source)"
+      },
+      {
+        "institution": "Duke University",
+        "location": "Durham, North Carolina, US",
+        "start_date": "2020-09-01",
+        "end_date": "2020-12-31",
+        "position": "Associate in Research",
+        "department": "Department of Physics",
+        "category": "Employment",
+        "source": "Yuchen Zhao (Self-asserted source)"
+      }
+    ],
+    "education": [
+      {
+        "institution": "Duke University",
+        "location": "Durham, NC, US",
+        "start_date": "2014-09-01",
+        "end_date": "2020-09-01",
+        "degree": "Ph.D.",
+        "department": "Department of Physics",
+        "category": "Education",
+        "source": "Yuchen Zhao (Self-asserted source)"
+      },
+      {
+        "institution": "Shandong University",
+        "location": "Jinan, Shandong, CN",
+        "start_date": "2010-09-01",
+        "end_date": "2014-06-01",
+        "degree": "BS physics",
+        "category": "Education",
+        "source": "Yuchen Zhao (Self-asserted source)"
+      }
+    ],
+    "works": [
+      {
+        "title": "Frontiers in Robotics and AI",
+        "publication_date": "2025-11-05",
+        "type": "Journal article",
+        "doi": {
+          "url": "https://doi.org/10.3389/frobt.2025.1633131",
+          "anchor_text": "10.3389/frobt.2025.1633131"
+        },
+        "issn": {
+          "url": "https://portal.issn.org/resource/ISSN/2296-9144",
+          "anchor_text": "2296-9144"
+        },
+        "contributors": [
+          "Yuchen Zhao",
+          "Yuxin Chen"
+        ],
+        "source": "Yuchen Zhao (Self-asserted source)"
+      },
+      {
+        "title": "Device",
+        "publication_date": "2024-09",
+        "type": "Journal article",
+        "doi": {
+          "url": "https://doi.org/10.1016/j.device.2024.100460",
+          "anchor_text": "10.1016/j.device.2024.100460"
+        },
+        "issn": {
+          "url": "https://portal.issn.org/resource/ISSN/2666-9986",
+          "anchor_text": "2666-9986"
+        },
+        "contributors": [
+          "Junyu Ge",
+          "Yuchen Zhao",
+          "Yifan Wang",
+          "Hong Li"
+        ],
+        "source": "Yuchen Zhao (Self-asserted source)"
+      },
+      {
+        "title": "Batteries",
+        "publication_date": "2024-06-24",
+        "type": "Journal article",
+        "doi": {
+          "url": "https://doi.org/10.3390/batteries10070225",
+          "anchor_text": "10.3390/batteries10070225"
+        },
+        "issn": {
+          "url": "https://portal.issn.org/resource/ISSN/2313-0105",
+          "anchor_text": "2313-0105"
+        },
+        "contributors": [
+          "Junyu Ge",
+          "Yuchen Zhao",
+          "Yifan Wang",
+          "Hong Li"
+        ],
+        "source": "Yuchen Zhao (Self-asserted source)"
+      },
+      {
+        "title": "2023 IEEE International Conference on Soft Robotics (RoboSoft)",
+        "publication_date": "2023",
+        "type": "Conference paper",
+        "doi": {
+          "url": "https://doi.org/10.1109/RoboSoft55895.2023.10121960",
+          "anchor_text": "10.1109/RoboSoft55895.2023.10121960"
+        },
+        "arxiv": {
+          "url": "https://arxiv.org/abs/2304.05828",
+          "anchor_text": "https://arxiv.org/abs/2304.05828"
+        },
+        "contributors": [
+          "Zhao, Yuchen",
+          "Khaw, Choo Kean",
+          "Wang, Yifan"
+        ],
+        "source": "Yuchen Zhao (Self-asserted source)"
+      },
+      {
+        "title": "IEEE Robotics and Automation Letters",
+        "publication_date": "2023-06",
+        "type": "Journal article",
+        "doi": {
+          "url": "https://doi.org/10.1109/LRA.2023.3266667",
+          "anchor_text": "10.1109/LRA.2023.3266667"
+        },
+        "contributors": [
+          "Yuchen Zhao",
+          "Yifan Wang"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "title": "Frontiers in Physics",
+        "publication_date": "2022-11-28",
+        "type": "Journal article",
+        "doi": {
+          "url": "https://doi.org/10.3389/fphy.2022.1048683",
+          "anchor_text": "10.3389/fphy.2022.1048683"
+        },
+        "issn": {
+          "url": "https://portal.issn.org/resource/ISSN/2296-424X",
+          "anchor_text": "2296-424X"
+        },
+        "contributors": [
+          "Yiqiu Zhao",
+          "Yuchen Zhao",
+          "Dong Wang",
+          "Hu Zheng",
+          "Bulbul Chakraborty",
+          "Joshua E. S. Socolar"
+        ],
+        "source": "Yuchen Zhao (Self-asserted source)"
+      },
+      {
+        "title": "Physical Review X",
+        "publication_date": "2022-08-01",
+        "type": "Journal article",
+        "doi": {
+          "url": "https://doi.org/10.1103/PhysRevX.12.031021",
+          "anchor_text": "10.1103/PhysRevX.12.031021"
+        },
+        "contributors": [
+          "Yiqiu Zhao",
+          "Yuchen Zhao",
+          "Dong Wang",
+          "Hu Zheng",
+          "Bulbul Chakraborty",
+          "Joshua E. S. Socolar"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "title": "Soft Matter",
+        "publication_date": "2021",
+        "type": "Journal article",
+        "doi": {
+          "url": "https://doi.org/10.1039/D0SM01914C",
+          "anchor_text": "10.1039/D0SM01914C"
+        },
+        "contributors": [
+          "Payman Jalali",
+          "Yuchen Zhao",
+          "Joshua E. S. Socolar"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "title": "Phys. Rev. E 101, 062903 (2020)",
+        "publication_date": "2020-02-23",
+        "type": "Journal article",
+        "doi": {
+          "url": "https://doi.org/10.1103/physreve.101.062903",
+          "anchor_text": "10.1103/physreve.101.062903"
+        },
+        "arxiv": {
+          "url": "https://arxiv.org/abs/2002.09800v2",
+          "anchor_text": "arXiv:2002.09800v2"
+        },
+        "source": "Yuchen Zhao (Self-asserted source)",
+        "note": "Preferred source (of 2)"
+      },
+      {
+        "title": "EPJ Web of Conferences",
+        "publication_date": "2017",
+        "type": "Conference paper",
+        "doi": {
+          "url": "https://doi.org/10.1051/epjconf/201714006021",
+          "anchor_text": "10.1051/epjconf/201714006021"
+        },
+        "issn": {
+          "url": "https://portal.issn.org/resource/ISSN/2100-014X",
+          "anchor_text": "2100-014X"
+        },
+        "source": "Yuchen Zhao (Self-asserted source)"
+      },
+      {
+        "title": "EPJ Web of Conferences",
+        "publication_date": "2017",
+        "type": "Conference paper",
+        "doi": {
+          "url": "https://doi.org/10.1051/epjconf/201714006011",
+          "anchor_text": "10.1051/epjconf/201714006011"
+        },
+        "issn": {
+          "url": "https://portal.issn.org/resource/ISSN/2100-014X",
+          "anchor_text": "2100-014X"
+        },
+        "source": "Yuchen Zhao (Self-asserted source)"
+      },
+      {
+        "title": "Granular Matter 18, 24 (2016)",
+        "publication_date": "2015-11-18",
+        "type": "Journal article",
+        "doi": {
+          "url": "https://doi.org/10.1007/s10035-016-0606-4",
+          "anchor_text": "10.1007/s10035-016-0606-4"
+        },
+        "arxiv": {
+          "url": "https://arxiv.org/abs/1511.06026v1",
+          "anchor_text": "arXiv:1511.06026v1"
+        },
+        "source": "Yuchen Zhao (Self-asserted source)"
+      }
+    ],
+    "site_chrome": [
+      {
+        "type": "link",
+        "anchor_text": "Skip to main content",
+        "url": "https://orcid.org/0000-0002-9779-4577#main"
+      },
+      "Warning! orcid.org is a test website. orcid.org is the official website. Sandbox only sends email messages to mailinator.com email addresses, see Sandbox FAQ for more information",
+      {
+        "type": "link",
+        "anchor_text": "orcid.org",
+        "url": "https://orcid.org/"
+      },
+      {
+        "type": "link",
+        "anchor_text": "mailinator.com",
+        "url": "https://mailinator.com/"
+      },
+      {
+        "type": "link",
+        "anchor_text": "more information",
+        "url": "https://support.orcid.org/hc/articles/360006972573"
+      },
+      "edit (button)",
+      "orcid logo (image)",
+      "content_copy print (button)",
+      "expand_less Show record summary (button)",
+      "Collapse all (button)",
+      "expand_more (button/section expander)",
+      "sort Sort (button/UI element)",
+      "Show more detail (button/UI element)",
+      "Self-asserted source (icon description)",
+      "check_circle Crossref (icon description)",
+      {
+        "type": "link",
+        "anchor_text": "How many people are using ORCID?",
+        "url": "https://info.orcid.org/orcid-statistics/"
+      },
+      "Copy iD (button)",
+      "Printable record (button)",
+      "Show details (button)",
+      "Hide details (button)"
+    ]
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "meta": {
+    "tutor_name_cn": "黄伟",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1157/4161.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1157/4161.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/9cda6bf43e3eb45f8ce73054598f79afef6486c599aaaeb9ce62626c77306a12.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "site_metadata": {
+      "source_url": "https://www.auto.uestc.edu.cn/info/1157/4161.htm",
+      "breadcrumb_navigation": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "H",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/H.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "sidebar_navigation": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ]
+    },
+    "personal_info": {
+      "name": "黄伟",
+      "highest_degree": "博士",
+      "contact_phone": null,
+      "job_title": "教授",
+      "email": "whuang@uestc.edu.cn",
+      "supervisor_status": "博士生导师",
+      "personal_homepage": "https://faculty.uestc.edu.cn/huangwei123/zh_CN/index.htm",
+      "research_team": "自动化前沿与交叉中心",
+      "profile_image_url": "https://www.auto.uestc.edu.cn/__local/A/0B/B2/1A5DAC2FE2384D555AF4B257247_9913877B_7C78.jpg"
+    },
+    "main_research_directions": "仿生柔性生理传感与类神经电子，涉及基于有机电化学晶体管的新型功能材料与器件开发、高灵敏度传感及应用、类神经电路与系统集成",
+    "academic_titles_affiliations": [
+      {
+        "year": 2022,
+        "title": "国家青年人才计划入选者"
+      },
+      {
+        "year": 2021,
+        "title": "四川省青年人才入选者"
+      },
+      {
+        "year": 2020,
+        "title": "电子科技大学校“百人计划”入选者"
+      },
+      {
+        "role": "编委",
+        "journal": "Materials Research Express",
+        "type": "SCI"
+      },
+      {
+        "role": "青年编委",
+        "journal": "中国化学快报",
+        "type": "SCI"
+      },
+      {
+        "role": "青年编委",
+        "journal": "SmartMat",
+        "type": "SCI"
+      },
+      {
+        "role": "审稿人",
+        "journals": [
+          "Nature Electronics",
+          "Adv. Mater.",
+          "Adv. Funct. Mater.",
+          "ACS Energy Lett.",
+          "Nano Energy",
+          "Nano-Micro Lett.",
+          "Appl. Phys. Lett."
+        ]
+      }
+    ],
+    "experience": {
+      "work_experience": [
+        {
+          "start_date": "2022-11",
+          "end_date": "至今",
+          "country": "中国",
+          "institution": "电子科技大学",
+          "department": "自动化工程学院",
+          "position": "教授"
+        },
+        {
+          "start_date": "2021-06",
+          "end_date": "2022-10",
+          "country": "中国",
+          "institution": "电子科技大学",
+          "department": "自动化工程学院",
+          "position": "研究员"
+        },
+        {
+          "start_date": "2018-09",
+          "end_date": "2021-05",
+          "country": "美国",
+          "institution": "西北大学",
+          "department": "化学学院",
+          "position": "研究助理教授"
+        },
+        {
+          "start_date": "2017-02",
+          "end_date": "2018-08",
+          "country": "美国",
+          "institution": "西北大学",
+          "department": "化学学院",
+          "position": "博士后"
+        }
+      ],
+      "education_experience": [
+        {
+          "start_date": "2014-09",
+          "end_date": "2016-10",
+          "country": "美国",
+          "institution": "西北大学",
+          "department": "化学学院",
+          "degree": "联合培养博士研究生"
+        },
+        {
+          "start_date": "2010-09",
+          "end_date": "2016-12",
+          "country": "中国",
+          "institution": "电子科技大学",
+          "department": "光电信息学院",
+          "degree": "博士"
+        },
+        {
+          "start_date": "2006-09",
+          "end_date": "2010-06",
+          "country": "中国",
+          "institution": "南开大学",
+          "major": "光信息科学与技术",
+          "degree": "学士"
+        }
+      ]
+    },
+    "scientific_research_summary": {
+      "description": "复合仿生功能器件及集成技术，以低功耗、高跨导、生物相容等特点，在智能感知、人机接口、类神经电路等研究方向具有广泛发展潜力；但其仍存在高性能材料与器件匮乏、功能化元器件及集成技术滞后、智能系统与应用构建缺失等问题；因此，黄伟教授以有机电化学晶体管（organic electrochemical transistor, OECT）为元器件基础，以功能材料性能优化、器件结构密度及可靠性提升、传感与类神经电路集成为核心研究内容，在“功能材料-微纳器件-功能集成”等交叉学科方面开展研究。",
+      "achievements_five_years": {
+        "publications": {
+          "count": "50余篇",
+          "types": "高水平学术论文 (第一作者及通讯作者)",
+          "notable_journals": [
+            "Nature (1篇，高被引及热点论文)",
+            "Nature Materials (1篇，高被引论文)",
+            "Nature Electronics (1篇)",
+            "Proc. Natl. Acad. Sci. U.S.A (5篇)",
+            "Adv. Mater. (6篇)"
+          ],
+          "total_citations": "6000余次"
+        },
+        "patents": {
+          "count": "11项",
+          "type": "发明专利"
+        },
+        "recognitions": [
+          "2023年度十篇高引用的中国作者《Nature》论文",
+          "2023年度四川十大科学进展"
+        ],
+        "application_conversion": "进行应用转化"
+      },
+      "invited_presentations": [
+        {
+          "event": "美国材料研究学会 (MRS)",
+          "type": "专题或特邀报告"
+        },
+        {
+          "event": "IEEE NANO",
+          "type": "专题或特邀报告"
+        }
+      ],
+      "editorial_roles_current": [
+        {
+          "journal": "Material Research Express",
+          "role": "编委",
+          "type": "SCI"
+        },
+        {
+          "journal": "SmartMat",
+          "role": "青年编委",
+          "type": "SCI"
+        },
+        {
+          "journal": "中国化学快报",
+          "role": "青年编委",
+          "type": "SCI"
+        }
+      ],
+      "awards": [
+        {
+          "year": 2022,
+          "name": "国家级青年人才"
+        },
+        {
+          "year": 2023,
+          "name": "中国十大新锐科技人物"
+        },
+        {
+          "year": 2023,
+          "name": "四川省技术进步一等奖"
+        },
+        {
+          "year": 2023,
+          "name": "中国仪器仪表学会科技进步一等奖"
+        }
+      ]
+    },
+    "courses_teaching": [
+      {
+        "name": "传感万物：从微观到宇观",
+        "level": "本科生"
+      },
+      {
+        "name": "现代测试技术",
+        "level": "研究生"
+      },
+      {
+        "name": "创新实践课程(智能传感方向)",
+        "level": "研究生"
+      },
+      {
+        "name": "研究生论文写作指导",
+        "level": "研究生"
+      },
+      {
+        "name": "学科前沿知识讲座",
+        "level": "研究生"
+      }
+    ],
+    "admission_majors": {
+      "master_programs": [
+        "080400 仪器科学与技术",
+        "085400 电子信息",
+        "085407 仪器仪表工程"
+      ],
+      "doctoral_programs": [
+        "080400 仪器科学与技术",
+        "085400 电子信息"
+      ]
+    }
+  }
+}

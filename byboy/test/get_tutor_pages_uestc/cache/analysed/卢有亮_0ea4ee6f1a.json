@@ -1,0 +1,164 @@
+{
+  "meta": {
+    "tutor_name_cn": "卢有亮",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1161/4466.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1161/4466.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/ff4f4a2f9daadf39bb099a544bcc610acc01b0d5067797348c6ff3ad22ccbd36.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "professor_name": "卢有亮",
+    "source_url": "https://www.auto.uestc.edu.cn/info/1161/4466.htm",
+    "site_chrome": {
+      "breadcrumbs": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "L",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/L.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "side_navigation": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ],
+      "heading": "师资队伍"
+    },
+    "profile_picture": {
+      "url": "https://www.auto.uestc.edu.cn/__local/1/9E/50/F42292677F46C8D2358F155D640_8B82F40E_44E3B.jpg",
+      "description": null
+    },
+    "basic_info": {
+      "full_name": "卢有亮",
+      "highest_degree": "硕士",
+      "contact_phone": null,
+      "current_titles": "副教授",
+      "email": null,
+      "supervisor_status": "硕士导师",
+      "personal_homepage": null,
+      "research_team": null
+    },
+    "research_directions": [
+      "嵌入式系统及嵌入式操作系统",
+      "FPGA",
+      "控制及测量系统开发",
+      "电力系统监测",
+      "计算机软件系统开发"
+    ],
+    "academic_titles_and_part_time_positions": null,
+    "experience": [
+      {
+        "start_date": "1994.7",
+        "end_date": "1995.3",
+        "organization": "摩托罗拉（中国）电子有限公司",
+        "position": "助工"
+      },
+      {
+        "start_date": "1995.4",
+        "end_date": "1998.2",
+        "organization": "托普软件技术开发有限公司",
+        "position": "工程师"
+      },
+      {
+        "start_date": "1998.3",
+        "end_date": "2001.7",
+        "organization": "永好科技开发公司",
+        "position": "软件工程师"
+      },
+      {
+        "start_date": "2004.4",
+        "end_date": "2017.11",
+        "organization": "电子科技大学",
+        "position": "讲师、副教授"
+      },
+      {
+        "start_date": "2017.12",
+        "end_date": "至今",
+        "organization": "电子科技大学自动化工程学院",
+        "position": "讲师、副教授"
+      }
+    ],
+    "research_achievements": {
+      "summary_of_expertise": "擅长嵌入式系统及嵌入式操作系统、FPGA、控制及测量系统开发，电力系统监测、计算机软件系统开发等。",
+      "projects": {
+        "overall_description": "主研和参研多项科技项目，完成和正在进行科研项目多项。",
+        "hosted_projects_count": 5,
+        "participated_projects_count": "十余项"
+      },
+      "awards": [
+        {
+          "name": "四川省科学技术进步奖",
+          "project": "《变电站电磁干扰问题研究及基于三维矢量的高频瞬态磁场记录仪研制》"
+        }
+      ],
+      "publications": {
+        "general_description": "发表多篇教改和教学论文、教材和专著。",
+        "books": [
+          {
+            "type": "专著",
+            "count": "四本",
+            "representative_title": "《嵌入式实时操作系统μc/os原理与实践》"
+          },
+          {
+            "type": "参编",
+            "count": "多本",
+            "representative_title": null
+          }
+        ]
+      },
+      "other_research_notes": "对嵌入式系统和嵌入式操作系统有较深入研究。"
+    },
+    "teaching": {
+      "undergraduate_courses": [
+        "数字逻辑设计及应用",
+        "数字设计FPGA应用",
+        "STM32与嵌入式实时操作系统"
+      ],
+      "graduate_courses": null,
+      "teaching_positions": [
+        "学院本科教学质量监督小组成员"
+      ],
+      "teaching_research_and_reform": [
+        "参与《数字逻辑设计及应用》探究式小班课程",
+        "参与挑战性课程“数字逻辑设计及应用”建设",
+        "主持挑战性学习课程“数字设计FPGA应用”建设",
+        "参与教学方法与考核方法改革示范课“数字逻辑设计及应用”建设",
+        "参与《数字逻辑设计及应用》在线开放课",
+        "主持《嵌入式系统设计——基于STM32及μC/OS 》在线开放课程",
+        "主持《数字设计FPGA应用》在线开放课程",
+        "参加《FPGA 创新设计竞赛》竞赛类在线开放课程"
+      ]
+    },
+    "admission_majors": {
+      "master_programs": [
+        "081100控制科学与工程",
+        "085400电子信息"
+      ],
+      "doctoral_programs": null
+    }
+  }
+}

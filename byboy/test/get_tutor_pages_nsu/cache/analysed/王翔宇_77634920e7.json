@@ -1,0 +1,807 @@
+{
+  "meta": {
+    "tutor_name_cn": "王翔宇",
+    "request_url": "http://automation.seu.edu.cn/wxy/list.htm",
+    "declared_source_url": "http://automation.seu.edu.cn/wxy/list.htm",
+    "page_host": "automation.seu.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/004467d416485affbff704f4c3139e206291f56718efe3e886733cbf5d6792ba.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "name": "王翔宇",
+    "source_url": "http://automation.seu.edu.cn/wxy/list.htm",
+    "biographical_info": {
+      "native_place": "江苏丰县人",
+      "summary": "王翔宇，江苏丰县人，东南大学青年首席教授、博士生导师，未来技术学院副院长(挂职)，控制理论与控制工程专业，国家级青年人才，紫金山英才C类人才。担任自动化学院青年工作委员会主任、学术委员会委员，江苏省自动化学会秘书长，江苏省科学技术协会第十一届委员，是江苏省优秀青年基金获得者，江苏高校“青蓝工程”优秀青年骨干教师培养对象，东南大学“至善青年学者”支持计划A层次入选者，江苏省科协“青年科技人才托举工程”入选者。2009年6月本科毕业于东南大学数学系，2014年6月博士毕业于东南大学自动化学院(专业为控制理论与控制工程，导师为李世华教授)，随后留校任教。博士学位论文获“2015年度东南大学优秀博士学位论文”。曾访问香港大学、美国德克萨斯大学圣安东尼奥分校、韩国岭南大学、澳大利亚墨尔本皇家理工大学和西悉尼大学。目前主要的研究方向为非光滑控制、抗干扰控制及其在多智能体系统分布式协调控制、飞行器系统控制、电力电子系统控制中的应用等。先后主持国家自然科学基金项目3项(包括面上项目2项、青年基金项目1项)，作为合作单位负责人参与国家自然科学基金重点项目1项（排2），主持江苏省自然科学基金优秀青年基金、青年基金项目，航空科学基金项目等省部级项目多项，主持企业委托横向项目多项等。在国内外学术期刊和会议发表或录用论文100余篇，其中SCI论文70余篇，20余篇发表或录用在Automatica、IEEE Trans系列汇刊、《自动化学报》等权威期刊(包括一作Automatica和IEEE TAC长文3篇)。授权国内外发明专利23件，其中14件排1。以第二作者在科学出版社出版专著《滑模控制理论与应用研究》(2022)。在2023年IEEE第15届自抗扰控制研讨会(IEEE 13th Workshop on ADRC)和第八届控制工程与先进算法国际论坛(IWCEAA 2024)等会议和论坛做大会报告。"
+    },
+    "titles_and_positions": [
+      {
+        "title": "青年首席教授",
+        "institution": "东南大学"
+      },
+      {
+        "title": "博士生导师",
+        "institution": "东南大学"
+      },
+      {
+        "title": "副院长(挂职)",
+        "institution": "未来技术学院",
+        "start_date": "2026/03",
+        "end_date": "至今"
+      },
+      {
+        "title": "教授",
+        "institution": "东南大学自动化学院",
+        "start_date": "2023/04",
+        "end_date": "至今"
+      },
+      {
+        "title": "博导",
+        "institution": "东南大学自动化学院",
+        "start_date": "2023/04",
+        "end_date": "至今"
+      },
+      {
+        "title": "副教授",
+        "institution": "东南大学自动化学院",
+        "start_date": "2019/07",
+        "end_date": "2023/04"
+      },
+      {
+        "title": "博导",
+        "institution": "东南大学自动化学院",
+        "start_date": "2019/07",
+        "end_date": "2023/04"
+      },
+      {
+        "title": "副教授",
+        "institution": "东南大学自动化学院",
+        "start_date": "2017/04",
+        "end_date": "2019/07"
+      },
+      {
+        "title": "硕导",
+        "institution": "东南大学自动化学院",
+        "start_date": "2017/04",
+        "end_date": "2019/07"
+      },
+      {
+        "title": "讲师",
+        "institution": "东南大学自动化学院",
+        "start_date": "2014/06",
+        "end_date": "2017/04"
+      }
+    ],
+    "education": [
+      {
+        "start_date": "2009/09",
+        "end_date": "2014/06",
+        "degree": "工学博士(硕博连读)",
+        "major": "控制理论与控制工程",
+        "institution": "东南大学自动化学院",
+        "thesis_award": "2015年度东南大学优秀博士学位论文",
+        "supervisor": "李世华教授"
+      },
+      {
+        "start_date": "2005/08",
+        "end_date": "2009/06",
+        "degree": "理学学士",
+        "major": "应用数学",
+        "institution": "东南大学数学系(现为数学学院)"
+      }
+    ],
+    "visiting_experience": [
+      "香港大学",
+      "美国德克萨斯大学圣安东尼奥分校",
+      "韩国岭南大学",
+      "澳大利亚墨尔本皇家理工大学",
+      "西悉尼大学"
+    ],
+    "research_interests": [
+      "非光滑控制",
+      "抗干扰控制",
+      "约束控制及在电力电子、机电、机器人、飞行器等系统中的应用",
+      "多智能体系统、多机器人系统协调控制与优化"
+    ],
+    "academic_appointments": [
+      {
+        "role": "青年工作委员会主任",
+        "organization": "自动化学院"
+      },
+      {
+        "role": "学术委员会委员",
+        "organization": "自动化学院"
+      },
+      {
+        "role": "秘书长",
+        "organization": "江苏省自动化学会",
+        "notes": "5A级学会"
+      },
+      {
+        "role": "第十一届委员",
+        "organization": "江苏省科学技术协会"
+      },
+      {
+        "role": "副秘书长",
+        "organization": "江苏省智能制造学会联合体"
+      },
+      {
+        "role": "高级会员",
+        "organization": "IEEE"
+      },
+      {
+        "role": "高级会员",
+        "organization": "中国自动化学会"
+      },
+      {
+        "role": "机器人专委会委员",
+        "organization": "中国自动化学会"
+      },
+      {
+        "role": "控制理论专业委员会(TCCT)非连续控制、多自主体控制、抗干扰控制及应用专题研讨会程序委员会委员",
+        "organization": "中国自动化学会"
+      },
+      {
+        "role": "高级会员",
+        "organization": "中国指挥与控制学会"
+      },
+      {
+        "role": "具身智能专委会常务委员",
+        "organization": "中国指挥与控制学会"
+      },
+      {
+        "role": "空天防务体系工程专委会委员",
+        "organization": "中国指挥与控制学会"
+      },
+      {
+        "role": "自抗扰控制专委会委员",
+        "organization": "中国指挥与控制学会"
+      },
+      {
+        "role": "智能控制与系统专委会委员",
+        "organization": "中国指挥与控制学会"
+      },
+      {
+        "role": "副编辑(Associate Editor)",
+        "organization": "国际SCI期刊IET Control Theory and Applications"
+      },
+      {
+        "role": "副编辑(Associate Editor)",
+        "organization": "国际SCI期刊International Journal of Micro Air Vehicles"
+      },
+      {
+        "role": "副编辑(Associate Editor)",
+        "organization": "国际期刊Advanced Mechatronics"
+      },
+      {
+        "role": "审稿人",
+        "organization": "二十余个SCI期刊"
+      },
+      {
+        "role": "组委会主席",
+        "organization": "自抗扰控制旗舰会议2019年IEEE第13届自抗扰控制研讨会(IEEE 13th Workshop on ADRC)"
+      },
+      {
+        "role": "程序委员会主席",
+        "organization": "模型预测控制旗舰会议2025年第八届IEEE电力电子与电驱系统预测控制国际会议(PRECEDE 2025)"
+      },
+      {
+        "role": "程序委员会主席",
+        "organization": "2024年、2025年先进机器人、控制与人工智能国际会议(ARCAI 2024、ARCAI 2025)"
+      },
+      {
+        "role": "共同出版主席",
+        "organization": "工业电子旗舰会议第43届IEEE工业电子学会学术年会(IECON 2017)"
+      },
+      {
+        "role": "出版主席",
+        "organization": "变结构控制旗舰会议第14届国际变结构系统会议(VSS 2016)"
+      },
+      {
+        "role": "出版主席",
+        "organization": "第七届电子工程与信息学国际学术会议(EEI 2025)"
+      },
+      {
+        "role": "公共事务主席",
+        "organization": "2024年第四届控制理论与应用国际会议(ICoCTA 2024)"
+      },
+      {
+        "role": "编委",
+        "organization": "第41届、43届、44届中国控制会议(CCC 2022、CCC 2024、CCC 2025)"
+      },
+      {
+        "role": "程序委员会主席",
+        "organization": "2022、2023、2024、2025年江苏省自动化学术年会(JACA 2022、JACA 2023、JACA 2024、JACA 2025)"
+      },
+      {
+        "role": "邀请组主席",
+        "organization": "第6届国际自主系统大会(ISAS 2023)"
+      },
+      {
+        "role": "财务主席",
+        "organization": "第9届IEEJ感知、驱动、运动控制与优化国际会议(SAMCON 2023)"
+      },
+      {
+        "role": "出版主席",
+        "organization": "2017年中国自动化学会华东六省一市学术年会"
+      },
+      {
+        "role": "出版主席",
+        "organization": "2018年、2019年、2020年江苏省自动化学术年会(JACA)"
+      },
+      {
+        "role": "副主任",
+        "organization": "第15届、16届江苏省大学生机器人大赛",
+        "year": "2024、2025"
+      }
+    ],
+    "awards_and_honors": [
+      {
+        "name": "江苏省研究生智能感知与自主控制学术创新论坛最佳论文一等奖",
+        "year": 2025,
+        "notes": "通信作者"
+      },
+      {
+        "name": "江苏省自动化学术年会优秀论文",
+        "year": 2025,
+        "notes": "通信作者"
+      },
+      {
+        "name": "江苏省装备制造领域十大科技进展",
+        "year": 2025
+      },
+      {
+        "name": "ARCAI 2024国际会议最佳论文奖",
+        "year": 2024,
+        "notes": "通信作者"
+      },
+      {
+        "name": "国家级青年人才",
+        "year": 2024
+      },
+      {
+        "name": "东南大学青年五四奖章",
+        "year": 2023
+      },
+      {
+        "name": "东南大学“科远至善人才基金”",
+        "year": 2023
+      },
+      {
+        "name": "斯坦福全球前2%科学家榜单",
+        "year": "2023、2024、2025"
+      },
+      {
+        "name": "教育部自然科学奖一等奖",
+        "year": 2022
+      },
+      {
+        "name": "日内瓦国际发明展金奖",
+        "year": 2022
+      },
+      {
+        "name": "华为公司“火花奖”",
+        "year": 2023
+      },
+      {
+        "name": "东南大学“吾爱吾师-院系最受欢迎老师”",
+        "year": 2023
+      },
+      {
+        "name": "江苏省自然科学百篇优秀学术成果论文",
+        "year": 2023,
+        "notes": "1篇论文入选"
+      },
+      {
+        "name": "江苏省自动化学术年会最佳论文奖",
+        "year": 2023,
+        "notes": "通信作者"
+      },
+      {
+        "name": "东南大学“华为奖教金”",
+        "year": 2022
+      },
+      {
+        "name": "江苏省优秀青年基金",
+        "year": 2019
+      },
+      {
+        "name": "江苏高校“青蓝工程”优秀青年骨干教师",
+        "year": 2019
+      },
+      {
+        "name": "东南大学“至善青年学者”A层次",
+        "year": 2018
+      },
+      {
+        "name": "江苏省科协“青年科技人才托举工程”",
+        "year": 2018
+      },
+      {
+        "name": "山东省高等学校科学技术奖一等奖",
+        "year": 2018
+      },
+      {
+        "name": "教育部自然科学奖二等奖",
+        "year": 2014
+      },
+      {
+        "name": "南京市第十二届自然科学优秀学术论文奖",
+        "year": 2018
+      },
+      {
+        "name": "东南大学优秀博士学位论文",
+        "year": 2015,
+        "notes": "导师：李世华教授"
+      },
+      {
+        "name": "江苏省优秀硕士学位论文",
+        "year": "2020、2018",
+        "notes": "指导教师"
+      },
+      {
+        "name": "东南大学校级优秀本科生毕业设计",
+        "year": 2019,
+        "notes": "指导教师"
+      },
+      {
+        "name": "东南大学第24届青年教师授课竞赛",
+        "year": 2017,
+        "notes": "三等奖"
+      },
+      {
+        "name": "东南大学校级示范课",
+        "year": 2021
+      },
+      {
+        "name": "国内外学术会议最佳论文奖",
+        "count": 3
+      },
+      {
+        "name": "国内外学术会议优秀论文奖",
+        "count": 2
+      }
+    ],
+    "courses_taught": [
+      {
+        "level": "本科生",
+        "name": "《多机器人系统建模与分析》"
+      },
+      {
+        "level": "本科生",
+        "name": "《概率论与数理统计》"
+      },
+      {
+        "level": "研究生",
+        "name": "《非线性控制系统》"
+      }
+    ],
+    "student_recruitment": {
+      "welcome_backgrounds": [
+        "自动化",
+        "机器人工程",
+        "电气工程",
+        "应用数学"
+      ],
+      "doctoral_positions_per_year": 2,
+      "master_positions_per_year": "4-6 (含南京、无锡和苏州校区)",
+      "lab_info": {
+        "name": "机电系统控制实验室",
+        "homepage_link": {
+          "url": "http://seumscl.com/news_Detail.asp?id=214",
+          "anchor_text": "点击进入实验室主页"
+        }
+      }
+    },
+    "projects": [
+      {
+        "name": "国家级青年人才项目",
+        "start_year": 2024,
+        "end_year": 2027,
+        "role": "主持",
+        "type": "国家级"
+      },
+      {
+        "name": "国家自然科学基金重点项目",
+        "start_year": 2026,
+        "end_year": 2030,
+        "role": "合作单位负责",
+        "rank": 2,
+        "type": "国家级"
+      },
+      {
+        "name": "太湖创新基金项目",
+        "start_year": 2025,
+        "end_year": 2026,
+        "role": "主持",
+        "type": "地方基金"
+      },
+      {
+        "name": "国家自然科学基金面上项目",
+        "start_year": 2024,
+        "end_year": 2027,
+        "role": "主持",
+        "type": "国家级"
+      },
+      {
+        "name": "国家自然科学基金面上项目",
+        "start_year": 2019,
+        "end_year": 2022,
+        "role": "主持",
+        "type": "国家级"
+      },
+      {
+        "name": "江苏省自然科学基金优秀青年基金项目",
+        "start_year": 2019,
+        "end_year": 2022,
+        "role": "主持",
+        "type": "省部级"
+      },
+      {
+        "name": "无人车智能控制算法研究",
+        "year": 2025,
+        "role": "主持",
+        "type": "企业委托横向项目"
+      },
+      {
+        "name": "飞控软件",
+        "start_year": 2025,
+        "end_year": 2026,
+        "role": "主持",
+        "type": "企业委托横向项目"
+      },
+      {
+        "name": "国网上海市电力公司科技项目",
+        "start_year": 2025,
+        "end_year": 2026,
+        "role": "主持",
+        "type": "企业委托横向项目"
+      },
+      {
+        "name": "中国电力科学研究院",
+        "start_year": 2023,
+        "end_year": 2024,
+        "role": "主持",
+        "type": "企业委托横向项目"
+      },
+      {
+        "name": "中国电力科学研究院",
+        "start_year": 2021,
+        "end_year": 2022,
+        "role": "主持",
+        "type": "企业委托横向项目"
+      },
+      {
+        "name": "航空科学基金项目",
+        "start_year": 2017,
+        "end_year": 2019,
+        "role": "主持",
+        "type": "省部级"
+      },
+      {
+        "name": "东南大学“至善青年学者”支持计划(A层次)",
+        "start_year": 2018,
+        "end_year": 2021,
+        "role": "主持",
+        "type": "校级"
+      },
+      {
+        "name": "江苏省科协“青年科技人才托举工程”",
+        "start_year": 2018,
+        "end_year": 2020,
+        "role": "主持",
+        "type": "省部级"
+      },
+      {
+        "name": "国家自然科学基金青年基金项目",
+        "start_year": 2016,
+        "end_year": 2018,
+        "role": "主持",
+        "type": "国家级"
+      },
+      {
+        "name": "江苏省自然科学基金青年基金项目",
+        "start_year": 2016,
+        "end_year": 2018,
+        "role": "主持",
+        "type": "省部级"
+      }
+    ],
+    "publications": {
+      "papers": [
+        {
+          "id": "J1",
+          "authors": "Xiangyu Wang, Ji Wang, Yang-Yang Chen, Yuhao Ma, Shihua Li*",
+          "title": "Hierarchical consensus of constrained second-order multiagent systems with application to formation of multiple mobile robots",
+          "journal": "IEEE Transactions on Automatic Control",
+          "year": 2026,
+          "volume": "71",
+          "issue": "2",
+          "pages": "886-901",
+          "notes": "Full Paper, 长文"
+        },
+        {
+          "id": "J2",
+          "authors": "Xiangyu Wang, Yujing Xu, Yue Cao, Shihua Li*",
+          "title": "A hierarchical design framework for distributed control of multi-agent systems",
+          "journal": "Automatica",
+          "year": 2024,
+          "volume": "160",
+          "article_number": "111402",
+          "pages": "1-18",
+          "notes": "Regular Paper, 长文"
+        },
+        {
+          "id": "J3",
+          "authors": "Xiangyu Wang, Guodong Wang, Shihua Li*",
+          "title": "Distributed finite-time optimization for integrator chain multiagent systems with disturbances",
+          "journal": "IEEE Transactions on Automatic Control",
+          "year": 2020,
+          "volume": "65",
+          "issue": "12",
+          "pages": "5296-5311",
+          "notes": "Full Paper, 长文"
+        },
+        {
+          "id": "J4",
+          "authors": "Xiangyu Wang, Guodong Wang, Shihua Li*",
+          "title": "A distributed fixed-time optimization algorithm for multi-agent systems",
+          "journal": "Automatica",
+          "year": 2020,
+          "volume": "122",
+          "article_number": "109289",
+          "pages": "1-10"
+        },
+        {
+          "id": "J5",
+          "authors": "Xiangyu Wang, Shihua Li*, Xinghuo Yu, Jun Yang",
+          "title": "Distributed active anti-disturbance consensus for leader-follower higher-order multi-agent systems with mismatched disturbances",
+          "journal": "IEEE Transactions on Automatic Control",
+          "year": 2017,
+          "volume": "62",
+          "issue": "11",
+          "pages": "5795-5801"
+        },
+        {
+          "id": "J6",
+          "authors": "Xiangyu Wang, Shihua Li*, James Lam",
+          "title": "Distributed active anti-disturbance output consensus algorithms for higher-order multi-agent systems with mismatched disturbances",
+          "journal": "Automatica",
+          "year": 2016,
+          "volume": "74",
+          "pages": "30-37"
+        },
+        {
+          "id": "J7",
+          "authors": "Xiangyu Wang, Weiming Liu, Quanwei Wu, Shihua Li*",
+          "title": "A modular optimal formation control scheme of multiagent systems with application to multiple mobile robots",
+          "journal": "IEEE Transactions on Industrial Electronics",
+          "year": 2022,
+          "volume": "69",
+          "issue": "9",
+          "pages": "9331-9341"
+        },
+        {
+          "id": "J8",
+          "authors": "Xiangyu Wang, Guodong Wang, Shihua Li*",
+          "title": "Distributed finite-time optimization for disturbed second-order multiagent systems",
+          "journal": "IEEE Transactions on Cybernetics",
+          "year": 2021,
+          "volume": "51",
+          "issue": "9",
+          "pages": "4634-4647"
+        },
+        {
+          "id": "J9",
+          "authors": "Xiangyu Wang, Shihua Li*, Michael Z. Q. Chen",
+          "title": "Composite backstepping consensus algorithms of leader-follower higher-order nonlinear multiagent systems subject to mismatched disturbances",
+          "journal": "IEEE Transactions on Cybernetics",
+          "year": 2018,
+          "volume": "48",
+          "issue": "6",
+          "pages": "1935-1946"
+        },
+        {
+          "id": "J10",
+          "authors": "Xiangyu Wang, Wei Xing Zheng*, Guodong Wang",
+          "title": "Distributed finite-time optimization of second-order multiagent systems with unknown velocities and disturbances",
+          "journal": "IEEE Transactions on Neural Networks and Learning Systems",
+          "year": 2023,
+          "volume": "34",
+          "issue": "9",
+          "pages": "6042-6054"
+        },
+        {
+          "id": "J11",
+          "authors": "Xiangyu Wang, Shihua Li*, Guodong Wang",
+          "title": "Distributed optimization for disturbed second-order multiagent systems based on active antidisturbance control",
+          "journal": "IEEE Transactions on Neural Networks and Learning Systems",
+          "year": 2020,
+          "volume": "31",
+          "issue": "6",
+          "pages": "2104-2117"
+        },
+        {
+          "id": "J12",
+          "authors": "Xiangyu Wang, Shihua Li*, Peng Shi",
+          "title": "Distributed finite-time containment control for double-integrator multiagent systems",
+          "journal": "IEEE Transactions on Cybernetics",
+          "year": 2014,
+          "volume": "44",
+          "issue": "9",
+          "pages": "1518-1528"
+        },
+        {
+          "id": "J13",
+          "authors": "Weiming Liu, Xiangyu Wang*, Shihua Li",
+          "title": "Formation control for leader-follower wheeled mobile robots based on embedded control technique",
+          "journal": "IEEE Transactions on Control Systems Technology",
+          "year": 2023,
+          "volume": "31",
+          "issue": "1",
+          "pages": "265-280"
+        },
+        {
+          "id": "J14",
+          "authors": "Guodong Wang, Xiangyu Wang*, Shihua Li",
+          "title": "A guidance module based formation control scheme for multi-mobile robot systems with collision avoidance",
+          "journal": "IEEE Transactions on Automation Science and Engineering",
+          "year": 2024,
+          "volume": "21",
+          "issue": "1",
+          "pages": "382-393"
+        },
+        {
+          "id": "J15",
+          "authors": "Guipu Li, Xiangyu Wang*, Shihua Li",
+          "title": "Finite-time output consensus of higher-order multiagent systems with mismatched disturbances and unknown state elements",
+          "journal": "IEEE Transactions on Systems, Man, and Cybernetics: Systems",
+          "year": 2019,
+          "volume": "49",
+          "issue": "12",
+          "pages": "2571-2581"
+        },
+        {
+          "id": "J16",
+          "authors": "Guipu Li, Xiangyu Wang*, Shihua Li",
+          "title": "Finite-time distributed approximate optimization algorithms of higher-order multiagent systems via penalty-function based method",
+          "journal": "IEEE Transactions on Systems, Man, and Cybernetics: Systems",
+          "year": 2022,
+          "volume": "52",
+          "issue": "10",
+          "pages": "6174-6182"
+        },
+        {
+          "id": "J17",
+          "authors": "Guodong Wang, Xiangyu Wang*, Shihua Li",
+          "title": "Node task expansion based finite-time formation-containment control for ground-air collaboration systems",
+          "journal": "IEEE Transactions on Network Science and Engineering",
+          "year": 2024,
+          "volume": "11",
+          "issue": "4",
+          "pages": "3346-3357"
+        },
+        {
+          "id": "J18",
+          "authors": "Saijin Huang, Xiangyu Wang*, Guanjun Li, Xinming Wang, Shihua Li, Qi Li",
+          "title": "Composite current-constrained control of stand-alone three-phase inverters under multiple load conditions",
+          "journal": "IEEE Transactions on Power Electronics",
+          "year": 2024,
+          "volume": "39",
+          "issue": "7",
+          "pages": "7876-7889"
+        },
+        {
+          "id": "J19",
+          "authors": "Saijin Huang, Tianliang Guo, Xiangyu Wang*, Shihua Li, Qi Li",
+          "title": "An output voltage tracking control method with overcurrent protection property for disturbed DC-DC boost converters",
+          "journal": "IEEE Transactions on Circuits and Systems I: Regular Papers",
+          "year": 2024,
+          "volume": "71",
+          "issue": "4",
+          "pages": "1889-1900"
+        },
+        {
+          "id": "J20",
+          "authors": "Saijin Huang, Zhiyi Chen, Xiangyu Wang*, Shihua Li, Xinghuo Yu, Qi Li",
+          "title": "Performance-guaranteed finite-time secondary control for islanded AC microgrids with time-varying disturbances",
+          "journal": "IEEE Transactions on Smart Grid",
+          "year": 2025,
+          "volume": "16",
+          "issue": "2",
+          "pages": "916-928"
+        },
+        {
+          "id": "J21",
+          "authors": "Quanwei Wu, Guodong Wang, Xiangyu Wang*",
+          "title": "A formation strategy relying on monotrajectory planning for velocity-constrained wheeled mobile robots with application to cooperative transportation",
+          "journal": "IEEE Transactions on Control Systems Technology",
+          "year": 2025,
+          "volume": "33",
+          "issue": "6",
+          "pages": "2080-2091"
+        },
+        {
+          "id": "J22",
+          "authors": "Guodong Wang, Xiangyu Wang*, Shihua Li",
+          "title": "A hierarchical nested constraint scheme for finite-time formation tracking control of disturbed second-order multiagent systems",
+          "journal": "IEEE Transactions on Industrial Informatics",
+          "year": 2026,
+          "volume": "22",
+          "issue": "1",
+          "pages": "452-462"
+        },
+        {
+          "id": "J23",
+          "authors": "武权伟, 王翔宇*, 刘金浩",
+          "title": "螺旋桨转速受限多四旋翼无人机的编队运输分层控制方案",
+          "journal": "自动化学报",
+          "year": 2026,
+          "volume": "52",
+          "issue": "2",
+          "pages": "322-334"
+        },
+        {
+          "id": "J24",
+          "authors": "Weiming Liu, Guodong Wang, Xiangyu Wang*",
+          "title": "Modular formation control for multi-mobile robots with collision avoidance and communication maintenance",
+          "journal": "IEEE Transactions on Automation Science and Engineering",
+          "year": 2026,
+          "volume": "23",
+          "pages": "4477-4487"
+        }
+      ],
+      "books": [
+        {
+          "authors": "李世华，王翔宇，丁世宏，都海波，杨俊，余星火",
+          "title": "滑模控制理论与应用研究",
+          "publisher": "科学出版社",
+          "year": 2022,
+          "author_rank": 2
+        }
+      ],
+      "conference_presentations": [
+        {
+          "title": "大会报告",
+          "conference": "2023年IEEE第15届自抗扰控制研讨会(IEEE 13th Workshop on ADRC)",
+          "year": 2023,
+          "type": "Keynote Speech"
+        },
+        {
+          "title": "大会报告",
+          "conference": "第八届控制工程与先进算法国际论坛(IWCEAA 2024)",
+          "year": 2024,
+          "type": "Keynote Speech"
+        },
+        {
+          "title": "大会报告",
+          "conference": "2024年第八届控制工程与先进算法国际论坛(IWCEAA 2024)",
+          "year": 2024,
+          "type": "Keynote Report"
+        },
+        {
+          "title": "大会报告",
+          "conference": "2024年第四届近海风能波浪能国际学术创新论坛(IFOSWWE 2024)",
+          "year": 2024,
+          "type": "Keynote Report"
+        },
+        {
+          "title": "大会主旨报告",
+          "conference": "2023年IEEE第15届自抗扰控制研讨会(IEEE 15th Workshop on ADRC)",
+          "year": 2023,
+          "type": "Keynote Speech"
+        }
+      ]
+    },
+    "patents": [
+      {
+        "id": "P1",
+        "title": "一种多用途轮式移动机器人轨迹跟踪控制方法",
+        "patent_number": "ZL20..."
+      }
+    ]
+  }
+}

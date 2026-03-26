@@ -1,0 +1,694 @@
+{
+  "clickable_links": [
+    {
+      "url": "https://automation.seu.edu.cn/sjy2/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "学院内部列表页，URL含list.htm。",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://scholar.google.com/citations?user=tTfMHMoAAAAJ&hl=en",
+      "anchor_text": "谷歌学术",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部谷歌学术链接，非本站导师主页。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://ukrobotics.libsyn.com/episode-fourteen-aerial-robotics-taking-flight",
+      "anchor_text": "UK-RAS 专访",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部采访链接，与导师无关。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_upload/article/images/e1/7c/f0f4d44046eabac2835d88275b44/00bc7250-81a1-4966-bfb2-928693a8c909.png",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "直接图片链接，非导师页面。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://space.bilibili.com/3493275119913217",
+      "anchor_text": "**https://space.bilibili.com/3493275119913217**",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部B站个人主页，非导师页面。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6",
+      "anchor_text": "全球前2%顶尖科学家榜单（斯坦福大学)",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/lsh/list.htm",
+      "anchor_text": "李世华",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_upload/article/images/e1/7c/f0f4d44046eabac2835d88275b44/9a4db1c8-f8a1-41d0-911c-30deae779677.jpg",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_upload/article/images/e1/7c/f0f4d44046eabac2835d88275b44/b98b3a3e-b8e5-43c0-bcf7-0d67798eccfe.jpg",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://www.seumscl.com/",
+      "anchor_text": "http://www.seumscl.com/",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://bilibili.com/video/BV1WCNdzFEbR/#reply114710355772850",
+      "anchor_text": "IROS2025",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1bKHvzQEjm/?vd_source=56c782e6971c4dbea494a8321ae99422#reply115186644094389",
+      "anchor_text": "CEP2025",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://pred-mppi.github.io/",
+      "anchor_text": "ICRA2026",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1YGNbzvECU/?spm_id_from=333.1387.homepage.video_card.click&vd_source=56c782e6971c4dbea494a8321ae99422",
+      "anchor_text": "IROS2025",
+      "scope": "external",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://ieeexplore.ieee.org/abstract/document/10974487",
+      "anchor_text": "IEEE Sensors Journal(2025)",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV135MszbEsq/?spm_id_from=333.1387.homepage.video_card.click",
+      "anchor_text": "ICAC2025",
+      "scope": "external",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1gvMczoELf/?spm_id_from=333.1387.homepage.video_card.click",
+      "anchor_text": "ICUS2025",
+      "scope": "external",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://jksda.github.io/LiSA-Nav/",
+      "anchor_text": "LiSA-Nav",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://op-follower.github.io/",
+      "anchor_text": "OP-Follower",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://iai.neu.edu.cn/",
+      "anchor_text": "IAI2024",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_upload/article/images/e1/7c/f0f4d44046eabac2835d88275b44/6700667d-d73b-4ba7-bcc3-ef4079737441.png",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://antonilo.github.io/physical_intelligence_fl25/",
+      "anchor_text": "Physical Intelligence",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1XZ4y1g7MG",
+      "anchor_text": "系统辨识",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1KL4y1e7F7",
+      "anchor_text": "识别、估计和学习",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.syscop.de/teaching/ws2024/modelling-and-system-identification",
+      "anchor_text": "Modelling and System Identification",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://stanfordasl.github.io/PoRA-I/aa274a_aut2223/",
+      "anchor_text": "Principles of Robot Autonomy",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://academic.csuohio.edu/simon-daniel/state-estimation/",
+      "anchor_text": "Dan Simon, Optimal State Estimation, Kalman, H\\_\\\\infinity and Nonlinear Approaches",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://stanfordasl.github.io//aa203/sp2223/",
+      "anchor_text": "Optimal and Learning-based Control",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_ueditor/themes/default/images/icon_pdf.gif",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "medium",
+      "category_reason": "文件下载链接",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_upload/article/files/e1/7c/f0f4d44046eabac2835d88275b44/18bc5da3-7f7c-4041-abea-8e06b1fff69c.pdf",
+      "anchor_text": "What makes a good PhD student.pdf",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "medium",
+      "category_reason": "文件下载链接",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_upload/article/files/e1/7c/f0f4d44046eabac2835d88275b44/13a46a95-0e5f-4a01-a6c9-f72231854cfe.pdf",
+      "anchor_text": "HowtoBeaSuccessfulPhDStudent.1\\_2.pdf",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "medium",
+      "category_reason": "文件下载链接",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_upload/article/images/e1/7c/f0f4d44046eabac2835d88275b44/7e2951f8-2313-4eab-ab04-2283ee2dfbec.jpg",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://ais.informatik.uni-freiburg.de/teaching/ws11/robotics2/pdfs/rob2-23-how-to-write-a-paper.pdf",
+      "anchor_text": "How to Write a Paper?",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "medium",
+      "category_reason": "文件下载链接",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.overleaf.com/",
+      "anchor_text": "Overleaf",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.zhihu.com/tardis/zm/art/519416871?source_id=1003",
+      "anchor_text": "寒窑赋",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://zhuanlan.zhihu.com/p/343935885",
+      "anchor_text": "25首经典“哲理”诗词",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://baike.baidu.com/item/%E5%8A%9D%E5%AD%A6/1055",
+      "anchor_text": "《劝学》",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_visitcount?siteId=338&type=2&columnId=45010",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://scholar.google.com/citations?user=tTfMHMoAAAAJ&hl=en",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://ukrobotics.libsyn.com/episode-fourteen-aerial-robotics-taking-flight",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://space.bilibili.com/3493275119913217**",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://space.bilibili.com/3493275119913217",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/lsh/list.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://www.seumscl.com/",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://bilibili.com/video/BV1WCNdzFEbR/#reply114710355772850",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1bKHvzQEjm/?vd_source=56c782e6971c4dbea494a8321ae99422#reply115186644094389",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://pred-mppi.github.io/",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1YGNbzvECU/?spm_id_from=333.1387.homepage.video_card.click&vd_source=56c782e6971c4dbea494a8321ae99422",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "命中个人主页关键词",
+      "guessed_target_content": "教师/导师个人信息页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://ieeexplore.ieee.org/abstract/document/10974487",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "low",
+      "category_reason": "关键词信号较弱",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV135MszbEsq/?spm_id_from=333.1387.homepage.video_card.click",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "B站视频链接，非教师个人主页。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1gvMczoELf/?spm_id_from=333.1387.homepage.video_card.click",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "B站视频链接，非教师个人主页。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://jksda.github.io/LiSA-Nav/",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "GitHub个人项目页，非教师主页或名录。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://op-follower.github.io/",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "GitHub个人项目页，非教师主页或名录。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://iai.neu.edu.cn/",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "其他大学或单位网站，非本任务范围。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://antonilo.github.io/physical_intelligence_fl25/",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "GitHub个人项目页，非教师主页或名录。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1XZ4y1g7MG",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "B站视频链接，非教师个人主页。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1KL4y1e7F7",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "B站视频链接，非教师个人主页。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.syscop.de/teaching/ws2024/modelling-and-system-identification",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "其他大学课程页面，非本任务范围。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://stanfordasl.github.io/PoRA-I/aa274a_aut2223/",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "其他大学项目/课程页面，非本任务范围。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://academic.csuohio.edu/simon-daniel/state-estimation/",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "其他大学教师个人页，非本任务范围。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://stanfordasl.github.io//aa203/sp2223/",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "其他大学项目/课程页面，非本任务范围。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_upload/article/files/e1/7c/f0f4d44046eabac2835d88275b44/18bc5da3-7f7c-4041-abea-8e06b1fff69c.pdf",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "medium",
+      "category_reason": "PDF文件，非教师个人主页或名录。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://automation.seu.edu.cn/_upload/article/files/e1/7c/f0f4d44046eabac2835d88275b44/13a46a95-0e5f-4a01-a6c9-f72231854cfe.pdf",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "medium",
+      "category_reason": "PDF文件，非教师个人主页或名录。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://ais.informatik.uni-freiburg.de/teaching/ws11/robotics2/pdfs/rob2-23-how-to-write-a-paper.pdf",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "其他大学教学PDF，非本任务范围。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.overleaf.com/",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "在线工具网站，非教师相关页面。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://www.zhihu.com/tardis/zm/art/519416871?source_id=1003",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "知乎内容链接，非教师相关页面。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://zhuanlan.zhihu.com/p/343935885",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "知乎内容链接，非教师相关页面。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "https://baike.baidu.com/item/%E5%8A%9D%E5%AD%A6/1055",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "百度百科词条，非教师相关页面。",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    }
+  ]
+}

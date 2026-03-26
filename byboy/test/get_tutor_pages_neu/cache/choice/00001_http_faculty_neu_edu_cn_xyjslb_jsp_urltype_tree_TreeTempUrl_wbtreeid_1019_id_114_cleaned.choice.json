@@ -1,0 +1,344 @@
+{
+  "clickable_links": [
+    {
+      "url": "http://faculty.neu.edu.cn/index.jsp",
+      "anchor_text": "首页",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "网站首页，可能包含导航至师资列表",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/jcrc.jsp?urltype=tree.TreeTempUrl&wbtreeid=1014",
+      "anchor_text": "高层次人才",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "“高层次人才”列表页，直接提供导师信息",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/xylb.jsp?urltype=tree.TreeTempUrl&wbtreeid=1015",
+      "anchor_text": "单位列表",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "导航至各单位（学院）列表，间接相关",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/xklb.jsp?urltype=tree.TreeTempUrl&wbtreeid=1016",
+      "anchor_text": "学科列表",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "导航至各学科列表，间接相关",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/jscx.jsp?urltype=tree.TreeTempUrl&wbtreeid=1017",
+      "anchor_text": "教师查询",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "“教师查询”功能入口，用于查找多位教师",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/gyzy.jsp?urltype=tree.TreeTempUrl&wbtreeid=1018",
+      "anchor_text": "关于主页",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "low",
+      "category_reason": "“关于主页”是网站介绍，与教师信息无关",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/www.ywzhmh.com",
+      "anchor_text": "En",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "low",
+      "category_reason": "疑似外部链接或语言切换，与教师无关",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/images/banner_index01.jpg",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "图片链接，非网页内容",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/_resources/group1/M00/00/06/0h7IhGE-p2yAasetAAMlrPvsFa8711.png",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "图片链接，非网页内容",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/chenjie/zh_CN/index.htm",
+      "anchor_text": "陈杰",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL包含教师姓名“chenjie”，锚文本为“陈杰”，指向个人主页",
+      "guessed_target_content": "教师/导师个人信息页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/_resources/group1/M00/00/41/0h7IhGnCbpiAMTQsAAHtkR0zPKY584.png",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "图片链接，非网页内容",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/SHHZHOU/zh_CN/index.htm",
+      "anchor_text": "周生浩",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL包含教师姓名“SHHZHOU”，锚文本为“周生浩”，指向个人主页",
+      "guessed_target_content": "教师/导师个人信息页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/_resources/group1/M00/00/3C/0h7IhGmD_W-ADJLbAAF34io-t_E377.png",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "图片链接，非网页内容",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/zhanghz0/zh_CN/index.htm",
+      "anchor_text": "张红状",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL包含教师姓名“zhanghz0”，锚文本为“张红状”，指向个人主页",
+      "guessed_target_content": "教师/导师个人信息页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/_resources/group1/M00/00/05/0h7Ig2E7DbCAEK0MAAJ-x3YvidY988.png",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "图片链接，非网页内容",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/yaoguo/zh_CN/index.htm",
+      "anchor_text": "姚国",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL包含教师姓名“yaoguo”，锚文本为“姚国”，指向个人主页",
+      "guessed_target_content": "教师/导师个人信息页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/_resources/group1/M00/00/1E/0h7Ig2QbEe-AD1r6AANJtCexTvs971.png",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "图片链接，非网页内容",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/zhaobingfeng/zh_CN/index.htm",
+      "anchor_text": "赵丙峰",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL包含教师姓名“zhaobingfeng”，锚文本为“赵丙峰”，指向个人主页",
+      "guessed_target_content": "教师/导师个人信息页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/_resources/group1/M00/00/1B/0h7IhGMC9bOAOy8pAAG7HDa1iAw101.png",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "图片链接，非网页内容",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/liangzc/zh_CN/index.htm",
+      "anchor_text": "梁忠超",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL包含教师姓名“liangzc”，锚文本为“梁忠超”，指向个人主页",
+      "guessed_target_content": "教师/导师个人信息页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/xyjslb.jsp?urltype=tree.TreeTempUrl&wbtreeid=1019&id=1146",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL路径包含“xyjslb.jsp”，与task_root_url一致，是教师列表页",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/index.jsp",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "网站首页，可能包含导航至师资列表",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/jcrc.jsp?urltype=tree.TreeTempUrl&wbtreeid=1014",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "“高层次人才”列表页，直接提供导师信息",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/xylb.jsp?urltype=tree.TreeTempUrl&wbtreeid=1015",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "导航至各单位（学院）列表，间接相关",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/xklb.jsp?urltype=tree.TreeTempUrl&wbtreeid=1016",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "medium",
+      "category_reason": "导航至各学科列表，间接相关",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/jscx.jsp?urltype=tree.TreeTempUrl&wbtreeid=1017",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "“教师查询”功能入口，用于查找多位教师",
+      "guessed_target_content": "可能包含更多导师信息的页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/gyzy.jsp?urltype=tree.TreeTempUrl&wbtreeid=1018",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "low",
+      "category_reason": "“关于主页”是网站介绍，与教师信息无关",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/www.ywzhmh.com",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "irrelevant",
+      "category_confidence": "low",
+      "category_reason": "疑似外部链接或语言切换，与教师无关",
+      "guessed_target_content": "无关网页或低相关页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/chenjie/zh_CN/index.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL包含教师姓名“chenjie”，指向个人主页",
+      "guessed_target_content": "教师/导师个人信息页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/SHHZHOU/zh_CN/index.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL包含教师姓名“SHHZHOU”，指向个人主页",
+      "guessed_target_content": "教师/导师个人信息页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/zhanghz0/zh_CN/index.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL包含教师姓名“zhanghz0”，指向个人主页",
+      "guessed_target_content": "教师/导师个人信息页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/yaoguo/zh_CN/index.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL包含教师姓名“yaoguo”，指向个人主页",
+      "guessed_target_content": "教师/导师个人信息页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/zhaobingfeng/zh_CN/index.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL包含教师姓名“zhaobingfeng”，指向个人主页",
+      "guessed_target_content": "教师/导师个人信息页面",
+      "listing_pagination_next": "0"
+    },
+    {
+      "url": "http://faculty.neu.edu.cn/liangzc/zh_CN/index.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL包含教师姓名“liangzc”，指向个人主页",
+      "guessed_target_content": "教师/导师个人信息页面",
+      "listing_pagination_next": "0"
+    }
+  ]
+}

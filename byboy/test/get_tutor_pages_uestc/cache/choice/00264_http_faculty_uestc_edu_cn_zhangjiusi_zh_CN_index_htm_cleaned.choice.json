@@ -1,0 +1,391 @@
+{
+  "clickable_links": [
+    {
+      "url": "https://faculty.uestc.edu.cn/__local/0/52/EF/18FBFA74ED138B2B195CFD1B615_EF60B002_1A310.png",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "路径含图片格式和`__local`，可能是导师页面图片。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/_ts/mb1/images/ico-heart-i.png",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "low",
+      "category_reason": "路径含图标文件，是网站UI元素，可能用于导师页面。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/zhangjiusi/zh_CN/tzysd/557071/list/index.htm",
+      "anchor_text": "同专业硕导",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL含导师姓名及'list'，锚文本指示相关导师。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/__local/1/39/A1/020CA3504A8FB214A943369D5F1_1E6714B7_91D7.jpg",
+      "anchor_text": "![",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "路径含图片格式和`__local`，可能是导师页面图片。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://library.ait.ac.th/wp-content/uploads/sites/45/2019/04/Web-of-Science-800x445.jpg",
+      "anchor_text": "![Web of Science – Asian Insitute of Technology Library",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部域名图片链接，与导师信息无关。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://ieeexplore.ieee.org/document/11398369",
+      "anchor_text": "**J. Zhang**, K. Chen, R. He, T. Huang, J. Tian, S. Wu, P. Yan, Y. Cheng. Remaining Useful Life Prediction Based on Interpretable Serialized Variational Autoencoder: A Drift-Diffusion Stochastic Equation Perspective, _IEEE Transactions on Industrial Informatics_, 2026.",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部学术论文链接，非导师页面。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://doi.org/10.1016/j.ress.2026.112271",
+      "anchor_text": "**J. Zhang**, C. Wang, Q. Qian, S. Yin. Source-free domain adaptation for cross-domain remaining useful life prediction: A distributed federated learning perspective, _Reliability Engineering & System Safety_, 2026, 271: 112271.",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部学术论文DOI链接，非导师页面。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://doi.org/10.1016/j.aei.2025.104242",
+      "anchor_text": "**J. Zhang**, K. Chen, F. Wu, Q. Qian, T. Huang, Y. Cheng, S. Yin. Remaining useful life prediction based on self-attention mechanism-sequential variational autoencoder: From a semi-supervised perspective, _Advanced Engineering Informatics_, 2026, 71: 104242.",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部学术论文DOI链接，非导师页面。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://ieeexplore.ieee.org/document/11313664/",
+      "anchor_text": "**J. Zhang\\***, H. Luo\\*, J. Hu, C. Cheng, S. Wu, P. Yan, J. Tian. A Transferable Topology-Aware Graph Pooling Network for Remaining Useful Life Prediction Under Cross-Domain Conditions, _IEEE Transactions on Reliability_, 2025.",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部学术论文链接，非导师页面。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://doi.org/10.1016/j.conengprac.2024.106229",
+      "anchor_text": "**J. Zhang**, K. Qian, H. Luo, Y. Liu, X. Qiao, X. Xu, J. Tian. Process monitoring for tower pumping units under variable operational conditions: From an integrated multitasking perspective. _Control Engineering Practice_, 2025, 156: 106229.",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部学术论文DOI链接，非导师页面。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://ieeexplore.ieee.org/document/10008204",
+      "anchor_text": "**J. Zhang**, K. Zhang, Y. An, H. Luo, S. Yin. An Integrated Multitasking Intelligent Bearing Fault Diagnosis Scheme Based on Representation Learning Under Imbalanced Sample Condition. _IEEE Transactions on Neural Networks and Learning Systems_, 2024, 35(5): 6231-6242.",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部学术论文链接，非导师页面。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://ieeexplore.ieee.org/document/10098908",
+      "anchor_text": "**J. Zhang**, C. Huang, M. Y. Chow, X. Li, J. Tian, H. Luo, S. Yin. A Data-model Interactive Remaining Useful Life Prediction Approach of Lithium-ion Batteries Based on PF-BiGRU-TSAM. _IEEE Transactions on Industrial Informatics_, 2024, 20(2): 1144-1154.",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部学术论文链接，非导师页面。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://ieeexplore.ieee.org/document/10609542",
+      "anchor_text": "**J. Zhang**, J. Tian, H. Luo, S. Wu, S. Yin, O. Kaynak. Prognostics for the Sustainability of Industrial Cyber-Physical Systems: From an Artificial Intelligence Perspective. _IEEE Transactions on Industrial Cyber-Physical Systems_, 2024, 2: 495-507.",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部学术论文链接，非导师页面。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://www.sciencedirect.com/science/article/pii/S0951832024000255",
+      "anchor_text": "**J. Zhang**, J. Tian, P. Yan, S. Wu, H. Luo, S. Yin. Multi-hop graph pooling adversarial network for cross-domain remaining useful life prediction: A distributed federated learning perspective. _Reliability Engineering & System Safety_, 2024, 244: 109950.",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部学术论文链接，非导师页面。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://ieeexplore.ieee.org/document/10124028",
+      "anchor_text": "**J. Zhang**, J. Tian, A. M. Alcaide, J. I. Leon, S. Vazquez, L. G. Franquelo, H. Luo, S. Yin. Lifetime Extension Approach Based on Levenberg-arquardt Neural Network and Power Routing of DC-DC Converters. _IEEE Transactions on Power Electronics_, 2023, 38(3): 10280-10291.",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部学术论文链接，非导师页面。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://www.sciencedirect.com/science/article/pii/S095183202300011X",
+      "anchor_text": "**J. Zhang**, X. Li, J. Tian, H. Luo, S. Yin. An integrated multi-head dual sparse self-attention network for remaining useful life prediction. _Reliability Engineering & System Safety_, 2023, 233: 109096.",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部学术论文链接，非导师页面。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0951832022006019",
+      "anchor_text": "**J. Zhang**, X. Li, J. Tian, Y. Jiang, H. Luo, S. Yin. A variational local weighted deep sub-domain adaptation network for remaining useful life prediction facing cross-domain condition. _Reliability Engineering & System Safety_, 2023, 231: 108986.",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部学术论文链接，非导师页面。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://ieeexplore.ieee.org/document/9992207",
+      "anchor_text": "**J. Zhang**, J. Tian, M. Li, J. I. Leon, L. G. Franquelo, H. Luo, S. Yin. A Parallel Hybrid Neural Network with Integration of Spatial and Temporal Features for Remaining Useful Life Prediction in Prognostics. _IEEE Transactions on Instrumentation and Measurement_, 2023, 72: 1-12.",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部学术论文链接，非导师页面。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://ieeexplore.ieee.org/document/9882974",
+      "anchor_text": "**J. Zhang**, Y. Jiang, X. Li, H. Luo, S. Yin, O. Kaynak. Remaining Useful Life Prediction of Lithium-ion Battery with Adaptive Noise Estimation and Capacity Regeneration Detection. _IEEE/ASME Transactions on Mechatronics_, 2023, 28(2): 632-643.",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部学术论文链接，非导师页面。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://www.sciencedirect.com/science/article/pii/S0951832022000369",
+      "anchor_text": "**J. Zhang**, Y. Jiang, X. Li, M. Huo, H. Luo, S. Yin. An adaptive remaining useful life prediction approach for single battery with unlabeled small sample data and parameter uncertainty. _Reliability Engineering & System Safety_, 2022, 222: 108357.",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部学术论文链接，非导师页面。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0951832021007687",
+      "anchor_text": "**J. Zhang**, Y. Jiang, S. Wu, X. Li, H. Luo, S. Yin. Prediction of remaining useful life based on bidirectional gated recurrent unit with temporal self-attention mechanism. _Reliability Engineering & System Safety_, 2022, 221: 108297.",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部学术论文链接，非导师页面。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "http://faculty.uestc.edu.cn/zhangjiusi/zh_CN/index.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "high",
+      "category_reason": "URL直接指向特定导师的个人主页。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/zhangjiusi/zh_CN/tzysd/557071/list/index.htm",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_expansion",
+      "category_confidence": "high",
+      "category_reason": "URL含导师姓名和'list'，是导师信息扩展页面。",
+      "guessed_target_content": "可能包含更多导师信息的页面"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/__local/1/39/A1/020CA3504A8FB214A943369D5F1_1E6714B7_91D7.jpg",
+      "anchor_text": "",
+      "scope": "internal",
+      "category": "tutor_profile",
+      "category_confidence": "medium",
+      "category_reason": "路径含图片格式和`__local`，可能是导师页面图片。",
+      "guessed_target_content": "教师/导师个人信息页面"
+    },
+    {
+      "url": "https://scholar.google.com/citations?hl=en&user=M78xFhcAAAAJ",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部Google学术主页，非机构内导师页面。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://library.ait.ac.th/wp-content/uploads/sites/45/2019/04/Web-of-Science-800x445.jpg",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部域名图片链接，与导师信息无关。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://www.webofscience.com/wos/author/record/AAC-6464-2021",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部Web of Science作者记录，非机构内导师页面。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://ieeexplore.ieee.org/document/11398369",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部学术论文链接，非导师页面。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://doi.org/10.1016/j.ress.2026.112271",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部学术论文DOI链接，非导师页面。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://doi.org/10.1016/j.aei.2025.104242",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部学术论文DOI链接，非导师页面。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://ieeexplore.ieee.org/document/11313664/",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部学术论文链接，非导师页面。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://doi.org/10.1016/j.conengprac.2024.106229",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部学术论文DOI链接，非导师页面。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://ieeexplore.ieee.org/document/10008204",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部学术论文链接，非导师页面。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://ieeexplore.ieee.org/document/10098908",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部学术论文链接，非导师页面。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://ieeexplore.ieee.org/document/10609542",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部学术论文链接，非导师页面。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://www.sciencedirect.com/science/article/pii/S0951832024000255",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部学术论文链接，非导师页面。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://ieeexplore.ieee.org/document/10124028",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部学术论文链接，非导师页面。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://www.sciencedirect.com/science/article/pii/S095183202300011X",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部学术论文链接，非导师页面。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0951832022006019",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部学术论文链接，非导师页面。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://ieeexplore.ieee.org/document/9992207",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部学术论文链接，非导师页面。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://ieeexplore.ieee.org/document/9882974",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部学术论文链接，非导师页面。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://www.sciencedirect.com/science/article/pii/S0951832022000369",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部学术论文链接，非导师页面。",
+      "guessed_target_content": "无关网页或低相关页面"
+    },
+    {
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0951832021007687",
+      "anchor_text": "",
+      "scope": "external",
+      "category": "irrelevant",
+      "category_confidence": "high",
+      "category_reason": "外部学术论文链接，非导师页面。",
+      "guessed_target_content": "无关网页或低相关页面"
+    }
+  ]
+}

@@ -1,0 +1,275 @@
+{
+  "meta": {
+    "tutor_name_cn": "张琼",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1175/4295.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1175/4295.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/5d9318b68ac38146f47c27e9fe9f7120c94a9d803eea06f79b1daf77b7e92f63.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "name": "张琼",
+    "page_url": "https://www.auto.uestc.edu.cn/info/1175/4295.htm",
+    "personal_photo_url": "https://www.auto.uestc.edu.cn/__local/0/52/BD/3E5A9C2254C57DACB0F9B8EAF7F_96B59C78_14EB10.jpg",
+    "personal_info": {
+      "highest_degree": "博士",
+      "phone": null,
+      "email": "zhanqio@uestc.edu.cn",
+      "title_position": "教授",
+      "supervisor_status": "博士导师",
+      "personal_homepage": null,
+      "research_team": "电子科大-中海油服联合研究院"
+    },
+    "main_research_directions": [
+      "探测方法与仪器研究",
+      "可控源理论与阵列/成像仪器开发",
+      "大规模计算软件开发"
+    ],
+    "academic_titles_and_concurrent_posts": [
+      "国家青年人才",
+      "四川省领军人才"
+    ],
+    "education_experience": [
+      {
+        "start_date": "2007.07",
+        "institution": "清华大学",
+        "degree": "学士"
+      },
+      {
+        "start_date": "2012.12",
+        "institution": "北卡罗来纳州立大学",
+        "degree": "博士"
+      }
+    ],
+    "scientific_research_summary": {
+      "projects": [
+        {
+          "title": "基于X射线成像的油气环保勘探技术新理论新方法研究",
+          "funding_source": "国家自然科学基金重点项目"
+        },
+        {
+          "title": "基于混合蒙特卡罗降阶理论的过套管核辐射测井方法研究",
+          "funding_source": "国家自然科学基金面上项目"
+        }
+      ],
+      "awards": [
+        "SPWLA国际石油物理家协会青年科技奖",
+        "OTC Asia国际海洋油气技术大会聚焦新技术奖（Spotlight New Technology Award）国际油气行业知名奖项"
+      ]
+    },
+    "teaching_courses": {
+      "undergraduate_courses": [
+        "数字信号处理"
+      ],
+      "postgraduate_courses": [
+        "学科前沿知识专题讲座"
+      ]
+    },
+    "recruitment_specialties": {
+      "masters": [
+        "仪器科学与技术",
+        "控制工程"
+      ],
+      "doctorates": [
+        "仪器科学与技术",
+        "仪器仪表工程"
+      ]
+    },
+    "site_chrome": {
+      "top_header": [
+        {
+          "type": "link",
+          "text": "学校首页",
+          "url": "https://www.uestc.edu.cn/"
+        },
+        {
+          "type": "link",
+          "text": "EN",
+          "url": "https://www.auto.uestc.edu.cn/en/"
+        },
+        {
+          "type": "search_function",
+          "text": "搜索",
+          "icon_url": "https://www.auto.uestc.edu.cn/images/ser.png"
+        }
+      ],
+      "left_sidebar_navigation": [
+        {
+          "category": "学院概况",
+          "links": [
+            {
+              "text": "学院简介",
+              "url": "https://www.auto.uestc.edu.cn/xygk/xyjj.htm"
+            },
+            {
+              "text": "现任领导",
+              "url": "https://www.auto.uestc.edu.cn/xygk/xrld.htm"
+            },
+            {
+              "text": "科室设置",
+              "url": "https://www.auto.uestc.edu.cn/xygk/kssz.htm"
+            },
+            {
+              "text": "院长信箱",
+              "url": "https://www.auto.uestc.edu.cn/xygk/yzxx.htm"
+            },
+            {
+              "text": "书记信箱",
+              "url": "https://www.auto.uestc.edu.cn/xygk/sjxx.htm"
+            }
+          ]
+        },
+        {
+          "category": "师资队伍",
+          "links": [
+            {
+              "text": "教师名录",
+              "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+            },
+            {
+              "text": "正高级",
+              "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+            },
+            {
+              "text": "副高级",
+              "url": "https://www.auto.uestc.edu.cn/szdw/jsml/fgj.htm"
+            },
+            {
+              "text": "中级",
+              "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zj.htm"
+            },
+            {
+              "text": "初级",
+              "url": "https://www.auto.uestc.edu.cn/szdw/jsml/cj.htm"
+            },
+            {
+              "text": "博士后",
+              "url": "https://www.auto.uestc.edu.cn/szdw/jsml/bsh.htm"
+            },
+            {
+              "text": "博士生导师",
+              "url": "https://www.auto.uestc.edu.cn/szdw/jsml/bssds.htm"
+            },
+            {
+              "text": "硕士生导师",
+              "url": "https://www.auto.uestc.edu.cn/szdw/jsml/sssds.htm"
+            },
+            {
+              "text": "教师名录总览页",
+              "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm",
+              "alphabetical_index": [
+                {
+                  "text": "A",
+                  "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/A.htm"
+                },
+                {
+                  "text": "B",
+                  "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/B.htm"
+                },
+                {
+                  "text": "C",
+                  "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/C.htm"
+                },
+                {
+                  "text": "D",
+                  "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/D.htm"
+                },
+                {
+                  "text": "E",
+                  "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/E.htm"
+                },
+                {
+                  "text": "F",
+                  "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/F.htm"
+                },
+                {
+                  "text": "G",
+                  "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/G.htm"
+                },
+                {
+                  "text": "H",
+                  "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/H.htm"
+                },
+                {
+                  "text": "I",
+                  "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/I.htm"
+                },
+                {
+                  "text": "J",
+                  "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/J.htm"
+                },
+                {
+                  "text": "K",
+                  "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/K.htm"
+                },
+                {
+                  "text": "L",
+                  "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/L.htm"
+                },
+                {
+                  "text": "M",
+                  "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/M.htm"
+                },
+                {
+                  "text": "N",
+                  "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/N.htm"
+                },
+                {
+                  "text": "O",
+                  "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/O.htm"
+                },
+                {
+                  "text": "P",
+                  "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/P.htm"
+                },
+                {
+                  "text": "Q",
+                  "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/Q.htm"
+                },
+                {
+                  "text": "R",
+                  "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/R.htm"
+                },
+                {
+                  "text": "S",
+                  "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/S.htm"
+                },
+                {
+                  "text": "T",
+                  "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/T.htm"
+                },
+                {
+                  "text": "U",
+                  "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/U.htm"
+                },
+                {
+                  "text": "V",
+                  "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/V.htm"
+                },
+                {
+                  "text": "W",
+                  "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/W.htm"
+                },
+                {
+                  "text": "X",
+                  "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/X.htm"
+                },
+                {
+                  "text": "Y",
+                  "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/Y.htm"
+                },
+                {
+                  "text": "Z",
+                  "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/Z.htm"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -7,12 +7,14 @@
 from __future__ import annotations
 
 import asyncio
+import concurrent.futures
 import json
+import os
 import re
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Any
-from urllib.parse import urlsplit
+from urllib.parse import urljoin, urlsplit, urlunsplit
 
 from byboy.agent.invoke import AgentInvocation, ModelRef, agent_complete, slot_complete
 from byboy.agents.tutor_inf.logging_utils import (
@@ -38,6 +40,15 @@ class LinkChoosePayload:
     output_filename: str
     #: True：每条链接都经 LLM 再分类；False：仅规则标为低置信的链接调 LLM（省 token）。
     refine_all_links: bool = True
+    #: 可选：编排层批次内序号（与 ``progress_total`` 成对），便于并行时日志对齐任务。
+    progress_index: int | None = None
+    progress_total: int | None = None
+    #: 抓取任务根 URL（如学院师资入口），用于提示模型与外链「名录」降级策略。
+    task_root_url: str | None = None
+    #: 可选：本任务关注的学院/单位名称；由编排层传入，保证多任务并行时互不干扰。
+    scope_hint: str | None = None
+    #: 单页内 LLM 细化按 batch（默认 50 条一批）并行提交的最大 worker 数；1 表示串行（默认）。
+    refine_batch_parallel_workers: int = 1
 
 
 def _read_markdown_source_declaration(md: str) -> str | None:
@@ -85,6 +96,14 @@ def parse_llm_json_object(text: str) -> dict[str, Any]:
     return obj
 
 
+def _coerce_listing_pagination_next(raw: Any) -> str:
+    """将模型或旧数据中的翻页标记规范为 \"0\" / \"1\"。"""
+    v = str(raw or "").strip().lower()
+    if v in {"1", "yes", "true", "y"}:
+        return "1"
+    return "0"
+
+
 def _validate_schema(obj: dict[str, Any]) -> None:
     required = ("clickable_links",)
     for k in required:
@@ -103,6 +122,7 @@ def _validate_schema(obj: dict[str, Any]) -> None:
             "category_confidence",
             "category_reason",
             "guessed_target_content",
+            "listing_pagination_next",
         )
         for k in required_item_keys:
             if k not in item:
@@ -119,19 +139,35 @@ def _validate_schema(obj: dict[str, Any]) -> None:
             raise LinkChooseError(f"clickable_links[{i}].category 非法: {item['category']!r}")
         if item["category_confidence"] not in {"high", "medium", "low"}:
             raise LinkChooseError(f"clickable_links[{i}].category_confidence 非法: {item['category_confidence']!r}")
+        if item["listing_pagination_next"] not in {"0", "1"}:
+            raise LinkChooseError(f"clickable_links[{i}].listing_pagination_next 必须为 \"0\" 或 \"1\"")
 
 
 SYSTEM_PROMPT = """你是链接三分类助手。请只根据给出的 URL 与锚文本，将每条链接分类为以下之一：
-- tutor_profile（导师个人信息页）
-- tutor_expansion（可能包含更多导师信息的页面，如导师名录、分页、学院导航到师资栏目）
+- tutor_profile（**单一**教师/导师的个人信息页、个人主页入口）
+- tutor_expansion（可能包含更多导师信息的页面，如**本任务相关单位**的导师名录、站内师资栏目导航）
 - irrelevant（无关网页）
+
+**名录翻页（仅由你判断，不要用额外规则）**
+- 部分学校站点用 **同一 .jsp 路径 + 不同 query（如 id= / wbtreeid=）** 表示下一栏或下一页列表；若属 **同一教师列表的延续**，也应 **listing_pagination_next="1"**（可与 tutor_expansion+high 同时出现）。
+- 若结合上下文可判断 **当前页是导师名录/教师列表**，且该链接是 **同一列表的「下一页」或等价分页**（继续展示更多本表教师，而非跳到其它栏目、其它学院、单条新闻等），则：
+  - category 应为 tutor_expansion，category_confidence 可为 high；
+  - **listing_pagination_next 必须为字符串 "1"**。
+- 其它所有链接（含导师个人主页、其它栏目、兄弟学院名录、不确定是否同表分页）**listing_pagination_next 必须为 "0"**。
+
+**防串院/串站点（重要）**
+- 输入中可能带有 task_context.task_root_url（本次抓取的学院/单位入口）与 scope_hint（任务关注的院系名称）。
+- 指向**其他学院、其他院系、其他二级单位**的**师资名录/教师列表/师资队伍总览**（兄弟单位导航页），**不得**标为 tutor_profile；应标为 irrelevant，或 tutor_expansion 且 **category_confidence 只能是 medium 或 low**，禁止 high；且 listing_pagination_next="0"。
+- **例外**：若链接明显是**某位具体教师**的个人主页（锚文本或 URL 体现姓名+个人介绍页），即便在子域或外链上，仍可标 tutor_profile + high；listing_pagination_next="0"。
+- 全校级、跨院系的「教师库」「统一师资平台」列表入口，若非本任务 scope_hint 所在单位，倾向 irrelevant 或 tutor_expansion+low/medium；listing_pagination_next="0"。
 
 你必须输出一个 JSON 对象：{"results":[...]}。
 results 中每项必须含：
 - idx: 整数（对应输入索引）
-- category: 上述四类之一
+- category: 上述三类之一
 - category_confidence: high|medium|low
 - category_reason: 不超过30字
+- listing_pagination_next: 字符串 **"0"** 或 **"1"**（含义见上）
 
 禁止输出 JSON 以外的任何内容。"""
 
@@ -295,6 +331,235 @@ def _rule_category(url: str, anchor_text: str, scope: str) -> tuple[str, str, st
     return (top_label, conf, reason, uncertain)
 
 
+def _registrable_domain(netloc: str) -> str:
+    """粗略的「注册域」用于判断是否跨站（同校多子域通常共享同一后缀，如 uestc.edu.cn）。"""
+    h = netloc.lower().strip()
+    if not h:
+        return ""
+    if ":" in h and not h.startswith("["):
+        h = h.rsplit(":", 1)[0]
+    if h.startswith("www."):
+        h = h[4:]
+    parts = h.split(".")
+    if len(parts) < 2:
+        return h
+    if len(parts) >= 3 and parts[-1] == "cn" and parts[-2] == "edu":
+        return ".".join(parts[-3:])
+    return ".".join(parts[-2:])
+
+
+def _absolute_url_for_policy(raw: str, base: str | None) -> str:
+    """解析为绝对 http(s) URL，返回 scheme+host+path（小写 host、去 query/fragment），供域名比较。"""
+    u = _normalize_url(raw)
+    if not u or u.startswith("#"):
+        return ""
+    if u.startswith(("mailto:", "tel:", "javascript:")):
+        return ""
+    pr0 = urlsplit(u)
+    if pr0.scheme in ("http", "https") and pr0.netloc:
+        path = pr0.path or "/"
+        return urlunsplit((pr0.scheme.lower(), pr0.netloc.lower(), path, "", "")).rstrip("/")
+    b = (base or "").strip()
+    if not b:
+        return ""
+    joined = urljoin(b if b.endswith("/") else b + "/", u)
+    pr = urlsplit(joined)
+    if pr.scheme not in ("http", "https") or not pr.netloc:
+        return ""
+    path = pr.path or "/"
+    return urlunsplit((pr.scheme.lower(), pr.netloc.lower(), path, "", "")).rstrip("/")
+
+
+def _apply_cross_domain_expansion_cap(
+    links: list[dict[str, str]],
+    *,
+    task_root_url: str | None,
+    page_base_url: str | None,
+) -> None:
+    """不同注册域上的 tutor_expansion 若被标为 high，降为 medium，避免进入仅采纳 high 的爬取队列。"""
+    flag = (os.environ.get("BYBOY_TUTOR_LINK_SKIP_EXTERNAL_EXPANSION_CAP") or "").strip().lower()
+    if flag in {"1", "true", "yes", "on"}:
+        return
+    root = (task_root_url or "").strip()
+    if not root:
+        return
+    root_abs = _absolute_url_for_policy(root, root)
+    if not root_abs:
+        return
+    root_dom = _registrable_domain(urlsplit(root_abs).netloc)
+    if not root_dom:
+        return
+    base = (page_base_url or "").strip() or root
+    for x in links:
+        if x.get("category") != "tutor_expansion":
+            continue
+        if x.get("category_confidence") != "high":
+            continue
+        u_abs = _absolute_url_for_policy(x.get("url", ""), base)
+        if not u_abs:
+            continue
+        link_dom = _registrable_domain(urlsplit(u_abs).netloc)
+        if not link_dom or link_dom == root_dom:
+            continue
+        x["category_confidence"] = "medium"
+        x["listing_pagination_next"] = "0"
+        note = "跨注册域名录降级"
+        prev = (x.get("category_reason") or "").strip()
+        x["category_reason"] = (prev + "；" + note if prev else note)[:60]
+
+
+def _fallback_refine_batch_items(
+    batch_items: list[dict[str, str]], *, reason: str
+) -> dict[int, dict[str, str]]:
+    """LLM 失败或输出无效时，跳过该批次细化，保留规则结果并打标。"""
+    out: dict[int, dict[str, str]] = {}
+    for x in batch_items:
+        try:
+            idx = int(x.get("idx") or -1)
+        except (TypeError, ValueError):
+            continue
+        if idx < 0:
+            continue
+        cat = str(x.get("category") or x.get("rule_category") or "irrelevant")
+        if cat not in {"tutor_profile", "tutor_expansion", "irrelevant"}:
+            cat = "irrelevant"
+        out[idx] = {
+            "category": cat,
+            "category_confidence": "low",
+            "category_reason": reason[:60],
+            "listing_pagination_next": "0",
+        }
+    return out
+
+
+def _refine_single_llm_batch(
+    batch: list[dict[str, str]],
+    batch_no: int,
+    *,
+    dispatcher: LLMDispatcher,
+    model: ModelRef,
+    max_tokens: int,
+    log: AgentLogger | None,
+    task_root_url: str | None,
+    scope_hint: str | None,
+) -> dict[int, dict[str, str]]:
+    user_data: dict[str, Any] = {
+        "links": [
+            {
+                "idx": int(x["idx"]),
+                "url": x["url"],
+                "anchor_text": x["anchor_text"],
+                "scope": x["scope"],
+                "rule_category": x["category"],
+                "rule_confidence": x["category_confidence"],
+            }
+            for x in batch
+        ]
+    }
+    ctx: dict[str, str] = {}
+    tru = (task_root_url or "").strip()
+    if tru:
+        ctx["task_root_url"] = tru
+    sh = (scope_hint or "").strip()
+    if sh:
+        ctx["scope_hint"] = sh
+    if ctx:
+        user_data["task_context"] = ctx
+    messages: list[ChatMessage] = [
+        {"role": "system", "content": SYSTEM_PROMPT},
+        {"role": "user", "content": json.dumps(user_data, ensure_ascii=False)},
+    ]
+    inv = AgentInvocation(model=model, llm_part=messages)
+
+    def _run_refine_once(stage_suffix: str) -> dict[str, Any]:
+        t1 = None
+        stage_name = f"refine_batch_{batch_no}{stage_suffix}"
+        if log is not None:
+            t1 = log_llm_wait_start(
+                log,
+                model=model.token,
+                payload=messages,
+                max_tokens=max_tokens,
+                stage=stage_name,
+            )
+        raw = run_with_periodic_wait_log(
+            log=log if log is not None else AgentLogger("LinkChooseAgent"),
+            stage=stage_name,
+            wait_message="等待模型响应中",
+            every_sec=5.0,
+            fn=lambda: agent_complete(dispatcher, inv, max_tokens=max_tokens),
+        )
+        if log is not None and t1 is not None:
+            log_llm_wait_done(log, stage=stage_name, started_at=t1)
+        return _parse_with_repair(
+            raw,
+            dispatcher,
+            model.token,
+            repair_max_tokens=max_tokens,
+            log=log,
+            stage=f"json_repair_batch_{batch_no}{stage_suffix}",
+        )
+
+    try:
+        parsed = _run_refine_once("")
+    except LinkChooseError as e1:
+        if log is not None:
+            log.warn(
+                "LLM 首次输出不可解析，重试一次",
+                detail=f"batch={batch_no} err={e1!s}",
+            )
+        try:
+            parsed = _run_refine_once("_retry")
+        except LinkChooseError as e2:
+            if log is not None:
+                log.warn(
+                    "LLM 重试仍失败，跳过该批次细化",
+                    detail=f"batch={batch_no} mark=LLM_RETRY_FAILED_SKIP err={e2!s}",
+                )
+            return _fallback_refine_batch_items(
+                batch,
+                reason="LLM_RETRY_FAILED_SKIP: 保留规则分类",
+            )
+
+    results = parsed.get("results")
+    if not isinstance(results, list):
+        if log is not None:
+            log.warn(
+                "LLM 输出缺少 results，跳过该批次细化",
+                detail=f"batch={batch_no} mark=LLM_RESULTS_MISSING_SKIP",
+            )
+        return _fallback_refine_batch_items(
+            batch,
+            reason="LLM_RESULTS_MISSING_SKIP: 保留规则分类",
+        )
+
+    out: dict[int, dict[str, str]] = {}
+    for r in results:
+        if not isinstance(r, dict):
+            continue
+        idx = r.get("idx")
+        category = r.get("category")
+        category_confidence = r.get("category_confidence")
+        category_reason = r.get("category_reason")
+        if not isinstance(idx, int):
+            continue
+        if category not in {"tutor_profile", "tutor_expansion", "irrelevant"}:
+            continue
+        if category_confidence not in {"high", "medium", "low"}:
+            continue
+        if not isinstance(category_reason, str):
+            continue
+        out[idx] = {
+            "category": category,
+            "category_confidence": category_confidence,
+            "category_reason": category_reason[:60],
+            "listing_pagination_next": _coerce_listing_pagination_next(
+                r.get("listing_pagination_next")
+            ),
+        }
+    return out
+
+
 def _llm_refine_uncertain(
     *,
     items: list[dict[str, str]],
@@ -303,141 +568,53 @@ def _llm_refine_uncertain(
     batch_size: int = 50,
     max_tokens: int = 2048,
     log: AgentLogger | None = None,
+    task_root_url: str | None = None,
+    scope_hint: str | None = None,
+    parallel_workers: int = 1,
 ) -> dict[int, dict[str, str]]:
     if not items:
         return {}
-    refined: dict[int, dict[str, str]] = {}
-
-    def _fallback_refine_batch(batch_items: list[dict[str, str]], *, reason: str) -> dict[int, dict[str, str]]:
-        # LLM 多次失败后，跳过该批次 LLM 细化，保留规则结果并打标。
-        out: dict[int, dict[str, str]] = {}
-        for x in batch_items:
-            try:
-                idx = int(x.get("idx") or -1)
-            except (TypeError, ValueError):
-                continue
-            if idx < 0:
-                continue
-            cat = str(x.get("category") or x.get("rule_category") or "irrelevant")
-            if cat not in {"tutor_profile", "tutor_expansion", "irrelevant"}:
-                cat = "irrelevant"
-            out[idx] = {
-                "category": cat,
-                "category_confidence": "low",
-                "category_reason": reason[:60],
-            }
-        return out
-
-    for i in range(0, len(items), batch_size):
-        batch = items[i : i + batch_size]
-        batch_no = i // batch_size + 1
-        user_data = {
-            "links": [
-                {
-                    "idx": int(x["idx"]),
-                    "url": x["url"],
-                    "anchor_text": x["anchor_text"],
-                    "scope": x["scope"],
-                    "rule_category": x["category"],
-                    "rule_confidence": x["category_confidence"],
-                }
-                for x in batch
-            ]
-        }
-        messages: list[ChatMessage] = [
-            {"role": "system", "content": SYSTEM_PROMPT},
-            {"role": "user", "content": json.dumps(user_data, ensure_ascii=False)},
-        ]
-        inv = AgentInvocation(model=model, llm_part=messages)
-
-        def _run_refine_once(stage_suffix: str) -> dict[str, Any]:
-            t1 = None
-            stage_name = f"refine_batch_{batch_no}{stage_suffix}"
-            if log is not None:
-                t1 = log_llm_wait_start(
-                    log,
-                    model=model.token,
-                    payload=messages,
-                    max_tokens=max_tokens,
-                    stage=stage_name,
-                )
-            raw = run_with_periodic_wait_log(
-                log=log if log is not None else AgentLogger("LinkChooseAgent"),
-                stage=stage_name,
-                wait_message="等待模型响应中",
-                every_sec=5.0,
-                fn=lambda: agent_complete(dispatcher, inv, max_tokens=max_tokens),
-            )
-            if log is not None and t1 is not None:
-                log_llm_wait_done(log, stage=stage_name, started_at=t1)
-            return _parse_with_repair(
-                raw,
-                dispatcher,
-                model.token,
-                repair_max_tokens=max_tokens,
-                log=log,
-                stage=f"json_repair_batch_{batch_no}{stage_suffix}",
-            )
-
-        try:
-            parsed = _run_refine_once("")
-        except LinkChooseError as e1:
-            if log is not None:
-                log.warn(
-                    "LLM 首次输出不可解析，重试一次",
-                    detail=f"batch={batch_no} err={e1!s}",
-                )
-            try:
-                parsed = _run_refine_once("_retry")
-            except LinkChooseError as e2:
-                if log is not None:
-                    log.warn(
-                        "LLM 重试仍失败，跳过该批次细化",
-                        detail=f"batch={batch_no} mark=LLM_RETRY_FAILED_SKIP err={e2!s}",
-                    )
-                refined.update(
-                    _fallback_refine_batch(
-                        batch,
-                        reason="LLM_RETRY_FAILED_SKIP: 保留规则分类",
-                    )
-                )
-                continue
-
-        results = parsed.get("results")
-        if not isinstance(results, list):
-            if log is not None:
-                log.warn(
-                    "LLM 输出缺少 results，跳过该批次细化",
-                    detail=f"batch={batch_no} mark=LLM_RESULTS_MISSING_SKIP",
-                )
+    batches: list[tuple[list[dict[str, str]], int]] = [
+        (items[i : i + batch_size], i // batch_size + 1)
+        for i in range(0, len(items), batch_size)
+    ]
+    pw = max(1, int(parallel_workers))
+    if pw <= 1 or len(batches) <= 1:
+        refined: dict[int, dict[str, str]] = {}
+        for batch, batch_no in batches:
             refined.update(
-                _fallback_refine_batch(
+                _refine_single_llm_batch(
                     batch,
-                    reason="LLM_RESULTS_MISSING_SKIP: 保留规则分类",
+                    batch_no,
+                    dispatcher=dispatcher,
+                    model=model,
+                    max_tokens=max_tokens,
+                    log=log,
+                    task_root_url=task_root_url,
+                    scope_hint=scope_hint,
                 )
             )
-            continue
+        return refined
 
-        for r in results:
-            if not isinstance(r, dict):
-                continue
-            idx = r.get("idx")
-            category = r.get("category")
-            category_confidence = r.get("category_confidence")
-            category_reason = r.get("category_reason")
-            if not isinstance(idx, int):
-                continue
-            if category not in {"tutor_profile", "tutor_expansion", "irrelevant"}:
-                continue
-            if category_confidence not in {"high", "medium", "low"}:
-                continue
-            if not isinstance(category_reason, str):
-                continue
-            refined[idx] = {
-                "category": category,
-                "category_confidence": category_confidence,
-                "category_reason": category_reason[:60],
-            }
+    refined = {}
+    cap = min(pw, len(batches))
+    with concurrent.futures.ThreadPoolExecutor(max_workers=cap) as ex:
+        futs = {
+            ex.submit(
+                _refine_single_llm_batch,
+                batch,
+                batch_no,
+                dispatcher=dispatcher,
+                model=model,
+                max_tokens=max_tokens,
+                log=log,
+                task_root_url=task_root_url,
+                scope_hint=scope_hint,
+            ): batch_no
+            for batch, batch_no in batches
+        }
+        for fut in concurrent.futures.as_completed(futs):
+            refined.update(fut.result())
     return refined
 
 
@@ -465,6 +642,7 @@ def _extract_clickable_links(markdown_text: str, declared_source_url: str | None
                 "category_reason": category_reason,
                 "guessed_target_content": _category_to_guess(category),
                 "needs_llm_refine": "1" if uncertain else "0",
+                "listing_pagination_next": "0",
             }
         )
 
@@ -487,6 +665,7 @@ def _extract_clickable_links(markdown_text: str, declared_source_url: str | None
                 "category_reason": category_reason,
                 "guessed_target_content": _category_to_guess(category),
                 "needs_llm_refine": "1" if uncertain else "0",
+                "listing_pagination_next": "0",
             }
         )
 
@@ -514,6 +693,7 @@ def _extract_clickable_links(markdown_text: str, declared_source_url: str | None
                 "category_reason": category_reason,
                 "guessed_target_content": _category_to_guess(category),
                 "needs_llm_refine": "1" if uncertain else "0",
+                "listing_pagination_next": "0",
             }
         )
     return items
@@ -535,8 +715,14 @@ class LinkChooseAgent:
             raise ValueError("max_tokens 与 repair_max_tokens 必须为正整数")
         dispatcher.resolve(inv.model.token)
         p = inv.llm_part
+        rbpw = int(p.refine_batch_parallel_workers)
+        if rbpw <= 0:
+            raise ValueError("refine_batch_parallel_workers 必须为正整数")
         md_path = Path(p.markdown_path).resolve()
-        log.start("开始链接分类", detail=str(md_path))
+        prog = ""
+        if p.progress_index is not None and p.progress_total is not None:
+            prog = f"[{p.progress_index}/{p.progress_total}] "
+        log.start("链接分类", detail=f"{prog}{md_path.name}")
         if not md_path.is_file():
             raise FileNotFoundError(f"Markdown 文件不存在: {md_path}")
         if md_path.suffix.lower() != ".md":
@@ -548,17 +734,27 @@ class LinkChooseAgent:
         if p.refine_all_links:
             uncertain = list(links)
             if uncertain:
-                log.step("调用 LLM 分类全部链接", detail=f"total={len(uncertain)}")
+                log.step(
+                    "调用 LLM 分类全部链接",
+                    detail=f"total={len(uncertain)} batch_parallel={rbpw}",
+                )
         else:
             uncertain = [x for x in links if x.get("needs_llm_refine") == "1"]
             if uncertain:
-                log.step("调用 LLM 细化低置信链接", detail=f"uncertain={len(uncertain)}")
+                log.step(
+                    "调用 LLM 细化低置信链接",
+                    detail=f"uncertain={len(uncertain)} batch_parallel={rbpw}",
+                )
+        scope_hint_eff = (p.scope_hint or "").strip() or None
         refined = _llm_refine_uncertain(
             items=uncertain,
             dispatcher=dispatcher,
             model=inv.model,
             max_tokens=repair_max_tokens,
             log=log,
+            task_root_url=(p.task_root_url or "").strip() or None,
+            scope_hint=scope_hint_eff,
+            parallel_workers=rbpw,
         )
         for x in links:
             idx = int(x["idx"])
@@ -566,9 +762,27 @@ class LinkChooseAgent:
                 x["category"] = refined[idx]["category"]
                 x["category_confidence"] = refined[idx]["category_confidence"]
                 x["category_reason"] = refined[idx]["category_reason"]
+                x["listing_pagination_next"] = refined[idx].get(
+                    "listing_pagination_next", "0"
+                )
+                if x["listing_pagination_next"] not in {"0", "1"}:
+                    x["listing_pagination_next"] = _coerce_listing_pagination_next(
+                        x["listing_pagination_next"]
+                    )
                 x["guessed_target_content"] = _category_to_guess(x["category"])
+            else:
+                x["listing_pagination_next"] = _coerce_listing_pagination_next(
+                    x.get("listing_pagination_next")
+                )
             x.pop("idx", None)
             x.pop("needs_llm_refine", None)
+
+        page_base = (declared or "").strip() or (p.task_root_url or "").strip() or None
+        _apply_cross_domain_expansion_cap(
+            links,
+            task_root_url=(p.task_root_url or "").strip() or None,
+            page_base_url=page_base,
+        )
 
         obj = {"clickable_links": links}
         _validate_schema(obj)
@@ -580,7 +794,7 @@ class LinkChooseAgent:
             encoding="utf-8",
             newline="\n",
         )
-        log.done("写入分类结果", detail=str(out))
+        log.done("链接分类完成", detail=f"{prog}{out.name}")
         return out
 
     async def arun(

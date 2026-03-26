@@ -1,0 +1,126 @@
+{
+  "meta": {
+    "tutor_name_cn": "赵万兵",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1175/7213.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1175/7213.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/f743ab64d1536da45e39e86ae6f92f91083bfebe2f96c5db51d24df3e2d9fa4f.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "site_metadata": {
+      "source_url": "https://www.auto.uestc.edu.cn/info/1175/7213.htm",
+      "page_title": "师资队伍",
+      "breadcrumbs": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "Z",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/Z.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "related_links": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ]
+    },
+    "personal_info": {
+      "name": "赵万兵",
+      "image_url": "https://www.auto.uestc.edu.cn/__local/A/23/48/E7DAA67842ED607CFC692D23EC0_A6F3A308_76796.png",
+      "highest_degree": "博士",
+      "contact_phone": null,
+      "title_and_position": "特聘副教授",
+      "email": "zhaowb27@126.com",
+      "supervisor_status": "硕士生导师",
+      "personal_homepage_url": null,
+      "research_team": "感知计算与智能网联汽车研究中心"
+    },
+    "research_directions": [
+      "空地海无人集群智能协同控制与决策",
+      "强化学习分布式优化",
+      "大小模型协同推理及应用"
+    ],
+    "academic_appointments_and_memberships": [
+      "任Automatica以及IEEE TAC、IEEE TNNLS等IEEE Trans系列期刊审稿人。"
+    ],
+    "experience": [
+      {
+        "start_date": "2024-10",
+        "end_date": "至今",
+        "country": "中国",
+        "institution": "电子科技大学",
+        "college": "自动化工程学院",
+        "position": "特聘副教授",
+        "type": "work"
+      },
+      {
+        "start_date": "2022-09",
+        "end_date": "2024-09",
+        "country": "中国",
+        "institution": "北京理工大学",
+        "college": "自动化学院",
+        "position": "博士后",
+        "type": "work"
+      },
+      {
+        "start_date": "2016.09",
+        "end_date": "2022.06",
+        "country": "中国",
+        "institution": "北京航空航天大学",
+        "college": "宇航学院",
+        "degree": "博士",
+        "type": "education"
+      },
+      {
+        "start_date": "2012.09",
+        "end_date": "2016.07",
+        "country": "中国",
+        "institution": "北京航空航天大学",
+        "college": "宇航学院",
+        "degree": "学士",
+        "type": "education"
+      }
+    ],
+    "research_overview": {
+      "summary": "主要从事空地海无人集群智能协同控制与决策、大小模型协同推理及应用的研究。",
+      "projects_grants_summary": "近年来主持国家自然科学基金1项，省部级科学基金3项。",
+      "publications_summary": "在国际权威期刊和会议发表论文20余篇，第一作者SCI论文12篇（JCR一区11篇，包括：Automatica，以及IEEE Trans系列期刊，如IEEE TAC、IEEE TNNLS、IEEE T Cyber等）。"
+    },
+    "courses_taught": {
+      "undergraduate_courses": [
+        "《数值计算方法》"
+      ],
+      "graduate_courses": []
+    },
+    "student_recruitment": {
+      "master_programs": [
+        "控制科学与工程",
+        "控制工程"
+      ],
+      "phd_programs": []
+    }
+  }
+}

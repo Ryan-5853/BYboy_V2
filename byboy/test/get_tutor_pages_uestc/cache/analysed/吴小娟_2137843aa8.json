@@ -1,0 +1,180 @@
+{
+  "meta": {
+    "tutor_name_cn": "吴小娟",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1172/4434.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1172/4434.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/a5177f4c156754633be7f9dd3449169180025c1d888e9a97ad86d9d5ab5797cb.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "query_name": "吴小娟",
+    "source_url": "https://www.auto.uestc.edu.cn/info/1172/4434.htm",
+    "site_chrome": {
+      "breadcrumbs": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "W",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/W.htm"
+        },
+        {
+          "anchor_text": "正文",
+          "url": null
+        }
+      ],
+      "sidebar_navigation": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ],
+      "page_sections": [
+        "师资队伍",
+        "师资队伍"
+      ]
+    },
+    "mentor_profile": {
+      "name": "吴小娟",
+      "image_info": {
+        "url": "https://www.auto.uestc.edu.cn/__local/8/82/FA/5DCDEC290A8A966513328902400_A81C702E_465C4.jpg",
+        "alt_text": null
+      },
+      "basic_info": {
+        "highest_degree": "博士",
+        "contact_phone": null,
+        "job_title": "副教授",
+        "email": "xjwu@uestc.edu.cn",
+        "supervisor_status": "博士导师",
+        "personal_homepage": null,
+        "research_team": null
+      },
+      "main_research_directions": [
+        "新能源与人工智能"
+      ],
+      "academic_titles_and_affiliations": [
+        "担任多个国际SCI期刊的审稿人",
+        "担任国家自然科学基金函评专家"
+      ],
+      "experience": {
+        "education_history": [
+          {
+            "start_date": "2006.09",
+            "end_date": "2009.09",
+            "institution": "上海交通大学",
+            "major": "控制理论与控制工程",
+            "degree": "博士"
+          },
+          {
+            "start_date": "2003.09",
+            "end_date": "2006.06",
+            "institution": "武汉理工大学",
+            "major": "控制理论与控制工程",
+            "degree": "硕士"
+          },
+          {
+            "start_date": "1998.09",
+            "end_date": "2002.06",
+            "institution": "武汉科技大学",
+            "major": "自动化",
+            "degree": "学士"
+          }
+        ],
+        "work_research_history": [
+          {
+            "start_date": "2017.12",
+            "end_date": "至今",
+            "institution": "电子科技大学",
+            "department": "自动化",
+            "position": "博士生导师"
+          },
+          {
+            "start_date": "2012.08",
+            "end_date": "2013.08",
+            "institution": "迈阿密大学",
+            "department": "清洁能源研究所",
+            "position": "访问学者"
+          },
+          {
+            "start_date": "2012.07",
+            "end_date": "至今",
+            "institution": "电子科技大学",
+            "department": "自动化",
+            "position": "副教授"
+          },
+          {
+            "start_date": "2009.11",
+            "end_date": "2012.06",
+            "institution": "电子科技大学",
+            "department": "自动化",
+            "position": "讲师"
+          }
+        ]
+      },
+      "scientific_research": {
+        "publications": [
+          "以第一作者发表SCI期刊论文23篇（其中高被引1篇，一区论文10篇，二区论文6篇）"
+        ],
+        "projects": [
+          "主持并完成国家自然科学青年基金1项",
+          "目前正在主持四川省科技厅应用基础研究计划1项",
+          "目前正在主持国家重点实验室开放基金1项",
+          "目前正在主持中央高校基本业务费1项"
+        ],
+        "patents": [
+          "申请专利6项",
+          "授权2项"
+        ]
+      },
+      "courses_and_teaching_research": {
+        "teaching_research_projects": [
+          "主持教学方法改革示范课程“自动控制原理”建设",
+          "主持2019年研究生教研教改项目1项"
+        ]
+      },
+      "admission_programs": {
+        "masters": [
+          {
+            "code": "081100",
+            "name": "控制科学与工程"
+          },
+          {
+            "code": "085400",
+            "name": "电子信息"
+          }
+        ],
+        "phd": [
+          {
+            "code": "081100",
+            "name": "控制科学与工程"
+          },
+          {
+            "code": "085400",
+            "name": "电子信息"
+          },
+          {
+            "code": "086100",
+            "name": "交通运输"
+          }
+        ]
+      }
+    }
+  }
+}

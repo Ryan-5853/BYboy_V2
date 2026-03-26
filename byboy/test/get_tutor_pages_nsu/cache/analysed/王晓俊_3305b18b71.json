@@ -1,0 +1,174 @@
+{
+  "meta": {
+    "tutor_name_cn": "王晓俊",
+    "request_url": "http://automation.seu.edu.cn/wxj/list.htm",
+    "declared_source_url": "http://automation.seu.edu.cn/wxj/list.htm",
+    "page_host": "automation.seu.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/9a62efed64425d04061e34c69f1dc24f1406fa18c5a0111806830f30fc5ccc0c.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "site_chrome": {
+      "source_url": "http://automation.seu.edu.cn/wxj/list.htm",
+      "image_at_top_url": "https://automation.seu.edu.cn/wxj/list.htm",
+      "visit_counter_image_url": "https://automation.seu.edu.cn/_visitcount?siteId=338&type=2&columnId=32788"
+    },
+    "professor_info": {
+      "name": "王晓俊",
+      "personal_page_link": {
+        "url": "http://automation.seu.edu.cn/article.asp?articleid=1342&depid=1&subdepid=199",
+        "anchor_text": "王晓俊"
+      },
+      "birth_details": "1975.12生于江苏南京",
+      "degrees": [
+        "工学博士"
+      ],
+      "affiliation": {
+        "university": "东南大学",
+        "discipline": "检测技术与自动化装置学科"
+      },
+      "titles": [
+        "副教授",
+        "硕士生导师"
+      ],
+      "contact": {
+        "email": {
+          "address": "101011042@seu.edu.cn",
+          "mailto_link": "mailto:101011042@seu.edu.cn"
+        }
+      },
+      "general_research_summary": "近5年来，主持完成了国家、省、市级重点科技计划项目及企业委托课题二十余项，作为主要合作者参与国家重大仪器专项、国家自然科学基金、江苏省重点研发计划项目近十项。",
+      "product_development_summary": "近年来，受企业委托，主持研发了多款高端智能测试设备，其中“数字局部放电综合测试仪”“20Hz~2MHz智能元件参数分析仪”、“100kΩ~10PΩ超高阻分析仪”、“基于冲击响应法的5kV匝间耐压分析仪”、“20kV交直流高压信号质量分析系统”、“特种电容器绝缘性能分析系统”、“新型数字安规动态测量与分析系统”等，均打破了同类设备完全被国外垄断的现状，并已产业化生产。",
+      "main_research_directions": [
+        "嵌入式系统及智能仪器设计",
+        "微弱信号检测与处理技术",
+        "工业物联网与信息化系统"
+      ],
+      "main_research_interests_description": "针对困扰企业或行业发展的检测技术难题或高端设备研制需求，尤其是高速精密测量与信号处理、微弱信号处理、系统可靠性与抗干扰技术等方向技术难题，研究相关机理和解决方案，并研制可靠实用的测试设备及系统。",
+      "research_interests": [
+        "精密测量与实时动态信号处理",
+        "微弱信号处理",
+        "系统可靠性与抗干扰技术"
+      ],
+      "student_recruitment": {
+        "master_students_per_year": "2~3名",
+        "preferred_student_interests": [
+          "嵌入式系统",
+          "电力电子",
+          "高速数字信号处理",
+          "物联网"
+        ]
+      }
+    },
+    "education_background": [
+      {
+        "years": "1992~1996",
+        "institution": "东南大学仪器科学系",
+        "major": "检测技术及仪器专业",
+        "degree": "本科"
+      },
+      {
+        "years": "1999~2002",
+        "institution": "东南大学仪器科学系",
+        "major": "测控技术及仪器专业",
+        "degree": "工学硕士"
+      },
+      {
+        "years": "2003~2007",
+        "institution": "东南大学自动化学院",
+        "major": "检测技术与自动化装置专业",
+        "degree": "工学博士"
+      }
+    ],
+    "work_experience": [
+      {
+        "years": "1992~1996",
+        "institution": "东南大学仪器科学系",
+        "role": "本科 (重复教育背景信息)"
+      },
+      {
+        "years": "1996~1999",
+        "institution": "南京康奇技术有限公司",
+        "role": "研发工程师"
+      },
+      {
+        "years": "1999~2002",
+        "institution": "东南大学仪器科学系",
+        "role": "工学硕士 (重复教育背景信息)"
+      },
+      {
+        "years": "2002~2003",
+        "institution": "南京长盛仪器有限公司",
+        "role": "研发工程师"
+      },
+      {
+        "years": "2003~2007",
+        "institution": "东南大学自动化学院",
+        "role": "工学博士 (重复教育背景信息)"
+      },
+      {
+        "years": "2007~至今",
+        "role": "留校任教"
+      }
+    ],
+    "academic_affiliations": [],
+    "awards": [],
+    "courses_taught": {
+      "undergraduate_courses": [
+        "电路基础",
+        "工程设计导论",
+        "嵌入式系统设计",
+        "自动检测技术"
+      ],
+      "master_professional_degree_courses": [
+        "智能测控系统设计"
+      ],
+      "doctoral_professional_degree_courses": [
+        "智能测控系统可靠性与抗干扰技术"
+      ]
+    },
+    "research_projects": {
+      "in_progress_2024_2026": [
+        "基于FPGA的局部放电实时窄带数字化测量与动态分析技术研究及样机研制",
+        "高压宽频C-V测量关键技术研究与CV+ACW综合测试仪样机研制",
+        "高精度数字压力变送器关键技术研究与样机研制（0.02%精度）",
+        "100V局部放电信号发生器研制"
+      ],
+      "completed_2018_2023": [
+        {
+          "research_direction": "嵌入式系统设计&微弱信号检测技术研究",
+          "projects": [
+            "新型局部放电+交/直流耐电压+绝缘电阻综合测试仪设计, 已验收",
+            "数字隔离芯片的精准局部放电测量系统关键技术研究及样机研制, 已验收",
+            "局部放电校准信号发生器设计, 已验收",
+            "新能源核心储能部件安全特性精准测量与深度挖掘关键技术研究与样机研制, 已验收",
+            "抗强辐照的模拟压力变送器, 已验收",
+            "PΩ（10^15Ω）量级超高绝缘电阻数字化精确测量技术研究与样机研制, 已验收",
+            "20kV交直流高压信号质量分析系统, 已验收",
+            "基于冲击响应法的5kV线圈测试仪关键技术研究与样机研制, 已验收",
+            "电气安规高速动态测量与分析系统关键技术研究与样机研制, 已验收",
+            "多路矢量信号分析仪技术研究与样机研制, 已验收",
+            "MEMS近红外光谱仪功能样机嵌入式系统研发, 已验收",
+            "通用高精度移动电源管理系统技术开发, 已验收",
+            "高精度数字高压实验电源关键技术研究与样机研制, 已验收"
+          ]
+        },
+        {
+          "research_direction": "物联网及信息化系统",
+          "projects": [
+            "基于Zigbee/Lora的铁道车辆停车智能防溜系统研发, 已验收",
+            "基于于NB-IOT的智能水表信息化系统关键技术研究与样机研制, 已验收",
+            "基于5G的自来水管网漏损监测系统研制, 已验收",
+            "基于BLE的智能腰带嵌入式系统关键技术研究与样机研制, 已验收"
+          ]
+        }
+      ]
+    },
+    "publications": {
+      "note": "该部分仅包含标题，无具体论文列表。"
+    }
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "meta": {
+    "tutor_name_cn": "姚新",
+    "request_url": "https://www.ln.edu.hk/chs/po/people/professor-xin-yao",
+    "declared_source_url": "https://www.ln.edu.hk/chs/po/people/professor-xin-yao",
+    "page_host": "www.ln.edu.hk",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/7a12d895c6e130e368232eaac95ac33a747ecb96c4b991eb1affa15acc589701.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "source_url": "https://www.ln.edu.hk/chs/po/people/professor-xin-yao",
+    "target_person_name_query": "姚新",
+    "personal_info": {
+      "name": "姚新",
+      "name_en_honorific": "Professor Xin Yao",
+      "biographical_summary": "姚新教授是人工智慧领域国际领军学者。"
+    },
+    "current_positions": [
+      {
+        "title": "副校长(研究及创新)",
+        "institution": "岭南大学"
+      },
+      {
+        "title": "唐天燊机器学习讲座教授",
+        "institution": "岭南大学"
+      }
+    ],
+    "past_positions": [
+      {
+        "role": "任教",
+        "institution": "南方科技大学"
+      },
+      {
+        "role": "任教",
+        "institution": "英国伯明罕大学"
+      },
+      {
+        "role": "任教",
+        "institution": "澳大利亚新南威尔士大学国防学院"
+      },
+      {
+        "role": "任教",
+        "institution": "中国科学技术大学"
+      }
+    ],
+    "academic_achievements": {
+      "awards": [
+        {
+          "year": "2001",
+          "name": "IEEE Donald G. Fink 最佳论文奖"
+        },
+        {
+          "year": "2011",
+          "name": "IEEE Transactions on Neural Networks 最佳论文奖"
+        },
+        {
+          "year": "2010",
+          "name": "IEEE Transactions on Evolutionary Computation 最佳论文奖"
+        },
+        {
+          "year": "2016",
+          "name": "IEEE Transactions on Evolutionary Computation 最佳论文奖"
+        },
+        {
+          "year": "2017",
+          "name": "IEEE Transactions on Evolutionary Computation 最佳论文奖"
+        },
+        {
+          "year": "2003",
+          "name": "IEEE Fellow"
+        },
+        {
+          "year": "2012",
+          "name": "英国皇家学会沃尔夫森优秀研究奖"
+        },
+        {
+          "year": "2013",
+          "name": "IEEE计算智慧学会演化计算先驱奖",
+          "notes": "迄今唯一华人获奖者"
+        },
+        {
+          "year": "2020",
+          "name": "IEEE Frank Rosenblatt奖",
+          "notes": "首位华人获奖者"
+        }
+      ],
+      "recognitions": [
+        {
+          "year": "2021年起",
+          "name": "史丹福大学全球首2%顶尖科学家"
+        },
+        {
+          "year": "2022年",
+          "name": "全球最高获征引研究人员",
+          "name_en": "Highly Cited Researchers"
+        },
+        {
+          "year": "2023年",
+          "name": "全球最高获征引研究人员",
+          "name_en": "Highly Cited Researchers"
+        }
+      ],
+      "publications_and_citations": {
+        "google_scholar_citations": "超过76,000次",
+        "h_index": 126
+      }
+    },
+    "leadership_roles": [
+      {
+        "start_year": "2003",
+        "end_year": "2008",
+        "role": "主编",
+        "organization": "IEEE Transactions on Evolutionary Computation"
+      },
+      {
+        "start_year": "2014",
+        "end_year": "2015",
+        "role": "主席",
+        "organization": "IEEE计算智能学会"
+      }
+    ],
+    "recruitment_info": {
+      "doctorate_program": {
+        "statement": "若您有意与姚新教授修读博士学位，敬请将研究计划及个人履历提交至提供的邮箱。",
+        "contact_email": "xinyao@ln.edu.hk"
+      }
+    },
+    "contact_info": {
+      "email": "xinyao@ln.edu.hk"
+    },
+    "images": [
+      {
+        "url": "https://www.ln.edu.hk/po/f/page/102787/305145/Prof%20Yao%20Xin.jpeg",
+        "alt_text": "Prof Mok resize",
+        "description": "姚新教授照片"
+      }
+    ],
+    "site_chrome": {
+      "skip_to_main_content_link": {
+        "url": "https://www.ln.edu.hk/chs/po/people/professor-xin-yao#main",
+        "anchor_text": "跳至主内容"
+      },
+      "navigation_links": [
+        {
+          "url": "https://www.ln.edu.hk/chs/po",
+          "anchor_text": "校长室"
+        },
+        {
+          "url": "https://www.ln.edu.hk/chs",
+          "anchor_text": "岭南大学"
+        },
+        {
+          "url": "https://www.ln.edu.hk/chs/po",
+          "anchor_text": "校长室"
+        },
+        {
+          "url": "https://www.ln.edu.hk/chs/po",
+          "anchor_text": "团队"
+        },
+        {
+          "url": "https://www.ln.edu.hk/chs/po/people/professor-xin-yao",
+          "anchor_text": "姚新教授"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://www.ln.edu.hk/po/f/setting/100012/0p44/tagline.png",
+          "alt_text": "tagline"
+        },
+        {
+          "url": "https://www.ln.edu.hk/po/f/subsitesetting/100125/1920p0/section-banner.jpg",
+          "alt_text": "Subsite Background"
+        },
+        {
+          "url": "https://www.ln.edu.hk/assets/shared/img/icon_loading-animation-simple-logo.svg",
+          "alt_text": ""
+        }
+      ],
+      "team_members_list": [
+        {
+          "url": "https://www.ln.edu.hk/chs/po/people/professor-qin-s-joe",
+          "name": "秦泗钊教授"
+        },
+        {
+          "url": "https://www.ln.edu.hk/chs/po/people/professor-raymond-chan-hon-fu",
+          "name": "陈汉夫教授"
+        },
+        {
+          "url": "https://www.ln.edu.hk/chs/po/people/mr-ernest-chan-chi-man",
+          "name": "陈志民先生"
+        },
+        {
+          "url": "https://www.ln.edu.hk/chs/po/people/professor-xin-yao",
+          "name": "姚新教授"
+        },
+        {
+          "url": "https://www.ln.edu.hk/chs/po/people/professor-lau-chi-pang-jp",
+          "name": "刘智鹏教授"
+        },
+        {
+          "url": "https://www.ln.edu.hk/chs/po/people/professor-sam-kwong-tak-wu",
+          "name": "邝得互教授"
+        },
+        {
+          "url": "https://www.ln.edu.hk/chs/po/people/dr-li-dong-hui",
+          "name": "李东辉教授"
+        },
+        {
+          "url": "https://www.ln.edu.hk/chs/po/people/professor-barnes-bradley-r",
+          "name": "李海东教授"
+        }
+      ]
+    }
+  }
+}

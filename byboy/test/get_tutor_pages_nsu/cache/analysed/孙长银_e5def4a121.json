@@ -1,0 +1,337 @@
+{
+  "meta": {
+    "tutor_name_cn": "孙长银",
+    "request_url": "http://automation.seu.edu.cn/szy/list.htm",
+    "declared_source_url": "http://automation.seu.edu.cn/szy/list.htm",
+    "page_host": "automation.seu.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/7f77769a2e1c32a666d5968437f7c78fca2bad2a71631d4cba691c4a3a7c9ccb.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "query_name": "孙长银",
+    "source_url": "http://automation.seu.edu.cn/szy/list.htm",
+    "site_chrome": {
+      "capture_source": "http://automation.seu.edu.cn/szy/list.htm",
+      "header_images": [
+        {
+          "url": "https://automation.seu.edu.cn/szy/list.htm",
+          "alt_text": ""
+        }
+      ],
+      "footer_images": [
+        {
+          "url": "https://automation.seu.edu.cn/_visitcount?siteId=338&type=2&columnId=32785",
+          "alt_text": ""
+        }
+      ]
+    },
+    "person": {
+      "name": "孙长银",
+      "basic_info": {
+        "paragraph": "孙长银，中国自动化学会会士，1975年8月出生于安徽霍邱，四川大学理学学士（1996），东南大学工学硕士（2001）、工学博士（2004），香港中文大学博士后（2004），2006年晋升教授， 2012年晋升二级教授。现为东南大学首席教授、校学术委员会委员、自动化学院学术委员会主任、学习机器研究中心主任，《自动化学报》副主编。2008年入选教育部新世纪优秀人才支持计划，2011获得国家杰出青年科学基金，2013年“智能机器人感知与控制”江苏高等学校优秀科技创新团队带头人，2016年被评为全国优秀科技工作者和东南大学优秀共产党员，中组部“万人计划”科技创新领军人才。2019年获批“自主无人系统协同控制理论及应用”国家创新群体项目学术带头人和“人在回路的混合增强智能”科技部“人工智能专项”重大项目首席科学家，国家自然科学基金委信息三处（含人工智能与自动化学科）十四五规划和中长期规划项目负责人，2020年获批江苏前沿引领基础研究专项（探索）领衔科学家。曾获2013年国家自然科学二等奖、2007年教育部自然科学一等奖、2020年教育部自然科学一等奖各1次。学术兼职有中国自动化学会副秘书长、常务理事、人工智能与机器人教育专委会主任，中国人工智能学会常务理事、智能控制与智能管理专业委员会主任。获中华人民共和国建国70周年纪念章一枚。",
+        "birth_date": "1975年8月",
+        "birth_place": "安徽霍邱"
+      },
+      "titles_and_positions": [
+        {
+          "title": "中国自动化学会会士",
+          "type": "学术荣誉"
+        },
+        {
+          "title": "教授",
+          "year_achieved": "2006",
+          "type": "职称"
+        },
+        {
+          "title": "二级教授",
+          "year_achieved": "2012",
+          "type": "职称"
+        },
+        {
+          "title": "东南大学首席教授",
+          "type": "职务"
+        },
+        {
+          "title": "校学术委员会委员",
+          "institution": "东南大学",
+          "type": "职务"
+        },
+        {
+          "title": "自动化学院学术委员会主任",
+          "institution": "东南大学",
+          "type": "职务"
+        },
+        {
+          "title": "学习机器研究中心主任",
+          "institution": "东南大学",
+          "type": "职务"
+        },
+        {
+          "title": "《自动化学报》副主编",
+          "type": "学术兼职"
+        },
+        {
+          "title": "国家创新群体项目学术带头人",
+          "project_name": "自主无人系统协同控制理论及应用",
+          "year_approved": "2019",
+          "type": "项目领导"
+        },
+        {
+          "title": "科技部“人工智能专项”重大项目首席科学家",
+          "project_name": "人在回路的混合增强智能",
+          "year_approved": "2019",
+          "type": "项目领导"
+        },
+        {
+          "title": "国家自然科学基金委信息三处（含人工智能与自动化学科）十四五规划和中长期规划项目负责人",
+          "type": "项目领导"
+        },
+        {
+          "title": "江苏前沿引领基础研究专项（探索）领衔科学家",
+          "year_approved": "2020",
+          "type": "项目领导"
+        }
+      ],
+      "education_history": [
+        {
+          "degree": "理学学士",
+          "institution": "四川大学",
+          "end_year": "1996"
+        },
+        {
+          "degree": "工学硕士",
+          "institution": "东南大学",
+          "end_year": "2001"
+        },
+        {
+          "degree": "工学博士",
+          "institution": "东南大学",
+          "end_year": "2004"
+        },
+        {
+          "degree": "博士后",
+          "institution": "香港中文大学",
+          "end_year": "2004"
+        }
+      ],
+      "work_experience": [
+        {
+          "position": "助教",
+          "institution": "三峡大学理学院",
+          "start_year": "1996",
+          "end_year": "1999"
+        },
+        {
+          "position": "副教授",
+          "institution": "河海大学电气工程学院",
+          "start_year": "2004",
+          "end_year": null
+        },
+        {
+          "position": "教授",
+          "institution": "河海大学电气工程学院",
+          "start_year": "2006",
+          "end_year": null
+        },
+        {
+          "position": "项目主任",
+          "institution": "国家自然科学基金委信息科学部",
+          "start_year": "2007",
+          "end_year": "2009"
+        },
+        {
+          "position": "教授、博士生导师",
+          "institution": "东南大学自动化学院",
+          "start_year": "2007",
+          "end_year": null
+        },
+        {
+          "position": "院长",
+          "institution": "北京科技大学自动化学院",
+          "start_year": "2012",
+          "end_year": null
+        }
+      ],
+      "academic_appointments": [
+        {
+          "position": "兼职教授、博士生导师",
+          "institution": "西安交通大学"
+        },
+        {
+          "position": "副秘书长",
+          "organization": "中国自动化学会"
+        },
+        {
+          "position": "常务理事",
+          "organization": "中国自动化学会"
+        },
+        {
+          "position": "人工智能与机器人教育专委会主任",
+          "organization": "中国自动化学会"
+        },
+        {
+          "position": "常务理事",
+          "organization": "中国人工智能学会"
+        },
+        {
+          "position": "智能控制与智能管理专业委员会主任",
+          "organization": "中国人工智能学会"
+        }
+      ],
+      "awards_and_honors": [
+        {
+          "name": "教育部新世纪优秀人才支持计划",
+          "year": "2008",
+          "type": "人才计划"
+        },
+        {
+          "name": "国家杰出青年科学基金",
+          "year": "2011",
+          "type": "基金资助"
+        },
+        {
+          "name": "“智能机器人感知与控制”江苏高等学校优秀科技创新团队带头人",
+          "year": "2013",
+          "type": "团队荣誉"
+        },
+        {
+          "name": "全国优秀科技工作者",
+          "year": "2016",
+          "type": "个人荣誉"
+        },
+        {
+          "name": "东南大学优秀共产党员",
+          "year": "2016",
+          "type": "个人荣誉"
+        },
+        {
+          "name": "中组部“万人计划”科技创新领军人才",
+          "year": null,
+          "type": "人才计划"
+        },
+        {
+          "name": "国家自然科学二等奖",
+          "year": "2013",
+          "count": 1,
+          "type": "国家级奖项"
+        },
+        {
+          "name": "教育部自然科学一等奖",
+          "year": "2007",
+          "count": 1,
+          "type": "部委级奖项"
+        },
+        {
+          "name": "教育部自然科学一等奖",
+          "year": "2020",
+          "count": 1,
+          "type": "部委级奖项"
+        },
+        {
+          "name": "中华人民共和国建国70周年纪念章",
+          "year": null,
+          "type": "纪念章"
+        },
+        {
+          "name": "杨嘉墀科技奖一等奖",
+          "year": null,
+          "type": "科技奖项"
+        },
+        {
+          "name": "陈翰馥奖",
+          "year": null,
+          "type": "科技奖项"
+        }
+      ],
+      "courses_taught": [],
+      "student_supervision": {
+        "recruitment_description": "每年招生自动化、数学、计算机专业背景基础的硕士生、博士生；常年招收国内外机器人、控制科学与工程、人工智能学科相关的博士加入团队，视具体情况推荐为至善博士后（年薪35万元起），讲师、副教授、教授。",
+        "preferred_backgrounds": [
+          "自动化",
+          "数学",
+          "计算机"
+        ],
+        "recruiting_degrees": [
+          "硕士生",
+          "博士生"
+        ],
+        "postdoc_opportunities": [
+          {
+            "program": "至善博士后",
+            "min_annual_salary": "35万元起"
+          }
+        ],
+        "faculty_opportunities": [
+          "讲师",
+          "副教授",
+          "教授"
+        ],
+        "welcome_message": "欢迎加入东南大学自动化学院！"
+      },
+      "research_interests": [
+        "机器人工程",
+        "模式识别与智能系统",
+        "无人系统智能控制"
+      ],
+      "research_projects": [
+        {
+          "project_name": "自主无人系统协同控制理论及应用",
+          "source": "国家自然科学基金委创新研究群体项目",
+          "funding_million_rmb": 1050,
+          "period": "2020-2024"
+        },
+        {
+          "project_name": "多源信息感知融合与智能控制技术基础",
+          "source": "江苏省科技厅",
+          "funding_million_rmb": 500,
+          "period": "2020-2022"
+        },
+        {
+          "project_name": "人在回路的混合增强智能",
+          "source": "科技部“2030-人工智能专项”重大项目",
+          "funding_million_rmb": 893,
+          "period": "2019-2022"
+        },
+        {
+          "project_name": "机器人集群的智能协同控制理论与方法",
+          "source": "国家自然科学基金委-深圳机器人基础研究中心项目",
+          "funding_million_rmb": 300,
+          "period": "2018-2021"
+        },
+        {
+          "project_name": "国家特殊人才支持计划项目",
+          "source": "科技部",
+          "funding_million_rmb": 80,
+          "period": "2018-2020"
+        },
+        {
+          "project_name": "多智能体事件驱动分布式优化控制",
+          "source": "国家自然科学基金重点国际合作项目",
+          "funding_million_rmb": 294,
+          "period": "2016-2020"
+        },
+        {
+          "project_name": "强气流干扰下无人直升机自主导航与控制理论和关键技术研究（合作单位负责人）",
+          "source": "国家自然科学基金重点项目",
+          "funding_million_rmb": 355,
+          "period": "2016-2020",
+          "note": "合作单位负责人"
+        }
+      ],
+      "publications": [
+        "1. An analysis of a neural dynamical approach to solving optimization problems，IEEE Transactions on Automatic Control，2009, 54(8)1972-1977。",
+        "2. Neural network control of a flexible robotic manipulator using the lumped spring-mass model，IEEE Transactions on Systems Man & Cybernetics: Systems，2017, 47(8)1863-1874。",
+        "3. Fuzzy neural network control of a flexible robotic manipulator using assumed mode method，IEEE Transactions on Neural Networks and Learning Systems，2018, 29(11) 5214-5227。",
+        "4. Discrete-time analogues of integrodifferential equations modeling neural networks Physics Letters A2005, 39(4) 180-191。",
+        "5. Robust output containment control of multi-agent systems with unknown heterogeneous nonlinear uncertainties in directed networks，International Journal of Systems Science，2017, 48(6)1173-1181",
+        "6. 一类非线性逆系统的加权最小二乘支持向量机辨识方法, 中国科学:信息科学, 2009 , 39(4)431-440。",
+        "7. 自动化学科面临的挑战，自动化学报，2021, 47 (2)462-472。",
+        "8. Inverse Visual Question Answering: A New Benchmark and VQA Diagnosis ToolIEEE Transactions on Pattern Analysis and Machine Intelligence，2020，42(2)460-474。",
+        "9. 多智能体深度强化学习的若干关键科学问题，自动化学报，2020, 46(7)1301-1312。"
+      ]
+    }
+  }
+}

@@ -1,0 +1,1067 @@
+{
+  "meta": {
+    "tutor_name_cn": "李俊",
+    "request_url": "http://automation.seu.edu.cn/lj/list.htm",
+    "declared_source_url": "http://automation.seu.edu.cn/lj/list.htm",
+    "page_host": "automation.seu.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/1f5b6329f94626aa2d2b57ed7049333974b4656798149dfadec35ca6006bc0bd.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "site_chrome": {
+      "source_url": "http://automation.seu.edu.cn/lj/list.htm",
+      "image_placeholder": "https://automation.seu.edu.cn/lj/list.htm",
+      "footer_navigation_links": [
+        "教育背景",
+        "工作经历",
+        "学术兼职",
+        "所获奖励",
+        "讲授课程",
+        "学生培养",
+        "研究兴趣",
+        "科研项目",
+        "论文发表"
+      ],
+      "visit_count_image": "https://automation.seu.edu.cn/_visitcount?siteId=338&type=2&columnId=50558"
+    },
+    "basic_info": {
+      "name": "李俊",
+      "title_affiliations": [
+        "东南大学自动化学院教授",
+        "博导",
+        "硕导"
+      ],
+      "birth_date": "1978年5月",
+      "hometown": "安徽芜湖人",
+      "education_summary": "2007年东南大学控制理论与控制工程专业博士毕业",
+      "work_experience_summary": "2010年博士后出站后留校任教",
+      "promotions": [
+        {
+          "year": "2012年",
+          "position": "副研究员"
+        },
+        {
+          "year": "2013年",
+          "position": "博导"
+        },
+        {
+          "year": "2018年",
+          "position": "教授"
+        }
+      ],
+      "visiting_scholar_experience": {
+        "period": "2013.12-2014.12",
+        "institution": "美国新泽西理工学院"
+      },
+      "professional_memberships_roles": [
+        "英国工程与技术学会会士（IET Fellow）",
+        "电气与电子工程师协会高级会员（IEEE Senior Member）",
+        "IEEE Transactions on Intelligent Transportation Systems副编辑（Associate Editor）"
+      ],
+      "administrative_roles": [
+        "东南大学智慧建造与运维国家地方联合工程研发中心副主任"
+      ],
+      "current_research_focus": "目前主要围绕物流、交通、建造、制造等领域的自动化、智能化、数字化建设需求，开展运筹优化、机器视觉、智能机器人等方向的研究。",
+      "key_research_contributions": [
+        {
+          "id": 1,
+          "description": "提出多机大规模作业系统的一体化调度与控制理论方法：以独创的着色旅行商问题（Colored Traveling Salesman Problem）理论、运筹优化、机器学习、云计算、智能控制等方法与技术为核心，统一解决各领域同构/异构、有人/无人多机大规模作业系统的任务调度、路径规划与协作控制的难题，已在港口、物流仓储、建造等多个行业落地应用。"
+        },
+        {
+          "id": 2,
+          "description": "拥有工程车辆自动驾驶和作业引导的核心视觉感知技术，涉及自适应车道线与极细缝隙的鲁棒精确跟踪、集装箱装卸智能识别定位、车-臂协同、多车协同控制等高精尖技术，已应用到集装箱轮胎吊自动驾驶和装卸、自主无轨移动焊接，推广场景还包括重载物流搬运、建筑吊装。"
+        },
+        {
+          "id": 3,
+          "description": "拥有输送线上运动工件的尺寸偏差和表观缺陷的动态检测技术，广泛适用于中高速产线上各式工件的顶面、端面、侧面尺寸和表观在线检测，已在重大基础建设领域应用并首创钢筋套丝头加工偏差在线视觉测量系统。"
+        },
+        {
+          "id": 4,
+          "description": "拥有目标清点与自动校验视觉技术，已形成贵重、重要小件清点样机装备并在多行业落地应用，可以进一步研究推广到其他静、动态小、微目标的精准计数上。"
+        },
+        {
+          "id": 5,
+          "description": "已形成便携式安监视觉工作站样机，实现了动火、人员劳保着装、行为异常、有害气体的一站式检测，可以单机和网络化部署，提供算法、软件、设备的定制化开发服务，已实现小批量应用。"
+        }
+      ],
+      "publications_summary": "已在Automatica、IEEE T Cyber.、IEEE TITS、IEEE TIE、IEEE T SMCS等顶级学术期刊和会议上发表论文60余篇",
+      "patents_summary": "授权发明专利8件",
+      "projects_summary": "主持（完成）项目包括，国家自然基金项目3项、省自然基金1项，参与（完成）国家重点研发计划课题1项、973计划子课题、863计划课题各1项、江苏省成果转化项目课题2项、攻关项目课题1项，以及获得了各领域头部企业的研发资助。",
+      "awards_honors": [
+        "2009年东南大学优秀博士学位论文",
+        "2010-2011年度菲尼克斯电气-东南大学教学奖励",
+        "2013年入选东南大学优秀青年教师资助计划",
+        "2015年4月荣获台北举行的ICNSC国际会议最佳论文奖",
+        "2016年入选江苏省第十三批“六大人才高峰”高层次人才选拔培养对象",
+        "镇江市“金山英才”计划—“镇江制造2025”领军人才",
+        "2022年荣获华为颁发的价值“火花奖”",
+        "2022年中国航海学会科技进步一等奖",
+        "2023年“中核杯”揭榜挂帅专题赛合作优胜奖",
+        "华为供应链运筹管理委员会专家委员会合作创新奖",
+        "2024年青岛市科技进步特等奖"
+      ],
+      "academic_activities_organizations": {
+        "roles": [
+          "IET Fellow",
+          "IEEE Senior Member",
+          "IEEE TITS编委会委员、副编辑",
+          "10+个国际顶级期刊的同行评审人",
+          "国家自然科学基金委员会自动化、计算机、制造学科通讯评议人"
+        ],
+        "invited_talks": [
+          "美国新泽西理工学院（NJIT）",
+          "IEEE北新泽西分会",
+          "台湾中央大学",
+          "澳门科技大学",
+          "多个中国大陆高校"
+        ],
+        "international_collaborations": [
+          "与NJIT、新加坡南洋理工大学等国际著名学者建立起学术联系并联合培养研究生"
+        ]
+      },
+      "robotics_intelligent_systems_lab": {
+        "name": "机器人学与智能系统实验室（RISYS Lab）",
+        "current_students": {
+          "phd": 8,
+          "master": 16
+        },
+        "collaborating_faculty": {
+          "associate_professors": 1,
+          "lecturers": 1
+        },
+        "philosophy": "秉持科研应创造社会价值的理念开展产学研合作",
+        "joint_centers": [
+          "东大自动化学院—苏州苏瑞膜智能制造联合工程研发中心"
+        ],
+        "industry_partners": [
+          "华为",
+          "青岛港",
+          "中核华兴",
+          "中交二航局",
+          "中船鹏力"
+        ],
+        "current_development_focus": "近来年，李博士的团队正尝试视觉、调度、机器人的几款原型、样机的开发和产业化。"
+      }
+    },
+    "research_directions": [
+      {
+        "title": "智能机器人",
+        "description": "机器人的任务理解、环境感知、行为决策与控制的理论方法研究与装备开发。目前重点围绕移动作业机器人研究基础大模型、自动驾驶与作业控制、自主编程、机器人学习、建筑建图与测绘等技术，开发爬壁机器人、物流机器人、建筑机器人、软体机器人等装备。"
+      },
+      {
+        "title": "模式识别与图像处理",
+        "description": "工控、安监与质检等领域的模式识别与图像处理技术与装备研发。目前着重研究车道线/轨迹检测与跟踪、环境感知与作业引导、视频感知增强、异常状态与行为检测、尺寸与轮廓测量、表观缺陷检测、自动计数与校验等技术与装备；"
+      },
+      {
+        "title": "系统工程",
+        "description": "大规模/超大规模优化、集群调度与控制的理论方法与应用研究。目前着重面向大规模/超大规模组合优化问题，如多重贯序排序问题、着色旅行商问题、复杂布局问题，研究其数学建模、进化分治求解、构造式/生成式优化算法设计的理论方法，以及开展多机大规模作业调度与控制（任务调度、路径规划、协作控制）的应用研究，开发相关优化与仿真软件、云-边-端协同的调度与控制系统。"
+      }
+    ],
+    "admissions_info": {
+      "recruitment_plan": {
+        "postdocs_per_year": 1,
+        "phd_students_per_year": "1~2",
+        "master_students_per_year": "5~6 (含苏州、无锡校区)"
+      },
+      "welcome_message": "欢迎自动化、计算机、数学、机电等相关专业的考生联系、报考！",
+      "contact_details": {
+        "office_address": "四牌楼校区中心楼416室",
+        "email": "j.li@seu.edu.cn"
+      }
+    },
+    "courses_teaching_reform": [
+      {
+        "type": "本科基础课",
+        "course_name": "C/C++程序设计及算法语言（电类）II",
+        "period": "2010-2011",
+        "program": "自动化专业"
+      },
+      {
+        "type": "本科专业选修课",
+        "course_name": "机器人控制",
+        "period": "2011-2017",
+        "program": "自动化专业"
+      },
+      {
+        "type": "本科专业选修课",
+        "course_name": "机器人学",
+        "period": "2017-2018",
+        "program": "自动化专业"
+      },
+      {
+        "type": "专业必修课",
+        "course_name": "机器人技术基础",
+        "period": "2018-",
+        "program": "机器人工程专业"
+      },
+      {
+        "type": "教改项目",
+        "description": "承担2017年度校级教改重大项目“机器人专业的《机器人学》课程建设、研讨型与双语教学模式研究及持续改进”"
+      },
+      {
+        "type": "课程建设",
+        "description": "承接了校硕士生自控专业全英文课程《Robotics: Mechanics and Control》的建设，并组织海外知名教授来校讲课"
+      },
+      {
+        "type": "课程建设",
+        "description": "承担校第二批三类课程建设计划课程《Robotics and Control》"
+      }
+    ],
+    "major_research_projects": [
+      {
+        "role": "负责",
+        "project_name": "国家重点研发计划项目课题“施工质量监测和安全智能巡检关键技术与装备研究”",
+        "execution_period": "2025.1-2027.12"
+      },
+      {
+        "role": "主持",
+        "project_name": "企业委托项目“建造现场大型设备智能调度与管理系统研发”",
+        "execution_period": "2024.12-2025.10"
+      },
+      {
+        "role": "主持",
+        "project_name": "东南大学南通海洋高等研究院资助项目“集装箱码头桥吊对船鲁棒智能抓箱控制方法研究”",
+        "execution_period": "2024.9-2026.9"
+      },
+      {
+        "role": "主持",
+        "project_name": "企业委托项目“智能建造安监巡检机器人与智能验收机器人开发”",
+        "execution_period": "2024.8-2025.8"
+      },
+      {
+        "role": "主持",
+        "project_name": "华为委托难题项目“物流拼单装柜模型与求解技术”",
+        "execution_period": "2024.1-2024.9"
+      },
+      {
+        "role": "主持",
+        "project_name": "企业委托项目“高精度无轨自主移动埋弧焊机器人开发”",
+        "execution_period": "2023.8-2024.8"
+      },
+      {
+        "role": "主持",
+        "project_name": "中科院自动化所多模态人工智能系统全国重点实验室开放课题“基于视觉伺服的对靶喷药除草方法研究”",
+        "execution_period": "2023.7-2024.12"
+      },
+      {
+        "role": "主持",
+        "project_name": "华为委托的揭榜难题项目“港口泊位与岸桥分配优化”",
+        "execution_period": "2022.7-2023.7"
+      },
+      {
+        "role": "参与",
+        "project_name": "国家重点研发计划项目课题“桥梁建造机器人的智能控制理论与方法研究”",
+        "specific_role": "负责专题：面向复杂建造任务的多机器人群体协同控制",
+        "execution_period": "2021.10-2026.9"
+      },
+      {
+        "role": "主持",
+        "project_name": "企业委托项目“基于人工智能的自动化码头算法和系统优化——构建智能融合算法平台”",
+        "execution_period": "2021.12-2023.10"
+      },
+      {
+        "role": "主持",
+        "project_name": "企业委托项目“基于视觉的港口轮胎吊自动纠偏技术开发”",
+        "execution_period": "2021.7-2021.9"
+      },
+      {
+        "role": "主持",
+        "project_name": "企业委托项目“云-边-端架构下的学习型机器人分拣关键技术研究”",
+        "execution_period": "2021.6-2022.5"
+      },
+      {
+        "role": "主持",
+        "project_name": "企业委托项目“钢筋套丝头尺寸偏差在线检测技术与系统研发”",
+        "execution_period": "2021.7-2022.6"
+      },
+      {
+        "role": "主持",
+        "project_name": "企业委托项目“基于3D视觉的机器人智能分拣与智能编程模块”",
+        "execution_period": "2021.4-2021.10"
+      },
+      {
+        "role": "主持",
+        "project_name": "深圳市科技计划-基础研究（面上）项目“基于云计算的搬运机器人集群调度关键技术研究”",
+        "execution_period": "2020.1-2022.12"
+      },
+      {
+        "role": "主持",
+        "project_name": "企业委托项目“基于深度学习的反渗透膜缺陷检测技术研发”",
+        "execution_period": "2019.10-2020.9"
+      },
+      {
+        "role": "负责",
+        "project_name": "“东大自动化学院—苏州苏瑞膜智能制造联合工程研发中心”建设项目",
+        "execution_period": "2019.5-2021.5"
+      },
+      {
+        "role": "主持",
+        "project_name": "国家自然科学基金面上项目“超图定义下的广义旅行商问题的理论与方法研究”",
+        "execution_period": "2018.1-2021.12"
+      },
+      {
+        "role": "主持",
+        "project_name": "东南大学基本科研业务费基础扶持类高水平论文项目“广义旅行商问题的理论与方法研究”",
+        "execution_period": "2017.1-2019.12"
+      },
+      {
+        "role": "主持",
+        "project_name": "江苏大学现代农业装备与技术教育部重点实验室开放课题“基于深度学习的高架草莓分级采摘机器人研究”",
+        "execution_period": "2017.1-2019.12"
+      },
+      {
+        "role": "主持",
+        "project_name": "“六大人才高峰”第十三批高层次人才选拔培养资助项目“着色旅行商问题及其在传感数据移动收集中的应用”",
+        "execution_period": "2016.9-2019.9"
+      },
+      {
+        "role": "主持",
+        "project_name": "江苏省基础研究计划项目“着色旅行商问题理论与应用研究”",
+        "execution_period": "2016.7-2019.6"
+      },
+      {
+        "role": "主持",
+        "project_name": "企业委托项目“LED晶粒高速高精度分拣和固胶视觉系统研制”",
+        "execution_period": "2015.8-2017.7"
+      },
+      {
+        "role": "主持",
+        "project_name": "镇江市“金山英才”计划项目“触屏手机人机接口的智能机器人测试装备研制与产业化”",
+        "execution_period": "2016.9—2021.9"
+      },
+      {
+        "role": "主持",
+        "project_name": "东南大学优秀青年教师资助计划项目“无限状态离散事件系统的状态可达性研究”",
+        "execution_period": "2014.1—2016.12"
+      },
+      {
+        "role": "主持",
+        "project_name": "国家自然基金项目（面上）“作用域局部重叠的多机工程系统的优化调度与协调控制”",
+        "execution_period": "2014.1—2017.12"
+      },
+      {
+        "role": "负责",
+        "project_name": "国家自然基金项目（面上）“无界Petri网分析理论与方法”",
+        "execution_period": "2014.1—2017.12",
+        "additional_info": "合作负责人，合作单位：同济大学"
+      },
+      {
+        "role": "主持",
+        "project_name": "国家自然基金项目（青年）“离散事件系统的监督控制重构及优化方法的研究”",
+        "execution_period": "2011.1—2013.12"
+      },
+      {
+        "role": "参与",
+        "project_name": "国家自然基金项目“可重构流水线动态调度和构形选择集成优化问题研究”",
+        "execution_period": "2012.1—2014.12",
+        "rank": "排二"
+      },
+      {
+        "role": "参与",
+        "project_name": "“高档数控机床与基础制造装备”科技重大专项子课题“15kg喷涂机器人成套装备”",
+        "execution_period": "2010—2012",
+        "rank": "排四"
+      },
+      {
+        "role": "参与",
+        "project_name": "江苏省科技成果转化专项“焊接机器人成套装备”",
+        "execution_period": "2008-2010"
+      },
+      {
+        "role": "参与",
+        "project_name": "江苏省科技成果转化专项“柔性超高压水切割系统研发及产业化”",
+        "execution_period": "2009—2012"
+      },
+      {
+        "role": "参与",
+        "project_name": "国家973计划项目课题“多机器人可重构系统的实时协调控制理论与方法研究”",
+        "execution_period": "2003.10-2007.10"
+      }
+    ],
+    "recent_publications": {
+      "journal_papers": [
+        {
+          "authors": "Y. Feng, J. Li*, and MengChu Zhou",
+          "title": "Instruction-Driven Multi-Weather Image Translation Based on a Large-Scale Image Editing Model",
+          "journal": "IEEE Transactions on Image Processing",
+          "year": "2025",
+          "status": "Accepted",
+          "notes": "*Corresponding Author"
+        },
+        {
+          "authors": "Y. Feng and J. Li*",
+          "title": "Auto-Prompting SAM-Based Container Detection and Localization in Yards",
+          "journal": "IEEE Transactions on Intelligent Transportation Systems",
+          "year": "2025",
+          "volume": "26",
+          "issue": "8",
+          "pages": "11504 - 11514"
+        },
+        {
+          "authors": "Lin, Z., Li, J.* & Li, Y.",
+          "title": "A cloud computing approach to superscale colored traveling salesman problems",
+          "journal": "J Supercomput",
+          "year": "2024",
+          "volume": "80",
+          "issue": "19",
+          "pages": "pp.27340-27369",
+          "doi": "https://doi.org/10.1007/s11227-024-06433-x"
+        },
+        {
+          "authors": "Kunyang Zhou, Yunjian Feng, and Jun Li",
+          "title": "Unsupervised Domain Adaptive Lane Detection via Contextual Contrast and Aggregation",
+          "journal": "ArXiv",
+          "year": "2024",
+          "url": "https://arxiv.org/abs/2407.13328"
+        },
+        {
+          "authors": "Y. Hou, Z. Fang, and J. Li*",
+          "title": "Collaborative Robotic Grasp-Throw via Self-Supervised Multi-Modal Leanring",
+          "journal": "IEEE Robotics and Automation Letters",
+          "year": "2024",
+          "volume": "9",
+          "issue": "5",
+          "pages": "4250-4256"
+        },
+        {
+          "authors": "Yanxu Hou, Jun Li*, and I-Ming Chen",
+          "title": "Self-Supervised Antipodal Grasp Learning with Fine-Grained Grasp Quality Feedback in Clutter",
+          "journal": "IEEE Transactions on Industrial Electronics",
+          "year": "2024",
+          "volume": "71",
+          "issue": "4",
+          "pages": "3853-3861",
+          "doi": "10.1109/TIE.2023.3274854"
+        },
+        {
+          "authors": "Yanxu Hou and Jun Li*",
+          "title": "Learning Dexterous 6-DoF Grasping with Dual-Agent Deep Reinforcement Learning",
+          "journal": "Robotics and Autonomous Systems",
+          "status": "Online",
+          "doi": "10.1016/j.robot.2023.104451"
+        },
+        {
+          "authors": "Y. Feng, K. Zhou, J. Li*, and M. Zhou",
+          "title": "Incremental Learning-based Lane Detection for Automated Rubber-Tired Gantries in Container Terminal",
+          "journal": "IEEE Transactions on Circuits and Systems for Video Technology",
+          "status": "Online",
+          "year": "2024",
+          "volume": "34",
+          "issue": "5",
+          "pages": "3168-3179",
+          "doi": "10.1109/TCSVT.2023.3313576"
+        },
+        {
+          "authors": "Y. Feng and J. Li*",
+          "title": "Robust Accurate Lane Detection and Tracking for Automated Rubber-Tired Gantries in a Container Terminal",
+          "journal": "IEEE Transactions on Intelligent Transportation Systems",
+          "year": "2023",
+          "volume": "24",
+          "issue": "10",
+          "pages": "11254-11264",
+          "doi": "10.1109/TITS.2023.3274767"
+        },
+        {
+          "authors": "Z. Shao, W. Zhao, Z. Zuo, J. Li*, and Chen, I.-M.",
+          "title": "An Origami-Inspired Negative Pressure Folding Actuator Coupling Hardness with Softness",
+          "journal": "Actuators",
+          "year": "2023",
+          "volume": "12",
+          "issue": "35",
+          "doi": "10.3390/act12010035"
+        },
+        {
+          "authors": "Z. Shao, W. Zhao, Z. Zuo, and J. Li*",
+          "title": "Evolution from Telescoping to Bending: An Origami-Inspired Flexible Bending Actuator",
+          "journal": "Applied Bionics and Biomechanics",
+          "year": "2023",
+          "volume": "2023",
+          "article_id": "5522710",
+          "doi": "rg/10.1155/2023/5522710"
+        },
+        {
+          "authors": "Xiangping Xu, Jun Li*, MengChu Zhou, and Xinghuo Yu",
+          "title": "Bi-Objective Colored Traveling Salesman Problems",
+          "journal": "IEEE Transactions on Intelligent Transportation Systems",
+          "year": "2022",
+          "volume": "23",
+          "issue": "7",
+          "pages": "6326 - 6336"
+        },
+        {
+          "authors": "Xiangping Xu, Jun Li*, MengChu Zhou, and Xinghuo Yu",
+          "title": "Precedence-Constrained Colored Traveling Salesman Problems: An Augmented Variable Neighborhood Search Approach",
+          "journal": "IEEE Transactions on Cybernetics",
+          "year": "2022",
+          "volume": "52",
+          "issue": "9",
+          "pages": "9797 - 9808"
+        },
+        {
+          "authors": "X. Xu, J. Li*, M.C. Zhou",
+          "title": "Delaunay-Triangulation-Based Variable Neighborhood Search to Solve Large-Scale General Colored Traveling Salesman Problems",
+          "journal": "IEEE Transactions on Intelligent Transportation Systems",
+          "year": "2021",
+          "volume": "22",
+          "issue": "3",
+          "pages": "1583 - 1593",
+          "notes": "ESI 高被引论文"
+        },
+        {
+          "authors": "Xiangping Xu, Jun Li*, MengChu Zhou, et al.",
+          "title": "Accelerated Two-Stage Particle Swarm Optimization for Clustering Not-Well-Separated Data",
+          "journal": "IEEE Transactions on Systems, Man, and Cybernetics: Systems",
+          "year": "2020",
+          "volume": "50",
+          "issue": "11",
+          "pages": "4212-4223"
+        },
+        {
+          "authors": "Jun Li, Xiaolong Yu, and MengChu Zhou",
+          "title": "Analysis of Unbounded Petri Net with Lean Reachability Trees",
+          "journal": "IEEE Transactions on Systems Man Cybernetics: Systems",
+          "year": "2020",
+          "volume": "50",
+          "issue": "6",
+          "pages": "2007-2016"
+        },
+        {
+          "authors": "X. Zhu, J. Li*, M.C. Zhou, and X. Chen",
+          "title": "Optimal Deployment of Energy Harvesting Directional Sensor Networks for Target Coverage",
+          "journal": "IEEE Systems Journal",
+          "year": "2019",
+          "volume": "13",
+          "issue": "1",
+          "pages": "377-388"
+        },
+        {
+          "authors": "X. Zhu, J. Li*, and M.C. Zhou",
+          "title": "Target Coverage-Oriented Deployment of Rechargeable Directional Sensor Networks with a Mobile Charger",
+          "journal": "IEEE Internet of Things Journal",
+          "year": "2019",
+          "volume": "6",
+          "pages": "5196-5208"
+        },
+        {
+          "authors": "Xianghu Meng, Jun Li*, Xianzhong Da, and Jianping Dou",
+          "title": "Variable Neighborhood Search for Colored Traveling Salesman Problem",
+          "journal": "IEEE Transactions on Intelligent Transportation Systems",
+          "year": "2018",
+          "volume": "19",
+          "issue": "4",
+          "pages": "1018-1026"
+        },
+        {
+          "authors": "Xianghu Meng, Jun Li*, MengChu Zhou, and Xianzhong Dai",
+          "title": "Population-Based Incremental Learning Algorithm for a Serial Colored Traveling Salesman Problem",
+          "journal": "IEEE Transactions on Systems, Man and Cybernetics: Systems",
+          "year": "2018",
+          "volume": "48",
+          "issue": "2",
+          "pages": "277-288"
+        },
+        {
+          "authors": "Jun Li, Xianghu Meng, and Xianzhong Dai",
+          "title": "Collision-free Scheduling of Multi-Bridge Machining Systems: A Colored Traveling Salesman Problem-based Approach",
+          "journal": "IEEE/CAA Journal of Automatica Sinica",
+          "year": "2018",
+          "volume": "5",
+          "issue": "1",
+          "pages": "139-147"
+        },
+        {
+          "authors": "Jun Li, Xiaolong Yu, MengChu Zhou, Xianzhong Dai",
+          "title": "Lean Reachability Tree for Unbounded Petri Nets",
+          "journal": "IEEE Transactions on Systems, Man and Cybernetics: Systems",
+          "year": "2018",
+          "volume": "48",
+          "issue": "2",
+          "pages": "299-308"
+        },
+        {
+          "authors": "J. Li, X. Meng, M.C. Zhou, and X. Dai",
+          "title": "A Two-Stage Approach to Path Planning and Collision Avoidance of Multibridge Machining Systems",
+          "journal": "IEEE Transactions on Systems, Man, and Cybernetics: Systems",
+          "year": "2017",
+          "volume": "47",
+          "issue": "7",
+          "pages": "1039-1049"
+        },
+        {
+          "authors": "J. Li, Q. Sun, M. C. Zhou, Z. Dai, and X. Yu",
+          "title": "Colored Traveling Salesman Problem",
+          "journal": "IEEE Transactions on Cybernetics",
+          "year": "2015",
+          "volume": "45",
+          "issue": "11",
+          "pages": "2390-2401"
+        },
+        {
+          "authors": "Jun Li, MengChu Zhou, Tao Guo, Yahui Gan, and Xianzhong Dai",
+          "title": "Robust control reconfiguration of resource allocation systems with Petri nets and integer programming",
+          "journal": "Automatica",
+          "year": "2014",
+          "volume": "50",
+          "issue": "3",
+          "pages": "915-923"
+        }
+      ],
+      "conference_papers": [
+        {
+          "authors": "K. Zhou, Y. Feng, and J. Li*",
+          "title": "Context-aware unsupervised domain-adaptive lane detection",
+          "conference": "2024 International Conference on Learning Representations (ICLR 2024, Top Conference)",
+          "status": "Submit to"
+        },
+        {
+          "authors": "Y. Duan, J. Li*",
+          "title": "A New Data Structure-Satellite List for Solving Colored Traveling Salesman Problem",
+          "conference": "Proc. 2023 IEEE International Conference on Systems, Man and Cybernetics (SMC 2023)",
+          "location": "Hawaii, USA",
+          "year": "2023"
+        },
+        {
+          "authors": "Y. Feng, and J. Li*",
+          "title": "Robust lane detection and tracking for autonomous driving of rubber-tired gantry cranes in a container yard",
+          "conference": "Proc. 2022 IEEE Int. Conf. Autom. Sci. Eng. (CASE 2022)",
+          "date": "Aug. 2022",
+          "pages": "pp. 1729-1734"
+        },
+        {
+          "authors": "Z. Lin, P. Ding, and J. Li*",
+          "title": "Task Scheduling and Path Planning of Multiple AGVs via Cloud and Edge Computing",
+          "conference": "Proc. 2021 IEEE International Conference on Networking, Sensing and Control (ICNSC 2021)",
+          "year": "2021"
+        },
+        {
+          "authors": "Jun Li, Xianghu Meng, MengChu Zhou",
+          "title": "Job Scheduling and Collision Resolution of Multi-Bridge Processing Systems",
+          "conference": "Proc. 2015 IEEE 12th International Conference on Networking, Sensing and Control (ICNSC 2015)",
+          "location": "Taipei",
+          "date": "Apr. 9-12, 2015",
+          "award": "Best Paper Award"
+        }
+      ]
+    },
+    "thesis_supervision": {
+      "recent_theses": [
+        {
+          "student_name": "冯云剑",
+          "thesis_title": "港口轮胎式龙门吊作业自动化关键视觉感知方法研究",
+          "degree": "博士学位论文",
+          "year": "2025",
+          "placement": "华为上海",
+          "notes": "学位论文推优"
+        },
+        {
+          "student_name": "周昆阳",
+          "thesis_title": "基于上下文学习的生产安全异常检测技术研究",
+          "degree": "硕士学位论文",
+          "year": "2025",
+          "placement": "小红书上海",
+          "notes": "签约薪酬创学院纪录"
+        },
+        {
+          "student_name": "周海翔",
+          "thesis_title": "考虑订单处理的三维装箱问题研究",
+          "degree": "硕士学位论文",
+          "year": "2025",
+          "placement": "华为上海"
+        },
+        {
+          "student_name": "董艳珊",
+          "thesis_title": "磁吸附直角壁面爬行机器人设计与实现",
+          "degree": "硕士学位论文",
+          "year": "2025",
+          "placement": "比亚迪深圳"
+        },
+        {
+          "student_name": "伯汶欣",
+          "thesis_title": "含混形箱装载的车辆路径规划方法研究",
+          "degree": "硕士学位论文",
+          "year": "2025",
+          "placement": "南京航天晨光"
+        },
+        {
+          "student_name": "程昊",
+          "thesis_title": "基于RGB-D相机的工程机械远程深度感知技术研究",
+          "degree": "硕士学位论文",
+          "year": "2025",
+          "placement": "荣耀南京"
+        },
+        {
+          "student_name": "宋演",
+          "thesis_title": "多桁架机器人系统的调度、控制与仿真研究",
+          "degree": "硕士学位论文",
+          "year": "2025",
+          "placement": "中车株洲"
+        },
+        {
+          "student_name": "侯言旭",
+          "thesis_title": "机器人操作技能的强化学习方法",
+          "degree": "博士学位论文",
+          "year": "2024.5",
+          "placement": "国机数科"
+        },
+        {
+          "student_name": "陈朱素仪",
+          "thesis_title": "智能埋弧焊小车焊缝检测与跟踪控制技术研究",
+          "degree": "硕士学位论文",
+          "year": "2024.5",
+          "placement": "荣耀南京"
+        },
+        {
+          "student_name": "李圣坤",
+          "thesis_title": "集装箱码头大规模AGV任务调度与路径规划",
+          "degree": "硕士学位论文",
+          "year": "2024.5",
+          "placement": "快手杭州"
+        },
+        {
+          "student_name": "顾晖",
+          "thesis_title": "多桁架3D打印的路径规划与协调控制方法研究",
+          "degree": "硕士学位论文",
+          "year": "2024.5",
+          "placement": "华为深圳"
+        },
+        {
+          "student_name": "陈德显",
+          "thesis_title": "云-边架构下场景驱动的港机通用调度技术研究",
+          "degree": "硕士学位论文",
+          "year": "2024.5",
+          "placement": "南京电信"
+        },
+        {
+          "student_name": "吕洋",
+          "thesis_title": "云-边协同的多桁架机器人调度与控制研究",
+          "degree": "硕士学位论文",
+          "year": "2024.5",
+          "placement": "中兴通讯南京"
+        },
+        {
+          "student_name": "张亮",
+          "thesis_title": "6-DOF果蔬采摘机械臂设计与分析",
+          "degree": "博士后出站报告",
+          "year": "2023",
+          "placement": "回在职单位"
+        },
+        {
+          "student_name": "徐翔",
+          "thesis_title": "港口轮胎式龙门吊自动驾驶关键视觉技术研究",
+          "degree": "硕士学位论文",
+          "year": "2023",
+          "placement": "华为苏州"
+        },
+        {
+          "student_name": "秦天为",
+          "thesis_title": "基于视觉的钢筋丝头尺寸动态测量技术研究",
+          "degree": "硕士学位论文",
+          "year": "2023",
+          "placement": "苏州移动"
+        },
+        {
+          "student_name": "闫兴达",
+          "thesis_title": "集装箱码头龙门吊抓箱关键视觉技术研究",
+          "degree": "硕士学位论文",
+          "year": "2023",
+          "placement": "中兴南京"
+        },
+        {
+          "student_name": "左照天",
+          "thesis_title": "并联四足机器人步态的仿生控制方法研究",
+          "degree": "硕士学位论文",
+          "year": "2023",
+          "placement": "中兴华为"
+        },
+        {
+          "student_name": "童蕴之",
+          "thesis_title": "考虑偏好和潮汐影响的泊位岸桥集成调度",
+          "degree": "硕士学位论文",
+          "year": "2023",
+          "placement": "无锡电信"
+        },
+        {
+          "student_name": "王昀昊",
+          "thesis_title": "容量着色旅行商问题及其求解算法研究",
+          "degree": "硕士学位论文",
+          "year": "2023",
+          "placement": "长沙交行"
+        },
+        {
+          "student_name": "朱占宸",
+          "thesis_title": "集装箱扭锁机器人操作关键技术研究",
+          "degree": "硕士学位论文",
+          "year": "2023",
+          "placement": "公务员，沈阳"
+        },
+        {
+          "student_name": "方操军",
+          "thesis_title": "钢筋套丝头尺寸偏差在线视觉测量技术研究",
+          "degree": "硕士学位论文",
+          "year": "2022",
+          "placement": "华为南京"
+        },
+        {
+          "student_name": "冯超",
+          "thesis_title": "云边端融合的机器人智能垃圾分拣技术研究",
+          "degree": "硕士学位论文",
+          "year": "2022",
+          "placement": "南京华泰证券"
+        },
+        {
+          "student_name": "王宜鼎",
+          "thesis_title": "基于着色旅行商问题的集装箱码头场桥调度方法研究",
+          "degree": "硕士学位论文",
+          "year": "2022",
+          "placement": "网易杭州"
+        },
+        {
+          "student_name": "相同同",
+          "thesis_title": "云-边架构下集装箱码头港机调度与仿真技术研究",
+          "degree": "硕士学位论文",
+          "year": "2022",
+          "placement": "阿里杭州"
+        },
+        {
+          "student_name": "张政",
+          "thesis_title": "云-边融合的四足机器人系统研究",
+          "degree": "硕士学位论文",
+          "year": "2022",
+          "placement": "华为南京"
+        },
+        {
+          "student_name": "徐向平",
+          "thesis_title": "广义着色旅行商问题及其算法研究",
+          "degree": "博士学位论文",
+          "year": "2021",
+          "placement": "东南大学博士后"
+        },
+        {
+          "student_name": "唐伟",
+          "thesis_title": "基于深度学习的视频异常事件检测算法研究",
+          "degree": "硕士学位论文",
+          "year": "2021",
+          "placement": "读博"
+        },
+        {
+          "student_name": "房子韩",
+          "thesis_title": "基于深度强化学习的机器人抓抛技术研究",
+          "degree": "硕士学位论文",
+          "year": "2021",
+          "placement": "阿里北京"
+        },
+        {
+          "student_name": "丁鹏辉",
+          "thesis_title": "云-边架构下的多搬运机器人调度方法研究",
+          "degree": "硕士学位论文",
+          "year": "2021",
+          "placement": "字节杭州"
+        },
+        {
+          "student_name": "吴东阳",
+          "thesis_title": "多旋翼飞行器的数字孪生系统设计",
+          "degree": "硕士学位论文",
+          "year": "2021",
+          "placement": "腾讯深圳"
+        },
+        {
+          "student_name": "邱厚瀚",
+          "thesis_title": "云移动机器人语义地图构建方法研究",
+          "degree": "硕士学位论文",
+          "year": "2021",
+          "placement": "名校优调生，无锡"
+        }
+      ],
+      "previous_theses": [
+        {
+          "student_name": "岳晓明",
+          "thesis_title": "基于深度学习的机器人垃圾分拣技术研究",
+          "degree": "硕士学位论文",
+          "year": "2020"
+        },
+        {
+          "student_name": "于瑞涛",
+          "thesis_title": "基于深度学习的小袋软包装机器人分拣方法研究",
+          "degree": "硕士学位论文",
+          "year": "2020"
+        },
+        {
+          "student_name": "贺笑",
+          "thesis_title": "基于深度强化学习的机器人随机抓取研究",
+          "degree": "硕士学位论文",
+          "year": "2020"
+        },
+        {
+          "student_name": "李呈怡",
+          "thesis_title": "基于3D视觉的无人超市移动机器人关键技术研究",
+          "degree": "硕士学位论文",
+          "year": "2019"
+        },
+        {
+          "student_name": "李思亮",
+          "thesis_title": "基于ROS与激光SLAM的自主导航移动机器人研究",
+          "degree": "硕士学位论文",
+          "year": "2019"
+        },
+        {
+          "student_name": "王东明",
+          "thesis_title": "基于着色旅行商问题的多搬运机器人的调度与协调的应用研究",
+          "degree": "硕士学位论文",
+          "year": "2019"
+        },
+        {
+          "student_name": "范琨",
+          "thesis_title": "机器人书法中笔画的细粒度书写控制与临摹方法研究",
+          "degree": "硕士学位论文",
+          "year": "2018"
+        },
+        {
+          "student_name": "唐静",
+          "thesis_title": "基于深度学习的结直肠病理辅助诊断方法研究",
+          "degree": "硕士学位论文",
+          "year": "2018"
+        },
+        {
+          "student_name": "李鑫",
+          "thesis_title": "用于机器采摘的高架草莓识别与分级方法的研究",
+          "degree": "硕士学位论文",
+          "year": "2018"
+        },
+        {
+          "student_name": "孟祥虎",
+          "thesis_title": "着色旅行商问题及其动态化研究",
+          "degree": "博士学位论文",
+          "year": "2017.10"
+        },
+        {
+          "student_name": "代星",
+          "thesis_title": "最大值最小化着色旅行商问题的研究及应用",
+          "degree": "硕士学位论文",
+          "year": "2017"
+        },
+        {
+          "student_name": "刘化轩",
+          "thesis_title": "高速高精度LED固晶目标识别定位系统的设计与实现",
+          "degree": "硕士学位论文",
+          "year": "2017"
+        },
+        {
+          "student_name": "肖宇",
+          "thesis_title": "四旋翼飞行器研制及其在无线传感网移动数据收集实验中的应用",
+          "degree": "硕士学位论文",
+          "year": "2016"
+        },
+        {
+          "student_name": "钱自强",
+          "thesis_title": "基于图像识别的机器人毛笔书法研究",
+          "degree": "硕士学位论文",
+          "year": "2016"
+        },
+        {
+          "student_name": "牛希望",
+          "thesis_title": "触摸屏移动终端的机器人智能测试方法研究",
+          "degree": "硕士学位论文",
+          "year": "2015"
+        },
+        {
+          "student_name": "余晓龙",
+          "thesis_title": "一种精准有限可达树及其在无界Petri网属性分析上的应用",
+          "degree": "硕士学位论文",
+          "year": "2015"
+        },
+        {
+          "student_name": "孙维",
+          "thesis_title": "基于触摸屏数据获取的机器人书法研究",
+          "degree": "硕士学位论文",
+          "university": "东南大学",
+          "year": "2014"
+        },
+        {
+          "student_name": "丁健",
+          "thesis_title": "基于排队网络队列模糊控制的AVS/RS区域性能均匀化指令调控方法",
+          "degree": "硕士学位论文",
+          "year": "2014"
+        },
+        {
+          "student_name": "孙启瑞",
+          "thesis_title": "着色旅行商问题的研究及应用",
+          "degree": "硕士学位论文",
+          "year": "2013"
+        },
+        {
+          "student_name": "续龙飞",
+          "thesis_title": "冗余度工业机器人运动规划及仿真研究",
+          "degree": "硕士学位论文",
+          "year": "2013"
+        },
+        {
+          "student_name": "郭涛",
+          "thesis_title": "资源配置系统监督控制重构的研究",
+          "degree": "硕士学位论文",
+          "year": "2012"
+        },
+        {
+          "student_name": "郭强",
+          "thesis_title": "数控五轴水刀切割质量偏差主动补偿方法的研究",
+          "degree": "硕士学位论文",
+          "year": "2012"
+        },
+        {
+          "student_name": "杜志强",
+          "thesis_title": "多横梁水切割加工过程协调与优化方法的研究",
+          "degree": "硕士学位论文",
+          "year": "2011"
+        }
+      ]
+    },
+    "granted_invention_patents": [
+      {
+        "title": "基于自编码器的无监督学习图像异常检测方法",
+        "application_date": "2020-8-26",
+        "country": "中国",
+        "patent_number": "ZL202010871751.6"
+      },
+      {
+        "title": "基于深度强化学习的机器人搅动-抓取组合方法",
+        "application_date": "2020-8-26",
+        "country": "中国",
+        "patent_number": "ZL202010870698.8"
+      },
+      {
+        "title": "港口集装箱自动装卸作业中的视觉识别、测距与定位方法",
+        "application_date": "2021-12-14",
+        "country": "中国",
+        "patent_number": "ZL202111525088.5"
+      },
+      {
+        "title": "一种机器人快速分拣货物的方法",
+        "application_date": "2022-9-17",
+        "country": "中国",
+        "patent_number": "ZL202010980636.2"
+      },
+      {
+        "title": "组合水切割过程的在线协调控制与Petri网验证方法",
+        "patent_number": "ZL201110435791.7",
+        "grant_date": "2014-02-26"
+      },
+      {
+        "title": "基于Petri网的多横梁水切割走刀路径优选方法",
+        "patent_number": "ZL201110435773.9",
+        "grant_date": "2014-02-26"
+      },
+      {
+        "title": "多横梁水切割系统切割过程的在线协调控制方法",
+        "patent_number": "ZL201110435793.6",
+        "grant_date": "2014-06-25"
+      },
+      {
+        "title": "多横梁式水射流切割系统的切割过程离线协调方法",
+        "patent_number": "ZL201110306168.1",
+        "grant_date": "2013-06-26"
+      }
+    ]
+  }
+}

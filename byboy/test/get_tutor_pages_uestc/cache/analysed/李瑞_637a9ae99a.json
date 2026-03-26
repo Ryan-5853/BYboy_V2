@@ -1,0 +1,134 @@
+{
+  "meta": {
+    "tutor_name_cn": "李瑞",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1161/4371.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1161/4371.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/6f2c7b531d33ef762f5128f498ad8430e92be3cb572c8e4b8b6c001a5412b375.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "query_name": "李瑞",
+    "source_url": "https://www.auto.uestc.edu.cn/info/1161/4371.htm",
+    "site_chrome": {
+      "fetched_from": "https://www.auto.uestc.edu.cn/info/1161/4371.htm",
+      "page_title": "师资队伍",
+      "breadcrumb": [
+        {
+          "text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "text": "L",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/L.htm"
+        },
+        {
+          "text": "正文",
+          "url": null
+        }
+      ],
+      "sidebar_navigation": [
+        {
+          "text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ]
+    },
+    "person_info": {
+      "name": "李瑞",
+      "image_url": "https://www.auto.uestc.edu.cn/__local/A/3C/DC/2A361B7C94926D7257A97AA14EB_54BC7EEE_7A28.jpg",
+      "highest_degree": "博士",
+      "contact": {
+        "phone": null,
+        "email": "lirui@uestc.edu.cn",
+        "personal_homepage": null
+      },
+      "position_title": "教授",
+      "supervisor_status": "博士生导师",
+      "research_team": null,
+      "main_research_directions": [
+        "多智能体协同",
+        "自主导航与自主控制",
+        "视觉SLAM",
+        "飞行器控制"
+      ],
+      "academic_titles_and_concurrent_posts": [
+        "IEEE Senior Member"
+      ],
+      "education_work_experience": [
+        "2004.10－2005.04 香港理工大学 访问学者",
+        "2006.09－2007.09 澳大利亚科廷大学 访问学者",
+        "2008.04－2010.08 电子科技大学 讲师",
+        "2011.09－2012.09 美国加州大学河滨分校 访问学者",
+        "2010.08-2021.05 电子科技大学自动化工程学院 副教授",
+        "2021.05至今 电子科技大学自动化工程学院 教授"
+      ],
+      "scientific_research": {
+        "overview": "主持完成国家自然科学基金项目及四川省应用基础研究项目各一项，在研国家自然科学基金面上项目一项。与航天八院、中国电子科技集团公司第五十四研究所等科研院所建立了深入合作关系，主持多项企业合作项目。以第一作者或通讯作者身份在《Automatica》、《Neurocomputing》等期刊上发表SCI收录的学术论文十余篇。出版学术专著一部，申请并授权多项国家发明专利。",
+        "projects": [
+          "国家自然科学基金项目 (完成一项)",
+          "四川省应用基础研究项目 (完成一项)",
+          "国家自然科学基金面上项目 (在研一项)",
+          "多项企业合作项目 (与航天八院、中国电子科技集团公司第五十四研究所等科研院所合作)"
+        ],
+        "publications": [
+          "SCI收录学术论文十余篇 (第一作者或通讯作者，期刊包括《Automatica》、《Neurocomputing》等)",
+          "学术专著一部"
+        ],
+        "patents": [
+          "多项国家发明专利 (申请并授权)"
+        ]
+      },
+      "teaching": {
+        "undergraduate_courses": [
+          "自动控制原理",
+          "综合课程设计"
+        ],
+        "graduate_courses": [
+          "最优化理论与应用",
+          "先进控制技术"
+        ],
+        "teaching_research_activities": [
+          "参与四川省精品课程《自动控制原理 》教材的编写",
+          "参与研究生课程《先进控制技术》教材的编写",
+          "任第六批本科教学骨干岗位"
+        ],
+        "teaching_awards": [
+          "本科教学优秀奖",
+          "研究生教学优秀奖",
+          "电子科技大学唐立新优秀教师教学奖"
+        ]
+      },
+      "admission_programs": {
+        "masters": [
+          "081100控制科学与工程",
+          "085400电子信息"
+        ],
+        "phd": []
+      }
+    }
+  }
+}

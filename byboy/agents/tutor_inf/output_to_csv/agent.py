@@ -284,14 +284,14 @@ class OutputToCsvAgent:
             if p.run_log_path is not None
             else (analysed_dir.parent / "cache" / "run_output_to_csv.jsonl").resolve()
         )
-        log.start("开始汇总 CSV", detail=f"analysed={analysed_dir}")
+        log.start("CSV 汇总流程", detail=f"analysed={analysed_dir}")
         if not analysed_dir.is_dir():
             raise FileNotFoundError(f"analysed_dir 不存在: {analysed_dir}")
 
         source_files = sorted(
             [x for x in analysed_dir.glob("*.json") if x.name.lower() != "manifest.json"]
         )
-        log.step("扫描 analysed JSON", detail=f"count={len(source_files)}")
+        log.step("CSV 抽取阶段", detail=f"待处理 JSON {len(source_files)} 个（不含 manifest）")
         existing_rows = _read_existing_rows(csv_path)
         rows = [dict(r) for r in existing_rows]
         by_key: dict[tuple[str, str, str], int] = {}
@@ -323,7 +323,7 @@ class OutputToCsvAgent:
         skipped_count = 0
 
         for i, fp in enumerate(source_files, start=1):
-            log.step("处理 analysed 文件", detail=f"{i}/{len(source_files)} {fp.name}")
+            log.step("CSV 抽取进度", detail=f"[{i}/{len(source_files)}] {fp.name}")
             raw_text = fp.read_text(encoding="utf-8", errors="replace")
             source_hash = _sha256_text(raw_text)
             row: dict[str, str] | None = None

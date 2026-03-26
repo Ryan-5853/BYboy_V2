@@ -1,0 +1,217 @@
+{
+  "meta": {
+    "tutor_name_cn": "李中国",
+    "request_url": "http://automation.seu.edu.cn/lzg/list.htm",
+    "declared_source_url": "http://automation.seu.edu.cn/lzg/list.htm",
+    "page_host": "automation.seu.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/34b3357420a21f8750e6000358d0c6bfabbe9997d21f2f2281c3f131a02e4254.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "source_url": "http://automation.seu.edu.cn/lzg/list.htm",
+    "target_professor_name": "李中国",
+    "site_chrome": {
+      "source_capture_url": "http://automation.seu.edu.cn/lzg/list.htm",
+      "header_image_url": "https://automation.seu.edu.cn/lzg/list.htm",
+      "visit_count_image_url": "https://automation.seu.edu.cn/_visitcount?siteId=338&type=2&columnId=66998"
+    },
+    "basic_info": {
+      "name": "李中国",
+      "titles_and_roles": [
+        "东南大学青年首席教授",
+        "国家级青年人才",
+        "博导",
+        "硕导"
+      ],
+      "introduction": "2017年获得曼彻斯特大学与吉林大学双本科学位，2021年获得曼彻斯特大学博士学位（校长奖学金、国家优秀自费留学生奖学金）。先后在伦敦大学学院、曼彻斯特大学担任助理教授，在拉夫堡大学从事博士后研究。研究聚焦于人工智能、学习控制、分布式优化及其在机器人系统中的应用。出版英文专著1部，在IEEE Transactions 和 Automatica 等期刊及会议上发表论文40余篇。",
+      "recruitment_information": {
+        "doctor_students_per_year": 2,
+        "master_students_per_year": 2,
+        "master_student_slots_2026": 2,
+        "invitation_to_join": "欢迎加入机电系统控制实验室（李世华教授团队）。"
+      },
+      "main_research_interests_summary": [
+        "异构机器人、具身智能感知、规划与控制",
+        "分布式多智能体系统优化、学习与控制",
+        "大语言模型服务资源分配及其在机器人领域的应用"
+      ]
+    },
+    "education_background": [
+      {
+        "years": "2017-2021",
+        "degree": "博士",
+        "institution": "曼彻斯特大学",
+        "advisor": "Zhengtao Ding (IEEE Fellow)"
+      },
+      {
+        "years": "2015-2017",
+        "degree": "本科",
+        "institution": "曼彻斯特大学"
+      },
+      {
+        "years": "2013-2017",
+        "degree": "本科",
+        "institution": "吉林大学",
+        "note": "与曼彻斯特大学2+2联合培养"
+      }
+    ],
+    "work_experience": [
+      {
+        "years": "2026至今",
+        "position": "青年首席教授",
+        "institution": "东南大学"
+      },
+      {
+        "years": "2023-2026",
+        "position": "助理教授",
+        "institution": "曼彻斯特大学",
+        "ranking": "QS: 34"
+      },
+      {
+        "years": "2022-2023",
+        "position": "助理教授",
+        "institution": "伦敦大学学院 (UCL)",
+        "ranking": "QS: 9"
+      },
+      {
+        "years": "2020-2022",
+        "position": "博后",
+        "institution": "拉夫堡大学",
+        "collaborating_advisors": [
+          "Wen-Hua Chen (IEEE Fellow)",
+          "杨俊 (IEEE Fellow)"
+        ]
+      }
+    ],
+    "academic_affiliations": {
+      "associate_editor_editorial_board_member": [
+        "Scientific Reports",
+        "Frontiers in Robotics and AI",
+        "Journal of Artificial Intelligence & Control Systems",
+        "Frontiers in Control Engineering",
+        "Drones and Autonomous Vehicles"
+      ],
+      "guest_editor": [
+        "Electronics — Special Issue: Control Systems for Autonomous Vehicles",
+        "Machines — Special Issue: Recent Progress in Multi-agent Systems",
+        "Machines — Special Issue: Advances in Autonomous Vehicles Dynamics and Control",
+        "Drones and Autonomous Vehicles — Special Issue: Distributed Theory in Applications of Autonomous Vehicles"
+      ],
+      "professional_committee_member": [
+        "IFAC Technical Committee on Control Design",
+        "IEEE-RAS Technical Committee on Multi-Robot Systems"
+      ],
+      "reviewer": [
+        "Science Robotics",
+        "Automatica",
+        "IEEE Transactions on Automatic Control",
+        "etc."
+      ]
+    },
+    "awards": [],
+    "taught_courses": {
+      "institution": "英国曼彻斯特大学",
+      "courses": [
+        {
+          "code": "MSc EEEN60252",
+          "title": "Nonlinear and Adaptive Control Systems",
+          "level": "MSc"
+        },
+        {
+          "code": "MSc EEEN60251",
+          "title": "Control Fundamentals and Process Automation",
+          "level": "MSc"
+        },
+        {
+          "code": "UG EEEN30231",
+          "title": "Control Systems II",
+          "level": "UG"
+        }
+      ]
+    },
+    "student_supervision": {
+      "supervision_philosophy": [
+        {
+          "title": "彼此尊重",
+          "description": "对于由学生主导并完成的创新工作，学生理所当然是第一作者。我的角色是提供方向指导和资源支持。"
+        },
+        {
+          "title": "共同成长，平等交流",
+          "description": "我相信好的想法来自开放的讨论。无论你是本科生还是博士生，在我这里都可以随时进行一对一的深入交流。希望能帮你建立起独立的科研思维、工程实现能力以及未来职业生涯的竞争力。"
+        }
+      ],
+      "phd_students": [
+        {
+          "name": "马涵柏",
+          "institution": "曼彻斯特大学",
+          "year_in_program": "博一",
+          "research_topic": "大语言模型服务中的资源分配问题",
+          "publications": "IEEE TII、Information Fusion（在审）"
+        },
+        {
+          "name": "李栋林",
+          "institution": "曼彻斯特大学",
+          "year_in_program": "博二",
+          "research_topic": "基于学习的分布式网络系统智能控制"
+        },
+        {
+          "name": "曹淳逸",
+          "institution": "曼彻斯特大学",
+          "year_in_program": "博二",
+          "research_topic": "双重控制系统理论与应用",
+          "publications": "CCC、IEEE TIE（在修）"
+        },
+        {
+          "name": "Christopher Blum",
+          "institution": "曼彻斯特大学",
+          "year_in_program": "博三",
+          "research_topic": "无人机安全飞行规划与控制",
+          "publications": "TRAS"
+        }
+      ]
+    },
+    "research_interests": [
+      "异构机器人、具身智能感知、规划与控制",
+      "分布式多智能体系统优化、学习与控制",
+      "大语言模型服务资源分配及其在机器人领域的应用"
+    ],
+    "research_projects": [],
+    "publications": {
+      "monographs": [
+        {
+          "authors": "Z. Li and Z. Ding",
+          "title": "Distributed Optimization and Learning: A Control-Theoretic Perspective",
+          "publisher": "Academic Press, Elsevier",
+          "pages": "286 pages",
+          "isbn": "9780443216367",
+          "year": "2024"
+        }
+      ],
+      "representative_papers": [
+        "01. [1] Z. Li, W.-H. Chen, J. Yang and C. Liu, “Cooperative active learning based dual control for exploration and exploitation in autonomous search,” IEEE Transactions on Neural Networks and Learning Systems, vol. 26, no. 2, pp. 2221-2233, 2025.",
+        "02. [2] Z. Li, W.-H. Chen, J. Yang and Y. Yan, “Dual control of exploration and exploitation for auto-optimization control with active learning,” IEEE Transactions on Automation Science and Engineering, vol. 22, pp. 2145-2158, 2025.",
+        "03. [3] Z. Li*, W.-H. Chen and J. Yang, “Concurrent active learning in autonomous airborne source search: Dual control for exploration and exploitation,” IEEE Transactions on Automatic Control, vol. 68, no. 5, pp. 3123-3130, 2023.",
+        "04. [4] Z. Li, W.-H. Chen, J. Yang and Y. Yan, “AID-RL: Active information-directed reinforcement learning for autonomous source seeking and estimation,” Neurocomputing, vol. 544, no. 126281, 2023.",
+        "05. [5] Z. Li, B. Liu and Z. Ding, “Consensus-based cooperative algorithms for training over distributed data sets using stochastic gradients,” IEEE Transactions on Neural Networks and Learning Systems, vol. 33, no. 10, pp. 5579-5589, 2022.",
+        "06. [6] Z. Li, Z. Dong, W.-H. Chen and Z. Ding, “On the game-theoretic analysis of distributed generative adversarial networks,” International Journal of Intelligent Systems, vol. 37, no. 1, pp. 516-534, 2022.",
+        "07. [7] Z. Li, Z. H. Li and Z. Ding, “Distributed generalized Nash equilibrium seeking and its application to femtocell networks,” IEEE Transactions on Cybernetics, vol. 52, no. 4, pp. 2505-2517, 2022.",
+        "08. [8] Z. Li, Z. Dong, Z. Liang and Z. Ding, “Surrogate-based distributed optimisation for expensive black-box functions,” Automatica, vol. 125, no. 109407, 2021.",
+        "09. [9] Z. Li and Z. Ding, “Distributed multiobjective optimization for network resource allocation of multiagent systems,” IEEE Transactions on Cybernetics, vol. 51, no. 12, pp. 5800-5810, 2021.",
+        "10. [10] Z. Li and Z. Ding, “Time-varying multi-objective optimisation over switching graphs via fixed-time consensus algorithms,” International Journal of Systems Science, vol. 51, no. 15, pp. 2793-2806, 2020.",
+        "11. [11] H. Ma, Z. Li*, J. Wang, J. Yang and Z. Ding, “A Transformer-initialized dual-population evolution for large-scale task scheduling in heterogeneous distributed systems,” IEEE Transactions on Industrial Informatics, Accepted, in press, 2025.",
+        "12. [12] Z. Liang, Z. Wang, Z. Li*, and J. Yang*, “Rigid geometry formation subject to visibility constraints using heading angle correlation based on leader-follower system,” IEEE Transactions on Automation Science and Engineering, vol. 22, pp. 15070-15082, 2025.",
+        "13. [13] Z. Liang, M. Shen, Z. Li* and J. Yang, “Model-free output feedback path following control for autonomous vehicle with prescribed performance independent of initial conditions,” IEEE/ASME Transactions on Mechatronics, vol. 29, no. 2, pp. 1076-1087, 2024.",
+        "14. [14] T. Gong, Z. Li, Y. Xu, Q. Wan and Z. Ding, “Privacy-preserving prescribed-time distributed time-varying optimization,” in Proceedings of the 30th International Conference on Automation and Computing (ICAC), 2025. [Best Theory Paper]"
+      ]
+    },
+    "external_links": [
+      {
+        "anchor_text": "Google Scholar",
+        "url": "https://scholar.google.com/citations?user=nEB1dJ0AAAAJ&hl=en"
+      }
+    ]
+  }
+}

@@ -1,0 +1,341 @@
+{
+  "workspace_dir": "byboy/test/get_tutor_pages_uestc",
+  "state_path": "byboy/test/get_tutor_pages_uestc/cache/state.json",
+  "analysed_dir": "byboy/test/get_tutor_pages_uestc/cache/analysed",
+  "success_count": 51,
+  "skipped_count": 6,
+  "success_items": [
+    {
+      "url": "http://faculty.uestc.edu.cn/cxi/zh_CN/index.htm",
+      "tutor_name_cn": "谢川",
+      "cleaned_markdown": "byboy/test/get_tutor_pages_uestc/cache/cleaned/00230_http_faculty_uestc_edu_cn_cxi_zh_CN_index_htm_cleaned.md",
+      "analysed_json": "byboy/test/get_tutor_pages_uestc/cache/analysed/谢川_dc5e209c8c.json"
+    },
+    {
+      "url": "http://faculty.uestc.edu.cn/longyue/zh_CN/index.htm",
+      "tutor_name_cn": "龙跃",
+      "cleaned_markdown": "byboy/test/get_tutor_pages_uestc/cache/cleaned/00249_http_faculty_uestc_edu_cn_longyue_zh_CN_index_htm_cleaned.md",
+      "analysed_json": "byboy/test/get_tutor_pages_uestc/cache/analysed/龙跃_461556b67c.json"
+    },
+    {
+      "url": "http://faculty.uestc.edu.cn/zhangjiusi/zh_CN/index.htm",
+      "tutor_name_cn": "张九思",
+      "cleaned_markdown": "byboy/test/get_tutor_pages_uestc/cache/cleaned/00264_http_faculty_uestc_edu_cn_zhangjiusi_zh_CN_index_htm_cleaned.md",
+      "analysed_json": "byboy/test/get_tutor_pages_uestc/cache/analysed/张九思_aa9538b04a.json"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/bidongjie/zh_CN/index/169592/list/index.htm",
+      "tutor_name_cn": "毕东杰",
+      "cleaned_markdown": "byboy/test/get_tutor_pages_uestc/cache/cleaned/00258_https_faculty_uestc_edu_cn_bidongjie_zh_CN_index_169592_list_index_htm_cleaned.md",
+      "analysed_json": "byboy/test/get_tutor_pages_uestc/cache/analysed/毕东杰_140e9f3193.json"
+    },
+    {
+      "url": "http://faculty.uestc.edu.cn/gaobin/zh_CN/lwcg/153392/list/index.htm",
+      "tutor_name_cn": "高斌",
+      "cleaned_markdown": "byboy/test/get_tutor_pages_uestc/cache/cleaned/00279_http_faculty_uestc_edu_cn_gaobin_zh_CN_lwcg_153392_list_index_htm_cleaned.md",
+      "analysed_json": "byboy/test/get_tutor_pages_uestc/cache/analysed/高斌_147387f4f1.json"
+    },
+    {
+      "url": "http://faculty.uestc.edu.cn/tianlulu1/zh_CN/index.htm",
+      "tutor_name_cn": "田露露",
+      "cleaned_markdown": "byboy/test/get_tutor_pages_uestc/cache/cleaned/00231_http_faculty_uestc_edu_cn_tianlulu1_zh_CN_index_htm_cleaned.md",
+      "analysed_json": "byboy/test/get_tutor_pages_uestc/cache/analysed/田露露_05e0461c71.json"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/chengjunguo/zh_CN/index.htm",
+      "tutor_name_cn": "郭承军",
+      "cleaned_markdown": "byboy/test/get_tutor_pages_uestc/cache/cleaned/00226_https_faculty_uestc_edu_cn_chengjunguo_zh_CN_index_htm_cleaned.md",
+      "analysed_json": "byboy/test/get_tutor_pages_uestc/cache/analysed/郭承军_d195332275.json"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/chencong1/zh_CN/index.htm",
+      "tutor_name_cn": "陈聪",
+      "cleaned_markdown": "byboy/test/get_tutor_pages_uestc/cache/cleaned/00262_https_faculty_uestc_edu_cn_chencong1_zh_CN_index_htm_cleaned.md",
+      "analysed_json": "byboy/test/get_tutor_pages_uestc/cache/analysed/陈聪_ebe47cb9e9.json"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/liyanjun/zh_CN/index.htm",
+      "tutor_name_cn": "李焱骏",
+      "cleaned_markdown": "byboy/test/get_tutor_pages_uestc/cache/cleaned/00212_https_faculty_uestc_edu_cn_liyanjun_zh_CN_index_htm_cleaned.md",
+      "analysed_json": "byboy/test/get_tutor_pages_uestc/cache/analysed/李焱骏_674148d39d.json"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/pengzhinan1/zh_CN/index.htm",
+      "tutor_name_cn": "彭知南",
+      "cleaned_markdown": "byboy/test/get_tutor_pages_uestc/cache/cleaned/00206_https_faculty_uestc_edu_cn_pengzhinan1_zh_CN_index_htm_cleaned.md",
+      "analysed_json": "byboy/test/get_tutor_pages_uestc/cache/analysed/彭知南_6ef56cf3e4.json"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/liyanjun/zh_CN/kyxm/142481/list/index.htm",
+      "tutor_name_cn": "李焱骏",
+      "cleaned_markdown": "byboy/test/get_tutor_pages_uestc/cache/cleaned/00209_https_faculty_uestc_edu_cn_liyanjun_zh_CN_kyxm_142481_list_index_htm_cleaned.md",
+      "analysed_json": "byboy/test/get_tutor_pages_uestc/cache/analysed/李焱骏_8c7a978661.json"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/dhzhou/zh_CN/",
+      "tutor_name_cn": "周德洪",
+      "cleaned_markdown": "byboy/test/get_tutor_pages_uestc/cache/cleaned/00252_https_faculty_uestc_edu_cn_dhzhou_zh_CN_cleaned.md",
+      "analysed_json": "byboy/test/get_tutor_pages_uestc/cache/analysed/周德洪_80847063f5.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1091/4145.htm",
+      "tutor_name_cn": "陈勇",
+      "cleaned_markdown": "byboy/test/get_tutor_pages_uestc/cache/cleaned/00233_https_www_auto_uestc_edu_cn_info_1091_4145_htm_cleaned.md",
+      "analysed_json": "byboy/test/get_tutor_pages_uestc/cache/analysed/陈勇_2e8f70d1c2.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1091/4046.htm",
+      "tutor_name_cn": "白利兵",
+      "cleaned_markdown": "byboy/test/get_tutor_pages_uestc/cache/cleaned/00219_https_www_auto_uestc_edu_cn_info_1091_4046_htm_cleaned.md",
+      "analysed_json": "byboy/test/get_tutor_pages_uestc/cache/analysed/白利兵_9a39b75521.json"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/wangli2/zh_CN/index.htm",
+      "tutor_name_cn": "王锂",
+      "cleaned_markdown": "byboy/test/get_tutor_pages_uestc/cache/cleaned/00267_https_faculty_uestc_edu_cn_wangli2_zh_CN_index_htm_cleaned.md",
+      "analysed_json": "byboy/test/get_tutor_pages_uestc/cache/analysed/王锂_2ae7b5d9af.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1091/4147.htm",
+      "tutor_name_cn": "陈凯",
+      "cleaned_markdown": "byboy/test/get_tutor_pages_uestc/cache/cleaned/00281_https_www_auto_uestc_edu_cn_info_1091_4147_htm_cleaned.md",
+      "analysed_json": "byboy/test/get_tutor_pages_uestc/cache/analysed/陈凯_c48e19eb30.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1091/4187.htm",
+      "tutor_name_cn": "曾浩",
+      "cleaned_markdown": "byboy/test/get_tutor_pages_uestc/cache/cleaned/00222_https_www_auto_uestc_edu_cn_info_1091_4187_htm_cleaned.md",
+      "analysed_json": "byboy/test/get_tutor_pages_uestc/cache/analysed/曾浩_83cd397e19.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1091/7726.htm",
+      "tutor_name_cn": "陈云坪",
+      "cleaned_markdown": "byboy/test/get_tutor_pages_uestc/cache/cleaned/00215_https_www_auto_uestc_edu_cn_info_1091_7726_htm_cleaned.md",
+      "analysed_json": "byboy/test/get_tutor_pages_uestc/cache/analysed/陈云坪_945c46720f.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1092/4274.htm",
+      "tutor_name_cn": "陈章勇",
+      "cleaned_markdown": "byboy/test/get_tutor_pages_uestc/cache/cleaned/00218_https_www_auto_uestc_edu_cn_info_1092_4274_htm_cleaned.md",
+      "analysed_json": "byboy/test/get_tutor_pages_uestc/cache/analysed/陈章勇_4ad60e2904.json"
+    },
+    {
+      "url": "https://faculty.uestc.edu.cn/shenzewei1/zh_CN/index.htm",
+      "tutor_name_cn": "沈泽微",
+      "cleaned_markdown": "byboy/test/get_tutor_pages_uestc/cache/cleaned/00271_https_faculty_uestc_edu_cn_shenzewei1_zh_CN_index_htm_cleaned.md",
+      "analysed_json": "byboy/test/get_tutor_pages_uestc/cache/analysed/沈泽微_028058a282.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1092/5489.htm",
+      "tutor_name_cn": "陈路锋",
+      "cleaned_markdown": "byboy/test/get_tutor_pages_uestc/cache/cleaned/00229_https_www_auto_uestc_edu_cn_info_1092_5489_htm_cleaned.md",
+      "analysed_json": "byboy/test/get_tutor_pages_uestc/cache/analysed/陈路锋_74a82e6872.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1091/7674.htm",
+      "tutor_name_cn": "毕东杰",
+      "cleaned_markdown": "byboy/test/get_tutor_pages_uestc/cache/cleaned/00217_https_www_auto_uestc_edu_cn_info_1091_7674_htm_cleaned.md",
+      "analysed_json": "byboy/test/get_tutor_pages_uestc/cache/analysed/毕东杰_0e5fd86ec0.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1092/5492.htm",
+      "tutor_name_cn": "陈聪",
+      "cleaned_markdown": "byboy/test/get_tutor_pages_uestc/cache/cleaned/00270_https_www_auto_uestc_edu_cn_info_1092_5492_htm_cleaned.md",
+      "analysed_json": "byboy/test/get_tutor_pages_uestc/cache/analysed/陈聪_acb894da1e.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1092/4276.htm",
+      "tutor_name_cn": "曾勇",
+      "cleaned_markdown": "byboy/test/get_tutor_pages_uestc/cache/cleaned/00248_https_www_auto_uestc_edu_cn_info_1092_4276_htm_cleaned.md",
+      "analysed_json": "byboy/test/get_tutor_pages_uestc/cache/analysed/曾勇_44dab79115.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1175/4303.htm",
+      "tutor_name_cn": "曾浩",
+      "cleaned_markdown": "byboy/test/get_tutor_pages_uestc/cache/cleaned/00176_https_www_auto_uestc_edu_cn_info_1175_4303_htm_cleaned.md",
+      "analysed_json": "byboy/test/get_tutor_pages_uestc/cache/analysed/曾浩_264ad4cfa2.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1175/4388.htm",
+      "tutor_name_cn": "周秀云",
+      "cleaned_markdown": "byboy/test/get_tutor_pages_uestc/cache/cleaned/00004_https_www_auto_uestc_edu_cn_info_1175_4388_htm_cleaned.md",
+      "analysed_json": "byboy/test/get_tutor_pages_uestc/cache/analysed/周秀云_3c65639745.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1174/4114.htm",
+      "tutor_name_cn": "杨红宇",
+      "cleaned_markdown": "byboy/test/get_tutor_pages_uestc/cache/cleaned/00170_https_www_auto_uestc_edu_cn_info_1174_4114_htm_cleaned.md",
+      "analysed_json": "byboy/test/get_tutor_pages_uestc/cache/analysed/杨红宇_2f584e3c47.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1175/4392.htm",
+      "tutor_name_cn": "郑亚莉",
+      "cleaned_markdown": "byboy/test/get_tutor_pages_uestc/cache/cleaned/00168_https_www_auto_uestc_edu_cn_info_1175_4392_htm_cleaned.md",
+      "analysed_json": "byboy/test/get_tutor_pages_uestc/cache/analysed/郑亚莉_eb33468bfa.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1175/4378.htm",
+      "tutor_name_cn": "周权",
+      "cleaned_markdown": "byboy/test/get_tutor_pages_uestc/cache/cleaned/00050_https_www_auto_uestc_edu_cn_info_1175_4378_htm_cleaned.md",
+      "analysed_json": "byboy/test/get_tutor_pages_uestc/cache/analysed/周权_13990a3970.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1175/4394.htm",
+      "tutor_name_cn": "郑文锋",
+      "cleaned_markdown": "byboy/test/get_tutor_pages_uestc/cache/cleaned/00112_https_www_auto_uestc_edu_cn_info_1175_4394_htm_cleaned.md",
+      "analysed_json": "byboy/test/get_tutor_pages_uestc/cache/analysed/郑文锋_7b82a1e8fc.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1175/4390.htm",
+      "tutor_name_cn": "周小佳",
+      "cleaned_markdown": "byboy/test/get_tutor_pages_uestc/cache/cleaned/00108_https_www_auto_uestc_edu_cn_info_1175_4390_htm_cleaned.md",
+      "analysed_json": "byboy/test/get_tutor_pages_uestc/cache/analysed/周小佳_59e62bc417.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1175/4398.htm",
+      "tutor_name_cn": "张治国",
+      "cleaned_markdown": "byboy/test/get_tutor_pages_uestc/cache/cleaned/00160_https_www_auto_uestc_edu_cn_info_1175_4398_htm_cleaned.md",
+      "analysed_json": "byboy/test/get_tutor_pages_uestc/cache/analysed/张治国_6460702c31.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1175/4531.htm",
+      "tutor_name_cn": "曾勇",
+      "cleaned_markdown": "byboy/test/get_tutor_pages_uestc/cache/cleaned/00169_https_www_auto_uestc_edu_cn_info_1175_4531_htm_cleaned.md",
+      "analysed_json": "byboy/test/get_tutor_pages_uestc/cache/analysed/曾勇_a836b99c51.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1175/4400.htm",
+      "tutor_name_cn": "张伟",
+      "cleaned_markdown": "byboy/test/get_tutor_pages_uestc/cache/cleaned/00009_https_www_auto_uestc_edu_cn_info_1175_4400_htm_cleaned.md",
+      "analysed_json": "byboy/test/get_tutor_pages_uestc/cache/analysed/张伟_b9aec97390.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1175/4402.htm",
+      "tutor_name_cn": "张朋",
+      "cleaned_markdown": "byboy/test/get_tutor_pages_uestc/cache/cleaned/00091_https_www_auto_uestc_edu_cn_info_1175_4402_htm_cleaned.md",
+      "analysed_json": "byboy/test/get_tutor_pages_uestc/cache/analysed/张朋_72e12d0c6a.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1175/4403.htm",
+      "tutor_name_cn": "张杰",
+      "cleaned_markdown": "byboy/test/get_tutor_pages_uestc/cache/cleaned/00140_https_www_auto_uestc_edu_cn_info_1175_4403_htm_cleaned.md",
+      "analysed_json": "byboy/test/get_tutor_pages_uestc/cache/analysed/张杰_325d1bb48b.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1175/7213.htm",
+      "tutor_name_cn": "赵万兵",
+      "cleaned_markdown": "byboy/test/get_tutor_pages_uestc/cache/cleaned/00124_https_www_auto_uestc_edu_cn_info_1175_7213_htm_cleaned.md",
+      "analysed_json": "byboy/test/get_tutor_pages_uestc/cache/analysed/赵万兵_5bfd0d2a0d.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1175/7477.htm",
+      "tutor_name_cn": "张静婷",
+      "cleaned_markdown": "byboy/test/get_tutor_pages_uestc/cache/cleaned/00131_https_www_auto_uestc_edu_cn_info_1175_7477_htm_cleaned.md",
+      "analysed_json": "byboy/test/get_tutor_pages_uestc/cache/analysed/张静婷_0cb7fbd14f.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1175/7913.htm",
+      "tutor_name_cn": "赵禹",
+      "cleaned_markdown": "byboy/test/get_tutor_pages_uestc/cache/cleaned/00153_https_www_auto_uestc_edu_cn_info_1175_7913_htm_cleaned.md",
+      "analysed_json": "byboy/test/get_tutor_pages_uestc/cache/analysed/赵禹_2ba094d416.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/info/1175/7542.htm",
+      "tutor_name_cn": "张九思",
+      "cleaned_markdown": "byboy/test/get_tutor_pages_uestc/cache/cleaned/00075_https_www_auto_uestc_edu_cn_info_1175_7542_htm_cleaned.md",
+      "analysed_json": "byboy/test/get_tutor_pages_uestc/cache/analysed/张九思_0e88fe91a4.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/R.htm",
+      "tutor_name_cn": "汝改革",
+      "cleaned_markdown": "byboy/test/get_tutor_pages_uestc/cache/cleaned/00278_https_www_auto_uestc_edu_cn_szdw_jsmlzly_R_htm_cleaned.md",
+      "analysed_json": "byboy/test/get_tutor_pages_uestc/cache/analysed/汝改革_152861bbe0.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm",
+      "tutor_name_cn": "白利兵",
+      "cleaned_markdown": "byboy/test/get_tutor_pages_uestc/cache/cleaned/00026_https_www_auto_uestc_edu_cn_szdw_jsml_zgj_htm_cleaned.md",
+      "analysed_json": "byboy/test/get_tutor_pages_uestc/cache/analysed/白利兵_c75534edae.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/S.htm",
+      "tutor_name_cn": "盛瀚民",
+      "cleaned_markdown": "byboy/test/get_tutor_pages_uestc/cache/cleaned/00223_https_www_auto_uestc_edu_cn_szdw_jsmlzly_S_htm_cleaned.md",
+      "analysed_json": "byboy/test/get_tutor_pages_uestc/cache/analysed/盛瀚民_58cbc7ef8d.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/T.htm",
+      "tutor_name_cn": "谭峰",
+      "cleaned_markdown": "byboy/test/get_tutor_pages_uestc/cache/cleaned/00245_https_www_auto_uestc_edu_cn_szdw_jsmlzly_T_htm_cleaned.md",
+      "analysed_json": "byboy/test/get_tutor_pages_uestc/cache/analysed/谭峰_cd99f43a39.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/X.htm",
+      "tutor_name_cn": "夏侯士戟",
+      "cleaned_markdown": "byboy/test/get_tutor_pages_uestc/cache/cleaned/00268_https_www_auto_uestc_edu_cn_szdw_jsmlzly_X_htm_cleaned.md",
+      "analysed_json": "byboy/test/get_tutor_pages_uestc/cache/analysed/夏侯士戟_0d7ac5e7b8.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/Y.htm",
+      "tutor_name_cn": "殷春",
+      "cleaned_markdown": "byboy/test/get_tutor_pages_uestc/cache/cleaned/00280_https_www_auto_uestc_edu_cn_szdw_jsmlzly_Y_htm_cleaned.md",
+      "analysed_json": "byboy/test/get_tutor_pages_uestc/cache/analysed/殷春_c0f60167dd.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/Z.htm",
+      "tutor_name_cn": "曾浩",
+      "cleaned_markdown": "byboy/test/get_tutor_pages_uestc/cache/cleaned/00207_https_www_auto_uestc_edu_cn_szdw_jsmlzly_Z_htm_cleaned.md",
+      "analysed_json": "byboy/test/get_tutor_pages_uestc/cache/analysed/曾浩_71435be48a.json"
+    },
+    {
+      "url": "https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/dsgrjj/21363",
+      "tutor_name_cn": "熊文军",
+      "cleaned_markdown": "byboy/test/get_tutor_pages_uestc/cache/cleaned/00225_https_yjsjy_uestc_edu_cn_gmis_jcsjgl_dsfc_dsgrjj_21363_cleaned.md",
+      "analysed_json": "byboy/test/get_tutor_pages_uestc/cache/analysed/熊文军_e174017552.json"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/W.htm",
+      "tutor_name_cn": "王成栋",
+      "cleaned_markdown": "byboy/test/get_tutor_pages_uestc/cache/cleaned/00265_https_www_auto_uestc_edu_cn_szdw_jsmlzly_W_htm_cleaned.md",
+      "analysed_json": "byboy/test/get_tutor_pages_uestc/cache/analysed/王成栋_868d8b34ff.json"
+    },
+    {
+      "url": "https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/dsgrjj/10970",
+      "tutor_name_cn": "周雪",
+      "cleaned_markdown": "byboy/test/get_tutor_pages_uestc/cache/cleaned/00228_https_yjsjy_uestc_edu_cn_gmis_jcsjgl_dsfc_dsgrjj_10970_cleaned.md",
+      "analysed_json": "byboy/test/get_tutor_pages_uestc/cache/analysed/周雪_428331de5e.json"
+    },
+    {
+      "url": "https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/dsgrjj/12531",
+      "tutor_name_cn": "李西峰",
+      "cleaned_markdown": "byboy/test/get_tutor_pages_uestc/cache/cleaned/00221_https_yjsjy_uestc_edu_cn_gmis_jcsjgl_dsfc_dsgrjj_12531_cleaned.md",
+      "analysed_json": "byboy/test/get_tutor_pages_uestc/cache/analysed/李西峰_a097648602.json"
+    }
+  ],
+  "skipped_items": [
+    {
+      "url": "https://faculty.uestc.edu.cn/huangwei123/zh_CN/index.htm",
+      "reason": "cannot_resolve_unique_name"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/V.htm",
+      "reason": "cannot_resolve_unique_name"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/U.htm",
+      "reason": "cannot_resolve_unique_name"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/xygk/sjxx.htm",
+      "reason": "cannot_resolve_unique_name"
+    },
+    {
+      "url": "https://www.auto.uestc.edu.cn/xygk/yzxx.htm",
+      "reason": "cannot_resolve_unique_name"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Cong-Yin",
+      "reason": "cannot_resolve_unique_name"
+    }
+  ]
+}

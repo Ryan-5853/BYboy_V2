@@ -1,0 +1,161 @@
+{
+  "meta": {
+    "tutor_name_cn": "田书林",
+    "request_url": "https://www.auto.uestc.edu.cn/info/1169/4329.htm",
+    "declared_source_url": "https://www.auto.uestc.edu.cn/info/1169/4329.htm",
+    "page_host": "www.auto.uestc.edu.cn",
+    "markdown_cache_path": "/home/ryan/BYboy_V2/byboy/agents/tutor_inf/tutor_analyse/cache/637eb2571dfb00301dc39f7339643e2577495e53b4d5658bad43a9581b7f4d6d.md",
+    "markdown_source": "local_file",
+    "suspect_no_text_info": false,
+    "suspect_no_text_info_reason": null
+  },
+  "suspect_no_text_info": false,
+  "extracted": {
+    "site_chrome": {
+      "source_url": "https://www.auto.uestc.edu.cn/info/1169/4329.htm",
+      "breadcrumbs": [
+        {
+          "anchor_text": "首页",
+          "url": "https://www.auto.uestc.edu.cn/index.htm"
+        },
+        {
+          "anchor_text": "师资队伍",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml/zgj.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "T",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly/T.htm"
+        },
+        "正文"
+      ],
+      "navigation_menu": [
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        },
+        {
+          "anchor_text": "教师名录",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsml.htm"
+        },
+        {
+          "anchor_text": "教师名录总览页",
+          "url": "https://www.auto.uestc.edu.cn/szdw/jsmlzly.htm"
+        }
+      ],
+      "page_titles": [
+        "师资队伍",
+        "师资队伍"
+      ],
+      "profile_picture_url": "https://www.auto.uestc.edu.cn/__local/A/78/AE/2145242CEA01F34BF909DBB8B89_86160E32_82975.png"
+    },
+    "personal_info": {
+      "name": "田书林",
+      "highest_degree": "博士",
+      "contact_phone": null,
+      "title_and_position": "教授",
+      "email": "shulin@uestc.edu.cn",
+      "supervisor_status": "博士导师",
+      "personal_homepage": null,
+      "research_team": "测试技术与仪器研究所"
+    },
+    "research_directions": [
+      "宽带时域测试技术与仪器",
+      "电子系统综合测试诊断与预测",
+      "电子系统可测性设计"
+    ],
+    "academic_roles_and_honors": [
+      "四川省有突出贡献的专家",
+      "享受国务院政政府津贴专家",
+      "新世纪优秀人才计划",
+      "国家技术发明二等奖获得者",
+      "四川省学术和技术带头人",
+      "电子测试技术与仪器教育部工程研究中心主任",
+      "国家电子测量仪器标准化技术委员会委员"
+    ],
+    "education_and_work_experience": [
+      {
+        "time_period": "1991 年3 月-至今",
+        "description": "在电子科技大学自动化工程学院从事教学和科研工作"
+      },
+      {
+        "time_period": "1999 年",
+        "description": "被聘为副教授"
+      },
+      {
+        "time_period": "2004 年",
+        "description": "被聘为教授"
+      },
+      {
+        "time_period": "2005 年",
+        "description": "被聘为博士研究生导师"
+      },
+      {
+        "time_period": "2006 年-2017年",
+        "description": "电子科技大学自动化工程学院，院长"
+      },
+      {
+        "time_period": "2007 年-至今",
+        "description": "教育部电子测试技术与仪器工程研究中心，主任"
+      }
+    ],
+    "scientific_research": {
+      "research_focus_summary": "长期从事宽带时域测试技术与仪器、电子系统综合测试诊断与预测、电子系统可测性设计方面的研究工作。",
+      "projects": [
+        "主持国家自然科学基金重点、国家级基础科研、博士点基金等国家级科研项目20余项。"
+      ],
+      "awards": [
+        "获国家技术发明二等奖一项（排名1）",
+        "获省部级科技进步奖11项，其中一等奖3项"
+      ],
+      "standards": [
+        "主持和参与制定电子仪器国家标准3项"
+      ],
+      "publications": [
+        "发表SCI/EI检索论文60余篇"
+      ],
+      "patents": [
+        "获授权国家发明专利25项"
+      ],
+      "books_and_monographs": [
+        "出版《电子测量技术》等国家规划教材和专著共3部"
+      ]
+    },
+    "teaching": {
+      "undergraduate_courses": [
+        "电子测量原理与测试系统",
+        "电子信息学的“惑”与“悟”"
+      ],
+      "postgraduate_courses": [
+        "计量方法与误差理论",
+        "学科前沿知识专题讲座"
+      ],
+      "teaching_roles": [
+        "学院本科教学指导委员会委员"
+      ],
+      "teaching_research_projects": [
+        "参与《电子测量原理与测试系统》探究式小班课程",
+        "参与《教学方法与考核方法改革示范课“电子测量原理与测试系统”》",
+        "参与《电子测量原理》在线开放课程"
+      ]
+    },
+    "admissions": {
+      "master_programs": [
+        "080400仪器科学与技术",
+        "085400电子信息"
+      ],
+      "phd_programs": [
+        "080400仪器科学与技术",
+        "085400电子信息",
+        "086100交通运输"
+      ]
+    }
+  }
+}
